@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban selbri'
+prev: chapter04
+prevTitle: 'Prev: Chapter 4'
+next: chapter06
+nextTitle: 'Next: Chapter 6'
 ---
-
-Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                       |
-| -----------------------------------------: | :------------------------------------ |
-| [Prev: Chapter 4](chapter04) | [Next: Chapter 6](chapter06) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# “Pretty Little Girls' School”: The Structure Of Lojban selbri
 
 ![The picture for chapter 5](../assets/chapter-selbri.gif)
 

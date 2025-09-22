@@ -19,19 +19,13 @@ Let us consider John and Sam and three statements about them:
 
 John is the father of Sam.
 
-
-
 ### Example 2.2.
 
 John hits Sam.
 
-
-
 ### Example 2.3.
 
 John is taller than Sam.
-
-
 
 These examples all describe relationships between John and Sam. However, in English, we use the noun “father” to describe a static relationship in [Example 2.1](chapter02#example-random-id-qIuj "Example 2.1. "), the verb “hits” to describe an active relationship in [Example 2.2](chapter02#example-random-id-qiuQ "Example 2.2. "), and the adjective “taller” to describe an attributive relationship in [Example 2.3](chapter02#example-random-id-qIuS "Example 2.3. "). In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a “predication”; in Lojban it is called a _[bridi](glossary#valsi-bridi)_, and the central part of speech is the _[selbri](glossary#valsi-selbri)_. Logicians refer to the things thus related as “arguments”, while Lojbanists call them _[sumti](glossary#valsi-sumti)_. These Lojban terms will be used for the rest of the book.
 
@@ -43,23 +37,17 @@ In a relationship, there are a definite number of things being related. In Engli
 
 John gives Sam the book.
 
-
-
 and
 
 ### Example 2.5.
 
 Sam gives John the book.
 
-
-
 mean two different things because the relative positions of “John” and “Sam” have been switched. Further,
 
 ### Example 2.6.
 
 The book gives John Sam.
-
-
 
 seems strange to us merely because the places are being filled by unorthodox arguments. The relationship expressed by “give” has not changed.
 
@@ -144,23 +132,17 @@ Let's look at a simple Lojban bridi. The place structure of the gismu _[tavla](g
 
 x1 talks to x2 about x3 in language x4
 
-
-
 where the “x” es with following numbers represent the various arguments that could be inserted at the given positions in the English sentence. For example:
 
 ### Example 2.8.
 
 John talks to Sam about engineering in Lojban.
 
-
-
 has “John” in the x1 place, “Sam” in the x2 place, “engineering” in the x3 place, and “Lojban” in the x4 place, and could be paraphrased:
 
 ### Example 2.9.
 
 Talking is going on, with speaker John and listener Sam and subject matter engineering and language Lojban.
-
-
 
 The Lojban bridi corresponding to [Example 2.7](chapter02#example-random-id-5Lis "Example 2.7. ") will have the form
 
@@ -169,8 +151,6 @@ The Lojban bridi corresponding to [Example 2.7](chapter02#example-random-id-5Lis
 |    |       |       |    |    |    |
 | -- | ----- | ----- | -- | -- | -- |
 | x1 | \[cu] | tavla | x2 | x3 | x4 |
-
-
 
 The word _[cu](glossary#valsi-cu)_ serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.
 
@@ -184,8 +164,6 @@ The word _[cu](glossary#valsi-cu)_ serves as a separator between any preceding s
 | ----------------------------------------------- |
 | I talk to you about something in some language. |
 
-
-
 ### Example 2.12.
 
 |    |       |    |    |      |
@@ -196,8 +174,6 @@ The word _[cu](glossary#valsi-cu)_ serves as a separator between any preceding s
 | ---------------------------------------------- |
 | You talk to me about that thing in a language. |
 
-
-
 ### Example 2.13.
 
 |    |       |      |    |    |
@@ -207,8 +183,6 @@ The word _[cu](glossary#valsi-cu)_ serves as a separator between any preceding s
 |                                                             |
 | ----------------------------------------------------------- |
 | I talk to someone about that thing yonder in this language. |
-
-
 
 ([Example 2.13](chapter02#example-random-id-k03n "Example 2.13. ") is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)
 
@@ -224,8 +198,6 @@ When there are one or more occurrences of the cmavo _[zo'e](glossary#valsi-zohe)
 | ------------------------------------------------- |
 | I talk to you (about something in some language). |
 
-
-
 ### Example 2.15.
 
 |    |       |    |    |
@@ -235,8 +207,6 @@ When there are one or more occurrences of the cmavo _[zo'e](glossary#valsi-zohe)
 |                                                     |
 | --------------------------------------------------- |
 | You talk to me about that thing (in some language). |
-
-
 
 Note that [Example 2.13](chapter02#example-random-id-k03n "Example 2.13. ") is not subject to ellipsis by this direct method, as the _[zo'e](glossary#valsi-zohe)_ in it is not at the end of the bridi.
 
@@ -257,8 +227,6 @@ Consider the sentence
 | I sell this-thing/these-things to that-buyer/those-buyers. |
 | (the price is obvious or unimportant)                      |
 
-
-
 [Example 2.16](chapter02#example-random-id-k068 "Example 2.16. ") has one sumti (the x1) before the selbri. It is also possible to put more than one sumti before the selbri, without changing the order of sumti:
 
 ### Example 2.17.
@@ -274,8 +242,6 @@ Consider the sentence
 | (translates as stilted or poetic English) |
 | I this thing do sell to that buyer.       |
 
-
-
 ### Example 2.18.
 
 |           |               |          |       |       |
@@ -288,8 +254,6 @@ Consider the sentence
 | ----------------------------------------- |
 | (translates as stilted or poetic English) |
 | I this thing to that buyer do sell.       |
-
-
 
 [Example 2.16](chapter02#example-random-id-k068 "Example 2.16. ") through [Example 2.18](chapter02#example-random-id-k0Bm "Example 2.18. ") mean the same thing. Usually, placing more than one sumti before the selbri is done for style or for emphasis on the sumti that are out-of-place from their normal position. (Native speakers of languages other than English may prefer such orders.)
 
@@ -308,8 +272,6 @@ If there are no sumti before the selbri, then it is understood that the x1 sumti
 | That is beautiful.   |
 | Those are beautiful. |
 
-
-
 when the x1 is omitted, becomes:
 
 ### Example 2.20.
@@ -323,8 +285,6 @@ when the x1 is omitted, becomes:
 | --------------- |
 | Beautiful!      |
 | It's beautiful! |
-
-
 
 Omitting the x1 adds emphasis to the selbri relation, which has become first in the sentence. This kind of sentence is termed an observative, because it is often used when someone first observes or takes note of the relationship, and wishes to quickly communicate it to someone else. Commonly understood English observatives include “Smoke!” upon seeing smoke or smelling the odor, or “Car!” to a person crossing the street who might be in danger. Any Lojban selbri can be used as an observative if no sumti appear before the selbri.
 
@@ -344,8 +304,6 @@ For one reason or another you may want to change the order, placing one particul
 | ------------------------- |
 | I talk to you about this. |
 
-
-
 has the same meaning as
 
 ### Example 2.22.
@@ -357,8 +315,6 @@ has the same meaning as
 |                                     |
 | ----------------------------------- |
 | You are talked to by me about this. |
-
-
 
 The cmavo _[te](glossary#valsi-te)_, when used in the same location, switches the meanings of the first and the third sumti places.
 
@@ -372,8 +328,6 @@ The cmavo _[te](glossary#valsi-te)_, when used in the same location, switches th
 | ------------------------- |
 | I talk to you about this. |
 
-
-
 has the same meaning as
 
 ### Example 2.24.
@@ -385,8 +339,6 @@ has the same meaning as
 |                                    |
 | ---------------------------------- |
 | This is talked about to you by me. |
-
-
 
 Note that only the first and third sumti have switched places; the second sumti has remained in the second place.
 
@@ -414,8 +366,6 @@ When two gismu are adjacent, the first one modifies the second, and the selbri t
 
 sutra tavla
 
-
-
 has the place structure
 
 ### Example 2.26.
@@ -424,23 +374,17 @@ x1 is a fast type-of talker to x2 about x3 in language x4
 
 x1 talks fast to x2 about x3 in language x4
 
-
-
 When three or more gismu are in a row, the first modifies the second, and that combined meaning modifies the third, and that combined meaning modifies the fourth, and so on. For example
 
 ### Example 2.27.
 
 sutra tavla cutci
 
-
-
 has the place structure
 
 ### Example 2.28.
 
 s1 is a fast-talker type of shoe worn by s2 of material s3
-
-
 
 That is, it is a shoe that is worn by a fast talker rather than a shoe that is fast and is also worn by a talker.
 
@@ -453,8 +397,6 @@ Note especially the use of “type-of” as a mechanism for connecting the Engli
 | bajra  | cutci |
 | runner | shoe  |
 
-
-
 most probably refers to shoes suitable for runners, but might be interpreted in some imaginative instances as “shoes that run (by themselves?)”. In general, however, the meaning of a tanru is determined by the literal meaning of its components, and not by any connotations or figurative meanings. Thus
 
 ### Example 2.30.
@@ -464,8 +406,6 @@ most probably refers to shoes suitable for runners, but might be interpreted in 
 | sutra | tavla  |
 | fast  | talker |
 
-
-
 would not necessarily imply any trickery or deception, unlike the English idiom, and a
 
 ### Example 2.31.
@@ -474,8 +414,6 @@ would not necessarily imply any trickery or deception, unlike the English idiom,
 | ------ | --------- |
 | jikca  | toldi     |
 | social | butterfly |
-
-
 
 must always be an insect with large brightly-colored wings, of the family _Lepidoptera_.
 
@@ -488,8 +426,6 @@ The place structure of a tanru is always that of the final component of the tanr
 | mi | \[cu] | sutra klama | la meris. |
 | I  | -     | quickly-go  | to Mary.  |
 
-
-
 With the conversion _se klama_ as the final component of the tanru, the place structure of the entire selbri is that of _se klama_: the x1 place is the destination, and the x2 place is the one who goes:
 
 ### Example 2.33.
@@ -498,8 +434,6 @@ With the conversion _se klama_ as the final component of the tanru, the place st
 | -- | ----- | ------- | ---------- | --------- |
 | mi | \[cu] | sutra   | se klama   | la meris. |
 | I  | -     | quickly | am-gone-to | by Mary.  |
-
-
 
 The following example shows that there is more to conversion than merely switching places, though:
 
@@ -510,8 +444,6 @@ The following example shows that there is more to conversion than merely switchi
 | la tam. | \[cu] | melbi tavla           | la meris. |
 | Tom     | -     | beautifully-talks     | to Mary.  |
 | Tom     | -     | is a beautiful-talker | to Mary.  |
-
-
 
 has the place structure of _[tavla](glossary#valsi-tavla)_, but note the two distinct interpretations.
 
@@ -525,8 +457,6 @@ Now, using conversion, we can modify the place structure order:
 | Mary      | -     | is beautifully-talked-to | by Tom.  |
 | Mary      | -     | is a beautiful-audience  | for Tom. |
 
-
-
 and we see that the modification has been changed so as to focus on Mary's role in the bridi relationship, leading to a different set of possible interpretations.
 
 Note that there is no place structure change if the modifying term is converted, and so less drastic variation in possible meanings:
@@ -538,16 +468,12 @@ Note that there is no place structure change if the modifying term is converted,
 | la tam. | \[cu] | tavla melbi           | la meris. |
 | Tom     | -     | is talkerly-beautiful | to Mary.  |
 
-
-
 ### Example 2.37.
 
 |         |       |                         |           |
 | ------- | ----- | ----------------------- | --------- |
 | la tam. | \[cu] | se tavla melbi          | la meris. |
 | Tom     | -     | is audiencely-beautiful | to Mary.  |
-
-
 
 and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.
 
@@ -563,15 +489,11 @@ For example,
 | -- | ----- | -- | -------- | ----- |
 | mi | tavla | do | le tavla | \[ku] |
 
-
-
 means the same as
 
 ### Example 2.39.
 
 I talk to you about the talker
-
-
 
 where “the talker” is presumably someone other than me, though not necessarily.
 
@@ -586,8 +508,6 @@ In many cases the word _[ku](glossary#valsi-ku)_ may be omitted. In particular, 
 | mi | tavla   | do  | le tavla         |
 | I  | talk-to | you | about-the talker |
 
-
-
 means exactly the same thing as [Example 2.38](chapter02#example-random-id-k0Pj "Example 2.38. ").
 
 There is a problem when we want to say “The fast one is talking.” The “obvious” translation _le sutra tavla_ turns out to mean “the fast talker”, and has no selbri at all. To solve this problem we can use the word _[cu](glossary#valsi-cu)_, which so far has always been optional, in front of the selbri.
@@ -601,16 +521,12 @@ The word _[cu](glossary#valsi-cu)_ has no meaning, and exists only to mark the b
 | le sutra tavla  |
 | The fast talker |
 
-
-
 ### Example 2.42.
 
 |              |    |             |
 | ------------ | -- | ----------- |
 | le sutra     | cu | tavla       |
 | The fast one | -  | is talking. |
-
-
 
 ### Example 2.43.
 
@@ -619,16 +535,12 @@ The word _[cu](glossary#valsi-cu)_ has no meaning, and exists only to mark the b
 | le sutra se tavla      |
 | The fast talked-to one |
 
-
-
 ### Example 2.44.
 
 |              |    |               |
 | ------------ | -- | ------------- |
 | le sutra     | cu | se tavla      |
 | The fast one | -  | is talked to. |
-
-
 
 Consider the following more complex example, with two description sumti.
 
@@ -638,8 +550,6 @@ Consider the following more complex example, with two description sumti.
 | -- | ----- | ------- | ---------- | ----- | --------------------------- | ----- |
 | mi | \[cu] | tavla   | le vecnu   | \[ku] | le blari'o                  | \[ku] |
 | I  | -     | talk-to | the seller | -     | about the blue-green-thing. | -     |
-
-
 
 The sumti _le vecnu_ contains the selbri _[vecnu](glossary#valsi-vecnu)_, which has the “seller” in the x1 place, and uses it in this sentence to describe a particular “seller” that the speaker has in mind (one that he or she probably expects the listener will also know about). Similarly, the speaker has a particular blue-green thing in mind, which is described using _[le](glossary#valsi-le)_ to mark _[blari'o](glossary#valsi-blariho)_, a selbri whose first sumti is something blue-green.
 
@@ -662,8 +572,6 @@ gismu:
 | --------------------------------------------------------------------- |
 | I go here (to this) using that means (from somewhere via some route). |
 
-
-
 lujvo:
 
 ### Example 2.47.
@@ -673,8 +581,6 @@ lujvo:
 | ta   | \[cu] | blari'o        |
 | That | -     | is-blue-green. |
 
-
-
 fu'ivla:
 
 ### Example 2.48.
@@ -683,8 +589,6 @@ fu'ivla:
 | ---- | ----- | ------------- |
 | ti   | \[cu] | djarspageti   |
 | This | -     | is-spaghetti. |
-
-
 
 Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is _[go'i](glossary#valsi-gohi)_, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:
 
@@ -698,8 +602,6 @@ Some cmavo may also serve as selbri, acting as variables that stand for another 
 |                           |
 | ------------------------- |
 | That (is spaghetti), too. |
-
-
 
 ## The sumti _di'u_ and _la'e di'u_
 
@@ -715,8 +617,6 @@ In English, I might say “The dog is beautiful”, and you might reply “This 
 | --------------------- |
 | The dog is beautiful. |
 
-
-
 The following three sentences all might translate as “This pleases me.”
 
 ### Example 2.51.
@@ -729,8 +629,6 @@ The following three sentences all might translate as “This pleases me.”
 | -------------------------- |
 | This (the dog) pleases me. |
 
-
-
 ### Example 2.52.
 
 |      |       |       |    |
@@ -741,8 +639,6 @@ The following three sentences all might translate as “This pleases me.”
 | --------------------------------------------------------------------------------------- |
 | This (the last sentence) pleases me (perhaps because it is grammatical or sounds nice). |
 
-
-
 ### Example 2.53.
 
 |           |       |       |    |
@@ -752,8 +648,6 @@ The following three sentences all might translate as “This pleases me.”
 |                                                                                     |
 | ----------------------------------------------------------------------------------- |
 | This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases me. |
-
-
 
 [Example 2.53](chapter02#example-random-id-k0YS "Example 2.53. ") uses one sumti to point to or refer to another by inference. It is common to write _[la'edi'u](glossary#valsi-lahedihu)_ as a single word; it is used more often than _[di'u](glossary#valsi-dihu)_ by itself.
 
@@ -772,8 +666,6 @@ The following three sentences all might translate as “This pleases me.”
 | --------------- |
 | My dog is fast. |
 
-
-
 In Lojban, possession doesn't necessarily mean ownership: one may “possess” a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: “my arm” doesn't mean “some arm I own” but rather “the arm that is part of my body”. Lojban has methods of specifying all these different kinds of possession precisely and easily.
 
 ## Vocatives and commands
@@ -783,8 +675,6 @@ You may call someone's attention to the fact that you are addressing them by usi
 ### Example 2.55.
 
 doi djan.
-
-
 
 means “Oh, John, I'm talking to you”. It also has the effect of setting the value of _[do](glossary#valsi-do)_; _[do](glossary#valsi-do)_ now refers to “John” until it is changed in some way in the conversation. Note that [Example 2.55](chapter02#example-random-id-ahVb "Example 2.55. ") is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a “vocative phrase”.
 
@@ -797,16 +687,12 @@ Other cmavo can be used instead of _[doi](glossary#valsi-doi)_ in a vocative phr
 | coi.   | djan. |
 | Hello, | John. |
 
-
-
 ### Example 2.57.
 
 |           |       |
 | --------- | ----- |
 | co'o.     | djan. |
 | Good-bye, | John. |
-
-
 
 Commands are expressed in Lojban by a simple variation of the main bridi structure. If you say
 
@@ -817,8 +703,6 @@ Commands are expressed in Lojban by a simple variation of the main bridi structu
 | do  | tavla        |
 | You | are-talking. |
 
-
-
 you are simply making a statement of fact. In order to issue a command in Lojban, substitute the word _[ko](glossary#valsi-ko)_ for _[do](glossary#valsi-do)_. The bridi
 
 ### Example 2.59.
@@ -826,8 +710,6 @@ you are simply making a statement of fact. In order to issue a command in Lojban
 |    |       |
 | -- | ----- |
 | ko | tavla |
-
-
 
 instructs the listener to do whatever is necessary to make [Example 2.58](chapter02#example-random-id-k11I "Example 2.58. ") true; it means “Talk!” Other examples:
 
@@ -840,8 +722,6 @@ instructs the listener to do whatever is necessary to make [Example 2.58](chapte
 |          |
 | -------- |
 | Be fast! |
-
-
 
 The _[ko](glossary#valsi-ko)_ need not be in the x1 place, but rather can occur anywhere a sumti is allowed, leading to possible Lojban commands that are very unlike English commands:
 
@@ -856,8 +736,6 @@ The _[ko](glossary#valsi-ko)_ need not be in the x1 place, but rather can occur 
 | Be talked to by me. |
 | Let me talk to you. |
 
-
-
 The cmavo _[ko](glossary#valsi-ko)_ can fill any appropriate sumti place, and can be used as often as is appropriate for the selbri:
 
 ### Example 2.62.
@@ -866,8 +744,6 @@ The cmavo _[ko](glossary#valsi-ko)_ can fill any appropriate sumti place, and ca
 | -- | ----- | -- |
 | ko | kurji | ko |
 
-
-
 and
 
 ### Example 2.63.
@@ -875,8 +751,6 @@ and
 |    |    |       |
 | -- | -- | ----- |
 | ko | ko | kurji |
-
-
 
 both mean “You take care of you” and “Be taken care of by you”, or to put it colloquially, “Take care of yourself”.
 
@@ -897,8 +771,6 @@ The cmavo _[ma](glossary#valsi-ma)_ is used to create a sumti question: it indic
 | ------------------------------- |
 | Who is talking to you about me? |
 
-
-
 The listener can reply by simply stating a sumti:
 
 ### Example 2.65.
@@ -911,8 +783,6 @@ The listener can reply by simply stating a sumti:
 | ---------------------------------- |
 | John (is talking to you about me). |
 
-
-
 Like _[ko](glossary#valsi-ko)_, _[ma](glossary#valsi-ma)_ can occur in any position where a sumti is allowed, not just in the first position:
 
 ### Example 2.66.
@@ -922,8 +792,6 @@ Like _[ko](glossary#valsi-ko)_, _[ma](glossary#valsi-ma)_ can occur in any posit
 | do  | \[cu] | tavla | ma            |
 | You | -     | talk  | to what/whom? |
 
-
-
 A _[ma](glossary#valsi-ma)_ can also appear in multiple sumti positions in one sentence, in effect asking several questions at once.
 
 ### Example 2.67.
@@ -932,8 +800,6 @@ A _[ma](glossary#valsi-ma)_ can also appear in multiple sumti positions in one s
 | -------- | ----- | ----- | ------------- |
 | ma       | \[cu] | tavla | ma            |
 | What/Who | -     | talks | to what/whom? |
-
-
 
 The two separate _[ma](glossary#valsi-ma)_ positions ask two separate questions, and can therefore be answered with different values in each sumti place.
 
@@ -945,8 +811,6 @@ The cmavo _[mo](glossary#valsi-mo)_ is the selbri analogue of _[ma](glossary#val
 | --- | ----- | ----------------- |
 | do  | \[cu] | mo                |
 | You | -     | are-what/do-what? |
-
-
 
 A _[mo](glossary#valsi-mo)_ may be used anywhere a brivla or other selbri might. Keep this in mind for later examples. Unfortunately, by itself, _[mo](glossary#valsi-mo)_ is a very non-specific question. The response to the question in [Example 2.68](chapter02#example-random-id-k1DE "Example 2.68. ") could be:
 
@@ -960,8 +824,6 @@ A _[mo](glossary#valsi-mo)_ may be used anywhere a brivla or other selbri might.
 | --------------- |
 | I am beautiful. |
 
-
-
 or:
 
 ### Example 2.70.
@@ -974,8 +836,6 @@ or:
 | ------- |
 | I talk. |
 
-
-
 Clearly, _[mo](glossary#valsi-mo)_ requires some cooperation between the speaker and the respondent to ensure that the right question is being answered. If context doesn't make the question specific enough, the speaker must ask the question more specifically using a more complex construction such as a tanru (see [Section 2.9](chapter02#section-basic-tanru "2.9. tanru")).
 
 It is perfectly permissible for the respondent to fill in other unspecified places in responding to a _[mo](glossary#valsi-mo)_ question. Thus, the respondent in [Example 2.70](chapter02#example-random-id-k1gh "Example 2.70. ") could have also specified an audience, a topic, and/or a language in the response.
@@ -986,15 +846,11 @@ Finally, we must consider questions that can be answered “Yes” or “No”, 
 
 Are you talking to me?
 
-
-
 Like all yes-or-no questions in English, [Example 2.71](chapter02#example-random-id-fVMN "Example 2.71. ") may be reformulated as
 
 ### Example 2.72.
 
 Is it true that you are talking to me?
-
-
 
 In Lojban we have a word that asks precisely that question in precisely the same way. The cmavo _[xu](glossary#valsi-xu)_, when placed in front of a bridi, asks whether that bridi is true as stated. So
 
@@ -1004,8 +860,6 @@ In Lojban we have a word that asks precisely that question in precisely the same
 | --------------- | --- | ----------- | ------ |
 | xu              | do  | tavla       | mi     |
 | Is-it-true-that | you | are-talking | to-me? |
-
-
 
 is the Lojban translation of [Example 2.71](chapter02#example-random-id-fVMN "Example 2.71. ").
 
@@ -1021,8 +875,6 @@ The answer “Yes” may be given by simply restating the bridi without the _[xu
 | ---------------- |
 | Are you healthy? |
 
-
-
 can be answered with
 
 ### Example 2.75.
@@ -1035,8 +887,6 @@ can be answered with
 | ------------- |
 | I am healthy. |
 
-
-
 or
 
 ### Example 2.76.
@@ -1048,8 +898,6 @@ or
 |               |
 | ------------- |
 | I am healthy. |
-
-
 
 (Note that _[do](glossary#valsi-do)_ to the questioner is _[mi](glossary#valsi-mi)_ to the respondent.)
 
@@ -1065,8 +913,6 @@ or
 | ---------------------- |
 | The talker is healthy. |
 
-
-
 or
 
 ### Example 2.78.
@@ -1078,8 +924,6 @@ or
 |                        |
 | ---------------------- |
 | The talker is healthy. |
-
-
 
 A general negative answer may be given by _na go'i_. _[na](glossary#valsi-na)_ may be placed before any selbri (but after the _[cu](glossary#valsi-cu)_). It is equivalent to stating “It is not true that ...” before the bridi. It does not imply that anything else is true or untrue, only that that specific bridi is not true. More details on negative statements are available in [Chapter 15](chapter15 "Chapter 15. “No” Problems: On Lojban Negation").
 
@@ -1100,8 +944,6 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 | ------------- |
 | Yep! I'll go. |
 
-
-
 ### Example 2.80.
 
 |             |    |       |       |
@@ -1112,8 +954,6 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 |              |
 | ------------ |
 | I should go. |
-
-
 
 ### Example 2.81.
 
@@ -1127,8 +967,6 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 | .ui                                                           | \[ku] |
 | and I am happy because it is the beautiful thing I'm going to | -     |
 
-
-
 Not all indicators indicate attitudes. Discursives, another group of cmavo with the same grammatical rules as attitudinal indicators, allow free expression of certain kinds of commentary about the main utterances. Using discursives allows a clear separation of these so-called “metalinguistic” features from the underlying statements and logical structure. By comparison, the English words “but” and “also”, which discursively indicate contrast or an added weight of example, are logically equivalent to “and”, which does not have a discursive content. The average English-speaker does not think about, and may not even realize, the paradoxical idea that “but” basically means “and”.
 
 ### Example 2.82.
@@ -1138,8 +976,6 @@ Not all indicators indicate attitudes. Discursives, another group of cmavo with 
 | mi | \[cu] | klama | .i | do  | \[cu] | stali |
 | I  | -     | go.   |    | You | -     | stay. |
 
-
-
 ### Example 2.83.
 
 |    |       |       |    |              |     |       |       |              |
@@ -1147,16 +983,12 @@ Not all indicators indicate attitudes. Discursives, another group of cmavo with 
 | mi | \[cu] | klama | .i | ji'a         | do  | \[cu] | stali |              |
 | I  | -     | go.   |    | In addition, | you | -     | stay. | added weight |
 
-
-
 ### Example 2.84.
 
 |    |       |       |    |          |     |       |       |          |
 | -- | ----- | ----- | -- | -------- | --- | ----- | ----- | -------- |
 | mi | \[cu] | klama | .i | ku'i     | do  | \[cu] | stali |          |
 | I  | -     | go.   |    | However, | you | -     | stay. | contrast |
-
-
 
 Another group of indicators are called “evidentials”. Evidentials show the speaker's relationship to the statement, specifically how the speaker came to make the statement. These include _[za'a](glossary#valsi-zaha)_ (I directly observe the relationship), _[pe'i](glossary#valsi-pehi)_ (I believe that the relationship holds), _[ru'a](glossary#valsi-ruha)_ (I postulate the relationship), and others. Many American Indian languages use this kind of words.
 
@@ -1167,16 +999,12 @@ Another group of indicators are called “evidentials”. Evidentials show the s
 | pe'i     | do  | \[cu] | melbi          |
 | I opine! | You | -     | are beautiful. |
 
-
-
 ### Example 2.86.
 
 |                     |     |       |                |
 | ------------------- | --- | ----- | -------------- |
 | za'a                | do  | \[cu] | melbi          |
 | I directly observe! | You | -     | are beautiful. |
-
-
 
 ## Tenses
 
@@ -1186,15 +1014,11 @@ In English, every verb is tagged for the grammatical category called tense: past
 
 John went to the store
 
-
-
 necessarily happens at some time in the past, whereas
 
 ### Example 2.88.
 
 John is going to the store
-
-
 
 is necessarily happening right now.
 
@@ -1207,8 +1031,6 @@ The Lojban sentence
 | la djan. | \[cu] | klama             | le zarci     |
 | John     | -     | goes/went/will-go | to-the store |
 
-
-
 serves as a translation of either [Example 2.87](chapter02#example-random-id-xIVa "Example 2.87. ") or [Example 2.88](chapter02#example-random-id-1Acu "Example 2.88. "), and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of [Example 2.87](chapter02#example-random-id-xIVa "Example 2.87. ") would be:
 
 ### Example 2.90.
@@ -1218,8 +1040,6 @@ serves as a translation of either [Example 2.87](chapter02#example-random-id-xIV
 | la djan. | pu      | klama | le zarci     |
 | John     | \[past] | goes  | to-the store |
 
-
-
 where the tag _[pu](glossary#valsi-pu)_ forces the sentence to refer to a time in the past. Similarly,
 
 ### Example 2.91.
@@ -1228,8 +1048,6 @@ where the tag _[pu](glossary#valsi-pu)_ forces the sentence to refer to a time i
 | -------- | ---------- | ----- | ------------ |
 | la djan. | ca         | klama | le zarci     |
 | John     | \[present] | goes  | to-the store |
-
-
 
 necessarily refers to the present, because of the tag _[ca](glossary#valsi-ca)_. Tags used in this way always appear at the very beginning of the selbri, just after the _[cu](glossary#valsi-cu)_, and they may make a _[cu](glossary#valsi-cu)_ unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.
 
@@ -1242,8 +1060,6 @@ Lojban also extends the notion of “tense” to refer not only to time but to s
 | do  | vu vecnu    | zo'e                   |
 | You | yonder sell | something-unspecified. |
 
-
-
 In addition, tense tags (either for time or space) can be prefixed to the selbri of a description, producing a tensed sumti:
 
 ### Example 2.93.
@@ -1252,8 +1068,6 @@ In addition, tense tags (either for time or space) can be prefixed to the selbri
 | ------------------------------ | ----- | -- | ------------- |
 | le pu bajra                    | \[ku] | cu | tavla         |
 | The earlier/former/past runner | -     | -  | talked/talks. |
-
-
 
 (Since Lojban tense is optional, we don't know when he or she talks.)
 
@@ -1270,8 +1084,6 @@ Tensed sumti with space tags correspond roughly to the English use of “this”
 | ------------------ |
 | This runner talks. |
 
-
-
 Do not confuse the use of _[vi](glossary#valsi-vi)_ in [Example 2.94](chapter02#example-random-id-k28N "Example 2.94. ") with the cmavo _[ti](glossary#valsi-ti)_, which also means “this”, but in the sense of “this thing”.
 
 Furthermore, a tense tag can appear both on the selbri and within a description, as in the following example (where _[ba](glossary#valsi-ba)_ is the tag for future time):
@@ -1287,8 +1099,6 @@ Furthermore, a tense tag can appear both on the selbri and within a description,
 | ------------------------------- |
 | The talker who is here will go. |
 | This talker will go.            |
-
-
 
 ## Lojban grammatical terms
 

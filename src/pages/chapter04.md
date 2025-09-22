@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 4. The Shape Of Words To Come: Lojban Morphology'
+prev: chapter03
+prevTitle: 'Prev: Chapter 3'
+next: chapter05
+nextTitle: 'Next: Chapter 5'
 ---
-
-Chapter 4. The Shape Of Words To Come: Lojban Morphology
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                        |
-| ----------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 3](chapter03) | [Next: Chapter 5](chapter05) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# The Shape Of Words To Come: Lojban Morphology
 
 ![The picture for chapter 4](../assets/chapter-morphology.gif)
 

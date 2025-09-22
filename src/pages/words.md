@@ -1,23 +1,15 @@
-Lojban Words Index
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                  |                                   |
-| -------------------------------: | :-------------------------------- |
-| [Prev: General Index](general) | [Next: Examples Index](examples) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
 ---
-
-# Lojban Words Index
+layout: ../layouts/Layout.astro
+title: Lojban Words Index
+prev: general
+prevTitle: 'Prev: General Index'
+next: examples
+nextTitle: 'Next: Examples Index'
+---
 
 ### Symbols
 
-- - .a: [cmavo](chapter04#idm47077913367152), [sumti connection](chapter14#idm47077885291904), [Truth functions and corresponding logical connectives](chapter14#idm47077882335616), [Truth functions and corresponding logical connectives](chapter14#idm47077882306960), [Truth functions and corresponding logical connectives](chapter14#idm47077882258368), [Truth functions and corresponding logical connectives](chapter14#idm47077882163552)
+- .a: [cmavo](chapter04#idm47077913367152), [sumti connection](chapter14#idm47077885291904), [Truth functions and corresponding logical connectives](chapter14#idm47077882335616), [Truth functions and corresponding logical connectives](chapter14#idm47077882306960), [Truth functions and corresponding logical connectives](chapter14#idm47077882258368), [Truth functions and corresponding logical connectives](chapter14#idm47077882163552)
   - .a'enai: [Propositional attitude indicators](chapter13#idm47077888758688)
   - .a'o: [What are attitudinal indicators?](chapter13#idm47077889256784)
   - .a'u: [More about non-logical connectives](chapter14#idm47077883277024)
@@ -72,7 +64,7 @@ Lojban Words Index
 
 ### A
 
-- - a: [The six types of logical connectives](chapter14#idm47077885810352), [The six types of logical connectives](chapter14#idm47077885807280), [sumti connection](chapter14#idm47077885287072), [Truth functions and corresponding logical connectives](chapter14#idm47077882333248), [Truth functions and corresponding logical connectives](chapter14#idm47077882325152), [bridi negation and logical connectives](chapter16#idm47077879164336), [bridi negation and logical connectives](chapter16#idm47077879149856)
+- a: [The six types of logical connectives](chapter14#idm47077885810352), [The six types of logical connectives](chapter14#idm47077885807280), [sumti connection](chapter14#idm47077885287072), [Truth functions and corresponding logical connectives](chapter14#idm47077882333248), [Truth functions and corresponding logical connectives](chapter14#idm47077882325152), [bridi negation and logical connectives](chapter16#idm47077879164336), [bridi negation and logical connectives](chapter16#idm47077879149856)
   - A selma'o: [sumti connection](chapter14#idm47077885362144), [sumti connection](chapter14#idm47077885357120), [Non-logical connectives](chapter14#idm47077883898912), [Logical and non-logical connectives within mekso](chapter14#idm47077882955536), [Tenses, modals, and logical connection](chapter14#idm47077882687504), [Tenses, modals, and logical connection](chapter14#idm47077882667904), [Logical and non-logical connectives within mekso](chapter18#idm47077873498160)
   - a'e: [Propositional attitude indicators](chapter13#idm47077888813200)
   - ai: [Non-decimal and compound bases](chapter18#idm47077874537616)
@@ -81,7 +73,7 @@ Lojban Words Index
 
 ### B
 
-- - ba: [Tenses](chapter02#idm47077915068896), [cmavo](chapter04#idm47077913353552), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](chapter07#idm47077903154656), [Temporal tenses: PU and ZI](chapter10#idm47077896383392), [Interval sizes: VEhA and ZEhA](chapter10#idm47077896129968), [Event contours: ZAhO and re'u](chapter10#idm47077895463616), [Sticky and multiple tenses: KI](chapter10#idm47077894818928), [Tensed logical connectives](chapter10#idm47077894140864), [Logical and non-logical connections between tenses](chapter10#idm47077893596528), [Tenses versus modals](chapter10#idm47077893334832), [Tenses, modals, and logical connection](chapter14#idm47077882811136), [Tenses, modals, and logical connection](chapter14#idm47077882725872), [Tenses, modals, and logical connection](chapter14#idm47077882699344), [Tenses, modals, and logical connection](chapter14#idm47077882694640)
+- ba: [Tenses](chapter02#idm47077915068896), [cmavo](chapter04#idm47077913353552), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](chapter07#idm47077903154656), [Temporal tenses: PU and ZI](chapter10#idm47077896383392), [Interval sizes: VEhA and ZEhA](chapter10#idm47077896129968), [Event contours: ZAhO and re'u](chapter10#idm47077895463616), [Sticky and multiple tenses: KI](chapter10#idm47077894818928), [Tensed logical connectives](chapter10#idm47077894140864), [Logical and non-logical connections between tenses](chapter10#idm47077893596528), [Tenses versus modals](chapter10#idm47077893334832), [Tenses, modals, and logical connection](chapter14#idm47077882811136), [Tenses, modals, and logical connection](chapter14#idm47077882725872), [Tenses, modals, and logical connection](chapter14#idm47077882699344), [Tenses, modals, and logical connection](chapter14#idm47077882694640)
   - ba'a: [Evidentials](chapter13#idm47077887539328), [Evidentials](chapter13#idm47077887536672)
   - ba'acu'i: [Evidentials](chapter13#idm47077887534352)
   - ba'anai: [Evidentials](chapter13#idm47077887532016)
@@ -159,7 +151,7 @@ Lojban Words Index
 
 ### C
 
-- - ca: [Tenses](chapter02#idm47077915130480), [Temporal tenses: PU and ZI](chapter10#idm47077896385984), [Interval sizes: VEhA and ZEhA](chapter10#idm47077896132384), [Tenses as sumti tcita](chapter10#idm47077895127312), [Tenses as sumti tcita](chapter10#idm47077895119728), [Tenses in subordinate bridi](chapter10#idm47077894486432), [Tenses in subordinate bridi](chapter10#idm47077894483904), [Tenses in subordinate bridi](chapter10#idm47077894481568), [Actuality, potentiality, capability: CAhA](chapter10#idm47077893722208), [Tenses, modals, and logical connection](chapter14#idm47077882813408)
+- ca: [Tenses](chapter02#idm47077915130480), [Temporal tenses: PU and ZI](chapter10#idm47077896385984), [Interval sizes: VEhA and ZEhA](chapter10#idm47077896132384), [Tenses as sumti tcita](chapter10#idm47077895127312), [Tenses as sumti tcita](chapter10#idm47077895119728), [Tenses in subordinate bridi](chapter10#idm47077894486432), [Tenses in subordinate bridi](chapter10#idm47077894483904), [Tenses in subordinate bridi](chapter10#idm47077894481568), [Actuality, potentiality, capability: CAhA](chapter10#idm47077893722208), [Tenses, modals, and logical connection](chapter14#idm47077882813408)
   - ca'a: [Actuality, potentiality, capability: CAhA](chapter10#idm47077893729408)
   - ca'e: [Evidentials](chapter13#idm47077887558896), [Evidentials](chapter13#idm47077887556256)
   - ca'o: [Event contours: ZAhO and re'u](chapter10#idm47077895527696), [Event contours: ZAhO and re'u](chapter10#idm47077895437136), [Event contours: ZAhO and re'u](chapter10#idm47077895432432), [Event-type abstractors and event contour tenses](chapter11#idm47077891285072), [Event-type abstractors and event contour tenses](chapter11#idm47077891234848), [Event-type abstractors and event contour tenses](chapter11#idm47077891216656), [Event-type abstractors and event contour tenses](chapter11#idm47077891199632)
