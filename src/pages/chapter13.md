@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators
 
 | The Complete Lojban Language |

@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts
 
 | The Complete Lojban Language |

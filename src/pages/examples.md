@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Examples Index
 
 | The Complete Lojban Language |

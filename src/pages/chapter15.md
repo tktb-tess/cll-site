@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 15. “No” Problems: On Lojban Negation
 
 | The Complete Lojban Language |

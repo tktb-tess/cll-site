@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction
 
 | The Complete Lojban Language |

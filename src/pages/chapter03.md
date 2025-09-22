@@ -1,19 +1,11 @@
-Chapter 3. The Hills Are Alive With The Sounds Of Lojban
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                      |                                            |
-| -----------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 2](chapter02) | [Next: Chapter 4](chapter04) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
 ---
-
-# The Hills Are Alive With The Sounds Of Lojban
+layout: ../layouts/Layout.astro
+title: 'Chapter 3. The Hills Are Alive With The Sounds Of Lojban'
+prev: chapter02
+prevTitle: 'Prev: Chapter 2'
+next: chapter04
+nextTitle: 'Next: Chapter 4'
+---
 
 ![The picture for chapter 3](../assets/chapter-phonology.gif)
 

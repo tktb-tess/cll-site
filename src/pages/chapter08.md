@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 8. Relative Clauses, Which Make sumti Even More Complicated
 
 | The Complete Lojban Language |

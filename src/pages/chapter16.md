@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic
 
 | The Complete Lojban Language |

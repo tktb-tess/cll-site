@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System
 
 | The Complete Lojban Language |

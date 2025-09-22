@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 12. Dog House And White House: Determining lujvo Place Structures
 
 | The Complete Lojban Language |

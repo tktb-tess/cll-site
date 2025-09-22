@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 14. If Wishes Were Horses: The Lojban Connective System
 
 | The Complete Lojban Language |

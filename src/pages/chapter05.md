@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri
 
 | The Complete Lojban Language |

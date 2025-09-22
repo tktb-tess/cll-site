@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 4. The Shape Of Words To Come: Lojban Morphology
 
 | The Complete Lojban Language |

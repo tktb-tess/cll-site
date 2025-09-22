@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses
 
 | The Complete Lojban Language |

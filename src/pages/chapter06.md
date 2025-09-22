@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 6. To Speak Of Many Things: The Lojban sumti
 
 | The Complete Lojban Language |

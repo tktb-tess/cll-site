@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals
 
 | The Complete Lojban Language |

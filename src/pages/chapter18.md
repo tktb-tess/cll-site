@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 18. lojbau mekso: Mathematical Expressions in Lojban
 
 | The Complete Lojban Language |

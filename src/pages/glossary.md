@@ -1,3 +1,13 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
+
 Lojban Word Glossary
 
 | The Complete Lojban Language |

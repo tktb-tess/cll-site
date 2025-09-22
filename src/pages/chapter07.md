@@ -1,3 +1,12 @@
+---
+layout: ../layouts/Layout.astro
+title: ''
+prev: 
+prevTitle: ''
+next: 
+nextTitle: ''
+---
+
 Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi
 
 | The Complete Lojban Language |
