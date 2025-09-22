@@ -1,0 +1,53 @@
+---
+import '../styles/globals.css';
+interface Props {
+  frontmatter: {
+    readonly title: string;
+    readonly description?: string;
+    readonly prev: string;
+    readonly prevTitle: string;
+    readonly next: string;
+    readonly nextTitle: string;
+  };
+}
+const { frontmatter } = Astro.props;
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width,initial-scale=1' />
+    <meta name='generator' content={Astro.generator} />
+    <link
+      rel='stylesheet'
+      href='https://tktb-tess.github.io/resources/fonts/Inter/setting.css'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='stylesheet'
+      href='https://tktb-tess.github.io/resources/fonts/Charis/setting.css'
+      crossorigin='anonymous'
+    />
+    <title>{frontmatter.title}</title>
+  </head>
+  <body class='bg-slate-50 dark:bg-slate-950 flow-root'>
+    <header class='flex flex-col gap-2 px-4 w-full max-w-320 mx-auto text-[oklch(37%_0.013_285.805)] [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'>
+      <p class='text-center text-xl'>The Complete Lojban Language</p>
+      <div class='flex justify-center gap-4'>
+        <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
+        <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
+      </div>
+      <p class="text-center"><a href='../'>Table of Contents</a></p>
+      <p class="text-center">
+        <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
+          Book Info Page
+        </a>
+      </p>
+    </header>
+    <main>
+      <h1 class="font-extralight text-center my-12">{frontmatter.title}</h1>
+      <slot />
+    </main>
+  </body>
+</html>
