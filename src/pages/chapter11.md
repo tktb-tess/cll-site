@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
+prev: chapter10
+prevTitle: 'Prev: Chapter 10'
+next: chapter12
+nextTitle: 'Next: Chapter 12'
 ---
-
-Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                         |                                        |
-| --------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 10](chapter10) | [Next: Chapter 12](chapter12) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction
 
 ![The picture for chapter 11](../assets/chapter-abstractions.gif)
 

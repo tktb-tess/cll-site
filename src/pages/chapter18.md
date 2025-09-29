@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
+prev: chapter17
+prevTitle: 'Prev: Chapter 17'
+next: chapter19
+nextTitle: 'Next: Chapter 19'
 ---
-
-Chapter 18. lojbau mekso: Mathematical Expressions in Lojban
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                            |
-| -----------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 17](chapter17) | [Next: Chapter 19](chapter19) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# lojbau mekso: Mathematical Expressions in Lojban
 
 ![The picture for chapter 18](../assets/chapter-mekso.gif)
 

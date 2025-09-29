@@ -33,7 +33,7 @@ const { frontmatter } = Astro.props;
     <title>{frontmatter.title}</title>
   </head>
   <body class='bg-slate-50 dark:bg-slate-950 flow-root'>
-    <header class='flex flex-col gap-2 px-4 w-full max-w-320 mx-auto text-[oklch(37%_0.013_285.805)] [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'>
+    <header class='flex flex-col gap-2 px-4 w-full max-w-320 mx-auto my-8 text-[oklch(37%_0.013_285.805)] [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'>
       <p class='text-center text-xl'>The Complete Lojban Language</p>
       <div class='flex justify-center gap-4'>
         <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>

@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 12. Dog House And White House: Determining lujvo Place Structures'
+prev: chapter11
+prevTitle: 'Prev: Chapter 11'
+next: chapter13
+nextTitle: 'Next: Chapter 13'
 ---
-
-Chapter 12. Dog House And White House: Determining lujvo Place Structures
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                               |                                               |
-| --------------------------------------------: | :-------------------------------------------- |
-| [Prev: Chapter 11](chapter11) | [Next: Chapter 13](chapter13) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Dog House And White House: Determining lujvo Place Structures
 
 ![The picture for chapter 12](../assets/chapter-lujvo.gif)
 

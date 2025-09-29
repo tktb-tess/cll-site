@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 21. Formal Grammars'
+prev: chapter20
+prevTitle: 'Prev: Chapter 20'
+next: glossary
+nextTitle: 'Next: Lojban Word Glossary'
 ---
-
-Chapter 21. Formal Grammars
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                         |
-| -----------------------------------------: | :-------------------------------------- |
-| [Prev: Chapter 20](chapter20) | [Next: Lojban Word Glossary](glossary) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Formal Grammars
 
 ![The picture for chapter 21](../assets/chapter-grammars.gif)
 

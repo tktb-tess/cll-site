@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 15. “No” Problems: On Lojban Negation'
+prev: chapter14
+prevTitle: 'Prev: Chapter 14'
+next: chapter16
+nextTitle: 'Next: Chapter 16'
 ---
-
-Chapter 15. “No” Problems: On Lojban Negation
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                              |                                              |
-| -------------------------------------------: | :------------------------------------------- |
-| [Prev: Chapter 14](chapter14) | [Next: Chapter 16](chapter16) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# “No” Problems: On Lojban Negation
 
 ![The picture for chapter 15](../assets/chapter-negation.gif)
 

@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators'
+prev: chapter12
+prevTitle: 'Prev: Chapter 12'
+next: chapter14
+nextTitle: 'Next: Chapter 14'
 ---
-
-Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                              |
-| -------------------------------------: | :------------------------------------------- |
-| [Prev: Chapter 12](chapter12) | [Next: Chapter 14](chapter14) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators
 
 ![The picture for chapter 13](../assets/chapter-attitudinals.gif)
 

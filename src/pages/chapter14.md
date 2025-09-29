@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
+prev: chapter13
+prevTitle: 'Prev: Chapter 13'
+next: chapter15
+nextTitle: 'Next: Chapter 15'
 ---
-
-Chapter 14. If Wishes Were Horses: The Lojban Connective System
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                               |                                           |
-| --------------------------------------------: | :---------------------------------------- |
-| [Prev: Chapter 13](chapter13) | [Next: Chapter 15](chapter15) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# If Wishes Were Horses: The Lojban Connective System
 
 ![The picture for chapter 14](../assets/chapter-connectives.gif)
 

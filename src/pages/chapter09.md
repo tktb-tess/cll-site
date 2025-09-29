@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals'
+prev: chapter08
+prevTitle: 'Prev: Chapter 8'
+next: chapter10
+nextTitle: 'Next: Chapter 10'
 ---
-
-Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                                  |                                         |
-| -----------------------------------------------: | :-------------------------------------- |
-| [Prev: Chapter 8](chapter08) | [Next: Chapter 10](chapter10) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# To Boston Via The Road Go I, With An Excursion Into The Land Of Modals
 
 ![The picture for chapter 9](../assets/chapter-sumti-tcita.gif)
 

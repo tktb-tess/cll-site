@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
+prev: chapyer05
+prevTitle: 'Prev: Chapter 5'
+next: chapter07
+nextTitle: 'Next: Chapter 7'
 ---
-
-Chapter 6. To Speak Of Many Things: The Lojban sumti
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                                 |
-| -------------------------------------: | :---------------------------------------------- |
-| [Prev: Chapter 5](chapter05) | [Next: Chapter 7](chapter07) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# To Speak Of Many Things: The Lojban sumti
 
 ![The picture for chapter 6](../assets/chapter-sumti.gif)
 

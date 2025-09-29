@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic'
+prev: chapter15
+prevTitle: 'Prev: Chapter 15'
+next: chapter17
+nextTitle: 'Next: Chapter 17'
 ---
-
-Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                            |
-| ----------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 15](chapter15) | [Next: Chapter 17](chapter17) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# “Who Did You Pass On The Road? Nobody”: Lojban And Logic
 
 ![The picture for chapter 16](../assets/chapter-quantifiers.gif)
 

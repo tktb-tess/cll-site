@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System'
+prev: chapter09
+prevTitle: 'Prev: Chapter 9'
+next: chapter11
+nextTitle: 'Next: Chapter 11'
 ---
-
-Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                             |                                               |
-| ------------------------------------------: | :-------------------------------------------- |
-| [Prev: Chapter 9](chapter09) | [Next: Chapter 11](chapter11) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Imaginary Journeys: The Lojban Space/Time Tense System
 
 ![The picture for chapter 10](../assets/chapter-tenses.gif)
 

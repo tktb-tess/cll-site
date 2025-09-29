@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
+prev: chapter06
+prevTitle: 'Prev: Chapter 6'
+next: chapter08
+nextTitle: 'Next: Chapter 8'
 ---
-
-Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                       |                                                  |
-| ------------------------------------: | :----------------------------------------------- |
-| [Prev: Chapter 6](chapter06) | [Next: Chapter 8](chapter08) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi
 
 ![The picture for chapter 7](../assets/chapter-anaphoric-cmavo.gif)
 

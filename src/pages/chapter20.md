@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 20. A Catalogue of selma''o'
+prev: chapter19
+prevTitle: 'Prev: Chapter 19'
+next: chapter21
+nextTitle: 'Next: Chapter 21'
 ---
-
-Chapter 20. A Catalogue of selma'o
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                           |
-| -----------------------------------------: | :---------------------------------------- |
-| [Prev: Chapter 19](chapter19) | [Next: Chapter 21](chapter21) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# A Catalogue of selma'o
 
 ![The picture for chapter 20](../assets/chapter-catalogue.gif)
 

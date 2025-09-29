@@ -1,29 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Lojban Word Glossary'
+prev: chapter21
+prevTitle: 'Prev: Chapter 21'
+next: general
+nextTitle: 'Next: General Index'
 ---
-
-
-Lojban Word Glossary
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                  |
-| ----------------------------------------: | :------------------------------- |
-| [Prev: Chapter 21](chapter21) | [Next: General Index](general) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Lojban Word Glossary
 
 All definitions in this glossary are brief and unofficial. Only the published dictionary is a truly official reference for word definitions. These definitions are here simply as a quick reference.
 

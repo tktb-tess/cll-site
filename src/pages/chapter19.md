@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts'
+prev: chapter18
+prevTitle: 'Prev: Chapter 18'
+next: chapter20
+nextTitle: 'Next: Chapter 20'
 ---
-
-Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                            |
-| -------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 18](chapter18) | [Next: Chapter 20](chapter20) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Putting It All Together: Notes on the Structure of Lojban Texts
 
 ![The picture for chapter 19](../assets/chapter-structure.gif)
 

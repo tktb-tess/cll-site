@@ -1,28 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 8. Relative Clauses, Which Make sumti Even More Complicated'
+prev: chapter07
+prevTitle: 'Prev: Chapter 7'
+next: chapter09
+nextTitle: 'Next: Chapter 9'
 ---
-
-Chapter 8. Relative Clauses, Which Make sumti Even More Complicated
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                                 |                                             |
-| ----------------------------------------------: | :------------------------------------------ |
-| [Prev: Chapter 7](chapter07) | [Next: Chapter 9](chapter09) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# Relative Clauses, Which Make sumti Even More Complicated
 
 ![The picture for chapter 8](../assets/chapter-relative-clauses.gif)
 

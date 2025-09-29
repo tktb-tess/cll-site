@@ -1,28 +1,12 @@
 ---
 layout: ../layouts/Layout.astro
-title: ''
-prev: 
-prevTitle: ''
-next: 
-nextTitle: ''
+title: 'Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses'
+prev: chapter16
+prevTitle: 'Prev: Chapter 16'
+next: chapter18
+nextTitle: 'Next: Chapter 18'
 ---
 
-Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                              |                                        |
-| -------------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 16](chapter16) | [Next: Chapter 18](chapter18) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
-
----
-
-# As Easy As A-B-C? The Lojban Letteral System And Its Uses
 
 ![The picture for chapter 17](../assets/chapter-letterals.gif)
 
