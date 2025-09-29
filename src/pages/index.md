@@ -7,9 +7,11 @@ next: chapter01
 nextTitle: 'Next: Chapter 1'
 ---
 
-> John Woldemar Cowan
-> A Logical Language Group Publication
-> Version 1.1, Generated 2016-08-26
+```text
+John Woldemar Cowan  
+A Logical Language Group Publication  
+Version 1.1, Generated 2016-08-26
+```
 
 ## Table of Contents
 
