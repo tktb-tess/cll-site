@@ -7,11 +7,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "start": "astro preview",
-    "astro": "astro",
-    "preinstall": "npx only-allow pnpm"
+    "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^8.2.7",
     "@tailwindcss/typography": "^0.5.16",
     "@tailwindcss/vite": "^4.1.13",
     "astro": "^5.13.9",
