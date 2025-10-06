@@ -12,5 +12,5 @@ Permission is granted to copy and distribute translations of this book into anot
 
 The contents of [Chapter 21](chapter21 "Chapter 21. Formal Grammars") are in the public domain.
 
-For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA 22031-1303 USA. Telephone: 703-385-0273. Email address: [\[email protected\]](/cdn-cgi/l/email-protection#c9a5a5aee4aba6a8bbad89a5a6a3aba8a7e7a6bbae). Web Address: <http://www.lojban.org>.
+For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA 22031-1303 USA. Telephone: 703-385-0273. Email address: [llg-board@lojban.org](mailto:llg-board@lojban.org). Web Address: <http://www.lojban.org>.
 
