@@ -382,15 +382,3 @@ Version 1.1, Generated 2016-08-26
   - [Lojban Words Index](words)
   - [Examples Index](examples)
 
----
-
-|     |
-| :-: |
-
-|    |                                       |
-| -: | :------------------------------------ |
-|    | [Next: Chapter 1](chapter01) |
-
-[Table of Contents](./)
-
-[Book Info Page](http://www.lojban.org/cll)

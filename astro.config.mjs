@@ -8,5 +8,5 @@ export default defineConfig({
   site: 'https://tktb-tess.github.io',
   vite: {
     plugins: [tailwindcss()],
-  }
+  },
 });
