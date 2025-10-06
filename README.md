@@ -1,5 +1,7 @@
 # The Complete Lojban Language
 
+ロジバンの文法書 「The Complete Lojban Language」 を markdown に変換し、Astro でビルドして公開しています。
+
 ## License
 
 Copyright © 1997 by The Logical Language Group, Inc. All Rights Reserved.
