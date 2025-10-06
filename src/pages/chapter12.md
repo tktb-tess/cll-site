@@ -7,7 +7,7 @@ next: chapter13
 nextTitle: 'Next: Chapter 13'
 ---
 
-![The picture for chapter 12](../assets/chapter-lujvo.gif)
+![The picture for chapter 12](../assets/chapter12.gif)
 
 ## Why have lujvo?
 
@@ -1016,11 +1016,3 @@ Less can be said about gismu place structure ordering, but some regularities are
 
 Some specific tendencies (not really rules) can also be observed. For example, when there is an agent place, it tends to be the first place. Similarly, when a destination and an origin point are mentioned, the destination is always placed just before the origin point. Places such as “under conditions” and “by standard”, which often go unfilled, are moved to near the end of the place structure.
 
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                               |                                               |
-| --------------------------------------------: | :-------------------------------------------- |
-| [Prev: Chapter 11](chapter11) | [Next: Chapter 13](chapter13) |
-
-[Table of Contents](../)[Book Info Page](http://www.lojban.org/cll)_

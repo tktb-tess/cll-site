@@ -7,7 +7,7 @@ next: chapter05
 nextTitle: 'Next: Chapter 5'
 ---
 
-![The picture for chapter 4](../assets/chapter-morphology.gif)
+![The picture for chapter 4](../assets/chapter04.gif)
 
 ## Introductory
 
@@ -1722,15 +1722,3 @@ which is an illegal word in standard Lojban, but a valid lujvo under this propos
 
 The cultural fu'ivla introduced under this proposal are called _rafsi fu'ivla_, since they are distinguished from other Type 4 fu'ivla by the property of having rafsi. If this proposal is workable and introduces no problems into Lojban morphology, it might become standard for all Type 4 fu'ivla, including those made for plants, animals, foodstuffs, and other things.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                        |
-| ----------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 3](chapter03) | [Next: Chapter 5](chapter05) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

@@ -7,7 +7,7 @@ next: chapter14
 nextTitle: 'Next: Chapter 14'
 ---
 
-![The picture for chapter 13](../assets/chapter-attitudinals.gif)
+![The picture for chapter 13](../assets/chapter13.gif)
 
 ## What are attitudinal indicators?
 
@@ -2017,15 +2017,3 @@ It is unlikely that we will know the true potential of a system like this one un
 
 We shouldn't need to wait that long to detect significant effects. Emotion is so basic to our lives that even a small change or improvement in emotional communication would have immediately noticeable effects. Perhaps it will be the case that the most important contribution of our “logical language” will be in the non-logical realm of emotion!
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                              |
-| -------------------------------------: | :------------------------------------------- |
-| [Prev: Chapter 12](chapter12) | [Next: Chapter 14](chapter14) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

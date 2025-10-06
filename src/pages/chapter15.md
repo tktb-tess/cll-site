@@ -7,7 +7,7 @@ next: chapter16
 nextTitle: 'Next: Chapter 16'
 ---
 
-![The picture for chapter 15](../assets/chapter-negation.gif)
+![The picture for chapter 15](../assets/chapter15.gif)
 
 ## Introductory
 
@@ -1339,15 +1339,3 @@ Finally, one may metalinguistically affirm a bridi with _[jo'a](glossary#valsi-j
 
 na go'i .ije na'e go'i .ije na'i go'i
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                              |                                              |
-| -------------------------------------------: | :------------------------------------------- |
-| [Prev: Chapter 14](chapter14) | [Next: Chapter 16](chapter16) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

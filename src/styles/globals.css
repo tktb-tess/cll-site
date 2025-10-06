@@ -3,11 +3,9 @@
 
 @theme {
   --font-sans: 'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
-    'BIZ UDPGothic', 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', sans-serif,
-    'Segoe UI', 'Yu Gothic UI', system-ui;
-  --font-serif: 'Charis-Web', 'Times New Roman', 'Noto Serif JP',
-    'BIZ UDPMincho', 'Hiragino Mincho', 'Hiragino Serif', serif, 'Segoe UI',
-    'Yu Gothic UI', system-ui;
+    sans-serif, system-ui;
+  --font-serif: 'Charis-Web', 'Times New Roman', 'Noto Serif JP', serif,
+    system-ui;
 }
 
 @layer base {

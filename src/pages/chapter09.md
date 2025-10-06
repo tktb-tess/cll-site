@@ -7,7 +7,7 @@ next: chapter10
 nextTitle: 'Next: Chapter 10'
 ---
 
-![The picture for chapter 9](../assets/chapter-sumti-tcita.gif)
+![The picture for chapter 9](../assets/chapter09.gif)
 
 ## Introductory
 
@@ -1182,15 +1182,3 @@ The lujvo _[tamsmi](glossary#valsi-tamsmi)_ on which _[tai](glossary#valsi-tai)_
 
 This lujvo is employed because _[tarmi](glossary#valsi-tarmi)_ does not have a place structure useful for the modal's purpose.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                                  |                                         |
-| -----------------------------------------------: | :-------------------------------------- |
-| [Prev: Chapter 8](chapter08) | [Next: Chapter 10](chapter10) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

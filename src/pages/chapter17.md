@@ -8,7 +8,7 @@ nextTitle: 'Next: Chapter 18'
 ---
 
 
-![The picture for chapter 17](../assets/chapter-letterals.gif)
+![The picture for chapter 17](../assets/chapter17.gif)
 
 ## What's a letteral, anyway?
 
@@ -1019,15 +1019,3 @@ This table presents the standard English spellings and proposed Lojban versions.
 | Yankee   | _.iankis. bu_   |
 | Zulu     | _.zulus. bu_    |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                              |                                        |
-| -------------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 16](chapter16) | [Next: Chapter 18](chapter18) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

@@ -7,7 +7,7 @@ next: chapter07
 nextTitle: 'Next: Chapter 7'
 ---
 
-![The picture for chapter 6](../assets/chapter-sumti.gif)
+![The picture for chapter 6](../assets/chapter06.gif)
 
 ## The five kinds of simple sumti
 
@@ -1624,15 +1624,3 @@ refer to different pieces of text.
 
 The implicit quantifier for numbers and mathematical expressions is _[su'o](glossary#valsi-suho)_, because these sumti are analogous to _[lo](glossary#valsi-lo)_ descriptions: they refer to things which actually are numbers or pieces of text. In the case of numbers (with _[li](glossary#valsi-li)_), this is a distinction without a difference, as there is only one number which is 4; but there are many texts “4”, as many as there are documents in which that numeral appears.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                                 |
-| -------------------------------------: | :---------------------------------------------- |
-| [Prev: Chapter 5](chapter05) | [Next: Chapter 7](chapter07) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

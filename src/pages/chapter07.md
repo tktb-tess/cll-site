@@ -7,7 +7,7 @@ next: chapter08
 nextTitle: 'Next: Chapter 8'
 ---
 
-![The picture for chapter 7](../assets/chapter-anaphoric-cmavo.gif)
+![The picture for chapter 7](../assets/chapter07.gif)
 
 ## What are pro-sumti and pro-bridi? What are they for?
 
@@ -1588,15 +1588,3 @@ others:
 | se'u | SEhU | soi terminator                      |
 | da'o | DAhO | cancel all pro-sumti/pro-bridi      |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                       |                                                  |
-| ------------------------------------: | :----------------------------------------------- |
-| [Prev: Chapter 6](chapter06) | [Next: Chapter 8](chapter08) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

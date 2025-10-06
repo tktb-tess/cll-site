@@ -7,7 +7,7 @@ next: chapter20
 nextTitle: 'Next: Chapter 20'
 ---
 
-![The picture for chapter 19](../assets/chapter-structure.gif)
+![The picture for chapter 19](../assets/chapter19.gif)
 
 ## Introductory
 
@@ -1508,15 +1508,3 @@ The following list shows all the elidable terminators of Lojban. The first colum
 | vau  | (none)       | simple bridi or bridi-tails      |
 | ve'o | VEI          | mekso parentheses                |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                        |                                            |
-| -------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 18](chapter18) | [Next: Chapter 20](chapter20) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

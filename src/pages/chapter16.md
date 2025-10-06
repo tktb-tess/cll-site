@@ -7,7 +7,7 @@ next: chapter17
 nextTitle: 'Next: Chapter 17'
 ---
 
-![The picture for chapter 16](../assets/chapter-quantifiers.gif)
+![The picture for chapter 16](../assets/chapter16.gif)
 
 ## What's wrong with this picture?
 
@@ -1471,15 +1471,3 @@ The _pa da_ in [Example 16.109](chapter16#example-random-id-6gyb "Example 16.109
 
 This chapter is incomplete. There are many more aspects of logic that I neither fully understand nor feel competent to explain, neither in abstract nor in their Lojban realization. Lojban was designed to be a language that makes predicate logic speakable, and achieving that goal completely will need to wait for someone who understands both logic and Lojban better than I do. I can only hope to have pointed out the areas that are well-understood (and by implication, those that are not).
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                            |
-| ----------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 15](chapter15) | [Next: Chapter 17](chapter17) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

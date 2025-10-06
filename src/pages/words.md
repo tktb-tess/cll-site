@@ -1057,15 +1057,3 @@ nextTitle: 'Next: Examples Index'
   - zy: [Proposed lerfu words for the Greek alphabet](chapter17#idm47077876891888), [Proposed lerfu words for the Cyrillic alphabet](chapter17#idm47077876735024), [Proposed lerfu words for the Hebrew alphabet](chapter17#idm47077876565696)
   - zy.: [A to Z in Lojban, plus one](chapter17#idm47077878153600), [Forethought operators (Polish notation, functions)](chapter18#idm47077875355248)
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                  |                                   |
-| -------------------------------: | :-------------------------------- |
-| [Prev: General Index](general) | [Next: Examples Index](examples) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

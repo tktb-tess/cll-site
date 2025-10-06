@@ -7,7 +7,7 @@ next: chapter15
 nextTitle: 'Next: Chapter 15'
 ---
 
-![The picture for chapter 14](../assets/chapter-connectives.gif)
+![The picture for chapter 14](../assets/chapter14.gif)
 
 ## Logical connection and truth tables
 
@@ -2899,15 +2899,3 @@ Non-logical connectives (joiks, joigiks):
 
 [Section 14.14](chapter14#section-non-logical-connectives "14.14. Non-logical connectives"): a table of the meanings of JOI cmavo when used to connect sumti.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                               |                                           |
-| --------------------------------------------: | :---------------------------------------- |
-| [Prev: Chapter 13](chapter13) | [Next: Chapter 15](chapter15) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

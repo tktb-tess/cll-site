@@ -7,7 +7,7 @@ next: chapter03
 nextTitle: 'Next: Chapter 3'
 ---
 
-![The picture for chapter 2](../assets/chapter-tour.gif)
+![The picture for chapter 2](../assets/chapter02.gif)
 
 ## The concept of the bridi
 
@@ -1118,15 +1118,3 @@ Here is a review of the Lojban grammatical terms used in this chapter, plus some
 | _[tanru](glossary#valsi-tanru)_     | a group of two or more brivla, possibly with associated cmavo, that form a selbri; always divisible into two parts, with the first part modifying the meaning of the second part (which is taken to be basic). See [Chapter 5](chapter05 "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").        |
 | _[selma'o](glossary#valsi-selmaho)_ | a group of cmavo that have the same grammatical use (can appear interchangeably in sentences, as far as the grammar is concerned) but differ in meaning or other usage. See [Chapter 20](chapter20 "Chapter 20. A Catalogue of selma'o").                                                                                 |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                       |                                           |
-| ------------------------------------: | :---------------------------------------- |
-| [Prev: Chapter 1](chapter01) | [Next: Chapter 3](chapter03) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

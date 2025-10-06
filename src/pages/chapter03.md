@@ -7,7 +7,7 @@ next: chapter04
 nextTitle: 'Next: Chapter 4'
 ---
 
-![The picture for chapter 3](../assets/chapter-phonology.gif)
+![The picture for chapter 3](../assets/chapter03.gif)
 
 ## Orthography
 
@@ -747,15 +747,3 @@ The letters “vala” and “anna” are used for _u_ and _i_ only when those l
 
 Lojban, like Quenya, is a vowel-last language, so tehtar are read as following the tengwar on which they are placed. The conventional tehtar are used for the five regular vowels, and the dot below for _y_. The Lojban apostrophe is represented by “halla”. There is no equivalent of the Lojban comma or period.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                      |                                            |
-| -----------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 2](chapter02) | [Next: Chapter 4](chapter04) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

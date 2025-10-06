@@ -7,7 +7,7 @@ next: chapter19
 nextTitle: 'Next: Chapter 19'
 ---
 
-![The picture for chapter 18](../assets/chapter-mekso.gif)
+![The picture for chapter 18](../assets/chapter18.gif)
 
 ## Introductory
 
@@ -2616,15 +2616,3 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | ------------------------------------------------------------- |
 | x1 is at scale position (n) on the scale x2 \[by standard x3] |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                            |
-| -----------------------------------------: | :----------------------------------------- |
-| [Prev: Chapter 17](chapter17) | [Next: Chapter 19](chapter19) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

@@ -7,7 +7,7 @@ next: chapter12
 nextTitle: 'Next: Chapter 12'
 ---
 
-![The picture for chapter 11](../assets/chapter-abstractions.gif)
+![The picture for chapter 11](../assets/chapter11.gif)
 
 ## The syntax of abstraction
 
@@ -1164,11 +1164,3 @@ The following table gives each abstractor, an English gloss for it, a Lojban gis
 | pu'u | process of     | pruce | pup | x1 is a process of (the bridi)                           |
 | mu'e | point-event of | mulno | mub | x1 is a point-event/achievement of (the bridi)           |
 
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                         |                                        |
-| --------------------------------------: | :------------------------------------- |
-| [Prev: Chapter 10](chapter10) | [Next: Chapter 12](chapter12) |
-
-[Table of Contents](../)[Book Info Page](http://www.lojban.org/cll)

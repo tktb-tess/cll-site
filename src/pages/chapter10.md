@@ -7,7 +7,7 @@ next: chapter11
 nextTitle: 'Next: Chapter 11'
 ---
 
-![The picture for chapter 10](../assets/chapter-tenses.gif)
+![The picture for chapter 10](../assets/chapter10.gif)
 
 ## Introductory
 
@@ -3453,15 +3453,3 @@ _[zo'i](glossary#valsi-zohi)_ and _[ze'o](glossary#valsi-zeho)_ refer to directi
 
 _[fa'a](glossary#valsi-faha)_ and _[to'o](glossary#valsi-toho)_ refer to direction towards or away from some other point.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                             |                                               |
-| ------------------------------------------: | :-------------------------------------------- |
-| [Prev: Chapter 9](chapter09) | [Next: Chapter 11](chapter11) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

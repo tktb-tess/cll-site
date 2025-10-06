@@ -564,15 +564,3 @@ nextTitle: ''
 
 - zero to one: [Logical and non-logical connectives within mekso](chapter14#idm47077882853744)
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                       |    |
-| ------------------------------------: | :- |
-| [Prev: Lojban Words Index](words) |    |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

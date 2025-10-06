@@ -3641,15 +3641,3 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
   letteral for z.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                           |                                  |
-| ----------------------------------------: | :------------------------------- |
-| [Prev: Chapter 21](chapter21) | [Next: General Index](general) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

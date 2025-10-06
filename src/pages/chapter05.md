@@ -7,7 +7,7 @@ next: chapter06
 nextTitle: 'Next: Chapter 6'
 ---
 
-![The picture for chapter 5](../assets/chapter-selbri.gif)
+![The picture for chapter 5](../assets/chapter05.gif)
 
 ## Lojban content words: brivla
 
@@ -3020,12 +3020,3 @@ Note: same as [Example 5.153](chapter05#example-random-id-qKKM "Example 5.153. "
 | thing which is beautiful, small, a girl, and a school |
 
 
-| The Complete Lojban Language |
-| :--------------------------: |
-|                              |
-
-|                                            |                                       |
-| -----------------------------------------: | :------------------------------------ |
-| [Prev: Chapter 4](chapter04) | [Next: Chapter 6](chapter06) |
-
-[Table of Contents](../)[Book Info Page](http://www.lojban.org/cll)

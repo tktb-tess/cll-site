@@ -7,7 +7,7 @@ next: chapter21
 nextTitle: 'Next: Chapter 21'
 ---
 
-![The picture for chapter 20](../assets/chapter-catalogue.gif)
+![The picture for chapter 20](../assets/chapter20.gif)
 
 ## A Catalogue Of selma'o
 
@@ -1517,15 +1517,3 @@ Separates a logical prenex from a bridi or group of sentences to which it applie
 | ------------------------------------ |
 | There is someone who loves all fish. |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                           |
-| -----------------------------------------: | :---------------------------------------- |
-| [Prev: Chapter 19](chapter19) | [Next: Chapter 21](chapter21) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

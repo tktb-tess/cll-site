@@ -7,7 +7,7 @@ next: glossary
 nextTitle: 'Next: Lojban Word Glossary'
 ---
 
-![The picture for chapter 21](../assets/chapter-grammars.gif)
+![The picture for chapter 21](../assets/chapter21.gif)
 
 ## EBNF Grammar of Lojban
 
@@ -1271,15 +1271,3 @@ FAhO is a universal terminator and signals the end of parsable input.
 
   [BNF rule #32](chapter21#cll_bnf-32) 32
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                            |                                         |
-| -----------------------------------------: | :-------------------------------------- |
-| [Prev: Chapter 20](chapter20) | [Next: Lojban Word Glossary](glossary) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

@@ -8013,15 +8013,3 @@ nextTitle: 'Next: Lojban Words Index'
 
   - place structure: [Types of event abstractions](chapter11#idm47077892303472)
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                         |                                       |
-| --------------------------------------: | :------------------------------------ |
-| [Prev: Lojban Word Glossary](glossary) | [Next: Lojban Words Index](words) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

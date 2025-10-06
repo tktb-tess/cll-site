@@ -7,7 +7,7 @@ next: chapter02
 nextTitle: 'Next: Chapter 2'
 ---
 
-![The picture for chapter 1](../assets/chapter-about.gif)
+![The picture for chapter 1](../assets/chapter01.gif)
 
 ## What is Lojban?
 
@@ -156,15 +156,3 @@ The contents of [Chapter 21](chapter21 "Chapter 21. Formal Grammars") are in the
 
 For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA 22031-1303 USA. Telephone: 703-385-0273. Email address: [\[email protected\]](/cdn-cgi/l/email-protection#c9a5a5aee4aba6a8bbad89a5a6a3aba8a7e7a6bbae). Web Address: <http://www.lojban.org>.
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                                  |                                      |
-| -----------------------------------------------: | :----------------------------------- |
-| [Prev: The Complete Lojban Language](../) | [Next: Chapter 2](chapter02) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)

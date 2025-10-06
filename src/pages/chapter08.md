@@ -7,7 +7,7 @@ next: chapter09
 nextTitle: 'Next: Chapter 9'
 ---
 
-![The picture for chapter 8](../assets/chapter-relative-clauses.gif)
+![The picture for chapter 8](../assets/chapter08.gif)
 
 ## What are you pointing at?
 
@@ -1368,15 +1368,3 @@ Elidable terminators (each its own selma'o):
 | ku'o | relative clause elidable terminator |
 | ge'u | relative phrase elidable terminator |
 
----
-
-| The Complete Lojban Language |
-| :--------------------------: |
-
-|                                                 |                                             |
-| ----------------------------------------------: | :------------------------------------------ |
-| [Prev: Chapter 7](chapter07) | [Next: Chapter 9](chapter09) |
-
-[Table of Contents](../)
-
-[Book Info Page](http://www.lojban.org/cll)
