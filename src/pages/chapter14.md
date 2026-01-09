@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
-prev: chapter13
+prev: /chapter13
 prevTitle: 'Prev: Chapter 13'
-next: chapter15
+next: /chapter15
 nextTitle: 'Next: Chapter 15'
 ---
 

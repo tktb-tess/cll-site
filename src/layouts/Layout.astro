@@ -38,8 +38,16 @@ const { frontmatter } = Astro.props;
     >
       <p class='text-center text-xl'>The Complete Lojban Language</p>
       <div class='flex justify-center gap-4'>
-        <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
-        <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
+        {
+          frontmatter.prevTitle !== '' && (
+            <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
+          )
+        }
+        {
+          frontmatter.nextTitle !== '' && (
+            <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
+          )
+        }
       </div>
       <p class='text-center'><a href='/'>Table of Contents</a></p>
       <p class='text-center'>

@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 21. Formal Grammars'
-prev: chapter20
+prev: /chapter20
 prevTitle: 'Prev: Chapter 20'
-next: glossary
+next: /glossary
 nextTitle: 'Next: Lojban Word Glossary'
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses'
-prev: chapter16
+prev: /chapter16
 prevTitle: 'Prev: Chapter 16'
-next: chapter18
+next: /chapter18
 nextTitle: 'Next: Chapter 18'
 ---
 

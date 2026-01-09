@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: 'Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book'
 prev: /
 prevTitle: 'Prev: The Complete Lojban Language'
-next: chapter02
+next: /chapter02
 nextTitle: 'Next: Chapter 2'
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
-prev: chapter06
+prev: /chapter06
 prevTitle: 'Prev: Chapter 6'
-next: chapter08
+next: /chapter08
 nextTitle: 'Next: Chapter 8'
 ---
 

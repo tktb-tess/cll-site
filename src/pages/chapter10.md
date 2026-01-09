@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System'
-prev: chapter09
+prev: /chapter09
 prevTitle: 'Prev: Chapter 9'
-next: chapter11
+next: /chapter11
 nextTitle: 'Next: Chapter 11'
 ---
 

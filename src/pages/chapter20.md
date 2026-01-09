@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 20. A Catalogue of selma''o'
-prev: chapter19
+prev: /chapter19
 prevTitle: 'Prev: Chapter 19'
-next: chapter21
+next: /chapter21
 nextTitle: 'Next: Chapter 21'
 ---
 
