@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
-prev: chapyer05
+prev: /chapter05
 prevTitle: 'Prev: Chapter 5'
-next: chapter07
+next: /chapter07
 nextTitle: 'Next: Chapter 7'
 ---
 

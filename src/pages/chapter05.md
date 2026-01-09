@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban selbri'
-prev: chapter04
+prev: /chapter04
 prevTitle: 'Prev: Chapter 4'
-next: chapter06
+next: /chapter06
 nextTitle: 'Next: Chapter 6'
 ---
 

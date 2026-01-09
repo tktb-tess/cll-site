@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals'
-prev: chapter08
+prev: /chapter08
 prevTitle: 'Prev: Chapter 8'
-next: chapter10
+next: /chapter10
 nextTitle: 'Next: Chapter 10'
 ---
 

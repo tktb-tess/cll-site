@@ -1,7 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'The Complete Lojban Language'
-prev: ./
+prev: /
 prevTitle: ''
 next: chapter01
 nextTitle: 'Next: Chapter 1'

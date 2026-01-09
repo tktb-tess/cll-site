@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
-prev: chapter17
+prev: /chapter17
 prevTitle: 'Prev: Chapter 17'
-next: chapter19
+next: /chapter19
 nextTitle: 'Next: Chapter 19'
 ---
 

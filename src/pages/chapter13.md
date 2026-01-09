@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators'
-prev: chapter12
+prev: /chapter12
 prevTitle: 'Prev: Chapter 12'
-next: chapter14
+next: /chapter14
 nextTitle: 'Next: Chapter 14'
 ---
 

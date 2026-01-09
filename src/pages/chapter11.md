@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
-prev: chapter10
+prev: /chapter10
 prevTitle: 'Prev: Chapter 10'
-next: chapter12
+next: /chapter12
 nextTitle: 'Next: Chapter 12'
 ---
 

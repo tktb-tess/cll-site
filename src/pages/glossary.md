@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Lojban Word Glossary'
-prev: chapter21
+prev: /chapter21
 prevTitle: 'Prev: Chapter 21'
-next: general
+next: /general
 nextTitle: 'Next: General Index'
 ---
 

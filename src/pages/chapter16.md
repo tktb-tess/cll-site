@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic'
-prev: chapter15
+prev: /chapter15
 prevTitle: 'Prev: Chapter 15'
-next: chapter17
+next: /chapter17
 nextTitle: 'Next: Chapter 17'
 ---
 
