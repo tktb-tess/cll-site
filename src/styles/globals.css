@@ -11,10 +11,14 @@
 @layer base {
   #md-root {
     @apply prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
-    prose-headings:font-normal prose-a:hover:opacity-60;
+    prose-headings:font-normal prose-a:hover:opacity-60 wrap-anywhere;
 
     img {
       @apply mx-auto;
+    }
+
+    table {
+      @apply xl:max-w-max xl:me-auto;
     }
   }
 }

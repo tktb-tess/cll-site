@@ -3499,7 +3499,9 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - zabna
 
-  x1 is favorable/great/superb/fabulous/dandy/outstanding/swell/admirable/nice/commendable/delightful/desirable/enjoyable/laudable/likable/lovable/wonderful/praiseworthy/high-quality/cool in property x2 by standard x3; x1 rocks in aspect x2 according to x3
+  x1 is favorable/great/superb/fabulous/dandy/outstanding/swell/admirable/nice/commendable/delightful
+  /desirable/enjoyable/laudable/likable/lovable/wonderful/praiseworthy/high-quality/cool  
+  in property x2 by standard x3; x1 rocks in aspect x2 according to x3
 
 - za'a
 
