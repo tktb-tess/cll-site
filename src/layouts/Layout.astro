@@ -21,34 +21,40 @@ const { frontmatter } = Astro.props;
     <meta name='generator' content={Astro.generator} />
     <link
       rel='stylesheet'
-      href='https://tktb-tess.github.io/resources/fonts/Inter/setting.css'
+      href='https://api.tktb-tess.dev/fonts/Inter/font-face.css'
       crossorigin='anonymous'
     />
     <link
       rel='stylesheet'
-      href='https://tktb-tess.github.io/resources/fonts/Charis/setting.css'
+      href='https://api.tktb-tess.dev/fonts/Charis/font-face.css'
       crossorigin='anonymous'
     />
-    <link rel="icon" href="/cll-site/icon.svg" type="image/svg+xml" />
+    <link rel='icon' href='/icon.svg' type='image/svg+xml' />
     <title>{frontmatter.title}</title>
   </head>
   <body class='bg-slate-50 dark:bg-slate-950 flow-root'>
-    <header class='flex flex-col gap-2 px-4 w-full max-w-320 mx-auto my-8 text-[oklch(37%_0.013_285.805)] [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'>
+    <header
+      class='flex flex-col gap-2 px-4 w-full max-w-7xl mx-auto my-8 text-zinc-700 [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'
+    >
       <p class='text-center text-xl'>The Complete Lojban Language</p>
       <div class='flex justify-center gap-4'>
         <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
         <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
       </div>
-      <p class="text-center"><a href='/cll-site/'>Table of Contents</a></p>
-      <p class="text-center">
+      <p class='text-center'><a href='/'>Table of Contents</a></p>
+      <p class='text-center'>
         <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
           Book Info Page
         </a>
       </p>
     </header>
     <main>
-      <h1 class="font-extralight text-center my-12">{frontmatter.title}</h1>
-      <slot />
+      <div id='md-root'>
+        <h1 class='font-extralight text-center my-12 text-zinc-700'>
+          {frontmatter.title}
+        </h1>
+        <slot />
+      </div>
     </main>
   </body>
 </html>

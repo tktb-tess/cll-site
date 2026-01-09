@@ -2,7 +2,8 @@ name: Build Astro and Deploy to Pages
 
 on:
   push:
-    branches: ['main']
+    branches:
+      - main
 
   workflow_dispatch:
 
@@ -24,13 +25,13 @@ jobs:
 
       - name: Install pnpm
         uses: pnpm/action-setup@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: pnpm
-      
+
       - name: Install Dependencies
         run: pnpm i --frozen-lockfile
 
