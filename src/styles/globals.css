@@ -12,7 +12,7 @@
   #md-root {
     @apply prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
     prose-headings:font-normal prose-a:hover:opacity-60;
-    
+
     img {
       @apply mx-auto;
     }
