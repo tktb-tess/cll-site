@@ -1,24 +1,26 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/typography';
 
-@theme {
+@theme inline {
   --font-sans: 'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
     sans-serif, system-ui;
   --font-serif: 'Charis-Web', 'Times New Roman', 'Noto Serif JP', serif,
     system-ui;
+  --font-ipa: 'Charis-Web', serif, system-ui;
 }
 
 @layer base {
   #md-root {
-    @apply prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
-    prose-headings:font-normal prose-a:hover:opacity-60 wrap-anywhere;
+    @apply flow-root prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
+    prose-headings:font-normal prose-a:hover:opacity-60 wrap-anywhere 
+    bg-slate-50 dark:bg-slate-950;
 
     img {
       @apply mx-auto;
     }
 
     table {
-      @apply xl:max-w-max xl:me-auto;
+      @apply lg:max-w-max lg:me-auto;
     }
   }
 }

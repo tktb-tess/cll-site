@@ -32,37 +32,35 @@ const { frontmatter } = Astro.props;
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
     <title>{frontmatter.title}</title>
   </head>
-  <body class='bg-slate-50 dark:bg-slate-950 flow-root'>
-    <header
-      class='flex flex-col gap-2 px-4 w-full max-w-7xl mx-auto my-8 text-zinc-700 [&_a]:underline [&_a]:text-black [&_a]:hover:opacity-60'
-    >
-      <p class='text-center text-xl'>The Complete Lojban Language</p>
-      <div class='flex justify-center gap-4'>
-        {
-          frontmatter.prevTitle !== '' && (
-            <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
-          )
-        }
-        {
-          frontmatter.nextTitle !== '' && (
-            <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
-          )
-        }
-      </div>
-      <p class='text-center'><a href='/'>Table of Contents</a></p>
-      <p class='text-center'>
-        <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
-          Book Info Page
-        </a>
-      </p>
-    </header>
-    <main>
-      <div id='md-root'>
-        <h1 class='font-extralight text-center my-12 text-zinc-700'>
+  <body>
+    <div id='md-root'>
+      <header class='flex flex-col gap-2 px-4 w-full max-w-7xl mx-auto my-8 *:my-0'>
+        <p class='text-center text-xl'>The Complete Lojban Language</p>
+        <div class='flex justify-center gap-4'>
+          {
+            frontmatter.prevTitle !== '' && (
+              <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
+            )
+          }
+          {
+            frontmatter.nextTitle !== '' && (
+              <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
+            )
+          }
+        </div>
+        <p class='text-center'><a href='/'>Table of Contents</a></p>
+        <p class='text-center'>
+          <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
+            Book Info Page
+          </a>
+        </p>
+      </header>
+      <main>
+        <h1 class='font-extralight text-center my-12'>
           {frontmatter.title}
         </h1>
         <slot />
-      </div>
-    </main>
+      </main>
+    </div>
   </body>
 </html>

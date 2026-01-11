@@ -16,25 +16,15 @@ Lojban (pronounced “LOZH-bahn”) is a constructed language. Previous versions
 There are thousands of artificial languages (of which Esperanto is the best-known), but Loglan/Lojban has been engineered to make it unique in several ways. The following are the main features of Lojban:
 
 - Lojban is designed to be used by people in communication with each other, and possibly in the future with computers.
-
 - Lojban is designed to be neutral between cultures.
-
 - Lojban grammar is based on the principles of predicate logic.
-
 - Lojban has an unambiguous yet flexible grammar.
-
 - Lojban has phonetic spelling, and unambiguously resolves its sounds into words.
-
 - Lojban is simple compared to natural languages; it is easy to learn.
-
 - Lojban's 1300 root words can be easily combined to form a vocabulary of millions of words.
-
 - Lojban is regular; the rules of the language are without exceptions.
-
 - Lojban attempts to remove restrictions on creative and clear thought and communication.
-
 - Lojban has a variety of uses, ranging from the creative to the scientific, from the theoretical to the practical.
-
 - Lojban has been demonstrated in translation and in original works of prose and poetry.
 
 ## What is this book?
