@@ -27,3 +27,7 @@
     }
   }
 }
+
+@utility table-scrollable {
+  @apply overflow-auto max-w-full text-nowrap;
+}

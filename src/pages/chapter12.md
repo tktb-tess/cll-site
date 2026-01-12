@@ -32,7 +32,7 @@ contains a tanru which can be reduced to the lujvo in:
 | That | is-fire-waste. |
 | That | is-ashes.      |
 
-Although the lujvo *[fagyfesti](/glossary/#fagyfesti)* is derived from the tanru *fagri festi*, it is not equivalent in meaning to it. In particular, *[fagyfesti](/glossary/#fagyfesti)* has a distinct place structure of its own, not the same as that of *[festi](/glossary/#festi)*. (In contrast, the tanru does have the same place structure as *[festi](/glossary/#festi)*.) The lujvo needs to take account of the places of *[fagri](/glossary/#fagri)* as well. When a tanru is made into a lujvo, there is no equivalent of *[be'o](/glossary/#beo)* (described in [Section 5.7](/chapter05/#section-be-sumti "5.7. Linked sumti: be-bei-be'o")) to incorporate sumti into the middle of the lujvo.
+Although the lujvo *[fagyfesti](/glossary/#fagyfesti)* is derived from the tanru *fagri festi*, it is not equivalent in meaning to it. In particular, *[fagyfesti](/glossary/#fagyfesti)* has a distinct place structure of its own, not the same as that of *[festi](/glossary/#festi)*. (In contrast, the tanru does have the same place structure as *[festi](/glossary/#festi)*.) The lujvo needs to take account of the places of *[fagri](/glossary/#fagri)* as well. When a tanru is made into a lujvo, there is no equivalent of *[be'o](/glossary/#beo)* (described in [Section 5.7](/chapter05/#linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o")) to incorporate sumti into the middle of the lujvo.
 
 So why have lujvo? Primarily to reduce semantic ambiguity. On hearing a tanru, there is a burden on the listener to figure out what the tanru might mean. Adding further terms to the tanru reduces ambiguity in one sense, by providing more information; but it increases ambiguity in another sense, because there are more and more tanru joints, each with an ambiguous significance. Since lujvo, like other brivla, have a fixed place structure and a single meaning, encapsulating a commonly-used tanru into a lujvo relieves the listener of the burden of creative understanding. In addition, lujvo are typically shorter than the corresponding tanru.
 
@@ -40,7 +40,7 @@ There are no absolute laws fixing the place structure of a newly created lujvo. 
 
 If the tanru includes connective cmavo such as *[bo](/glossary/#bo)*, *[ke](/glossary/#ke)*, *[ke'e](/glossary/#kee)*, or *[je](/glossary/#je)*, or conversion or abstraction cmavo such as *[se](/glossary/#se)* or *[nu](/glossary/#nu)*, there are ways of incorporating them into the lujvo as well. Sometimes this makes the lujvo excessively long; if so, the cmavo may be dropped. This leads to the possibility that more than one tanru could produce the same lujvo. Typically, however, only one of the possible tanru is useful enough to justify making a lujvo for it.
 
-The exact workings of the lujvo-making algorithm, which takes a tanru built from gismu (and possibly cmavo) and produces a lujvo from it, are described in [Section 4.11](/chapter04/#section-lujvo-making "4.11. The lujvo-making algorithm").
+The exact workings of the lujvo-making algorithm, which takes a tanru built from gismu (and possibly cmavo) and produces a lujvo from it, are described in [Section 4.11](/chapter04/#the-lujvo-making-algorithm "4.11. The lujvo-making algorithm").
 
 ## The meaning of tanru: a necessary detour
 
@@ -91,7 +91,7 @@ As we have seen, no less than five elements are involved in the definition of *g
 | zdani             | la         | bil. | klinton. |
 | type-of-house-for | that-named | Bill | Clinton. |
 
-Not the most elegant sentence ever written in either Lojban or English. Yet if there is any relation at all between Spot and the White House, [Example 12.5](/chapter12/#example-random-id-tUDa "Example 12.5. ") is arguably true. If we concentrate on just one type of relation in interpreting the tanru *gerku zdani*, then the meaning of *gerku zdani* changes. So if we understand *gerku zdani* as having the same meaning as the English word “doghouse”, the White House would no longer be a *gerku zdani* with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
+Not the most elegant sentence ever written in either Lojban or English. Yet if there is any relation at all between Spot and the White House, [Example 12.5](/chapter12/#example-125 "Example 12.5. ") is arguably true. If we concentrate on just one type of relation in interpreting the tanru *gerku zdani*, then the meaning of *gerku zdani* changes. So if we understand *gerku zdani* as having the same meaning as the English word “doghouse”, the White House would no longer be a *gerku zdani* with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
 
 ## The meaning of lujvo
 
@@ -109,9 +109,9 @@ The seltau-tertau relationship in the veljvo is expressed by the seltau or terta
 
 So what is the place structure of *[gerzda](/glossary/#gerzda)*? We're left with three places, since the dweller, the *se zdani*, turned out to be identical to the dog, the *[gerku](/glossary/#gerku)*. We can proceed as follows:
 
-(The notation introduced casually in [Section 12.2](/chapter12/#section-tanru-meanings "12.2. The meaning of tanru: a necessary detour") will be useful in the rest of this chapter. Rather than using the regular x1, x2, etc. to represent places, we'll use the first letter of the relevant gismu in place of the “x”, or more than one letter where necessary to resolve ambiguities. Thus, z1 is the first place of *[zdani](/glossary/#zdani)*, and g2 is the second place of *[gerku](/glossary/#gerku)*.)
+(The notation introduced casually in [Section 12.2](/chapter12/#the-meaning-of-tanru-a-necessary-detour "12.2. The meaning of tanru: a necessary detour") will be useful in the rest of this chapter. Rather than using the regular x1, x2, etc. to represent places, we'll use the first letter of the relevant gismu in place of the “x”, or more than one letter where necessary to resolve ambiguities. Thus, z1 is the first place of *[zdani](/glossary/#zdani)*, and g2 is the second place of *[gerku](/glossary/#gerku)*.)
 
-The place structure of *[zdani](/glossary/#zdani)* is given as [Example 12.3](/chapter12/#example-random-id-xcfi "Example 12.3. "), but is repeated here using the new notation:
+The place structure of *[zdani](/glossary/#zdani)* is given as [Example 12.3](/chapter12/#example-123 "Example 12.3. "), but is repeated here using the new notation:
 
 ##### Example 12.6.
 
@@ -141,7 +141,7 @@ or more comprehensively
 
 > z1 is a house for dweller/dog z2=g1 of breed g2
 
-Despite the apparently conclusive nature of [Example 12.10](/chapter12/#example-random-id-Wx42 "Example 12.10. "), our task is not yet done: we still need to decide whether any of the remaining places should also be eliminated, and what order the lujvo places should appear in. These concerns will be addressed in the remainder of the chapter; but we are now equipped with the terminology needed for those discussions.
+Despite the apparently conclusive nature of [Example 12.10](/chapter12/#example-1210 "Example 12.10. "), our task is not yet done: we still need to decide whether any of the remaining places should also be eliminated, and what order the lujvo places should appear in. These concerns will be addressed in the remainder of the chapter; but we are now equipped with the terminology needed for those discussions.
 
 ## Selecting places
 
@@ -151,7 +151,7 @@ It would be possible to design the place structure of a lujvo from scratch, trea
 
 The first is that it might be very difficult for a hearer or reader, who has no preconceived idea of what concept the lujvo is intended to convey, to work out what the place structure actually is. Instead, he or she would have to make use of a lujvo dictionary every time a lujvo is encountered in order to work out what a *se jbopli* or a *te klagau* is. But this would mean that, rather than having to learn just the 1300-odd gismu place structures, a Lojbanist would also have to learn myriads of lujvo place structures with little or no apparent pattern or regularity to them. The purpose of the guidelines documented in this chapter is to apply regularity and to make it conventional wherever possible.
 
-The second reason is related to the first: if the veljvo of the lujvo has not been properly selected, and the places for the lujvo are formulated from scratch, then there is a risk that some of the places formulated may not correspond to any of the places of the gismu used in the veljvo of the lujvo. If that is the case – that is to say, if the lujvo places are not a subset of the veljvo gismu places – then it will be very difficult for the hearer or reader to understand what a particular place means, and what it is doing in that particular lujvo. This is a topic that will be further discussed in [Section 12.14](/chapter12/#section-anomalous-lujvo "12.14. Anomalous lujvo").
+The second reason is related to the first: if the veljvo of the lujvo has not been properly selected, and the places for the lujvo are formulated from scratch, then there is a risk that some of the places formulated may not correspond to any of the places of the gismu used in the veljvo of the lujvo. If that is the case – that is to say, if the lujvo places are not a subset of the veljvo gismu places – then it will be very difficult for the hearer or reader to understand what a particular place means, and what it is doing in that particular lujvo. This is a topic that will be further discussed in [Section 12.14](/chapter12/#anomalous-lujvo "12.14. Anomalous lujvo").
 
 However, second-guessing the place structure of the lujvo is useful in guiding the process of subsequently eliminating places from the veljvo. If the Lojbanist has an idea of what the final place structure should look like, he or she should be able to pick an appropriate veljvo to begin with, in order to express the idea, and then to decide which places are relevant or not relevant to expressing that idea.
 
@@ -187,7 +187,7 @@ Why so? Because not only is the j1 place (the one who pays attention) equivalent
 
 *[gerku](/glossary/#gerku)* in this case is equivalent to a place other than the first place of the tertau; such lujvo are said to be “asymmetrical”. (There is a deliberate parallel here with the terms “asymmetrical tanru” and “symmetrical tanru” used in [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").)
 
-In principle any asymmetrical lujvo could be expressed as a symmetrical lujvo. Consider *[gerzda](/glossary/#gerzda)*, discussed in [Section 12.3](/chapter12/#section-lujvo-meanings "12.3. The meaning of lujvo"), where we learned that the g1 place was equivalent to the z2 place. In order to get the places aligned, we could convert *[zdani](/glossary/#zdani)* to *se zdani* (or *selzda* when expressed as a lujvo). The place structure of *selzda* is
+In principle any asymmetrical lujvo could be expressed as a symmetrical lujvo. Consider *[gerzda](/glossary/#gerzda)*, discussed in [Section 12.3](/chapter12/#the-meaning-of-lujvo "12.3. The meaning of lujvo"), where we learned that the g1 place was equivalent to the z2 place. In order to get the places aligned, we could convert *[zdani](/glossary/#zdani)* to *se zdani* (or *selzda* when expressed as a lujvo). The place structure of *selzda* is
 
 ##### Example 12.15.
 
@@ -229,7 +229,7 @@ In order to understand which places, if any, should be completely removed from a
 
 For *[zdani](/glossary/#zdani)*, on the other hand, there is no dependency between the places. When we know the identity of a house-dweller, we have not determined the house, because a dweller may dwell in more than one house. By the same token, when we know the identity of a house, we do not know the identity of its dweller, for a house may contain more than one dweller.
 
-The rule for eliminating places from a lujvo is that dependent places provided by the seltau are eliminated. Therefore, in *[gerzda](/glossary/#gerzda)* the dependent g2 place is removed from the tentative place structure given in [Example 12.10](/chapter12/#example-random-id-Wx42 "Example 12.10. "), leaving the place structure:
+The rule for eliminating places from a lujvo is that dependent places provided by the seltau are eliminated. Therefore, in *[gerzda](/glossary/#gerzda)* the dependent g2 place is removed from the tentative place structure given in [Example 12.10](/chapter12/#example-1210 "Example 12.10. "), leaving the place structure:
 
 ##### Example 12.20.
 
@@ -300,7 +300,7 @@ and in that case, it makes little sense to say
 |          | la         | sankt. | berNARD. |
 | of-breed | that-named | St.    | Bernard. |
 
-employing the over-ample place structure of [Example 12.10](/chapter12/#example-random-id-Wx42 "Example 12.10. "). The dog breed is redundantly given both in the main selbri and in the relative clause, and (intuitively speaking) is repeated in the wrong place, since the dog breed is supplementary information about the dog, and not about the doghouse.
+employing the over-ample place structure of [Example 12.10](/chapter12/#example-1210 "Example 12.10. "). The dog breed is redundantly given both in the main selbri and in the relative clause, and (intuitively speaking) is repeated in the wrong place, since the dog breed is supplementary information about the dog, and not about the doghouse.
 
 As a further example, take *[cakcinki](/glossary/#cakcinki)*, the lujvo for “beetle”, based on the tanru *calku cinki*, or “shell-insect”. The gismu place structures are:
 
@@ -319,7 +319,7 @@ with not a single place of *[calku](/glossary/#calku)* surviving independently!(
 
 In general, the desire to remove places coming from the tertau is a sign that the veljvo selected is simply wrong. Different place structures imply different concepts, and the lujvo maker may be trying to shoehorn the wrong concept into the place structure of his or her choosing. This is obvious when someone tries to shoehorn a *[klama](/glossary/#klama)* tertau into a *[litru](/glossary/#litru)* or *[cliva](/glossary/#cliva)* concept, for example: these gismu differ in their number of arguments, and suppressing places of *[klama](/glossary/#klama)* in a lujvo doesn't make any sense if the resulting modified place structure is that of *[litru](/glossary/#litru)* or *[cliva](/glossary/#cliva)*.
 
-Sometimes the dependency is between a single place of the tertau and the whole event described by the seltau. Such cases are discussed further in [Section 12.13](/chapter12/#section-implicit-abstraction "12.13. Implicit-abstraction lujvo").
+Sometimes the dependency is between a single place of the tertau and the whole event described by the seltau. Such cases are discussed further in [Section 12.13](/chapter12/#implicit-abstraction-lujvo "12.13. Implicit-abstraction lujvo").
 
 Unfortunately, not all dependent places in the seltau can be safely removed: some of them are necessary to interpreting the lujvo's meaning in context. It doesn't matter much to a doghouse what breed of dog inhabits it, but it can make quite a lot of difference to the construction of a school building what kind of school is in it! Music schools need auditoriums and recital rooms, elementary schools need playgrounds, and so on: therefore, the place structure of *[kuldi'u](/glossary/#kuldiu)* (from *ckule dinju*, and meaning “school building”) needs to be
 
@@ -354,15 +354,15 @@ or is the entity being prayed to, resulting in
 
 > This is a prayer to Dong
 
-We could resolve such problems on a case-by-case basis for each lujvo ([Section 12.14](/chapter12/#section-anomalous-lujvo "12.14. Anomalous lujvo") discusses when this is actually necessary), but case-by-case resolution for run-of-the-mill lujvo makes the task of learning lujvo place structures unmanageable. People need consistent patterns to make sense of what they learn. Such patterns can be found across gismu place structures (see [Section 12.16](/chapter12/#section-gismu-place-structures "12.16. Notes on gismu place structures")), and are even more necessary in lujvo place structures. Case-by-case consideration is still necessary; lujvo creation is a subtle art, after all. But it is helpful to take advantage of any available regularities.
+We could resolve such problems on a case-by-case basis for each lujvo ([Section 12.14](/chapter12/#anomalous-lujvo "12.14. Anomalous lujvo") discusses when this is actually necessary), but case-by-case resolution for run-of-the-mill lujvo makes the task of learning lujvo place structures unmanageable. People need consistent patterns to make sense of what they learn. Such patterns can be found across gismu place structures (see [Section 12.16](/chapter12/#notes-on-gismu-place-structures "12.16. Notes on gismu place structures")), and are even more necessary in lujvo place structures. Case-by-case consideration is still necessary; lujvo creation is a subtle art, after all. But it is helpful to take advantage of any available regularities.
 
-We use two different ordering rules: one for symmetrical lujvo and one for asymmetrical ones. A symmetrical lujvo like *[balsoi](/glossary/#balsoi)* (from [Section 12.5](/chapter12/#section-symmetrical-asymmetrical "12.5. Symmetrical and asymmetrical lujvo")) has the places of its tertau followed by whatever places of the seltau survive the elimination process. For *[balsoi](/glossary/#balsoi)*, the surviving places of *[banli](/glossary/#banli)* are b2 and b3, leading to the place structure:
+We use two different ordering rules: one for symmetrical lujvo and one for asymmetrical ones. A symmetrical lujvo like *[balsoi](/glossary/#balsoi)* (from [Section 12.5](/chapter12/#symmetrical-and-asymmetrical-lujvo "12.5. Symmetrical and asymmetrical lujvo")) has the places of its tertau followed by whatever places of the seltau survive the elimination process. For *[balsoi](/glossary/#balsoi)*, the surviving places of *[banli](/glossary/#banli)* are b2 and b3, leading to the place structure:
 
 ##### Example 12.32.
 
 > b1=s1 is a great soldier of army s2 in property b2 by standard b3
 
-just what appears in [Example 12.11](/chapter12/#example-random-id-7AFc "Example 12.11. "). In fact, all place structures shown until now have been in the correct order by the conventions of this section, though the fact has been left tacit until now\.
+just what appears in [Example 12.11](/chapter12/#example-1211 "Example 12.11. "). In fact, all place structures shown until now have been in the correct order by the conventions of this section, though the fact has been left tacit until now\.
 
 The motivation for this rule is the parallelism between the lujvo bridi-schema
 
@@ -382,7 +382,7 @@ and the more or less equivalent bridi-schema
 | b1 | sonci        | s2         | gi'e | banli    | b2             | b3             |
 | b1 | is-a-soldier | of-army-s2 | and  | is-great | in-property-b2 | by-standard-b3 |
 
-where *[gi'e](/glossary/#gie)* is the Lojban word for “and” when placed between two partial bridi, as explained in [Section 14.9](/chapter14/#section-compound-bridi "14.9. Compound bridi").
+where *[gi'e](/glossary/#gie)* is the Lojban word for “and” when placed between two partial bridi, as explained in [Section 14.9](/chapter14/#compound-bridi "14.9. Compound bridi").
 
 Asymmetrical lujvo like *[gerzda](/glossary/#gerzda)*, on the other hand, employ a different rule. The seltau places are inserted not at the end of the place structure, but rather immediately after the tertau place which is equivalent to the first place of the seltau. Consider *[dalmikce](/glossary/#dalmikce)*, meaning “veterinarian”: its veljvo is *danlu mikce*, or “animal doctor”. The place structures for those gismu are:
 
@@ -548,7 +548,7 @@ because the alternative,
 | \[ke\] | zekri | nenri  | \[ke'e\] | klama |
 | (     | crime | inside | )       | go    |
 
-doesn't make much sense. (To go to the inside of a crime? To go into a place where it is criminal to be inside – an interpretation almost identical with [Example 12.51](/chapter12/#example-random-id-aXrm "Example 12.51. ") anyway?)There are cases, however, where omitting a KE or KEhE rafsi can produce another lujvo, equally useful. For example, *xaskemcakcurnu* means “oceanic shellfish”, and has the veljvo
+doesn't make much sense. (To go to the inside of a crime? To go into a place where it is criminal to be inside – an interpretation almost identical with [Example 12.51](/chapter12/#example-1251 "Example 12.51. ") anyway?)There are cases, however, where omitting a KE or KEhE rafsi can produce another lujvo, equally useful. For example, *xaskemcakcurnu* means “oceanic shellfish”, and has the veljvo
 
 ##### Example 12.53.
 
@@ -584,7 +584,7 @@ If the lujvo we want to modify with SE has a seltau already starting with a SE r
 
 But we can also say it is *selselgekmau*. Two *se se gleki* means the same as just *[gleki](/glossary/#gleki)*), so there would be no good reason to have *selsel* in a lujvo with that meaning. Instead, we can feel free to interpret *selsel-* as *selkemsel-*. The rafsi combinations *terter-*, *velvel-* and *xelxel-* work in the same way.
 
-Other SE combinations like *selter-*, although they might conceivably mean *se te*, more than likely should be interpreted in the same way, namely as *se ke te*, since there is no need to re-order places in the way that *se te* provides. (See [Section 9.4](/chapter09/#section-SE "9.4. Conversion: SE").)## Abstract lujvo
+Other SE combinations like *selter-*, although they might conceivably mean *se te*, more than likely should be interpreted in the same way, namely as *se ke te*, since there is no need to re-order places in the way that *se te* provides. (See [Section 9.4](/chapter09/#conversion-se "9.4. Conversion: SE").)## Abstract lujvo
 
 The cmavo of NU can participate in the construction of lujvo of a particularly simple and well-patterned kind. Consider that old standard example, *[klama](/glossary/#klama)*:
 
@@ -621,7 +621,7 @@ has the place structure
 
 > d1 desires the event of (s1 being a soldier of army s2) for purpose d3
 
-where the d2 place has disappeared altogether, being replaced by the places of the seltau. As shown in [Example 12.60](/chapter12/#example-random-id-8Nos "Example 12.60. "), the ordering follows this idea of replacement: the seltau places are inserted at the point where the omitted abstraction place exists in the tertau.
+where the d2 place has disappeared altogether, being replaced by the places of the seltau. As shown in [Example 12.60](/chapter12/#example-1260 "Example 12.60. "), the ordering follows this idea of replacement: the seltau places are inserted at the point where the omitted abstraction place exists in the tertau.
 
 The lujvo *nunsoidji* is quite different from the ordinary asymmetric lujvo *soidji*, a “soldier desirer”, whose place structure is just
 
@@ -633,7 +633,7 @@ A *nunsoidji* might be someone who is about to enlist, whereas a *soidji* might 
 
 One use of abstract lujvo is to eliminate the need for explicit *[kei](/glossary/#kei)* in tanru: *nunkalri gasnu* means much the same as *nu kalri kei gasnu*, but is shorter. In addition, many English words ending in *-hood* are represented with *nun-* lujvo, and other words ending in “-ness” or “-dom” are often representable with *kam-* lujvo (*kam-* is the rafsi for *[ka](/glossary/#ka)*); *[kambla](/glossary/#kambla)* is “blueness”.
 
-Even though the cmavo of NU are long-scope in nature, governing the whole following bridi, the NU rafsi should generally be used as short-scope modifiers, like the SE and NAhE rafsi discussed in [Section 12.9](/chapter12/#section-seltau-SE "12.9. Eliding SE rafsi from seltau").
+Even though the cmavo of NU are long-scope in nature, governing the whole following bridi, the NU rafsi should generally be used as short-scope modifiers, like the SE and NAhE rafsi discussed in [Section 12.9](/chapter12/#eliding-se-rafsi-from-seltau "12.9. Eliding SE rafsi from seltau").
 
 There is also a rafsi for the cmavo *[jai](/glossary/#jai)*, namely *jax*, which allows sentences like
 
@@ -648,7 +648,7 @@ There is also a rafsi for the cmavo *[jai](/glossary/#jai)*, namely *jax*, which
 | ------------------- |
 | I cause your death. |
 
-explained in [Section 11.10](/chapter11/#section-sumti-raising "11.10. Lojban sumti raising"), to be rendered with lujvo:
+explained in [Section 11.10](/chapter11/#lojban-sumti-raising "11.10. Lojban sumti raising"), to be rendered with lujvo:
 
 ##### Example 12.63.
 
@@ -657,7 +657,7 @@ explained in [Section 11.10](/chapter11/#section-sumti-raising "11.10. Lojban su
 | mi | jaxri'a                 | le  | nu       | do   | morsi  |
 | I  | am-part-of-the-cause-of | the | event-of | your | dying. |
 
-In making a lujvo that contains *jax-* for a selbri that contains *[jai](/glossary/#jai)*, the rule is to leave the *[fai](/glossary/#fai)* place as a *[fai](/glossary/#fai)* place of the lujvo; it does not participate in the regular lujvo place structure. (The use of *[fai](/glossary/#fai)* is explained in [Section 9.12](/chapter09/#section-modal-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#section-jai "10.22. Conversion of sumti tcita: JAI").)
+In making a lujvo that contains *jax-* for a selbri that contains *[jai](/glossary/#jai)*, the rule is to leave the *[fai](/glossary/#fai)* place as a *[fai](/glossary/#fai)* place of the lujvo; it does not participate in the regular lujvo place structure. (The use of *[fai](/glossary/#fai)* is explained in [Section 9.12](/chapter09/#modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI").)
 
 ## Implicit-abstraction lujvo
 
@@ -673,7 +673,7 @@ Let us make a detailed analysis of the lujvo *nunctikezgau*, meaning “to feed�
 > *[citka](/glossary/#citka)*: c1 eats c2
 > *[gasnu](/glossary/#gasnu)*: g1 does action/is the agent of event g2
 
-In accordance with the procedure for analyzing three-part lujvo given in [Section 12.8](/chapter12/#section-n-part-lujvo "12.8. lujvo with more than two parts."), we will first create an intermediate lujvo, *[nuncti](/glossary/#nuncti)*, whose veljvo is *nu citka \[kei\]*. By the rules given in [Section 12.12](/chapter12/#section-abstraction-lujvo "12.12. Abstract lujvo"), *[nuncti](/glossary/#nuncti)* has the place structure
+In accordance with the procedure for analyzing three-part lujvo given in [Section 12.8](/chapter12/#lujvo-with-more-than-two-parts "12.8. lujvo with more than two parts."), we will first create an intermediate lujvo, *[nuncti](/glossary/#nuncti)*, whose veljvo is *nu citka \[kei\]*. By the rules given in [Section 12.12](/chapter12/#abstract-lujvo "12.12. Abstract lujvo"), *[nuncti](/glossary/#nuncti)* has the place structure
 
 ##### Example 12.65.
 
@@ -691,7 +691,7 @@ But it is also possible to omit the n1 place itself! The n1 place describes the 
 
 > g1 is the actor in the event of c1 eating c2
 
-There is one further step that can be taken. As we have already seen with *[balsoi](/glossary/#balsoi)* in [Section 12.5](/chapter12/#section-symmetrical-asymmetrical "12.5. Symmetrical and asymmetrical lujvo"), the interpretation of lujvo is constrained by the semantics of gismu and of their sumti places. Now, any asymmetrical lujvo with *[gasnu](/glossary/#gasnu)* as its tertau will involve an event abstraction either implicitly or explicitly, since that is how the g2 place of *[gasnu](/glossary/#gasnu)* is defined.
+There is one further step that can be taken. As we have already seen with *[balsoi](/glossary/#balsoi)* in [Section 12.5](/chapter12/#symmetrical-and-asymmetrical-lujvo "12.5. Symmetrical and asymmetrical lujvo"), the interpretation of lujvo is constrained by the semantics of gismu and of their sumti places. Now, any asymmetrical lujvo with *[gasnu](/glossary/#gasnu)* as its tertau will involve an event abstraction either implicitly or explicitly, since that is how the g2 place of *[gasnu](/glossary/#gasnu)* is defined.
 
 Therefore, if we assume that *[nu](/glossary/#nu)* is the type of abstraction one would expect to be a *se gasnu*, then the rafsi *nun* and *kez* in *nunctikezgau* are only telling us what we would already have guessed – that the seltau of a *[gasnu](/glossary/#gasnu)* lujvo is an event. If we drop these rafsi out, and use instead the shorter lujvo *[ctigau](/glossary/#ctigau)*, rejecting its symmetrical interpretation (“someone who both does and eats”; “an eating doer”), we can still deduce that the seltau refers to an event.(You can't “do an eater”/ *gasnu lo citka*, with the meaning of *[do](/glossary/#do)* as “bring about an event”; so the seltau must refer to an event, *nu citka*. The English slang meanings of “do someone”, namely “socialize with someone” and “have sex with someone”, are not relevant to *[gasnu](/glossary/#gasnu)*.)So we can simply use *[ctigau](/glossary/#ctigau)* with the same place structure as *nunctikezgau*:
 
@@ -746,7 +746,7 @@ and would be useful in translating sentences like “The heat of the sun liquefi
 
 ## Anomalous lujvo
 
-Some lujvo that have been coined and actually employed in Lojban writing do not follow the guidelines expressed above, either because the places that are equivalent in the seltau and the tertau are in an unusual position, or because the seltau and tertau are related in a complex way, or both. An example of the first kind is *[jdaselsku](/glossary/#jdaselsku)*, meaning “prayer”, which was mentioned in [Section 12.7](/chapter12/#section-order-of-places "12.7. Ordering lujvo places."). The gismu places are:
+Some lujvo that have been coined and actually employed in Lojban writing do not follow the guidelines expressed above, either because the places that are equivalent in the seltau and the tertau are in an unusual position, or because the seltau and tertau are related in a complex way, or both. An example of the first kind is *[jdaselsku](/glossary/#jdaselsku)*, meaning “prayer”, which was mentioned in [Section 12.7](/chapter12/#ordering-lujvo-places "12.7. Ordering lujvo places."). The gismu places are:
 
 ##### Example 12.75.
 
@@ -756,7 +756,7 @@ Some lujvo that have been coined and actually employed in Lojban writing do not 
 
 > s1 is a text expressed by s2 to audience s3 in medium s4
 
-Now it is easy to see that the l2 and s2 places are equivalent: the believer in the religion (l2) is the one who expresses the prayer (s2). This is not one of the cases for which a place ordering rule has been given in [Section 12.7](/chapter12/#section-order-of-places "12.7. Ordering lujvo places.") or [Section 12.13](/chapter12/#section-implicit-abstraction "12.13. Implicit-abstraction lujvo"); therefore, for lack of a better rule, we put the tertau places first and the remaining seltau places after them, leading to the place structure:
+Now it is easy to see that the l2 and s2 places are equivalent: the believer in the religion (l2) is the one who expresses the prayer (s2). This is not one of the cases for which a place ordering rule has been given in [Section 12.7](/chapter12/#ordering-lujvo-places "12.7. Ordering lujvo places.") or [Section 12.13](/chapter12/#implicit-abstraction-lujvo "12.13. Implicit-abstraction lujvo"); therefore, for lack of a better rule, we put the tertau places first and the remaining seltau places after them, leading to the place structure:
 
 ##### Example 12.77.
 
@@ -770,13 +770,13 @@ We could make this lujvo less messy by replacing it with *se seljdasku*, where *
 
 > c1=l2 religiously expresses prayer c2 to audience c3 in medium s4 pertaining to religion l1
 
-which, according to the rule expressed in [Section 12.9](/chapter12/#section-seltau-SE "12.9. Eliding SE rafsi from seltau"), can be further expressed as *selseljdasku*. However, there is no need for the ugly *selsel-* prefix just to get the rules right: *[jdaselsku](/glossary/#jdaselsku)* is a reasonable, if anomalous, lujvo.
+which, according to the rule expressed in [Section 12.9](/chapter12/#eliding-se-rafsi-from-seltau "12.9. Eliding SE rafsi from seltau"), can be further expressed as *selseljdasku*. However, there is no need for the ugly *selsel-* prefix just to get the rules right: *[jdaselsku](/glossary/#jdaselsku)* is a reasonable, if anomalous, lujvo.
 
 However, there is a further problem with *[jdaselsku](/glossary/#jdaselsku)*, not resolvable by using *seljdasku*. No veljvo involving just the two gismu *[lijda](/glossary/#lijda)* and *[cusku](/glossary/#cusku)* can fully express the relationship implicit in prayer. A prayer is not just anything said by the adherents of a religion; nor is it even anything said by them acting as adherents of that religion. Rather, it is what they say under the authority of that religion, or using the religion as a medium, or following the rules associated with the religion, or something of the kind. So the veljvo is somewhat elliptical.
 
 As a result, both *seljdasku* and *[jdaselsku](/glossary/#jdaselsku)* belong to the second class of anomalous lujvo: the veljvo doesn't really supply all that the lujvo requires.
 
-Another example of this kind of anomalous lujvo, drawn from the tanru lists in [Section 5.14](/chapter05/#section-asymmetric-tanru "5.14. Some types of asymmetrical tanru"), is *lange'u*, meaning “sheepdog”. Clearly a sheepdog is not a dog which is a sheep (the symmetrical interpretation is wrong), nor a dog of the sheep breed (the asymmetrical interpretation is wrong). Indeed, there is simply no overlap in the places of *[lanme](/glossary/#lanme)* and *[gerku](/glossary/#gerku)* at all. Rather, the lujvo refers to a dog which controls sheep flocks, a *terlanme jitro gerku*, the lujvo from which is *terlantroge'u* with place structure:
+Another example of this kind of anomalous lujvo, drawn from the tanru lists in [Section 5.14](/chapter05/#some-types-of-asymmetrical-tanru "5.14. Some types of asymmetrical tanru"), is *lange'u*, meaning “sheepdog”. Clearly a sheepdog is not a dog which is a sheep (the symmetrical interpretation is wrong), nor a dog of the sheep breed (the asymmetrical interpretation is wrong). Indeed, there is simply no overlap in the places of *[lanme](/glossary/#lanme)* and *[gerku](/glossary/#gerku)* at all. Rather, the lujvo refers to a dog which controls sheep flocks, a *terlanme jitro gerku*, the lujvo from which is *terlantroge'u* with place structure:
 
 ##### Example 12.79.
 
@@ -978,7 +978,7 @@ But the set against which the t1 place of *[traji](/glossary/#traji)* is compare
 
 Unlike the place structures of lujvo, the place structures of gismu were assigned in a far less systematic way through a detailed case-by-case analysis and repeated reviews with associated changes. (The gismu list is now baselined, so no further changes are contemplated.) Nevertheless, certain regularities were imposed both in the choice of places and in the ordering of places which may be helpful to the learner and the lujvo-maker, and which are therefore discussed here.
 
-The choice of gismu places results from the varying outcome of four different pressures: brevity, convenience, metaphysical necessity, and regularity. (These are also to some extent the underlying factors in the lujvo place structures generated by the methods of this chapter.) The implications of each are roughly as follows:* Brevity tends to remove places: the fewer places a gismu has, the easier it is to learn, and the less specific it is. As mentioned in [Section 12.4](/chapter12/#section-selecting-places "12.4. Selecting places"), a brivla with fewer place structures is less specific, and generality is a virtue in gismu, because they must thoroughly blanket all of semantic space.
+The choice of gismu places results from the varying outcome of four different pressures: brevity, convenience, metaphysical necessity, and regularity. (These are also to some extent the underlying factors in the lujvo place structures generated by the methods of this chapter.) The implications of each are roughly as follows:* Brevity tends to remove places: the fewer places a gismu has, the easier it is to learn, and the less specific it is. As mentioned in [Section 12.4](/chapter12/#selecting-places "12.4. Selecting places"), a brivla with fewer place structures is less specific, and generality is a virtue in gismu, because they must thoroughly blanket all of semantic space.
 
 - Convenience tends to increase the number of places: if a concept can be expressed as a place of some existing gismu, there is no need to make another gismu, a lujvo or a fu'ivla for it.
 
@@ -992,7 +992,7 @@ Here are some examples of gismu place structures, with a discussion of the press
 
 > *[xekri](/glossary/#xekri)*: xe1 is black
 
-Brevity was the most important goal here, reinforced by one interpretation of metaphysical necessity. There is no mention of color standards here, as many people have pointed out; like all color gismu, *[xekri](/glossary/#xekri)* is explicitly subjective. Objective color standards can be brought in by an appropriate BAI tag such as *[ci'u](/glossary/#ciu)* (“in system”; see [Section 9.6](/chapter09/#section-BAI "9.6. Modal tags: BAI")) or by making a lujvo.
+Brevity was the most important goal here, reinforced by one interpretation of metaphysical necessity. There is no mention of color standards here, as many people have pointed out; like all color gismu, *[xekri](/glossary/#xekri)* is explicitly subjective. Objective color standards can be brought in by an appropriate BAI tag such as *[ci'u](/glossary/#ciu)* (“in system”; see [Section 9.6](/chapter09/#modal-tags-bai "9.6. Modal tags: BAI")) or by making a lujvo.
 
 ##### Example 12.101.
 
@@ -1006,7 +1006,7 @@ The gismu *[jbena](/glossary/#jbena)* contains places for time and location, whi
 
 The place structure of *[rinka](/glossary/#rinka)* does not have a place for the agent, the one who causes, as a result of the pressure toward metaphysical necessity. A cause-effect relationship does not have to include an agent: an event (such as snow melting in the mountains) may cause another event (such as the flooding of the Nile) without any human intervention or even knowledge.
 
-Indeed, there is a general tendency to omit agent places from most gismu except for a few such as *[gasnu](/glossary/#gasnu)* and *[zukte](/glossary/#zukte)* which are then used as tertau in order to restore the agent place when needed: see [Section 12.13](/chapter12/#section-implicit-abstraction "12.13. Implicit-abstraction lujvo").
+Indeed, there is a general tendency to omit agent places from most gismu except for a few such as *[gasnu](/glossary/#gasnu)* and *[zukte](/glossary/#zukte)* which are then used as tertau in order to restore the agent place when needed: see [Section 12.13](/chapter12/#implicit-abstraction-lujvo "12.13. Implicit-abstraction lujvo").
 
 ##### Example 12.103.
 

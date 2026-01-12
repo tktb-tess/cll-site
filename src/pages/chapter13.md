@@ -21,7 +21,7 @@ can be made, through tone of voice, to express the speaker's feeling of happines
 
 In Lojban, everything that can be spoken can also be written. Therefore, these tones of voice must be represented by explicit words known as “attitudinal indicators”, or just “attitudinals”. This rule seems awkward and clunky to English-speakers at first, but is an essential part of the Lojbanic way of doing things.
 
-The simplest way to use attitudinal indicators is to place them at the beginning of a text. In that case, they express the speaker's prevailing attitude. Here are some examples, correlated with the attitudes mentioned following [Example 13.1](/chapter13/#example-random-id-EWHQ "Example 13.1. "):
+The simplest way to use attitudinal indicators is to place them at the beginning of a text. In that case, they express the speaker's prevailing attitude. Here are some examples, correlated with the attitudes mentioned following [Example 13.1](/chapter13/#example-131 "Example 13.1. "):
 
 ##### Example 13.2.
 
@@ -60,13 +60,13 @@ The simplest way to use attitudinal indicators is to place them at the beginning
 
 *[.ai](/glossary/#ai)*, *[.au](/glossary/#au)*, *[.ei](/glossary/#ei)*, and *[.ia](/glossary/#ia)*, *[.ie](/glossary/#ie)*, *[.ii](/glossary/#ii)*, *[.io](/glossary/#io)*, *[.iu](/glossary/#iu)*, *[.ua](/glossary/#ua)*, *[.ue](/glossary/#ue)*, *[.ui](/glossary/#ui)*, *[.uo](/glossary/#uo)*, and *[.uu](/glossary/#uu)*. Note that each of these cmavo has a period before it, marking the pause that is mandatory before every word beginning with a vowel. Attitudinals, like most of the other kinds of indicators described in this chapter, belong to selma'o UI.
 
-Attitudinals can also be compound cmavo, of the types explained in Sections 4-8; [Example 13.6](/chapter13/#example-random-id-qfgA "Example 13.6. ") illustrates one such possibility, the compound attitudinal *[.ianai](/glossary/#ianai)*. In attitudinals, *-nai* indicates polar negation: the opposite of the simple attitudinal without the *-nai*. Thus, as you might suppose, *[.ia](/glossary/#ia)* expresses belief, since *[.ianai](/glossary/#ianai)* expresses disbelief.
+Attitudinals can also be compound cmavo, of the types explained in Sections 4-8; [Example 13.6](/chapter13/#example-136 "Example 13.6. ") illustrates one such possibility, the compound attitudinal *[.ianai](/glossary/#ianai)*. In attitudinals, *-nai* indicates polar negation: the opposite of the simple attitudinal without the *-nai*. Thus, as you might suppose, *[.ia](/glossary/#ia)* expresses belief, since *[.ianai](/glossary/#ianai)* expresses disbelief.
 
 In addition to the attitudinals, there are other classes of indicators: intensity markers, emotion categories, attitudinal modifiers, observationals, and discursives. All of them are grammatically equivalent, which is why they are treated together in this chapter.
 
-Every indicator behaves in more or less the same way with respect to the grammar of the rest of the language. In general, one or more indicators can be inserted at the beginning of an utterance or after any word. Indicators at the beginning apply to the whole utterance; otherwise, they apply to the word that they follow. More details can be found in [Section 13.9](/chapter13/#section-scope "13.9. The uses of indicators").
+Every indicator behaves in more or less the same way with respect to the grammar of the rest of the language. In general, one or more indicators can be inserted at the beginning of an utterance or after any word. Indicators at the beginning apply to the whole utterance; otherwise, they apply to the word that they follow. More details can be found in [Section 13.9](/chapter13/#the-uses-of-indicators "13.9. The uses of indicators").
 
-Throughout this chapter, tables of indicators will be written in four columns. The first column is the cmavo itself. The second column is a corresponding English word, not necessarily a literal translation. The fourth column represents the opposite of the second column, and shows the approximate meaning of the attitudinal when suffixed with *-nai*. The third column, which is sometimes omitted, indicates a neutral point between the second and fourth columns, and shows the approximate meaning of the attitudinal when it is suffixed with *-cu'i*. The cmavo *[cu'i](/glossary/#cui)* belongs to selma'o CAI, and is explained more fully in [Section 13.4](/chapter13/#section-intensity-scale "13.4. Attitudes as scales").
+Throughout this chapter, tables of indicators will be written in four columns. The first column is the cmavo itself. The second column is a corresponding English word, not necessarily a literal translation. The fourth column represents the opposite of the second column, and shows the approximate meaning of the attitudinal when suffixed with *-nai*. The third column, which is sometimes omitted, indicates a neutral point between the second and fourth columns, and shows the approximate meaning of the attitudinal when it is suffixed with *-cu'i*. The cmavo *[cu'i](/glossary/#cui)* belongs to selma'o CAI, and is explained more fully in [Section 13.4](/chapter13/#attitudes-as-scales "13.4. Attitudes as scales").
 
 One flaw that the English glosses are particularly subject to is that in English it is often difficult to distinguish between expressing your feelings and talking about them, particularly with the limited resource of the written word. So the gloss for *[.ui](/glossary/#ui)* should not really be “happiness” but some sound or tone that expresses happiness. However, there aren't nearly enough of those that have unambiguous or obvious meanings in English to go around for all the many, many different emotions Lojban speakers can readily express.
 
@@ -161,7 +161,7 @@ Here are some typical uses of the *u* attitudinals:
 | -------------------------------------------------------------------- |
 | \[Repentance!\] you feel pain. \[expresses that speaker feels guilty\] |
 
-In [Example 13.10](/chapter13/#example-random-id-qfHA "Example 13.10. "), note that the attitudinal *[.uo](/glossary/#uo)* is translated by an English non-attitudinal phrase: “At last!” It is common for the English equivalents of Lojban attitudinals to be short phrases of this sort, with more or less normal grammar, but actually expressions of emotion.
+In [Example 13.10](/chapter13/#example-1310 "Example 13.10. "), note that the attitudinal *[.uo](/glossary/#uo)* is translated by an English non-attitudinal phrase: “At last!” It is common for the English equivalents of Lojban attitudinals to be short phrases of this sort, with more or less normal grammar, but actually expressions of emotion.
 
 In particular, both *[.uu](/glossary/#uu)* and *[.u'u](/glossary/#uu)* can be translated into English as “I'm sorry”; the difference between these two attitudes frequently causes confusion among English-speakers who use this phrase, leading to responses like “Why are you sorry? It's not your fault!”
 
@@ -190,7 +190,7 @@ The following examples display the effects of *[nai](/glossary/#nai)* and *[cu'i
 | .uenai       | la         | djan. | klama  |
 | \[Expected!\] | that-named | John  | comes. |
 
-In [Example 13.15](/chapter13/#example-random-id-qfin "Example 13.15. "), John's coming has been anticipated by the speaker. In [Example 13.13](/chapter13/#example-random-id-qFiE "Example 13.13. ") and [Example 13.14](/chapter13/#example-random-id-qfiI "Example 13.14. "), no such anticipation has been made, but in [Example 13.14](/chapter13/#example-random-id-qfiI "Example 13.14. ") the lack-of-anticipation goes no further – in [Example 13.13](/chapter13/#example-random-id-qFiE "Example 13.13. "), it amounts to actual surprise.
+In [Example 13.15](/chapter13/#example-1315 "Example 13.15. "), John's coming has been anticipated by the speaker. In [Example 13.13](/chapter13/#example-1313 "Example 13.13. ") and [Example 13.14](/chapter13/#example-1314 "Example 13.14. "), no such anticipation has been made, but in [Example 13.14](/chapter13/#example-1314 "Example 13.14. ") the lack-of-anticipation goes no further – in [Example 13.13](/chapter13/#example-1313 "Example 13.13. "), it amounts to actual surprise.
 
 It is not possible to firmly distinguish the pure emotion words beginning with *o* or *i* from those beginning with *u*, but in general they represent more complex, more ambivalent, or more difficult emotions.
 
@@ -246,9 +246,9 @@ Here there is a sense of danger in John's arrival.
 | .o'u     | la         | djan. | klama      |
 | \[Phew!\] | that-named | John  | is-coming. |
 
-In [Example 13.19](/chapter13/#example-random-id-qfIR "Example 13.19. ") and [Example 13.20](/chapter13/#example-random-id-qFJf "Example 13.20. "), John's arrival is no problem: in the former example, the speaker feels emotional distance from the situation; in the latter example, John's coming is actually a relief of some kind.
+In [Example 13.19](/chapter13/#example-1319 "Example 13.19. ") and [Example 13.20](/chapter13/#example-1320 "Example 13.20. "), John's arrival is no problem: in the former example, the speaker feels emotional distance from the situation; in the latter example, John's coming is actually a relief of some kind.
 
-The pure emotion indicators beginning with *i* are those which could not be fitted into the *u* or *o* groups because there was a lack of room, so they are a mixed lot. *[.ia](/glossary/#ia)*, *[i'a](/glossary/#ia)*, *[.ie](/glossary/#ie)*, and *[i'e](/glossary/#ie)* do not appear here, as they belong in [Section 13.3](/chapter13/#section-propositional-emotions "13.3. Propositional attitude indicators") instead.
+The pure emotion indicators beginning with *i* are those which could not be fitted into the *u* or *o* groups because there was a lack of room, so they are a mixed lot. *[.ia](/glossary/#ia)*, *[i'a](/glossary/#ia)*, *[.ie](/glossary/#ie)*, and *[i'e](/glossary/#ie)* do not appear here, as they belong in [Section 13.3](/chapter13/#propositional-attitude-indicators "13.3. Propositional attitude indicators") instead.
 
 |      |              |              |            |
 | ---- | ------------ | ------------ | ---------- |
@@ -286,9 +286,9 @@ Here are some examples:
 | la         | djan. | .ionai         | klama      |
 | That-named | John  | \[disrespect!\] | is-coming. |
 
-[Example 13.21](/chapter13/#example-random-id-qFJV "Example 13.21. ") shows an attitude-colored observative; the attitudinal modifies the situation described by the observative, namely the mouse that is causing the emotion. Lojban-speaking toddlers, if there ever are any, will probably use sentences like [Example 13.21](/chapter13/#example-random-id-qFJV "Example 13.21. ") a lot.
+[Example 13.21](/chapter13/#example-1321 "Example 13.21. ") shows an attitude-colored observative; the attitudinal modifies the situation described by the observative, namely the mouse that is causing the emotion. Lojban-speaking toddlers, if there ever are any, will probably use sentences like [Example 13.21](/chapter13/#example-1321 "Example 13.21. ") a lot.
 
-[Example 13.22](/chapter13/#example-random-id-qfK3 "Example 13.22. ") and [Example 13.23](/chapter13/#example-random-id-qfKX "Example 13.23. ") use attitudinals that follow *la djan.* rather than being at the beginning of the sentence. This form means that the attitude is attached to John rather than the event of his coming; the speaker loves or disrespects John specifically. Compare:
+[Example 13.22](/chapter13/#example-1322 "Example 13.22. ") and [Example 13.23](/chapter13/#example-1323 "Example 13.23. ") use attitudinals that follow *la djan.* rather than being at the beginning of the sentence. This form means that the attitude is attached to John rather than the event of his coming; the speaker loves or disrespects John specifically. Compare:
 
 ##### Example 13.24.
 
@@ -299,11 +299,11 @@ Here are some examples:
 
 where it is specifically the coming of John that inspires the feeling.
 
-[Example 13.23](/chapter13/#example-random-id-qfKX "Example 13.23. ") is a compact way of swearing at John: you could translate it as “That good-for-nothing John is coming.”
+[Example 13.23](/chapter13/#example-1323 "Example 13.23. ") is a compact way of swearing at John: you could translate it as “That good-for-nothing John is coming.”
 
 ## Propositional attitude indicators
 
-As mentioned at the beginning of [Section 13.2](/chapter13/#section-pure-emotions "13.2. Pure emotion indicators"), attitudinals may be divided into two groups, the pure emotion indicators explained in that section, and a contrasting group which may be called the “propositional attitude indicators”. These indicators establish an internal, hypothetical world which the speaker is reacting to, distinct from the world as it really is. Thus we may be expressing our attitude towards “what the world would be like if ...”, or more directly stating our attitude towards making the potential world a reality.
+As mentioned at the beginning of [Section 13.2](/chapter13/#pure-emotion-indicators "13.2. Pure emotion indicators"), attitudinals may be divided into two groups, the pure emotion indicators explained in that section, and a contrasting group which may be called the “propositional attitude indicators”. These indicators establish an internal, hypothetical world which the speaker is reacting to, distinct from the world as it really is. Thus we may be expressing our attitude towards “what the world would be like if ...”, or more directly stating our attitude towards making the potential world a reality.
 
 In general, the bridi paraphrases of pure emotions look (in English) something like “I'm going to the market, and I'm happy about it”. The emotion is present with the subject of the primary claim, but is logically independent of it. Propositional attitudes, though, look more like “I intend to go to the market”, where the main claim is logically subordinate to the intention: I am not claiming that I am actually going to the market, but merely that I intend to.
 
@@ -402,7 +402,7 @@ Some examples (of a parental kind):
 | -------------------------------------- |
 | I have no interest in your complaints. |
 
-(In a real-life situation, [Example 13.25](/chapter13/#example-random-id-qfLc "Example 13.25. ") through [Example 13.31](/chapter13/#example-random-id-qFpy "Example 13.31. ") would also be decorated by various pure emotion indicators, certainly including *.oicai*, but probably also *.iucai*.)
+(In a real-life situation, [Example 13.25](/chapter13/#example-1325 "Example 13.25. ") through [Example 13.31](/chapter13/#example-1331 "Example 13.31. ") would also be decorated by various pure emotion indicators, certainly including *.oicai*, but probably also *.iucai*.)
 
 Splitting off the attitude into an indicator allows the regular bridi grammar to do what it does best: express the relationships between concepts that are intended, desired, hoped for, or whatever. Rephrasing these examples to express the attitude as the main selbri would make for unacceptably heavyweight grammar.
 
@@ -534,9 +534,9 @@ Still more examples (much, much later):
 | ------------------------------------------------------ |
 | I don't approve of what you did, but I approve of you. |
 
-[Example 13.40](/chapter13/#example-random-id-qFU7 "Example 13.40. ") illustrates the use of a propositional attitude indicator, *[i'e](/glossary/#ie)*, in both the usual sense (at the beginning of the bridi) and as a pure emotion (attached to *[do](/glossary/#do)*). The event expressed by the main bridi is disapproved of by the speaker, but the referent of the sumti in the x1 place (namely the listener) is approved of.
+[Example 13.40](/chapter13/#example-1340 "Example 13.40. ") illustrates the use of a propositional attitude indicator, *[i'e](/glossary/#ie)*, in both the usual sense (at the beginning of the bridi) and as a pure emotion (attached to *[do](/glossary/#do)*). The event expressed by the main bridi is disapproved of by the speaker, but the referent of the sumti in the x1 place (namely the listener) is approved of.
 
-To indicate that an attitudinal discussed in this section is not meant to indicate a propositional attitude, the simplest expedient is to split the attitudinal off into a separate sentence. Thus, a version of [Example 13.32](/chapter13/#example-random-id-qFQ7 "Example 13.32. ") which actually claimed that the listener was or would be driving the car might be:
+To indicate that an attitudinal discussed in this section is not meant to indicate a propositional attitude, the simplest expedient is to split the attitudinal off into a separate sentence. Thus, a version of [Example 13.32](/chapter13/#example-1332 "Example 13.32. ") which actually claimed that the listener was or would be driving the car might be:
 
 ##### Example 13.41.
 
@@ -563,7 +563,7 @@ In fact, though, each emotional scale has seven positions defined, three “posi
 
 A scalar attitude is expressed by using the attitudinal word, and then following it by the desired scalar intensity. The bias creeps in because the “negative” emotions take the extra syllable *[nai](/glossary/#nai)* to indicate their negative position on the axis, and thus require a bit more effort to express.
 
-Much of this system is optional. You can express an attitude without a scale indicator, if you don't want to stop and think about how strongly you feel. Indeed, for most attitudinals, we've found that either no scalar value is used, or *[cai](/glossary/#cai)* is used to indicate especially high intensity. Less often, *[ru'e](/glossary/#rue)* is used for a recognizably weak intensity, and *[cu'i](/glossary/#cui)* is used in response to the attitudinal question *[pei](/glossary/#pei)* (see [Section 13.10](/chapter13/#section-questions-empathy-contours "13.10. Attitude questions; empathy; attitude contours")) to indicate that the emotion is not felt.
+Much of this system is optional. You can express an attitude without a scale indicator, if you don't want to stop and think about how strongly you feel. Indeed, for most attitudinals, we've found that either no scalar value is used, or *[cai](/glossary/#cai)* is used to indicate especially high intensity. Less often, *[ru'e](/glossary/#rue)* is used for a recognizably weak intensity, and *[cu'i](/glossary/#cui)* is used in response to the attitudinal question *[pei](/glossary/#pei)* (see [Section 13.10](/chapter13/#attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours")) to indicate that the emotion is not felt.
 
 The following shows the variations resulting from intensity variation:
 
@@ -647,7 +647,7 @@ Each of the attitude scales constitutes an axis in a multi-dimensional space. In
 
 Now no one is going to ever utter a string of 100-odd attitudinals to express their emotions. If asked, we normally do not recognize more than one or two emotions at a time – usually the ones that are strongest or which most recently changed in some significant way. But the scale system provides some useful insights into a possible theory of emotion (which might be testable using Lojban), and incidentally explains how Lojbanists express compound emotions when they do recognize them.
 
-The existence of 39 scales highlights the complexity of emotion. We also aren't bound to the 39. There are modifiers described in [Section 13.6](/chapter13/#section-categories "13.6. Emotional categories") that multiply the set of scales by an order of magnitude. You can also have mixed feelings on a scale, which might be expressed by *[cu'i](/glossary/#cui)*, but could also be expressed by using both the “positive” and “negative” scale emotions at once. One expression of “fortitude” might be *.ii.iinai*- fear coupled with security.
+The existence of 39 scales highlights the complexity of emotion. We also aren't bound to the 39. There are modifiers described in [Section 13.6](/chapter13/#emotional-categories "13.6. Emotional categories") that multiply the set of scales by an order of magnitude. You can also have mixed feelings on a scale, which might be expressed by *[cu'i](/glossary/#cui)*, but could also be expressed by using both the “positive” and “negative” scale emotions at once. One expression of “fortitude” might be *.ii.iinai*- fear coupled with security.
 
 Uttering one or more attitudinals to express an emotion reflects several things. We will tend to utter emotions in their immediate order of importance to us. We feel several emotions at once, and our expression reflects these emotions simultaneously, although their order of importance to us is also revealing – of our attitude towards our attitude, so to speak. There is little analysis necessary; for those emotions you feel, you express them; the “vector sum” naturally expresses the result. This is vital to their nature as attitudinals – if you had to stop and think about them, or to worry about grammar, they wouldn't be emotions but rationalizations.
 
@@ -708,7 +708,7 @@ The following cmavo are discussed in this section:
 | be'u |          | lack/need                                   | presence/satisfaction | satiation                                |
 | se'a | \[sevzi\] | self-sufficiency                            |                       | dependency                               |
 
-It turned out that, once we had devised the six emotion categories, we also recognized some other commonalities among emotions. These tended to fit nicely on scales of their own, but generally tend not to be thought of as separate emotions. Some of these are self-explanatory, some need to be placed in context. Some of these tend to go well with only a few of the attitudinals, others go with nearly all of them. To really understand these modifiers, try to use them in combination with one or two of the attitudinals found in [Section 13.2](/chapter13/#section-pure-emotions "13.2. Pure emotion indicators") and [Section 13.3](/chapter13/#section-propositional-emotions "13.3. Propositional attitude indicators"), and see what emotional pictures you can build:
+It turned out that, once we had devised the six emotion categories, we also recognized some other commonalities among emotions. These tended to fit nicely on scales of their own, but generally tend not to be thought of as separate emotions. Some of these are self-explanatory, some need to be placed in context. Some of these tend to go well with only a few of the attitudinals, others go with nearly all of them. To really understand these modifiers, try to use them in combination with one or two of the attitudinals found in [Section 13.2](/chapter13/#pure-emotion-indicators "13.2. Pure emotion indicators") and [Section 13.3](/chapter13/#propositional-attitude-indicators "13.3. Propositional attitude indicators"), and see what emotional pictures you can build:
 
 The cmavo *[ga'i](/glossary/#gai)* expresses the scale used to indicate condescension or polite deference; it is not respect in general, which is *[.io](/glossary/#io)*. Whatever it is attached to is marked as being below (for *[ga'i](/glossary/#gai)*) or above (for *[ga'inai](/glossary/#gainai)*) the speaker's rank or social position. Note that it is always the referent, not the speaker or listener, who is so marked: in order to mark the listener, the listener must appear in the sentence, as with *doi ga'inai*, which can be appended to a statement addressed to a social superior.
 
@@ -792,7 +792,7 @@ The cmavo *[se'i](/glossary/#sei)* expresses the difference between selfishness 
 | ---------------------- |
 | I want you to have it! |
 
-In both cases, the English “it” is vague, reflecting the absence of a bridi. [Example 13.52](/chapter13/#example-random-id-qFxm "Example 13.52. ") and [Example 13.53](/chapter13/#example-random-id-qfXq "Example 13.53. ") are pure expressions of attitude. Analogously, *.uuse'i* is self-pity, whereas *.uuse'inai* is pity for someone else.
+In both cases, the English “it” is vague, reflecting the absence of a bridi. [Example 13.52](/chapter13/#example-1352 "Example 13.52. ") and [Example 13.53](/chapter13/#example-1353 "Example 13.53. ") are pure expressions of attitude. Analogously, *.uuse'i* is self-pity, whereas *.uuse'inai* is pity for someone else.
 
 The modifier *[ri'e](/glossary/#rie)* indicates emotional release versus emotional control. “I will not let him know how angry I am”, you say to yourself before entering the room. The Lojban is much shorter:
 
@@ -805,9 +805,9 @@ The modifier *[ri'e](/glossary/#rie)* indicates emotional release versus emotion
 
 On the other hand, *[ri'e](/glossary/#rie)* can be used by itself to signal an emotional outburst.
 
-The cmavo *[fu'i](/glossary/#fui)* may express a reason for feeling the way we do, as opposed to a feeling in itself; but it is a reason that is more emotionally determined than most. For example, it could show the difference between the mental discomfort mentioned in [Section 13.6](/chapter13/#section-categories "13.6. Emotional categories") when it is felt on an easy test, as opposed to on a hard test. When someone gives you a back massage, you could use *.o'ufu'i* to show appreciation for the assistance in your comfort.
+The cmavo *[fu'i](/glossary/#fui)* may express a reason for feeling the way we do, as opposed to a feeling in itself; but it is a reason that is more emotionally determined than most. For example, it could show the difference between the mental discomfort mentioned in [Section 13.6](/chapter13/#emotional-categories "13.6. Emotional categories") when it is felt on an easy test, as opposed to on a hard test. When someone gives you a back massage, you could use *.o'ufu'i* to show appreciation for the assistance in your comfort.
 
-The cmavo *[be'u](/glossary/#beu)* expresses, roughly speaking, whether the emotion it modifies is in response to something you don't have enough of, something you have enough of, or something you have too much of. It is more or less the attitudinal equivalent of the subjective quantifier cmavo *[mo'a](/glossary/#moa)*, *[rau](/glossary/#rau)*, and *[du'e](/glossary/#due)* (these belong to selma'o PA, and are discussed in [Section 18.8](/chapter18/#section-indefinite-numbers "18.8. Indefinite numbers")). For example,
+The cmavo *[be'u](/glossary/#beu)* expresses, roughly speaking, whether the emotion it modifies is in response to something you don't have enough of, something you have enough of, or something you have too much of. It is more or less the attitudinal equivalent of the subjective quantifier cmavo *[mo'a](/glossary/#moa)*, *[rau](/glossary/#rau)*, and *[du'e](/glossary/#due)* (these belong to selma'o PA, and are discussed in [Section 18.8](/chapter18/#indefinite-numbers "18.8. Indefinite numbers")). For example,
 
 ##### Example 13.55.
 
@@ -857,7 +857,7 @@ is something a Lojban-speaking child might say. On the other hand,
 | --------------------------- |
 | I can do it if you help me. |
 
-from the same child would indicate a (hopefully temporary) loss of self-confidence. It is also possible to negate the *[e'e](/glossary/#ee)* in [Example 13.54](/chapter13/#example-random-id-Pwuv "Example 13.54. ") and [Example 13.55](/chapter13/#example-random-id-K4aV "Example 13.55. "), leading to:
+from the same child would indicate a (hopefully temporary) loss of self-confidence. It is also possible to negate the *[e'e](/glossary/#ee)* in [Example 13.54](/chapter13/#example-1354 "Example 13.54. ") and [Example 13.55](/chapter13/#example-1355 "Example 13.55. "), leading to:
 
 ##### Example 13.59.
 
@@ -913,7 +913,7 @@ means “I and (unfortunately) you”, whereas
 | mi | .e  | nai     | .ui     | do   |
 | I  | and | \[Not!\] | \[Yay!\] | you. |
 
-means “I but (fortunately) not you”. Attitudinal *[nai](/glossary/#nai)* expresses a “scalar negation”, a concept explained in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation"); since every attitudinal word implies exactly one scale, the effect of *[nai](/glossary/#nai)* on each should be obvious.
+means “I but (fortunately) not you”. Attitudinal *[nai](/glossary/#nai)* expresses a “scalar negation”, a concept explained in [Section 15.3](/chapter15/#scalar-negation "15.3. Scalar Negation"); since every attitudinal word implies exactly one scale, the effect of *[nai](/glossary/#nai)* on each should be obvious.
 
 Thus, the complete internal grammar of UI is as follows, with each listed part optionally present or absent without affecting grammaticality, though it obviously would affect meaning.
 
@@ -925,13 +925,13 @@ Thus, the complete internal grammar of UI is as follows, with each listed part o
 
 ## The uses of indicators
 
-The behavior of indicators in the “outside grammar” is nearly as simple as their internal structure. Indicator groupings are identified immediately after the metalinguistic erasers *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, and *[su](/glossary/#su)* and some, though not all, kinds of quotations. The details of such interactions are discussed in [Section 19.16](/chapter19/#section-cmavo-interactions "19.16. List of cmavo interactions").
+The behavior of indicators in the “outside grammar” is nearly as simple as their internal structure. Indicator groupings are identified immediately after the metalinguistic erasers *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, and *[su](/glossary/#su)* and some, though not all, kinds of quotations. The details of such interactions are discussed in [Section 19.16](/chapter19/#list-of-cmavo-interactions "19.16. List of cmavo interactions").
 
-A group of indicators may appear anywhere that a single indicator may, except in those few situations (as in *[zo](/glossary/#zo)* quotation, explained in [Section 19.10](/chapter19/#section-more-quotations "19.10. More on quotations: ZO, ZOI")) where compound cmavo may not be used.
+A group of indicators may appear anywhere that a single indicator may, except in those few situations (as in *[zo](/glossary/#zo)* quotation, explained in [Section 19.10](/chapter19/#more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI")) where compound cmavo may not be used.
 
 At the beginning of a text, indicators modify everything following them indefinitely: such a usage is taken as a raw emotional expression, and we normally don't turn off our emotions when we start and stop sentences. In every other place in an utterance, the indicator (or group) attaches to the word immediately to its left, and indicates that the attitude is being expressed concerning the object or concept to which the word refers.
 
-If the word that an indicator (or group) attaches to is itself a cmavo which governs a grammatical structure, then the indicator construct pertains to the referent of the entire structure. There is also a mechanism, discussed in [Section 19.8](/chapter19/#section-attitudinal-scope "19.8. Attitude scope markers: FUhE/FUhO"), for explicitly marking the range of words to which an indicator applies.
+If the word that an indicator (or group) attaches to is itself a cmavo which governs a grammatical structure, then the indicator construct pertains to the referent of the entire structure. There is also a mechanism, discussed in [Section 19.8](/chapter19/#attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO"), for explicitly marking the range of words to which an indicator applies.
 
 More details about the uses of indicators, and the way they interact with other specialized cmavo, are given in [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts"). It is worth mentioning that real-world interpretation is not necessarily consistent with the formal scope rules. People generally express emotions when they feel them, with only a minimum of grammatical constraint on that expression; complexities of emotional expression are seldom logically analyzable. Lojban attempts to provide a systematic reference that could possibly be ingrained to an instinctive level. However, it should always be assumed that the referent of an indicator has some uncertainty.
 
@@ -1001,7 +1001,7 @@ Most often, however, the asker will use *[pei](/glossary/#pei)* as a place holde
 | ----------------------- |
 | Are you going to do it? |
 
-[Example 13.66](/chapter13/#example-random-id-qFYC "Example 13.66. ") might appear at the end of a command, to which the response
+[Example 13.66](/chapter13/#example-1366 "Example 13.66. ") might appear at the end of a command, to which the response
 
 ##### Example 13.67.
 
@@ -1114,7 +1114,7 @@ When attached to an attitudinal, *[bu'o](/glossary/#buo)* means that you are sta
 | ----------------------------------- |
 | I don't love you any more; I'm sad. |
 
-Note the difference in effect between [Example 13.75](/chapter13/#example-random-id-qg0p "Example 13.75. ") and:
+Note the difference in effect between [Example 13.75](/chapter13/#example-1375 "Example 13.75. ") and:
 
 ##### Example 13.76.
 
@@ -1127,7 +1127,7 @@ Note the difference in effect between [Example 13.75](/chapter13/#example-random
 | ------------------------------------------ |
 | I no longer love you; therefore, I am sad. |
 
-which is a straightforward bridi claim. [Example 13.76](/chapter13/#example-random-id-6EiY "Example 13.76. ") states that you have (or have had) certain emotions; [Example 13.75](/chapter13/#example-random-id-qg0p "Example 13.75. ") expresses those emotions directly.
+which is a straightforward bridi claim. [Example 13.76](/chapter13/#example-1376 "Example 13.76. ") states that you have (or have had) certain emotions; [Example 13.75](/chapter13/#example-1375 "Example 13.75. ") expresses those emotions directly.
 
 ## Evidentials
 
@@ -1185,7 +1185,7 @@ A bridi marked by *[su'a](/glossary/#sua)* is a generalization by the speaker ba
 
 The opposite point of the scale, *[su'anai](/glossary/#suanai)*, indicates abduction, or drawing specific conclusions from general premises or patterns.
 
-This cmavo can also function as a discursive (see [Section 13.12](/chapter13/#section-discursives "13.12. Discursives")), in which case *[su'a](/glossary/#sua)* means “abstractly” or “in general”, and *[su'anai](/glossary/#suanai)* means “concretely” or “in particular”.
+This cmavo can also function as a discursive (see [Section 13.12](/chapter13/#discursives "13.12. Discursives")), in which case *[su'a](/glossary/#sua)* means “abstractly” or “in general”, and *[su'anai](/glossary/#suanai)* means “concretely” or “in particular”.
 
 A bridi marked by *[ti'e](/glossary/#tie)* is relayed information from some source other than the speaker. There is no necessary implication that the information was relayed via the speaker's ears; what we read in a newspaper is an equally good example of *[ti'e](/glossary/#tie)*, unless we have personal knowledge of the content.
 
@@ -1217,7 +1217,7 @@ A bridi marked by *[za'a](/glossary/#zaa)* is based on perception or direct obse
 | -------------------- |
 | I see you are tired. |
 
-A bridi marked by *[pe'i](/glossary/#pei)* is the opinion of the speaker. The form *pe'ipei* is common, meaning “Is this your opinion?”. (Strictly, this should be *peipe'i*, in accordance with the distinction explained in [Example 13.69](/chapter13/#example-random-id-qFYU "Example 13.69. ") through [Example 13.71](/chapter13/#example-random-id-qFzH "Example 13.71. "), but since *[pe'i](/glossary/#pei)* is not really a scale, there is no real difference between the two orders.)
+A bridi marked by *[pe'i](/glossary/#pei)* is the opinion of the speaker. The form *pe'ipei* is common, meaning “Is this your opinion?”. (Strictly, this should be *peipe'i*, in accordance with the distinction explained in [Example 13.69](/chapter13/#example-1369 "Example 13.69. ") through [Example 13.71](/chapter13/#example-1371 "Example 13.71. "), but since *[pe'i](/glossary/#pei)* is not really a scale, there is no real difference between the two orders.)
 
 ##### Example 13.81.
 
@@ -1263,7 +1263,7 @@ The discursives discussed in this section are given in groups, roughly organized
 | mi'u | \[mintu\] | ditto                   |
 | po'o |          | the only relevant case  |
 
-These five discursives are mutually exclusive, and therefore they are not usually considered as scales. The first four are used in consecutive discourse. The first, *[ku'i](/glossary/#kui)*, makes an exception to the previous argument. The second, *[ji'a](/glossary/#jia)*, adds weight to the previous argument. The third, *[si'a](/glossary/#sia)*, adds quantity to the previous argument, enumerating an additional example. The fourth, *[mi'u](/glossary/#miu)*, adds a parallel case to the previous argument, and can also be used in tables or the like to show that something is being repeated from the previous column. It is distinct from *[go'i](/glossary/#goi)* (of selma'o GOhA, discussed in [Section 7.6](/chapter07/#section-ri-gohi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series")), which is a non-discursive version of “ditto” that explicitly repeats the claim of the previous bridi.
+These five discursives are mutually exclusive, and therefore they are not usually considered as scales. The first four are used in consecutive discourse. The first, *[ku'i](/glossary/#kui)*, makes an exception to the previous argument. The second, *[ji'a](/glossary/#jia)*, adds weight to the previous argument. The third, *[si'a](/glossary/#sia)*, adds quantity to the previous argument, enumerating an additional example. The fourth, *[mi'u](/glossary/#miu)*, adds a parallel case to the previous argument, and can also be used in tables or the like to show that something is being repeated from the previous column. It is distinct from *[go'i](/glossary/#goi)* (of selma'o GOhA, discussed in [Section 7.6](/chapter07/#anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series")), which is a non-discursive version of “ditto” that explicitly repeats the claim of the previous bridi.
 
 Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case, and thus corresponds to some of the uses of “only”, a word difficult to express in pure bridi form:
 
@@ -1346,7 +1346,7 @@ The cmavo *[pa'e](/glossary/#pae)* is used to claim (truly or falsely) that one 
 
 The scale of *[je'u](/glossary/#jeu)* and *[je'unai](/glossary/#jeunai)* is a little different from the others in the group. By default, we assume that people speak the truth – or at least, that if they are lying, they will do their best to conceal it from us. So under what circumstances would *[je'unai](/glossary/#jeunai)* be used, or *[je'u](/glossary/#jeu)* be useful? For one thing, *[je'u](/glossary/#jeu)* can be used to mark a tautology: a sentence that is a truth of logic, like “All cats are cats.” Its counterpart *[je'unai](/glossary/#jeunai)* then serves to mark a logical contradiction. In addition, *[je'unai](/glossary/#jeunai)* can be used to express one kind of sarcasm or irony, where the speaker pretends to believe what he/she says, but actually wishes the listener to infer a contrary opinion. Other forms of irony can be marked with *[zo'o](/glossary/#zoo)* (humor) or *[.ianai](/glossary/#ianai)* (disbelief).
 
-When used as a discursive, *[su'a](/glossary/#sua)* (see [Section 13.11](/chapter13/#section-evidentials "13.11. Evidentials")) belongs to this group.
+When used as a discursive, *[su'a](/glossary/#sua)* (see [Section 13.11](/chapter13/#evidentials "13.11. Evidentials")) belongs to this group.
 
 Next, the “knowledge” group:
 
@@ -1355,7 +1355,7 @@ Next, the “knowledge” group:
 | ju'o | \[djuno\] | certainly | uncertain | certainly not |
 | la'a | \[lakne\] | probably  |           | improbably    |
 
-These two discursives describe the speaker's state of knowledge about the claim of the associated bridi. They are similar to the propositional attitudes of [Section 13.3](/chapter13/#section-propositional-emotions "13.3. Propositional attitude indicators"), as they create a hypothetical world. We may be quite certain that something is true, and label our bridi with *[ju'o](/glossary/#juo)*; but it may be false all the same.
+These two discursives describe the speaker's state of knowledge about the claim of the associated bridi. They are similar to the propositional attitudes of [Section 13.3](/chapter13/#propositional-attitude-indicators "13.3. Propositional attitude indicators"), as they create a hypothetical world. We may be quite certain that something is true, and label our bridi with *[ju'o](/glossary/#juo)*; but it may be false all the same.
 
 Next, the “discourse management” group:
 
@@ -1420,7 +1420,7 @@ It is also perfectly correct to omit the discursive altogether, and leave the co
 
 - if you see-arrive my younger-sister, you certainly know she pregnant
 
-is the equivalent of either [Example 13.87](/chapter13/#example-random-id-v6BU "Example 13.87. ") or [Example 13.88](/chapter13/#example-random-id-Sach "Example 13.88. ").)
+is the equivalent of either [Example 13.87](/chapter13/#example-1387 "Example 13.87. ") or [Example 13.88](/chapter13/#example-1388 "Example 13.88. ").)
 
 ## Miscellaneous indicators
 
@@ -1469,11 +1469,11 @@ The cmavo *[sa'a](/glossary/#saa)* indicates in a quotation that the marked word
 
 In the rare case that the quoted material already contains one or more instances of *[sa'a](/glossary/#saa)*, they can be changed to *sa'asa'a*.
 
-The cmavo *[xu](/glossary/#xu)* marks truth questions, which are discussed in detail in [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions"). In general, *[xu](/glossary/#xu)* may be translated “Is it true that ... ?” and questions whether the attached bridi is true. When *[xu](/glossary/#xu)* is attached to a specific word or construct, it directs the focus of the question to that word or construct.
+The cmavo *[xu](/glossary/#xu)* marks truth questions, which are discussed in detail in [Section 15.8](/chapter15/#truth-questions "15.8. Truth questions"). In general, *[xu](/glossary/#xu)* may be translated “Is it true that ... ?” and questions whether the attached bridi is true. When *[xu](/glossary/#xu)* is attached to a specific word or construct, it directs the focus of the question to that word or construct.
 
 Lojban question words, unlike those of English, frequently do not stand at the beginning of the question. Placing the cmavo *[pau](/glossary/#pau)* at the beginning of a bridi helps the listener realize that the bridi is a question, like the symbol at the beginning of written Spanish questions that looks like an upside-down question mark. The listener is then warned to watch for the actual question word.
 
-Although *[pau](/glossary/#pau)* is grammatical in any location (like all indicators), it is not really useful except at or near the beginning of a bridi. Its scalar opposite, *[paunai](/glossary/#paunai)*, signals that a bridi is not really a question despite its form. This is what we call in English a rhetorical question: an example appears in the English text near the beginning of [Section 13.11](/chapter13/#section-evidentials "13.11. Evidentials").
+Although *[pau](/glossary/#pau)* is grammatical in any location (like all indicators), it is not really useful except at or near the beginning of a bridi. Its scalar opposite, *[paunai](/glossary/#paunai)*, signals that a bridi is not really a question despite its form. This is what we call in English a rhetorical question: an example appears in the English text near the beginning of [Section 13.11](/chapter13/#evidentials "13.11. Evidentials").
 
 The cmavo *[pe'a](/glossary/#pea)* is the indicator of figurative speech, indicating that the previous word should be taken figuratively rather than literally:
 
@@ -1488,7 +1488,7 @@ The cmavo *[pe'a](/glossary/#pea)* is the indicator of figurative speech, indica
 | ----------------------- |
 | I see the “blue” house. |
 
-Here the house is not blue in the sense of color, but in some other sense, whose meaning is entirely culturally dependent. The use of *[pe'a](/glossary/#pea)* unambiguously marks a cultural reference: *[blanu](/glossary/#blanu)* in [Example 13.91](/chapter13/#example-random-id-rXiR "Example 13.91. ") could mean “sad” (as in English) or something completely different.
+Here the house is not blue in the sense of color, but in some other sense, whose meaning is entirely culturally dependent. The use of *[pe'a](/glossary/#pea)* unambiguously marks a cultural reference: *[blanu](/glossary/#blanu)* in [Example 13.91](/chapter13/#example-1391 "Example 13.91. ") could mean “sad” (as in English) or something completely different.
 
 The negated form, *pe'anai*, indicates that what has been said is to be interpreted literally, in the usual way for Lojban; natural-language intuition is to be ignored.
 
@@ -1506,7 +1506,7 @@ The uses of *[bi'u](/glossary/#biu)* and *[bi'unai](/glossary/#biunai)* correspo
 
 Most of the time, the distinction between *[bi'u](/glossary/#biu)* and *[bi'unai](/glossary/#biunai)* need not be made, as the listener can infer the right referent. However, if a different man were referred to still later in the story, *le bi'u nanmu* would clearly show that this man was different from the previous one.
 
-Finally, the indicator *[ge'e](/glossary/#gee)* has been discussed in [Section 13.8](/chapter13/#section-compound-attitudinals "13.8. Compound indicators") and [Section 13.10](/chapter13/#section-questions-empathy-contours "13.10. Attitude questions; empathy; attitude contours"). It is used to express an attitude which is not covered by the existing set, or to avoid expressing any attitude.
+Finally, the indicator *[ge'e](/glossary/#gee)* has been discussed in [Section 13.8](/chapter13/#compound-indicators "13.8. Compound indicators") and [Section 13.10](/chapter13/#attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"). It is used to express an attitude which is not covered by the existing set, or to avoid expressing any attitude.
 
 Another use for *[ge'e](/glossary/#gee)* is to explicitly avoid expressing one's feeling on a given scale; in this use, it functions like a member of selma'o CAI: *.iige'e* means roughly “I'm not telling whether I'm afraid or not.”
 
@@ -1514,7 +1514,7 @@ Another use for *[ge'e](/glossary/#gee)* is to explicitly avoid expressing one's
 | --- | ----------------- |
 | kau | indirect question |
 
-This cmavo is explained in detail in [Section 11.8](/chapter11/#section-indirect-questions "11.8. Indirect questions"). It marks the word it is attached to as the focus of an indirect question:
+This cmavo is explained in detail in [Section 11.8](/chapter11/#indirect-questions "11.8. Indirect questions"). It marks the word it is attached to as the focus of an indirect question:
 
 ##### Example 13.92.
 
@@ -1533,7 +1533,7 @@ This cmavo is explained in detail in [Section 11.8](/chapter11/#section-indirect
 
 Because of the need for redundancy in noisy environments, the Lojban design does not compress the vocatives into a minimum number of scales. Doing so would make a non-redundant *[nai](/glossary/#nai)* too often vital to interpretation of a protocol signal, as explained later in this section.
 
-The grammar of vocatives is explained in [Section 6.11](/chapter06/#section-vocative-syntax "6.11. The syntax of vocative phrases"); but in brief, a vocative may be followed by a name (without *[la](/glossary/#la)*), a description (without *[le](/glossary/#le)* or its relatives), a complete sumti, or nothing at all (if the addressee is obvious from the context). There is an elidable terminator, *[do'u](/glossary/#dou)* (of selma'o DOhU) which is almost never required unless no name (or other indication of the addressee) follows the vocative.
+The grammar of vocatives is explained in [Section 6.11](/chapter06/#the-syntax-of-vocative-phrases "6.11. The syntax of vocative phrases"); but in brief, a vocative may be followed by a name (without *[la](/glossary/#la)*), a description (without *[le](/glossary/#le)* or its relatives), a complete sumti, or nothing at all (if the addressee is obvious from the context). There is an elidable terminator, *[do'u](/glossary/#dou)* (of selma'o DOhU) which is almost never required unless no name (or other indication of the addressee) follows the vocative.
 
 Using any vocative except *[mi'e](/glossary/#mie)* (explained below) implicitly defines the meaning of the pro-sumti *[do](/glossary/#do)*, as the whole point of vocatives is to specify the listener, or at any rate the desired listener – even if the desired listener isn't listening! We will use the terms “speaker” and “listener” for clarity, although in written Lojban the appropriate terms would be “writer” and “reader”.
 
@@ -1999,7 +1999,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 
 The exact ramifications of the indicator system in actual usage are unknown. There has never been anything like it in natural language before. The system provides great potential for emotional expression and transcription, from which significant Sapir-Whorf effects can be anticipated. When communicating across cultural boundaries, where different indicators are often used for the same emotion, accidental offense can be avoided. If we ever ran into an alien race, a culturally neutral language of emotion could be vital. (A classic example, taken from the science fiction of Larry Niven, is to imagine speaking Lojban to the carnivorous warriors called Kzinti, noting that a human smile bares the teeth, and could be seen as an intent to attack.) And for communicating emotions to computers, when we cannot identify all of the signals involved in subliminal human communication (things like body language are also cultural), a system like this is needed.
 
-We have tried to err on the side of overkill. There are distinctions possible in this system that no one may care to make in any culture. But it was deemed more neutral to overspecify and let usage decide, than to choose a limited set and constrain emotional expression. For circumstances in which even the current indicator set is not enough, it is possible using the cmavo *[sei](/glossary/#sei)*, explained in [Section 19.12](/chapter19/#section-parentheses "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI"), to create metalinguistic comments that act like indicators.
+We have tried to err on the side of overkill. There are distinctions possible in this system that no one may care to make in any culture. But it was deemed more neutral to overspecify and let usage decide, than to choose a limited set and constrain emotional expression. For circumstances in which even the current indicator set is not enough, it is possible using the cmavo *[sei](/glossary/#sei)*, explained in [Section 19.12](/chapter19/#parenthesis-and-metalinguistic-commentary-to-toi-sei "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI"), to create metalinguistic comments that act like indicators.
 
 We envision an evolutionary development. At this point, the system is little more than a mental toy. Many of you who read this will try playing around with various combinations of indicators, trying to figure out what emotions they express and when the expressions might be useful. You may even find an expression for which there currently is no good English word and start using it. Why not, if it helps you express your feelings?
 

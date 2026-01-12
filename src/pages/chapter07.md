@@ -35,7 +35,7 @@ John picked up a stick and shook a stick.
 
 
 
-[Example 7.3](/chapter07/#example-random-id-GoqJ "Example 7.3. ") does not imply that the two sticks are necessarily the same, whereas [Example 7.2](/chapter07/#example-random-id-VISf "Example 7.2. ") requires that they are.
+[Example 7.3](/chapter07/#example-73 "Example 7.3. ") does not imply that the two sticks are necessarily the same, whereas [Example 7.2](/chapter07/#example-72 "Example 7.2. ") requires that they are.
 
 In Lojban, we have sumti rather than nouns, so our equivalent of pronouns are called by the hybrid term “pro-sumti”. A purely Lojban term would be *sumti cmavo*: all of the pro-sumti are cmavo belonging to selma'o KOhA. In exactly the same way, Lojban has a group of cmavo (belonging to selma'o GOhA) which serve as selbri or full bridi. These may be called “pro-bridi” or *bridi cmavo*. This chapter explains the uses of all the members of selma'o KOhA and GOhA. They fall into a number of groups, known as series: thus, in selma'o KOhA, we have among others the mi-series, the ko'a-series, the da-series, and so on. In each section, a series of pro-sumti is explained, and if there is a corresponding series of pro-bridi, it is explained and contrasted. Many pro-sumti series don't have pro-bridi analogues, however.
 
@@ -65,7 +65,7 @@ The following cmavo are discussed in this section:
 
 The mi-series of pro-sumti refer to the speaker, the listener, and others in various combinations. *[mi](/glossary/#mi)* refers to the speaker and perhaps others for whom the speaker speaks; it may be a Lojbanic mass. *[do](/glossary/#do)* refers to the listener or listeners. Neither *[mi](/glossary/#mi)* nor *[do](/glossary/#do)* is specific about the number of persons referred to; for example, the foreman of a jury may refer to the members of the jury as *[mi](/glossary/#mi)*, since in speaking officially he represents all of them.
 
-The referents of *[mi](/glossary/#mi)* and *[do](/glossary/#do)* are usually obvious from the context, but may be assigned by the vocative words of selma'o COI, explained in [Section 13.14](/chapter13/#section-vocative-scales "13.14. Vocative scales"). The vocative *[mi'e](/glossary/#mie)* assigns *[mi](/glossary/#mi)*, whereas all of the other vocatives assign *[do](/glossary/#do)*.
+The referents of *[mi](/glossary/#mi)* and *[do](/glossary/#do)* are usually obvious from the context, but may be assigned by the vocative words of selma'o COI, explained in [Section 13.14](/chapter13/#vocative-scales "13.14. Vocative scales"). The vocative *[mi'e](/glossary/#mie)* assigns *[mi](/glossary/#mi)*, whereas all of the other vocatives assign *[do](/glossary/#do)*.
 
 ##### Example 7.5.
 
@@ -145,7 +145,7 @@ In English, the subject of a command is omitted, but in Lojban, the word *[ko](/
 
 
 
-In [Example 7.9](/chapter07/#example-random-id-5Jbi "Example 7.9. "), it is necessary to make the verb passive in English in order to convey the effect of *[ko](/glossary/#ko)* in the x2 place. Indeed, *[ko](/glossary/#ko)* does not even have to be a sumti of the main bridi:
+In [Example 7.9](/chapter07/#example-79 "Example 7.9. "), it is necessary to make the verb passive in English in order to convey the effect of *[ko](/glossary/#ko)* in the x2 place. Indeed, *[ko](/glossary/#ko)* does not even have to be a sumti of the main bridi:
 
 ##### Example 7.10.
 
@@ -162,7 +162,7 @@ In [Example 7.9](/chapter07/#example-random-id-5Jbi "Example 7.9. "), it is nece
 
 
 
-As mentioned in [Section 7.1](/chapter07/#section-anaphoric-cmavo-introduction "7.1. What are pro-sumti and pro-bridi? What are they for?"), some pro-sumti series have corresponding pro-bridi series. However, there is no equivalent of the mi-series among pro-bridi, since a person isn't a relationship.
+As mentioned in [Section 7.1](/chapter07/#what-are-pro-sumti-and-pro-bridi-what-are-they-for "7.1. What are pro-sumti and pro-bridi? What are they for?"), some pro-sumti series have corresponding pro-bridi series. However, there is no equivalent of the mi-series among pro-bridi, since a person isn't a relationship.
 
 ## Demonstrative pro-sumti: the ti-series
 
@@ -191,7 +191,7 @@ It is important to distinguish between the English pronoun “this” and the En
 
 
 
-does not mean “this boat” but rather “this one's boat”, “the boat associated with this thing”, as explained in [Section 8.7](/chapter08/#section-possessive-sumti "8.7. Possessive sumti"). A correct Lojban translation of [Example 7.11](/chapter07/#example-random-id-IWi7 "Example 7.11. ") is
+does not mean “this boat” but rather “this one's boat”, “the boat associated with this thing”, as explained in [Section 8.7](/chapter08/#possessive-sumti "8.7. Possessive sumti"). A correct Lojban translation of [Example 7.11](/chapter07/#example-711 "Example 7.11. ") is
 
 ##### Example 7.12.
 
@@ -244,7 +244,7 @@ That is untrue.
 
 
 
-Here “that” does not refer to something that can be pointed to, but to the preceding sentence “You don't like cats”. In Lojban, therefore, [Example 7.14](/chapter07/#example-random-id-KNih "Example 7.14. ") is rendered:
+Here “that” does not refer to something that can be pointed to, but to the preceding sentence “You don't like cats”. In Lojban, therefore, [Example 7.14](/chapter07/#example-714 "Example 7.14. ") is rendered:
 
 ##### Example 7.15.
 
@@ -262,7 +262,7 @@ Here “that” does not refer to something that can be pointed to, but to the p
 
 Using *[ta](/glossary/#ta)* instead of *[di'u](/glossary/#diu)* would cause the listener to look around to see what the speaker of the second sentence was physically pointing to.
 
-As with *[ti](/glossary/#ti)*, *[ta](/glossary/#ta)*, and *[tu](/glossary/#tu)*, the cmavo of the di'u-series come in threes: a close utterance, a medium-distance utterance, and a distant utterance, either in the past or in the future. It turned out to be impossible to use the *i*/ *a*/ *u* vowel convention of the demonstratives in [Section 7.3](/chapter07/#section-ti-series "7.3. Demonstrative pro-sumti: the ti-series") without causing collisions with other cmavo, and so the di'u-series has a unique *i*/ *e*/ *a* convention in the first vowel of the cmavo.
+As with *[ti](/glossary/#ti)*, *[ta](/glossary/#ta)*, and *[tu](/glossary/#tu)*, the cmavo of the di'u-series come in threes: a close utterance, a medium-distance utterance, and a distant utterance, either in the past or in the future. It turned out to be impossible to use the *i*/ *a*/ *u* vowel convention of the demonstratives in [Section 7.3](/chapter07/#demonstrative-pro-sumti-the-ti-series "7.3. Demonstrative pro-sumti: the ti-series") without causing collisions with other cmavo, and so the di'u-series has a unique *i*/ *e*/ *a* convention in the first vowel of the cmavo.
 
 Most references in speech are to the past (what has already been said), so *[di'e](/glossary/#die)*, *[de'e](/glossary/#dee)*, and *[da'e](/glossary/#dae)* are not very useful when speaking. In writing, they are frequently handy:
 
@@ -279,7 +279,7 @@ Most references in speech are to the past (what has already been said), so *[di'
 
 
 
-[Example 7.16](/chapter07/#example-random-id-erEL "Example 7.16. ") would typically be followed by a quotation. Note that although presumably the quotation is of something Simon has said in the past, the quotation utterance itself would appear after [Example 7.16](/chapter07/#example-random-id-erEL "Example 7.16. "), and so *[di'e](/glossary/#die)* is appropriate.
+[Example 7.16](/chapter07/#example-716 "Example 7.16. ") would typically be followed by a quotation. Note that although presumably the quotation is of something Simon has said in the past, the quotation utterance itself would appear after [Example 7.16](/chapter07/#example-716 "Example 7.16. "), and so *[di'e](/glossary/#die)* is appropriate.
 
 The remaining two cmavo, *[dei](/glossary/#dei)* and *[do'i](/glossary/#doi)*, refer respectively to the very utterance that the speaker is uttering, and to some vague or unspecified utterance uttered by someone at some time:
 
@@ -311,7 +311,7 @@ The remaining two cmavo, *[dei](/glossary/#dei)* and *[do'i](/glossary/#doi)*, r
 
 The cmavo of the di'u-series have a meaning that is relative to the context. The referent of *[dei](/glossary/#dei)* in the current utterance is the same as the referent of *[di'u](/glossary/#diu)* in the next utterance. The term “utterance” is used rather than “sentence” because the amount of speech or written text referred to by any of these words is vague. Often, a single bridi is intended, but longer utterances may be thus referred to.
 
-Note one very common construction with *[di'u](/glossary/#diu)* and the cmavo *[la'e](/glossary/#lae)* (of selma'o LAhE; see [Section 6.10](/chapter06/#section-sumti-qualifiers "6.10. sumti qualifiers")) which precedes a sumti and means “the thing referred to by (the sumti)”:
+Note one very common construction with *[di'u](/glossary/#diu)* and the cmavo *[la'e](/glossary/#lae)* (of selma'o LAhE; see [Section 6.10](/chapter06/#sumti-qualifiers "6.10. sumti qualifiers")) which precedes a sumti and means “the thing referred to by (the sumti)”:
 
 ##### Example 7.19.
 
@@ -326,7 +326,7 @@ Note one very common construction with *[di'u](/glossary/#diu)* and the cmavo *[
 
 
 
-The effect of *la'e di'u* in [Example 7.19](/chapter07/#example-random-id-MsUd "Example 7.19. ") is that the speaker likes, not the previous sentence, but rather the state of affairs referred to by the previous sentence, namely his loving Jane. This cmavo compound is often written as a single word: *[la'edi'u](/glossary/#laediu)*. It is important not to mix up *[di'u](/glossary/#diu)* and *[la'edi'u](/glossary/#laediu)*, or the wrong meaning will generally result:
+The effect of *la'e di'u* in [Example 7.19](/chapter07/#example-719 "Example 7.19. ") is that the speaker likes, not the previous sentence, but rather the state of affairs referred to by the previous sentence, namely his loving Jane. This cmavo compound is often written as a single word: *[la'edi'u](/glossary/#laediu)*. It is important not to mix up *[di'u](/glossary/#diu)* and *[la'edi'u](/glossary/#laediu)*, or the wrong meaning will generally result:
 
 ##### Example 7.20.
 
@@ -365,7 +365,7 @@ The following cmavo and gismu are discussed in this section:
 | goi   | GOI    |              | pro-sumti assignment |
 | cei   | CEI    |              | pro-bridi assignment |
 
-The discussion of personal pro-sumti in [Section 7.2](/chapter07/#section-mi-series "7.2. Personal pro-sumti: the mi-series") may have seemed incomplete. In English, the personal pronouns include not only “I” and “you” but also “he”, “she”, “it”, and “they”. Lojban does have equivalents of this latter group: in fact, it has more of them than English does. However, they are organized and used very differently.
+The discussion of personal pro-sumti in [Section 7.2](/chapter07/#personal-pro-sumti-the-mi-series "7.2. Personal pro-sumti: the mi-series") may have seemed incomplete. In English, the personal pronouns include not only “I” and “you” but also “he”, “she”, “it”, and “they”. Lojban does have equivalents of this latter group: in fact, it has more of them than English does. However, they are organized and used very differently.
 
 There are ten cmavo in the ko'a-series, and they may be assigned freely to any sumti whatsoever. The English word “he” can refer only to males, “she” only to females (and ships and a few other things), “it” only to inanimate things, and “they” only to plurals; the cmavo of the ko'a-series have no restrictions at all. Therefore, it is almost impossible to guess from the context what ko'a-series cmavo might refer to if they are just used freely:
 
@@ -378,7 +378,7 @@ There are ten cmavo in the ko'a-series, and they may be assigned freely to any s
 
 
 
-The English gloss “it-1”, plus knowledge about the real world, would tend to make English-speakers believe that *[ko'a](/glossary/#koa)* refers to the store; in other words, that its antecedent is *le zarci*. To a Lojbanist, however, *la .alis.* is just as likely an antecedent, in which case [Example 7.21](/chapter07/#example-random-id-qdCR "Example 7.21. ") means that Alice, not the store, is blue.
+The English gloss “it-1”, plus knowledge about the real world, would tend to make English-speakers believe that *[ko'a](/glossary/#koa)* refers to the store; in other words, that its antecedent is *le zarci*. To a Lojbanist, however, *la .alis.* is just as likely an antecedent, in which case [Example 7.21](/chapter07/#example-721 "Example 7.21. ") means that Alice, not the store, is blue.
 
 To avoid this pitfall, Lojban employs special syntax, using the cmavo *[goi](/glossary/#goi)*:
 
@@ -412,9 +412,9 @@ Syntactically, *goi la .alis.* is a relative phrase (relative phrases are explai
 
 
 
-in other words, *[goi](/glossary/#goi)* is symmetrical. There is a terminator, *[ge'u](/glossary/#geu)* (of selma'o GEhU), which is almost always elidable. The details are in [Section 8.3](/chapter08/#section-relative-phrases "8.3. Relative phrases").
+in other words, *[goi](/glossary/#goi)* is symmetrical. There is a terminator, *[ge'u](/glossary/#geu)* (of selma'o GEhU), which is almost always elidable. The details are in [Section 8.3](/chapter08/#relative-phrases "8.3. Relative phrases").
 
-The afterthought form of *[goi](/glossary/#goi)* shown in [Example 7.22](/chapter07/#example-random-id-duGR "Example 7.22. ") and [Example 7.23](/chapter07/#example-random-id-oKaM "Example 7.23. ") is probably most common in speech, where we do not know until part way through our utterance that we will want to refer to Alice again. In writing, though, *[ko'a](/glossary/#koa)* may be assigned at the point where Alice is first mentioned. An example of this forethought form of *[goi](/glossary/#goi)* is:
+The afterthought form of *[goi](/glossary/#goi)* shown in [Example 7.22](/chapter07/#example-722 "Example 7.22. ") and [Example 7.23](/chapter07/#example-723 "Example 7.23. ") is probably most common in speech, where we do not know until part way through our utterance that we will want to refer to Alice again. In writing, though, *[ko'a](/glossary/#koa)* may be assigned at the point where Alice is first mentioned. An example of this forethought form of *[goi](/glossary/#goi)* is:
 
 ##### Example 7.24.
 
@@ -425,7 +425,7 @@ The afterthought form of *[goi](/glossary/#goi)* shown in [Example 7.22](/chapte
 
 
 
-Again, *ko'a goi la .alis.* would have been entirely acceptable in [Example 7.24](/chapter07/#example-random-id-1FJV "Example 7.24. "). This last form is reminiscent of legal jargon: “The party of the first part, hereafter known as Buyer, ...”.
+Again, *ko'a goi la .alis.* would have been entirely acceptable in [Example 7.24](/chapter07/#example-724 "Example 7.24. "). This last form is reminiscent of legal jargon: “The party of the first part, hereafter known as Buyer, ...”.
 
 Just as the ko'a-series of pro-sumti allows a substitute for a sumti which is long or complex, or which for some other reason we do not want to repeat, so the broda-series of pro-bridi allows a substitute for a selbri or even a whole bridi:
 
@@ -473,7 +473,7 @@ Another use of *[broda](/glossary/#broda)* and its relatives, without assignment
 
 represents an abstract pattern, a certain kind of tanru. (Historically, this use was the original one.)
 
-As is explained in [Section 17.9](/chapter17/#section-lerfu-pro-sumti "17.9. lerfu words as pro-sumti"), the words for Lojban letters, belonging to selma'o BY and certain related selma'o, are also usable as assignable pro-sumti. The main difference between letter pro-sumti and ko'a-series pro-sumti is that, in the absence of an explicit assignment, letters are taken to refer to the most recent name or description sumti beginning with the same letter:
+As is explained in [Section 17.9](/chapter17/#lerfu-words-as-pro-sumti "17.9. lerfu words as pro-sumti"), the words for Lojban letters, belonging to selma'o BY and certain related selma'o, are also usable as assignable pro-sumti. The main difference between letter pro-sumti and ko'a-series pro-sumti is that, in the absence of an explicit assignment, letters are taken to refer to the most recent name or description sumti beginning with the same letter:
 
 ##### Example 7.28.
 
@@ -538,7 +538,7 @@ The cmavo *[ri](/glossary/#ri)* is the simplest of these; it has the same refere
 
 
 
-The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-random-id-3som "Example 7.30. ") is equivalent to repeating the last sumti, which is *la .alis.*, so [Example 7.30](/chapter07/#example-random-id-3som "Example 7.30. ") is equivalent to:
+The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-730 "Example 7.30. ") is equivalent to repeating the last sumti, which is *la .alis.*, so [Example 7.30](/chapter07/#example-730 "Example 7.30. ") is equivalent to:
 
 ##### Example 7.31.
 
@@ -553,7 +553,7 @@ The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-random-id-3som "
 
 
 
-Note that *[ri](/glossary/#ri)* does not repeat *le ri kumfa*, because that sumti is not yet complete when *[ri](/glossary/#ri)* appears. This prevents *[ri](/glossary/#ri)* from getting entangled in paradoxes of self-reference. (There are plenty of other ways to do that!) Note also that sumti within other sumti, as in quotations, abstractions, and the like, are counted in the order of their beginnings; thus a lower level sumti like *la alis.* in [Example 7.31](/chapter07/#example-random-id-bs5R "Example 7.31. ") is considered to be more recent than a higher level sumti that contains it.
+Note that *[ri](/glossary/#ri)* does not repeat *le ri kumfa*, because that sumti is not yet complete when *[ri](/glossary/#ri)* appears. This prevents *[ri](/glossary/#ri)* from getting entangled in paradoxes of self-reference. (There are plenty of other ways to do that!) Note also that sumti within other sumti, as in quotations, abstractions, and the like, are counted in the order of their beginnings; thus a lower level sumti like *la alis.* in [Example 7.31](/chapter07/#example-731 "Example 7.31. ") is considered to be more recent than a higher level sumti that contains it.
 
 Certain sumti are ignored by *[ri](/glossary/#ri)*; specifically, most of the other cmavo of KOhA, and the almost-grammatically-equivalent lerfu words of selma'o BY. It is simpler just to repeat these directly:
 
@@ -592,7 +592,7 @@ However, the cmavo of the ti-series can be picked up by *[ri](/glossary/#ri)*, b
 
 Here the second *[ri](/glossary/#ri)* has as antecedent the first *[ri](/glossary/#ri)*, which has as antecedent *le tricu*. All three refer to the same thing: a tree.
 
-To refer to the next-to-last sumti, the third-from-last sumti, and so on, *[ri](/glossary/#ri)* may be subscripted (subscripts are explained in [Section 19.6](/chapter19/#section-subscripts-general "19.6. Subscripts: XI")):
+To refer to the next-to-last sumti, the third-from-last sumti, and so on, *[ri](/glossary/#ri)* may be subscripted (subscripts are explained in [Section 19.6](/chapter19/#subscripts-xi "19.6. Subscripts: XI")):
 
 ##### Example 7.34.
 
@@ -610,7 +610,7 @@ To refer to the next-to-last sumti, the third-from-last sumti, and so on, *[ri](
 
 Here *rixire*, or “ri-sub-2”, skips *la rik.* to reach *lo forca*. In the same way, *riximu*, or “ri-sub-5”, skips *la .alis.*, *rixire*, *la rik.*, and *lo forca* to reach *lo smuci*. As can clearly be seen, this procedure is barely practicable in writing, and would break down totally in speech.
 
-Therefore, the vaguer *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are also provided. The cmavo *[ra](/glossary/#ra)* repeats a recently used sumti, and *[ru](/glossary/#ru)* one that was further back in the speech or text. The use of *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* forces the listener to guess at the referent, but makes life easier for the speaker. Can *[ra](/glossary/#ra)* refer to the last sumti, like *[ri](/glossary/#ri)*? The answer is no if *[ri](/glossary/#ri)* has also been used. If *[ri](/glossary/#ri)* has not been used, then *[ra](/glossary/#ra)* might be the last sumti. Likewise, if *[ra](/glossary/#ra)* has been used, then any use of *[ru](/glossary/#ru)* would repeat a sumti earlier than the one *[ra](/glossary/#ra)* is repeating. A more reasonable version of [Example 7.34](/chapter07/#example-random-id-Lc2y "Example 7.34. "), but one that depends more on context, is:
+Therefore, the vaguer *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are also provided. The cmavo *[ra](/glossary/#ra)* repeats a recently used sumti, and *[ru](/glossary/#ru)* one that was further back in the speech or text. The use of *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* forces the listener to guess at the referent, but makes life easier for the speaker. Can *[ra](/glossary/#ra)* refer to the last sumti, like *[ri](/glossary/#ri)*? The answer is no if *[ri](/glossary/#ri)* has also been used. If *[ri](/glossary/#ri)* has not been used, then *[ra](/glossary/#ra)* might be the last sumti. Likewise, if *[ra](/glossary/#ra)* has been used, then any use of *[ru](/glossary/#ru)* would repeat a sumti earlier than the one *[ra](/glossary/#ra)* is repeating. A more reasonable version of [Example 7.34](/chapter07/#example-734 "Example 7.34. "), but one that depends more on context, is:
 
 ##### Example 7.35.
 
@@ -626,7 +626,7 @@ Therefore, the vaguer *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are also p
 
 
 
-In [Example 7.35](/chapter07/#example-random-id-N89g "Example 7.35. "), the use of *[ra](/glossary/#ra)* tells us that something other than *la rik.* is the antecedent; *lo forca* is the nearest sumti, so it is probably the antecedent. Similarly, the antecedent of *[ru](/glossary/#ru)* must be something even further back in the utterance than *lo forca*, and *lo smuci* is the obvious candidate.
+In [Example 7.35](/chapter07/#example-735 "Example 7.35. "), the use of *[ra](/glossary/#ra)* tells us that something other than *la rik.* is the antecedent; *lo forca* is the nearest sumti, so it is probably the antecedent. Similarly, the antecedent of *[ru](/glossary/#ru)* must be something even further back in the utterance than *lo forca*, and *lo smuci* is the obvious candidate.
 
 The meaning of *[ri](/glossary/#ri)* must be determined every time it is used. Since *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are more vaguely defined, they may well retain the same meaning for a while, but the listener cannot count on this behavior. To make a permanent reference to something repeated by *[ri](/glossary/#ri)*, *[ra](/glossary/#ra)*, or *[ru](/glossary/#ru)*, use *[goi](/glossary/#goi)* and a ko'a-series cmavo:
 
@@ -644,7 +644,7 @@ The meaning of *[ri](/glossary/#ri)* must be determined every time it is used. S
 
 
 
-allows the store to be referred to henceforth as *[ko'a](/glossary/#koa)* without ambiguity. [Example 7.36](/chapter07/#example-random-id-xIRG "Example 7.36. ") is equivalent to [Example 7.21](/chapter07/#example-random-id-qdCR "Example 7.21. ") and eliminates any possibility of *[ko'a](/glossary/#koa)* being interpreted by the listener as referring to Alice.
+allows the store to be referred to henceforth as *[ko'a](/glossary/#koa)* without ambiguity. [Example 7.36](/chapter07/#example-736 "Example 7.36. ") is equivalent to [Example 7.21](/chapter07/#example-721 "Example 7.21. ") and eliminates any possibility of *[ko'a](/glossary/#koa)* being interpreted by the listener as referring to Alice.
 
 The cmavo *[go'i](/glossary/#goi)*, *[go'a](/glossary/#goa)*, and *[go'u](/glossary/#gou)* follow exactly the same rules as *[ri](/glossary/#ri)*, *[ra](/glossary/#ra)*, and *[ru](/glossary/#ru)*, except that they are pro-bridi, and therefore repeat bridi, not sumti – specifically, main sentence bridi. Any bridi that are embedded within other bridi, such as relative clauses or abstractions, are not counted. Like the cmavo of the broda-series, the cmavo of the go'i-series copy all sumti with them. This makes *[go'i](/glossary/#goi)* by itself convenient for answering a question affirmatively, or for repeating the last bridi, possibly with new sumti:
 
@@ -674,7 +674,7 @@ The cmavo *[go'i](/glossary/#goi)*, *[go'a](/glossary/#goa)*, and *[go'u](/gloss
 
 
 
-Note that [Example 7.38](/chapter07/#example-random-id-qLn5 "Example 7.38. ") means the same as [Example 7.26](/chapter07/#example-random-id-UFJf "Example 7.26. "), but without the bother of assigning an actual broda-series word to the first bridi. For long-term reference, use *go'i cei broda* or the like, analogously to *ri goi ko'a* in [Example 7.36](/chapter07/#example-random-id-xIRG "Example 7.36. ").
+Note that [Example 7.38](/chapter07/#example-738 "Example 7.38. ") means the same as [Example 7.26](/chapter07/#example-726 "Example 7.26. "), but without the bother of assigning an actual broda-series word to the first bridi. For long-term reference, use *go'i cei broda* or the like, analogously to *ri goi ko'a* in [Example 7.36](/chapter07/#example-736 "Example 7.36. ").
 
 The remaining four cmavo of the go'i-series are provided for convenience or for achieving special effects. The cmavo *[go'e](/glossary/#goe)* means the same as *go'ixire*: it repeats the last bridi but one. This is useful in conversation:
 
@@ -721,7 +721,7 @@ that would mean:
 
 > I like the idea of your going to the store.
 
-The repetition signalled by *[go'i](/glossary/#goi)* is not literally of words, but of concepts. Finally, A repeats her own sentence, but with the x1 changed to *[do](/glossary/#do)*, meaning B. Note that in [Example 7.39](/chapter07/#example-random-id-9hf5 "Example 7.39. "), the tense *[ba](/glossary/#ba)* (future time) is carried along by both *[go'i](/glossary/#goi)* and *[go'e](/glossary/#goe)*.
+The repetition signalled by *[go'i](/glossary/#goi)* is not literally of words, but of concepts. Finally, A repeats her own sentence, but with the x1 changed to *[do](/glossary/#do)*, meaning B. Note that in [Example 7.39](/chapter07/#example-739 "Example 7.39. "), the tense *[ba](/glossary/#ba)* (future time) is carried along by both *[go'i](/glossary/#goi)* and *[go'e](/glossary/#goe)*.
 
 Descriptions based on go'i-series cmavo can be very useful for repeating specific sumti of previous bridi:
 
@@ -847,7 +847,7 @@ or:
 
 
 
-The *[ra'o](/glossary/#rao)* forces the second *[mi](/glossary/#mi)* from the original bridi to mean the new speaker rather than the former speaker. This means that *go'e ra'o* would be an acceptable alternative to *do go'e* in B's statement in [Example 7.39](/chapter07/#example-random-id-9hf5 "Example 7.39. ").
+The *[ra'o](/glossary/#rao)* forces the second *[mi](/glossary/#mi)* from the original bridi to mean the new speaker rather than the former speaker. This means that *go'e ra'o* would be an acceptable alternative to *do go'e* in B's statement in [Example 7.39](/chapter07/#example-739 "Example 7.39. ").
 
 The anaphoric pro-sumti of this section can be used in quotations, but never refer to any of the supporting text outside the quotation, since speakers presumably do not know that they may be quoted by someone else.
 
@@ -902,7 +902,7 @@ The cmavo *[zu'i](/glossary/#zui)*, on the other hand, represents the typical va
 
 
 
-In [Example 7.49](/chapter07/#example-random-id-VScg "Example 7.49. "), the first *[zu'i](/glossary/#zui)* probably means something like “by the door”, and the second *[zu'i](/glossary/#zui)* probably means something like “on foot”, those being the typical route and means for leaving a house. On the other hand, if you are at the top of a high rise during a fire, neither *[zu'i](/glossary/#zui)* is appropriate. It's also common to use *[zu'i](/glossary/#zui)* in “by standard” places.
+In [Example 7.49](/chapter07/#example-749 "Example 7.49. "), the first *[zu'i](/glossary/#zui)* probably means something like “by the door”, and the second *[zu'i](/glossary/#zui)* probably means something like “on foot”, those being the typical route and means for leaving a house. On the other hand, if you are at the top of a high rise during a fire, neither *[zu'i](/glossary/#zui)* is appropriate. It's also common to use *[zu'i](/glossary/#zui)* in “by standard” places.
 
 Finally, the cmavo *[zi'o](/glossary/#zio)* represents a value which does not even exist. When a bridi fills one of its places with *[zi'o](/glossary/#zio)*, what is really meant is that the selbri has a place which is irrelevant to the true relationship the speaker wishes to express. For example, the place structure of *[zbasu](/glossary/#zbasu)* is:
 
@@ -923,7 +923,7 @@ This cannot be correctly expressed as:
 
 
 
-because the *[zo'e](/glossary/#zoe)*, expressed or understood, in [Example 7.50](/chapter07/#example-random-id-ipCV "Example 7.50. ") indicates that there is still a “maker” in this relationship. We do not generally suppose, however, that someone “makes” living things from cells. The best answer is probably to find a different selbri, one which does not imply a “maker”: however, an alternative strategy is to use *[zi'o](/glossary/#zio)* to eliminate the maker place:
+because the *[zo'e](/glossary/#zoe)*, expressed or understood, in [Example 7.50](/chapter07/#example-750 "Example 7.50. ") indicates that there is still a “maker” in this relationship. We do not generally suppose, however, that someone “makes” living things from cells. The best answer is probably to find a different selbri, one which does not imply a “maker”: however, an alternative strategy is to use *[zi'o](/glossary/#zio)* to eliminate the maker place:
 
 ##### Example 7.51.
 
@@ -993,7 +993,7 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 
 
 
-If [Example 7.52](/chapter07/#example-random-id-qLoY "Example 7.52. ") is true, then [Example 7.53](/chapter07/#example-random-id-qLPI "Example 7.53. ") through [Example 7.55](/chapter07/#example-random-id-qLqE "Example 7.55. ") must be true also. However, [Example 7.51](/chapter07/#example-random-id-xxm1 "Example 7.51. ") does not correspond to any sentence with three regular (non- *[zi'o](/glossary/#zio)*) sumti.
+If [Example 7.52](/chapter07/#example-752 "Example 7.52. ") is true, then [Example 7.53](/chapter07/#example-753 "Example 7.53. ") through [Example 7.55](/chapter07/#example-755 "Example 7.55. ") must be true also. However, [Example 7.51](/chapter07/#example-751 "Example 7.51. ") does not correspond to any sentence with three regular (non- *[zi'o](/glossary/#zio)*) sumti.
 
 The pro-bridi *[co'e](/glossary/#coe)* (which by itself constitutes the co'e-series of selma'o GOhA) represents the elliptical selbri. Lojban grammar does not allow the speaker to merely omit a selbri from a bridi, although any or all sumti may be freely omitted. Being vague about a relationship requires the use of *[co'e](/glossary/#coe)* as a selbri place-holder:
 
@@ -1012,7 +1012,7 @@ The pro-bridi *[co'e](/glossary/#coe)* (which by itself constitutes the co'e-ser
 
 The English version means, and the Lojban version probably means, that I try to open the door, but the relationship of opening is not actually specified; the Lojbanic listener must guess it from context. Lojban, unlike English, makes it clear that there is an implicit action that is not being expressed.
 
-The form of *[co'e](/glossary/#coe)* was chosen to resemble *[zo'e](/glossary/#zoe)*; the cmavo *[do'e](/glossary/#doe)* of selma'o BAI (see [Section 9.6](/chapter09/#section-BAI "9.6. Modal tags: BAI")) also belongs to the same group of cmavo.
+The form of *[co'e](/glossary/#coe)* was chosen to resemble *[zo'e](/glossary/#zoe)*; the cmavo *[do'e](/glossary/#doe)* of selma'o BAI (see [Section 9.6](/chapter09/#modal-tags-bai "9.6. Modal tags: BAI")) also belongs to the same group of cmavo.
 
 Note that *[do'i](/glossary/#doi)*, of the di'u-series, is also a kind of indefinite pro-sumti: it is indefinite in referent, but is restricted to referring only to an utterance.
 
@@ -1056,7 +1056,7 @@ The cmavo of the vo'a-series are pro-sumti anaphora, like those of the ri-series
 
 
 
-To refer to places of neighboring bridi, constructions like *le se go'i ku* do the job: this refers to the 2nd place of the previous main bridi, as explained in [Section 7.6](/chapter07/#section-ri-gohi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
+To refer to places of neighboring bridi, constructions like *le se go'i ku* do the job: this refers to the 2nd place of the previous main bridi, as explained in [Section 7.6](/chapter07/#anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
 The cmavo of the vo'a-series are also used with *[soi](/glossary/#soi)* (of selma'o SOI) to precisely express reciprocity, which in English is imprecisely expressed with a discursive phrase like “vice versa”:
 
@@ -1126,7 +1126,7 @@ The following cmavo are discussed in this section:
 | ma  | KOhA | sumti question |
 | mo  | GOhA | bridi question |
 
-Lojban questions are more fully explained in [Section 19.5](/chapter19/#section-questions-and-answers "19.5. Questions and answers"), but *[ma](/glossary/#ma)* and *[mo](/glossary/#mo)* are listed in this chapter for completeness. The cmavo *[ma](/glossary/#ma)* asks for a sumti to make the bridi true:
+Lojban questions are more fully explained in [Section 19.5](/chapter19/#questions-and-answers "19.5. Questions and answers"), but *[ma](/glossary/#ma)* and *[mo](/glossary/#mo)* are listed in this chapter for completeness. The cmavo *[ma](/glossary/#ma)* asks for a sumti to make the bridi true:
 
 ##### Example 7.63.
 
@@ -1158,7 +1158,7 @@ The cmavo *[mo](/glossary/#mo)*, on the other hand, asks for a selbri which make
 
 
 
-[Example 7.65](/chapter07/#example-random-id-8HKo "Example 7.65. ") is a truly pregnant question that will have several meanings depending on context.
+[Example 7.65](/chapter07/#example-765 "Example 7.65. ") is a truly pregnant question that will have several meanings depending on context.
 
 (One thing it probably does not mean is “Who are you?” in the sense “What is your name/identity?”, which is better expressed by:
 
@@ -1246,7 +1246,7 @@ This pro-sumti is used in relative clauses (explained in [Chapter 8](/chapter08/
 
 
 
-If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example-random-id-UNBb "Example 7.69. "), it might be confused with:
+If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example-769 "Example 7.69. "), it might be confused with:
 
 ##### Example 7.70.
 
@@ -1266,9 +1266,9 @@ If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example
 
 
 
-The anaphora cmavo *[ri](/glossary/#ri)* cannot be used in place of *[ke'a](/glossary/#kea)* in [Example 7.69](/chapter07/#example-random-id-UNBb "Example 7.69. ") and [Example 7.70](/chapter07/#example-random-id-0EWp "Example 7.70. "), because the relativized sumti is not yet complete when the *[ke'a](/glossary/#kea)* appears.
+The anaphora cmavo *[ri](/glossary/#ri)* cannot be used in place of *[ke'a](/glossary/#kea)* in [Example 7.69](/chapter07/#example-769 "Example 7.69. ") and [Example 7.70](/chapter07/#example-770 "Example 7.70. "), because the relativized sumti is not yet complete when the *[ke'a](/glossary/#kea)* appears.
 
-Note that *[ke'a](/glossary/#kea)* is used only with relative clauses, and not with other embedded bridi such as abstract descriptions. In the case of relative clauses within relative clauses, *[ke'a](/glossary/#kea)* may be subscripted to make the difference clear (see [Section 8.10](/chapter08/#section-nesting "8.10. Relative clauses within relative clauses")).
+Note that *[ke'a](/glossary/#kea)* is used only with relative clauses, and not with other embedded bridi such as abstract descriptions. In the case of relative clauses within relative clauses, *[ke'a](/glossary/#kea)* may be subscripted to make the difference clear (see [Section 8.10](/chapter08/#relative-clauses-within-relative-clauses "8.10. Relative clauses within relative clauses")).
 
 ## Abstraction focus pro-sumti: *ce'u*
 
@@ -1324,7 +1324,7 @@ The following cmavo are discussed in this section:
 | bu'e | GOhA | bu'a-series | some-predicate-2 |
 | bu'i | GOhA | bu'a-series | some-predicate-3 |
 
-Bound variables belong to the predicate-logic part of Lojban, and are listed here for completeness only. Their semantics is explained in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"). It is worth mentioning that the Lojban translation of [Example 7.2](/chapter07/#example-random-id-VISf "Example 7.2. ") is:
+Bound variables belong to the predicate-logic part of Lojban, and are listed here for completeness only. Their semantics is explained in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"). It is worth mentioning that the Lojban translation of [Example 7.2](/chapter07/#example-72 "Example 7.2. ") is:
 
 ##### Example 7.73.
 
@@ -1354,7 +1354,7 @@ The following cmavo are discussed in this section:
 
 How long does a pro-sumti or pro-bridi remain stable? In other words, once we know the referent of a pro-sumti or pro-bridi, how long can we be sure that future uses of the same cmavo have the same referent? The answer to this question depends on which series the cmavo belongs to.
 
-Personal pro-sumti are stable until there is a change of speaker or listener, possibly signaled by a vocative. Assignable pro-sumti and pro-bridi last indefinitely or until rebound with *[goi](/glossary/#goi)* or *[cei](/glossary/#cei)*. Bound variable pro-sumti and pro-bridi also generally last until re-bound; details are available in [Section 16.14](/chapter16/#section-notes-on-variables "16.14. A few notes on variables").
+Personal pro-sumti are stable until there is a change of speaker or listener, possibly signaled by a vocative. Assignable pro-sumti and pro-bridi last indefinitely or until rebound with *[goi](/glossary/#goi)* or *[cei](/glossary/#cei)*. Bound variable pro-sumti and pro-bridi also generally last until re-bound; details are available in [Section 16.14](/chapter16/#a-few-notes-on-variables "16.14. A few notes on variables").
 
 Utterance pro-sumti are stable only within the utterance in which they appear; similarly, reflexive pro-sumti are stable only within the bridi in which they appear; and *[ke'a](/glossary/#kea)* is stable only within its relative clause. Anaphoric pro-sumti and pro-bridi are stable only within narrow limits depending on the rules for the particular cmavo.
 
@@ -1362,7 +1362,7 @@ Demonstrative pro-sumti, indefinite pro-sumti and pro-bridi, and sumti and bridi
 
 However, there are ways to cancel all pro-sumti and pro-bridi, so that none of them have known referents. (Some, such as *[mi](/glossary/#mi)*, will acquire the same referent as soon as they are used again after the cancellation.) The simplest way to cancel everything is with the cmavo *[da'o](/glossary/#dao)* of selma'o DAhO, which is used solely for this purpose; it may appear anywhere, and has no effect on the grammar of texts containing it. One use of *[da'o](/glossary/#dao)* is when entering a conversation, to indicate that one's pro-sumti assignments have nothing to do with any assignments already made by other participants in the conversation.
 
-In addition, the cmavo *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)* of selma'o NIhO, which are used primarily to indicate shifts in topic, may also have the effect of canceling pro-sumti and pro-bridi assignments, or of reinstating ones formerly in effect. More explanations of NIhO can be found in [Section 19.3](/chapter19/#section-niho "19.3. Paragraphs: NIhO").
+In addition, the cmavo *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)* of selma'o NIhO, which are used primarily to indicate shifts in topic, may also have the effect of canceling pro-sumti and pro-bridi assignments, or of reinstating ones formerly in effect. More explanations of NIhO can be found in [Section 19.3](/chapter19/#paragraphs-niho "19.3. Paragraphs: NIhO").
 
 ## The identity predicate: du
 
@@ -1400,15 +1400,15 @@ and
 
 
 
-is this defining nature. [Example 7.74](/chapter07/#example-random-id-GGoH "Example 7.74. ") presumes that the speaker is responding to a request for information about what *[ko'a](/glossary/#koa)* refers to, or that the speaker in some way feels the need to define *[ko'a](/glossary/#koa)* for later reference. A bridi with *[du](/glossary/#du)* is an identity sentence, somewhat metalinguistically saying that all attached sumti are representations for the same referent. There may be any number of sumti associated with *[du](/glossary/#du)*, and all are said to be identical.
+is this defining nature. [Example 7.74](/chapter07/#example-774 "Example 7.74. ") presumes that the speaker is responding to a request for information about what *[ko'a](/glossary/#koa)* refers to, or that the speaker in some way feels the need to define *[ko'a](/glossary/#koa)* for later reference. A bridi with *[du](/glossary/#du)* is an identity sentence, somewhat metalinguistically saying that all attached sumti are representations for the same referent. There may be any number of sumti associated with *[du](/glossary/#du)*, and all are said to be identical.
 
-[Example 7.75](/chapter07/#example-random-id-prfu "Example 7.75. "), however, predicates; it is used to make a claim about the identity of *[ko'a](/glossary/#koa)*, which presumably has been defined previously.
+[Example 7.75](/chapter07/#example-775 "Example 7.75. "), however, predicates; it is used to make a claim about the identity of *[ko'a](/glossary/#koa)*, which presumably has been defined previously.
 
 Note: *[du](/glossary/#du)* historically is derived from *[dunli](/glossary/#dunli)*, but *[dunli](/glossary/#dunli)* has a third place which *[du](/glossary/#du)* lacks: the standard of equality.
 
 ## lujvo based on pro-sumti
 
-There exist rafsi allocated to a few cmavo of selma'o KOhA, but they are rarely used. (See [Section 7.16](/chapter07/#section-koha-summary "7.16. KOhA cmavo by series") for a complete list.) The obvious way to use them is as internal sumti, filling in an appropriate place of the gismu or lujvo to which they are attached; as such, they usually stand as the first rafsi in their lujvo.
+There exist rafsi allocated to a few cmavo of selma'o KOhA, but they are rarely used. (See [Section 7.16](/chapter07/#koha-cmavo-by-series "7.16. KOhA cmavo by series") for a complete list.) The obvious way to use them is as internal sumti, filling in an appropriate place of the gismu or lujvo to which they are attached; as such, they usually stand as the first rafsi in their lujvo.
 
 Thus *[donta'a](/glossary/#dontaa)*, meaning “you-talk”, would be interpreted as *tavla be do*, and would have the place structure
 

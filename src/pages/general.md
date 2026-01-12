@@ -9,11 +9,9 @@ nextTitle: 'Next: Lojban Words Index'
 
 ### Symbols
 
-- "
+- "-"
 
-  - "
-
-    - word for: [The universal bu](/chapter17/#idm47077877889440)
+  - word for: [The universal bu](/chapter17/#idm47077877889440)
 
 - "&"
 

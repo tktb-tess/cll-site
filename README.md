@@ -14,5 +14,8 @@ Permission is granted to copy and distribute translations of this book into anot
 
 The contents of Chapter 21 are in the public domain.
 
-For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA 22031-1303 USA. Telephone: 703-385-0273. Email address: [llg-board@lojban.org](mailto:llg-board@lojban.org). Web Address: <http://www.lojban.org>.
+For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA 22031-1303 USA. Telephone: 703-385-0273. Email address: llg-board\[at\]lojban.org. Web Address: <http://www.lojban.org>.
 
+## Changes
+
+- changed "@" in E-mail address into "\[at\]" to avoid spam mails.

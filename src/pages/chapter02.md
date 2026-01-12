@@ -17,37 +17,37 @@ Let us consider John and Sam and three statements about them:
 
 ##### Example 2.1.
 
-John is the father of Sam.
+- *John is the father of Sam.*
 
 ##### Example 2.2.
 
-John hits Sam.
+- *John hits Sam.*
 
 ##### Example 2.3.
 
-John is taller than Sam.
+- *John is taller than Sam.*
 
-These examples all describe relationships between John and Sam. However, in English, we use the noun “father” to describe a static relationship in [Example 2.1](/chapter02/#example-random-id-qIuj "Example 2.1. "), the verb “hits” to describe an active relationship in [Example 2.2](/chapter02/#example-random-id-qiuQ "Example 2.2. "), and the adjective “taller” to describe an attributive relationship in [Example 2.3](/chapter02/#example-random-id-qIuS "Example 2.3. "). In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a “predication”; in Lojban it is called a *[bridi](/glossary/#bridi)*, and the central part of speech is the *[selbri](/glossary/#selbri)*. Logicians refer to the things thus related as “arguments”, while Lojbanists call them *[sumti](/glossary/#sumti)*. These Lojban terms will be used for the rest of the book.
+These examples all describe relationships between John and Sam. However, in English, we use the noun “father” to describe a static relationship in [Example 2.1](/chapter02/#example-21 "Example 2.1. "), the verb “hits” to describe an active relationship in [Example 2.2](/chapter02/#example-22 "Example 2.2. "), and the adjective “taller” to describe an attributive relationship in [Example 2.3](/chapter02/#example-23 "Example 2.3. "). In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a “predication”; in Lojban it is called a *[bridi](/glossary/#bridi)*, and the central part of speech is the *[selbri](/glossary/#selbri)*. Logicians refer to the things thus related as “arguments”, while Lojbanists call them *[sumti](/glossary/#sumti)*. These Lojban terms will be used for the rest of the book.
 
-![bridi (predicate) \*\*\*\*\*\*\*\*\*\*\*\*\*\*|\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* | | John is the father of Sam |\*\*\*\*| |\*\*\*\*\*\*\*\*\*\*\*\*\*\*| |\*\*\*| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
+![bridi (predicate) \_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | John is the father of Sam |\_\_\_\_| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |\_\_\_| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
 
 In a relationship, there are a definite number of things being related. In English, for example, “give” has three places: the donor, the recipient and the gift. For example:
 
 ##### Example 2.4.
 
-John gives Sam the book.
+- *John gives Sam the book.*
 
 and
 
 ##### Example 2.5.
 
-Sam gives John the book.
+- *Sam gives John the book.*
 
 mean two different things because the relative positions of “John” and “Sam” have been switched. Further,
 
 ##### Example 2.6.
 
-The book gives John Sam.
+- *The book gives John Sam.*
 
 seems strange to us merely because the places are being filled by unorthodox arguments. The relationship expressed by “give” has not changed.
 
@@ -75,7 +75,7 @@ All Lojban words are pronounced as they are spelled: there are no silent letters
 
 ## Words that can act as sumti
 
-Here is a short table of single words used as sumti. This table provides examples only, not the entire set of such words, which may be found in [Section 7.16](/chapter07/#section-koha-summary "7.16. KOhA cmavo by series").
+Here is a short table of single words used as sumti. This table provides examples only, not the entire set of such words, which may be found in [Section 7.16](/chapter07/#koha-cmavo-by-series "7.16. KOhA cmavo by series").
 
 |      |                                                                 |
 | ---- | --------------------------------------------------------------- |
@@ -97,32 +97,32 @@ Names may also be used as sumti, provided they are preceded with the word *[la](
 | *la meris.* | the one/ones named Mary |
 | *la djan.*  | the one/ones named John |
 
-Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#section-names "6.12. Lojban names") for more information.
+Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#lojban-names "6.12. Lojban names") for more information.
 
 ## Some words used to indicate selbri relations
 
 Here is a short table of some words used as Lojban selbri in this chapter:
 
-|                                        |                                                                                                            |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| *[vecnu](/glossary/#vecnu)*     | x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)                                                  |
-| *[tavla](/glossary/#tavla)*     | x1 (talker) talks to x2 (audience) about x3 (topic) in language x4                                         |
-| *[sutra](/glossary/#sutra)*     | x1 (agent) is fast at doing x2 (action)                                                                    |
+|                                |                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| *[vecnu](/glossary/#vecnu)*    | x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)                                                  |
+| *[tavla](/glossary/#tavla)*    | x1 (talker) talks to x2 (audience) about x3 (topic) in language x4                                         |
+| *[sutra](/glossary/#sutra)*    | x1 (agent) is fast at doing x2 (action)                                                                    |
 | *[blari'o](/glossary/#blario)* | x1 (object/light source) is blue-green                                                                     |
-| *[melbi](/glossary/#melbi)*     | x1 (object/idea) is beautiful to x2 (observer) by standard x3                                              |
-| *[cutci](/glossary/#cutci)*     | x1 is a shoe/boot for x2 (foot) made of x3 (material)                                                      |
-| *[bajra](/glossary/#bajra)*     | x1 runs on x2 (surface) using x3 (limbs) in manner x4 (gait)                                               |
-| *[klama](/glossary/#klama)*     | x1 goes/comes to x2 (destination) from x3 (origin point) via x4 (route) using x5 (means of transportation) |
-| *[pluka](/glossary/#pluka)*     | x1 pleases/is pleasing to x2 (experiencer) under conditions x3                                             |
-| *[gerku](/glossary/#gerku)*     | x1 is a dog of breed x2                                                                                    |
-| *[kurji](/glossary/#kurji)*     | x1 takes care of x2                                                                                        |
-| *[kanro](/glossary/#kanro)*     | x1 is healthy by standard x2                                                                               |
-| *[stali](/glossary/#stali)*     | x1 stays/remains with x2                                                                                   |
-| *[zarci](/glossary/#zarci)*     | x1 is a market/store/shop selling x2 (products) operated by x3 (storekeeper)                               |
+| *[melbi](/glossary/#melbi)*    | x1 (object/idea) is beautiful to x2 (observer) by standard x3                                              |
+| *[cutci](/glossary/#cutci)*    | x1 is a shoe/boot for x2 (foot) made of x3 (material)                                                      |
+| *[bajra](/glossary/#bajra)*    | x1 runs on x2 (surface) using x3 (limbs) in manner x4 (gait)                                               |
+| *[klama](/glossary/#klama)*    | x1 goes/comes to x2 (destination) from x3 (origin point) via x4 (route) using x5 (means of transportation) |
+| *[pluka](/glossary/#pluka)*    | x1 pleases/is pleasing to x2 (experiencer) under conditions x3                                             |
+| *[gerku](/glossary/#gerku)*    | x1 is a dog of breed x2                                                                                    |
+| *[kurji](/glossary/#kurji)*    | x1 takes care of x2                                                                                        |
+| *[kanro](/glossary/#kanro)*    | x1 is healthy by standard x2                                                                               |
+| *[stali](/glossary/#stali)*    | x1 stays/remains with x2                                                                                   |
+| *[zarci](/glossary/#zarci)*    | x1 is a market/store/shop selling x2 (products) operated by x3 (storekeeper)                               |
 
 Each selbri (relation) has a specific rule that defines the role of each sumti in the bridi, based on its position. In the table above, that order was expressed by labeling the sumti positions as x1, x2, x3, x4, and x5.
 
-Like the table in [Section 2.3](/chapter02/#section-sumti-cmavo "2.3. Words that can act as sumti"), this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that “aren't in the dictionary”. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") explains how to make new words, and [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures") explains how to give them appropriate meanings.
+Like the table in [Section 2.3](/chapter02/#words-that-can-act-as-sumti "2.3. Words that can act as sumti"), this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that “aren't in the dictionary”. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") explains how to make new words, and [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures") explains how to give them appropriate meanings.
 
 ## Some simple Lojban bridi
 
@@ -144,55 +144,49 @@ has “John” in the x1 place, “Sam” in the x2 place, “engineering” in 
 
 Talking is going on, with speaker John and listener Sam and subject matter engineering and language Lojban.
 
-The Lojban bridi corresponding to [Example 2.7](/chapter02/#example-random-id-5Lis "Example 2.7. ") will have the form
+The Lojban bridi corresponding to [Example 2.7](/chapter02/#example-27 "Example 2.7. ") will have the form
 
 ##### Example 2.10.
 
-|    |       |       |    |    |    |
-| -- | ----- | ----- | -- | -- | -- |
-| x1 | \[cu\] | tavla | x2 | x3 | x4 |
+|     |        |       |     |     |     |
+| --- | ------ | ----- | --- | --- | --- |
+| x1  | \[cu\] | tavla | x2  | x3  | x4  |
 
 The word *[cu](/glossary/#cu)* serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.
 
 ##### Example 2.11.
 
-|    |       |    |      |      |
-| -- | ----- | -- | ---- | ---- |
-| mi | tavla | do | zo'e | zo'e |
+|     |       |     |      |      |
+| --- | ----- | --- | ---- | ---- |
+| mi  | tavla | do  | zo'e | zo'e |
 
-|                                                 |
-| ----------------------------------------------- |
-| I talk to you about something in some language. |
+- *I talk to you about something in some language.*
 
 ##### Example 2.12.
 
-|    |       |    |    |      |
-| -- | ----- | -- | -- | ---- |
-| do | tavla | mi | ta | zo'e |
+|     |       |     |     |      |
+| --- | ----- | --- | --- | ---- |
+| do  | tavla | mi  | ta  | zo'e |
 
-|                                                |
-| ---------------------------------------------- |
-| You talk to me about that thing in a language. |
+- *You talk to me about that thing in a language.*
 
 ##### Example 2.13.
 
-|    |       |      |    |    |
-| -- | ----- | ---- | -- | -- |
-| mi | tavla | zo'e | tu | ti |
+|     |       |      |     |     |
+| --- | ----- | ---- | --- | --- |
+| mi  | tavla | zo'e | tu  | ti  |
 
-|                                                             |
-| ----------------------------------------------------------- |
-| I talk to someone about that thing yonder in this language. |
+- *I talk to someone about that thing yonder in this language.*
 
-([Example 2.13](/chapter02/#example-random-id-k03n "Example 2.13. ") is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)
+([Example 2.13](/chapter02/#example-213 "Example 2.13. ") is a bit unusual, as there is no easy way to point to a language; one might point to a copy of this book, and hope the meaning gets across!)
 
-When there are one or more occurrences of the cmavo *[zo'e](/glossary/#zoe)* at the end of a bridi, they may be omitted, a process called “ellipsis”. [Example 2.11](/chapter02/#example-random-id-k02C "Example 2.11. ") and [Example 2.12](/chapter02/#example-random-id-k02u "Example 2.12. ") may be expressed thus:
+When there are one or more occurrences of the cmavo *[zo'e](/glossary/#zoe)* at the end of a bridi, they may be omitted, a process called “ellipsis”. [Example 2.11](/chapter02/#example-211 "Example 2.11. ") and [Example 2.12](/chapter02/#example-212 "Example 2.12. ") may be expressed thus:
 
 ##### Example 2.14.
 
-|    |       |    |
-| -- | ----- | -- |
-| mi | tavla | do |
+|     |       |     |
+| --- | ----- | --- |
+| mi  | tavla | do  |
 
 |                                                   |
 | ------------------------------------------------- |
@@ -200,15 +194,13 @@ When there are one or more occurrences of the cmavo *[zo'e](/glossary/#zoe)* at 
 
 ##### Example 2.15.
 
-|    |       |    |    |
-| -- | ----- | -- | -- |
-| do | tavla | mi | ta |
+|     |       |     |     |
+| --- | ----- | --- | --- |
+| do  | tavla | mi  | ta  |
 
-|                                                     |
-| --------------------------------------------------- |
-| You talk to me about that thing (in some language). |
+- *You talk to me about that thing (in some language).*
 
-Note that [Example 2.13](/chapter02/#example-random-id-k03n "Example 2.13. ") is not subject to ellipsis by this direct method, as the *[zo'e](/glossary/#zoe)* in it is not at the end of the bridi.
+Note that [Example 2.13](/chapter02/#example-213 "Example 2.13. ") is not subject to ellipsis by this direct method, as the *[zo'e](/glossary/#zoe)* in it is not at the end of the bridi.
 
 ## Variant bridi structure
 
@@ -216,61 +208,57 @@ Consider the sentence
 
 ##### Example 2.16.
 
-|           |       |       |               |          |                 |
-| --------- | ----- | ----- | ------------- | -------- | --------------- |
+|           |        |       |               |          |                 |
+| --------- | ------ | ----- | ------------- | -------- | --------------- |
 | mi        | \[cu\] | vecnu | ti            | ta       | zo'e            |
-| seller-x1 | -     | sells | goods-sold-x2 | buyer-x3 | price-x4        |
-| I         | -     | sell  | this          | to that  | for some price. |
+| seller-x1 | -      | sells | goods-sold-x2 | buyer-x3 | price-x4        |
+| I         | -      | sell  | this          | to that  | for some price. |
 
-|                                                            |
-| ---------------------------------------------------------- |
-| I sell this-thing/these-things to that-buyer/those-buyers. |
-| (the price is obvious or unimportant)                      |
 
-[Example 2.16](/chapter02/#example-random-id-k068 "Example 2.16. ") has one sumti (the x1) before the selbri. It is also possible to put more than one sumti before the selbri, without changing the order of sumti:
+- *I sell this-thing/these-things to that-buyer/those-buyers.*  
+  *(the price is obvious or unimportant)*
+
+[Example 2.16](/chapter02/#example-216 "Example 2.16. ") has one sumti (the x1) before the selbri. It is also possible to put more than one sumti before the selbri, without changing the order of sumti:
 
 ##### Example 2.17.
 
-|           |               |       |       |          |
-| --------- | ------------- | ----- | ----- | -------- |
+|           |               |        |       |          |
+| --------- | ------------- | ------ | ----- | -------- |
 | mi        | ti            | \[cu\] | vecnu | ta       |
-| seller-x1 | goods-sold-x2 | -     | sells | buyer-x3 |
-| I         | this          | -     | sell  | to that. |
+| seller-x1 | goods-sold-x2 | -      | sells | buyer-x3 |
+| I         | this          | -      | sell  | to that. |
 
-|                                           |
-| ----------------------------------------- |
-| (translates as stilted or poetic English) |
-| I this thing do sell to that buyer.       |
+
+- *(translates as stilted or poetic English)*  
+  *I this thing do sell to that buyer.*
 
 ##### Example 2.18.
 
-|           |               |          |       |       |
-| --------- | ------------- | -------- | ----- | ----- |
+|           |               |          |        |       |
+| --------- | ------------- | -------- | ------ | ----- |
 | mi        | ti            | ta       | \[cu\] | vecnu |
-| seller-x1 | goods-sold-x2 | buyer-x3 | -     | sells |
-| I         | this          | to that  | -     | sell  |
+| seller-x1 | goods-sold-x2 | buyer-x3 | -      | sells |
+| I         | this          | to that  | -      | sell  |
 
-|                                           |
-| ----------------------------------------- |
-| (translates as stilted or poetic English) |
-| I this thing to that buyer do sell.       |
 
-[Example 2.16](/chapter02/#example-random-id-k068 "Example 2.16. ") through [Example 2.18](/chapter02/#example-random-id-k0Bm "Example 2.18. ") mean the same thing. Usually, placing more than one sumti before the selbri is done for style or for emphasis on the sumti that are out-of-place from their normal position. (Native speakers of languages other than English may prefer such orders.)
+- *(translates as stilted or poetic English)*
+  *I this thing to that buyer do sell.*
+
+[Example 2.16](/chapter02/#example-216 "Example 2.16. ") through [Example 2.18](/chapter02/#example-218 "Example 2.18.") mean the same thing. Usually, placing more than one sumti before the selbri is done for style or for emphasis on the sumti that are out-of-place from their normal position. (Native speakers of languages other than English may prefer such orders.)
 
 If there are no sumti before the selbri, then it is understood that the x1 sumti value is equivalent to *[zo'e](/glossary/#zoe)*; i.e. unimportant or obvious, and therefore not given. Any sumti after the selbri start counting from x2.
 
 ##### Example 2.19.
 
-|                |       |                   |                               |
-| -------------- | ----- | ----------------- | ----------------------------- |
+|                |        |                   |                               |
+| -------------- | ------ | ----------------- | ----------------------------- |
 | ta             | \[cu\] | melbi             |                               |
-| object/idea-x1 | -     | is-beautiful      | (to someone by some standard) |
-| That/Those     | -     | is/are beautiful. |                               |
+| object/idea-x1 | -      | is-beautiful      | (to someone by some standard) |
+| That/Those     | -      | is/are beautiful. |                               |
 
-|                      |
-| -------------------- |
-| That is beautiful.   |
-| Those are beautiful. |
+
+- *That is beautiful.*  
+  *Those are beautiful.*
 
 when the x1 is omitted, becomes:
 
@@ -281,10 +269,8 @@ when the x1 is omitted, becomes:
 |                | melbi        |                             |
 | unspecified-x1 | is-beautiful | to someone by some standard |
 
-|                 |
-| --------------- |
-| Beautiful!      |
-| It's beautiful! |
+- *Beautiful!*  
+  *It's beautiful!*
 
 Omitting the x1 adds emphasis to the selbri relation, which has become first in the sentence. This kind of sentence is termed an observative, because it is often used when someone first observes or takes note of the relationship, and wishes to quickly communicate it to someone else. Commonly understood English observatives include “Smoke!” upon seeing smoke or smelling the odor, or “Car!” to a person crossing the street who might be in danger. Any Lojban selbri can be used as an observative if no sumti appear before the selbri.
 
@@ -296,57 +282,49 @@ For one reason or another you may want to change the order, placing one particul
 
 ##### Example 2.21.
 
-|    |       |    |    |
-| -- | ----- | -- | -- |
-| mi | tavla | do | ti |
+|     |       |     |     |
+| --- | ----- | --- | --- |
+| mi  | tavla | do  | ti  |
 
-|                           |
-| ------------------------- |
-| I talk to you about this. |
+- *I talk to you about this.*
 
 has the same meaning as
 
 ##### Example 2.22.
 
-|    |          |    |    |
-| -- | -------- | -- | -- |
-| do | se tavla | mi | ti |
+|     |          |     |     |
+| --- | -------- | --- | --- |
+| do  | se tavla | mi  | ti  |
 
-|                                     |
-| ----------------------------------- |
-| You are talked to by me about this. |
+- *You are talked to by me about this.*
 
 The cmavo *[te](/glossary/#te)*, when used in the same location, switches the meanings of the first and the third sumti places.
 
 ##### Example 2.23.
 
-|    |       |    |    |
-| -- | ----- | -- | -- |
-| mi | tavla | do | ti |
+|     |       |     |     |
+| --- | ----- | --- | --- |
+| mi  | tavla | do  | ti  |
 
-|                           |
-| ------------------------- |
-| I talk to you about this. |
+- *I talk to you about this.*
 
 has the same meaning as
 
 ##### Example 2.24.
 
-|    |          |    |    |
-| -- | -------- | -- | -- |
-| ti | te tavla | do | mi |
+|     |          |     |     |
+| --- | -------- | --- | --- |
+| ti  | te tavla | do  | mi  |
 
-|                                    |
-| ---------------------------------- |
-| This is talked about to you by me. |
+- *This is talked about to you by me.*
 
 Note that only the first and third sumti have switched places; the second sumti has remained in the second place.
 
 The cmavo *[ve](/glossary/#ve)* and *[xe](/glossary/#xe)* switch the first and fourth sumti places, and the first and fifth sumti places, respectively. These changes in the order of places are known as “conversions”, and the *[se](/glossary/#se)*, *[te](/glossary/#te)*, *[ve](/glossary/#ve)*, and *[xe](/glossary/#xe)* cmavo are said to convert the selbri.
 
-More than one of these operators may be used on a given selbri at one time, and in such a case they are evaluated from left to right. However, in practice they are used one at a time, as there are better tools for complex manipulation of the sumti places. See [Section 9.4](/chapter09/#section-SE "9.4. Conversion: SE") for details.
+More than one of these operators may be used on a given selbri at one time, and in such a case they are evaluated from left to right. However, in practice they are used one at a time, as there are better tools for complex manipulation of the sumti places. See [Section 9.4](/chapter09/#conversion-se "9.4. Conversion: SE") for details.
 
-The effect is similar to what in English is called the “passive voice”. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as *le selbri \[ku\]* (see [Section 2.10](/chapter02/#section-description-sumti "2.10. Description sumti")).
+The effect is similar to what in English is called the “passive voice”. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as *le selbri \[ku\]* (see [Section 2.10](/chapter02/#description-sumti "2.10. Description sumti")).
 
 ## The basic structure of longer utterances
 
@@ -354,7 +332,7 @@ People don't always say just one sentence. Lojban has a specific structure for t
 
 The cmavo *[ni'o](/glossary/#nio)* separates paragraphs (covering different topics of discussion). In a long text or utterance, the topical structure of the text may be indicated by multiple *[ni'o](/glossary/#nio)* s, with perhaps *ni'oni'oni'o* used to indicate a chapter, *ni'oni'o* to indicate a section, and a single *[ni'o](/glossary/#nio)* to indicate a subtopic corresponding to a single English paragraph.
 
-The cmavo *[i](/glossary/#i)* separates sentences. It is sometimes compounded with words that modify the exact meaning (the semantics) of the sentence in the context of the utterance. (The cmavo *[xu](/glossary/#xu)*, discussed in [Section 2.15](/chapter02/#section-basic-questions "2.15. Questions"), is one such word – it turns the sentence from a statement to a question about truth.) When more than one person is talking, a new speaker will usually omit the *[i](/glossary/#i)* even though she/he may be continuing on the same topic.
+The cmavo *[i](/glossary/#i)* separates sentences. It is sometimes compounded with words that modify the exact meaning (the semantics) of the sentence in the context of the utterance. (The cmavo *[xu](/glossary/#xu)*, discussed in [Section 2.15](/chapter02/#questions "2.15. Questions"), is one such word – it turns the sentence from a statement to a question about truth.) When more than one person is talking, a new speaker will usually omit the *[i](/glossary/#i)* even though she/he may be continuing on the same topic.
 
 It is still O.K. for a new speaker to say the *[i](/glossary/#i)* before continuing; indeed, it is encouraged for maximum clarity (since it is possible that the second speaker might merely be adding words onto the end of the first speaker's sentence). A good translation for *[i](/glossary/#i)* is the “and” used in run-on sentences when people are talking informally: “I did this, and then I did that, and ..., and ...”.
 
@@ -421,29 +399,29 @@ The place structure of a tanru is always that of the final component of the tanr
 
 ##### Example 2.32.
 
-|    |       |             |           |
-| -- | ----- | ----------- | --------- |
-| mi | \[cu\] | sutra klama | la meris. |
-| I  | -     | quickly-go  | to Mary.  |
+|     |        |             |           |
+| --- | ------ | ----------- | --------- |
+| mi  | \[cu\] | sutra klama | la meris. |
+| I   | -      | quickly-go  | to Mary.  |
 
 With the conversion *se klama* as the final component of the tanru, the place structure of the entire selbri is that of *se klama*: the x1 place is the destination, and the x2 place is the one who goes:
 
 ##### Example 2.33.
 
-|    |       |         |            |           |
-| -- | ----- | ------- | ---------- | --------- |
-| mi | \[cu\] | sutra   | se klama   | la meris. |
-| I  | -     | quickly | am-gone-to | by Mary.  |
+|     |        |         |            |           |
+| --- | ------ | ------- | ---------- | --------- |
+| mi  | \[cu\] | sutra   | se klama   | la meris. |
+| I   | -      | quickly | am-gone-to | by Mary.  |
 
 The following example shows that there is more to conversion than merely switching places, though:
 
 ##### Example 2.34.
 
-|         |       |                       |           |
-| ------- | ----- | --------------------- | --------- |
+|         |        |                       |           |
+| ------- | ------ | --------------------- | --------- |
 | la tam. | \[cu\] | melbi tavla           | la meris. |
-| Tom     | -     | beautifully-talks     | to Mary.  |
-| Tom     | -     | is a beautiful-talker | to Mary.  |
+| Tom     | -      | beautifully-talks     | to Mary.  |
+| Tom     | -      | is a beautiful-talker | to Mary.  |
 
 has the place structure of *[tavla](/glossary/#tavla)*, but note the two distinct interpretations.
 
@@ -451,11 +429,11 @@ Now, using conversion, we can modify the place structure order:
 
 ##### Example 2.35.
 
-|           |       |                          |          |
-| --------- | ----- | ------------------------ | -------- |
+|           |        |                          |          |
+| --------- | ------ | ------------------------ | -------- |
 | la meris. | \[cu\] | melbi se tavla           | la tam.  |
-| Mary      | -     | is beautifully-talked-to | by Tom.  |
-| Mary      | -     | is a beautiful-audience  | for Tom. |
+| Mary      | -      | is beautifully-talked-to | by Tom.  |
+| Mary      | -      | is a beautiful-audience  | for Tom. |
 
 and we see that the modification has been changed so as to focus on Mary's role in the bridi relationship, leading to a different set of possible interpretations.
 
@@ -463,17 +441,17 @@ Note that there is no place structure change if the modifying term is converted,
 
 ##### Example 2.36.
 
-|         |       |                       |           |
-| ------- | ----- | --------------------- | --------- |
+|         |        |                       |           |
+| ------- | ------ | --------------------- | --------- |
 | la tam. | \[cu\] | tavla melbi           | la meris. |
-| Tom     | -     | is talkerly-beautiful | to Mary.  |
+| Tom     | -      | is talkerly-beautiful | to Mary.  |
 
 ##### Example 2.37.
 
-|         |       |                         |           |
-| ------- | ----- | ----------------------- | --------- |
+|         |        |                         |           |
+| ------- | ------ | ----------------------- | --------- |
 | la tam. | \[cu\] | se tavla melbi          | la meris. |
-| Tom     | -     | is audiencely-beautiful | to Mary.  |
+| Tom     | -      | is audiencely-beautiful | to Mary.  |
 
 and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.
 
@@ -485,9 +463,9 @@ For example,
 
 ##### Example 2.38.
 
-|    |       |    |          |       |
-| -- | ----- | -- | -------- | ----- |
-| mi | tavla | do | le tavla | \[ku\] |
+|     |       |     |          |        |
+| --- | ----- | --- | -------- | ------ |
+| mi  | tavla | do  | le tavla | \[ku\] |
 
 means the same as
 
@@ -503,12 +481,12 @@ In many cases the word *[ku](/glossary/#ku)* may be omitted. In particular, it i
 
 ##### Example 2.40.
 
-|    |         |     |                  |
-| -- | ------- | --- | ---------------- |
-| mi | tavla   | do  | le tavla         |
-| I  | talk-to | you | about-the talker |
+|     |         |     |                  |
+| --- | ------- | --- | ---------------- |
+| mi  | tavla   | do  | le tavla         |
+| I   | talk-to | you | about-the talker |
 
-means exactly the same thing as [Example 2.38](/chapter02/#example-random-id-k0Pj "Example 2.38. ").
+means exactly the same thing as [Example 2.38](/chapter02/#example-238 "Example 2.38. ").
 
 There is a problem when we want to say “The fast one is talking.” The “obvious” translation *le sutra tavla* turns out to mean “the fast talker”, and has no selbri at all. To solve this problem we can use the word *[cu](/glossary/#cu)*, which so far has always been optional, in front of the selbri.
 
@@ -523,10 +501,10 @@ The word *[cu](/glossary/#cu)* has no meaning, and exists only to mark the begin
 
 ##### Example 2.42.
 
-|              |    |             |
-| ------------ | -- | ----------- |
-| le sutra     | cu | tavla       |
-| The fast one | -  | is talking. |
+|              |     |             |
+| ------------ | --- | ----------- |
+| le sutra     | cu  | tavla       |
+| The fast one | -   | is talking. |
 
 ##### Example 2.43.
 
@@ -537,23 +515,23 @@ The word *[cu](/glossary/#cu)* has no meaning, and exists only to mark the begin
 
 ##### Example 2.44.
 
-|              |    |               |
-| ------------ | -- | ------------- |
-| le sutra     | cu | se tavla      |
-| The fast one | -  | is talked to. |
+|              |     |               |
+| ------------ | --- | ------------- |
+| le sutra     | cu  | se tavla      |
+| The fast one | -   | is talked to. |
 
 Consider the following more complex example, with two description sumti.
 
 ##### Example 2.45.
 
-|    |       |         |            |       |                             |       |
-| -- | ----- | ------- | ---------- | ----- | --------------------------- | ----- |
-| mi | \[cu\] | tavla   | le vecnu   | \[ku\] | le blari'o                  | \[ku\] |
-| I  | -     | talk-to | the seller | -     | about the blue-green-thing. | -     |
+|     |        |         |            |        |                             |        |
+| --- | ------ | ------- | ---------- | ------ | --------------------------- | ------ |
+| mi  | \[cu\] | tavla   | le vecnu   | \[ku\] | le blari'o                  | \[ku\] |
+| I   | -      | talk-to | the seller | -      | about the blue-green-thing. | -      |
 
 The sumti *le vecnu* contains the selbri *[vecnu](/glossary/#vecnu)*, which has the “seller” in the x1 place, and uses it in this sentence to describe a particular “seller” that the speaker has in mind (one that he or she probably expects the listener will also know about). Similarly, the speaker has a particular blue-green thing in mind, which is described using *[le](/glossary/#le)* to mark *[blari'o](/glossary/#blario)*, a selbri whose first sumti is something blue-green.
 
-It is safe to omit both occurrences of *[ku](/glossary/#ku)* in [Example 2.45](/chapter02/#example-random-id-k0S1 "Example 2.45. "), and it is also safe to omit the *[cu](/glossary/#cu)*.
+It is safe to omit both occurrences of *[ku](/glossary/#ku)* in [Example 2.45](/chapter02/#example-245 "Example 2.45. "), and it is also safe to omit the *[cu](/glossary/#cu)*.
 
 ## Examples of brivla
 
@@ -563,10 +541,10 @@ gismu:
 
 ##### Example 2.46.
 
-|       |       |       |             |        |       |        |
-| ----- | ----- | ----- | ----------- | ------ | ----- | ------ |
+|       |        |       |             |        |       |        |
+| ----- | ------ | ----- | ----------- | ------ | ----- | ------ |
 | mi    | \[cu\] | klama | ti          | zo'e   | zo'e  | ta     |
-| Go-er | -     | goes  | destination | origin | route | means. |
+| Go-er | -      | goes  | destination | origin | route | means. |
 
 |                                                                       |
 | --------------------------------------------------------------------- |
@@ -576,28 +554,28 @@ lujvo:
 
 ##### Example 2.47.
 
-|      |       |                |
-| ---- | ----- | -------------- |
+|      |        |                |
+| ---- | ------ | -------------- |
 | ta   | \[cu\] | blari'o        |
-| That | -     | is-blue-green. |
+| That | -      | is-blue-green. |
 
 fu'ivla:
 
 ##### Example 2.48.
 
-|      |       |               |
-| ---- | ----- | ------------- |
+|      |        |               |
+| ---- | ------ | ------------- |
 | ti   | \[cu\] | djarspageti   |
-| This | -     | is-spaghetti. |
+| This | -      | is-spaghetti. |
 
 Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is *[go'i](/glossary/#goi)*, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:
 
 ##### Example 2.49.
 
-|      |       |                          |
-| ---- | ----- | ------------------------ |
+|      |        |                          |
+| ---- | ------ | ------------------------ |
 | ta   | \[cu\] | go'i                     |
-| That | -     | too/same-as-last selbri. |
+| That | -      | too/same-as-last selbri. |
 
 |                           |
 | ------------------------- |
@@ -609,9 +587,9 @@ In English, I might say “The dog is beautiful”, and you might reply “This 
 
 ##### Example 2.50.
 
-|          |       |    |       |
-| -------- | ----- | -- | ----- |
-| le gerku | \[ku\] | cu | melbi |
+|          |        |     |       |
+| -------- | ------ | --- | ----- |
+| le gerku | \[ku\] | cu  | melbi |
 
 |                       |
 | --------------------- |
@@ -621,9 +599,9 @@ The following three sentences all might translate as “This pleases me.”
 
 ##### Example 2.51.
 
-|    |       |       |    |
-| -- | ----- | ----- | -- |
-| ti | \[cu\] | pluka | mi |
+|     |        |       |     |
+| --- | ------ | ----- | --- |
+| ti  | \[cu\] | pluka | mi  |
 
 |                            |
 | -------------------------- |
@@ -631,9 +609,9 @@ The following three sentences all might translate as “This pleases me.”
 
 ##### Example 2.52.
 
-|      |       |       |    |
-| ---- | ----- | ----- | -- |
-| di'u | \[cu\] | pluka | mi |
+|      |        |       |     |
+| ---- | ------ | ----- | --- |
+| di'u | \[cu\] | pluka | mi  |
 
 |                                                                                         |
 | --------------------------------------------------------------------------------------- |
@@ -641,15 +619,15 @@ The following three sentences all might translate as “This pleases me.”
 
 ##### Example 2.53.
 
-|           |       |       |    |
-| --------- | ----- | ----- | -- |
-| la'e di'u | \[cu\] | pluka | mi |
+|           |        |       |     |
+| --------- | ------ | ----- | --- |
+| la'e di'u | \[cu\] | pluka | mi  |
 
 |                                                                                     |
 | ----------------------------------------------------------------------------------- |
 | This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases me. |
 
-[Example 2.53](/chapter02/#example-random-id-k0YS "Example 2.53. ") uses one sumti to point to or refer to another by inference. It is common to write *[la'edi'u](/glossary/#laediu)* as a single word; it is used more often than *[di'u](/glossary/#diu)* by itself.
+[Example 2.53](/chapter02/#example-253 "Example 2.53. ") uses one sumti to point to or refer to another by inference. It is common to write *[la'edi'u](/glossary/#laediu)* as a single word; it is used more often than *[di'u](/glossary/#diu)* by itself.
 
 ## Possession
 
@@ -657,10 +635,10 @@ The following three sentences all might translate as “This pleases me.”
 
 ##### Example 2.54.
 
-|               |    |          |
-| ------------- | -- | -------- |
-| le mi gerku   | cu | sutra    |
-| The of-me dog | -  | is fast. |
+|               |     |          |
+| ------------- | --- | -------- |
+| le mi gerku   | cu  | sutra    |
+| The of-me dog | -   | is fast. |
 
 |                 |
 | --------------- |
@@ -676,7 +654,7 @@ You may call someone's attention to the fact that you are addressing them by usi
 
 doi djan.
 
-means “Oh, John, I'm talking to you”. It also has the effect of setting the value of *[do](/glossary/#do)*; *[do](/glossary/#do)* now refers to “John” until it is changed in some way in the conversation. Note that [Example 2.55](/chapter02/#example-random-id-ahVb "Example 2.55. ") is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a “vocative phrase”.
+means “Oh, John, I'm talking to you”. It also has the effect of setting the value of *[do](/glossary/#do)*; *[do](/glossary/#do)* now refers to “John” until it is changed in some way in the conversation. Note that [Example 2.55](/chapter02/#example-255 "Example 2.55. ") is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a “vocative phrase”.
 
 Other cmavo can be used instead of *[doi](/glossary/#doi)* in a vocative phrase, with a different significance. For example, the cmavo *[coi](/glossary/#coi)* means “hello” and *[co'o](/glossary/#coo)* means “good-bye”. Either word may stand alone, they may follow one another, or either may be followed by a pause and a name. (Vocative phrases with *[doi](/glossary/#doi)* do not need a pause before the name.)
 
@@ -707,17 +685,17 @@ you are simply making a statement of fact. In order to issue a command in Lojban
 
 ##### Example 2.59.
 
-|    |       |
-| -- | ----- |
-| ko | tavla |
+|     |       |
+| --- | ----- |
+| ko  | tavla |
 
-instructs the listener to do whatever is necessary to make [Example 2.58](/chapter02/#example-random-id-k11I "Example 2.58. ") true; it means “Talk!” Other examples:
+instructs the listener to do whatever is necessary to make [Example 2.58](/chapter02/#example-258 "Example 2.58. ") true; it means “Talk!” Other examples:
 
 ##### Example 2.60.
 
-|    |       |
-| -- | ----- |
-| ko | sutra |
+|     |       |
+| --- | ----- |
+| ko  | sutra |
 
 |          |
 | -------- |
@@ -727,9 +705,9 @@ The *[ko](/glossary/#ko)* need not be in the x1 place, but rather can occur anyw
 
 ##### Example 2.61.
 
-|    |       |    |
-| -- | ----- | -- |
-| mi | tavla | ko |
+|     |       |     |
+| --- | ----- | --- |
+| mi  | tavla | ko  |
 
 |                     |
 | ------------------- |
@@ -740,23 +718,23 @@ The cmavo *[ko](/glossary/#ko)* can fill any appropriate sumti place, and can be
 
 ##### Example 2.62.
 
-|    |       |    |
-| -- | ----- | -- |
-| ko | kurji | ko |
+|     |       |     |
+| --- | ----- | --- |
+| ko  | kurji | ko  |
 
 and
 
 ##### Example 2.63.
 
-|    |    |       |
-| -- | -- | ----- |
-| ko | ko | kurji |
+|     |     |       |
+| --- | --- | ----- |
+| ko  | ko  | kurji |
 
 both mean “You take care of you” and “Be taken care of by you”, or to put it colloquially, “Take care of yourself”.
 
 ## Questions
 
-There are many kinds of questions in Lojban: full explanations appear in [Section 19.5](/chapter19/#section-questions-and-answers "19.5. Questions and answers") and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.
+There are many kinds of questions in Lojban: full explanations appear in [Section 19.5](/chapter19/#questions-and-answers "19.5. Questions and answers") and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.
 
 The cmavo *[ma](/glossary/#ma)* is used to create a sumti question: it indicates that the speaker wishes to know the sumti which should be placed at the location of the *[ma](/glossary/#ma)* to make the bridi true. It can be translated as “Who?” or “What?” in most cases, but also serves for “When?”, “Where?”, and “Why?” when used in sumti places that express time, location, or cause. For example:
 
@@ -787,19 +765,19 @@ Like *[ko](/glossary/#ko)*, *[ma](/glossary/#ma)* can occur in any position wher
 
 ##### Example 2.66.
 
-|     |       |       |               |
-| --- | ----- | ----- | ------------- |
+|     |        |       |               |
+| --- | ------ | ----- | ------------- |
 | do  | \[cu\] | tavla | ma            |
-| You | -     | talk  | to what/whom? |
+| You | -      | talk  | to what/whom? |
 
 A *[ma](/glossary/#ma)* can also appear in multiple sumti positions in one sentence, in effect asking several questions at once.
 
 ##### Example 2.67.
 
-|          |       |       |               |
-| -------- | ----- | ----- | ------------- |
+|          |        |       |               |
+| -------- | ------ | ----- | ------------- |
 | ma       | \[cu\] | tavla | ma            |
-| What/Who | -     | talks | to what/whom? |
+| What/Who | -      | talks | to what/whom? |
 
 The two separate *[ma](/glossary/#ma)* positions ask two separate questions, and can therefore be answered with different values in each sumti place.
 
@@ -807,18 +785,18 @@ The cmavo *[mo](/glossary/#mo)* is the selbri analogue of *[ma](/glossary/#ma)*.
 
 ##### Example 2.68.
 
-|     |       |                   |
-| --- | ----- | ----------------- |
+|     |        |                   |
+| --- | ------ | ----------------- |
 | do  | \[cu\] | mo                |
-| You | -     | are-what/do-what? |
+| You | -      | are-what/do-what? |
 
-A *[mo](/glossary/#mo)* may be used anywhere a brivla or other selbri might. Keep this in mind for later examples. Unfortunately, by itself, *[mo](/glossary/#mo)* is a very non-specific question. The response to the question in [Example 2.68](/chapter02/#example-random-id-k1DE "Example 2.68. ") could be:
+A *[mo](/glossary/#mo)* may be used anywhere a brivla or other selbri might. Keep this in mind for later examples. Unfortunately, by itself, *[mo](/glossary/#mo)* is a very non-specific question. The response to the question in [Example 2.68](/chapter02/#example-268 "Example 2.68. ") could be:
 
 ##### Example 2.69.
 
-|    |       |       |
-| -- | ----- | ----- |
-| mi | \[cu\] | melbi |
+|     |        |       |
+| --- | ------ | ----- |
+| mi  | \[cu\] | melbi |
 
 |                 |
 | --------------- |
@@ -828,17 +806,17 @@ or:
 
 ##### Example 2.70.
 
-|    |       |       |
-| -- | ----- | ----- |
-| mi | \[cu\] | tavla |
+|     |        |       |
+| --- | ------ | ----- |
+| mi  | \[cu\] | tavla |
 
 |         |
 | ------- |
 | I talk. |
 
-Clearly, *[mo](/glossary/#mo)* requires some cooperation between the speaker and the respondent to ensure that the right question is being answered. If context doesn't make the question specific enough, the speaker must ask the question more specifically using a more complex construction such as a tanru (see [Section 2.9](/chapter02/#section-basic-tanru "2.9. tanru")).
+Clearly, *[mo](/glossary/#mo)* requires some cooperation between the speaker and the respondent to ensure that the right question is being answered. If context doesn't make the question specific enough, the speaker must ask the question more specifically using a more complex construction such as a tanru (see [Section 2.9](/chapter02/#tanru "2.9. tanru")).
 
-It is perfectly permissible for the respondent to fill in other unspecified places in responding to a *[mo](/glossary/#mo)* question. Thus, the respondent in [Example 2.70](/chapter02/#example-random-id-k1gh "Example 2.70. ") could have also specified an audience, a topic, and/or a language in the response.
+It is perfectly permissible for the respondent to fill in other unspecified places in responding to a *[mo](/glossary/#mo)* question. Thus, the respondent in [Example 2.70](/chapter02/#example-270 "Example 2.70. ") could have also specified an audience, a topic, and/or a language in the response.
 
 Finally, we must consider questions that can be answered “Yes” or “No”, such as
 
@@ -846,7 +824,7 @@ Finally, we must consider questions that can be answered “Yes” or “No”, 
 
 Are you talking to me?
 
-Like all yes-or-no questions in English, [Example 2.71](/chapter02/#example-random-id-fVMN "Example 2.71. ") may be reformulated as
+Like all yes-or-no questions in English, [Example 2.71](/chapter02/#example-271 "Example 2.71. ") may be reformulated as
 
 ##### Example 2.72.
 
@@ -861,15 +839,15 @@ In Lojban we have a word that asks precisely that question in precisely the same
 | xu              | do  | tavla       | mi     |
 | Is-it-true-that | you | are-talking | to-me? |
 
-is the Lojban translation of [Example 2.71](/chapter02/#example-random-id-fVMN "Example 2.71. ").
+is the Lojban translation of [Example 2.71](/chapter02/#example-271 "Example 2.71. ").
 
-The answer “Yes” may be given by simply restating the bridi without the *[xu](/glossary/#xu)* question word. Lojban has a shorthand for doing this with the word *[go'i](/glossary/#goi)*, mentioned in [Section 2.11](/chapter02/#section-some-brivla "2.11. Examples of brivla"). Instead of a negative answer, the bridi may be restated in such a way as to make it true. If this can be done by substituting sumti, it may be done with *[go'i](/glossary/#goi)* as well. For example:
+The answer “Yes” may be given by simply restating the bridi without the *[xu](/glossary/#xu)* question word. Lojban has a shorthand for doing this with the word *[go'i](/glossary/#goi)*, mentioned in [Section 2.11](/chapter02/#examples-of-brivla "2.11. Examples of brivla"). Instead of a negative answer, the bridi may be restated in such a way as to make it true. If this can be done by substituting sumti, it may be done with *[go'i](/glossary/#goi)* as well. For example:
 
 ##### Example 2.74.
 
-|    |    |       |
-| -- | -- | ----- |
-| xu | do | kanro |
+|     |     |       |
+| --- | --- | ----- |
+| xu  | do  | kanro |
 
 |                  |
 | ---------------- |
@@ -879,9 +857,9 @@ can be answered with
 
 ##### Example 2.75.
 
-|    |       |
-| -- | ----- |
-| mi | kanro |
+|     |       |
+| --- | ----- |
+| mi  | kanro |
 
 |               |
 | ------------- |
@@ -905,9 +883,9 @@ or
 
 ##### Example 2.77.
 
-|          |    |       |
-| -------- | -- | ----- |
-| le tavla | cu | kanro |
+|          |     |       |
+| -------- | --- | ----- |
+| le tavla | cu  | kanro |
 
 |                        |
 | ---------------------- |
@@ -917,9 +895,9 @@ or
 
 ##### Example 2.78.
 
-|          |    |      |
-| -------- | -- | ---- |
-| le tavla | cu | go'i |
+|          |     |      |
+| -------- | --- | ---- |
+| le tavla | cu  | go'i |
 
 |                        |
 | ---------------------- |
@@ -935,10 +913,10 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 
 ##### Example 2.79.
 
-|            |    |       |       |
-| ---------- | -- | ----- | ----- |
-| .ie        | mi | \[cu\] | klama |
-| Agreement! | I  | -     | go.   |
+|            |     |        |       |
+| ---------- | --- | ------ | ----- |
+| .ie        | mi  | \[cu\] | klama |
+| Agreement! | I   | -      | go.   |
 
 |               |
 | ------------- |
@@ -946,10 +924,10 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 
 ##### Example 2.80.
 
-|             |    |       |       |
-| ----------- | -- | ----- | ----- |
-| .ei         | mi | \[cu\] | klama |
-| Obligation! | I  | -     | go.   |
+|             |     |        |       |
+| ----------- | --- | ------ | ----- |
+| .ei         | mi  | \[cu\] | klama |
+| Obligation! | I   | -      | go.   |
 
 |              |
 | ------------ |
@@ -957,54 +935,54 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 
 ##### Example 2.81.
 
-|    |       |       |                        |
-| -- | ----- | ----- | ---------------------- |
-| mi | \[cu\] | klama | le melbi               |
-| I  | -     | go    | to-the beautiful-thing |
+|     |        |       |                        |
+| --- | ------ | ----- | ---------------------- |
+| mi  | \[cu\] | klama | le melbi               |
+| I   | -      | go    | to-the beautiful-thing |
 
-|                                                               |       |
-| ------------------------------------------------------------- | ----- |
+|                                                               |        |
+| ------------------------------------------------------------- | ------ |
 | .ui                                                           | \[ku\] |
-| and I am happy because it is the beautiful thing I'm going to | -     |
+| and I am happy because it is the beautiful thing I'm going to | -      |
 
 Not all indicators indicate attitudes. Discursives, another group of cmavo with the same grammatical rules as attitudinal indicators, allow free expression of certain kinds of commentary about the main utterances. Using discursives allows a clear separation of these so-called “metalinguistic” features from the underlying statements and logical structure. By comparison, the English words “but” and “also”, which discursively indicate contrast or an added weight of example, are logically equivalent to “and”, which does not have a discursive content. The average English-speaker does not think about, and may not even realize, the paradoxical idea that “but” basically means “and”.
 
 ##### Example 2.82.
 
-|    |       |       |    |     |       |       |
-| -- | ----- | ----- | -- | --- | ----- | ----- |
-| mi | \[cu\] | klama | .i | do  | \[cu\] | stali |
-| I  | -     | go.   |    | You | -     | stay. |
+|     |        |       |     |     |        |       |
+| --- | ------ | ----- | --- | --- | ------ | ----- |
+| mi  | \[cu\] | klama | .i  | do  | \[cu\] | stali |
+| I   | -      | go.   |     | You | -      | stay. |
 
 ##### Example 2.83.
 
-|    |       |       |    |              |     |       |       |              |
-| -- | ----- | ----- | -- | ------------ | --- | ----- | ----- | ------------ |
-| mi | \[cu\] | klama | .i | ji'a         | do  | \[cu\] | stali |              |
-| I  | -     | go.   |    | In addition, | you | -     | stay. | added weight |
+|     |        |       |     |              |     |        |       |              |
+| --- | ------ | ----- | --- | ------------ | --- | ------ | ----- | ------------ |
+| mi  | \[cu\] | klama | .i  | ji'a         | do  | \[cu\] | stali |              |
+| I   | -      | go.   |     | In addition, | you | -      | stay. | added weight |
 
 ##### Example 2.84.
 
-|    |       |       |    |          |     |       |       |          |
-| -- | ----- | ----- | -- | -------- | --- | ----- | ----- | -------- |
-| mi | \[cu\] | klama | .i | ku'i     | do  | \[cu\] | stali |          |
-| I  | -     | go.   |    | However, | you | -     | stay. | contrast |
+|     |        |       |     |          |     |        |       |          |
+| --- | ------ | ----- | --- | -------- | --- | ------ | ----- | -------- |
+| mi  | \[cu\] | klama | .i  | ku'i     | do  | \[cu\] | stali |          |
+| I   | -      | go.   |     | However, | you | -      | stay. | contrast |
 
 Another group of indicators are called “evidentials”. Evidentials show the speaker's relationship to the statement, specifically how the speaker came to make the statement. These include *[za'a](/glossary/#zaa)* (I directly observe the relationship), *[pe'i](/glossary/#pei)* (I believe that the relationship holds), *[ru'a](/glossary/#rua)* (I postulate the relationship), and others. Many American Indian languages use this kind of words.
 
 ##### Example 2.85.
 
-|          |     |       |                |
-| -------- | --- | ----- | -------------- |
+|          |     |        |                |
+| -------- | --- | ------ | -------------- |
 | pe'i     | do  | \[cu\] | melbi          |
-| I opine! | You | -     | are beautiful. |
+| I opine! | You | -      | are beautiful. |
 
 ##### Example 2.86.
 
-|                     |     |       |                |
-| ------------------- | --- | ----- | -------------- |
+|                     |     |        |                |
+| ------------------- | --- | ------ | -------------- |
 | za'a                | do  | \[cu\] | melbi          |
-| I directly observe! | You | -     | are beautiful. |
+| I directly observe! | You | -      | are beautiful. |
 
 ## Tenses
 
@@ -1026,27 +1004,27 @@ The Lojban sentence
 
 ##### Example 2.89.
 
-|          |       |                   |              |
-| -------- | ----- | ----------------- | ------------ |
+|          |        |                   |              |
+| -------- | ------ | ----------------- | ------------ |
 | la djan. | \[cu\] | klama             | le zarci     |
-| John     | -     | goes/went/will-go | to-the store |
+| John     | -      | goes/went/will-go | to-the store |
 
-serves as a translation of either [Example 2.87](/chapter02/#example-random-id-xIVa "Example 2.87. ") or [Example 2.88](/chapter02/#example-random-id-1Acu "Example 2.88. "), and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of [Example 2.87](/chapter02/#example-random-id-xIVa "Example 2.87. ") would be:
+serves as a translation of either [Example 2.87](/chapter02/#example-287 "Example 2.87. ") or [Example 2.88](/chapter02/#example-288 "Example 2.88. "), and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of [Example 2.87](/chapter02/#example-287 "Example 2.87. ") would be:
 
 ##### Example 2.90.
 
-|          |         |       |              |
-| -------- | ------- | ----- | ------------ |
-| la djan. | pu      | klama | le zarci     |
+|          |          |       |              |
+| -------- | -------- | ----- | ------------ |
+| la djan. | pu       | klama | le zarci     |
 | John     | \[past\] | goes  | to-the store |
 
 where the tag *[pu](/glossary/#pu)* forces the sentence to refer to a time in the past. Similarly,
 
 ##### Example 2.91.
 
-|          |            |       |              |
-| -------- | ---------- | ----- | ------------ |
-| la djan. | ca         | klama | le zarci     |
+|          |             |       |              |
+| -------- | ----------- | ----- | ------------ |
+| la djan. | ca          | klama | le zarci     |
 | John     | \[present\] | goes  | to-the store |
 
 necessarily refers to the present, because of the tag *[ca](/glossary/#ca)*. Tags used in this way always appear at the very beginning of the selbri, just after the *[cu](/glossary/#cu)*, and they may make a *[cu](/glossary/#cu)* unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.
@@ -1064,10 +1042,10 @@ In addition, tense tags (either for time or space) can be prefixed to the selbri
 
 ##### Example 2.93.
 
-|                                |       |    |               |
-| ------------------------------ | ----- | -- | ------------- |
-| le pu bajra                    | \[ku\] | cu | tavla         |
-| The earlier/former/past runner | -     | -  | talked/talks. |
+|                                |        |     |               |
+| ------------------------------ | ------ | --- | ------------- |
+| le pu bajra                    | \[ku\] | cu  | tavla         |
+| The earlier/former/past runner | -      | -   | talked/talks. |
 
 (Since Lojban tense is optional, we don't know when he or she talks.)
 
@@ -1075,25 +1053,25 @@ Tensed sumti with space tags correspond roughly to the English use of “this”
 
 ##### Example 2.94.
 
-|                   |       |    |        |
-| ----------------- | ----- | -- | ------ |
-| le vi bajra       | \[ku\] | cu | tavla  |
-| The nearby runner | -     | -  | talks. |
+|                   |        |     |        |
+| ----------------- | ------ | --- | ------ |
+| le vi bajra       | \[ku\] | cu  | tavla  |
+| The nearby runner | -      | -   | talks. |
 
 |                    |
 | ------------------ |
 | This runner talks. |
 
-Do not confuse the use of *[vi](/glossary/#vi)* in [Example 2.94](/chapter02/#example-random-id-k28N "Example 2.94. ") with the cmavo *[ti](/glossary/#ti)*, which also means “this”, but in the sense of “this thing”.
+Do not confuse the use of *[vi](/glossary/#vi)* in [Example 2.94](/chapter02/#example-294 "Example 2.94. ") with the cmavo *[ti](/glossary/#ti)*, which also means “this”, but in the sense of “this thing”.
 
 Furthermore, a tense tag can appear both on the selbri and within a description, as in the following example (where *[ba](/glossary/#ba)* is the tag for future time):
 
 ##### Example 2.95.
 
-|                 |       |    |                 |
-| --------------- | ----- | -- | --------------- |
-| le vi tavla     | \[ku\] | cu | ba klama        |
-| The here talker | -     | -  | \[future\] goes. |
+|                 |        |     |                  |
+| --------------- | ------ | --- | ---------------- |
+| le vi tavla     | \[ku\] | cu  | ba klama         |
+| The here talker | -      | -   | \[future\] goes. |
 
 |                                 |
 | ------------------------------- |
@@ -1104,17 +1082,17 @@ Furthermore, a tense tag can appear both on the selbri and within a description,
 
 Here is a review of the Lojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Lojban words are included: there are of course many expressions like “indicator” in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic") that are not explained here. See the Index for further help with these.
 
-|                                        |                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| *[bridi](/glossary/#bridi)*     | predication; the basic unit of Lojban expression; the main kind of Lojban sentence; a claim that some objects stand in some relationship, or that some single object has some property.                                                                                                                                                |
-| *[sumti](/glossary/#sumti)*     | argument; words identifying something which stands in a specified relationship to something else, or which has a specified property. See [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti").                                                                                                       |
-| *[selbri](/glossary/#selbri)*   | logical predicate; the core of a bridi; the word or words specifying the relationship between the objects referred to by the sumti. See [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").                                                                                   |
-| *[cmavo](/glossary/#cmavo)*     | one of the Lojban parts of speech; a short word; a structural word; a word used for its grammatical function.                                                                                                                                                                                                                          |
-| *[brivla](/glossary/#brivla)*   | one of the Lojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a fu'ivla. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                                                 |
-| *[gismu](/glossary/#gismu)*     | a root word; a kind of brivla; has associated rafsi. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                                                                                                                              |
-| *[lujvo](/glossary/#lujvo)*     | a compound word; a kind of brivla; may or may not appear in a dictionary; does not have associated rafsi. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") and [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures").        |
+|                                |                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| *[bridi](/glossary/#bridi)*    | predication; the basic unit of Lojban expression; the main kind of Lojban sentence; a claim that some objects stand in some relationship, or that some single object has some property.                                                                                                                                    |
+| *[sumti](/glossary/#sumti)*    | argument; words identifying something which stands in a specified relationship to something else, or which has a specified property. See [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti").                                                                                                  |
+| *[selbri](/glossary/#selbri)*  | logical predicate; the core of a bridi; the word or words specifying the relationship between the objects referred to by the sumti. See [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").                                                                               |
+| *[cmavo](/glossary/#cmavo)*    | one of the Lojban parts of speech; a short word; a structural word; a word used for its grammatical function.                                                                                                                                                                                                              |
+| *[brivla](/glossary/#brivla)*  | one of the Lojban parts of speech; a content word; a predicate word; can function as a selbri; is a gismu, a lujvo, or a fu'ivla. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                                                 |
+| *[gismu](/glossary/#gismu)*    | a root word; a kind of brivla; has associated rafsi. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                                                                                                                              |
+| *[lujvo](/glossary/#lujvo)*    | a compound word; a kind of brivla; may or may not appear in a dictionary; does not have associated rafsi. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") and [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures").               |
 | *[fu'ivla](/glossary/#fuivla)* | a borrowed word; a kind of brivla; may or may not appear in a dictionary; copied in a modified form from some non-Lojban language; usually refers to some aspect of culture or the natural world; does not have associated rafsi. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology"). |
-| *[rafsi](/glossary/#rafsi)*     | a word fragment; one or more is associated with each gismu; can be assembled according to rules in order to make lujvo; not a valid word by itself. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                               |
-| *[tanru](/glossary/#tanru)*     | a group of two or more brivla, possibly with associated cmavo, that form a selbri; always divisible into two parts, with the first part modifying the meaning of the second part (which is taken to be basic). See [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").        |
-| *[selma'o](/glossary/#selmao)_ | a group of cmavo that have the same grammatical use (can appear interchangeably in sentences, as far as the grammar is concerned) but differ in meaning or other usage. See [Chapter 20](/chapter20/ "Chapter 20. A Catalogue of selma'o").                                                                                 |
+| *[rafsi](/glossary/#rafsi)*    | a word fragment; one or more is associated with each gismu; can be assembled according to rules in order to make lujvo; not a valid word by itself. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology").                                                                               |
+| *[tanru](/glossary/#tanru)*    | a group of two or more brivla, possibly with associated cmavo, that form a selbri; always divisible into two parts, with the first part modifying the meaning of the second part (which is taken to be basic). See [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri").    |
+| *[selma'o](/glossary/#selmao)_ | a group of cmavo that have the same grammatical use (can appear interchangeably in sentences, as far as the grammar is concerned) but differ in meaning or other usage. See [Chapter 20](/chapter20/ "Chapter 20. A Catalogue of selma'o").                                                                                |
 
