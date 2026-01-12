@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Lojban Word Glossary'
-prev: /chapter21
+prev: /chapter21/
 prevTitle: 'Prev: Chapter 21'
-next: /general
+next: /general/
 nextTitle: 'Next: General Index'
 ---
 
@@ -35,7 +35,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ba
 
-  time tense relation/direction: will \[selbri]; after \[sumti]; default future tense.
+  time tense relation/direction: will \[selbri\]; after \[sumti\]; default future tense.
 
 - ba'a
 
@@ -183,11 +183,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - birka
 
-  x1 is a/the arm \[body-part] of x2; \[metaphor: branch with strength].
+  x1 is a/the arm \[body-part\] of x2; \[metaphor: branch with strength\].
 
 - blabi
 
-  x1 is white/very-light colored \[color adjective].
+  x1 is white/very-light colored \[color adjective\].
 
 - blaci
 
@@ -199,7 +199,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - blanu
 
-  x1 is blue \[color adjective].
+  x1 is blue \[color adjective\].
 
 - blari'o
 
@@ -215,7 +215,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - bloti
 
-  x1 is a boat/ship/vessel \[vehicle] for carrying x2, propelled by x3.
+  x1 is a boat/ship/vessel \[vehicle\] for carrying x2, propelled by x3.
 
 - bo
 
@@ -311,7 +311,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ca
 
-  time tense relation/direction: is \[selbri]; during/simultaneous with \[sumti]; present tense.
+  time tense relation/direction: is \[selbri\]; during/simultaneous with \[sumti\]; present tense.
 
 - cabna
 
@@ -351,7 +351,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - calku
 
-  x1 is a shell/husk \[hard, protective covering] around x2 composed of x3.
+  x1 is a shell/husk \[hard, protective covering\] around x2 composed of x3.
 
 - carmi
 
@@ -391,11 +391,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - centi
 
-  x1 is a hundredth \[1/100; 10-2] of x2 in dimension/aspect x3 (default is units).
+  x1 is a hundredth \[1/100; 10-2\] of x2 in dimension/aspect x3 (default is units).
 
 - ci
 
-  digit/number: 3 (digit) \[three].
+  digit/number: 3 (digit) \[three\].
 
 - cidja
 
@@ -419,11 +419,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - cinfo
 
-  x1 is a lion/\[lioness] of species/breed x2.
+  x1 is a lion/\[lioness\] of species/breed x2.
 
 - cinki
 
-  x1 is an insect/arthropod of species x2; \[bug/beetle].
+  x1 is an insect/arthropod of species x2; \[bug/beetle\].
 
 - cipnrstrigi
 
@@ -447,7 +447,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - citno
 
-  x1 is young/youthful \[relatively short in elapsed duration] by standard x2.
+  x1 is young/youthful \[relatively short in elapsed duration\] by standard x2.
 
 - ckule
 
@@ -571,11 +571,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - cutci
 
-  x1 is a shoe/boot/sandal for covering/protecting \[feet/hooves] x2, and of material x3.
+  x1 is a shoe/boot/sandal for covering/protecting \[feet/hooves\] x2, and of material x3.
 
 - cuxna
 
-  x1 chooses/selects x2 \[choice] from set/sequence of alternatives x3 (complete set).
+  x1 chooses/selects x2 \[choice\] from set/sequence of alternatives x3 (complete set).
 
 - cy
 
@@ -643,7 +643,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - decti
 
-  x1 is a tenth \[1/10; 10-1] of x2 in dimension/aspect x3 (default is units).
+  x1 is a tenth \[1/10; 10-1\] of x2 in dimension/aspect x3 (default is units).
 
 - de'a
 
@@ -667,19 +667,19 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - dejni
 
-  x1 owes x2 in debt/obligation to creditor x3 in return for x4 \[service, loan]; x1 is a debtor.
+  x1 owes x2 in debt/obligation to creditor x3 in return for x4 \[service, loan\]; x1 is a debtor.
 
 - dekto
 
-  x1 is ten \[10; 101] of x2 in dimension/aspect x3 (default is units).
+  x1 is ten \[10; 101\] of x2 in dimension/aspect x3 (default is units).
 
 - delno
 
-  x1 is x2 candela \[metric unit] in luminosity (default is 1) by standard x3.
+  x1 is x2 candela \[metric unit\] in luminosity (default is 1) by standard x3.
 
 - denci
 
-  x1 is a/the tooth \[body-part] of x2; (adjective:) x1 is dental.
+  x1 is a/the tooth \[body-part\] of x2; (adjective:) x1 is dental.
 
 - denpa
 
@@ -723,7 +723,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - djine
 
-  x1 is a ring/annulus/torus/circle \[shape/form] of material x2, inside diam. x3, outside diam. x4.
+  x1 is a ring/annulus/torus/circle \[shape/form\] of material x2, inside diam. x3, outside diam. x4.
 
 - djuno
 
@@ -795,11 +795,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - du'u
 
-  abstractor: predication/bridi abstractor; x1 is predication \[bridi] expressed in sentence x2.
+  abstractor: predication/bridi abstractor; x1 is predication \[bridi\] expressed in sentence x2.
 
 - dunda
 
-  x1 \[donor] gives/donates gift/present x2 to recipient/beneficiary x3 \[without payment/exchange].
+  x1 \[donor\] gives/donates gift/present x2 to recipient/beneficiary x3 \[without payment/exchange\].
 
 - dunli
 
@@ -847,7 +847,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - fadni
 
-  x1 \[member] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
+  x1 \[member\] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
 
 - fagri
 
@@ -887,7 +887,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - fe'a
 
-  binary mathematical operator: nth root of; inverse power \[a to the 1/b power].
+  binary mathematical operator: nth root of; inverse power \[a to the 1/b power\].
 
 - fe'e
 
@@ -907,7 +907,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - festi
 
-  x1(s) is/are waste product(s) \[left to waste] by x2 (event/activity).
+  x1(s) is/are waste product(s) \[left to waste\] by x2 (event/activity).
 
 - fi
 
@@ -1067,7 +1067,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - gasnu
 
-  x1 \[person/agent] is an agentive cause of event x2; x1 does/brings about x2.
+  x1 \[person/agent\] is an agentive cause of event x2; x1 does/brings about x2.
 
 - gau
 
@@ -1099,7 +1099,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - gei
 
-  trinary mathematical operator: order of magnitude/value/base; \[b \* (c to the a power)].
+  trinary mathematical operator: order of magnitude/value/base; \[b \* (c to the a power)\].
 
 - gekmau
 
@@ -1111,7 +1111,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - gerku
 
-  x1 is a dog/canine/\[bitch] of species/breed x2.
+  x1 is a dog/canine/\[bitch\] of species/breed x2.
 
 - gerzda
 
@@ -1123,7 +1123,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - gigdo
 
-  x1 is a billion \[British milliard] \[109] of x2 in dimension/aspect x3 (default is units).
+  x1 is a billion \[British milliard\] \[109\] of x2 in dimension/aspect x3 (default is units).
 
 - gi'a
 
@@ -1303,7 +1303,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - jbena
 
-  x1 is born to x2 at time x3 \[birthday] and place x4 \[birthplace]; x1 is native to (fo) x4.
+  x1 is born to x2 at time x3 \[birthday\] and place x4 \[birthplace\]; x1 is native to (fo) x4.
 
 - jdaselsku
 
@@ -1351,11 +1351,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - jei
 
-  abstractor: truth-value abstractor; x1 is truth value of \[bridi] under epistemology x2.
+  abstractor: truth-value abstractor; x1 is truth value of \[bridi\] under epistemology x2.
 
 - jelca
 
-  x1 burns/\[ignites/is flammable/inflammable] at temperature x2 in atmosphere x3.
+  x1 burns/\[ignites/is flammable/inflammable\] at temperature x2 in atmosphere x3.
 
 - jenai
 
@@ -1387,7 +1387,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - jinvi
 
-  x1 thinks/opines x2 \[opinion] (du'u) is true about subject/issue x3 on grounds x4.
+  x1 thinks/opines x2 \[opinion\] (du'u) is true about subject/issue x3 on grounds x4.
 
 - jitro
 
@@ -1439,7 +1439,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ju'u
 
-  binary mathematical operator: number base; \[a interpreted in the base b].
+  binary mathematical operator: number base; \[a interpreted in the base b\].
 
 - jundi
 
@@ -1447,7 +1447,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - jungo
 
-  x1 reflects Chinese \[Mandarin, Cantonese, Wu, etc.] culture/nationality/language in aspect x2.
+  x1 reflects Chinese \[Mandarin, Cantonese, Wu, etc.\] culture/nationality/language in aspect x2.
 
 - jy
 
@@ -1455,7 +1455,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ka
 
-  abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by \[bridi].
+  abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by \[bridi\].
 
 - kadno
 
@@ -1495,11 +1495,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - kanji
 
-  x1 calculates/reckons/computes x2 \[value (ni)/state] from data x3 by process x4.
+  x1 calculates/reckons/computes x2 \[value (ni)/state\] from data x3 by process x4.
 
 - kanla
 
-  x1 is a/the eye \[body-part] of x2; \[metaphor: sensory apparatus]; (adjective:) x1 is ocular.
+  x1 is a/the eye \[body-part\] of x2; \[metaphor: sensory apparatus\]; (adjective:) x1 is ocular.
 
 - kanro
 
@@ -1507,7 +1507,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - karce
 
-  x1 is a car/automobile/truck/van \[a wheeled motor vehicle] for carrying x2, propelled by x3
+  x1 is a car/automobile/truck/van \[a wheeled motor vehicle\] for carrying x2, propelled by x3
 
 - karcykla
 
@@ -1551,7 +1551,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - kelvo
 
-  x1 is x2 degree(s) Kelvin \[metric unit] in temperature (default is 1) by standard x3.
+  x1 is x2 degree(s) Kelvin \[metric unit\] in temperature (default is 1) by standard x3.
 
 - ketco
 
@@ -1575,7 +1575,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - kilto
 
-  x1 is a thousand \[1000; 103] of x2 in dimension/aspect x3 (default is units).
+  x1 is a thousand \[1000; 103\] of x2 in dimension/aspect x3 (default is units).
 
 - kisto
 
@@ -1623,7 +1623,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - krici
 
-  x1 believes \[regardless of evidence/proof] belief/creed x2 (du'u) is true/assumed about subject x3.
+  x1 believes \[regardless of evidence/proof\] belief/creed x2 (du'u) is true/assumed about subject x3.
 
 - krinu
 
@@ -1699,7 +1699,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - lanme
 
-  x1 is a sheep/\[lamb/ewe/ram] of species/breed x2 of flock x3.
+  x1 is a sheep/\[lamb/ewe/ram\] of species/breed x2 of flock x3.
 
 - lantro
 
@@ -1719,7 +1719,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - lebna
 
-  x1 takes/gets/gains/obtains/seizes/\[removes] x2 (object/property) from x3 (possessor).
+  x1 takes/gets/gains/obtains/seizes/\[removes\] x2 (object/property) from x3 (possessor).
 
 - le'a
 
@@ -1763,7 +1763,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - li'i
 
-  abstractor: experience abstractor; x1 is x2's experience of \[bridi] (participant or observer).
+  abstractor: experience abstractor; x1 is x2's experience of \[bridi\] (participant or observer).
 
 - li'o
 
@@ -1799,7 +1799,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - logji
 
-  x1 \[rules/methods] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u).
+  x1 \[rules/methods\] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u).
 
 - lo'a
 
@@ -1839,7 +1839,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - lojbo
 
-  x1 reflects \[Loglandic]/Lojbanic language/culture/nationality/community in aspect x2.
+  x1 reflects \[Loglandic\]/Lojbanic language/culture/nationality/community in aspect x2.
 
 - lu
 
@@ -1907,7 +1907,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mamta
 
-  x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; \[not necessarily biological].
+  x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; \[not necessarily biological\].
 
 - matne
 
@@ -1919,11 +1919,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - me
 
-  convert sumti to selbri/tanru element; x1 is specific to \[sumti] in aspect x2.
+  convert sumti to selbri/tanru element; x1 is specific to \[sumti\] in aspect x2.
 
 - megdo
 
-  x1 is a million \[106] of x2 in dimension/aspect x3 (default is units).
+  x1 is a million \[106\] of x2 in dimension/aspect x3 (default is units).
 
 - me'a
 
@@ -1947,7 +1947,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mekso
 
-  x1 \[quantifier/expression] is a mathematical expression interpreted under rules/convention x2.
+  x1 \[quantifier/expression\] is a mathematical expression interpreted under rules/convention x2.
 
 - melbi
 
@@ -1971,7 +1971,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - midju
 
-  x1 is in/at the middle/center/midpoint/\[is a focus] of x2; (adjective:) x1 is central.
+  x1 is in/at the middle/center/midpoint/\[is a focus\] of x2; (adjective:) x1 is central.
 
 - mi'a
 
@@ -1995,15 +1995,15 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mikce
 
-  x1 doctors/treats/nurses/\[cures]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.
+  x1 doctors/treats/nurses/\[cures\]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.
 
 - mikri
 
-  x1 is a millionth \[10-6] of x2 in dimension/aspect x3 (default is units).
+  x1 is a millionth \[10-6\] of x2 in dimension/aspect x3 (default is units).
 
 - milti
 
-  x1 is a thousandth \[1/1000; 10-3] of x2 in dimension/aspect x3 (default is units).
+  x1 is a thousandth \[1/1000; 10-3\] of x2 in dimension/aspect x3 (default is units).
 
 - minde
 
@@ -2015,7 +2015,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mlatu
 
-  x1 is a cat/\[puss/pussy/kitten] \[feline animal] of species/breed x2; (adjective:) x1 is feline.
+  x1 is a cat/\[puss/pussy/kitten\] \[feline animal\] of species/breed x2; (adjective:) x1 is feline.
 
 - mleca
 
@@ -2031,7 +2031,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mo'e
 
-  convert sumti to mex operand; sample use in story arithmetic: \[3 apples] + \[3 apples] = what.
+  convert sumti to mex operand; sample use in story arithmetic: \[3 apples\] + \[3 apples\] = what.
 
 - mo'i
 
@@ -2055,11 +2055,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mokca
 
-  x1 is a point/instant/moment \[0-dimensional shape/form] in/on/at time/place x2.
+  x1 is a point/instant/moment \[0-dimensional shape/form\] in/on/at time/place x2.
 
 - molro
 
-  x1 is x2 mole(s) \[metric unit] in substance (default is 1) by standard x3.
+  x1 is x2 mole(s) \[metric unit\] in substance (default is 1) by standard x3.
 
 - morko
 
@@ -2071,11 +2071,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - mu
 
-  digit/number: 5 (digit) \[five].
+  digit/number: 5 (digit) \[five\].
 
 - mu'e
 
-  abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of \[bridi].
+  abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of \[bridi\].
 
 - mu'i
 
@@ -2095,7 +2095,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - muslo
 
-  x1 pertains to the Islamic/Moslem/Koranic \[Quranic] culture/religion/nation in aspect x2.
+  x1 pertains to the Islamic/Moslem/Koranic \[Quranic\] culture/religion/nation in aspect x2.
 
 - my
 
@@ -2147,11 +2147,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - nanmu
 
-  x1 is a man/men; x1 is a male humanoid person \[not necessarily adult].
+  x1 is a man/men; x1 is a male humanoid person \[not necessarily adult\].
 
 - nanvi
 
-  x1 is a billionth/thousand-millionth \[10-9] of x2 in dimension/aspect x3 (default is units).
+  x1 is a billionth/thousand-millionth \[10-9\] of x2 in dimension/aspect x3 (default is units).
 
 - nau
 
@@ -2167,7 +2167,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ni
 
-  abstractor: quantity/amount abstractor; x1 is quantity/amount of \[bridi] measured on scale x2.
+  abstractor: quantity/amount abstractor; x1 is quantity/amount of \[bridi\] measured on scale x2.
 
 - nibli
 
@@ -2191,23 +2191,23 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - nimre
 
-  x1 is a quantity of citrus \[fruit/tree, etc.] of species/strain x2.
+  x1 is a quantity of citrus \[fruit/tree, etc.\] of species/strain x2.
 
 - ninmu
 
-  x1 is a woman/women; x1 is a female humanoid person \[not necessarily adult].
+  x1 is a woman/women; x1 is a female humanoid person \[not necessarily adult\].
 
 - nitcu
 
-  x1 needs/requires/is dependent on/\[wants] necessity x2 for purpose/action/stage of process x3.
+  x1 needs/requires/is dependent on/\[wants\] necessity x2 for purpose/action/stage of process x3.
 
 - nixli
 
-  x1 is a girl \[young female person] of age x2 immature by standard x3.
+  x1 is a girl \[young female person\] of age x2 immature by standard x3.
 
 - no
 
-  digit/number: 0 (digit) \[zero].
+  digit/number: 0 (digit) \[zero\].
 
 - nobli
 
@@ -2247,7 +2247,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - nu
 
-  abstractor: generalized event abstractor; x1 is state/process/achievement/activity of \[bridi].
+  abstractor: generalized event abstractor; x1 is state/process/achievement/activity of \[bridi\].
 
 - nu'a
 
@@ -2311,7 +2311,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pa
 
-  digit/number: 1 (digit) \[one].
+  digit/number: 1 (digit) \[one\].
 
 - pacru'i
 
@@ -2319,7 +2319,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pagbu
 
-  x1 is a part/component/piece/portion/segment of x2 \[where x2 is a whole/mass]; x2 is partly x1.
+  x1 is a part/component/piece/portion/segment of x2 \[where x2 is a whole/mass\]; x2 is partly x1.
 
 - pa'e
 
@@ -2339,7 +2339,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - paso
 
-  number/quantity: 19 \[nineteen].
+  number/quantity: 19 \[nineteen\].
 
 - patyta'a
 
@@ -2383,7 +2383,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pelxu
 
-  x1 is yellow/golden \[color adjective].
+  x1 is yellow/golden \[color adjective\].
 
 - petso
 
@@ -2395,7 +2395,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - picti
 
-  x1 is a trillionth \[10-12] of x2 in dimension/aspect x3 (default is units).
+  x1 is a trillionth \[10-12\] of x2 in dimension/aspect x3 (default is units).
 
 - pi'a
 
@@ -2407,7 +2407,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pi'i
 
-  n-ary mathematical operator: times; multiplication operator; \[(((a \* b) \* c) \* ...)].
+  n-ary mathematical operator: times; multiplication operator; \[(((a \* b) \* c) \* ...)\].
 
 - pi'o
 
@@ -2419,7 +2419,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pilno
 
-  x1 uses/employs x2 \[tool, apparatus, machine, agent, acting entity, material] for purpose x3.
+  x1 uses/employs x2 \[tool, apparatus, machine, agent, acting entity, material\] for purpose x3.
 
 - piro
 
@@ -2479,7 +2479,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - prenu
 
-  x1 is a person/people (noun) \[not necessarily human]; x1 displays personality/a persona.
+  x1 is a person/people (noun) \[not necessarily human\]; x1 displays personality/a persona.
 
 - pritu
 
@@ -2487,7 +2487,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pu
 
-  time tense relation/direction: did \[selbri]; before/prior to \[sumti]; default past tense.
+  time tense relation/direction: did \[selbri\]; before/prior to \[sumti\]; default past tense.
 
 - puba
 
@@ -2503,7 +2503,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - pu'u
 
-  abstractor: process (event) abstractor; x1 is process of \[bridi] proceeding in stages x2.
+  abstractor: process (event) abstractor; x1 is process of \[bridi\] proceeding in stages x2.
 
 - purci
 
@@ -2519,7 +2519,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - radno
 
-  x1 is x2 radian(s) \[metric unit] in angular measure (default is 1) by standard x3.
+  x1 is x2 radian(s) \[metric unit\] in angular measure (default is 1) by standard x3.
 
 - rafsi
 
@@ -2559,7 +2559,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - ralju
 
-  x1 is principal/chief/leader/main/\[staple], most significant among x2 (set) in property x3 (ka).
+  x1 is principal/chief/leader/main/\[staple\], most significant among x2 (set) in property x3 (ka).
 
 - rau
 
@@ -2567,7 +2567,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - re
 
-  digit/number: 2 (digit) \[two].
+  digit/number: 2 (digit) \[two\].
 
 - re'i
 
@@ -2607,7 +2607,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - risna
 
-  x1 is a/the heart \[body-part] of x2; \[emotional/shape metaphors are NOT culturally neutral].
+  x1 is a/the heart \[body-part\] of x2; \[emotional/shape metaphors are NOT culturally neutral\].
 
 - ro
 
@@ -2711,11 +2711,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - salci
 
-  x1 celebrates/recognizes/honors x2 (event/abstract) with activity/\[party] x3.
+  x1 celebrates/recognizes/honors x2 (event/abstract) with activity/\[party\] x3.
 
 - sanli
 
-  x1 stands \[is vertically oriented] on surface x2 supported by limbs/support/pedestal x3.
+  x1 stands \[is vertically oriented\] on surface x2 supported by limbs/support/pedestal x3.
 
 - saske
 
@@ -2799,7 +2799,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - semto
 
-  x1 reflects Semitic \[metaphor: Middle-Eastern] language/culture/nationality in aspect x2.
+  x1 reflects Semitic \[metaphor: Middle-Eastern\] language/culture/nationality in aspect x2.
 
 - sepi'o
 
@@ -2827,7 +2827,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - si'o
 
-  abstractor: idea/concept abstractor; x1 is x2's concept of \[bridi].
+  abstractor: idea/concept abstractor; x1 is x2's concept of \[bridi\].
 
 - since
 
@@ -2847,7 +2847,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - sisti
 
-  x1 \[agent] ceases/stops/halts/ends activity/process/state x2 \[not necessarily completing it].
+  x1 \[agent\] ceases/stops/halts/ends activity/process/state x2 \[not necessarily completing it\].
 
 - skari
 
@@ -2935,11 +2935,11 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - steci
 
-  x1 (ka) is specific/particular/specialized/\[special]/a defining property of x2 among x3 (set).
+  x1 (ka) is specific/particular/specialized/\[special\]/a defining property of x2 among x3 (set).
 
 - stero
 
-  x1 is x2 steradian(s) \[metric unit] in solid angle (default is 1) by standard x3.
+  x1 is x2 steradian(s) \[metric unit\] in solid angle (default is 1) by standard x3.
 
 - stidi
 
@@ -2947,7 +2947,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - stura
 
-  x1 is a structure/arrangement/organization of x2 \[set/system/complexity].
+  x1 is a structure/arrangement/organization of x2 \[set/system/complexity\].
 
 - su
 
@@ -2971,7 +2971,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - su'i
 
-  n-ary mathematical operator: plus; addition operator; \[(((a + b) + c) + ...)].
+  n-ary mathematical operator: plus; addition operator; \[(((a + b) + c) + ...)\].
 
 - su'o
 
@@ -2979,7 +2979,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - su'u
 
-  abstractor: generalized abstractor (how); x1 is \[bridi] as a non-specific abstraction of type x2.
+  abstractor: generalized abstractor (how); x1 is \[bridi\] as a non-specific abstraction of type x2.
 
 - sumti
 
@@ -3035,7 +3035,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - tarmi
 
-  x1 \[ideal] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract).
+  x1 \[ideal\] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract).
 
 - tau
 
@@ -3055,7 +3055,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - te'a
 
-  binary mathematical operator: to the power; exponential; \[a to the b power].
+  binary mathematical operator: to the power; exponential; \[a to the b power\].
 
 - te'o
 
@@ -3091,7 +3091,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - terto
 
-  x1 is a trillion \[1012] of x2 in dimension/aspect x3 (default is units).
+  x1 is a trillion \[1012\] of x2 in dimension/aspect x3 (default is units).
 
 - tezu'e
 
@@ -3171,7 +3171,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - tsali
 
-  x1 is strong/powerful/\[tough] in property/quality x2 (ka) by standard x3.
+  x1 is strong/powerful/\[tough\] in property/quality x2 (ka) by standard x3.
 
 - tu
 
@@ -3179,7 +3179,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - tu'a
 
-  extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u \[sumti] co'e.
+  extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u \[sumti\] co'e.
 
 - tu'e
 
@@ -3251,7 +3251,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - va'a
 
-  unary mathematical operator: additive inverse; \[- a].
+  unary mathematical operator: additive inverse; \[- a\].
 
 - va'e
 
@@ -3275,7 +3275,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - vecnu
 
-  x1 \[seller] sells/vends x2 \[goods/service/commodity] to buyer x3 for amount/cost/expense x4.
+  x1 \[seller\] sells/vends x2 \[goods/service/commodity\] to buyer x3 for amount/cost/expense x4.
 
 - ve'e
 
@@ -3295,7 +3295,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - veljvo
 
-  x1 is a metaphor \[of affix compound] with meaning \[of affix compound] x2 with argument \[of affix compound] x3 with affix compound x4; x1 is the tanru/metaphor construct of complex word/affix compound/lujvo x4
+  x1 is a metaphor \[of affix compound\] with meaning \[of affix compound\] x2 with argument \[of affix compound\] x3 with affix compound x4; x1 is the tanru/metaphor construct of complex word/affix compound/lujvo x4
 
 - vemau
 
@@ -3327,7 +3327,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - vo
 
-  digit/number: 4 (digit) \[four].
+  digit/number: 4 (digit) \[four\].
 
 - vo'a
 
@@ -3375,7 +3375,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - vu'u
 
-  n-ary mathematical operator: minus; subtraction operator; \[(((a - b) - c) - ...)].
+  n-ary mathematical operator: minus; subtraction operator; \[(((a - b) - c) - ...)\].
 
 - vukro
 
@@ -3395,15 +3395,15 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - xamgu
 
-  x1 (object/event) is good/beneficial/nice/\[acceptable] for x2 by standard x3.
+  x1 (object/event) is good/beneficial/nice/\[acceptable\] for x2 by standard x3.
 
 - xampo
 
-  x1 is x2 ampere(s) \[metric unit] in current (default is 1) by standard x3.
+  x1 is x2 ampere(s) \[metric unit\] in current (default is 1) by standard x3.
 
 - xance
 
-  x1 is a/the hand \[body-part] of x2; \[metaphor: manipulating tool, waldo].
+  x1 is a/the hand \[body-part\] of x2; \[metaphor: manipulating tool, waldo\].
 
 - xarci
 
@@ -3427,7 +3427,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - xecto
 
-  x1 is a hundred \[100; 102] of x2 in dimension/aspect x3 (default is units).
+  x1 is a hundred \[100; 102\] of x2 in dimension/aspect x3 (default is units).
 
 - xeka'a
 
@@ -3435,7 +3435,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - xekri
 
-  x1 is black/extremely dark-colored \[color adjective].
+  x1 is black/extremely dark-colored \[color adjective\].
 
 - xelso
 
@@ -3475,7 +3475,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - xunre
 
-  x1 is red/crimson/ruddy \[color adjective].
+  x1 is red/crimson/ruddy \[color adjective\].
 
 - xurdo
 
@@ -3513,7 +3513,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - za'i
 
-  abstractor: state (event) abstractor; x1 is continuous state of \[bridi] being true.
+  abstractor: state (event) abstractor; x1 is continuous state of \[bridi\] being true.
 
 - za'o
 
@@ -3537,7 +3537,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - zdani
 
-  x1 is a nest/house/lair/den/\[home] of/for x2.
+  x1 is a nest/house/lair/den/\[home\] of/for x2.
 
 - ze'e
 
@@ -3625,7 +3625,7 @@ All definitions in this glossary are brief and unofficial. Only the published di
 
 - zu'o
 
-  abstractor: activity (event) abstractor; x1 is abstract activity of \[bridi] composed of x2.
+  abstractor: activity (event) abstractor; x1 is abstract activity of \[bridi\] composed of x2.
 
 - zukte
 
