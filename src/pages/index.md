@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: 'The Complete Lojban Language'
 prev: /
 prevTitle: ''
-next: chapter01
+next: /chapter01/
 nextTitle: 'Next: Chapter 1'
 ---
 
@@ -379,5 +379,5 @@ nextTitle: 'Next: Chapter 1'
   - [Lojban Word Glossary](/glossary/)
   - [General Index](/general/)
   - [Lojban Words Index](/words/)
-  - [Examples Index](examples)
+  - [Examples Index](/examples/)
 
