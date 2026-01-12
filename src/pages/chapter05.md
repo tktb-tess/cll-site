@@ -470,10 +470,10 @@ Likewise, a *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* vers
 
 ##### Example 5.35.
 
-|      |              |         |         |     |       |         |        |         |
-| ---- | ------------ | ------- | ------- | --- | ----- | ------- | ------ | ------- |
+|      |              |         |         |     |       |         |        |          |
+| ---- | ------------ | ------- | ------- | --- | ----- | ------- | ------ | -------- |
 | ta   | melbi        |         | cmalu   | ke  | nixli |         | ckule  | \[ke'e\] |
-| That | is-a-(pretty | type-of | little) | (   | girl  | type-of | school | ).      |
+| That | is-a-(pretty | type-of | little) | (   | girl  | type-of | school | ).       |
 
 
 
@@ -483,10 +483,10 @@ Now how about that fifth grouping? It is
 
 ##### Example 5.36.
 
-|      |             |         |     |     |        |         |       |     |         |        |         |
-| ---- | ----------- | ------- | --- | --- | ------ | ------- | ----- | --- | ------- | ------ | ------- |
+|      |             |         |     |     |        |         |       |     |         |        |          |
+| ---- | ----------- | ------- | --- | --- | ------ | ------- | ----- | --- | ------- | ------ | -------- |
 | ta   | melbi       |         | ke  |     | cmalu  |         | nixli |     |         | ckule  | \[ke'e\] |
-| That | is-a-pretty | type-of | (   | (   | little | type-of | girl  | )   | type-of | school | ).      |
+| That | is-a-pretty | type-of | (   | (   | little | type-of | girl  | )   | type-of | school | ).       |
 
 |                                             |
 | ------------------------------------------- |
@@ -505,10 +505,10 @@ It is perfectly all right to mix *[bo](/glossary/#valsi-bo)* and *[ke'e](/glossa
 | ta   | melbi       |         | ke  | cmalu  |
 | That | is-a-pretty | type-of | (   | little |
 
-|         |     |       |         |        |         |         |
-| ------- | --- | ----- | ------- | ------ | ------- | ------- |
+|         |     |       |         |        |          |          |
+| ------- | --- | ----- | ------- | ------ | -------- | -------- |
 |         | ke  | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
-| type-of | (   | girl  | type-of | school | )       | ).      |
+| type-of | (   | girl  | type-of | school | )        | ).       |
 
 
 
@@ -516,10 +516,10 @@ can equivalently be expressed as:
 
 ##### Example 5.38.
 
-|      |             |         |     |        |           |       |         |        |         |
-| ---- | ----------- | ------- | --- | ------ | --------- | ----- | ------- | ------ | ------- |
+|      |             |         |     |        |           |       |         |        |          |
+| ---- | ----------- | ------- | --- | ------ | --------- | ----- | ------- | ------ | -------- |
 | ta   | melbi       |         | ke  | cmalu  |           | nixli | bo      | ckule  | \[ke'e\] |
-| That | is-a-pretty | type-of | (   | little | type-of-( | girl  | type-of | school | )).     |
+| That | is-a-pretty | type-of | (   | little | type-of-( | girl  | type-of | school | )).      |
 
 
 
@@ -666,10 +666,10 @@ The interpretation specified by [Example 5.47](/chapter05/#example-random-id-FCD
 
 ##### Example 5.49.
 
-|      |        |           |         |        |      |     |     |       |         |        |         |
-| ---- | ------ | --------- | ------- | ------ | ---- | --- | --- | ----- | ------- | ------ | ------- |
+|      |        |           |         |        |      |     |     |       |         |        |          |
+| ---- | ------ | --------- | ------- | ------ | ---- | --- | --- | ----- | ------- | ------ | -------- |
 | ta   | ke     | melbi     |         | ckule  | ke'e | je  | ke  | nixli |         | ckule  | \[ke'e\] |
-| That | is-a-( | beautiful | type-of | school | )    | and | (   | girl  | type-of | school | )       |
+| That | is-a-( | beautiful | type-of | school | )    | and | (   | girl  | type-of | school | )        |
 
 
 
@@ -770,10 +770,10 @@ An alternative form of [Example 5.55](/chapter05/#example-random-id-NuWM "Exampl
 
 ##### Example 5.57.
 
-|       |     |     |       |     |       |         |
-| ----- | --- | --- | ----- | --- | ----- | ------- |
+|       |     |     |       |     |       |          |
+| ----- | --- | --- | ----- | --- | ----- | -------- |
 | ricfu | je  | ke  | blanu | ja  | crino | \[ke'e\] |
-| rich  | and | (   | blue  | or  | green | )       |
+| rich  | and | (   | blue  | or  | green | )        |
 
 
 
@@ -878,10 +878,10 @@ Since *[xamgu](/glossary/#valsi-xamgu)* has three places (x1, the good thing; x2
 
 ##### Example 5.64.
 
-|      |           |      |     |             |     |         |        |
-| ---- | --------- | ---- | --- | ----------- | --- | ------- | ------ |
+|      |           |      |     |             |     |          |        |
+| ---- | --------- | ---- | --- | ----------- | --- | -------- | ------ |
 | ti   | xamgu     | be   | do  | bei         | mi  | \[be'o\] | zdani  |
-| This | is-a-good | (for | you | by-standard | me) |         | house. |
+| This | is-a-good | (for | you | by-standard | me) |          | house. |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -945,10 +945,10 @@ Here the three places of *[cmalu](/glossary/#valsi-cmalu)*, the three of *[nixli
 
 ##### Example 5.66.
 
-|     |       |     |        |        |     |          |       |         |
-| --- | ----- | --- | ------ | ------ | --- | -------- | ----- | ------- |
+|     |       |     |        |        |     |          |       |          |
+| --- | ----- | --- | ------ | ------ | --- | -------- | ----- | -------- |
 | mi  | klama | be  | le     | zarci  | bei | le       | zdani | \[be'o\] |
-| I   | go    | (   | to-the | market |     | from-the | house | ).      |
+| I   | go    | (   | to-the | market |     | from-the | house | ).       |
 
 
 
@@ -984,10 +984,10 @@ It is possible to precede linked sumti by the place structure ordering tags *[fe
 
 ##### Example 5.69.
 
-|      |           |     |             |     |     |     |     |         |        |
-| ---- | --------- | --- | ----------- | --- | --- | --- | --- | ------- | ------ |
+|      |           |     |             |     |     |     |     |          |        |
+| ---- | --------- | --- | ----------- | --- | --- | --- | --- | -------- | ------ |
 | ti   | xamgu     | be  | fi          | mi  | bei | fe  | do  | \[be'o\] | zdani  |
-| This | is-a-good | (   | by-standard | me  |     | for | you | )       | house. |
+| This | is-a-good | (   | by-standard | me  |     | for | you | )        | house. |
 
 
 
@@ -997,10 +997,10 @@ Of course, using FA cmavo makes it easy to specify one place while omitting a pr
 
 ##### Example 5.70.
 
-|      |           |     |             |     |         |        |
-| ---- | --------- | --- | ----------- | --- | ------- | ------ |
+|      |           |     |             |     |          |        |
+| ---- | --------- | --- | ----------- | --- | -------- | ------ |
 | ti   | xamgu     | be  | fi          | mi  | \[be'o\] | zdani  |
-| This | is-a-good | (   | by-standard | me  | )       | house. |
+| This | is-a-good | (   | by-standard | me  | )        | house. |
 
 |                                       |
 | ------------------------------------- |
@@ -1012,10 +1012,10 @@ Similarly, sumti labeled by modal or tense tags can be inserted into strings of 
 
 ##### Example 5.71.
 
-|      |           |     |             |     |         |        |
-| ---- | --------- | --- | ----------- | --- | ------- | ------ |
+|      |           |     |             |     |          |        |
+| ---- | --------- | --- | ----------- | --- | -------- | ------ |
 | ta   | blanu     | be  | ga'a        | mi  | \[be'o\] | zdani  |
-| That | is-a-blue | (   | to-observer | me  | )       | house. |
+| That | is-a-blue | (   | to-observer | me  | )        | house. |
 
 |                                     |
 | ----------------------------------- |
@@ -1066,10 +1066,10 @@ In other cases, however, *[be'o](/glossary/#valsi-beho)* cannot be elided if *[k
 
 ##### Example 5.75.
 
-|     |       |      |     |          |       |      |       |
-| --- | ----- | ---- | --- | -------- | ----- | ---- | ----- |
+|     |       |      |     |          |        |      |       |
+| --- | ----- | ---- | --- | -------- | ------ | ---- | ----- |
 | le  | xamgu | be   | le  | ctuca    | \[ku\] | be'o | zdani |
-| the | good  | (for | the | teacher) |       |      | house |
+| the | good  | (for | the | teacher) |        |      | house |
 
 
 
@@ -1155,7 +1155,7 @@ When inverting a more complex tanru, it is possible to invert it only at the mos
 
 |      |            |         |         |         |         |
 | ---- | ---------- | ------- | ------- | ------- | ------- |
-| ta   | nixli      | \[bo\]   | ckule   | co      | cmalu   |
+| ta   | nixli      | \[bo\]  | ckule   | co      | cmalu   |
 | That | (is-a-girl | type-of | school) | of-type | little. |
 
 |                                        |
@@ -1168,10 +1168,10 @@ Note that the *[bo](/glossary/#valsi-bo)* of [Example 5.19](/chapter05/#example-
 
 ##### Example 5.81.
 
-|      |              |         |     |       |         |        |         |         |         |
-| ---- | ------------ | ------- | --- | ----- | ------- | ------ | ------- | ------- | ------- |
+|      |              |         |     |       |         |        |          |         |         |
+| ---- | ------------ | ------- | --- | ----- | ------- | ------ | -------- | ------- | ------- |
 | ta   | cmalu        |         | ke  | nixli |         | ckule  | \[ke'e\] | co      | melbi   |
-| That | is-a-(little | type-of | (   | girl  | type-of | school | ))      | of-type | pretty. |
+| That | is-a-(little | type-of | (   | girl  | type-of | school | ))       | of-type | pretty. |
 
 |                                                     |
 | --------------------------------------------------- |
@@ -1303,9 +1303,9 @@ you may retort:
 
 ##### Example 5.90.
 
-|            |       |                |              |
-| ---------- | ----- | -------------- | ------------ |
-| la         | djan. | go'i           | troci        |
+|            |       |                 |              |
+| ---------- | ----- | --------------- | ------------ |
+| la         | djan. | go'i            | troci        |
 | That-named | John  | \[repeat-last\] | are-a-trier. |
 
 |                |
@@ -1428,9 +1428,9 @@ which suggests the meaning “a room that amuses someone”.
 
 The following cmavo are discussed in this section:
 
-|      |      |                                           |
-| ---- | ---- | ----------------------------------------- |
-| me   | ME   | changes sumti to simple selbri            |
+|      |      |                                            |
+| ---- | ---- | ------------------------------------------ |
+| me   | ME   | changes sumti to simple selbri             |
 | me'u | MEhU | terminator for *[me](/glossary/#valsi-me)* |
 
 A sumti can be made into a simple selbri by preceding it with *[me](/glossary/#valsi-me)* (of selma'o ME) and following it with the elidable terminator *[me'u](/glossary/#valsi-mehu)* (of selma'o MEhU). This makes a selbri with the place structure
@@ -1529,10 +1529,10 @@ It is common to use *[me](/glossary/#valsi-me)* selbri, especially those based o
 
 ##### Example 5.104.
 
-|      |                   |                             |         |       |
-| ---- | ----------------- | --------------------------- | ------- | ----- |
+|      |                   |                             |          |       |
+| ---- | ----------------- | --------------------------- | -------- | ----- |
 | ta   | me                | lai kraislr.                | \[me'u\] | karce |
-| That | (is-a-referent-of | “the-mass-named ‘Chrysler’” | )       | car.  |
+| That | (is-a-referent-of | “the-mass-named ‘Chrysler’” | )        | car.  |
 
 |                         |
 | ----------------------- |
@@ -1544,8 +1544,8 @@ The elidable terminator *[me'u](/glossary/#valsi-mehu)* can usually be omitted. 
 
 ##### Example 5.105.
 
-|     |     |     |     |           |     |     |       |         |     |       |
-| --- | --- | --- | --- | --------- | --- | --- | ----- | ------- | --- | ----- |
+|     |     |     |     |           |     |     |       |          |     |       |
+| --- | --- | --- | --- | --------- | --- | --- | ----- | -------- | --- | ----- |
 | re  | me  | le  | ci  | nolraitru | .e  | la  | djan. | \[me'u\] | cu  | blabi |
 
 |                                                        |
@@ -1587,10 +1587,10 @@ There are other sentences where either *[me'u](/glossary/#valsi-mehu)* or some o
 
 ##### Example 5.108.
 
-|     |                    |       |      |                              |
-| --- | ------------------ | ----- | ---- | ---------------------------- |
+|     |                    |        |      |                              |
+| --- | ------------------ | ------ | ---- | ---------------------------- |
 | le  | me le ci nolraitru | \[ku\] | me'u | nunsalci                     |
-| the | (the three kings)  |       |      | type-of-event-of-celebrating |
+| the | (the three kings)  |        |      | type-of-event-of-celebrating |
 
 |                             |
 | --------------------------- |
@@ -1622,9 +1622,9 @@ is equivalent in meaning to:
 
 ##### Example 5.110.
 
-|     |                   |       |     |
-| --- | ----------------- | ----- | --- |
-| do  | se                | prami | mi  |
+|     |                    |       |     |
+| --- | ------------------ | ----- | --- |
+| do  | se                 | prami | mi  |
 | You | \[swap x1 and x2\] | love  | me. |
 
 |                      |
@@ -1653,17 +1653,17 @@ To convert this sentence so that *le zarci* is in the x1 place, one correct way 
 
 ##### Example 5.112.
 
-|     |        |     |                    |
-| --- | ------ | --- | ------------------ |
-| le  | zarci  | cu  | se                 |
+|     |        |     |                     |
+| --- | ------ | --- | ------------------- |
+| le  | zarci  | cu  | se                  |
 | The | market |     | is-a-\[swap x1/x2\] |
-| The | market |     |                    |
+| The | market |     |                     |
 
-|     |              |                 |         |            |        |
-| --- | ------------ | --------------- | ------- | ---------- | ------ |
+|     |              |                 |          |            |        |
+| --- | ------------ | --------------- | -------- | ---------- | ------ |
 | ke  | cadzu        | klama           | \[ke'e\] | la         | .alis. |
-| (   | walker       | type-of-goer-to | )       | that-named | Alice. |
-|     | is-walkingly | gone-to-by      |         | that-named | Alice. |
+| (   | walker       | type-of-goer-to | )        | that-named | Alice. |
+|     | is-walkingly | gone-to-by      |          | that-named | Alice. |
 
 
 
@@ -1671,11 +1671,11 @@ The *[ke'e](/glossary/#valsi-kehe)* brackets cause the entire tanru to be conver
 
 ##### Example 5.113.
 
-|     |        |     |                     |                      |
-| --- | ------ | --- | ------------------- | -------------------- |
-| le  | zarci  | cu  | se                  | cadzu                |
+|     |        |     |                      |                      |
+| --- | ------ | --- | -------------------- | -------------------- |
+| le  | zarci  | cu  | se                   | cadzu                |
 | The | market |     | (is-a-\[swap x1/x2\] | walker)              |
-| The | market |     |                     | is-a-walking-surface |
+| The | market |     |                      | is-a-walking-surface |
 
 |                 |            |        |
 | --------------- | ---------- | ------ |
@@ -1717,10 +1717,10 @@ Negation is too large and complex a topic to explain fully in this chapter; see 
 
 ##### Example 5.116.
 
-|            |        |     |      |     |           |         |         |     |         |
-| ---------- | ------ | --- | ---- | --- | --------- | ------- | ------- | --- | ------- |
+|            |        |     |      |     |           |         |          |     |         |
+| ---------- | ------ | --- | ---- | --- | --------- | ------- | -------- | --- | ------- |
 | la         | .alis. | cu  | na'e | ke  | cadzu     | klama   | \[ke'e\] | le  | zarci   |
-| That-named | Alice  |     | non- | (   | walkingly | goes-to | )       | the | market. |
+| That-named | Alice  |     | non- | (   | walkingly | goes-to | )        | the | market. |
 
 |                                   |
 | --------------------------------- |
@@ -1779,10 +1779,10 @@ In [Example 5.119](/chapter05/#example-random-id-I1Rd "Example 5.119. "), *[na'e
 
 ##### Example 5.120.
 
-|     |      |     |         |          |     |       |     |       |         |
-| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | ------- |
+|     |      |     |         |          |     |       |     |       |          |
+| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- |
 | mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] |
-| I   | non- | (   | quickly | (walking |     | using | the | arms  | )       |
+| I   | non- | (   | quickly | (walking |     | using | the | arms  | )        |
 
 |      |       |     |         |
 | ---- | ----- | --- | ------- |
@@ -1814,10 +1814,10 @@ Now consider [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. 
 
 ##### Example 5.122.
 
-|     |     |          |          |     |       |     |       |         |      |
-| --- | --- | -------- | -------- | --- | ----- | --- | ----- | ------- | ---- |
+|     |     |          |          |     |       |     |       |          |      |
+| --- | --- | -------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
 | mi  | ke  | sutra    | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
-| I   | (   | (quickly | (walking |     | using | the | arms  | )       | )    |
+| I   | (   | (quickly | (walking |     | using | the | arms  | )        | )    |
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1848,10 +1848,10 @@ However, if we place a *[na'e](/glossary/#valsi-nahe)* at the beginning of the s
 
 ##### Example 5.124.
 
-|     |      |     |         |          |     |       |     |       |         |      |
-| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | ------- | ---- |
+|     |      |     |         |          |     |       |     |       |          |      |
+| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
 | mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
-| I   | (non | (   | quickly | (walking |     | using | the | arms) |         | )    |
+| I   | (non | (   | quickly | (walking |     | using | the | arms) |          | )    |
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1871,10 +1871,10 @@ The difference arises because the *[na'e](/glossary/#valsi-nahe)* in [Example 5.
 | mi  | na'e | ke  | sutra   | cadzu     | be  | fi    | le  | birka | be'o |
 | I   | non- | (   | quickly | ((walking |     | using | the | arms) | )    |
 
-|     |         |       |         |     |         |
-| --- | ------- | ----- | ------- | --- | ------- |
+|     |         |       |          |     |         |
+| --- | ------- | ----- | -------- | --- | ------- |
 | je  | masno   | klama | \[ke'e\] | le  | zarci   |
-| and | slowly) | go-to | )       | the | market. |
+| and | slowly) | go-to | )        | the | market. |
 
 |                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- |
@@ -1889,10 +1889,10 @@ And if both *[ke'e](/glossary/#valsi-kehe)* and *[be'o](/glossary/#valsi-beho)* 
 | mi  | na'e | ke  | sutra   | cadzu | be  | fi    | le   | birka    | je  | masno |
 | I   | non  | (   | quickly | walk  |     | on-my | (the | arm-type | and | slow) |
 
-|       |         |         |        |         |
-| ----- | ------- | ------- | ------ | ------- |
+|       |          |          |        |         |
+| ----- | -------- | -------- | ------ | ------- |
 | klama | \[be'o\] | \[ke'e\] | le     | zarci   |
-| goers |         | )       | on-the | market. |
+| goers |          | )        | on-the | market. |
 
 |                                                                                                            |
 | ---------------------------------------------------------------------------------------------------------- |
@@ -1906,9 +1906,9 @@ A bridi can have cmavo associated with it which specify the time, place, or mode
 
 ##### Example 5.127.
 
-|     |         |       |     |         |
-| --- | ------- | ----- | --- | ------- |
-| mi  | pu      | klama | le  | zarci   |
+|     |          |       |     |         |
+| --- | -------- | ----- | --- | ------- |
+| mi  | pu       | klama | le  | zarci   |
 | I   | \[past\] | go-to | the | market. |
 
 |                       |
@@ -1957,9 +1957,9 @@ It is also possible to have more than one *[na](/glossary/#valsi-na)*, in which 
 
 It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#valsi-na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").##### Example 5.131.
 
-|     |        |         |        |            |       |     |        |
-| --- | ------ | ------- | ------ | ---------- | ----- | --- | ------ |
-| mi  | na     | pu      | na     | ca         | klama | le  | zarci  |
+|     |         |          |         |             |       |     |        |
+| --- | ------- | -------- | ------- | ----------- | ----- | --- | ------ |
+| mi  | na      | pu       | na      | ca          | klama | le  | zarci  |
 | I   | \[not\] | \[past\] | \[not\] | \[present\] | go-to | the | market |
 
 |                                                                                                   |
@@ -1994,14 +1994,14 @@ Any lujvo or fu'ivla used in a group are glossed at the end of that group.The ta
 
 **Table 5.2. Mini-Glossary**
 
-|                                        |                     |
-| -------------------------------------- | ------------------- |
-| *nunkilbra*                            | sharpness-apparatus |
+|                                         |                     |
+| --------------------------------------- | ------------------- |
+| *nunkilbra*                             | sharpness-apparatus |
 | *[nunctu](/glossary/#valsi-nunctu)*     | event-of-teaching   |
-| *nunkalte*                             | event-of-hunting    |
+| *nunkalte*                              | event-of-hunting    |
 | *[terkavbu](/glossary/#valsi-terkavbu)* | trap                |
 | *[zerle'a](/glossary/#valsi-zerleha)*   | crime-taker         |
-| *nunte'a*                              | event-of-fearing    |
+| *nunte'a*                               | event-of-fearing    |
 
 The tertau represents a set, and the seltau the type of the elements contained in that set:
 
@@ -2021,10 +2021,10 @@ The tertau represents a set, and the seltau the type of the elements contained i
 
 **Table 5.4. Mini-Glossary**
 
-|                                      |                |
-| ------------------------------------ | -------------- |
+|                                       |                |
+| ------------------------------------- | -------------- |
 | *[lijgri](/glossary/#valsi-lijgri)*   | line-group     |
-| *lamgri*                             | adjacent-group |
+| *lamgri*                              | adjacent-group |
 | *[mulgri](/glossary/#valsi-mulgri)*   | complete-group |
 | *[cpumi'i](/glossary/#valsi-cpumihi)* | pull-machine   |
 
@@ -2054,8 +2054,8 @@ The seltau specifies an object and the tertau a component or detail of that obje
 
 **Table 5.7. Mini-Glossary**
 
-|                                      |                 |
-| ------------------------------------ | --------------- |
+|                                       |                 |
+| ------------------------------------- | --------------- |
 | *[dadysli](/glossary/#valsi-dadysli)* | hang-oscillator |
 
 Conversely: the seltau specifies a characteristic or important detail of the object described by the tertau; objects described by the tanru as a whole are differentiated from other similar objects by this detail.
@@ -2071,8 +2071,8 @@ Conversely: the seltau specifies a characteristic or important detail of the obj
 
 **Table 5.9. Mini-Glossary**
 
-|                                      |                 |
-| ------------------------------------ | --------------- |
+|                                       |                 |
+| ------------------------------------- | --------------- |
 | *[dadysli](/glossary/#valsi-dadysli)* | hang-oscillator |
 
 The tertau specifies a general class of object (a genus), and the seltau specifies a sub-class of that class (a species):
@@ -2101,8 +2101,8 @@ The tertau specifies an object of possession, and the seltau may specify the pos
 
 **Table 5.12. Mini-Glossary**
 
-|                                          |                         |
-| ---------------------------------------- | ----------------------- |
+|                                           |                         |
+| ----------------------------------------- | ----------------------- |
 | *[nolraitru](/glossary/#valsi-nolraitru)* | nobly-superlative-ruler |
 
 The tertau specifies a habitat, and the seltau specifies the inhabitant:
@@ -2126,8 +2126,8 @@ The tertau specifies a causative agent, and the seltau specifies the effect of t
 
 **Table 5.15. Mini-Glossary**
 
-|                                            |                    |
-| ------------------------------------------ | ------------------ |
+|                                             |                    |
+| ------------------------------------------- | ------------------ |
 | *[kalselvi'i](/glossary/#valsi-kalselvihi)* | eye-excreted-thing |
 | *[terbi'a](/glossary/#valsi-terbiha)*       | disease            |
 
@@ -2152,8 +2152,8 @@ The tertau specifies an instrument, and the seltau specifies the purpose of that
 
 **Table 5.18. Mini-Glossary**
 
-|                                        |                        |
-| -------------------------------------- | ---------------------- |
+|                                         |                        |
+| --------------------------------------- | ---------------------- |
 | *[dadgreku](/glossary/#valsi-dadgreku)* | hang-frame             |
 | *[tergu'i](/glossary/#valsi-terguhi)*   | source of illumination |
 | *[ti'otci](/glossary/#valsi-tihotci)*   | shadow-tool            |
@@ -2190,9 +2190,9 @@ The tertau specifies a product from some source, and the seltau specifies the so
 
 **Table 5.21. Mini-Glossary**
 
-|                                        |              |
-| -------------------------------------- | ------------ |
-| *sikcurnu*                             | silk-worm    |
+|                                         |              |
+| --------------------------------------- | ------------ |
+| *sikcurnu*                              | silk-worm    |
 | *[solxrula](/glossary/#valsi-solxrula)* | solar-flower |
 
 Conversely: the tertau specifies the source of a product, and the seltau specifies the product:
@@ -2235,8 +2235,8 @@ The tertau specifies an object, and the seltau specifies the material from which
 
 **Table 5.25. Mini-Glossary**
 
-|                                          |            |
-| ---------------------------------------- | ---------- |
+|                                           |            |
+| ----------------------------------------- | ---------- |
 | *[cmaro'i](/glossary/#valsi-cmarohi)*     | small-rock |
 | *[sudysrasu](/glossary/#valsi-sudysrasu)* | dry-grass  |
 
@@ -2347,8 +2347,8 @@ The seltau specifies a place, and the tertau an object characteristically locate
 
 **Table 5.37. Mini-Glossary**
 
-|                                        |                    |
-| -------------------------------------- | ------------------ |
+|                                         |                    |
+| --------------------------------------- | ------------------ |
 | *[mrostu](/glossary/#valsi-mrostu)*     | dead-site          |
 | *[mojysu'a](/glossary/#valsi-mojysuha)* | remember-structure |
 | *[ci'ajbu](/glossary/#valsi-cihajbu)*   | write-table        |
@@ -2399,8 +2399,8 @@ The tertau specifies a protective device against the undesirable features of the
 
 **Table 5.43. Mini-Glossary**
 
-|                                    |            |
-| ---------------------------------- | ---------- |
+|                                     |            |
+| ----------------------------------- | ---------- |
 | *[firgai](/glossary/#valsi-firgai)* | face-cover |
 
 The tertau specifies a container characteristically used to hold the referent of the seltau.
@@ -2423,9 +2423,9 @@ The tertau specifies a container characteristically used to hold the referent of
 
 **Table 5.45. Mini-Glossary**
 
-|                                              |                     |
-| -------------------------------------------- | ------------------- |
-| *spatrkoka*                                  | fu'ivla for “coca”  |
+|                                               |                     |
+| --------------------------------------------- | ------------------- |
+| *spatrkoka*                                   | fu'ivla for “coca”  |
 | *[cladakyxa'i](/glossary/#valsi-cladakyxahi)* | (long-knife)-weapon |
 
 The seltau specifies the characteristic time of the event specified by the tertau.
@@ -2491,8 +2491,8 @@ It is clear that “tooth” is being specified, and that “milk” and “eye�
 
 **Table 5.51. Mini-Glossary**
 
-|                                              |                                         |
-| -------------------------------------------- | --------------------------------------- |
+|                                               |                                         |
+| --------------------------------------------- | --------------------------------------- |
 | *[cipnrstrigi](/glossary/#valsi-cipnrstrigi)* | fu'ivla for “owl” based on Linnean name |
 | *[pacru'i](/glossary/#valsi-pacruhi)*         | evil-spirit                             |
 | *[tolvri](/glossary/#valsi-tolvri)*           | opposite-of-brave                       |
@@ -2513,12 +2513,12 @@ The tanru may refer to all things which are specified by either of the tanru com
 
 **Table 5.53. Mini-Glossary**
 
-|                                    |                   |
-| ---------------------------------- | ----------------- |
-| *nunji'a*                          | event-of-winning  |
-| *nunterji'a*                       | event-of-losing   |
+|                                     |                   |
+| ----------------------------------- | ----------------- |
+| *nunji'a*                           | event-of-winning  |
+| *nunterji'a*                        | event-of-losing   |
 | *[nuncti](/glossary/#valsi-nuncti)* | event-of-eating   |
-| *nunpinxe*                         | event-of-drinking |
+| *nunpinxe*                          | event-of-drinking |
 
 Alternatively, the tanru may refer to things which are specified by either of the tanru components or by some more inclusive class of things which the components typify:
 
@@ -2547,8 +2547,8 @@ The tanru components specify crucial or typical parts of the referent of the tan
 
 **Table 5.56. Mini-Glossary**
 
-|                                          |           |
-| ---------------------------------------- | --------- |
+|                                           |           |
+| ----------------------------------------- | --------- |
 | *[sudysrasu](/glossary/#valsi-sudysrasu)* | dry-grass |
 | *[so'imei](/glossary/#valsi-sohimei)*     | manysome  |
 
@@ -2558,6 +2558,7 @@ The following examples show every possible grouping arrangement of *melbi cmalu 
 
 ##### Example 5.132.
 
+|          |         |         |         |       |         |        |
 | -------- | ------- | ------- | ------- | ----- | ------- | ------ |
 | melbi    |         | cmalu   |         | nixli |         | ckule  |
 | ((pretty | type-of | little) | type-of | girl) | type-of | school |
@@ -2606,9 +2607,9 @@ The following examples show every possible grouping arrangement of *melbi cmalu 
 | melbi    | je  | cmalu   | je  | nixli |         | ckule  |
 | ((pretty | and | little) | and | girl) | type-of | school |
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| school for things which are beautiful, small, and girls                                     |
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| school for things which are beautiful, small, and girls                             |
 | Note: same as [Example 5.152](/chapter05/#example-random-id-qKjr "Example 5.152. ") |
 
 ##### Example 5.137.
@@ -2618,9 +2619,9 @@ The following examples show every possible grouping arrangement of *melbi cmalu 
 | melbi    | bo      | cmalu   | je  | nixli | je  | ckule  |
 | ((pretty | type-of | little) | and | girl) | and | school |
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| thing which is beautifully small, a school, and a girl                                      |
+|                                                                                     |
+| ----------------------------------------------------------------------------------- |
+| thing which is beautifully small, a school, and a girl                              |
 | Note: same as [Example 5.145](/chapter05/#example-random-id-qKdY "Example 5.145. ") |
 
 ##### Example 5.138.
@@ -2832,11 +2833,11 @@ Note: same as [Example 5.169](/chapter05/#example-random-id-qKsA "Example 5.169.
 
 ##### Example 5.156.
 
-|        |         |         |         |       |         |        |         |         |
-| ------ | ------- | ------- | ------- | ----- | ------- | ------ | ------- | ------- |
-| melbi  |         | cmalu   | bo      | nixli | bo      | ckule  |         |         |
+|        |         |         |         |       |         |        |          |          |
+| ------ | ------- | ------- | ------- | ----- | ------- | ------ | -------- | -------- |
+| melbi  |         | cmalu   | bo      | nixli | bo      | ckule  |          |          |
 | melbi  | ke      | cmalu   | ke      | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
-| pretty | type-of | (little | type-of | (girl | type-of | school | )       | )       |
+| pretty | type-of | (little | type-of | (girl | type-of | school | )        | )        |
 
 |                                           |
 | ----------------------------------------- |
@@ -2844,10 +2845,10 @@ Note: same as [Example 5.169](/chapter05/#example-random-id-qKsA "Example 5.169.
 
 ##### Example 5.157.
 
-|        |         |         |         |       |     |        |         |
-| ------ | ------- | ------- | ------- | ----- | --- | ------ | ------- |
+|        |         |         |         |       |     |        |          |
+| ------ | ------- | ------- | ------- | ----- | --- | ------ | -------- |
 | melbi  | ke      | cmalu   |         | nixli | je  | ckule  | \[ke'e\] |
-| pretty | type-of | (little | type-of | (girl | and | school | ))      |
+| pretty | type-of | (little | type-of | (girl | and | school | ))       |
 
 |                                                           |
 | --------------------------------------------------------- |
@@ -2866,12 +2867,12 @@ Note: same as [Example 5.169](/chapter05/#example-random-id-qKsA "Example 5.169.
 
 ##### Example 5.159.
 
-|        |     |     |        |         |       |         |        |         |         |
-| ------ | --- | --- | ------ | ------- | ----- | ------- | ------ | ------- | ------- |
-| melbi  | je  |     | cmalu  | bo      | nixli | bo      | ckule  |         |         |
-| melbi  | je  | ke  | cmalu  |         | nixli | bo      | ckule  | \[ke'e\] |         |
+|        |     |     |        |         |       |         |        |          |          |
+| ------ | --- | --- | ------ | ------- | ----- | ------- | ------ | -------- | -------- |
+| melbi  | je  |     | cmalu  | bo      | nixli | bo      | ckule  |          |          |
+| melbi  | je  | ke  | cmalu  |         | nixli | bo      | ckule  | \[ke'e\] |          |
 | melbi  | je  | ke  | cmalu  | ke      | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
-| pretty | and | (   | little | type-of | (girl | type-of | school | )       | )       |
+| pretty | and | (   | little | type-of | (girl | type-of | school | )        | )        |
 
 |                                                            |
 | ---------------------------------------------------------- |
@@ -2879,11 +2880,11 @@ Note: same as [Example 5.169](/chapter05/#example-random-id-qKsA "Example 5.169.
 
 ##### Example 5.160.
 
-|        |         |         |     |     |       |      |        |         |
-| ------ | ------- | ------- | --- | --- | ----- | ---- | ------ | ------- |
-| melbi  |         | cmalu   | je  |     | nixli | jebo | ckule  |         |
+|        |         |         |     |     |       |      |        |          |
+| ------ | ------- | ------- | --- | --- | ----- | ---- | ------ | -------- |
+| melbi  |         | cmalu   | je  |     | nixli | jebo | ckule  |          |
 | melbi  |         | cmalu   | je  | ke  | nixli | je   | ckule  | \[ke'e\] |
-| pretty | type-of | (little | and | (   | girl  | and  | school | ))      |
+| pretty | type-of | (little | and | (   | girl  | and  | school | ))       |
 
 |                                                                            |
 | -------------------------------------------------------------------------- |
@@ -2893,11 +2894,11 @@ Note: same as [Example 5.168](/chapter05/#example-random-id-qKR5 "Example 5.168.
 
 ##### Example 5.161.
 
-|        |     |     |        |      |       |         |        |         |
-| ------ | --- | --- | ------ | ---- | ----- | ------- | ------ | ------- |
-| melbi  | je  |     | cmalu  | jebo | nixli | bo      | ckule  |         |
+|        |     |     |        |      |       |         |        |          |
+| ------ | --- | --- | ------ | ---- | ----- | ------- | ------ | -------- |
+| melbi  | je  |     | cmalu  | jebo | nixli | bo      | ckule  |          |
 | melbi  | je  | ke  | cmalu  | je   | nixli | bo      | ckule  | \[ke'e\] |
-| pretty | and | (   | little | and  | (girl | type-of | school | ))      |
+| pretty | and | (   | little | and  | (girl | type-of | school | ))       |
 
 |                                                     |
 | --------------------------------------------------- |
@@ -2907,10 +2908,10 @@ Note: same as [Example 5.146](/chapter05/#example-random-id-qKEI "Example 5.146.
 
 ##### Example 5.162.
 
-|        |     |     |        |         |       |     |        |         |
-| ------ | --- | --- | ------ | ------- | ----- | --- | ------ | ------- |
+|        |     |     |        |         |       |     |        |          |
+| ------ | --- | --- | ------ | ------- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  |         | nixli | je  | ckule  | \[ke'e\] |
-| pretty | and | (   | little | type-of | (girl | and | school | ))      |
+| pretty | and | (   | little | type-of | (girl | and | school | ))       |
 
 |                                                          |
 | -------------------------------------------------------- |
@@ -2929,10 +2930,10 @@ Note: same as [Example 5.146](/chapter05/#example-random-id-qKEI "Example 5.146.
 
 ##### Example 5.164.
 
-|        |         |          |         |       |         |        |         |
-| ------ | ------- | -------- | ------- | ----- | ------- | ------ | ------- |
+|        |         |          |         |       |         |        |          |
+| ------ | ------- | -------- | ------- | ----- | ------- | ------ | -------- |
 | melbi  | ke      | cmalu    |         | nixli |         | ckule  | \[ke'e\] |
-| pretty | type-of | ((little | type-of | girl) | type-of | school | )       |
+| pretty | type-of | ((little | type-of | girl) | type-of | school | )        |
 
 |                                  |
 | -------------------------------- |
@@ -2940,10 +2941,10 @@ Note: same as [Example 5.146](/chapter05/#example-random-id-qKEI "Example 5.146.
 
 ##### Example 5.165.
 
-|        |         |          |     |       |         |        |         |
-| ------ | ------- | -------- | --- | ----- | ------- | ------ | ------- |
+|        |         |          |     |       |         |        |          |
+| ------ | ------- | -------- | --- | ----- | ------- | ------ | -------- |
 | melbi  | ke      | cmalu    | je  | nixli |         | ckule  | \[ke'e\] |
-| pretty | type-of | ((little | and | girl) | type-of | school |         |
+| pretty | type-of | ((little | and | girl) | type-of | school |          |
 
 |                                                           |
 | --------------------------------------------------------- |
@@ -2951,10 +2952,10 @@ Note: same as [Example 5.146](/chapter05/#example-random-id-qKEI "Example 5.146.
 
 ##### Example 5.166.
 
-|        |         |          |         |       |     |        |         |
-| ------ | ------- | -------- | ------- | ----- | --- | ------ | ------- |
+|        |         |          |         |       |     |        |          |
+| ------ | ------- | -------- | ------- | ----- | --- | ------ | -------- |
 | melbi  | ke      | cmalu    | bo      | nixli | je  | ckule  | \[ke'e\] |
-| pretty | type-of | ((little | type-of | girl) | and | school | )       |
+| pretty | type-of | ((little | type-of | girl) | and | school | )        |
 
 |                                                    |
 | -------------------------------------------------- |
@@ -2962,10 +2963,10 @@ Note: same as [Example 5.146](/chapter05/#example-random-id-qKEI "Example 5.146.
 
 ##### Example 5.167.
 
-|        |     |     |        |         |       |         |         |     |
-| ------ | --- | --- | ------ | ------- | ----- | ------- | ------- | --- |
+|        |     |     |        |         |       |         |          |     |
+| ------ | --- | --- | ------ | ------- | ----- | ------- | -------- | --- |
 | melbi  | je  | ke  | cmalu  |         | nixli | ckule   | \[ke'e\] |     |
-| pretty | and | ((  | little | type-of | girl) | type-of | school  | )   |
+| pretty | and | ((  | little | type-of | girl) | type-of | school   | )   |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -2986,10 +2987,10 @@ Note: same as [Example 5.160](/chapter05/#example-random-id-qKp9 "Example 5.160.
 
 ##### Example 5.169.
 
-|        |     |     |        |         |       |     |        |         |
-| ------ | --- | --- | ------ | ------- | ----- | --- | ------ | ------- |
+|        |     |     |        |         |       |     |        |          |
+| ------ | --- | --- | ------ | ------- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | bo      | nixli | je  | ckule  | \[ke'e\] |
-| pretty | and | ((  | little | type-of | girl) | and | school | )       |
+| pretty | and | ((  | little | type-of | girl) | and | school | )        |
 
 |                                                     |
 | --------------------------------------------------- |
@@ -2999,10 +3000,10 @@ Note: same as [Example 5.153](/chapter05/#example-random-id-qKKM "Example 5.153.
 
 ##### Example 5.170.
 
-|        |     |     |        |     |       |         |        |         |
-| ------ | --- | --- | ------ | --- | ----- | ------- | ------ | ------- |
+|        |     |     |        |     |       |         |        |          |
+| ------ | --- | --- | ------ | --- | ----- | ------- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | je  | nixli |         | ckule  | \[ke'e\] |
-| pretty | and | ((  | little | and | girl) | type-of | school | )       |
+| pretty | and | ((  | little | and | girl) | type-of | school | )        |
 
 |                                                                    |
 | ------------------------------------------------------------------ |
@@ -3010,10 +3011,10 @@ Note: same as [Example 5.153](/chapter05/#example-random-id-qKKM "Example 5.153.
 
 ##### Example 5.171.
 
-|        |     |     |        |     |       |     |        |         |
-| ------ | --- | --- | ------ | --- | ----- | --- | ------ | ------- |
+|        |     |     |        |     |       |     |        |          |
+| ------ | --- | --- | ------ | --- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | je  | nixli | je  | ckule  | \[ke'e\] |
-| pretty | and | ((  | little | and | girl) | and | school | )       |
+| pretty | and | ((  | little | and | girl) | and | school | )        |
 
 |                                                       |
 | ----------------------------------------------------- |
