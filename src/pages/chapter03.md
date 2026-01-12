@@ -178,18 +178,17 @@ The Lojban diphthongs are shown in the table below. (Variant pronunciations have
 
 The first four diphthongs above (*ai*, *ei*, *oi*, and *au*, the ones with off-glides) are freely used in most types of Lojban words; the ten following ones are used only as stand-alone words and in Lojbanized names and borrowings; and the last two (*iy* and *uy*) are used only in Lojbanized names.
 
-The syllabic consonants of Lojban, \[l̩\], \[m̩\], \[n̩\], and \[r̩\], are variants of the non-syllabic \[l\], \[m\], \[n\], and \[r\] respectively. They normally have only a limited distribution, appearing in Lojban names and borrowings, although in principle any *l*, *m*, *n*, or *r* may be pronounced syllabically. If a syllabic consonant appears next to a *l*, *m*, *n*, or *r* that is not syllabic, it may not be clear which is which:
+The syllabic consonants of Lojban, <span class="font-ipa">\[l̩\]</span>, <span class="font-ipa">\[m̩\]</span>, <span class="font-ipa">\[n̩\]</span>, and <span class="font-ipa">\[r̩\]</span>, are variants of the non-syllabic <span class="font-ipa">\[l\]</span>, <span class="font-ipa">\[m\]</span>, <span class="font-ipa">\[n\]</span>, and <span class="font-ipa">\[r\]</span> respectively. They normally have only a limited distribution, appearing in Lojban names and borrowings, although in principle any *l*, *m*, *n*, or *r* may be pronounced syllabically. If a syllabic consonant appears next to a *l*, *m*, *n*, or *r* that is not syllabic, it may not be clear which is which:
 
 ##### Example 3.5.
 
 - brlgan.
 
-- \[br̩l gan\]
+- <span class="font-ipa">\[br̩l gan\]</span>
 
 - or
 
-- \[brl̩ gan\]
-
+- <span class="font-ipa">\[brl̩ gan\]</span>
 
 
 is a hypothetical Lojbanized name with more than one valid pronunciation; however it is pronounced, it remains the same word.
@@ -226,13 +225,11 @@ When more than two vowels occur together in Lojban, the normal pronunciation pai
 - mei,in.
 
 
-
 [Example 3.6](/chapter03/#example-random-id-RxtI "Example 3.6. ") contains the diphthong *ei* followed by the vowel *i*. In order to indicate a different grouping, the comma must always be used, leading to:
 
 ##### Example 3.7.
 
 - me,iin.
-
 
 
 which contains the vowel *e* followed by the diphthong *ii*. In rough English representation, [Example 3.6](/chapter03/#example-random-id-RxtI "Example 3.6. ") is “May Een”, whereas [Example 3.7](/chapter03/#example-random-id-H0wB "Example 3.7. ") is “Meh Yeen”.
@@ -264,11 +261,8 @@ Lojban imposes no restrictions on the appearance of single consonants in any val
 Pairs of consonants can also appear freely, with the following restrictions:
 
 1. It is forbidden for both consonants to be the same, as this would violate the rule against double consonants.
-
 2. It is forbidden for one consonant to be voiced and the other unvoiced. The consonants *l*, *m*, *n*, and *r* are exempt from this restriction. As a result, *bf* is forbidden, and so is *sd*, but both *fl* and *vl*, and both *ls* and *lz*, are permitted.
-
 3. It is forbidden for both consonants to be drawn from the set *c*, *j*, *s*, *z*.
-
 4. The specific pairs *cx*, *kx*, *xc*, *xk*, and *mz* are forbidden.
 
 These rules apply to all kinds of words, even Lojbanized names. If a name would normally contain a forbidden consonant pair, a *y* can be inserted to break up the pair:
@@ -277,11 +271,9 @@ These rules apply to all kinds of words, even Lojbanized names. If a name would 
 
 - djeimyz.
 
-- \[dʒɛj məzʔ\]
+- <span class="font-ipa">\[dʒɛj məzʔ\]</span>
 
 - James
-
-
 
 The regular English pronunciation of “James”, which is \[dʒɛjmz\], would Lojbanize as *djeimz.*, which contains a forbidden consonant pair.
 
@@ -330,9 +322,7 @@ Note that if both consonants of an initial pair are voiced, the unvoiced equival
 Consonant triples can occur medially in Lojban words. They are subject to the following rules:
 
 1. The first two consonants must constitute a permissible consonant pair;
-
 2. The last two consonants must constitute a permissible initial consonant pair;
-
 3. The triples *ndj*, *ndz*, *ntc*, and *nts* are forbidden.
 
 Lojbanized names can begin or end with any permissible consonant pair, not just the 48 initial consonant pairs listed above, and can have consonant triples in any location, as long as the pairs making up those triples are permissible. In addition, names can contain consonant clusters with more than three consonants, again requiring that each pair within the cluster is valid.
@@ -344,24 +334,18 @@ Many languages do not have consonant clusters at all, and even those languages t
 ##### Example 3.9.
 
 - vrusi
-
-- \[ˈvru si\]
-
+- <span class="font-ipa">\[ˈvru si\]</span>
 - or
-
-- \[vɪ ˈru si\]
+- <span class="font-ipa">\[vɪ ˈru si\]</span>
 
 
 
 ##### Example 3.10.
 
 - .AMsterdam.
-
-- \[ʔam ster damʔ\]
-
+- <span class="font-ipa">\[ʔam ster damʔ\]</span>
 - or
-
-- \[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ\]
+- <span class="font-ipa">\[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ\]</span>
 
 
 
@@ -372,23 +356,17 @@ Here are more examples of unbuffered and buffered pronunciations:
 ##### Example 3.11.
 
 - klama
-
-- \[ˈkla ma\]
-
-- \[kɪ ˈla ma\]
+- <span class="font-ipa">\[ˈkla ma\]</span>
+- <span class="font-ipa">\[kɪ ˈla ma\]</span>
 
 
 
 ##### Example 3.12.
 
 - xapcke
-
-- \[ˈxap ʃkɛ\]
-
-- \[ˈxa pɪ ʃkɛ\]
-
-- \[ˈxa pɪ ʃɪ kɛ\]
-
+- <span class="font-ipa">\[ˈxap ʃkɛ\]</span>
+- <span class="font-ipa">\[ˈxa pɪ ʃkɛ\]</span>
+- <span class="font-ipa">\[ˈxa pɪ ʃɪ kɛ\]</span>
 
 
 In [Example 3.12](/chapter03/#example-random-id-k2Gg "Example 3.12. "), we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the *pc* consonant pair but not the *ck*. The third pronunciation buffers both.
@@ -396,8 +374,7 @@ In [Example 3.12](/chapter03/#example-random-id-k2Gg "Example 3.12. "), we see t
 ##### Example 3.13.
 
 - ponyni'u
-
-- \[po nə 'ni hu\]
+- <span class="font-ipa">\[po nə 'ni hu\]</span>
 
 
 
@@ -406,9 +383,7 @@ In [Example 3.12](/chapter03/#example-random-id-k2Gg "Example 3.12. "), we see t
 ##### Example 3.14.
 
 - bongynanba
-
-- \[boŋ gə ˈnan ba\]
-
+- <span class="font-ipa">\[boŋ gə ˈnan ba\]</span>
 
 
 an unlikely Lojban compound word meaning “bone bread” (note the use of \[ŋ\] as a representative of *n* before *g*) and
@@ -416,17 +391,14 @@ an unlikely Lojban compound word meaning “bone bread” (note the use of \[ŋ\
 ##### Example 3.15.
 
 - bongnanba
-
-- \[boŋ ˈgnan ba\]
-
+- <span class="font-ipa">\[boŋ ˈgnan ba\]</span>
 
 
 a possible borrowing from another language (Lojban borrowings can only take a limited form). If [Example 3.15](/chapter03/#example-random-id-k2jv "Example 3.15. ") were pronounced with buffering, as
 
 ##### Example 3.16.
 
-- \[boŋ gɪ ˈnan ba\]
-
+- <span class="font-ipa">\[boŋ gɪ ˈnan ba\]</span>
 
 
 it would be very similar to [Example 3.14](/chapter03/#example-random-id-k2jU "Example 3.14. "). Only a clear distinction between *y* and any buffering vowel would keep the two words distinct.
@@ -435,8 +407,7 @@ Since buffering is done for the benefit of the speaker in order to aid pronounce
 
 ##### Example 3.17.
 
-- \[boːŋ gɪ ˈnaːn baː\]
-
+- <span class="font-ipa">\[boːŋ gɪ ˈnaːn baː\]</span>
 
 
 with lengthened vowels.
@@ -454,9 +425,7 @@ Here are some examples of Lojban syllabication:
 ##### Example 3.18.
 
 - pujenaicajeba
-
 - pu,je,nai,ca,je,ba
-
 
 
 This word has no consonant pairs and is therefore syllabified before each medial consonant.
@@ -464,17 +433,13 @@ This word has no consonant pairs and is therefore syllabified before each medial
 ##### Example 3.19.
 
 - ninmu
-
 - nin,mu
-
-
 
 This word is split at a consonant pair.
 
 ##### Example 3.20.
 
 - fitpri
-
 - fit,pri
 
 
@@ -484,9 +449,7 @@ This word is split at a consonant triple, between the first two consonants of th
 ##### Example 3.21.
 
 - sairgoi
-
 - sair,goi
-
 - sai,r,goi
 
 
@@ -496,9 +459,7 @@ This word contains the consonant pair *rg*; the *r* may be pronounced syllabical
 ##### Example 3.22.
 
 - klezba
-
 - klez,ba
-
 - kle,zba
 
 
@@ -520,7 +481,6 @@ The following are Lojban words with stress explicitly shown:
 ##### Example 3.23.
 
 - dikyjvo
-
 - DI,ky,jvo
 
 
@@ -530,7 +490,6 @@ The following are Lojban words with stress explicitly shown:
 ##### Example 3.24.
 
 - .armstrong.
-
 - .ARM,strong.
 
 
@@ -539,7 +498,7 @@ This is a Lojbanized version of the name “Armstrong”. The final *g* must be 
 
 ##### Example 3.25.
 
-- \[ˈʔa rɪ mɪ sɪ tɪ ro nɪ gɪʔ\]
+- <span class="font-ipa">\[ˈʔa rɪ mɪ sɪ tɪ ro nɪ gɪʔ\]</span>
 
 
 
@@ -549,15 +508,11 @@ The English pronunciation of “Armstrong”, as spelled in English, is not corr
 
 ##### Example 3.26.
 
-- \[ˈʔarm stron gɪʔ\]
-
+- <span class="font-ipa">\[ˈʔarm stron gɪʔ\]</span>
 - or
-
-- \[ˈʔarm stroŋ gɪʔ\]
-
+- <span class="font-ipa">\[ˈʔarm stroŋ gɪʔ\]</span>
 - or even
-
-- \[ˈʔarm stro nɪgʔ\]
+- <span class="font-ipa">\[ˈʔarm stro nɪgʔ\]</span>
 
 
 
@@ -567,8 +522,6 @@ The normal English pronunciation of the name “Armstrong” could be Lojbanized
 
 - .ARMstron.
 
-
-
 since Lojban *n* is allowed to be pronounced as the velar nasal \[ŋ\].
 
 Here is another example showing the use of *y*:
@@ -576,21 +529,15 @@ Here is another example showing the use of *y*:
 ##### Example 3.28.
 
 - bisydja
-
 - BI,sy,dja
-
 - BI,syd,ja
-
-
 
 This word is a compound word, or lujvo, built from the two affixes *bis* and *dja*. When they are joined, an impermissible consonant pair results: *sd*. In accordance with the algorithm for making lujvo, explained in [Section 4.11](/chapter04/#section-lujvo-making "4.11. The lujvo-making algorithm"), a *y* is inserted to separate the impermissible consonant pair; the *y* is not counted as a syllable for purposes of stress determination.
 
 ##### Example 3.29.
 
 - da'udja
-
 - da'UD,ja
-
 - da'U,dja
 
 
@@ -600,11 +547,8 @@ These two syllabications sound the same to a Lojban listener – the association
 ##### Example 3.30.
 
 - e'u bridi
-
 - e'u BRI,di
-
 - E'u BRI,di
-
 - e'U.BRI,di
 
 
@@ -614,7 +558,6 @@ In [Example 3.30](/chapter03/#example-random-id-Ki4a "Example 3.30. "), *[e'u](/
 ##### Example 3.31.
 
 - le re nobli prenu
-
 - le re NObli PREnu
 
 
@@ -622,7 +565,6 @@ In [Example 3.30](/chapter03/#example-random-id-Ki4a "Example 3.30. "), *[e'u](/
 ##### Example 3.32.
 
 - le re no bliprenu
-
 - le re no bliPREnu
 
 
@@ -641,7 +583,7 @@ There are many dialects of English, thus making it difficult to define the stand
 | \[ʔ\]                      | An allowed variant of Lojban *.*. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of “t”: “bottle” \[boʔl̩\]. The English interjection “uh-oh!” almost always has it between the syllables.                                                                                    |
 | \[ː\]                      | A symbol indicating that the previous vowel is to be spoken for a longer time than usual. Lojban vowels can be pronounced long in order to make a greater contrast with buffer vowels.                                                                                                                                                                                                                                                                                                                                               |
 | \[a\]                      | The preferred pronunciation of Lojban *a*. This sound doesn't occur in GA, but sounds somewhat like the “ar” of “park”, as spoken in RP or New England American. It is pronounced further forward in the mouth than \[ɑ\].                                                                                                                                                                                                                                                                                                           |
-| \[ɑ\]                      | An allowed variant of Lojban *a*. The “a” of GA “father”. The sound \[a\] is preferred because GA speakers often relax an unstressed \[ɑ\] into a schwa \[ə\], as in the usual pronunciations of “about” and “sofa”. Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use \[a\] instead: the Lojban word for “sofa” is *[sfofa](/glossary/#valsi-sfofa)*, pronounced \[sfofa\] or \[sfofɑ\] but never \[sfofə\] which would be the non-word *sfofy*.                          |
+| \[ɑ\]                      | An allowed variant of Lojban *a*. The “a” of GA “father”. The sound \[a\] is preferred because GA speakers often relax an unstressed \[ɑ\] into a schwa \[ə\], as in the usual pronunciations of “about” and “sofa”. Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use \[a\] instead: the Lojban word for “sofa” is *[sfofa](/glossary/#valsi-sfofa)*, pronounced \[sfofa\] or \[sfofɑ\] but never \[sfofə\] which would be the non-word *sfofy*.                        |
 | \[æ\]                      | Not a Lojban sound. The “a” of English “cat”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | \[b\]                      | The preferred pronunciation of Lojban *b*. As in English “boy”, “sober”, or “job”.                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | \[β\]                      | An allowed variant of Lojban *v*. Not an English sound; the Spanish “b” or “v” between vowels. This sound should not be used for Lojban *b*.                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -662,7 +604,7 @@ There are many dialects of English, thus making it difficult to define the stand
 | \[l̩\]                      | The syllabic version of Lojban *l*, as in English “bottle” or “middle”.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | \[m\]                      | The preferred pronunciation of Lojban *m*. As in English “me”, “humor”, or “ham”.                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | \[m̩\]                      | The syllabic version of Lojban *m*. As in English “catch 'em” or “bottom”.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| \[n\]                      | The preferred pronunciation of Lojban *n*. As in English *[no](/glossary/#valsi-no)*, “honor”, or “son”.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| \[n\]                      | The preferred pronunciation of Lojban *n*. As in English *[no](/glossary/#valsi-no)*, “honor”, or “son”.                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | \[n̩\]                      | The syllabic version of Lojban *n*. As in English “button”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | \[ŋ\]                      | An allowed variant of Lojban *n*, especially in Lojbanized names and before *g* or *k*. As in English “sing” or “singer” (but not “finger” or “danger”).                                                                                                                                                                                                                                                                                                                                                                             |
 | \[ŋ̍\]                      | An allowed variant of Lojban syllabic *n*, especially in Lojbanized names.                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -719,13 +661,9 @@ The following notes describe ways in which Lojban has been written or could be w
 There exists an alternative orthography for Lojban, which is designed to be as compatible as possible (but no more so) with the orthography used in pre-Lojban versions of Loglan. The consonants undergo no change, except that *x* is replaced by *h*. The individual vowels likewise remain unchanged. However, the vowel pairs and diphthongs are changed as follows:
 
 - *ai*, *ei*, *oi*, *au* become *ai*, *ei*, *oi*, *ao*.
-
 - *ia* through *iu* and *ua* through *uu* remain unchanged.
-
 - *a'i*, *e'i*, *o'i* and *a'o* become *a,i*, *e,i*, *o,i* and *a,o*.
-
 - *i'a* through *i'u* and *u'a* through *u'u* are changed to *ia* through *iu* and *ua* through *uu* in lujvo and cmavo other than attitudinals, but become *i,a* through *i,u* and *u,a* through *u,u* in names, fu'ivla, and attitudinal cmavo.
-
 - All other vowel pairs simply drop the apostrophe.
 
 The result of these rules is to eliminate the apostrophe altogether, replacing it with comma where necessary, and otherwise with nothing. In addition, names and the cmavo *[i](/glossary/#valsi-i)* are capitalized, and irregular stress is marked with an apostrophe (now no longer used for a sound) following the stressed syllable.
@@ -733,23 +671,21 @@ The result of these rules is to eliminate the apostrophe altogether, replacing i
 Three points must be emphasized about this alternative orthography:
 
 - It is not standard, and has not been used.
-
 - It does not represent any changes to the standard Lojban phonology; it is simply a representation of the same phonology using a different written form.
-
 - It was designed to aid in a planned rapprochement between the Logical Language Group and The Loglan Institute, a group headed by James Cooke Brown. The rapprochement never took place.
 
 There also exists a Cyrillic orthography for Lojban which was designed when the introductory Lojban brochure was translated into Russian. It uses the “а”, “б”, “в”, “г”, “д”, “е”, “ж”, “з”, “и”, “к”, “л”, “м”, “н”, “о”, “п”, “р”, “с”, “т”, “у”, “ф”, “х”, and “ш” in the obvious ways. The Latin letter “y” is mapped onto the hard sign “ъ”, as in Bulgarian. The apostrophe, comma, and period are unchanged. Diphthongs are written as vowel pairs, as in the Roman representation.
 
 Finally, an orthography using the Tengwar of Féanor, a fictional orthography invented by J. R. R. Tolkien and described in the Appendixes to *The Lord Of The Rings*, has been devised for Lojban. The following mapping, which closely resembles that used for Westron, will be meaningful only to those who have read those appendixes. In brief, the tincotéma and parmatéma are used in the conventional ways; the calmatéma represents palatal consonants, and the quessetéma represents velar consonants.
 
-|              |              |             |             |
-| ------------ | ------------ | ----------- | ----------- |
-| tinco&#xA;t  | calma&#xA;-  | ando&#xA;d  | anga&#xA;-  |
-| thule&#xA;-  | harma&#xA;c  | anto&#xA;-  | anca&#xA;j  |
-| numen&#xA;n  | noldo&#xA;-  | ore&#xA;r   | anna&#xA;i  |
-| parma&#xA;p  | quesse&#xA;k | umbar&#xA;b | ungwe&#xA;g |
-| formen&#xA;f | hwesta&#xA;x | ampa&#xA;v  | unque&#xA;- |
-| malta&#xA;m  | nwalme&#xA;- | vala&#xA;u  | vilya&#xA;- |
+|                 |                 |                |                |
+| --------------- | --------------- | -------------- | -------------- |
+| tinco <br /> t  | calma <br /> -  | ando <br /> d  | anga <br /> -  |
+| thule <br /> -  | harma <br /> c  | anto <br /> -  | anca <br /> j  |
+| numen <br /> n  | noldo <br /> -  | ore <br /> r   | anna <br /> i  |
+| parma <br /> p  | quesse <br /> k | umbar <br /> b | ungwe <br /> g |
+| formen <br /> f | hwesta <br /> x | ampa <br /> v  | unque <br /> - |
+| malta <br /> m  | nwalme <br /> - | vala <br /> u  | vilya <br /> - |
 
 The letters “vala” and “anna” are used for *u* and *i* only when those letters are used to represent glides. Of the additional letters, *r*, *l*, *s*, and *z* are written with “rómen”, “lambe”, “silme”, and “áre”/ “esse” respectively; the inverted forms are used as free variants.
 
