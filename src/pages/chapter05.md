@@ -135,7 +135,7 @@ In Lojban, tanru are also used for the same purposes as English adjective-noun c
 
 
 
-Note that *[pelnimre](/glossary/#valsi-pelnimre)* is a lujvo for “lemon”; it is derived from the gismu *[pelxu](/glossary/#valsi-pelxu)*, yellow, and *[nimre](/glossary/#valsi-nimre)*, citrus. Note also that *[sutra](/glossary/#valsi-sutra)* can mean “fast/quick” or “quickly” depending on its use:
+Note that *[pelnimre](/glossary/#pelnimre)* is a lujvo for “lemon”; it is derived from the gismu *[pelxu](/glossary/#pelxu)*, yellow, and *[nimre](/glossary/#nimre)*, citrus. Note also that *[sutra](/glossary/#sutra)* can mean “fast/quick” or “quickly” depending on its use:
 
 ##### Example 5.9.
 
@@ -146,9 +146,9 @@ Note that *[pelnimre](/glossary/#valsi-pelnimre)* is a lujvo for “lemon”; it
 
 
 
-shows *[sutra](/glossary/#valsi-sutra)* used to translate an adjective, whereas in [Example 5.8](/chapter05/#example-random-id-eD63 "Example 5.8. ") it is translating an adverb. (Another correct translation of [Example 5.8](/chapter05/#example-random-id-eD63 "Example 5.8. "), however, would be “I am a quick runner”.)
+shows *[sutra](/glossary/#sutra)* used to translate an adjective, whereas in [Example 5.8](/chapter05/#example-random-id-eD63 "Example 5.8. ") it is translating an adverb. (Another correct translation of [Example 5.8](/chapter05/#example-random-id-eD63 "Example 5.8. "), however, would be “I am a quick runner”.)
 
-There are special Lojban terms for the two components of a tanru, derived from the place structure of the word *[tanru](/glossary/#valsi-tanru)*. The first component is called the *[seltau](/glossary/#valsi-seltau)*, and the second component is called the *[tertau](/glossary/#valsi-tertau)*.
+There are special Lojban terms for the two components of a tanru, derived from the place structure of the word *[tanru](/glossary/#tanru)*. The first component is called the *[seltau](/glossary/#seltau)*, and the second component is called the *[tertau](/glossary/#tertau)*.
 
 The most important rule for use in interpreting tanru is that the tertau carries the primary meaning. A *pelnimre tricu* is primarily a tree, and only secondarily is it connected with lemons in some way. For this reason, an alternative translation of [Example 5.6](/chapter05/#example-lemon-tree "Example 5.6. ") would be:
 
@@ -221,7 +221,7 @@ No general theory covering the meaning of all possible tanru exists; probably no
 
 
 
-are parallel tanru, in the sense that the relationship between *[barda](/glossary/#valsi-barda)* and *[prenu](/glossary/#valsi-prenu)* is the same as that between *[cmalu](/glossary/#valsi-cmalu)* and *[prenu](/glossary/#valsi-prenu)*. [Section 5.14](/chapter05/#section-asymmetric-tanru "5.14. Some types of asymmetrical tanru") and [Section 5.15](/chapter05/#section-symmetric-tanru "5.15. Some types of symmetrical tanru") contain a partial listing of some types of tanru, with examples.
+are parallel tanru, in the sense that the relationship between *[barda](/glossary/#barda)* and *[prenu](/glossary/#prenu)* is the same as that between *[cmalu](/glossary/#cmalu)* and *[prenu](/glossary/#prenu)*. [Section 5.14](/chapter05/#section-asymmetric-tanru "5.14. Some types of asymmetrical tanru") and [Section 5.15](/chapter05/#section-symmetric-tanru "5.15. Some types of symmetrical tanru") contain a partial listing of some types of tanru, with examples.
 
 ## Three-part tanru grouping with *bo*
 
@@ -255,7 +255,7 @@ That's a school for little girls.
 
 This ambiguity is quite different from the simple tanru ambiguity described in [Section 5.2](/chapter05/#section-simple-tanru "5.2. Simple tanru"). We understand that “girls' school” means “a school where girls are the students”, and not “a school where girls are the teachers” or “a school which is a girl” (!). Likewise, we understand that “little girl” means “girl who is small”. This is an ambiguity of grouping. Is “girls' school” to be taken as a unit, with “little” specifying the type of girls' school? Or is “little girl” to be taken as a unit, specifying the type of school? In English speech, different tones of voice, or exaggerated speech rhythm showing the grouping, are used to make the distinction; English writing usually leaves it unrepresented.
 
-Lojban makes no use of tones of voice for any purpose; explicit words are used to do the work. The cmavo *[bo](/glossary/#valsi-bo)* (which belongs to selma'o BO) may be placed between the two brivla which are most closely associated. Therefore, a Lojban translation of [Example 5.17](/chapter05/#example-random-id-5UBW "Example 5.17. ") would be:
+Lojban makes no use of tones of voice for any purpose; explicit words are used to do the work. The cmavo *[bo](/glossary/#bo)* (which belongs to selma'o BO) may be placed between the two brivla which are most closely associated. Therefore, a Lojban translation of [Example 5.17](/chapter05/#example-random-id-5UBW "Example 5.17. ") would be:
 
 ##### Example 5.19.
 
@@ -277,9 +277,9 @@ Lojban makes no use of tones of voice for any purpose; explicit words are used t
 
 
 
-The *[bo](/glossary/#valsi-bo)* is represented in the literal translation by a bracketed hyphen (not to be confused with the bare hyphen used as a placeholder in other glosses) because in written English a hyphen is sometimes used for the same purpose: “a big dog-catcher” would be quite different from a “big-dog catcher” (presumably someone who catches only big dogs).
+The *[bo](/glossary/#bo)* is represented in the literal translation by a bracketed hyphen (not to be confused with the bare hyphen used as a placeholder in other glosses) because in written English a hyphen is sometimes used for the same purpose: “a big dog-catcher” would be quite different from a “big-dog catcher” (presumably someone who catches only big dogs).
 
-Analysis of [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. ") and [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. ") reveals a tanru nested within a tanru. In [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. "), the main tanru has a seltau of *[cmalu](/glossary/#valsi-cmalu)* and a tertau of *nixli bo ckule*; the tertau is itself a tanru with *[nixli](/glossary/#valsi-nixli)* as the seltau and *[ckule](/glossary/#valsi-ckule)* as the tertau. In [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. "), on the other hand, the seltau is *cmalu bo nixli* (itself a tanru), whereas the tertau is *[ckule](/glossary/#valsi-ckule)*. This structure of tanru nested within tanru forms the basis for all the more complex types of selbri that will be explained below.
+Analysis of [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. ") and [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. ") reveals a tanru nested within a tanru. In [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. "), the main tanru has a seltau of *[cmalu](/glossary/#cmalu)* and a tertau of *nixli bo ckule*; the tertau is itself a tanru with *[nixli](/glossary/#nixli)* as the seltau and *[ckule](/glossary/#ckule)* as the tertau. In [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. "), on the other hand, the seltau is *cmalu bo nixli* (itself a tanru), whereas the tertau is *[ckule](/glossary/#ckule)*. This structure of tanru nested within tanru forms the basis for all the more complex types of selbri that will be explained below.
 
 What about [Example 5.21](/chapter05/#example-random-id-9FPm "Example 5.21. ")? What does it mean?
 
@@ -316,7 +316,7 @@ Another way to express the English meaning of [Example 5.19](/chapter05/#example
 
 Because “type-of” is implicit in the Lojban tanru form, it has no Lojban equivalent.
 
-Note: It is perfectly legal, though pointless, to insert *[bo](/glossary/#valsi-bo)* into a simple tanru:
+Note: It is perfectly legal, though pointless, to insert *[bo](/glossary/#bo)* into a simple tanru:
 
 ##### Example 5.24.
 
@@ -327,7 +327,7 @@ Note: It is perfectly legal, though pointless, to insert *[bo](/glossary/#valsi-
 
 
 
-is a legal Lojban bridi that means exactly the same thing as [Example 5.13](/chapter05/#example-random-id-aIfM "Example 5.13. "), and is ambiguous in exactly the same ways. The cmavo *[bo](/glossary/#valsi-bo)* serves only to resolve grouping ambiguity: it says nothing about the more basic ambiguity present in all tanru.
+is a legal Lojban bridi that means exactly the same thing as [Example 5.13](/chapter05/#example-random-id-aIfM "Example 5.13. "), and is ambiguous in exactly the same ways. The cmavo *[bo](/glossary/#bo)* serves only to resolve grouping ambiguity: it says nothing about the more basic ambiguity present in all tanru.
 
 ## Complex tanru grouping
 
@@ -348,7 +348,7 @@ If one element of a tanru can be another tanru, why not both elements?
 
 In [Example 5.25](/chapter05/#example-random-id-m5SD "Example 5.25. "), the selbri is a tanru with seltau *mutce bo barda* and tertau *gerku bo kavbu*. It is worth emphasizing once again that this tanru has the same fundamental ambiguity as all other Lojban tanru: the sense in which the “dog type-of capturer” is said to be “very type-of large” is not precisely specified. Presumably it is his body which is large, but theoretically it could be one of his other properties.
 
-We will now justify the title of this chapter by exploring the ramifications of the phrase “pretty little girls' school”, an expansion of the tanru used in [Section 5.3](/chapter05/#section-three-part-tanru "5.3. Three-part tanru grouping with bo") to four brivla. (Although this example has been used in the Loglan Project almost since the beginning – it first appeared in Quine's book *Word and Object* (1960) – it is actually a mediocre example because of the ambiguity of English “pretty”; it can mean “beautiful”, the sense intended here, or it can mean “very”. Lojban *[melbi](/glossary/#valsi-melbi)* is not subject to this ambiguity: it means only “beautiful”.)
+We will now justify the title of this chapter by exploring the ramifications of the phrase “pretty little girls' school”, an expansion of the tanru used in [Section 5.3](/chapter05/#section-three-part-tanru "5.3. Three-part tanru grouping with bo") to four brivla. (Although this example has been used in the Loglan Project almost since the beginning – it first appeared in Quine's book *Word and Object* (1960) – it is actually a mediocre example because of the ambiguity of English “pretty”; it can mean “beautiful”, the sense intended here, or it can mean “very”. Lojban *[melbi](/glossary/#melbi)* is not subject to this ambiguity: it means only “beautiful”.)
 
 Here are four ways to group this phrase:
 
@@ -404,7 +404,7 @@ Here are four ways to group this phrase:
 
 
 
-[Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. ") uses a construction which has not been seen before: *cmalu bo nixli bo ckule*, with two consecutive uses of *[bo](/glossary/#valsi-bo)* between brivla. The rule for multiple *[bo](/glossary/#valsi-bo)* constructions is the opposite of the rule when no *[bo](/glossary/#valsi-bo)* is present at all: the last two are grouped together. Not surprisingly, this is called the “right-grouping rule”, and it is associated with every use of *[bo](/glossary/#valsi-bo)* in the language. Therefore,
+[Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. ") uses a construction which has not been seen before: *cmalu bo nixli bo ckule*, with two consecutive uses of *[bo](/glossary/#bo)* between brivla. The rule for multiple *[bo](/glossary/#bo)* constructions is the opposite of the rule when no *[bo](/glossary/#bo)* is present at all: the last two are grouped together. Not surprisingly, this is called the “right-grouping rule”, and it is associated with every use of *[bo](/glossary/#bo)* in the language. Therefore,
 
 ##### Example 5.30.
 
@@ -415,7 +415,7 @@ Here are four ways to group this phrase:
 
 
 
-means the same as [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. "), not [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. "). This rule may seem peculiar at first, but one of its consequences is that *[bo](/glossary/#valsi-bo)* is never necessary between the first two elements of any of the complex tanru presented so far: all of [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") through [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. ") could have *[bo](/glossary/#valsi-bo)* inserted between *[melbi](/glossary/#valsi-melbi)* and *[cmalu](/glossary/#valsi-cmalu)* with no change in meaning.
+means the same as [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. "), not [Example 5.20](/chapter05/#example-random-id-jquh "Example 5.20. "). This rule may seem peculiar at first, but one of its consequences is that *[bo](/glossary/#bo)* is never necessary between the first two elements of any of the complex tanru presented so far: all of [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") through [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. ") could have *[bo](/glossary/#bo)* inserted between *[melbi](/glossary/#melbi)* and *[cmalu](/glossary/#cmalu)* with no change in meaning.
 
 ## Complex tanru with *ke* and *ke'e*
 
@@ -426,7 +426,7 @@ The following cmavo are discussed in this section:
 | ke   | KE   | start grouping |
 | ke'e | KEhE | end grouping   |
 
-There is, in fact, a fifth grouping of “pretty little girls' school” that cannot be expressed with the resources explained so far. To handle it, we must introduce the grouping parentheses cmavo, *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* (belonging to selma'o KE and KEhE respectively). Any portion of a selbri sandwiched between these two cmavo is taken to be a single tanru component, independently of what is adjacent to it. Thus, [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") can be rewritten in any of the following ways:
+There is, in fact, a fifth grouping of “pretty little girls' school” that cannot be expressed with the resources explained so far. To handle it, we must introduce the grouping parentheses cmavo, *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* (belonging to selma'o KE and KEhE respectively). Any portion of a selbri sandwiched between these two cmavo is taken to be a single tanru component, independently of what is adjacent to it. Thus, [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") can be rewritten in any of the following ways:
 
 ##### Example 5.31.
 
@@ -455,7 +455,7 @@ There is, in fact, a fifth grouping of “pretty little girls' school” that ca
 
 
 
-Even more versions could be created simply by placing any number of *[ke](/glossary/#valsi-ke)* cmavo at the beginning of the selbri, and a like number of *[ke'e](/glossary/#valsi-kehe)* cmavo at its end. Obviously, all of these are a waste of breath once the left-grouping rule has been grasped. However, the following is equivalent to [Example 5.28](/chapter05/#example-random-id-qjog "Example 5.28. ") and may be easier to understand:
+Even more versions could be created simply by placing any number of *[ke](/glossary/#ke)* cmavo at the beginning of the selbri, and a like number of *[ke'e](/glossary/#kee)* cmavo at its end. Obviously, all of these are a waste of breath once the left-grouping rule has been grasped. However, the following is equivalent to [Example 5.28](/chapter05/#example-random-id-qjog "Example 5.28. ") and may be easier to understand:
 
 ##### Example 5.34.
 
@@ -466,7 +466,7 @@ Even more versions could be created simply by placing any number of *[ke](/gloss
 
 
 
-Likewise, a *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* version of [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. ") would be:
+Likewise, a *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* version of [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. ") would be:
 
 ##### Example 5.35.
 
@@ -477,7 +477,7 @@ Likewise, a *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* vers
 
 
 
-The final *[ke'e](/glossary/#valsi-kehe)* is given in square brackets here to indicate that it can be elided. It is always possible to elide *[ke'e](/glossary/#valsi-kehe)* at the end of the selbri, making [Example 5.35](/chapter05/#example-random-id-AUdM "Example 5.35. ") as terse as [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. ").
+The final *[ke'e](/glossary/#kee)* is given in square brackets here to indicate that it can be elided. It is always possible to elide *[ke'e](/glossary/#kee)* at the end of the selbri, making [Example 5.35](/chapter05/#example-random-id-AUdM "Example 5.35. ") as terse as [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. ").
 
 Now how about that fifth grouping? It is
 
@@ -494,9 +494,9 @@ Now how about that fifth grouping? It is
 
 
 
-[Example 5.36](/chapter05/#example-random-id-tz0L "Example 5.36. ") is distinctly different in meaning from any of [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") through [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "). Note that within the *[ke'e](/glossary/#valsi-kehe)* parentheses, the left-grouping rule is applied to *cmalu nixli ckule*.
+[Example 5.36](/chapter05/#example-random-id-tz0L "Example 5.36. ") is distinctly different in meaning from any of [Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. ") through [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "). Note that within the *[ke'e](/glossary/#kee)* parentheses, the left-grouping rule is applied to *cmalu nixli ckule*.
 
-It is perfectly all right to mix *[bo](/glossary/#valsi-bo)* and *[ke'e](/glossary/#valsi-kehe)* in a single selbri. For instance, [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "), which in pure *[ke'e](/glossary/#valsi-kehe)* form is
+It is perfectly all right to mix *[bo](/glossary/#bo)* and *[ke'e](/glossary/#kee)* in a single selbri. For instance, [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "), which in pure *[ke'e](/glossary/#kee)* form is
 
 ##### Example 5.37.
 
@@ -561,7 +561,7 @@ will not do, as it means a dog whose redness is big, in whatever way redness mig
 
 much better. After all, the straightforward understanding of the English phrase is that the dog is big as compared with other dogs, not merely as compared with other red dogs. In fact, the bigness and redness are independent properties of the dog, and only obscure rules of English adjective ordering prevent us from saying “red big dog”.
 
-The Lojban approach to this problem is to introduce the cmavo *[je](/glossary/#valsi-je)*, which is one of the many equivalents of English “and”. A big red dog is one that is both big and red, and we can say:
+The Lojban approach to this problem is to introduce the cmavo *[je](/glossary/#je)*, which is one of the many equivalents of English “and”. A big red dog is one that is both big and red, and we can say:
 
 ##### Example 5.41.
 
@@ -583,7 +583,7 @@ Of course,
 
 
 
-is equally satisfactory and means the same thing. As these examples indicate, joining two brivla with *[je](/glossary/#valsi-je)* makes them a unit for tanru purposes. However, explicit grouping with *[bo](/glossary/#valsi-bo)* or *[ke'e](/glossary/#valsi-kehe)* associates brivla more closely than *[je](/glossary/#valsi-je)* does:
+is equally satisfactory and means the same thing. As these examples indicate, joining two brivla with *[je](/glossary/#je)* makes them a unit for tanru purposes. However, explicit grouping with *[bo](/glossary/#bo)* or *[ke'e](/glossary/#kee)* associates brivla more closely than *[je](/glossary/#je)* does:
 
 ##### Example 5.43.
 
@@ -620,7 +620,7 @@ With no grouping indicators, we get:
 
 which again raises the question of [Example 5.39](/chapter05/#example-random-id-riAq "Example 5.39. "): what does “biggish-red” mean?
 
-Unlike *[bo](/glossary/#valsi-bo)* and *[ke'e](/glossary/#valsi-kehe)*, *[je](/glossary/#valsi-je)* is useful as well as merely legal within simple tanru. It may be used to partly resolve the ambiguity of simple tanru:
+Unlike *[bo](/glossary/#bo)* and *[ke'e](/glossary/#kee)*, *[je](/glossary/#je)* is useful as well as merely legal within simple tanru. It may be used to partly resolve the ambiguity of simple tanru:
 
 ##### Example 5.45.
 
@@ -633,7 +633,7 @@ Unlike *[bo](/glossary/#valsi-bo)* and *[ke'e](/glossary/#valsi-kehe)*, *[je](/g
 
 definitely refers to something which is both blue and is a house, and not to any of the other possible interpretations of simple *blanu zdani*. Furthermore, *blanu zdani* refers to something which is blue in the way that houses are blue; *blanu je zdani* has no such implication – the blueness of a *blanu je zdani* is independent of its houseness.
 
-With the addition of *[je](/glossary/#valsi-je)*, many more versions of “pretty little girls' school” are made possible: see [Section 5.16](/chapter05/#section-pretty-school-groupings "5.16. “Pretty little girls' school”: forty ways to say it") for a complete list.
+With the addition of *[je](/glossary/#je)*, many more versions of “pretty little girls' school” are made possible: see [Section 5.16](/chapter05/#section-pretty-school-groupings "5.16. “Pretty little girls' school”: forty ways to say it") for a complete list.
 
 A subtle point in the semantics of tanru like [Example 5.41](/chapter05/#example-random-id-0UrF "Example 5.41. ") needs special elucidation. There are at least two possible interpretations of:
 
@@ -685,7 +685,7 @@ so while the logical connectives help to resolve the meaning of tanru, they by n
 
 In general, logical connectives within tanru cannot undergo the formal manipulations that are possible with the related logical connectives that exist outside tanru; see [Section 14.12](/chapter14/#section-tanru "14.12. Logical connection within tanru") for further details.
 
-The logical connective *[je](/glossary/#valsi-je)* is only one of the fourteen logical connectives that Lojban provides. Here are a few examples of some of the others:
+The logical connective *[je](/glossary/#je)* is only one of the fourteen logical connectives that Lojban provides. Here are a few examples of some of the others:
 
 ##### Example 5.51.
 
@@ -738,7 +738,7 @@ The logical connective *[je](/glossary/#valsi-je)* is only one of the fourteen l
 
 
 
-In [Example 5.51](/chapter05/#example-random-id-qJse "Example 5.51. "), *[ja](/glossary/#valsi-ja)* is grammatically equivalent to *[je](/glossary/#valsi-je)* but means “or” (more precisely, “and/or”). Likewise, *[naja](/glossary/#valsi-naja)* means “only if” in [Example 5.52](/chapter05/#example-random-id-qJsg "Example 5.52. "), *[jo](/glossary/#valsi-jo)* means “if and only if” in [Example 5.53](/chapter05/#example-random-id-qjsy "Example 5.53. "), and *[ju](/glossary/#valsi-ju)* means “whether or not” in [Example 5.54](/chapter05/#example-random-id-qjtD "Example 5.54. ").
+In [Example 5.51](/chapter05/#example-random-id-qJse "Example 5.51. "), *[ja](/glossary/#ja)* is grammatically equivalent to *[je](/glossary/#je)* but means “or” (more precisely, “and/or”). Likewise, *[naja](/glossary/#naja)* means “only if” in [Example 5.52](/chapter05/#example-random-id-qJsg "Example 5.52. "), *[jo](/glossary/#jo)* means “if and only if” in [Example 5.53](/chapter05/#example-random-id-qjsy "Example 5.53. "), and *[ju](/glossary/#ju)* means “whether or not” in [Example 5.54](/chapter05/#example-random-id-qjtD "Example 5.54. ").
 
 Now consider the following example:
 
@@ -751,7 +751,7 @@ Now consider the following example:
 
 
 
-which illustrates a new grammatical feature: the use of both *[ja](/glossary/#valsi-ja)* and *[bo](/glossary/#valsi-bo)* between tanru components. The two cmavo combine to form a compound whose meaning is that of *[ja](/glossary/#valsi-ja)* but which groups more closely; *[bo](/glossary/#valsi-bo)* is to *[ja](/glossary/#valsi-ja)* as plain *[bo](/glossary/#valsi-bo)* is to no cmavo at all. However, both *[ja](/glossary/#valsi-ja)* and *[bo](/glossary/#valsi-bo)* group less closely than *[bo](/glossary/#valsi-bo)* does:
+which illustrates a new grammatical feature: the use of both *[ja](/glossary/#ja)* and *[bo](/glossary/#bo)* between tanru components. The two cmavo combine to form a compound whose meaning is that of *[ja](/glossary/#ja)* but which groups more closely; *[bo](/glossary/#bo)* is to *[ja](/glossary/#ja)* as plain *[bo](/glossary/#bo)* is to no cmavo at all. However, both *[ja](/glossary/#ja)* and *[bo](/glossary/#bo)* group less closely than *[bo](/glossary/#bo)* does:
 
 ##### Example 5.56.
 
@@ -777,7 +777,7 @@ An alternative form of [Example 5.55](/chapter05/#example-random-id-NuWM "Exampl
 
 
 
-In addition to the logical connectives, there are also a variety of non-logical connectives, grammatically equivalent to the logical ones. The only one with a well-understood meaning in tanru contexts is *[joi](/glossary/#valsi-joi)*, which is the kind of “and” that denotes a mixture:
+In addition to the logical connectives, there are also a variety of non-logical connectives, grammatically equivalent to the logical ones. The only one with a well-understood meaning in tanru contexts is *[joi](/glossary/#joi)*, which is the kind of “and” that denotes a mixture:
 
 ##### Example 5.58.
 
@@ -802,7 +802,7 @@ The ball described is neither solely red nor solely blue, but probably striped o
 
 
 
-which would be a ball whose color is some sort of purple tending toward red, since *[xunre](/glossary/#valsi-xunre)* is the more important of the two components. On the other hand,
+which would be a ball whose color is some sort of purple tending toward red, since *[xunre](/glossary/#xunre)* is the more important of the two components. On the other hand,
 
 ##### Example 5.60.
 
@@ -815,7 +815,7 @@ which would be a ball whose color is some sort of purple tending toward red, sin
 
 is probably self-contradictory, seeming to claim that the ball is independently both blue and red at the same time, although some sensible interpretation may exist.
 
-Finally, just as English “and” has the variant form “both ... and”, so *[je](/glossary/#valsi-je)* between tanru components has the variant form *[gi](/glossary/#valsi-gi)*, where *[gu'e](/glossary/#valsi-guhe)* is placed before the components and *[gi](/glossary/#valsi-gi)* between them:
+Finally, just as English “and” has the variant form “both ... and”, so *[je](/glossary/#je)* between tanru components has the variant form *[gi](/glossary/#gi)*, where *[gu'e](/glossary/#gue)* is placed before the components and *[gi](/glossary/#gi)* between them:
 
 ##### Example 5.61.
 
@@ -826,9 +826,9 @@ Finally, just as English “and” has the variant form “both ... and”, so *
 
 
 
-is equivalent in meaning to [Example 5.41](/chapter05/#example-random-id-0UrF "Example 5.41. "). For each logical connective related to *[je](/glossary/#valsi-je)*, there is a corresponding connective related to *[gi](/glossary/#valsi-gi)* in a systematic way.
+is equivalent in meaning to [Example 5.41](/chapter05/#example-random-id-0UrF "Example 5.41. "). For each logical connective related to *[je](/glossary/#je)*, there is a corresponding connective related to *[gi](/glossary/#gi)* in a systematic way.
 
-The portion of a *[gi](/glossary/#valsi-gi)* construction before the *[gi](/glossary/#valsi-gi)* is a full selbri, and may use any of the selbri resources including *[je](/glossary/#valsi-je)* logical connections. After the *[gi](/glossary/#valsi-gi)*, logical connections are taken to be wider in scope than the *[gi](/glossary/#valsi-gi)*, which has in effect the same scope as *[bo](/glossary/#valsi-bo)*:
+The portion of a *[gi](/glossary/#gi)* construction before the *[gi](/glossary/#gi)* is a full selbri, and may use any of the selbri resources including *[je](/glossary/#je)* logical connections. After the *[gi](/glossary/#gi)*, logical connections are taken to be wider in scope than the *[gi](/glossary/#gi)*, which has in effect the same scope as *[bo](/glossary/#bo)*:
 
 ##### Example 5.62.
 
@@ -843,7 +843,7 @@ The portion of a *[gi](/glossary/#valsi-gi)* construction before the *[gi](/glos
 
 
 
-leaves *[mlatu](/glossary/#valsi-mlatu)* outside the *[gi](/glossary/#valsi-gi)* construction. The scope of the *[gi](/glossary/#valsi-gi)* arm extends only to a single brivla or to two or more brivla connected with *[bo](/glossary/#valsi-bo)* or *[ke'e](/glossary/#valsi-kehe)*.
+leaves *[mlatu](/glossary/#mlatu)* outside the *[gi](/glossary/#gi)* construction. The scope of the *[gi](/glossary/#gi)* arm extends only to a single brivla or to two or more brivla connected with *[bo](/glossary/#bo)* or *[ke'e](/glossary/#kee)*.
 
 ## Linked sumti: *be*-*bei*-*be'o*
 
@@ -855,11 +855,11 @@ The following cmavo are discussed in this section:
 | bei  | BEI  | linked sumti separator  |
 | be'o | BEhO | linked sumti terminator |
 
-The question of the place structures of selbri has been glossed over so far. This chapter does not attempt to treat place structure issues in detail; they are discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"). One grammatical structure related to places belongs here, however. In simple sentences such as [Example 5.1](/chapter05/#example-do-mamta-mi "Example 5.1. "), the place structure of the selbri is simply the defined place structure of the gismu *[mamta](/glossary/#valsi-mamta)*. What about more complex selbri?
+The question of the place structures of selbri has been glossed over so far. This chapter does not attempt to treat place structure issues in detail; they are discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"). One grammatical structure related to places belongs here, however. In simple sentences such as [Example 5.1](/chapter05/#example-do-mamta-mi "Example 5.1. "), the place structure of the selbri is simply the defined place structure of the gismu *[mamta](/glossary/#mamta)*. What about more complex selbri?
 
-For tanru, the place structure rule is simple: the place structure of a tanru is always the place structure of its tertau. Thus, the place structure of *blanu zdani* is that of *[zdani](/glossary/#valsi-zdani)*: the x1 place is a house or nest, and the x2 place is its occupants.
+For tanru, the place structure rule is simple: the place structure of a tanru is always the place structure of its tertau. Thus, the place structure of *blanu zdani* is that of *[zdani](/glossary/#zdani)*: the x1 place is a house or nest, and the x2 place is its occupants.
 
-What about the places of *[blanu](/glossary/#valsi-blanu)*? Is there any way to get them into the act? In fact, *[blanu](/glossary/#valsi-blanu)* has only one place, and this is merged, as it were, with the x1 place of *[zdani](/glossary/#valsi-zdani)*. It is whatever is in the x1 place that is being characterized as blue-for-a-house. But if we replace *[blanu](/glossary/#valsi-blanu)* with *[xamgu](/glossary/#valsi-xamgu)*, we get:
+What about the places of *[blanu](/glossary/#blanu)*? Is there any way to get them into the act? In fact, *[blanu](/glossary/#blanu)* has only one place, and this is merged, as it were, with the x1 place of *[zdani](/glossary/#zdani)*. It is whatever is in the x1 place that is being characterized as blue-for-a-house. But if we replace *[blanu](/glossary/#blanu)* with *[xamgu](/glossary/#xamgu)*, we get:
 
 ##### Example 5.63.
 
@@ -874,7 +874,7 @@ What about the places of *[blanu](/glossary/#valsi-blanu)*? Is there any way to 
 
 
 
-Since *[xamgu](/glossary/#valsi-xamgu)* has three places (x1, the good thing; x2, the person for whom it is good; and x3, the standard of goodness), [Example 5.63](/chapter05/#example-random-id-tffW "Example 5.63. ") necessarily omits information about the last two: there is no room for them. Room can be made, however!
+Since *[xamgu](/glossary/#xamgu)* has three places (x1, the good thing; x2, the person for whom it is good; and x3, the standard of goodness), [Example 5.63](/chapter05/#example-random-id-tffW "Example 5.63. ") necessarily omits information about the last two: there is no room for them. Room can be made, however!
 
 ##### Example 5.64.
 
@@ -889,7 +889,7 @@ Since *[xamgu](/glossary/#valsi-xamgu)* has three places (x1, the good thing; x2
 
 
 
-Here, the gismu *[xamgu](/glossary/#valsi-xamgu)* has been followed by the cmavo *[be](/glossary/#valsi-be)* (of selma'o BE), which signals that one or more sumti follows. These sumti are not part of the overall bridi place structure, but fill the places of the brivla they are attached to, starting with x2. If there is more than one sumti, they are separated by the cmavo *[bei](/glossary/#valsi-bei)* (of selma'o BEI), and the list of sumti is terminated by the elidable terminator *[be'o](/glossary/#valsi-beho)* (of selma'o BEhO).
+Here, the gismu *[xamgu](/glossary/#xamgu)* has been followed by the cmavo *[be](/glossary/#be)* (of selma'o BE), which signals that one or more sumti follows. These sumti are not part of the overall bridi place structure, but fill the places of the brivla they are attached to, starting with x2. If there is more than one sumti, they are separated by the cmavo *[bei](/glossary/#bei)* (of selma'o BEI), and the list of sumti is terminated by the elidable terminator *[be'o](/glossary/#beo)* (of selma'o BEhO).
 
 Grammatically, a brivla with sumti linked to it in this fashion plays the same role in tanru as a simple brivla. To illustrate, here is a fully fleshed-out version of [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. "), with all places filled in:
 
@@ -941,7 +941,7 @@ Grammatically, a brivla with sumti linked to it in this fashion plays the same r
 
 
 
-Here the three places of *[cmalu](/glossary/#valsi-cmalu)*, the three of *[nixli](/glossary/#valsi-nixli)*, and the four of *[ckule](/glossary/#valsi-ckule)* are fully specified. Since the places of *[ckule](/glossary/#valsi-ckule)* are the places of the bridi as a whole, it was not necessary to link the sumti which follow *[ckule](/glossary/#valsi-ckule)*. It would have been legal to do so, however:
+Here the three places of *[cmalu](/glossary/#cmalu)*, the three of *[nixli](/glossary/#nixli)*, and the four of *[ckule](/glossary/#ckule)* are fully specified. Since the places of *[ckule](/glossary/#ckule)* are the places of the bridi as a whole, it was not necessary to link the sumti which follow *[ckule](/glossary/#ckule)*. It would have been legal to do so, however:
 
 ##### Example 5.66.
 
@@ -978,9 +978,9 @@ No matter how complex a tanru gets, the last brivla always dictates the place st
 
 
 
-is simply that of *[ckule](/glossary/#valsi-ckule)*. (The sole exception to this rule is discussed in [Section 5.8](/chapter05/#section-co-inversion "5.8. Inversion of tanru: co").)
+is simply that of *[ckule](/glossary/#ckule)*. (The sole exception to this rule is discussed in [Section 5.8](/chapter05/#section-co-inversion "5.8. Inversion of tanru: co").)
 
-It is possible to precede linked sumti by the place structure ordering tags *[fe](/glossary/#valsi-fe)*, *[fi](/glossary/#valsi-fi)*, *[fo](/glossary/#valsi-fo)*, and *[fu](/glossary/#valsi-fu)* (of selma'o FA, discussed further in [Section 9.3](/chapter09/#section-FA "9.3. Tagging places: FA")), which serve to explicitly specify the x2, x3, x4, and x5 places respectively. Normally, the place following the *[be](/glossary/#valsi-be)* is the x2 place and the other places follow in order. If it seems convenient to change the order, however, it can be accomplished as follows:
+It is possible to precede linked sumti by the place structure ordering tags *[fe](/glossary/#fe)*, *[fi](/glossary/#fi)*, *[fo](/glossary/#fo)*, and *[fu](/glossary/#fu)* (of selma'o FA, discussed further in [Section 9.3](/chapter09/#section-FA "9.3. Tagging places: FA")), which serve to explicitly specify the x2, x3, x4, and x5 places respectively. Normally, the place following the *[be](/glossary/#be)* is the x2 place and the other places follow in order. If it seems convenient to change the order, however, it can be accomplished as follows:
 
 ##### Example 5.69.
 
@@ -991,7 +991,7 @@ It is possible to precede linked sumti by the place structure ordering tags *[fe
 
 
 
-which is equivalent in meaning to [Example 5.64](/chapter05/#example-random-id-Uuio "Example 5.64. "). Note that the order of *[be](/glossary/#valsi-be)*, *[bei](/glossary/#valsi-bei)*, and *[be'o](/glossary/#valsi-beho)* does not change; only the inserted *[fi](/glossary/#valsi-fi)* tells us that *[mi](/glossary/#valsi-mi)* is the x3 place (and correspondingly, the inserted *[fe](/glossary/#valsi-fe)* tells us that *[do](/glossary/#valsi-do)* is the x2 place). Changing the order of sumti is often done to match the order of another language, or for emphasis or rhythm.
+which is equivalent in meaning to [Example 5.64](/chapter05/#example-random-id-Uuio "Example 5.64. "). Note that the order of *[be](/glossary/#be)*, *[bei](/glossary/#bei)*, and *[be'o](/glossary/#beo)* does not change; only the inserted *[fi](/glossary/#fi)* tells us that *[mi](/glossary/#mi)* is the x3 place (and correspondingly, the inserted *[fe](/glossary/#fe)* tells us that *[do](/glossary/#do)* is the x2 place). Changing the order of sumti is often done to match the order of another language, or for emphasis or rhythm.
 
 Of course, using FA cmavo makes it easy to specify one place while omitting a previous place:
 
@@ -1040,7 +1040,7 @@ The meaning of [Example 5.71](/chapter05/#example-random-id-GstI "Example 5.71. 
 
 See discussions in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals") of modals and in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System") of tenses for more explanations.
 
-The terminator *[be'o](/glossary/#valsi-beho)* is almost always elidable: however, if the selbri belongs to a description, then a relative clause following it will attach to the last linked sumti unless *[be'o](/glossary/#valsi-beho)* is used, in which case it will attach to the outer description:
+The terminator *[be'o](/glossary/#beo)* is almost always elidable: however, if the selbri belongs to a description, then a relative clause following it will attach to the last linked sumti unless *[be'o](/glossary/#beo)* is used, in which case it will attach to the outer description:
 
 ##### Example 5.73.
 
@@ -1062,7 +1062,7 @@ The terminator *[be'o](/glossary/#valsi-beho)* is almost always elidable: howeve
 
 (Relative clauses are explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated").)
 
-In other cases, however, *[be'o](/glossary/#valsi-beho)* cannot be elided if *[ku](/glossary/#valsi-ku)* has also been elided:
+In other cases, however, *[be'o](/glossary/#beo)* cannot be elided if *[ku](/glossary/#ku)* has also been elided:
 
 ##### Example 5.75.
 
@@ -1073,7 +1073,7 @@ In other cases, however, *[be'o](/glossary/#valsi-beho)* cannot be elided if *[k
 
 
 
-requires either *[ku](/glossary/#valsi-ku)* or *[be'o](/glossary/#valsi-beho)*, and since there is only one occurrence of *[be](/glossary/#valsi-be)*, the *[be'o](/glossary/#valsi-beho)* must match it, whereas it may be confusing which occurrence of *[le](/glossary/#valsi-le)* the *[ku](/glossary/#valsi-ku)* terminates (in fact the second one is correct).
+requires either *[ku](/glossary/#ku)* or *[be'o](/glossary/#beo)*, and since there is only one occurrence of *[be](/glossary/#be)*, the *[be'o](/glossary/#beo)* must match it, whereas it may be confusing which occurrence of *[le](/glossary/#le)* the *[ku](/glossary/#ku)* terminates (in fact the second one is correct).
 
 ## Inversion of tanru: *co*
 
@@ -1083,7 +1083,7 @@ The following cmavo is discussed in this section:
 | --- | --- | ---------------------- |
 | co  | CO  | tanru inversion marker |
 
-The standard order of Lojban tanru, whereby the modifier precedes what it modifies, is very natural to English-speakers: we talk of “blue houses”, not of “houses blue”. In other languages, however, such matters are differently arranged, and Lojban supports this reverse order (tertau before seltau) by inserting the particle *[co](/glossary/#valsi-co)*. [Example 5.76](/chapter05/#example-random-id-qjtV "Example 5.76. ") and [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ") mean exactly the same thing:
+The standard order of Lojban tanru, whereby the modifier precedes what it modifies, is very natural to English-speakers: we talk of “blue houses”, not of “houses blue”. In other languages, however, such matters are differently arranged, and Lojban supports this reverse order (tertau before seltau) by inserting the particle *[co](/glossary/#co)*. [Example 5.76](/chapter05/#example-random-id-qjtV "Example 5.76. ") and [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ") mean exactly the same thing:
 
 ##### Example 5.76.
 
@@ -1111,9 +1111,9 @@ The standard order of Lojban tanru, whereby the modifier precedes what it modifi
 
 
 
-This change is called “tanru inversion”. In tanru inversion, the element before *[zdani](/glossary/#valsi-zdani)* in [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ")) is the tertau, and the element following *[blanu](/glossary/#valsi-blanu)*) in [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ")) is the seltau.
+This change is called “tanru inversion”. In tanru inversion, the element before *[zdani](/glossary/#zdani)* in [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ")) is the tertau, and the element following *[blanu](/glossary/#blanu)*) in [Example 5.77](/chapter05/#example-random-id-qjty "Example 5.77. ")) is the seltau.
 
-The meaning, and more specifically, the place structure, of a tanru is not affected by inversion: the place structure of *zdani co blanu* is still that of *[zdani](/glossary/#valsi-zdani)*. However, the existence of inversion in a selbri has a very special effect on any sumti which follow that selbri. Instead of being interpreted as filling places of the selbri, they actually fill the places (starting with x2) of the seltau. In [Section 5.7](/chapter05/#section-be-sumti "5.7. Linked sumti: be-bei-be'o"), we saw how to fill interior places with *[be'o](/glossary/#valsi-beho)*, and in fact [Example 5.78](/chapter05/#example-random-id-qjuc "Example 5.78. ") and [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. ") have the same meaning:
+The meaning, and more specifically, the place structure, of a tanru is not affected by inversion: the place structure of *zdani co blanu* is still that of *[zdani](/glossary/#zdani)*. However, the existence of inversion in a selbri has a very special effect on any sumti which follow that selbri. Instead of being interpreted as filling places of the selbri, they actually fill the places (starting with x2) of the seltau. In [Section 5.7](/chapter05/#section-be-sumti "5.7. Linked sumti: be-bei-be'o"), we saw how to fill interior places with *[be'o](/glossary/#beo)*, and in fact [Example 5.78](/chapter05/#example-random-id-qjuc "Example 5.78. ") and [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. ") have the same meaning:
 
 ##### Example 5.78.
 
@@ -1143,9 +1143,9 @@ The meaning, and more specifically, the place structure, of a tanru is not affec
 
 [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. ") is a less deeply nested construction, requiring fewer cmavo. As a result it is probably easier to understand.
 
-Note that in Lojban “trying to go” is expressed using *[troci](/glossary/#valsi-troci)* as the tertau. The reason is that “trying to go” is a “going type of trying”, not a “trying type of going”. The trying is more fundamental than the going – if the trying fails, we may not have a going at all.
+Note that in Lojban “trying to go” is expressed using *[troci](/glossary/#troci)* as the tertau. The reason is that “trying to go” is a “going type of trying”, not a “trying type of going”. The trying is more fundamental than the going – if the trying fails, we may not have a going at all.
 
-Any sumti which precede a selbri with an inverted tanru fill the places of the selbri (i.e., the places of the tertau) in the ordinary way. In [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. "), *[mi](/glossary/#valsi-mi)* fills the x1 place of *troci co klama*, which is the x1 place of *[troci](/glossary/#valsi-troci)*. The other places of the selbri remain unfilled. The trailing sumti *le zarci* and *le zdani* do not occupy selbri places, despite appearances.
+Any sumti which precede a selbri with an inverted tanru fill the places of the selbri (i.e., the places of the tertau) in the ordinary way. In [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. "), *[mi](/glossary/#mi)* fills the x1 place of *troci co klama*, which is the x1 place of *[troci](/glossary/#troci)*. The other places of the selbri remain unfilled. The trailing sumti *le zarci* and *le zdani* do not occupy selbri places, despite appearances.
 
 As a result, the regular mechanisms (involving selma'o VOhA and GOhI, explained in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi")) for referring to individual sumti of a bridi cannot refer to any of the trailing places of [Example 5.79](/chapter05/#example-random-id-qjVx "Example 5.79. "), because they are not really “sumti of the bridi” at all.
 
@@ -1164,7 +1164,7 @@ When inverting a more complex tanru, it is possible to invert it only at the mos
 
 
 
-Note that the *[bo](/glossary/#valsi-bo)* of [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. ") is optional in [Example 5.80](/chapter05/#example-random-id-7uS2 "Example 5.80. "), because *[co](/glossary/#valsi-co)* groups more loosely than any other cmavo used in tanru, including none at all. Not even *[ke'e](/glossary/#valsi-kehe)* parentheses can encompass a *[co](/glossary/#valsi-co)*:
+Note that the *[bo](/glossary/#bo)* of [Example 5.19](/chapter05/#example-random-id-nwuU "Example 5.19. ") is optional in [Example 5.80](/chapter05/#example-random-id-7uS2 "Example 5.80. "), because *[co](/glossary/#co)* groups more loosely than any other cmavo used in tanru, including none at all. Not even *[ke'e](/glossary/#kee)* parentheses can encompass a *[co](/glossary/#co)*:
 
 ##### Example 5.81.
 
@@ -1179,7 +1179,7 @@ Note that the *[bo](/glossary/#valsi-bo)* of [Example 5.19](/chapter05/#example-
 
 
 
-In [Example 5.81](/chapter05/#example-random-id-y501 "Example 5.81. "), the *[ke'e](/glossary/#valsi-kehe)* is automatically inserted before the *[co](/glossary/#valsi-co)* rather than at its usual place at the end of the selbri. As a result, there is a simple and mechanical rule for removing *[co](/glossary/#valsi-co)* from any selbri: change “A co B” to “ke B ke'e A”. (At the same time, any sumti following the selbri must be transformed into *[be'o](/glossary/#valsi-beho)* form and attached following B.) Therefore,
+In [Example 5.81](/chapter05/#example-random-id-y501 "Example 5.81. "), the *[ke'e](/glossary/#kee)* is automatically inserted before the *[co](/glossary/#co)* rather than at its usual place at the end of the selbri. As a result, there is a simple and mechanical rule for removing *[co](/glossary/#co)* from any selbri: change “A co B” to “ke B ke'e A”. (At the same time, any sumti following the selbri must be transformed into *[be'o](/glossary/#beo)* form and attached following B.) Therefore,
 
 ##### Example 5.82.
 
@@ -1205,7 +1205,7 @@ means the same as:
 
 
 
-Multiple *[co](/glossary/#valsi-co)* cmavo can appear within a selbri, indicating multiple inversions: a right-grouping rule is employed, as for *[bo](/glossary/#valsi-bo)*. The above rule can be applied to interpret such selbri, but all *[co](/glossary/#valsi-co)* cmavo must be removed simultaneously:
+Multiple *[co](/glossary/#co)* cmavo can appear within a selbri, indicating multiple inversions: a right-grouping rule is employed, as for *[bo](/glossary/#bo)*. The above rule can be applied to interpret such selbri, but all *[co](/glossary/#co)* cmavo must be removed simultaneously:
 
 ##### Example 5.84.
 
@@ -1257,7 +1257,7 @@ As stated above, the selbri places, other than the first, of
 
 
 
-cannot be filled by placing sumti after the selbri, because any sumti in that position fill the places of *[sutra](/glossary/#valsi-sutra)*, the seltau. However, the tertau places (which means in effect the selbri places) can be filled with *[be](/glossary/#valsi-be)*:
+cannot be filled by placing sumti after the selbri, because any sumti in that position fill the places of *[sutra](/glossary/#sutra)*, the seltau. However, the tertau places (which means in effect the selbri places) can be filled with *[be](/glossary/#be)*:
 
 ##### Example 5.88.
 
@@ -1288,7 +1288,7 @@ The following cmavo are discussed in this section:
 
 So far we have only discussed brivla and tanru built up from brivla as possible selbri. In fact, there are a few other constructions in Lojban which are grammatically equivalent to brivla: they can be used either directly as selbri, or as components in tanru. Some of these types of simple selbri are discussed at length in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"), [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"), and [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"); but for completeness these types are mentioned here with a brief explanation and an example of their use in selbri.
 
-The cmavo of selma'o GOhA (with one exception) serve as pro-bridi, providing a reference to the content of other bridi; none of them has a fixed meaning. The most commonly used member of GOhA is probably *[go'i](/glossary/#valsi-gohi)*, which amounts to a repetition of the previous bridi, or part of it. If I say:
+The cmavo of selma'o GOhA (with one exception) serve as pro-bridi, providing a reference to the content of other bridi; none of them has a fixed meaning. The most commonly used member of GOhA is probably *[go'i](/glossary/#goi)*, which amounts to a repetition of the previous bridi, or part of it. If I say:
 
 ##### Example 5.89.
 
@@ -1325,15 +1325,15 @@ you may retort:
 
 
 
-because the whole bridi of [Example 5.89](/chapter05/#example-random-id-2UvG "Example 5.89. ") has been packaged up into the single word *[go'i](/glossary/#valsi-gohi)* and inserted into [Example 5.90](/chapter05/#example-random-id-EvoD "Example 5.90. ").
+because the whole bridi of [Example 5.89](/chapter05/#example-random-id-2UvG "Example 5.89. ") has been packaged up into the single word *[go'i](/glossary/#goi)* and inserted into [Example 5.90](/chapter05/#example-random-id-EvoD "Example 5.90. ").
 
-The exceptional member of GOhA is *[du](/glossary/#valsi-du)*, which represents the relation of identity. Its place structure is:
+The exceptional member of GOhA is *[du](/glossary/#du)*, which represents the relation of identity. Its place structure is:
 
 > x1 is identical with x2, x3, ...
 
 for as many places as are given. More information on selma'o GOhA is available in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").
 
-Lojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as *[su'i](/glossary/#valsi-suhi)*, meaning “plus”, can be transformed into selbri by prefixing them with *[nu'a](/glossary/#valsi-nuha)* (of selma'o NUhA). The resulting place structure is:
+Lojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as *[su'i](/glossary/#sui)*, meaning “plus”, can be transformed into selbri by prefixing them with *[nu'a](/glossary/#nua)* (of selma'o NUhA). The resulting place structure is:
 
 > x1 is the result of applying (the operator) to arguments x2, x3, etc.
 
@@ -1396,7 +1396,7 @@ More usefully, it is possible to combine a mathematical expression with a cmavo 
 
 
 
-Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator *[kei](/glossary/#valsi-kei)* of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Lojban whose full ramifications are documented in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"). A few examples:
+Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator *[kei](/glossary/#kei)* of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Lojban whose full ramifications are documented in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"). A few examples:
 
 ##### Example 5.96.
 
@@ -1431,9 +1431,9 @@ The following cmavo are discussed in this section:
 |      |      |                                            |
 | ---- | ---- | ------------------------------------------ |
 | me   | ME   | changes sumti to simple selbri             |
-| me'u | MEhU | terminator for *[me](/glossary/#valsi-me)* |
+| me'u | MEhU | terminator for *[me](/glossary/#me)* |
 
-A sumti can be made into a simple selbri by preceding it with *[me](/glossary/#valsi-me)* (of selma'o ME) and following it with the elidable terminator *[me'u](/glossary/#valsi-mehu)* (of selma'o MEhU). This makes a selbri with the place structure
+A sumti can be made into a simple selbri by preceding it with *[me](/glossary/#me)* (of selma'o ME) and following it with the elidable terminator *[me'u](/glossary/#meu)* (of selma'o MEhU). This makes a selbri with the place structure
 
 > x1 is one of the referents of “\[the sumti\]”
 
@@ -1495,7 +1495,7 @@ and
 
 
 
-If the sumti refers to a single object, then the effect of *[me](/glossary/#valsi-me)* is much like that of *[du](/glossary/#valsi-du)*:
+If the sumti refers to a single object, then the effect of *[me](/glossary/#me)* is much like that of *[du](/glossary/#du)*:
 
 ##### Example 5.102.
 
@@ -1525,7 +1525,7 @@ means the same as
 
 
 
-It is common to use *[me](/glossary/#valsi-me)* selbri, especially those based on name sumti using *[la](/glossary/#valsi-la)*, as seltau. For example:
+It is common to use *[me](/glossary/#me)* selbri, especially those based on name sumti using *[la](/glossary/#la)*, as seltau. For example:
 
 ##### Example 5.104.
 
@@ -1540,7 +1540,7 @@ It is common to use *[me](/glossary/#valsi-me)* selbri, especially those based o
 
 
 
-The elidable terminator *[me'u](/glossary/#valsi-mehu)* can usually be omitted. It is absolutely required only if the *[me](/glossary/#valsi-me)* selbri is being used in an indefinite description (a type of sumti explained in [Section 6.8](/chapter06/#section-indefinite-descriptions "6.8. Indefinite descriptions")), and if the indefinite description is followed by a relative clause (explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated")) or a sumti logical connective (explained in [Section 14.6](/chapter14/#section-sumti-connection "14.6. sumti connection")). Without a *[me'u](/glossary/#valsi-mehu)*, the relative clause or logical connective would appear to belong to the sumti embedded in the *[me](/glossary/#valsi-me)* expression. Here is a contrasting pair of sentences:
+The elidable terminator *[me'u](/glossary/#meu)* can usually be omitted. It is absolutely required only if the *[me](/glossary/#me)* selbri is being used in an indefinite description (a type of sumti explained in [Section 6.8](/chapter06/#section-indefinite-descriptions "6.8. Indefinite descriptions")), and if the indefinite description is followed by a relative clause (explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated")) or a sumti logical connective (explained in [Section 14.6](/chapter14/#section-sumti-connection "14.6. sumti connection")). Without a *[me'u](/glossary/#meu)*, the relative clause or logical connective would appear to belong to the sumti embedded in the *[me](/glossary/#me)* expression. Here is a contrasting pair of sentences:
 
 ##### Example 5.105.
 
@@ -1566,9 +1566,9 @@ The elidable terminator *[me'u](/glossary/#valsi-mehu)* can usually be omitted. 
 
 
 
-In [Example 5.105](/chapter05/#example-random-id-qJyi "Example 5.105. ") the *[me](/glossary/#valsi-me)* selbri covers the three kings plus John, and the indefinite description picks out two of them that are said to be white: we cannot say which two. In [Example 5.106](/chapter05/#example-random-id-qJyK "Example 5.106. "), though, the *[me](/glossary/#valsi-me)* selbri covers only the three kings: two of them are said to be white, and so is John.
+In [Example 5.105](/chapter05/#example-random-id-qJyi "Example 5.105. ") the *[me](/glossary/#me)* selbri covers the three kings plus John, and the indefinite description picks out two of them that are said to be white: we cannot say which two. In [Example 5.106](/chapter05/#example-random-id-qJyK "Example 5.106. "), though, the *[me](/glossary/#me)* selbri covers only the three kings: two of them are said to be white, and so is John.
 
-Finally, here is another example requiring *[me'u](/glossary/#valsi-mehu)*:
+Finally, here is another example requiring *[me'u](/glossary/#meu)*:
 
 ##### Example 5.107.
 
@@ -1583,7 +1583,7 @@ Finally, here is another example requiring *[me'u](/glossary/#valsi-mehu)*:
 
 
 
-There are other sentences where either *[me'u](/glossary/#valsi-mehu)* or some other elidable terminator must be expressed:
+There are other sentences where either *[me'u](/glossary/#meu)* or some other elidable terminator must be expressed:
 
 ##### Example 5.108.
 
@@ -1598,7 +1598,7 @@ There are other sentences where either *[me'u](/glossary/#valsi-mehu)* or some o
 
 
 
-requires either *[ku](/glossary/#valsi-ku)* or *[me'u](/glossary/#valsi-mehu)* to be explicit, and (as with *[be'o](/glossary/#valsi-beho)* in [Section 5.7](/chapter05/#section-be-sumti "5.7. Linked sumti: be-bei-be'o")) the *[me'u](/glossary/#valsi-mehu)* leaves no doubt which cmavo it is paired with.
+requires either *[ku](/glossary/#ku)* or *[me'u](/glossary/#meu)* to be explicit, and (as with *[be'o](/glossary/#beo)* in [Section 5.7](/chapter05/#section-be-sumti "5.7. Linked sumti: be-bei-be'o")) the *[me'u](/glossary/#meu)* leaves no doubt which cmavo it is paired with.
 
 ## Conversion of simple selbri
 
@@ -1667,7 +1667,7 @@ To convert this sentence so that *le zarci* is in the x1 place, one correct way 
 
 
 
-The *[ke'e](/glossary/#valsi-kehe)* brackets cause the entire tanru to be converted by the *[se](/glossary/#valsi-se)*, which would otherwise convert only *[cadzu](/glossary/#valsi-cadzu)*, leading to:
+The *[ke'e](/glossary/#kee)* brackets cause the entire tanru to be converted by the *[se](/glossary/#se)*, which would otherwise convert only *[cadzu](/glossary/#cadzu)*, leading to:
 
 ##### Example 5.113.
 
@@ -1685,7 +1685,7 @@ The *[ke'e](/glossary/#valsi-kehe)* brackets cause the entire tanru to be conver
 
 
 
-whatever that might mean. An alternative approach, since the place structure of *cadzu klama* is that of *[klama](/glossary/#valsi-klama)* alone, is to convert only the latter:
+whatever that might mean. An alternative approach, since the place structure of *cadzu klama* is that of *[klama](/glossary/#klama)* alone, is to convert only the latter:
 
 ##### Example 5.114.
 
@@ -1696,7 +1696,7 @@ whatever that might mean. An alternative approach, since the place structure of 
 
 
 
-But the tanru in [Example 5.114](/chapter05/#example-random-id-U0fo "Example 5.114. ") may or may not have the same meaning as that in [Example 5.111](/chapter05/#example-random-id-mPX8 "Example 5.111. "); in particular, because *[cadzu](/glossary/#valsi-cadzu)* is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x1, this seemingly odd interpretation might make considerable sense:
+But the tanru in [Example 5.114](/chapter05/#example-random-id-U0fo "Example 5.114. ") may or may not have the same meaning as that in [Example 5.111](/chapter05/#example-random-id-mPX8 "Example 5.111. "); in particular, because *[cadzu](/glossary/#cadzu)* is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x1, this seemingly odd interpretation might make considerable sense:
 
 ##### Example 5.115.
 
@@ -1709,7 +1709,7 @@ But the tanru in [Example 5.114](/chapter05/#example-random-id-U0fo "Example 5.1
 
 suggests that Alice is going to John, who is a moving target.
 
-There is an alternative type of conversion, using the cmavo *[jai](/glossary/#valsi-jai)* of selma'o JAI optionally followed by a modal or tense construction. Grammatically, such a combination behaves exactly like conversion using SE. More details can be found in [Section 9.12](/chapter09/#section-modal-jai "9.12. Modal conversion: JAI").
+There is an alternative type of conversion, using the cmavo *[jai](/glossary/#jai)* of selma'o JAI optionally followed by a modal or tense construction. Grammatically, such a combination behaves exactly like conversion using SE. More details can be found in [Section 9.12](/chapter09/#section-modal-jai "9.12. Modal conversion: JAI").
 
 ## Scalar negation of selbri
 
@@ -1728,7 +1728,7 @@ Negation is too large and complex a topic to explain fully in this chapter; see 
 
 
 
-meaning that Alice's relationship to the market is something other than that of walking there. But if the *[ke](/glossary/#valsi-ke)* were omitted, the result would be:
+meaning that Alice's relationship to the market is something other than that of walking there. But if the *[ke](/glossary/#ke)* were omitted, the result would be:
 
 ##### Example 5.117.
 
@@ -1743,7 +1743,7 @@ meaning that Alice's relationship to the market is something other than that of 
 
 
 
-meaning that Alice does go there in some way (*[klama](/glossary/#valsi-klama)* is not negated), but by a means other than that of walking. [Example 5.116](/chapter05/#example-random-id-4oxH "Example 5.116. ") negates both *[cadzu](/glossary/#valsi-cadzu)* and *[klama](/glossary/#valsi-klama)*, suggesting that Alice's relation to the market is something different from walkingly-going; it might be walking without going, or going without walking, or neither.
+meaning that Alice does go there in some way (*[klama](/glossary/#klama)* is not negated), but by a means other than that of walking. [Example 5.116](/chapter05/#example-random-id-4oxH "Example 5.116. ") negates both *[cadzu](/glossary/#cadzu)* and *[klama](/glossary/#klama)*, suggesting that Alice's relation to the market is something different from walkingly-going; it might be walking without going, or going without walking, or neither.
 
 Of course, any of the simple selbri types explained in [Section 5.9](/chapter05/#section-cmavo-selbri "5.9. Other kinds of simple selbri") may be used in place of brivla in any of these examples:
 
@@ -1760,9 +1760,9 @@ Of course, any of the simple selbri types explained in [Section 5.9](/chapter05/
 
 
 
-Since only *[pamoi](/glossary/#valsi-pamoi)* is negated, an appropriate inference is that he is some other kind of speaker.
+Since only *[pamoi](/glossary/#pamoi)* is negated, an appropriate inference is that he is some other kind of speaker.
 
-Here is an assortment of more complex examples showing the interaction of scalar negation with *[bo](/glossary/#valsi-bo)* grouping, *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* grouping, logical connection, and sumti linked with *[be](/glossary/#valsi-be)* and *[bei](/glossary/#valsi-bei)* :
+Here is an assortment of more complex examples showing the interaction of scalar negation with *[bo](/glossary/#bo)* grouping, *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* grouping, logical connection, and sumti linked with *[be](/glossary/#be)* and *[bei](/glossary/#bei)* :
 
 ##### Example 5.119.
 
@@ -1775,7 +1775,7 @@ Here is an assortment of more complex examples showing the interaction of scalar
 | ------------------------------------------------------------- |
 | I go to the market, walking using my arms other than quickly. |
 
-In [Example 5.119](/chapter05/#example-random-id-I1Rd "Example 5.119. "), *[na'e](/glossary/#valsi-nahe)* negates only *[sutra](/glossary/#valsi-sutra)*. Contrast [Example 5.120](/chapter05/#example-random-id-KcK8 "Example 5.120. "):
+In [Example 5.119](/chapter05/#example-random-id-I1Rd "Example 5.119. "), *[na'e](/glossary/#nae)* negates only *[sutra](/glossary/#sutra)*. Contrast [Example 5.120](/chapter05/#example-random-id-KcK8 "Example 5.120. "):
 
 ##### Example 5.120.
 
@@ -1793,7 +1793,7 @@ In [Example 5.119](/chapter05/#example-random-id-I1Rd "Example 5.119. "), *[na'e
 | ------------------------------------------------------------- |
 | I go to the market, other than by walking quickly on my arms. |
 
-Now consider [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. ") and [Example 5.122](/chapter05/#example-random-id-qjyy "Example 5.122. "), which are equivalent in meaning, but use *[ke](/glossary/#valsi-ke)* grouping and *[bo](/glossary/#valsi-bo)* grouping respectively:
+Now consider [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. ") and [Example 5.122](/chapter05/#example-random-id-qjyy "Example 5.122. "), which are equivalent in meaning, but use *[ke](/glossary/#ke)* grouping and *[bo](/glossary/#bo)* grouping respectively:
 
 ##### Example 5.121.
 
@@ -1828,7 +1828,7 @@ Now consider [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. 
 | ------------------------------------------------------------------ |
 | I go to the market, both quickly walking using my arms and slowly. |
 
-However, if we place a *[na'e](/glossary/#valsi-nahe)* at the beginning of the selbri in both [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. ") and [Example 5.122](/chapter05/#example-random-id-qjyy "Example 5.122. "), we get different results:
+However, if we place a *[na'e](/glossary/#nae)* at the beginning of the selbri in both [Example 5.121](/chapter05/#example-random-id-qjyW "Example 5.121. ") and [Example 5.122](/chapter05/#example-random-id-qjyy "Example 5.122. "), we get different results:
 
 ##### Example 5.123.
 
@@ -1862,7 +1862,7 @@ However, if we place a *[na'e](/glossary/#valsi-nahe)* at the beginning of the s
 | ----------------------------------------------------------------------------------- |
 | I go to the market, both other than quickly walking using my arms, and also slowly. |
 
-The difference arises because the *[na'e](/glossary/#valsi-nahe)* in [Example 5.124](/chapter05/#example-random-id-qJzr "Example 5.124. ") negates the whole construction from *[ke](/glossary/#valsi-ke)* to *[ke'e](/glossary/#valsi-kehe)*, whereas in [Example 5.123](/chapter05/#example-random-id-qjyz "Example 5.123. ") it negates *[sutra](/glossary/#valsi-sutra)* alone.Beware of omitting terminators in these complex examples! If the explicit *[ke'e](/glossary/#valsi-kehe)* is left out in [Example 5.124](/chapter05/#example-random-id-qJzr "Example 5.124. "), it is transformed into:
+The difference arises because the *[na'e](/glossary/#nae)* in [Example 5.124](/chapter05/#example-random-id-qJzr "Example 5.124. ") negates the whole construction from *[ke](/glossary/#ke)* to *[ke'e](/glossary/#kee)*, whereas in [Example 5.123](/chapter05/#example-random-id-qjyz "Example 5.123. ") it negates *[sutra](/glossary/#sutra)* alone.Beware of omitting terminators in these complex examples! If the explicit *[ke'e](/glossary/#kee)* is left out in [Example 5.124](/chapter05/#example-random-id-qJzr "Example 5.124. "), it is transformed into:
 
 ##### Example 5.125.
 
@@ -1880,7 +1880,7 @@ The difference arises because the *[na'e](/glossary/#valsi-nahe)* in [Example 5.
 | ---------------------------------------------------------------------------------------------------------------- |
 | I do something other than quickly both going to the market walking using my arms and slowly going to the market. |
 
-And if both *[ke'e](/glossary/#valsi-kehe)* and *[be'o](/glossary/#valsi-beho)* are omitted, the results are even sillier:
+And if both *[ke'e](/glossary/#kee)* and *[be'o](/glossary/#beo)* are omitted, the results are even sillier:
 
 ##### Example 5.126.
 
@@ -1898,7 +1898,7 @@ And if both *[ke'e](/glossary/#valsi-kehe)* and *[be'o](/glossary/#valsi-beho)* 
 | ---------------------------------------------------------------------------------------------------------- |
 | I do something other than quickly walking using the goers, both arm-type and slow, relative-to the market. |
 
-In [Example 5.126](/chapter05/#example-random-id-0WLq "Example 5.126. "), everything after *[be](/glossary/#valsi-be)* is a linked sumti, so the place structure is that of *[cadzu](/glossary/#valsi-cadzu)*, whose x2 place is the surface walked upon. It is less than clear what an “arm-type goer” might be. Furthermore, since the x3 place has been occupied by the linked sumti, the *le zarci* following the selbri falls into the nonexistent x4 place of *[cadzu](/glossary/#valsi-cadzu)*. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Lojban words appear where a fluent Lojbanist would understand them to be implied.)Finally, it is also possible to place *[na'e](/glossary/#valsi-nahe)* before a *[gi](/glossary/#valsi-gi)* logically connected tanru construction. The meaning of this usage has not yet been firmly established.*
+In [Example 5.126](/chapter05/#example-random-id-0WLq "Example 5.126. "), everything after *[be](/glossary/#be)* is a linked sumti, so the place structure is that of *[cadzu](/glossary/#cadzu)*, whose x2 place is the surface walked upon. It is less than clear what an “arm-type goer” might be. Furthermore, since the x3 place has been occupied by the linked sumti, the *le zarci* following the selbri falls into the nonexistent x4 place of *[cadzu](/glossary/#cadzu)*. As a result, the whole example, though grammatical, is complete nonsense. (The bracketed Lojban words appear where a fluent Lojbanist would understand them to be implied.)Finally, it is also possible to place *[na'e](/glossary/#nae)* before a *[gi](/glossary/#gi)* logically connected tanru construction. The meaning of this usage has not yet been firmly established.*
 
 ## Tenses and bridi negation
 
@@ -1915,7 +1915,7 @@ A bridi can have cmavo associated with it which specify the time, place, or mode
 | --------------------- |
 | I went to the market. |
 
-the cmavo *[pu](/glossary/#valsi-pu)* specifies that the action of the speaker going to the market takes place in the past. Tenses are explained in full detail in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System"). Tense is semantically a property of the entire bridi; however, the usual syntax for tenses attaches them at the front of the selbri, as in [Example 5.127](/chapter05/#example-random-id-uz13 "Example 5.127. "). There are alternative ways of expressing tense information as well. Modals, which are explained in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"), behave in the same way as tenses.Similarly, a bridi may have the particle *[na](/glossary/#valsi-na)* (of selma'o NA) attached to the beginning of the selbri to negate the bridi. A negated bridi expresses what is false without saying anything about what is true. Do not confuse this usage with the scalar negation of [Section 5.12](/chapter05/#section-selbri-scalar-negation "5.12. Scalar negation of selbri"). For example:
+the cmavo *[pu](/glossary/#pu)* specifies that the action of the speaker going to the market takes place in the past. Tenses are explained in full detail in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System"). Tense is semantically a property of the entire bridi; however, the usual syntax for tenses attaches them at the front of the selbri, as in [Example 5.127](/chapter05/#example-random-id-uz13 "Example 5.127. "). There are alternative ways of expressing tense information as well. Modals, which are explained in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"), behave in the same way as tenses.Similarly, a bridi may have the particle *[na](/glossary/#na)* (of selma'o NA) attached to the beginning of the selbri to negate the bridi. A negated bridi expresses what is false without saying anything about what is true. Do not confuse this usage with the scalar negation of [Section 5.12](/chapter05/#section-selbri-scalar-negation "5.12. Scalar negation of selbri"). For example:
 
 ##### Example 5.128.
 
@@ -1942,7 +1942,7 @@ Jones may be the second speaker, or not a speaker at all; [Example 5.128](/chapt
 | It is false that I went to the market. |
 | I didn't go to the market.             |
 
-It is also possible to have more than one *[na](/glossary/#valsi-na)*, in which case pairs of *[na](/glossary/#valsi-na)* cmavo cancel out:
+It is also possible to have more than one *[na](/glossary/#na)*, in which case pairs of *[na](/glossary/#na)* cmavo cancel out:
 
 ##### Example 5.130.
 
@@ -1955,7 +1955,7 @@ It is also possible to have more than one *[na](/glossary/#valsi-na)*, in which 
 | It is false that it is false that I go to the market. |
 | I go to the market.                                   |
 
-It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#valsi-na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").##### Example 5.131.
+It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").##### Example 5.131.
 
 |     |         |          |         |             |       |     |        |
 | --- | ------- | -------- | ------- | ----------- | ----- | --- | ------ |
@@ -1997,10 +1997,10 @@ Any lujvo or fu'ivla used in a group are glossed at the end of that group.The ta
 |                                         |                     |
 | --------------------------------------- | ------------------- |
 | *nunkilbra*                             | sharpness-apparatus |
-| *[nunctu](/glossary/#valsi-nunctu)*     | event-of-teaching   |
+| *[nunctu](/glossary/#nunctu)*     | event-of-teaching   |
 | *nunkalte*                              | event-of-hunting    |
-| *[terkavbu](/glossary/#valsi-terkavbu)* | trap                |
-| *[zerle'a](/glossary/#valsi-zerleha)*   | crime-taker         |
+| *[terkavbu](/glossary/#terkavbu)* | trap                |
+| *[zerle'a](/glossary/#zerlea)*   | crime-taker         |
 | *nunte'a*                               | event-of-fearing    |
 
 The tertau represents a set, and the seltau the type of the elements contained in that set:
@@ -2023,10 +2023,10 @@ The tertau represents a set, and the seltau the type of the elements contained i
 
 |                                       |                |
 | ------------------------------------- | -------------- |
-| *[lijgri](/glossary/#valsi-lijgri)*   | line-group     |
+| *[lijgri](/glossary/#lijgri)*   | line-group     |
 | *lamgri*                              | adjacent-group |
-| *[mulgri](/glossary/#valsi-mulgri)*   | complete-group |
-| *[cpumi'i](/glossary/#valsi-cpumihi)* | pull-machine   |
+| *[mulgri](/glossary/#mulgri)*   | complete-group |
+| *[cpumi'i](/glossary/#cpumii)* | pull-machine   |
 
 Conversely: the tertau is an element, and the seltau represents a set in which that element is contained. Implicitly, the meaning of the tertau is restricted from its usual general meaning to the specific meaning appropriate for elements in the given set. Note the opposition between *zdani linji* in the previous group, and *linji zdani* in this one, which shows why this kind of tanru is called “asymmetrical”.
 
@@ -2056,7 +2056,7 @@ The seltau specifies an object and the tertau a component or detail of that obje
 
 |                                       |                 |
 | ------------------------------------- | --------------- |
-| *[dadysli](/glossary/#valsi-dadysli)* | hang-oscillator |
+| *[dadysli](/glossary/#dadysli)* | hang-oscillator |
 
 Conversely: the seltau specifies a characteristic or important detail of the object described by the tertau; objects described by the tanru as a whole are differentiated from other similar objects by this detail.
 
@@ -2073,7 +2073,7 @@ Conversely: the seltau specifies a characteristic or important detail of the obj
 
 |                                       |                 |
 | ------------------------------------- | --------------- |
-| *[dadysli](/glossary/#valsi-dadysli)* | hang-oscillator |
+| *[dadysli](/glossary/#dadysli)* | hang-oscillator |
 
 The tertau specifies a general class of object (a genus), and the seltau specifies a sub-class of that class (a species):
 
@@ -2103,7 +2103,7 @@ The tertau specifies an object of possession, and the seltau may specify the pos
 
 |                                           |                         |
 | ----------------------------------------- | ----------------------- |
-| *[nolraitru](/glossary/#valsi-nolraitru)* | nobly-superlative-ruler |
+| *[nolraitru](/glossary/#nolraitru)* | nobly-superlative-ruler |
 
 The tertau specifies a habitat, and the seltau specifies the inhabitant:
 
@@ -2128,8 +2128,8 @@ The tertau specifies a causative agent, and the seltau specifies the effect of t
 
 |                                             |                    |
 | ------------------------------------------- | ------------------ |
-| *[kalselvi'i](/glossary/#valsi-kalselvihi)* | eye-excreted-thing |
-| *[terbi'a](/glossary/#valsi-terbiha)*       | disease            |
+| *[kalselvi'i](/glossary/#kalselvii)* | eye-excreted-thing |
+| *[terbi'a](/glossary/#terbia)*       | disease            |
 
 Conversely: the tertau specifies an effect, and the seltau specifies its cause.
 
@@ -2154,9 +2154,9 @@ The tertau specifies an instrument, and the seltau specifies the purpose of that
 
 |                                         |                        |
 | --------------------------------------- | ---------------------- |
-| *[dadgreku](/glossary/#valsi-dadgreku)* | hang-frame             |
-| *[tergu'i](/glossary/#valsi-terguhi)*   | source of illumination |
-| *[ti'otci](/glossary/#valsi-tihotci)*   | shadow-tool            |
+| *[dadgreku](/glossary/#dadgreku)* | hang-frame             |
+| *[tergu'i](/glossary/#tergui)*   | source of illumination |
+| *[ti'otci](/glossary/#tiotci)*   | shadow-tool            |
 
 More vaguely: the tertau specifies an instrument, and the seltau specifies the object of the purpose for which that instrument is used:
 
@@ -2193,7 +2193,7 @@ The tertau specifies a product from some source, and the seltau specifies the so
 |                                         |              |
 | --------------------------------------- | ------------ |
 | *sikcurnu*                              | silk-worm    |
-| *[solxrula](/glossary/#valsi-solxrula)* | solar-flower |
+| *[solxrula](/glossary/#solxrula)* | solar-flower |
 
 Conversely: the tertau specifies the source of a product, and the seltau specifies the product:
 
@@ -2237,8 +2237,8 @@ The tertau specifies an object, and the seltau specifies the material from which
 
 |                                           |            |
 | ----------------------------------------- | ---------- |
-| *[cmaro'i](/glossary/#valsi-cmarohi)*     | small-rock |
-| *[sudysrasu](/glossary/#valsi-sudysrasu)* | dry-grass  |
+| *[cmaro'i](/glossary/#cmaroi)*     | small-rock |
+| *[sudysrasu](/glossary/#sudysrasu)* | dry-grass  |
 
 Note: the two senses of *blaci kanla* can be discriminated as:
 
@@ -2349,10 +2349,10 @@ The seltau specifies a place, and the tertau an object characteristically locate
 
 |                                         |                    |
 | --------------------------------------- | ------------------ |
-| *[mrostu](/glossary/#valsi-mrostu)*     | dead-site          |
-| *[mojysu'a](/glossary/#valsi-mojysuha)* | remember-structure |
-| *[ci'ajbu](/glossary/#valsi-cihajbu)*   | write-table        |
-| *[cagyce'u](/glossary/#valsi-cagycehu)* | farm-community     |
+| *[mrostu](/glossary/#mrostu)*     | dead-site          |
+| *[mojysu'a](/glossary/#mojysua)* | remember-structure |
+| *[ci'ajbu](/glossary/#ciajbu)*   | write-table        |
+| *[cagyce'u](/glossary/#cagyceu)* | farm-community     |
 
 Specifically: the tertau is a place where the seltau is sold or made available to the public.
 
@@ -2401,7 +2401,7 @@ The tertau specifies a protective device against the undesirable features of the
 
 |                                     |            |
 | ----------------------------------- | ---------- |
-| *[firgai](/glossary/#valsi-firgai)* | face-cover |
+| *[firgai](/glossary/#firgai)* | face-cover |
 
 The tertau specifies a container characteristically used to hold the referent of the seltau.
 
@@ -2426,7 +2426,7 @@ The tertau specifies a container characteristically used to hold the referent of
 |                                               |                     |
 | --------------------------------------------- | ------------------- |
 | *spatrkoka*                                   | fu'ivla for “coca”  |
-| *[cladakyxa'i](/glossary/#valsi-cladakyxahi)* | (long-knife)-weapon |
+| *[cladakyxa'i](/glossary/#cladakyxai)* | (long-knife)-weapon |
 
 The seltau specifies the characteristic time of the event specified by the tertau.
 
@@ -2466,7 +2466,7 @@ Finally, some tanru which don't fall into any of the above categories.
 | *ladru denci* | milk tooth | Tur,Hun,Udm,Qab |     |
 | *kanla denci* | eye tooth  |                 |     |
 
-It is clear that “tooth” is being specified, and that “milk” and “eye” act as modifiers. However, the relationship between *[ladru](/glossary/#valsi-ladru)* and *[denci](/glossary/#valsi-denci)* is something like “tooth which one has when one is drinking milk from one's mother”, a relationship certainly present nowhere except in this particular concept. As for *kanla denci*, the relationship is not only not present on the surface, it is hardly possible to formulate it at all.## Some types of symmetrical tanruThis section deals with symmetrical tanru, where order is not important. Many of these tanru can be expressed with a logical or non-logical connective between the components.The tanru may refer to things which are correctly specified by both tanru components. Some of these instances may also be seen as asymmetrical tanru where the seltau specifies a material. The connective *[je](/glossary/#valsi-je)* is appropriate:
+It is clear that “tooth” is being specified, and that “milk” and “eye” act as modifiers. However, the relationship between *[ladru](/glossary/#ladru)* and *[denci](/glossary/#denci)* is something like “tooth which one has when one is drinking milk from one's mother”, a relationship certainly present nowhere except in this particular concept. As for *kanla denci*, the relationship is not only not present on the surface, it is hardly possible to formulate it at all.## Some types of symmetrical tanruThis section deals with symmetrical tanru, where order is not important. Many of these tanru can be expressed with a logical or non-logical connective between the components.The tanru may refer to things which are correctly specified by both tanru components. Some of these instances may also be seen as asymmetrical tanru where the seltau specifies a material. The connective *[je](/glossary/#je)* is appropriate:
 
 **Table 5.50. Example tanru**
 
@@ -2493,11 +2493,11 @@ It is clear that “tooth” is being specified, and that “milk” and “eye�
 
 |                                               |                                         |
 | --------------------------------------------- | --------------------------------------- |
-| *[cipnrstrigi](/glossary/#valsi-cipnrstrigi)* | fu'ivla for “owl” based on Linnean name |
-| *[pacru'i](/glossary/#valsi-pacruhi)*         | evil-spirit                             |
-| *[tolvri](/glossary/#valsi-tolvri)*           | opposite-of-brave                       |
+| *[cipnrstrigi](/glossary/#cipnrstrigi)* | fu'ivla for “owl” based on Linnean name |
+| *[pacru'i](/glossary/#pacrui)*         | evil-spirit                             |
+| *[tolvri](/glossary/#tolvri)*           | opposite-of-brave                       |
 
-The tanru may refer to all things which are specified by either of the tanru components. The connective *[ja](/glossary/#valsi-ja)* is appropriate:
+The tanru may refer to all things which are specified by either of the tanru components. The connective *[ja](/glossary/#ja)* is appropriate:
 
 **Table 5.52. Example tanru**
 
@@ -2517,7 +2517,7 @@ The tanru may refer to all things which are specified by either of the tanru com
 | ----------------------------------- | ----------------- |
 | *nunji'a*                           | event-of-winning  |
 | *nunterji'a*                        | event-of-losing   |
-| *[nuncti](/glossary/#valsi-nuncti)* | event-of-eating   |
+| *[nuncti](/glossary/#nuncti)* | event-of-eating   |
 | *nunpinxe*                          | event-of-drinking |
 
 Alternatively, the tanru may refer to things which are specified by either of the tanru components or by some more inclusive class of things which the components typify:
@@ -2549,12 +2549,12 @@ The tanru components specify crucial or typical parts of the referent of the tan
 
 |                                           |           |
 | ----------------------------------------- | --------- |
-| *[sudysrasu](/glossary/#valsi-sudysrasu)* | dry-grass |
-| *[so'imei](/glossary/#valsi-sohimei)*     | manysome  |
+| *[sudysrasu](/glossary/#sudysrasu)* | dry-grass |
+| *[so'imei](/glossary/#soimei)*     | manysome  |
 
 ## “Pretty little girls' school”: forty ways to say it
 
-The following examples show every possible grouping arrangement of *melbi cmalu nixli ckule* using *[bo](/glossary/#valsi-bo)* or *[ke'e](/glossary/#valsi-kehe)* for grouping and *[je](/glossary/#valsi-je)* or *[bo](/glossary/#valsi-bo)* for logical connection. Most of these are definitely not plausible interpretations of the English phrase “pretty little girls' school”, especially those which describe something which is both a girl and a school.[Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. "), [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. "), [Example 5.28](/chapter05/#example-random-id-qjog "Example 5.28. "), [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "), and [Example 5.36](/chapter05/#example-random-id-tz0L "Example 5.36. ") are repeated here as [Example 5.132](/chapter05/#example-random-id-qjzw "Example 5.132. "), [Example 5.140](/chapter05/#example-random-id-qKaM "Example 5.140. "), [Example 5.148](/chapter05/#example-random-id-qKfX "Example 5.148. "), [Example 5.156](/chapter05/#example-random-id-qKmg "Example 5.156. "), and [Example 5.164](/chapter05/#example-random-id-qKPQ "Example 5.164. ") respectively. The seven examples following each of these share the same grouping pattern, but differ in the presence or absence of *[je](/glossary/#valsi-je)* at each possible site. Some of the examples have more than one Lojban version. In that case, they differ only in grouping mechanism, and are always equivalent in meaning.The logical connective *[je](/glossary/#valsi-je)* is associative: that is, “A and (B and C)” is the same as “(A and B) and C”. Therefore, some of the examples have the same meaning as others. In particular, [Example 5.139](/chapter05/#example-random-id-qKAG "Example 5.139. "), [Example 5.147](/chapter05/#example-random-id-qKFA "Example 5.147. "), [Example 5.155](/chapter05/#example-random-id-qKLN "Example 5.155. "), [Example 5.163](/chapter05/#example-random-id-qKpo "Example 5.163. "), and [Example 5.171](/chapter05/#example-random-id-qKU6 "Example 5.171. ") all have the same meaning because all four brivla are logically connected and the grouping is simply irrelevant. Other equivalent forms are noted in the examples themselves. However, if *[je](/glossary/#valsi-je)* were replaced by *[naja](/glossary/#valsi-naja)* or *[jo](/glossary/#valsi-jo)_ or most of the other logical connectives, the meanings would become distinct.It must be emphasized that, because of the ambiguity of all tanru, the English translations are by no means definitive – they represent only one possible interpretation of the corresponding Lojban sentence.
+The following examples show every possible grouping arrangement of *melbi cmalu nixli ckule* using *[bo](/glossary/#bo)* or *[ke'e](/glossary/#kee)* for grouping and *[je](/glossary/#je)* or *[bo](/glossary/#bo)* for logical connection. Most of these are definitely not plausible interpretations of the English phrase “pretty little girls' school”, especially those which describe something which is both a girl and a school.[Example 5.26](/chapter05/#example-random-id-qjmr "Example 5.26. "), [Example 5.27](/chapter05/#example-random-id-qjNi "Example 5.27. "), [Example 5.28](/chapter05/#example-random-id-qjog "Example 5.28. "), [Example 5.29](/chapter05/#example-random-id-qjop "Example 5.29. "), and [Example 5.36](/chapter05/#example-random-id-tz0L "Example 5.36. ") are repeated here as [Example 5.132](/chapter05/#example-random-id-qjzw "Example 5.132. "), [Example 5.140](/chapter05/#example-random-id-qKaM "Example 5.140. "), [Example 5.148](/chapter05/#example-random-id-qKfX "Example 5.148. "), [Example 5.156](/chapter05/#example-random-id-qKmg "Example 5.156. "), and [Example 5.164](/chapter05/#example-random-id-qKPQ "Example 5.164. ") respectively. The seven examples following each of these share the same grouping pattern, but differ in the presence or absence of *[je](/glossary/#je)* at each possible site. Some of the examples have more than one Lojban version. In that case, they differ only in grouping mechanism, and are always equivalent in meaning.The logical connective *[je](/glossary/#je)* is associative: that is, “A and (B and C)” is the same as “(A and B) and C”. Therefore, some of the examples have the same meaning as others. In particular, [Example 5.139](/chapter05/#example-random-id-qKAG "Example 5.139. "), [Example 5.147](/chapter05/#example-random-id-qKFA "Example 5.147. "), [Example 5.155](/chapter05/#example-random-id-qKLN "Example 5.155. "), [Example 5.163](/chapter05/#example-random-id-qKpo "Example 5.163. "), and [Example 5.171](/chapter05/#example-random-id-qKU6 "Example 5.171. ") all have the same meaning because all four brivla are logically connected and the grouping is simply irrelevant. Other equivalent forms are noted in the examples themselves. However, if *[je](/glossary/#je)* were replaced by *[naja](/glossary/#naja)* or *[jo](/glossary/#jo)_ or most of the other logical connectives, the meanings would become distinct.It must be emphasized that, because of the ambiguity of all tanru, the English translations are by no means definitive – they represent only one possible interpretation of the corresponding Lojban sentence.
 
 ##### Example 5.132.
 

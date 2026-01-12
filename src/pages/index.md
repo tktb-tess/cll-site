@@ -375,8 +375,7 @@ nextTitle: 'Next: Chapter 1'
   - [21.1. EBNF Grammar of Lojban](/chapter21/#ebnf-grammar-of-lojban)
   - [21.2. EBNF Cross-Reference](/chapter21/#ebnf-cross-reference)
 
-  - [Lojban Word Glossary](/glossary/)
-  - [General Index](/general/)
-  - [Lojban Words Index](/words/)
-  - [Examples Index](/examples/)
-
+- [Lojban Word Glossary](/glossary/)
+- [General Index](/general/)
+- [Lojban Words Index](/words/)
+- [Examples Index](/examples/)

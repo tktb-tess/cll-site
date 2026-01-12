@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "build-preview": "astro build && astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "script": "tsx mod/script.ts"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",

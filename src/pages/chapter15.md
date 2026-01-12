@@ -101,7 +101,7 @@ No, I didn't go to the store.
 
 The most important rule about bridi negation is that if a bridi is true, its negation is false, and vice versa.
 
-The simplest way to express a bridi negation is to use the cmavo *[na](/glossary/#valsi-na)* of selma'o NA before the selbri of the affirmative form of the bridi (but after the *[cu](/glossary/#valsi-cu)*, if there is one):
+The simplest way to express a bridi negation is to use the cmavo *[na](/glossary/#na)* of selma'o NA before the selbri of the affirmative form of the bridi (but after the *[cu](/glossary/#cu)*, if there is one):
 
 ##### Example 15.13.
 
@@ -119,7 +119,7 @@ when negated becomes:
 | mi | na       | klama | le  | zarci  |
 | I  | \[false\] | go-to | the | store. |
 
-Note that we have used a special convention to show in the English that a bridi negation is present. We would like to use the word “not”, because this highlights the naturalness of putting the negation marker just before the selbri, and makes the form easier to learn. But there is a major difference between Lojban's bridi negation with *[na](/glossary/#valsi-na)* and natural language negation with “not”. In English, the word “not” can apply to a single word, to a phrase, to an English predicate, or to the entire sentence. In addition, “not” may indicate either contradictory negation or another form of negation, depending on the sentence. Lojban's internal bridi negation, on the other hand, always applies to an entire bridi, and is always a contradictory negation; that is, it contradicts the claim of the whole bridi.
+Note that we have used a special convention to show in the English that a bridi negation is present. We would like to use the word “not”, because this highlights the naturalness of putting the negation marker just before the selbri, and makes the form easier to learn. But there is a major difference between Lojban's bridi negation with *[na](/glossary/#na)* and natural language negation with “not”. In English, the word “not” can apply to a single word, to a phrase, to an English predicate, or to the entire sentence. In addition, “not” may indicate either contradictory negation or another form of negation, depending on the sentence. Lojban's internal bridi negation, on the other hand, always applies to an entire bridi, and is always a contradictory negation; that is, it contradicts the claim of the whole bridi.
 
 Because of the ambiguity of English “not”, we will use “\[false\]” in the translation of Lojban examples to remind the reader that we are expressing a contradictory negation. Here are more examples of bridi negation:
 
@@ -161,11 +161,11 @@ Because of the ambiguity of English “not”, we will use “\[false\]” in th
 | ----------------------------------------------- |
 | This isn't a big person who is beautiful to me. |
 
-Although there is this fundamental difference between Lojban's internal bridi negation and English negation, we note that in many cases, especially when there are no existential or quantified variables (the cmavo *[da](/glossary/#valsi-da)*, *[de](/glossary/#valsi-de)*, and *[di](/glossary/#valsi-di)* of selma'o KOhA, explained in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")) in the bridi, you can indeed translate Lojban *[na](/glossary/#valsi-na)* as “not” (or “isn't” or “doesn't”, as appropriate).
+Although there is this fundamental difference between Lojban's internal bridi negation and English negation, we note that in many cases, especially when there are no existential or quantified variables (the cmavo *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* of selma'o KOhA, explained in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")) in the bridi, you can indeed translate Lojban *[na](/glossary/#na)* as “not” (or “isn't” or “doesn't”, as appropriate).
 
 The most important rule about bridi negation is that if a bridi is true, its negation is false, and vice versa.
 
-In Lojban, there are several structures that implicitly contain bridi, so that Lojban sentences may contain more than one occurrence of *[na](/glossary/#valsi-na)*. For example:
+In Lojban, there are several structures that implicitly contain bridi, so that Lojban sentences may contain more than one occurrence of *[na](/glossary/#na)*. For example:
 
 ##### Example 15.18.
 
@@ -217,9 +217,9 @@ A more extreme (and more indefinite) example is:
 
 The claim of [Example 15.20](/chapter15/#example-random-id-eQaI "Example 15.20. ") could apply to anyone except a person who is fond of no one at all, since the relation within the description is false for everyone. You cannot readily express these situations in colloquial English.
 
-Negation with *[na](/glossary/#valsi-na)* applies to an entire bridi, and not to just part of a selbri. Therefore, you won't likely have reason to put *[na](/glossary/#valsi-na)* inside a tanru. In fact, the grammar currently does not allow you to do so (except in a lujvo and in elaborate constructs involving GUhA, the forethought connector for selbri). Any situation where you might want to do so can be expressed in a less-compressed non-tanru form. This grammatical restriction helps ensure that bridi negation is kept separate from other forms of negation.
+Negation with *[na](/glossary/#na)* applies to an entire bridi, and not to just part of a selbri. Therefore, you won't likely have reason to put *[na](/glossary/#na)* inside a tanru. In fact, the grammar currently does not allow you to do so (except in a lujvo and in elaborate constructs involving GUhA, the forethought connector for selbri). Any situation where you might want to do so can be expressed in a less-compressed non-tanru form. This grammatical restriction helps ensure that bridi negation is kept separate from other forms of negation.
 
-The grammar of *[na](/glossary/#valsi-na)* allows multiple adjacent negations, which cancel out, as in normal logic:
+The grammar of *[na](/glossary/#na)* allows multiple adjacent negations, which cancel out, as in normal logic:
 
 ##### Example 15.21.
 
@@ -237,7 +237,7 @@ which is the same as:
 | ti   | barda    | prenu  | co   | melbi            | mi   |
 | This | is-a-big | person | that | is-(beautiful-to | me). |
 
-When a selbri is tagged with a tense or a modal, negation with *[na](/glossary/#valsi-na)* is permitted in two positions: before or after the tag. No semantic difference between these forms has yet been defined, but this is not finally determined, since the interactions between tenses/modals and bridi negation have not been fully explored. In particular, it remains to be seen whether sentences using less familiar tenses, such as:
+When a selbri is tagged with a tense or a modal, negation with *[na](/glossary/#na)* is permitted in two positions: before or after the tag. No semantic difference between these forms has yet been defined, but this is not finally determined, since the interactions between tenses/modals and bridi negation have not been fully explored. In particular, it remains to be seen whether sentences using less familiar tenses, such as:
 
 ##### Example 15.23.
 
@@ -246,7 +246,7 @@ When a selbri is tagged with a tense or a modal, negation with *[na](/glossary/#
 | mi | \[cu\] | ta'e       | klama | le  | zarci   |
 | I  |       | habitually | go-to | the | market. |
 
-mean the same thing with *[na](/glossary/#valsi-na)* before the *[ta'e](/glossary/#valsi-tahe)*, as when the negation occurs afterwards; we'll let future, Lojban-speaking, logicians decide on how they relate to each other.
+mean the same thing with *[na](/glossary/#na)* before the *[ta'e](/glossary/#tae)*, as when the negation occurs afterwards; we'll let future, Lojban-speaking, logicians decide on how they relate to each other.
 
 A final caution on translating English negations into Lojban: if you translate the English literally, you'll get the wrong one. With English causal statements, and other statements with auxiliary clauses, this problem is more likely.
 
@@ -308,7 +308,7 @@ we do not intend the uncle's help to be part of the negation. We must thus move 
 
 The event-of (my \[false\] being-conscripted-into the Army) was aided by my uncle the Senator.
 
-It is possible that someone will want to incorporate bridi negations into lujvo. For this reason, the rafsi *-nar-* has been reserved for *[na](/glossary/#valsi-na)*. However, before using this rafsi, make sure that you intend the contradictory bridi negation, and not the scalar negation described in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation"), which will be much more common in tanru and lujvo.
+It is possible that someone will want to incorporate bridi negations into lujvo. For this reason, the rafsi *-nar-* has been reserved for *[na](/glossary/#na)*. However, before using this rafsi, make sure that you intend the contradictory bridi negation, and not the scalar negation described in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation"), which will be much more common in tanru and lujvo.
 
 ## Scalar Negation
 
@@ -445,7 +445,7 @@ In the examples of [Section 15.4](/chapter15/#section-nahe "15.4. selbri and tan
 
 ## selbri and tanru negation
 
-All the scalar negations illustrated in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation") are expressed in Lojban using the cmavo *[na'e](/glossary/#valsi-nahe)* (of selma'o NAhE). The most common use of *[na'e](/glossary/#valsi-nahe)* is as a prefix to the selbri:
+All the scalar negations illustrated in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation") are expressed in Lojban using the cmavo *[na'e](/glossary/#nae)* (of selma'o NAhE). The most common use of *[na'e](/glossary/#nae)* is as a prefix to the selbri:
 
 ##### Example 15.44.
 
@@ -461,7 +461,7 @@ All the scalar negations illustrated in [Section 15.3](/chapter15/#section-scala
 | mi | na'e        | klama  | le  | zarci   |
 | I  | (other-than | go-to) | the | market. |
 
-Comparing these two, we see that the negation operator being used in [Example 15.45](/chapter15/#example-random-id-qH4n "Example 15.45. ") is *[na'e](/glossary/#valsi-nahe)*. But what exactly does *[na'e](/glossary/#valsi-nahe)* negate? Does the negation include only the gismu *[klama](/glossary/#valsi-klama)*, which is the entire selbri in this case, or does it include the *le zarci* as well? In Lojban, the answer is unambiguously “only the gismu”. The cmavo *[na'e](/glossary/#valsi-nahe)* always applies only to what follows it.
+Comparing these two, we see that the negation operator being used in [Example 15.45](/chapter15/#example-random-id-qH4n "Example 15.45. ") is *[na'e](/glossary/#nae)*. But what exactly does *[na'e](/glossary/#nae)* negate? Does the negation include only the gismu *[klama](/glossary/#klama)*, which is the entire selbri in this case, or does it include the *le zarci* as well? In Lojban, the answer is unambiguously “only the gismu”. The cmavo *[na'e](/glossary/#nae)* always applies only to what follows it.
 
 [Example 15.45](/chapter15/#example-random-id-qH4n "Example 15.45. ") looks as if it were parallel to:
 
@@ -472,9 +472,9 @@ Comparing these two, we see that the negation operator being used in [Example 15
 | mi | na       | klama | le  | zarci   |
 | I  | \[false\] | go-to | the | market. |
 
-but in fact there is no real parallelism at all. A negation using *[na](/glossary/#valsi-na)* denies the truth of a relationship, but a selbri negation with *[na'e](/glossary/#valsi-nahe)* asserts that a relationship exists other than that stated, one which specifically involves the sumti identified in the statement. The grammar allotted to *[na'e](/glossary/#valsi-nahe)* allows us to unambiguously express scalar negations in terms of scope, scale, and range within the scale. Before we explain the scalar aspects, let us show how the scope of *[na'e](/glossary/#valsi-nahe)* is determined.
+but in fact there is no real parallelism at all. A negation using *[na](/glossary/#na)* denies the truth of a relationship, but a selbri negation with *[na'e](/glossary/#nae)* asserts that a relationship exists other than that stated, one which specifically involves the sumti identified in the statement. The grammar allotted to *[na'e](/glossary/#nae)* allows us to unambiguously express scalar negations in terms of scope, scale, and range within the scale. Before we explain the scalar aspects, let us show how the scope of *[na'e](/glossary/#nae)* is determined.
 
-In tanru, we may wish to negate an individual element before combining it with another to form the tanru. We in effect need a shorter-than-selbri-scope negation, for which we can use *[na'e](/glossary/#valsi-nahe)* as well. The positive sentence
+In tanru, we may wish to negate an individual element before combining it with another to form the tanru. We in effect need a shorter-than-selbri-scope negation, for which we can use *[na'e](/glossary/#nae)* as well. The positive sentence
 
 ##### Example 15.47.
 
@@ -499,13 +499,13 @@ can be subjected to selbri negation in several ways. Two are:
 | mi | cadzu     | na'e        | klama  | le  | zarci   |
 | I  | walkingly | (other-than | go-to) | the | market. |
 
-These negations show the default scope of *[na'e](/glossary/#valsi-nahe)* is close-binding on an individual brivla in a tanru. [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. ") says that I am going to the market, but in some kind of a non-walking manner. (As with most tanru, there are a few other possible interpretations, but we'll assume this one – see [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri") for a discussion of tanru meaning).
+These negations show the default scope of *[na'e](/glossary/#nae)* is close-binding on an individual brivla in a tanru. [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. ") says that I am going to the market, but in some kind of a non-walking manner. (As with most tanru, there are a few other possible interpretations, but we'll assume this one – see [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri") for a discussion of tanru meaning).
 
-In neither [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. ") nor [Example 15.49](/chapter15/#example-random-id-qH6w "Example 15.49. ") does the *[na'e](/glossary/#valsi-nahe)* negate the entire selbri. While both sentences contain negations that deny a particular relationship between the sumti, they also have a component which makes a positive claim about such a relationship. This is clearer in [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. "), which says that I am going, but in a non-walking manner. In [Example 15.49](/chapter15/#example-random-id-qH6w "Example 15.49. "), we have claimed that the relationship between me and the market in some way involves walking, but is not one of “going to” (perhaps we are walking around the market, or walking-in-place while at the market).
+In neither [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. ") nor [Example 15.49](/chapter15/#example-random-id-qH6w "Example 15.49. ") does the *[na'e](/glossary/#nae)* negate the entire selbri. While both sentences contain negations that deny a particular relationship between the sumti, they also have a component which makes a positive claim about such a relationship. This is clearer in [Example 15.48](/chapter15/#example-random-id-qh4w "Example 15.48. "), which says that I am going, but in a non-walking manner. In [Example 15.49](/chapter15/#example-random-id-qH6w "Example 15.49. "), we have claimed that the relationship between me and the market in some way involves walking, but is not one of “going to” (perhaps we are walking around the market, or walking-in-place while at the market).
 
-The “scale”, or actually the “set”, implied in Lojban tanru negations is anything which plausibly can be substituted into the tanru. (Plausibility here is interpreted in the same way that answers to a *[mo](/glossary/#valsi-mo)* question must be plausible – the result must not only have the right number of places and have sumti values appropriate to the place structure, it must also be appropriate or relevant to the context.) This minimal condition allows a speaker to be intentionally vague, while still communicating meaningful information. The speaker who uses selbri negation is denying one relationship, while minimally asserting a different relationship.
+The “scale”, or actually the “set”, implied in Lojban tanru negations is anything which plausibly can be substituted into the tanru. (Plausibility here is interpreted in the same way that answers to a *[mo](/glossary/#mo)* question must be plausible – the result must not only have the right number of places and have sumti values appropriate to the place structure, it must also be appropriate or relevant to the context.) This minimal condition allows a speaker to be intentionally vague, while still communicating meaningful information. The speaker who uses selbri negation is denying one relationship, while minimally asserting a different relationship.
 
-We also need a scalar negation form that has a scope longer than a single brivla. There exists such a longer-scope selbri negation form, as exemplified by (each Lojban sentence in the next several examples is given twice, with parentheses in the second copy showing the scope of the *[na'e](/glossary/#valsi-nahe)*):
+We also need a scalar negation form that has a scope longer than a single brivla. There exists such a longer-scope selbri negation form, as exemplified by (each Lojban sentence in the next several examples is given twice, with parentheses in the second copy showing the scope of the *[na'e](/glossary/#nae)*):
 
 ##### Example 15.50.
 
@@ -515,7 +515,7 @@ We also need a scalar negation form that has a scope longer than a single brivla
 | mi | na'e       | (ke | cadzu     | klama | \[ke'e\]) | le  | zarci   |
 | I  | other-than | (   | walkingly | go-to | )        | the | market. |
 
-This negation uses the same *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* delimiters (the *[ke'e](/glossary/#valsi-kehe)* is always elidable at the end of a selbri) that are used in tanru. The sentence clearly negates the entire selbri. The *[ke'e](/glossary/#valsi-kehe)*, whether elided or not, reminds us that the negation does not include the trailing sumti. While the trailing-sumti place-structure is defined as that of the final brivla, the trailing sumti themselves are not part of the selbri and are thus not negated by *[na'e](/glossary/#valsi-nahe)*.
+This negation uses the same *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* delimiters (the *[ke'e](/glossary/#kee)* is always elidable at the end of a selbri) that are used in tanru. The sentence clearly negates the entire selbri. The *[ke'e](/glossary/#kee)*, whether elided or not, reminds us that the negation does not include the trailing sumti. While the trailing-sumti place-structure is defined as that of the final brivla, the trailing sumti themselves are not part of the selbri and are thus not negated by *[na'e](/glossary/#nae)*.
 
 Negations of just part of the selbri are also permitted:
 
@@ -529,7 +529,7 @@ Negations of just part of the selbri are also permitted:
 
 In [Example 15.51](/chapter15/#example-random-id-PVct "Example 15.51. "), only the *sutra cadzu* tanru is negated, so the speaker is indeed going to the market, but not by walking quickly.
 
-Negations made with *[na'e](/glossary/#valsi-nahe)* or *na'eke* also include within their scope any sumti attached to the brivla or tanru with *[be](/glossary/#valsi-be)* or *[bei](/glossary/#valsi-bei)*. Such attached sumti are considered part of the brivla or tanru:
+Negations made with *[na'e](/glossary/#nae)* or *na'eke* also include within their scope any sumti attached to the brivla or tanru with *[be](/glossary/#be)* or *[bei](/glossary/#bei)*. Such attached sumti are considered part of the brivla or tanru:
 
 ##### Example 15.52.
 
@@ -561,13 +561,13 @@ Note that [Example 15.53](/chapter15/#example-random-id-qh7T "Example 15.53. ") 
 | mi | na'e       | (ke | sutra   | cadzu | be | lemi | birka | \[ke'e\]) |
 | I  | other-than | (   | quickly | walk  | on | my   | arms  | ).       |
 
-The translations show that the negation in [Example 15.53](/chapter15/#example-random-id-qh7T "Example 15.53. ") is more restricted in scope; i.e. less of the sentence is negated with respect to x1 (*[mi](/glossary/#valsi-mi)*).
+The translations show that the negation in [Example 15.53](/chapter15/#example-random-id-qh7T "Example 15.53. ") is more restricted in scope; i.e. less of the sentence is negated with respect to x1 (*[mi](/glossary/#mi)*).
 
-Logical scope being an important factor in Lojban's claims to be unambiguous, let us indicate the relative precedence of *[na'e](/glossary/#valsi-nahe)* as an operator. Grouping with *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)*, of course, has an overt scope, which is its advantage. *[na'e](/glossary/#valsi-nahe)* is very close binding to its brivla. Internal binding of tanru, with *[bo](/glossary/#valsi-bo)*, is not as tightly bound as *[na'e](/glossary/#valsi-nahe)*. *[co](/glossary/#valsi-co)*, the tanru inversion operator has a scope that is longer than all other tanru constructs.
+Logical scope being an important factor in Lojban's claims to be unambiguous, let us indicate the relative precedence of *[na'e](/glossary/#nae)* as an operator. Grouping with *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)*, of course, has an overt scope, which is its advantage. *[na'e](/glossary/#nae)* is very close binding to its brivla. Internal binding of tanru, with *[bo](/glossary/#bo)*, is not as tightly bound as *[na'e](/glossary/#nae)*. *[co](/glossary/#co)*, the tanru inversion operator has a scope that is longer than all other tanru constructs.
 
-In short, *[na'e](/glossary/#valsi-nahe)* and *na'eke* define a type of negation, which is shorter in scope than bridi negation, and which affects all or part of a selbri. The result of *[na'e](/glossary/#valsi-nahe)* negation remains an assertion of some specific truth and not merely a denial of another claim.
+In short, *[na'e](/glossary/#nae)* and *na'eke* define a type of negation, which is shorter in scope than bridi negation, and which affects all or part of a selbri. The result of *[na'e](/glossary/#nae)* negation remains an assertion of some specific truth and not merely a denial of another claim.
 
-The similarity becomes striking when it is noticed that the rafsi *-nal-*, representing *[na'e](/glossary/#valsi-nahe)* when a tanru is condensed into a lujvo, forms an exact parallel to the English usage of *non-*. Turning a series of related negations into lujvo gives:
+The similarity becomes striking when it is noticed that the rafsi *-nal-*, representing *[na'e](/glossary/#nae)* when a tanru is condensed into a lujvo, forms an exact parallel to the English usage of *non-*. Turning a series of related negations into lujvo gives:
 
 ##### Example 15.55.
 
@@ -579,9 +579,9 @@ The similarity becomes striking when it is noticed that the rafsi *-nal-*, repre
 
 - nake sutra cadzu ke'e klama becomes nalsu'adzuke'ekla
 
-Note: *-kem-* is the rafsi for *[ke](/glossary/#valsi-ke)*, but it is omitted in the final lujvo as superfluous – *[ke'e](/glossary/#valsi-kehe)* is its own rafsi, and its inclusion in the lujvo implies a *[ke](/glossary/#valsi-ke)* after the *-nal-*, since it needs to close something; only a *[ke](/glossary/#valsi-ke)* immediately after the negation would make the *[ke'e](/glossary/#valsi-kehe)* meaningful in the tanru expressed in this lujvo.
+Note: *-kem-* is the rafsi for *[ke](/glossary/#ke)*, but it is omitted in the final lujvo as superfluous – *[ke'e](/glossary/#kee)* is its own rafsi, and its inclusion in the lujvo implies a *[ke](/glossary/#ke)* after the *-nal-*, since it needs to close something; only a *[ke](/glossary/#ke)* immediately after the negation would make the *[ke'e](/glossary/#kee)* meaningful in the tanru expressed in this lujvo.
 
-In a lujvo, it is probably clearest to translate *-nal-* as “non-”, to match the English combining forms, except when the *[na'e](/glossary/#valsi-nahe)* has single word scope and English uses “un-” or “im-” to negate that single word. Translation style should determine the use of “other than”, “non-”, or another negator for *[na'e](/glossary/#valsi-nahe)* in tanru; the translator must render the Lojban into English so it is clear in context. Let's go back to our simplest example:
+In a lujvo, it is probably clearest to translate *-nal-* as “non-”, to match the English combining forms, except when the *[na'e](/glossary/#nae)* has single word scope and English uses “un-” or “im-” to negate that single word. Translation style should determine the use of “other than”, “non-”, or another negator for *[na'e](/glossary/#nae)* in tanru; the translator must render the Lojban into English so it is clear in context. Let's go back to our simplest example:
 
 ##### Example 15.56.
 
@@ -598,7 +598,7 @@ In a lujvo, it is probably clearest to translate *-nal-* as “non-”, to match
 | mi | nalkla            | le  | zarci   |
 | I  | am-a-non-go-er-to | the | market. |
 
-Note that to compare with the English translation form using “non-”, we've translated the Lojban as if the selbri were a noun. Since Lojban *[klama](/glossary/#valsi-klama)* is indifferently a noun, verb, or adjective, the difference is purely a translation change, not a true change in meaning. The English difference seems significant, though, due to the strongly different English grammatical forms and the ambiguity of English negation.
+Note that to compare with the English translation form using “non-”, we've translated the Lojban as if the selbri were a noun. Since Lojban *[klama](/glossary/#klama)* is indifferently a noun, verb, or adjective, the difference is purely a translation change, not a true change in meaning. The English difference seems significant, though, due to the strongly different English grammatical forms and the ambiguity of English negation.
 
 Consider the following highly problematic sentence:
 
@@ -618,7 +618,7 @@ Consider the following highly problematic sentence:
 | ----------------------------------- |
 | The current King of France is bald. |
 
-The selbri *[krecau](/glossary/#valsi-krecau)* negates with *[na'e](/glossary/#valsi-nahe)* as:
+The selbri *[krecau](/glossary/#krecau)* negates with *[na'e](/glossary/#nae)* as:
 
 ##### Example 15.59.
 
@@ -654,7 +654,7 @@ or, as a lujvo:
 | --------------------------------------------- |
 | The current King of France is a non-bald-one. |
 
-[Example 15.59](/chapter15/#example-random-id-2maY "Example 15.59. ") and [Example 15.60](/chapter15/#example-random-id-wGXL "Example 15.60. ") express the predicate negation forms using a negation word (*[na'e](/glossary/#valsi-nahe)*) or rafsi (*-nal-*); yet they make positive assertions about the current King of France; ie., that he is other-than-bald or non-bald. This follows from the close binding of *[na'e](/glossary/#valsi-nahe)* to the brivla. The lujvo form makes this overt by absorbing the negative marker into the word.
+[Example 15.59](/chapter15/#example-random-id-2maY "Example 15.59. ") and [Example 15.60](/chapter15/#example-random-id-wGXL "Example 15.60. ") express the predicate negation forms using a negation word (*[na'e](/glossary/#nae)*) or rafsi (*-nal-*); yet they make positive assertions about the current King of France; ie., that he is other-than-bald or non-bald. This follows from the close binding of *[na'e](/glossary/#nae)* to the brivla. The lujvo form makes this overt by absorbing the negative marker into the word.
 
 Since there is no current King of France, it is false to say that he is bald, or non-bald, or to make any other affirmative claim about him. Any sentence about the current King of France containing only a selbri negation is as false as the sentence without the negation. No amount of selbri negations have any effect on the truth value of the sentence, which is invariably “false”, since no affirmative statement about the current King of France can be true. On the other hand, bridi negation does produce a truth:
 
@@ -674,7 +674,7 @@ Since there is no current King of France, it is false to say that he is bald, or
 | ---------------------------------------------------- |
 | It is false that the current King of France is bald. |
 
-Note: *[lo](/glossary/#valsi-lo)* is used in these sentences because negation relates to truth conditions. To meaningfully talk about truth conditions in sentences carrying a description, it must be clear that the description actually applies to the referent. A sentence using *[le](/glossary/#valsi-le)* instead of *[lo](/glossary/#valsi-lo)* can be true even if there is no current king of France, as long as the speaker and the listener agree to describe something as the current king of France. (See the explanations of *[le](/glossary/#valsi-le)* in [Section 6.2](/chapter06/#section-basic-descriptors "6.2. The three basic description types").)
+Note: *[lo](/glossary/#lo)* is used in these sentences because negation relates to truth conditions. To meaningfully talk about truth conditions in sentences carrying a description, it must be clear that the description actually applies to the referent. A sentence using *[le](/glossary/#le)* instead of *[lo](/glossary/#lo)* can be true even if there is no current king of France, as long as the speaker and the listener agree to describe something as the current king of France. (See the explanations of *[le](/glossary/#le)* in [Section 6.2](/chapter06/#section-basic-descriptors "6.2. The three basic description types").)
 
 ## Expressing scales in selbri negation
 
@@ -705,9 +705,9 @@ However, if we have reason to be more explicit (an obtuse or contrary listener, 
 | le  | stizu | cu | na'e         | xunre | skari  |
 | The | chair |    | (is-of-a-non | red)  | color. |
 
-We might also have reduced the pragmatic ambiguity by making the two trailing sumti values explicit (the “as perceived by” and “under conditions” places have been added to the place structure of *[xunre](/glossary/#valsi-xunre)*). But assume we have a really stubborn listener (an artificially semi-intelligent computer?) who will find a way to misinterpret [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. ") even with three specific sumti provided.
+We might also have reduced the pragmatic ambiguity by making the two trailing sumti values explicit (the “as perceived by” and “under conditions” places have been added to the place structure of *[xunre](/glossary/#xunre)*). But assume we have a really stubborn listener (an artificially semi-intelligent computer?) who will find a way to misinterpret [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. ") even with three specific sumti provided.
 
-In this case, we use a sumti tagged with the sumti tcita *[ci'u](/glossary/#valsi-cihu)*, which translates roughly as “on a scale of X”, where `X` is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with *[be](/glossary/#valsi-be)*. To clarify [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. "), we might say:
+In this case, we use a sumti tagged with the sumti tcita *[ci'u](/glossary/#ciu)*, which translates roughly as “on a scale of X”, where `X` is the sumti. For maximal clarity, the tagged sumti can be bound into the negated selbri with *[be](/glossary/#be)*. To clarify [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. "), we might say:
 
 ##### Example 15.65.
 
@@ -716,7 +716,7 @@ In this case, we use a sumti tagged with the sumti tcita *[ci'u](/glossary/#vals
 | le  | stizu | cu | na'e   | xunre | be | ci'u       | loka       | skari        |
 | The | chair |    | is-non | (red  | on | a-scale-of | a-property | color-ness). |
 
-We can alternately use the sumti tcita *[teci'e](/glossary/#valsi-tecihe)*, based on *[ciste](/glossary/#valsi-ciste)*, which translates roughly as “of a system of components X”, for universes of discourse; in this case, we would express [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. ") as:
+We can alternately use the sumti tcita *[teci'e](/glossary/#tecie)*, based on *[ciste](/glossary/#ciste)*, which translates roughly as “of a system of components X”, for universes of discourse; in this case, we would express [Example 15.64](/chapter15/#example-random-id-yWSC "Example 15.64. ") as:
 
 ##### Example 15.66.
 
@@ -730,7 +730,7 @@ We can alternately use the sumti tcita *[teci'e](/glossary/#valsi-tecihe)*, base
 | be | teci'e   | le                  | skari          |
 | of | a-system | with-components-the | colors)-thing. |
 
-Other places of *[ciste](/glossary/#valsi-ciste)* can be brought out using the grammar of selma'o BAI modals, allowing slightly different forms of expression, thus:
+Other places of *[ciste](/glossary/#ciste)* can be brought out using the grammar of selma'o BAI modals, allowing slightly different forms of expression, thus:
 
 ##### Example 15.67.
 
@@ -744,7 +744,7 @@ Other places of *[ciste](/glossary/#valsi-ciste)* can be brought out using the g
 | be | ci'e     | lo'i                | skari          |
 | of | a-system | which-is-the-set-of | colors)-thing. |
 
-The cmavo *[le'a](/glossary/#valsi-leha)*, also in selma'o BAI, can be used to specify a category:
+The cmavo *[le'a](/glossary/#lea)*, also in selma'o BAI, can be used to specify a category:
 
 ##### Example 15.68.
 
@@ -760,7 +760,7 @@ The cmavo *[le'a](/glossary/#valsi-leha)*, also in selma'o BAI, can be used to s
 
 which is minimally different in meaning from [Example 15.67](/chapter15/#example-random-id-Rj71 "Example 15.67. ").
 
-The cmavo *[na'e](/glossary/#valsi-nahe)* is not the only member of selma'o NAhE. If we want to express a scalar negation which is a polar opposite, we use the cmavo *[to'e](/glossary/#valsi-tohe)*, which is grammatically equivalent to *[na'e](/glossary/#valsi-nahe)*:
+The cmavo *[na'e](/glossary/#nae)* is not the only member of selma'o NAhE. If we want to express a scalar negation which is a polar opposite, we use the cmavo *[to'e](/glossary/#toe)*, which is grammatically equivalent to *[na'e](/glossary/#nae)*:
 
 ##### Example 15.69.
 
@@ -769,7 +769,7 @@ The cmavo *[na'e](/glossary/#valsi-nahe)* is not the only member of selma'o NAhE
 | le  | stizu | cu | to'e              | xunre | be | ci'u  | loka          | skari       |
 | The | chair |    | is-a-(opposite-of | red)  | on | scale | a-property-of | color-ness. |
 
-Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/glossary/#valsi-nohe)*, also grammatically equivalent to *[na'e](/glossary/#valsi-nahe)*. Here are some parallel examples of *[na'e](/glossary/#valsi-nahe)*, *[no'e](/glossary/#valsi-nohe)*, and *[to'e](/glossary/#valsi-tohe)*:
+Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/glossary/#noe)*, also grammatically equivalent to *[na'e](/glossary/#nae)*. Here are some parallel examples of *[na'e](/glossary/#nae)*, *[no'e](/glossary/#noe)*, and *[to'e](/glossary/#toe)*:
 
 ##### Example 15.70.
 
@@ -811,11 +811,11 @@ Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/gloss
 | --------------------------------- |
 | That is ugly/very ugly/repulsive. |
 
-The cmavo *[to'e](/glossary/#valsi-tohe)* has the assigned rafsi *-tol-* and *-to'e-*; the cmavo *[no'e](/glossary/#valsi-nohe)* has the assigned rafsi *-nor-* and *-no'e-*. The selbri in [Example 15.71](/chapter15/#example-random-id-qh9U "Example 15.71. ") through [Example 15.73](/chapter15/#example-random-id-qHAV "Example 15.73. ") could be replaced by the lujvo *nalmle*, *normle*, and *[tolmle](/glossary/#valsi-tolmle)* respectively.
+The cmavo *[to'e](/glossary/#toe)* has the assigned rafsi *-tol-* and *-to'e-*; the cmavo *[no'e](/glossary/#noe)* has the assigned rafsi *-nor-* and *-no'e-*. The selbri in [Example 15.71](/chapter15/#example-random-id-qh9U "Example 15.71. ") through [Example 15.73](/chapter15/#example-random-id-qHAV "Example 15.73. ") could be replaced by the lujvo *nalmle*, *normle*, and *[tolmle](/glossary/#tolmle)* respectively.
 
 This large variety of scalar negations is provided because different scales have different properties. Some scales are open-ended in both directions: there is no “ultimately ugly” or “ultimately beautiful”. Other scales, like temperature, are open at one end and closed at the other: there is a minimum temperature (so-called “absolute zero”) but no maximum temperature. Still other scales are closed at both ends.
 
-Correspondingly, some selbri have no obvious *[to'e](/glossary/#valsi-tohe)*- what is the opposite of a dog? – while others have more than one, and need *[ci'u](/glossary/#valsi-cihu)* to specify which opposite is meant.
+Correspondingly, some selbri have no obvious *[to'e](/glossary/#toe)*- what is the opposite of a dog? – while others have more than one, and need *[ci'u](/glossary/#ciu)* to specify which opposite is meant.
 
 ## sumti negation
 
@@ -874,19 +874,19 @@ In place of *na'ebo*, you may also use *no'ebo* and *to'ebo*, to be more specifi
 | -------------- |
 | I go to Perth. |
 
-(Boston and Perth are nearly, but not quite, antipodal cities. In a purely United States context, San Francisco might be a better “opposite”.) Coming up with good examples is difficult, because attaching *to'ebo* to a description sumti is usually the same as attaching *[to'e](/glossary/#valsi-tohe)* to the selbri of the description.
+(Boston and Perth are nearly, but not quite, antipodal cities. In a purely United States context, San Francisco might be a better “opposite”.) Coming up with good examples is difficult, because attaching *to'ebo* to a description sumti is usually the same as attaching *[to'e](/glossary/#toe)* to the selbri of the description.
 
 It is not possible to transform sumti negations of either type into bridi negations or scalar selbri negations. Negations of sumti will be used in Lojban conversation. The inability to manipulate these negations logically will, it is hoped, prevent the logical errors that result when natural languages attempt corresponding manipulations.
 
 ## Negation of minor grammatical constructs
 
-We have a few other constructs that can be negated, all of them based on negating individual words. For such negation, we use the suffix-combining negator, which is *[nai](/glossary/#valsi-nai)*. *[nai](/glossary/#valsi-nai)*, by the way, is almost always written as a compound into the previous word that it is negating, although it is a regular separate-word cmavo and the sole member of selma'o NAI.
+We have a few other constructs that can be negated, all of them based on negating individual words. For such negation, we use the suffix-combining negator, which is *[nai](/glossary/#nai)*. *[nai](/glossary/#nai)*, by the way, is almost always written as a compound into the previous word that it is negating, although it is a regular separate-word cmavo and the sole member of selma'o NAI.
 
 Most of these negation forms are straightforward, and should be discussed and interpreted in connection with an analysis of the particular construct being negated. Thus, we will not go into much detail here.
 
-The following are places where *[nai](/glossary/#valsi-nai)* is used:
+The following are places where *[nai](/glossary/#nai)* is used:
 
-When attached to tenses and modals (see [Section 9.13](/chapter09/#section-modal-negation "9.13. Modal negation"), [Section 10.9](/chapter10/#section-interval-properties "10.9. Interval properties: TAhE and roi"), [Section 10.18](/chapter10/#section-tense-negation "10.18. Tense negation") and [Section 10.20](/chapter10/#section-connected-tenses "10.20. Logical and non-logical connections between tenses")), the *[nai](/glossary/#valsi-nai)* suffix usually indicates a contradictory negation of the tagged bridi. Thus *punai* as a tense inflection means “not-in-the-past”, or “not-previously”, without making any implication about any other time period unless explicitly stated. As a result,
+When attached to tenses and modals (see [Section 9.13](/chapter09/#section-modal-negation "9.13. Modal negation"), [Section 10.9](/chapter10/#section-interval-properties "10.9. Interval properties: TAhE and roi"), [Section 10.18](/chapter10/#section-tense-negation "10.18. Tense negation") and [Section 10.20](/chapter10/#section-connected-tenses "10.20. Logical and non-logical connections between tenses")), the *[nai](/glossary/#nai)* suffix usually indicates a contradictory negation of the tagged bridi. Thus *punai* as a tense inflection means “not-in-the-past”, or “not-previously”, without making any implication about any other time period unless explicitly stated. As a result,
 
 ##### Example 15.77.
 
@@ -927,21 +927,21 @@ As a special case, a *-nai* attached to the interval modifiers of selma'o TAhE, 
 
 means that I dance on the ice either zero or else two or more times within the relevant time interval described by the bridi. [Example 15.79](/chapter15/#example-random-id-4YYQ "Example 15.79. ") is very different from the English use of “not once”, which is an emphatic way of saying “never” – that is, exactly zero times.
 
-In indicators and attitudinals of selma'o UI or CAI, *[nai](/glossary/#valsi-nai)* denotes a polar negation. As discussed in [Section 13.4](/chapter13/#section-intensity-scale "13.4. Attitudes as scales"), most indicators have an implicit scale, and *[nai](/glossary/#valsi-nai)* changes the indicator to refer to the opposite end of the scale. Thus *[.uinai](/glossary/#valsi-uinai)* expresses unhappiness, and *[.ienai](/glossary/#valsi-ienai)* expresses disagreement (not ambivalence, which is expressed with the neutral or undecided intensity as *.iecu'i*).
+In indicators and attitudinals of selma'o UI or CAI, *[nai](/glossary/#nai)* denotes a polar negation. As discussed in [Section 13.4](/chapter13/#section-intensity-scale "13.4. Attitudes as scales"), most indicators have an implicit scale, and *[nai](/glossary/#nai)* changes the indicator to refer to the opposite end of the scale. Thus *[.uinai](/glossary/#uinai)* expresses unhappiness, and *[.ienai](/glossary/#ienai)* expresses disagreement (not ambivalence, which is expressed with the neutral or undecided intensity as *.iecu'i*).
 
-Vocative cmavo of selma'o COI are considered a kind of indicator, but one which identifies the listener. Semantically, we could dispense with about half of the COI selma'o words based on the scalar paradigm. For example, *[co'o](/glossary/#valsi-coho)* could be expressed as *coinai*. However, this is not generally done.
+Vocative cmavo of selma'o COI are considered a kind of indicator, but one which identifies the listener. Semantically, we could dispense with about half of the COI selma'o words based on the scalar paradigm. For example, *[co'o](/glossary/#coo)* could be expressed as *coinai*. However, this is not generally done.
 
-Most of the COI cmavo are used in what are commonly called protocol situations. These protocols are used, for example, in radio conversations, which often take place in a noisy environment. The negatives of protocol words tend to convey diametrically opposite communications situations (as might be expected). Therefore, only one protocol vocative is dependent on *[nai](/glossary/#valsi-nai)*: negative acknowledgement, which is *[je'enai](/glossary/#valsi-jehenai)* (“I didn't get that”).
+Most of the COI cmavo are used in what are commonly called protocol situations. These protocols are used, for example, in radio conversations, which often take place in a noisy environment. The negatives of protocol words tend to convey diametrically opposite communications situations (as might be expected). Therefore, only one protocol vocative is dependent on *[nai](/glossary/#nai)*: negative acknowledgement, which is *[je'enai](/glossary/#jeenai)* (“I didn't get that”).
 
-Unlike the attitudinal indicators, which tend to be unimportant in noisy situations, the protocol vocatives become more important. So if, in a noisy environment, a protocol listener makes out only *[nai](/glossary/#valsi-nai)*, he or she can presume it is a negative acknowledgement and repeat transmission or otherwise respond accordingly. [Section 13.14](/chapter13/#section-vocative-scales "13.14. Vocative scales") provides more detail on this topic.
+Unlike the attitudinal indicators, which tend to be unimportant in noisy situations, the protocol vocatives become more important. So if, in a noisy environment, a protocol listener makes out only *[nai](/glossary/#nai)*, he or she can presume it is a negative acknowledgement and repeat transmission or otherwise respond accordingly. [Section 13.14](/chapter13/#section-vocative-scales "13.14. Vocative scales") provides more detail on this topic.
 
 The abstractors of selma'o NU follow the pattern of the tenses and modals. NU allows negative abstractions, especially in compound abstractions connected by logical connectives: *su'ujeninai*, which corresponds to *su'u jenai ni* just as *punai je ca* corresponds to *pu naje ca*. It is not clear how much use logically connected abstractors will be: see [Section 11.12](/chapter11/#section-abstractor-connection "11.12. Abstractor connection").
 
-A *[nai](/glossary/#valsi-nai)* attached to a non-logical connective (of selma'o JOI or BIhI) is a scalar negation, and says that the bridi is false under the specified mixture, but that another connective is applicable. Non-logical connectives are discussed in [Section 14.14](/chapter14/#section-non-logical-connectives "14.14. Non-logical connectives").
+A *[nai](/glossary/#nai)* attached to a non-logical connective (of selma'o JOI or BIhI) is a scalar negation, and says that the bridi is false under the specified mixture, but that another connective is applicable. Non-logical connectives are discussed in [Section 14.14](/chapter14/#section-non-logical-connectives "14.14. Non-logical connectives").
 
 ## Truth questions
 
-One application of negation is in answer to truth questions (those which expect the answers “Yes” or “No”). The truth question cmavo *[xu](/glossary/#valsi-xu)* is in selma'o UI; placed at the beginning of a sentence, it asks whether the sentence as a whole is true or false.
+One application of negation is in answer to truth questions (those which expect the answers “Yes” or “No”). The truth question cmavo *[xu](/glossary/#xu)* is in selma'o UI; placed at the beginning of a sentence, it asks whether the sentence as a whole is true or false.
 
 ##### Example 15.80.
 
@@ -957,7 +957,7 @@ One application of negation is in answer to truth questions (those which expect 
 
 You can now use each of the several kinds of negation we've discussed in answer to this (presuming the same question and context for each answer).
 
-The straightforward negative answer is grammatically equivalent to the expanded sentence with the *[na](/glossary/#valsi-na)* immediately after the *[cu](/glossary/#valsi-cu)* (and before any tense/modal):
+The straightforward negative answer is grammatically equivalent to the expanded sentence with the *[na](/glossary/#na)* immediately after the *[cu](/glossary/#cu)* (and before any tense/modal):
 
 ##### Example 15.81.
 
@@ -988,7 +988,7 @@ which means
 | ----------------------------------------------- |
 | It's not true that John went to Paris and Rome. |
 
-The respondent can change the tense, putting the *[na](/glossary/#valsi-na)* in either before or after the new tense:
+The respondent can change the tense, putting the *[na](/glossary/#na)* in either before or after the new tense:
 
 ##### Example 15.83.
 
@@ -1040,7 +1040,7 @@ meaning
 
 We stated in [Section 15.3](/chapter15/#section-scalar-negation "15.3. Scalar Negation") that sentences like [Example 15.84](/chapter15/#example-random-id-Fn2c "Example 15.84. ") and [Example 15.86](/chapter15/#example-random-id-2SK0 "Example 15.86. ") appear to be semantically identical, but that subtle semantic distinctions may eventually be found.
 
-You can also use a scalar negation with *[na'e](/glossary/#valsi-nahe)*, in which case, it is equivalent to putting a *na'eke* immediately after any tense:
+You can also use a scalar negation with *[na'e](/glossary/#nae)*, in which case, it is equivalent to putting a *na'eke* immediately after any tense:
 
 ##### Example 15.87.
 
@@ -1063,11 +1063,11 @@ which means
 | la         | paris. | .e  | la         | rom.  |
 | that-named | Paris  | and | that-named | Rome. |
 
-He might have telephoned the two cities instead of going there. The unnecessary *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* would have been essential if the selbri had been a tanru.
+He might have telephoned the two cities instead of going there. The unnecessary *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* would have been essential if the selbri had been a tanru.
 
 ## Affirmations
 
-There is an explicit positive form for both selma'o NA (*[je'a](/glossary/#valsi-jeha)*), each of which would supplant the corresponding negator in the grammatical position used, allowing one to assert the positive in response to a negative question or statement without confusion. Assuming the same context as in [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions"):
+There is an explicit positive form for both selma'o NA (*[je'a](/glossary/#jea)*), each of which would supplant the corresponding negator in the grammatical position used, allowing one to assert the positive in response to a negative question or statement without confusion. Assuming the same context as in [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions"):
 
 ##### Example 15.89.
 
@@ -1102,7 +1102,7 @@ The obvious, but incorrect, positive response to this negative question is:
 | ------------------ |
 | \[repeat-previous\] |
 
-A plain *[go'i](/glossary/#valsi-gohi)* does not mean “Yes it is”; it merely abbreviates repeating the previous statement unmodified, including any negators present; and [Example 15.91](/chapter15/#example-random-id-F3LE "Example 15.91. ") actually states that it is false that John went to both Paris and Rome.
+A plain *[go'i](/glossary/#goi)* does not mean “Yes it is”; it merely abbreviates repeating the previous statement unmodified, including any negators present; and [Example 15.91](/chapter15/#example-random-id-F3LE "Example 15.91. ") actually states that it is false that John went to both Paris and Rome.
 
 When considering:
 
@@ -1113,11 +1113,11 @@ When considering:
 | na       | go'i               |
 | \[false\] | \[repeat-previous\] |
 
-as a response to a negative question like [Example 15.90](/chapter15/#example-random-id-8VCt "Example 15.90. "), Lojban designers had to choose between two equally plausible interpretations with opposite effects. Does [Example 15.92](/chapter15/#example-random-id-Pgrw "Example 15.92. ") create a double negative in the sentence by adding a new *[na](/glossary/#valsi-na)* to the one already there (forming a double negative and hence a positive statement), or does the *[na](/glossary/#valsi-na)* replace the previous one, leaving the sentence unchanged?
+as a response to a negative question like [Example 15.90](/chapter15/#example-random-id-8VCt "Example 15.90. "), Lojban designers had to choose between two equally plausible interpretations with opposite effects. Does [Example 15.92](/chapter15/#example-random-id-Pgrw "Example 15.92. ") create a double negative in the sentence by adding a new *[na](/glossary/#na)* to the one already there (forming a double negative and hence a positive statement), or does the *[na](/glossary/#na)* replace the previous one, leaving the sentence unchanged?
 
 It was decided that substitution, the latter alternative, is the preferable choice, since it is then clear whether we intend a positive or a negative sentence without performing any manipulations. This is the way English usually works, but not all languages work this way – Russian, Japanese, and Navajo all interpret a negative reply to a negative question as positive.
 
-The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace the *[na](/glossary/#valsi-na)* in the context, giving:
+The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace the *[na](/glossary/#na)* in the context, giving:
 
 ##### Example 15.93.
 
@@ -1130,7 +1130,7 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 | ------------------------------ |
 | John did go to Paris and Rome. |
 
-*[ja'a](/glossary/#valsi-jaha)* can replace *[na](/glossary/#valsi-na)* in a similar manner wherever the latter is used:
+*[ja'a](/glossary/#jaa)* can replace *[na](/glossary/#na)* in a similar manner wherever the latter is used:
 
 ##### Example 15.94.
 
@@ -1143,7 +1143,7 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 | ------------------------- |
 | I indeed go to the store. |
 
-*[je'a](/glossary/#valsi-jeha)* can replace *[na'e](/glossary/#valsi-nahe)* in exactly the same way, stating that scalar negation does not apply, and that the relation indeed holds as stated. In the absence of a negation context, it emphasizes the positive:
+*[je'a](/glossary/#jea)* can replace *[na'e](/glossary/#nae)* in exactly the same way, stating that scalar negation does not apply, and that the relation indeed holds as stated. In the absence of a negation context, it emphasizes the positive:
 
 ##### Example 15.95.
 
@@ -1254,29 +1254,29 @@ The set of possible metalinguistic errors is open-ended.
 
 Many of these forms have a counterpart in the various examples that we've discussed under logical negation. Metalinguistic negation doesn't claim that the sentence is false or true, though. Rather, it claims that, due to some error in the statement, “true” and “false” don't really apply.
 
-Because one can metalinguistically negate a true statement intending a non-contradictory correction (say, a spelling error); we need a way (or ways) to metalinguistically negate a statement which is independent of our logical negation schemes using *[na](/glossary/#valsi-na)*, *[na'e](/glossary/#valsi-nahe)* and kin. The cmavo *[na'i](/glossary/#valsi-nahi)* is assigned this function. If it is present in a statement, it indicates metalinguistically that something in the statement is incorrect. This metalinguistic negation must override any evaluation of the logic of the statement. It is equally allowed in both positive and negative statements.
+Because one can metalinguistically negate a true statement intending a non-contradictory correction (say, a spelling error); we need a way (or ways) to metalinguistically negate a statement which is independent of our logical negation schemes using *[na](/glossary/#na)*, *[na'e](/glossary/#nae)* and kin. The cmavo *[na'i](/glossary/#nai)* is assigned this function. If it is present in a statement, it indicates metalinguistically that something in the statement is incorrect. This metalinguistic negation must override any evaluation of the logic of the statement. It is equally allowed in both positive and negative statements.
 
-Since *[na'i](/glossary/#valsi-nahi)* is not a logical operator, multiple occurrences of *[na'i](/glossary/#valsi-nahi)* need not be assumed to cancel each other. Indeed, we can use the position of *[na'i](/glossary/#valsi-nahi)* to indicate metalinguistically what is incorrect, preparatory to correcting it in a later sentence; for this reason, we give *[na'i](/glossary/#valsi-nahi)* the grammar of UI. The inclusion of *[na'i](/glossary/#valsi-nahi)* anywhere in a sentence makes it a non-assertion, and suggests one or more pitfalls in assigning a truth value.
+Since *[na'i](/glossary/#nai)* is not a logical operator, multiple occurrences of *[na'i](/glossary/#nai)* need not be assumed to cancel each other. Indeed, we can use the position of *[na'i](/glossary/#nai)* to indicate metalinguistically what is incorrect, preparatory to correcting it in a later sentence; for this reason, we give *[na'i](/glossary/#nai)* the grammar of UI. The inclusion of *[na'i](/glossary/#nai)* anywhere in a sentence makes it a non-assertion, and suggests one or more pitfalls in assigning a truth value.
 
 Let us briefly indicate how the above-mentioned metalinguistic errors can be identified. Other metalinguistic problems can then be marked by devising analogies to these examples:
 
-Existential failure can be marked by attaching *[na'i](/glossary/#valsi-nahi)* to the descriptor *[lo](/glossary/#valsi-lo)* or the *[poi](/glossary/#valsi-poi)* in a *da poi*-form sumti. (See [Section 6.2](/chapter06/#section-basic-descriptors "6.2. The three basic description types") and [Section 16.4](/chapter16/#section-restricted-claims "16.4. Restricted claims: da poi") for details on these constructions.) Remember that if a *[le](/glossary/#valsi-le)* sumti seems to refer to a non-existent referent, you may not understand what the speaker has in mind – the appropriate response is then *[ki'a](/glossary/#valsi-kiha)*, asking for clarification.
+Existential failure can be marked by attaching *[na'i](/glossary/#nai)* to the descriptor *[lo](/glossary/#lo)* or the *[poi](/glossary/#poi)* in a *da poi*-form sumti. (See [Section 6.2](/chapter06/#section-basic-descriptors "6.2. The three basic description types") and [Section 16.4](/chapter16/#section-restricted-claims "16.4. Restricted claims: da poi") for details on these constructions.) Remember that if a *[le](/glossary/#le)* sumti seems to refer to a non-existent referent, you may not understand what the speaker has in mind – the appropriate response is then *[ki'a](/glossary/#kia)*, asking for clarification.
 
-Presupposition failure can be marked directly if the presupposition is overt; if not, one can insert a “mock presupposition” to question with the sumti tcita (selma'o BAI) word *[ji'u](/glossary/#valsi-jihu)*; *ji'uku* thus explicitly refers to an unexpressed assumption, and *ji'una'iku* metalinguistically says that something is wrong with that assumption. (See [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals").)
+Presupposition failure can be marked directly if the presupposition is overt; if not, one can insert a “mock presupposition” to question with the sumti tcita (selma'o BAI) word *[ji'u](/glossary/#jiu)*; *ji'uku* thus explicitly refers to an unexpressed assumption, and *ji'una'iku* metalinguistically says that something is wrong with that assumption. (See [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals").)
 
-Scale errors and category errors can be similarly expressed with selma'o BAI. *[le'a](/glossary/#valsi-leha)* has meaning “of category/class/type X”, *[ci'u](/glossary/#valsi-cihu)* has meaning “on scale X”, and *[ci'e](/glossary/#valsi-cihe)*, based on *[ciste](/glossary/#valsi-ciste)*, can be used to talk about universes of discourse defined either as systems or sets of components, as shown in [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions"). *[kai](/glossary/#valsi-kai)* and *[la'u](/glossary/#valsi-lahu)* also exist in BAI for discussing other quality and quantity errors.
+Scale errors and category errors can be similarly expressed with selma'o BAI. *[le'a](/glossary/#lea)* has meaning “of category/class/type X”, *[ci'u](/glossary/#ciu)* has meaning “on scale X”, and *[ci'e](/glossary/#cie)*, based on *[ciste](/glossary/#ciste)*, can be used to talk about universes of discourse defined either as systems or sets of components, as shown in [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions"). *[kai](/glossary/#kai)* and *[la'u](/glossary/#lau)* also exist in BAI for discussing other quality and quantity errors.
 
-We have to make particular note of potential problems in the areas of undue quantity and incorrect scale/category. Assertions about the relationships between gismu are among the basic substance of the language. It is thus invalid to logically require that if something is blue, that it is colored, or if it is not-blue, then it is some other color. In Lojban, *[blanu](/glossary/#valsi-blanu)* (“blue”) is not explicitly defined as a *[skari](/glossary/#valsi-skari)* (“color”). Similarly, it is not implicit that the opposite of “good” is “bad”.
+We have to make particular note of potential problems in the areas of undue quantity and incorrect scale/category. Assertions about the relationships between gismu are among the basic substance of the language. It is thus invalid to logically require that if something is blue, that it is colored, or if it is not-blue, then it is some other color. In Lojban, *[blanu](/glossary/#blanu)* (“blue”) is not explicitly defined as a *[skari](/glossary/#skari)* (“color”). Similarly, it is not implicit that the opposite of “good” is “bad”.
 
 This mutual independence of gismu is only an ideal. Pragmatically, people will categorize things based on their world-views. We will write dictionary definitions that will relate gismu, unfortunately including some of these world-view assumptions. Lojbanists should try to minimize these assumptions, but this seems a likely area where logical rules will break down (or where Sapir-Whorf effects will be made evident). In terms of negation, however, it is vital that we clearly preserve the capability of denying a presumably obvious scale or category assumption.
 
-Solecisms, grammatical and spelling errors will be marked by marking the offending word or phrase with *[na'i](/glossary/#valsi-nahi)* (in the manner of any selma'o UI cmavo). In this sense, *[na'i](/glossary/#valsi-nahi)* becomes equivalent to the English metalinguistic marker “\[sic\]”. Purists may choose to use ZOI or LOhU/LEhU quotes or *[sa'a](/glossary/#valsi-saha)*-marked corrections to avoid repeating a truly unparsable passage, especially if a computer is to analyze the speech/text. See [Section 19.12](/chapter19/#section-parentheses "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI") for explanations of these usages.
+Solecisms, grammatical and spelling errors will be marked by marking the offending word or phrase with *[na'i](/glossary/#nai)* (in the manner of any selma'o UI cmavo). In this sense, *[na'i](/glossary/#nai)* becomes equivalent to the English metalinguistic marker “\[sic\]”. Purists may choose to use ZOI or LOhU/LEhU quotes or *[sa'a](/glossary/#saa)*-marked corrections to avoid repeating a truly unparsable passage, especially if a computer is to analyze the speech/text. See [Section 19.12](/chapter19/#section-parentheses "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI") for explanations of these usages.
 
-In summary, metalinguistic negation will typically take the form of referring to a previous statement and marking it with one or more *[na'i](/glossary/#valsi-nahi)* to indicate what metalinguistic errors have been made, and then repeating the statement with corrections. References to previous statements may be full repetitions, or may use members of selma'o GOhA. *[na'i](/glossary/#valsi-nahi)* at the beginning of a statement merely says that something is inappropriate about the statement, without specificity.
+In summary, metalinguistic negation will typically take the form of referring to a previous statement and marking it with one or more *[na'i](/glossary/#nai)* to indicate what metalinguistic errors have been made, and then repeating the statement with corrections. References to previous statements may be full repetitions, or may use members of selma'o GOhA. *[na'i](/glossary/#nai)* at the beginning of a statement merely says that something is inappropriate about the statement, without specificity.
 
 In normal use, metalinguistic negation requires that a corrected statement follow the negated statement. In Lojban, however, it is possible to completely and unambiguously specify metalinguistic errors without correcting them. It will eventually be seen whether an uncorrected metalinguistic negation remains an acceptable form in Lojban. In such a statement, metalinguistic expression would involve an ellipsis not unlike that of tenseless expression.
 
-Note that metalinguistic negation gives us another kind of legitimate negative answer to a *[xu](/glossary/#valsi-xu)* question (see [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions")). *[na'i](/glossary/#valsi-nahi)* will be used when something about the questioned statement is inappropriate, such as in questions like “Have you stopped beating your wife?”:
+Note that metalinguistic negation gives us another kind of legitimate negative answer to a *[xu](/glossary/#xu)* question (see [Section 15.8](/chapter15/#section-truth-questions "15.8. Truth questions")). *[na'i](/glossary/#nai)* will be used when something about the questioned statement is inappropriate, such as in questions like “Have you stopped beating your wife?”:
 
 ##### Example 15.110.
 
@@ -1316,7 +1316,7 @@ Responses could include:
 
 |                                                                               |
 | ----------------------------------------------------------------------------- |
-| The selbri (*[sisti](/glossary/#valsi-sisti)*) is inappropriate in some way. |
+| The selbri (*[sisti](/glossary/#sisti)*) is inappropriate in some way. |
 
 One can also specifically qualify the metalinguistic negation, by explicitly repeating the erroneous portion of the bridi to be metalinguistically negated, or adding on of the selma'o BAI qualifiers mentioned above:
 
@@ -1331,7 +1331,7 @@ One can also specifically qualify the metalinguistic negation, by explicitly rep
 | ----------------------------------------------------- |
 | Some presupposition is wrong with the previous bridi. |
 
-Finally, one may metalinguistically affirm a bridi with *[jo'a](/glossary/#valsi-joha)*, another cmavo of selma'o UI. A common use for *[jo'a](/glossary/#valsi-joha)* might be to affirm that a particular construction, though unusual or counterintuitive, is in fact correct; another usage would be to disagree with – by overriding – a respondent's metalinguistic negation.
+Finally, one may metalinguistically affirm a bridi with *[jo'a](/glossary/#joa)*, another cmavo of selma'o UI. A common use for *[jo'a](/glossary/#joa)* might be to affirm that a particular construction, though unusual or counterintuitive, is in fact correct; another usage would be to disagree with – by overriding – a respondent's metalinguistic negation.
 
 ## Summary – Are All Possible Questions About Negation Now Answered?
 
