@@ -27,5 +27,5 @@ pnpm-debug.log*
 .vercel/
 input/
 out/
-mod/rename.ts
+mod/script.ts
 

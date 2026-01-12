@@ -8,7 +8,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "build-preview": "astro build && astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "script": "tsx mod/script.ts"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
@@ -19,10 +20,12 @@
   },
   "devDependencies": {
     "@types/node": "^25.0.3",
+    "rehype-katex": "^7.0.1",
+    "remark-math": "^6.0.0",
     "tsx": "^4.21.0",
     "typescript": "~5.9.3"
   },
-  "packageManager": "pnpm@10.27.0",
+  "packageManager": "pnpm@10.28.0",
   "volta": {
     "node": "24.12.0"
   }

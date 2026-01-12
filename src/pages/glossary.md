@@ -9,3637 +9,3637 @@ nextTitle: 'Next: General Index'
 
 All definitions in this glossary are brief and unofficial. Only the published dictionary is a truly official reference for word definitions. These definitions are here simply as a quick reference.
 
-- a
+##### a
 
-  logical connective: sumti afterthought or.
+logical connective: sumti afterthought or.
 
-- abu
+##### abu
 
-  letteral for a.
+letteral for a.
 
-- a'e
+##### a'e
 
-  attitudinal: alertness - exhaustion.
+attitudinal: alertness - exhaustion.
 
-- a'u
+##### a'u
 
-  attitudinal: interest - disinterest - repulsion.
+attitudinal: interest - disinterest - repulsion.
 
-- ai
+##### ai
 
-  attitudinal: intent - indecision - rejection/refusal.
+attitudinal: intent - indecision - rejection/refusal.
 
-- au
+##### au
 
-  attitudinal: desire - indifference - reluctance.
+attitudinal: desire - indifference - reluctance.
 
-- ba
+##### ba
 
-  time tense relation/direction: will \[selbri\]; after \[sumti\]; default future tense.
+time tense relation/direction: will \[selbri\]; after \[sumti\]; default future tense.
 
-- ba'a
+##### ba'a
 
-  evidential: I expect - I experience - I remember.
+evidential: I expect - I experience - I remember.
 
-- ba'acu'i
+##### ba'acu'i
 
-  evidential: I expect - I experience - I remember.
+evidential: I expect - I experience - I remember.
 
-- ba'anai
+##### ba'anai
 
-  evidential: I expect - I experience - I remember.
+evidential: I expect - I experience - I remember.
 
-- ba'e
+##### ba'e
 
-  forethought emphasis indicator; indicates next word is especially emphasized.
+forethought emphasis indicator; indicates next word is especially emphasized.
 
-- ba'o
+##### ba'o
 
-  interval event contour: in the aftermath of ...; since ...; retrospective/perfect | |----.
+interval event contour: in the aftermath of ...; since ...; retrospective/perfect | |----.
 
-- bai
+##### bai
 
-  bapli modal, 1st place (forced by) forcedly; compelled by force ...
+bapli modal, 1st place (forced by) forcedly; compelled by force ...
 
-- bajra
+##### bajra
 
-  x1 runs on surface x2 using limbs x3 with gait x4.
+x1 runs on surface x2 using limbs x3 with gait x4.
 
-- bakrecpa'o
+##### bakrecpa'o
 
-  p1=r1 is a steak/beefsteak (flat cut of beef) from cow/cattle/kine/ox p2=r2=b1.
+p1=r1 is a steak/beefsteak (flat cut of beef) from cow/cattle/kine/ox p2=r2=b1.
 
-- bakri
+##### bakri
 
-  x1 is a quantity of/contains/is made of chalk from source x2 in form x3.
+x1 is a quantity of/contains/is made of chalk from source x2 in form x3.
 
-- balsoi
+##### balsoi
 
-  s1=b1 is a great soldier of army s2 great in property b2 (ka) by standard b3.
+s1=b1 is a great soldier of army s2 great in property b2 (ka) by standard b3.
 
-- balvi
+##### balvi
 
-  x1 is in the future of/later than/after x2 in time sequence; x1 is latter; x2 is former.
+x1 is in the future of/later than/after x2 in time sequence; x1 is latter; x2 is former.
 
-- bangu
+##### bangu
 
-  x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u, not quote).
+x1 is a/the language/dialect used by x2 to express/communicate x3 (si'o/du'u, not quote).
 
-- banli
+##### banli
 
-  x1 is great/grand in property x2 (ka) by standard x3.
+x1 is great/grand in property x2 (ka) by standard x3.
 
-- bapu
+##### bapu
 
-  time tense: will have been; (tense/modal).
+time tense: will have been; (tense/modal).
 
-- barda
+##### barda
 
-  x1 is big/large in property/dimension(s) x2 (ka) as compared with standard/norm x3.
+x1 is big/large in property/dimension(s) x2 (ka) as compared with standard/norm x3.
 
-- basti
+##### basti
 
-  x1 replaces/substitutes for/instead of x2 in circumstance x3; x1 is a replacement/substitute.
+x1 replaces/substitutes for/instead of x2 in circumstance x3; x1 is a replacement/substitute.
 
-- basygau
+##### basygau
 
-  g1 (agent) replaces/substitutes b1 for/instead of b2 in circumstance b3.
+g1 (agent) replaces/substitutes b1 for/instead of b2 in circumstance b3.
 
-- batci
+##### batci
 
-  x1 bites/pinches x2 on/at specific locus x3 with x4.
+x1 bites/pinches x2 on/at specific locus x3 with x4.
 
-- bau
+##### bau
 
-  bangu modal, 1st place in language ...
+bangu modal, 1st place in language ...
 
-- bavla'i
+##### bavla'i
 
-  b1=l1 is next after b2=l2 in sequence l3.
+b1=l1 is next after b2=l2 in sequence l3.
 
-- bavlamdei
+##### bavlamdei
 
-  d1=b1=l1 is tomorrow; d1=b1=l1 is the day following b2=l2, day standard d3.
+d1=b1=l1 is tomorrow; d1=b1=l1 is the day following b2=l2, day standard d3.
 
-- baxso
+##### baxso
 
-  x1 reflects Malay-Indonesian common language/culture in aspect x2.
+x1 reflects Malay-Indonesian common language/culture in aspect x2.
 
-- be
+##### be
 
-  sumti link to attach sumti (default x2) to a selbri; used in descriptions.
+sumti link to attach sumti (default x2) to a selbri; used in descriptions.
 
-- be'a
+##### be'a
 
-  location tense relation/direction; north of.
+location tense relation/direction; north of.
 
-- be'o
+##### be'o
 
-  elidable terminator: end linked sumti in specified description.
+elidable terminator: end linked sumti in specified description.
 
-- be'u
+##### be'u
 
-  attitudinal modifier: lack/need - presence/satisfaction - satiation.
+attitudinal modifier: lack/need - presence/satisfaction - satiation.
 
-- bei
+##### bei
 
-  separates multiple linked sumti within a selbri; used in descriptions.
+separates multiple linked sumti within a selbri; used in descriptions.
 
-- bemro
+##### bemro
 
-  x1 reflects North American culture/nationality/geography in aspect x2.
+x1 reflects North American culture/nationality/geography in aspect x2.
 
-- bengo
+##### bengo
 
-  x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2.
+x1 reflects Bengali/Bangladesh culture/nationality/language in aspect x2.
 
-- bi'e
+##### bi'e
 
-  prefixed to a mex operator to indicate high priority.
+prefixed to a mex operator to indicate high priority.
 
-- bi'i
+##### bi'i
 
-  non-logical interval connective: unordered between ... and ...
+non-logical interval connective: unordered between ... and ...
 
-- bi'o
+##### bi'o
 
-  non-logical interval connective: ordered from ... to ...
+non-logical interval connective: ordered from ... to ...
 
-- bi'u
+##### bi'u
 
-  discursive: newly introduced information - previously introduced information.
+discursive: newly introduced information - previously introduced information.
 
-- bi'unai
+##### bi'unai
 
-  discursive: newly introduced information - previously introduced information.
+discursive: newly introduced information - previously introduced information.
 
-- bilma
+##### bilma
 
-  x1 is ill/sick/diseased with symptoms x2 from disease x3.
+x1 is ill/sick/diseased with symptoms x2 from disease x3.
 
-- bindo
+##### bindo
 
-  x1 reflects Indonesian culture/nationality/language in aspect x2.
+x1 reflects Indonesian culture/nationality/language in aspect x2.
 
-- birka
+##### birka
 
-  x1 is a/the arm \[body-part\] of x2; \[metaphor: branch with strength\].
+x1 is a/the arm \[body-part\] of x2; \[metaphor: branch with strength\].
 
-- blabi
+##### blabi
 
-  x1 is white/very-light colored \[color adjective\].
+x1 is white/very-light colored \[color adjective\].
 
-- blaci
+##### blaci
 
-  x1 is a quantity of/is made of/contains glass of composition including x2.
+x1 is a quantity of/is made of/contains glass of composition including x2.
 
-- blakanla
+##### blakanla
 
-  x1 is an eye of x2 and has a blue iris
+x1 is an eye of x2 and has a blue iris
 
-- blanu
+##### blanu
 
-  x1 is blue \[color adjective\].
+x1 is blue \[color adjective\].
 
-- blari'o
+##### blari'o
 
-  c1 is blue-green.
+c1 is blue-green.
 
-- blaselkanla
+##### blaselkanla
 
-  x1 has blue eyes
+x1 has blue eyes
 
-- blolei
+##### blolei
 
-  k1 is a ship type/class within ships b1=k2, with features k3.
+k1 is a ship type/class within ships b1=k2, with features k3.
 
-- bloti
+##### bloti
 
-  x1 is a boat/ship/vessel \[vehicle\] for carrying x2, propelled by x3.
+x1 is a boat/ship/vessel \[vehicle\] for carrying x2, propelled by x3.
 
-- bo
+##### bo
 
-  short scope joiner; joins various constructs with shortest scope and right grouping.
+short scope joiner; joins various constructs with shortest scope and right grouping.
 
-- boi
+##### boi
 
-  elidable terminator: terminate numeral or letteral string.
+elidable terminator: terminate numeral or letteral string.
 
-- bradi
+##### bradi
 
-  x1 is an enemy/opponent/adversary/foe of x2 in struggle x3.
+x1 is an enemy/opponent/adversary/foe of x2 in struggle x3.
 
-- brazo
+##### brazo
 
-  x1 reflects Brazilian culture/nationality/language in aspect x2.
+x1 reflects Brazilian culture/nationality/language in aspect x2.
 
-- bredi
+##### bredi
 
-  x1 is ready/prepared for x2 (event).
+x1 is ready/prepared for x2 (event).
 
-- bridi
+##### bridi
 
-  x1 (du'u) is a predicate relationship with relation x2 among arguments (sequence/set) x3.
+x1 (du'u) is a predicate relationship with relation x2 among arguments (sequence/set) x3.
 
-- brito
+##### brito
 
-  x1 reflects British/United Kingdom culture/nationality in aspect x2.
+x1 reflects British/United Kingdom culture/nationality in aspect x2.
 
-- brivla
+##### brivla
 
-  v1 is a morphologically defined predicate word signifying relation b2 in language v3.
+v1 is a morphologically defined predicate word signifying relation b2 in language v3.
 
-- broda
+##### broda
 
-  1st assignable variable predicate (context determines place structure).
+1st assignable variable predicate (context determines place structure).
 
-- brode
+##### brode
 
-  2nd assignable variable predicate (context determines place structure).
+2nd assignable variable predicate (context determines place structure).
 
-- brodi
+##### brodi
 
-  3rd assignable variable predicate (context determines place structure).
+3rd assignable variable predicate (context determines place structure).
 
-- brodo
+##### brodo
 
-  4th assignable variable predicate (context determines place structure).
+4th assignable variable predicate (context determines place structure).
 
-- brodu
+##### brodu
 
-  5th assignable variable predicate (context determines place structure).
+5th assignable variable predicate (context determines place structure).
 
-- bu
+##### bu
 
-  convert any single word to BY.
+convert any single word to BY.
 
-- budjo
+##### budjo
 
-  x1 pertains to the Buddhist culture/religion/ethos in aspect x2.
+x1 pertains to the Buddhist culture/religion/ethos in aspect x2.
 
-- bu'a
+##### bu'a
 
-  logically quantified predicate variable: some selbri 1.
+logically quantified predicate variable: some selbri 1.
 
-- bu'e
+##### bu'e
 
-  logically quantified predicate variable: some selbri 2.
+logically quantified predicate variable: some selbri 2.
 
-- bu'i
+##### bu'i
 
-  logically quantified predicate variable: some selbri 3.
+logically quantified predicate variable: some selbri 3.
 
-- bu'o
+##### bu'o
 
-  attitudinal contour: start emotion - continue emotion - end emotion.
+attitudinal contour: start emotion - continue emotion - end emotion.
 
-- bu'ocu'i
+##### bu'ocu'i
 
-  attitudinal contour: start emotion - continue emotion - end emotion.
+attitudinal contour: start emotion - continue emotion - end emotion.
 
-- bu'onai
+##### bu'onai
 
-  attitudinal contour: start emotion - continue emotion - end emotion.
+attitudinal contour: start emotion - continue emotion - end emotion.
 
-- bu'u
+##### bu'u
 
-  location tense relation/direction; coincident with/at the same place as; space equivalent of ca.
+location tense relation/direction; coincident with/at the same place as; space equivalent of ca.
 
-- by
+##### by
 
-  letteral for b.
+letteral for b.
 
-- ca
+##### ca
 
-  time tense relation/direction: is \[selbri\]; during/simultaneous with \[sumti\]; present tense.
+time tense relation/direction: is \[selbri\]; during/simultaneous with \[sumti\]; present tense.
 
-- cabna
+##### cabna
 
-  x1 is current at/in the present of/during/concurrent/simultaneous with x2 in time.
+x1 is current at/in the present of/during/concurrent/simultaneous with x2 in time.
 
-- cadzu
+##### cadzu
 
-  x1 walks/strides/paces on surface x2 using limbs x3.
+x1 walks/strides/paces on surface x2 using limbs x3.
 
-- cafne
+##### cafne
 
-  x1 (event) often/frequently/commonly/customarily occurs/recurs by standard x2.
+x1 (event) often/frequently/commonly/customarily occurs/recurs by standard x2.
 
-- cagyce'u
+##### cagyce'u
 
-  x1 is a farming community with members x2.
+x1 is a farming community with members x2.
 
-- ca'a
+##### ca'a
 
-  modal aspect: actuality/ongoing event.
+modal aspect: actuality/ongoing event.
 
-- ca'e
+##### ca'e
 
-  evidential: I define.
+evidential: I define.
 
-- ca'o
+##### ca'o
 
-  interval event contour: during ...; continuative |-----|.
+interval event contour: during ...; continuative |-----|.
 
-- cai
+##### cai
 
-  attitudinal: strong intensity attitude modifier.
+attitudinal: strong intensity attitude modifier.
 
-- cakcinki
+##### cakcinki
 
-  x1 is a beetle of species x2.
+x1 is a beetle of species x2.
 
-- calku
+##### calku
 
-  x1 is a shell/husk \[hard, protective covering\] around x2 composed of x3.
+x1 is a shell/husk \[hard, protective covering\] around x2 composed of x3.
 
-- carmi
+##### carmi
 
-  x1 is intense/bright/saturated/brilliant in property (ka) x2 as received/measured by observer x3.
+x1 is intense/bright/saturated/brilliant in property (ka) x2 as received/measured by observer x3.
 
-- casnu
+##### casnu
 
-  x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x2.
+x1(s) (mass normally, but 1 individual/jo'u possible) discuss(es)/talk(s) about topic/subject x2.
 
-- ce
+##### ce
 
-  non-logical connective: set link, unordered; "and also", but forming a set.
+non-logical connective: set link, unordered; "and also", but forming a set.
 
-- ce'a
+##### ce'a
 
-  2-word letteral/shift: the word following indicates a new font (e.g. italics, manuscript).
+2-word letteral/shift: the word following indicates a new font (e.g. italics, manuscript).
 
-- ce'e
+##### ce'e
 
-  links terms into an afterthought termset.
+links terms into an afterthought termset.
 
-- ce'i
+##### ce'i
 
-  digit/number: % percentage symbol, hundredths.
+digit/number: % percentage symbol, hundredths.
 
-- ce'o
+##### ce'o
 
-  non-logical connective: ordered sequence link; "and then", forming a sequence.
+non-logical connective: ordered sequence link; "and then", forming a sequence.
 
-- ce'u
+##### ce'u
 
-  pseudo-quantifier binding a variable within an abstraction that represents an open place.
+pseudo-quantifier binding a variable within an abstraction that represents an open place.
 
-- cei
+##### cei
 
-  selbri variable assignment; assigns broda series pro-bridi to a selbri.
+selbri variable assignment; assigns broda series pro-bridi to a selbri.
 
-- centi
+##### centi
 
-  x1 is a hundredth \[1/100; 10-2\] of x2 in dimension/aspect x3 (default is units).
+x1 is a hundredth \[1/100; 10-2\] of x2 in dimension/aspect x3 (default is units).
 
-- ci
+##### ci
 
-  digit/number: 3 (digit) \[three\].
+digit/number: 3 (digit) \[three\].
 
-- cidja
+##### cidja
 
-  x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2.
+x1 is food/feed/nutriment for x2; x1 is edible/gives nutrition to x2.
 
-- cidjrspageti
+##### cidjrspageti
 
-  x1 is a quantity of spaghetti (long, thin cylindrical pasta)
+x1 is a quantity of spaghetti (long, thin cylindrical pasta)
 
-- ci'ajbu
+##### ci'ajbu
 
-  j1 is a writing desk of material j2, supported by legs/base/pedestal j3, used by writer c1.
+j1 is a writing desk of material j2, supported by legs/base/pedestal j3, used by writer c1.
 
-- ci'e
+##### ci'e
 
-  ciste modal, 1st place used in scalar negation in system/context ...
+ciste modal, 1st place used in scalar negation in system/context ...
 
-- ci'u
+##### ci'u
 
-  ckilu modal, 1st place on the scale ...
+ckilu modal, 1st place on the scale ...
 
-- cinfo
+##### cinfo
 
-  x1 is a lion/\[lioness\] of species/breed x2.
+x1 is a lion/\[lioness\] of species/breed x2.
 
-- cinki
+##### cinki
 
-  x1 is an insect/arthropod of species x2; \[bug/beetle\].
+x1 is an insect/arthropod of species x2; \[bug/beetle\].
 
-- cipnrstrigi
+##### cipnrstrigi
 
-  x1 is an owl of species x2
+x1 is an owl of species x2
 
-- cirla
+##### cirla
 
-  x1 is a quantity of/contains cheese/curd from source x2.
+x1 is a quantity of/contains cheese/curd from source x2.
 
-- ciste
+##### ciste
 
-  x1 (mass) is a system interrelated by structure x2 among components x3 (set) displaying x4 (ka).
+x1 (mass) is a system interrelated by structure x2 among components x3 (set) displaying x4 (ka).
 
-- citka
+##### citka
 
-  x1 eats/ingests/consumes (transitive verb) x2.
+x1 eats/ingests/consumes (transitive verb) x2.
 
-- citmau
+##### citmau
 
-  z1=c1 is younger than z2 by amount z4.
+z1=c1 is younger than z2 by amount z4.
 
-- citno
+##### citno
 
-  x1 is young/youthful \[relatively short in elapsed duration\] by standard x2.
+x1 is young/youthful \[relatively short in elapsed duration\] by standard x2.
 
-- ckule
+##### ckule
 
-  x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5.
+x1 is school/institute/academy at x2 teaching subject(s) x3 to audien./commun. x4 operated by x5.
 
-- cladakfu
+##### cladakfu
 
-  x1 is a long knife
+x1 is a long knife
 
-- cladakyxa'i
+##### cladakyxa'i
 
-  x1=d1=c1 is a sword / long knife weapon for use against x2=d2 by x3 with blade of material d3 long by standard c3.
+x1=d1=c1 is a sword / long knife weapon for use against x2=d2 by x3 with blade of material d3 long by standard c3.
 
-- clani
+##### clani
 
-  x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3.
+x1 is long in dimension/direction x2 (default longest dimension) by measurement standard x3.
 
-- cliva
+##### cliva
 
-  x1 leaves/goes away/departs/parts/separates from x2 via route x3.
+x1 leaves/goes away/departs/parts/separates from x2 via route x3.
 
-- cmaci
+##### cmaci
 
-  x1 is a mathematics of type/describing x2.
+x1 is a mathematics of type/describing x2.
 
-- cmalu
+##### cmalu
 
-  x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3.
+x1 is small in property/dimension(s) x2 (ka) as compared with standard/norm x3.
 
-- cmaro'i
+##### cmaro'i
 
-  c1=r1 is a small rock of type r2 from location r3, small by standard c3. c1 is gravel.
+c1=r1 is a small rock of type r2 from location r3, small by standard c3. c1 is gravel.
 
-- cmavo
+##### cmavo
 
-  x1 is a structure word of grammatical class x2, with meaning/function x3 in usage (language) x4.
+x1 is a structure word of grammatical class x2, with meaning/function x3 in usage (language) x4.
 
-- cmene
+##### cmene
 
-  x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person).
+x1 (quoted word(s)) is a/the name/title/tag of x2 to/used-by namer/name-user x3 (person).
 
-- cmima
+##### cmima
 
-  x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst group x2.
+x1 is a member/element of set x2; x1 belongs to group x2; x1 is amid/among/amongst group x2.
 
-- co
+##### co
 
-  tanru inversion operator; "... of type ..."; allows modifier trailing sumti without sumti links.
+tanru inversion operator; "... of type ..."; allows modifier trailing sumti without sumti links.
 
-- co'a
+##### co'a
 
-  interval event contour: at the starting point of ...; initiative >|< |.
+interval event contour: at the starting point of ...; initiative >|< |.
 
-- co'e
+##### co'e
 
-  elliptical/unspecified bridi relationship.
+elliptical/unspecified bridi relationship.
 
-- co'i
+##### co'i
 
-  interval event contour: at the instantaneous point of ...; achievative/perfective; point event >|<.
+interval event contour: at the instantaneous point of ...; achievative/perfective; point event >|<.
 
-- co'o
+##### co'o
 
-  vocative: partings/good-bye.
+vocative: partings/good-bye.
 
-- co'u
+##### co'u
 
-  interval event contour: at the ending point of ... even if not done; cessative | >< |.
+interval event contour: at the ending point of ... even if not done; cessative | >< |.
 
-- coi
+##### coi
 
-  vocative: greetings/hello.
+vocative: greetings/hello.
 
-- coico'o
+##### coico'o
 
-  vocative: greetings in passing.
+vocative: greetings in passing.
 
-- cpumi'i
+##### cpumi'i
 
-  l1=m1 is a tractor pulling l2.
+l1=m1 is a tractor pulling l2.
 
-- cribe
+##### cribe
 
-  x1 is a bear/ursoid of species/breed x2.
+x1 is a bear/ursoid of species/breed x2.
 
-- ctigau
+##### ctigau
 
-  g1 feeds c1 with food c2.
+g1 feeds c1 with food c2.
 
-- cu
+##### cu
 
-  elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.
+elidable marker: separates selbri from preceding sumti, allows preceding terminator elision.
 
-- cu'e
+##### cu'e
 
-  tense/modal question.
+tense/modal question.
 
-- cu'i
+##### cu'i
 
-  attitudinal: neutral scalar attitude modifier.
+attitudinal: neutral scalar attitude modifier.
 
-- cu'o
+##### cu'o
 
-  convert number to probability selbri; event x1 has probability (n) of occurring under cond. x2.
+convert number to probability selbri; event x1 has probability (n) of occurring under cond. x2.
 
-- cu'u
+##### cu'u
 
-  cusku modal, 1st place (attribution/quotation) as said by source ...; used for quotation.
+cusku modal, 1st place (attribution/quotation) as said by source ...; used for quotation.
 
-- cumki
+##### cumki
 
-  x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe.
+x1 (event/state/property) is possible under conditions x2; x1 may/might occur; x1 is a maybe.
 
-- cunso
+##### cunso
 
-  x1 is random/fortuitous/unpredictable under conditions x2, with probability distribution x3.
+x1 is random/fortuitous/unpredictable under conditions x2, with probability distribution x3.
 
-- cusku
+##### cusku
 
-  x1 (agent) expresses/says x2 (sedu'u/text/lu'e concept) for audience x3 via expressive medium x4.
+x1 (agent) expresses/says x2 (sedu'u/text/lu'e concept) for audience x3 via expressive medium x4.
 
-- cutci
+##### cutci
 
-  x1 is a shoe/boot/sandal for covering/protecting \[feet/hooves\] x2, and of material x3.
+x1 is a shoe/boot/sandal for covering/protecting \[feet/hooves\] x2, and of material x3.
 
-- cuxna
+##### cuxna
 
-  x1 chooses/selects x2 \[choice\] from set/sequence of alternatives x3 (complete set).
+x1 chooses/selects x2 \[choice\] from set/sequence of alternatives x3 (complete set).
 
-- cy
+##### cy
 
-  letteral for c.
+letteral for c.
 
-- da
+##### da
 
-  logically quantified existential pro-sumti: there exists something 1 (usually restricted).
+logically quantified existential pro-sumti: there exists something 1 (usually restricted).
 
-- dadgreku
+##### dadgreku
 
-  x1 is a rack used to hang x2.
+x1 is a rack used to hang x2.
 
-- dadjo
+##### dadjo
 
-  x1 pertains to the Taoist culture/ethos/religion in aspect x2.
+x1 pertains to the Taoist culture/ethos/religion in aspect x2.
 
-- dadysli
+##### dadysli
 
-  s1=d1 is a pendulum oscillating at rate/frequency s2, suspended from d2 by/at/with joint d3.
+s1=d1 is a pendulum oscillating at rate/frequency s2, suspended from d2 by/at/with joint d3.
 
-- da'a
+##### da'a
 
-  digit/number: all except n; all but n; default 1.
+digit/number: all except n; all but n; default 1.
 
-- da'e
+##### da'e
 
-  pro-sumti: remote future utterance; "He'll tell you tomorrow. IT will be a doozy.".
+pro-sumti: remote future utterance; "He'll tell you tomorrow. IT will be a doozy.".
 
-- da'i
+##### da'i
 
-  discursive: supposing - in fact.
+discursive: supposing - in fact.
 
-- da'inai
+##### da'inai
 
-  discursive: supposing - in fact.
+discursive: supposing - in fact.
 
-- da'o
+##### da'o
 
-  discursive: cancel pro-sumti/pro-bridi assignments.
+discursive: cancel pro-sumti/pro-bridi assignments.
 
-- da'u
+##### da'u
 
-  pro-sumti: a remote past utterance; "She couldn't have known that IT would be true.".
+pro-sumti: a remote past utterance; "She couldn't have known that IT would be true.".
 
-- dai
+##### dai
 
-  attitudinal modifier: marks empathetic use of preceding attitudinal; shows another's feelings.
+attitudinal modifier: marks empathetic use of preceding attitudinal; shows another's feelings.
 
-- dakfu
+##### dakfu
 
-  x1 is a knife (tool) for cutting x2, with blade of material x3.
+x1 is a knife (tool) for cutting x2, with blade of material x3.
 
-- dalmikce
+##### dalmikce
 
-  m1 is a doctor for animal m2=d1 of species d2 for ailment m3 using treatment m4.
+m1 is a doctor for animal m2=d1 of species d2 for ailment m3 using treatment m4.
 
-- danlu
+##### danlu
 
-  x1 is an animal/creature of species x2; x1 is biologically animate.
+x1 is an animal/creature of species x2; x1 is biologically animate.
 
-- de
+##### de
 
-  logically quantified existential pro-sumti: there exists something 2 (usually restricted).
+logically quantified existential pro-sumti: there exists something 2 (usually restricted).
 
-- decti
+##### decti
 
-  x1 is a tenth \[1/10; 10-1\] of x2 in dimension/aspect x3 (default is units).
+x1 is a tenth \[1/10; 10-1\] of x2 in dimension/aspect x3 (default is units).
 
-- de'a
+##### de'a
 
-  event contour for a temporary halt and ensuing pause in a process.
+event contour for a temporary halt and ensuing pause in a process.
 
-- de'e
+##### de'e
 
-  pro-sumti: a near future utterance.
+pro-sumti: a near future utterance.
 
-- de'i
+##### de'i
 
-  detri modal, 1st place (for letters) dated ... ; attaches date stamp.
+detri modal, 1st place (for letters) dated ... ; attaches date stamp.
 
-- de'u
+##### de'u
 
-  pro-sumti: a recent utterance.
+pro-sumti: a recent utterance.
 
-- dei
+##### dei
 
-  pro-sumti: this utterance.
+pro-sumti: this utterance.
 
-- dejni
+##### dejni
 
-  x1 owes x2 in debt/obligation to creditor x3 in return for x4 \[service, loan\]; x1 is a debtor.
+x1 owes x2 in debt/obligation to creditor x3 in return for x4 \[service, loan\]; x1 is a debtor.
 
-- dekto
+##### dekto
 
-  x1 is ten \[10; 101\] of x2 in dimension/aspect x3 (default is units).
+x1 is ten \[10; 101\] of x2 in dimension/aspect x3 (default is units).
 
-- delno
+##### delno
 
-  x1 is x2 candela \[metric unit\] in luminosity (default is 1) by standard x3.
+x1 is x2 candela \[metric unit\] in luminosity (default is 1) by standard x3.
 
-- denci
+##### denci
 
-  x1 is a/the tooth \[body-part\] of x2; (adjective:) x1 is dental.
+x1 is a/the tooth \[body-part\] of x2; (adjective:) x1 is dental.
 
-- denpa
+##### denpa
 
-  x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing x4 (activity/process).
+x1 awaits/waits/pauses for/until x2 at state x3 before starting/continuing x4 (activity/process).
 
-- di
+##### di
 
-  logically quantified existential pro-sumti: there exists something 3 (usually restricted).
+logically quantified existential pro-sumti: there exists something 3 (usually restricted).
 
-- di'a
+##### di'a
 
-  event contour for resumption of a paused process.
+event contour for resumption of a paused process.
 
-- di'e
+##### di'e
 
-  pro-sumti: the next utterance.
+pro-sumti: the next utterance.
 
-- di'i
+##### di'i
 
-  tense interval modifier: regularly; subjective tense/modal; defaults as time tense.
+tense interval modifier: regularly; subjective tense/modal; defaults as time tense.
 
-- di'inai
+##### di'inai
 
-  tense interval modifier: irregularly/aperiodically; tense/modal; defaults as time tense.
+tense interval modifier: irregularly/aperiodically; tense/modal; defaults as time tense.
 
-- di'u
+##### di'u
 
-  pro-sumti: the last utterance.
+pro-sumti: the last utterance.
 
-- dinju
+##### dinju
 
-  x1 is a building/edifice for purpose x2.
+x1 is a building/edifice for purpose x2.
 
-- djedi
+##### djedi
 
-  x1 is x2 full days in duration (default is 1 day) by standard x3; (adjective:) x1 is diurnal.
+x1 is x2 full days in duration (default is 1 day) by standard x3; (adjective:) x1 is diurnal.
 
-- djica
+##### djica
 
-  x1 desires/wants/wishes x2 (event/state) for purpose x3.
+x1 desires/wants/wishes x2 (event/state) for purpose x3.
 
-- djine
+##### djine
 
-  x1 is a ring/annulus/torus/circle \[shape/form\] of material x2, inside diam. x3, outside diam. x4.
+x1 is a ring/annulus/torus/circle \[shape/form\] of material x2, inside diam. x3, outside diam. x4.
 
-- djuno
+##### djuno
 
-  x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4.
+x1 knows fact(s) x2 (du'u) about subject x3 by epistemology x4.
 
-- do
+##### do
 
-  pro-sumti: you listener(s); identified by vocative.
+pro-sumti: you listener(s); identified by vocative.
 
-- do'a
+##### do'a
 
-  discursive: generously - parsimoniously.
+discursive: generously - parsimoniously.
 
-- do'anai
+##### do'anai
 
-  discursive: generously - parsimoniously.
+discursive: generously - parsimoniously.
 
-- do'e
+##### do'e
 
-  elliptical/unspecified modal.
+elliptical/unspecified modal.
 
-- do'i
+##### do'i
 
-  pro-sumti: elliptical/unspecified utterance variable.
+pro-sumti: elliptical/unspecified utterance variable.
 
-- do'o
+##### do'o
 
-  pro-sumti: you the listener & others unspecified.
+pro-sumti: you the listener & others unspecified.
 
-- do'u
+##### do'u
 
-  elidable terminator: end vocative (often elidable).
+elidable terminator: end vocative (often elidable).
 
-- doi
+##### doi
 
-  generic vocative marker; identifies intended listener; elidable after COI.
+generic vocative marker; identifies intended listener; elidable after COI.
 
-- donma'o
+##### donma'o
 
-  c1 is a second person pronoun in language c4.
+c1 is a second person pronoun in language c4.
 
-- donta'a
+##### donta'a
 
-  x1 talks to you (i.e. whoever x1 is addressing) about x2 in language x3
+x1 talks to you (i.e. whoever x1 is addressing) about x2 in language x3
 
-- dotco
+##### dotco
 
-  x1 reflects German/Germanic culture/nationality/language in aspect x2.
+x1 reflects German/Germanic culture/nationality/language in aspect x2.
 
-- du
+##### du
 
-  identity selbri; = sign; x1 identically equals x2, x3, etc.; attached sumti refer to same thing.
+identity selbri; = sign; x1 identically equals x2, x3, etc.; attached sumti refer to same thing.
 
-- dubjavmau
+##### dubjavmau
 
-  x1 is greater than or equal to x2.
+x1 is greater than or equal to x2.
 
-- dubjavme'a
+##### dubjavme'a
 
-  x1 is less than or equal to x2
+x1 is less than or equal to x2
 
-- du'e
+##### du'e
 
-  digit/number: too many; subjective.
+digit/number: too many; subjective.
 
-- du'i
+##### du'i
 
-  dunli modal, 1st place (equalled by) equally; as much as ...
+dunli modal, 1st place (equalled by) equally; as much as ...
 
-- du'u
+##### du'u
 
-  abstractor: predication/bridi abstractor; x1 is predication \[bridi\] expressed in sentence x2.
+abstractor: predication/bridi abstractor; x1 is predication \[bridi\] expressed in sentence x2.
 
-- dunda
+##### dunda
 
-  x1 \[donor\] gives/donates gift/present x2 to recipient/beneficiary x3 \[without payment/exchange\].
+x1 \[donor\] gives/donates gift/present x2 to recipient/beneficiary x3 \[without payment/exchange\].
 
-- dunli
+##### dunli
 
-  x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3.
+x1 is equal/congruent to/as much as x2 in property/dimension/quantity x3.
 
-- dy
+##### dy
 
-  letteral for d.
+letteral for d.
 
-- dzipo
+##### dzipo
 
-  x1 reflects Antarctican culture/nationality/geography in aspect x2.
+x1 reflects Antarctican culture/nationality/geography in aspect x2.
 
-- dzukla
+##### dzukla
 
-  x1 is a walker-come with destination x2 with starting point x3 with route of going x4 with transportation means -walking limb x5 with walked on x6.
+x1 is a walker-come with destination x2 with starting point x3 with route of going x4 with transportation means -walking limb x5 with walked on x6.
 
-- e
+##### e
 
-  logical connective: sumti afterthought and.
+logical connective: sumti afterthought and.
 
-- ebu
+##### ebu
 
-  letteral for e.
+letteral for e.
 
-- e'e
+##### e'e
 
-  attitudinal: competence - incompetence/inability.
+attitudinal: competence - incompetence/inability.
 
-- e'o
+##### e'o
 
-  attitudinal: request - negative request.
+attitudinal: request - negative request.
 
-- e'u
+##### e'u
 
-  attitudinal: suggestion - abandon suggest - warning.
+attitudinal: suggestion - abandon suggest - warning.
 
-- ei
+##### ei
 
-  attitudinal: obligation - freedom.
+attitudinal: obligation - freedom.
 
-- fa
+##### fa
 
-  sumti place tag: tag 1st sumti place.
+sumti place tag: tag 1st sumti place.
 
-- fadni
+##### fadni
 
-  x1 \[member\] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
+x1 \[member\] is ordinary/common/typical/usual in property x2 (ka) among members of x3 (set).
 
-- fagri
+##### fagri
 
-  x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen).
+x1 is a fire/flame in fuel x2 burning-in/reacting-with oxidizer x3 (default air/oxygen).
 
-- fagyfesti
+##### fagyfesti
 
-  x1=fe1 is the ashes of x3=fa2, combusted by fire x2=fa1.
+x1=fe1 is the ashes of x3=fa2, combusted by fire x2=fa1.
 
-- fa'a
+##### fa'a
 
-  location tense relation/direction; arriving at/directly towards ...
+location tense relation/direction; arriving at/directly towards ...
 
-- fa'o
+##### fa'o
 
-  unconditional end of text; outside regular grammar; used for computer input.
+unconditional end of text; outside regular grammar; used for computer input.
 
-- fa'u
+##### fa'u
 
-  non-logical connective: respectively; unmixed ordered distributed association.
+non-logical connective: respectively; unmixed ordered distributed association.
 
-- fai
+##### fai
 
-  sumti place tag: tag a sumti moved out of numbered place structure; used in modal conversions.
+sumti place tag: tag a sumti moved out of numbered place structure; used in modal conversions.
 
-- fasnu
+##### fasnu
 
-  x1 (event) is an event that happens/occurs/takes place; x1 is an incident/happening/occurrence.
+x1 (event) is an event that happens/occurs/takes place; x1 is an incident/happening/occurrence.
 
-- fau
+##### fau
 
-  fasnu modal, 1st place (non-causal) in the event of ...
+fasnu modal, 1st place (non-causal) in the event of ...
 
-- fe
+##### fe
 
-  sumti place tag: tag 2nd sumti place.
+sumti place tag: tag 2nd sumti place.
 
-- fe'a
+##### fe'a
 
-  binary mathematical operator: nth root of; inverse power \[a to the 1/b power\].
+binary mathematical operator: nth root of; inverse power \[a to the 1/b power\].
 
-- fe'e
+##### fe'e
 
-  mark space interval distributive aspects; labels interval tense modifiers as location-oriented.
+mark space interval distributive aspects; labels interval tense modifiers as location-oriented.
 
-- fe'o
+##### fe'o
 
-  vocative: over and out (end discussion).
+vocative: over and out (end discussion).
 
-- fe'u
+##### fe'u
 
-  elidable terminator: end nonce conversion of selbri to modal; usually elidable.
+elidable terminator: end nonce conversion of selbri to modal; usually elidable.
 
-- femti
+##### femti
 
-  x1 is 10-15 of x2 in dimension/aspect x3 (default is units).
+x1 is 10-15 of x2 in dimension/aspect x3 (default is units).
 
-- festi
+##### festi
 
-  x1(s) is/are waste product(s) \[left to waste\] by x2 (event/activity).
+x1(s) is/are waste product(s) \[left to waste\] by x2 (event/activity).
 
-- fi
+##### fi
 
-  sumti place tag: tag 3rd sumti place.
+sumti place tag: tag 3rd sumti place.
 
-- fi'a
+##### fi'a
 
-  sumti place tag: place structure number/tag question.
+sumti place tag: place structure number/tag question.
 
-- fi'e
+##### fi'e
 
-  finti modal, 1st place (creator) created by ...
+finti modal, 1st place (creator) created by ...
 
-- fi'i
+##### fi'i
 
-  vocative: hospitality - inhospitality; you are welcome/ make yourself at home.
+vocative: hospitality - inhospitality; you are welcome/ make yourself at home.
 
-- fi'o
+##### fi'o
 
-  convert selbri to nonce modal/sumti tag.
+convert selbri to nonce modal/sumti tag.
 
-- fi'u
+##### fi'u
 
-  digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio.
+digit/number: fraction slash; default "/n" => 1/n, "n/" => n/1, or "/" alone => golden ratio.
 
-- filso
+##### filso
 
-  x1 reflects Palestinian culture/nationality in aspect x2.
+x1 reflects Palestinian culture/nationality in aspect x2.
 
-- finti
+##### finti
 
-  x1 invents/creates/composes/authors x2 for function/purpose x3 from existing elements/ideas x4.
+x1 invents/creates/composes/authors x2 for function/purpose x3 from existing elements/ideas x4.
 
-- firgai
+##### firgai
 
-  g1 is a mask covering the face of g2=f2.
+g1 is a mask covering the face of g2=f2.
 
-- flalu
+##### flalu
 
-  x1 is a law specifying x2 (state/event) for community x3 under conditions x4 by lawgiver(s) x5.
+x1 is a law specifying x2 (state/event) for community x3 under conditions x4 by lawgiver(s) x5.
 
-- fo
+##### fo
 
-  sumti place tag: tag 4th sumti place.
+sumti place tag: tag 4th sumti place.
 
-- fo'a
+##### fo'a
 
-  pro-sumti: he/she/it/they #6 (specified by goi).
+pro-sumti: he/she/it/they #6 (specified by goi).
 
-- fo'e
+##### fo'e
 
-  pro-sumti: he/she/it/they #7 (specified by goi).
+pro-sumti: he/she/it/they #7 (specified by goi).
 
-- fo'i
+##### fo'i
 
-  pro-sumti: he/she/it/they #8 (specified by goi).
+pro-sumti: he/she/it/they #8 (specified by goi).
 
-- fo'o
+##### fo'o
 
-  pro-sumti: he/she/it/they #9 (specified by goi).
+pro-sumti: he/she/it/they #9 (specified by goi).
 
-- fo'u
+##### fo'u
 
-  pro-sumti: he/she/it/they #10 (specified by goi).
+pro-sumti: he/she/it/they #10 (specified by goi).
 
-- foi
+##### foi
 
-  terminator: end composite lerfu; never elidable.
+terminator: end composite lerfu; never elidable.
 
-- fraso
+##### fraso
 
-  x1 reflects French/Gallic culture/nationality/language in aspect x2.
+x1 reflects French/Gallic culture/nationality/language in aspect x2.
 
-- friko
+##### friko
 
-  x1 reflects African culture/nationality/geography in aspect x2.
+x1 reflects African culture/nationality/geography in aspect x2.
 
-- frinu
+##### frinu
 
-  x1 is a fraction, with numerator x2, denominator x3 (x2/x3).
+x1 is a fraction, with numerator x2, denominator x3 (x2/x3).
 
-- fu
+##### fu
 
-  sumti place tag: tag 5th sumti place.
+sumti place tag: tag 5th sumti place.
 
-- fu'a
+##### fu'a
 
-  reverse Polish mathematical expression (mex) operator flag.
+reverse Polish mathematical expression (mex) operator flag.
 
-- fu'e
+##### fu'e
 
-  begin indicator long scope.
+begin indicator long scope.
 
-- fu'i
+##### fu'i
 
-  attitudinal modifier: easy - difficult.
+attitudinal modifier: easy - difficult.
 
-- fu'ivla
+##### fu'ivla
 
-  x1=v1=f1 is a loanword meaning x2=v2 in language x3=v3, based on word x4=f2 in language x5.
+x1=v1=f1 is a loanword meaning x2=v2 in language x3=v3, based on word x4=f2 in language x5.
 
-- fu'o
+##### fu'o
 
-  end indicator long scope; terminates scope of all active indicators.
+end indicator long scope; terminates scope of all active indicators.
 
-- fy
+##### fy
 
-  letteral for f.
+letteral for f.
 
-- ga
+##### ga
 
-  logical connective: forethought all but tanru-internal or (with gi).
+logical connective: forethought all but tanru-internal or (with gi).
 
-- gadri
+##### gadri
 
-  x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4.
+x1 is an article/descriptor labelling description x2 (text) in language x3 with semantics x4.
 
-- ga'e
+##### ga'e
 
-  upper-case letteral shift.
+upper-case letteral shift.
 
-- ga'i
+##### ga'i
 
-  attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of lower rank.
+attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of lower rank.
 
-- ga'icu'i
+##### ga'icu'i
 
-  attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of equal rank.
+attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of equal rank.
 
-- ga'inai
+##### ga'inai
 
-  attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of higher rank.
+attitudinal modifier/honorific: hauteur - equal rank - meekness; used with one of higher rank.
 
-- ga'o
+##### ga'o
 
-  closed interval bracket marker; mod. intervals in non-logical connectives; include boundaries.
+closed interval bracket marker; mod. intervals in non-logical connectives; include boundaries.
 
-- galfi
+##### galfi
 
-  x1 (event) modifies/alters/changes/transforms/converts x2 into x3.
+x1 (event) modifies/alters/changes/transforms/converts x2 into x3.
 
-- galtu
+##### galtu
 
-  x1 is high/up/upward in frame of reference x2 as compared with baseline/standard height x3.
+x1 is high/up/upward in frame of reference x2 as compared with baseline/standard height x3.
 
-- ganai
+##### ganai
 
-  logical connective: forethought all but tanru-internal conditional/only if (with gi).
+logical connective: forethought all but tanru-internal conditional/only if (with gi).
 
-- ganlo
+##### ganlo
 
-  x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access to x2 by x3 (something being blocked).
+x1 (portal/passage/entrance-way) is closed/shut/not open, preventing passage/access to x2 by x3 (something being blocked).
 
-- gapru
+##### gapru
 
-  x1 is directly/vertically above/upwards-from x2 in gravity/frame of reference x3.
+x1 is directly/vertically above/upwards-from x2 in gravity/frame of reference x3.
 
-- gasnu
+##### gasnu
 
-  x1 \[person/agent\] is an agentive cause of event x2; x1 does/brings about x2.
+x1 \[person/agent\] is an agentive cause of event x2; x1 does/brings about x2.
 
-- gau
+##### gau
 
-  gasnu modal, 1st place agent/actor case tag with active agent ...
+gasnu modal, 1st place agent/actor case tag with active agent ...
 
-- ge
+##### ge
 
-  logical connective: forethought all but tanru-internal and (with gi).
+logical connective: forethought all but tanru-internal and (with gi).
 
-- ge'a
+##### ge'a
 
-  mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops).
+mathematical operator: null mathematical expression (mex) operator (used in >2-ary ops).
 
-- ge'e
+##### ge'e
 
-  attitudinal: elliptical/unspecified/non-specific emotion; no particular feeling.
+attitudinal: elliptical/unspecified/non-specific emotion; no particular feeling.
 
-- ge'i
+##### ge'i
 
-  logical connective: forethought all but tanru-internal connective question (with gi).
+logical connective: forethought all but tanru-internal connective question (with gi).
 
-- ge'o
+##### ge'o
 
-  shift letterals to Greek alphabet.
+shift letterals to Greek alphabet.
 
-- ge'u
+##### ge'u
 
-  elidable terminator: end GOI relative phrases; usually elidable in non-complex phrases.
+elidable terminator: end GOI relative phrases; usually elidable in non-complex phrases.
 
-- gei
+##### gei
 
-  trinary mathematical operator: order of magnitude/value/base; \[b \* (c to the a power)\].
+trinary mathematical operator: order of magnitude/value/base; \[b \* (c to the a power)\].
 
-- gekmau
+##### gekmau
 
-  x1 is happier than x2 about x3 by amount x4
+x1 is happier than x2 about x3 by amount x4
 
-- gento
+##### gento
 
-  x1 reflects Argentinian culture/nationality in aspect x2.
+x1 reflects Argentinian culture/nationality in aspect x2.
 
-- gerku
+##### gerku
 
-  x1 is a dog/canine/\[bitch\] of species/breed x2.
+x1 is a dog/canine/\[bitch\] of species/breed x2.
 
-- gerzda
+##### gerzda
 
-  z1 is a doghouse for dog z2=g1.
+z1 is a doghouse for dog z2=g1.
 
-- gi
+##### gi
 
-  logical connective: all but tanru-internal forethought connective medial marker.
+logical connective: all but tanru-internal forethought connective medial marker.
 
-- gigdo
+##### gigdo
 
-  x1 is a billion \[British milliard\] \[109\] of x2 in dimension/aspect x3 (default is units).
+x1 is a billion \[British milliard\] \[109\] of x2 in dimension/aspect x3 (default is units).
 
-- gi'a
+##### gi'a
 
-  logical connective: bridi-tail afterthought or.
+logical connective: bridi-tail afterthought or.
 
-- gi'e
+##### gi'e
 
-  logical connective: bridi-tail afterthought and.
+logical connective: bridi-tail afterthought and.
 
-- gi'i
+##### gi'i
 
-  logical connective: bridi-tail afterthought conn question.
+logical connective: bridi-tail afterthought conn question.
 
-- gi'o
+##### gi'o
 
-  logical connective: bridi-tail afterthought biconditional/iff/if-and-only-if.
+logical connective: bridi-tail afterthought biconditional/iff/if-and-only-if.
 
-- gi'u
+##### gi'u
 
-  logical connective: bridi-tail afterthought whether-or-not.
+logical connective: bridi-tail afterthought whether-or-not.
 
-- girzu
+##### girzu
 
-  x1 is group/cluster/team showing common property (ka) x2 due to set x3 linked by relations x4.
+x1 is group/cluster/team showing common property (ka) x2 due to set x3 linked by relations x4.
 
-- gismu
+##### gismu
 
-  x1 is a (Lojban) root word expressing relation x2 among argument roles x3, with affix(es) x4.
+x1 is a (Lojban) root word expressing relation x2 among argument roles x3, with affix(es) x4.
 
-- gleki
+##### gleki
 
-  x1 is happy/merry/glad/gleeful about x2 (event/state).
+x1 is happy/merry/glad/gleeful about x2 (event/state).
 
-- glico
+##### glico
 
-  x1 is English/pertains to English-speaking culture in aspect x2.
+x1 is English/pertains to English-speaking culture in aspect x2.
 
-- go
+##### go
 
-  logical connective: forethought all but tanru internal biconditional/iff/if-and-only-if(with gi).
+logical connective: forethought all but tanru internal biconditional/iff/if-and-only-if(with gi).
 
-- gocti
+##### gocti
 
-  x1 is 10-24 of x2 in dimension/aspect x3 (default is units).
+x1 is 10-24 of x2 in dimension/aspect x3 (default is units).
 
-- go'a
+##### go'a
 
-  pro-bridi: repeats a recent bridi (usually not the last 2).
+pro-bridi: repeats a recent bridi (usually not the last 2).
 
-- go'e
+##### go'e
 
-  pro-bridi: repeats the next to last bridi.
+pro-bridi: repeats the next to last bridi.
 
-- go'i
+##### go'i
 
-  pro-bridi: preceding bridi; in answer to a yes/no question, repeats the claim, meaning yes.
+pro-bridi: preceding bridi; in answer to a yes/no question, repeats the claim, meaning yes.
 
-- go'o
+##### go'o
 
-  pro-bridi: repeats a future bridi, normally the next one.
+pro-bridi: repeats a future bridi, normally the next one.
 
-- go'u
+##### go'u
 
-  pro-bridi: repeats a remote past bridi.
+pro-bridi: repeats a remote past bridi.
 
-- goi
+##### goi
 
-  sumti assignment; used to define/assign ko'a/fo'a series pro-sumti; Latin 'sive'.
+sumti assignment; used to define/assign ko'a/fo'a series pro-sumti; Latin 'sive'.
 
-- gotro
+##### gotro
 
-  x1 is 1024 of x2 in dimension/aspect x3 (default is units).
+x1 is 1024 of x2 in dimension/aspect x3 (default is units).
 
-- gu
+##### gu
 
-  logical connective: forethought all but tanru-internal whether-or-not (with gi).
+logical connective: forethought all but tanru-internal whether-or-not (with gi).
 
-- gu'a
+##### gu'a
 
-  logical connective: tanru-internal forethought or (with gi).
+logical connective: tanru-internal forethought or (with gi).
 
-- gu'e
+##### gu'e
 
-  logical connective: tanru-internal forethought and (with gi).
+logical connective: tanru-internal forethought and (with gi).
 
-- gu'i
+##### gu'i
 
-  logical connective: tanru-internal forethought question (with gi).
+logical connective: tanru-internal forethought question (with gi).
 
-- gu'o
+##### gu'o
 
-  logical connective: tanru-internal forethought biconditional/iff/if-and-only-if (with gi).
+logical connective: tanru-internal forethought biconditional/iff/if-and-only-if (with gi).
 
-- gu'u
+##### gu'u
 
-  logical connective: tanru-internal forethought whether-or-not (with gi).
+logical connective: tanru-internal forethought whether-or-not (with gi).
 
-- gy
+##### gy
 
-  letteral for g.
+letteral for g.
 
-- i
+##### i
 
-  sentence link/continuation; continuing sentences on same topic; normally elided for new speakers.
+sentence link/continuation; continuing sentences on same topic; normally elided for new speakers.
 
-- ia
+##### ia
 
-  attitudinal: belief - skepticism - disbelief.
+attitudinal: belief - skepticism - disbelief.
 
-- ianai
+##### ianai
 
-  attitudinal: belief - skepticism - disbelief.
+attitudinal: belief - skepticism - disbelief.
 
-- ibu
+##### ibu
 
-  letteral for i.
+letteral for i.
 
-- ie
+##### ie
 
-  attitudinal: agreement - disagreement.
+attitudinal: agreement - disagreement.
 
-- ienai
+##### ienai
 
-  attitudinal: agreement - disagreement.
+attitudinal: agreement - disagreement.
 
-- i'a
+##### i'a
 
-  attitudinal: acceptance - blame.
+attitudinal: acceptance - blame.
 
-- i'e
+##### i'e
 
-  attitudinal: approval - non-approval - disapproval.
+attitudinal: approval - non-approval - disapproval.
 
-- i'inai
+##### i'inai
 
-  attitudinal: togetherness - privacy.
+attitudinal: togetherness - privacy.
 
-- ii
+##### ii
 
-  attitudinal: fear - security.
+attitudinal: fear - security.
 
-- ija
+##### ija
 
-  logical connective: sentence afterthought or.
+logical connective: sentence afterthought or.
 
-- ije
+##### ije
 
-  logical connective: sentence afterthought and.
+logical connective: sentence afterthought and.
 
-- io
+##### io
 
-  attitudinal: respect - disrespect.
+attitudinal: respect - disrespect.
 
-- iu
+##### iu
 
-  attitudinal: love - no love lost - hatred.
+attitudinal: love - no love lost - hatred.
 
-- ja
+##### ja
 
-  logical connective: tanru-internal afterthought or.
+logical connective: tanru-internal afterthought or.
 
-- ja'a
+##### ja'a
 
-  bridi logical affirmer; scope is an entire bridi.
+bridi logical affirmer; scope is an entire bridi.
 
-- ja'e
+##### ja'e
 
-  jalge modal, 1st place resultingly; therefore result ...
+jalge modal, 1st place resultingly; therefore result ...
 
-- ja'o
+##### ja'o
 
-  evidential: I conclude.
+evidential: I conclude.
 
-- jai
+##### jai
 
-  convert tense/modal (tagged) place to 1st place; 1st place moves to extra FA place (fai).
+convert tense/modal (tagged) place to 1st place; 1st place moves to extra FA place (fai).
 
-- jbena
+##### jbena
 
-  x1 is born to x2 at time x3 \[birthday\] and place x4 \[birthplace\]; x1 is native to (fo) x4.
+x1 is born to x2 at time x3 \[birthday\] and place x4 \[birthplace\]; x1 is native to (fo) x4.
 
-- jdaselsku
+##### jdaselsku
 
-  c2 is a prayer of believer c1=l2 for deity c3 in medium c4 according to religion l3.
+c2 is a prayer of believer c1=l2 for deity c3 in medium c4 according to religion l3.
 
-- jdika
+##### jdika
 
-  x1 (experiencer) decreases/contracts/is reduced/diminished in property/quantity x2 by amount x3.
+x1 (experiencer) decreases/contracts/is reduced/diminished in property/quantity x2 by amount x3.
 
-- je
+##### je
 
-  logical connective: tanru-internal afterthought and.
+logical connective: tanru-internal afterthought and.
 
-- jegvo
+##### jegvo
 
-  x1 pertains to the common Judeo-Christian-Moslem (Abrahamic) culture/religion/nationality in aspect x2.
+x1 pertains to the common Judeo-Christian-Moslem (Abrahamic) culture/religion/nationality in aspect x2.
 
-- je'a
+##### je'a
 
-  scalar affirmer; denies scalar negation: Indeed!.
+scalar affirmer; denies scalar negation: Indeed!.
 
-- je'e
+##### je'e
 
-  vocative: roger (ack) - negative acknowledge; used to acknowledge offers and thanks.
+vocative: roger (ack) - negative acknowledge; used to acknowledge offers and thanks.
 
-- je'enai
+##### je'enai
 
-  vocative: roger (ack) - negative acknowledge; I didn't hear you.
+vocative: roger (ack) - negative acknowledge; I didn't hear you.
 
-- je'i
+##### je'i
 
-  logical connective: tanru-internal afterthought conn question.
+logical connective: tanru-internal afterthought conn question.
 
-- je'o
+##### je'o
 
-  shift letterals to Hebrew alphabet.
+shift letterals to Hebrew alphabet.
 
-- je'u
+##### je'u
 
-  discursive: truth - falsity.
+discursive: truth - falsity.
 
-- je'unai
+##### je'unai
 
-  discursive: truth - falsity.
+discursive: truth - falsity.
 
-- jei
+##### jei
 
-  abstractor: truth-value abstractor; x1 is truth value of \[bridi\] under epistemology x2.
+abstractor: truth-value abstractor; x1 is truth value of \[bridi\] under epistemology x2.
 
-- jelca
+##### jelca
 
-  x1 burns/\[ignites/is flammable/inflammable\] at temperature x2 in atmosphere x3.
+x1 burns/\[ignites/is flammable/inflammable\] at temperature x2 in atmosphere x3.
 
-- jenai
+##### jenai
 
-  logical connective: tanru-internal afterthought x but not y.
+logical connective: tanru-internal afterthought x but not y.
 
-- jerxo
+##### jerxo
 
-  x1 reflects Algerian culture/nationality in aspect x2.
+x1 reflects Algerian culture/nationality in aspect x2.
 
-- ji
+##### ji
 
-  logical connective: sumti afterthought connective question.
+logical connective: sumti afterthought connective question.
 
-- jibni
+##### jibni
 
-  x1 is near/close to/approximates x2 in property/quantity x3 (ka/ni).
+x1 is near/close to/approximates x2 in property/quantity x3 (ka/ni).
 
-- ji'a
+##### ji'a
 
-  discursive: additionally.
+discursive: additionally.
 
-- ji'i
+##### ji'i
 
-  digit/number: approximately (default the typical value in this context) (number).
+digit/number: approximately (default the typical value in this context) (number).
 
-- ji'u
+##### ji'u
 
-  jicmu modal, 1st place (assumptions); given that ...; based on ...
+jicmu modal, 1st place (assumptions); given that ...; based on ...
 
-- jinvi
+##### jinvi
 
-  x1 thinks/opines x2 \[opinion\] (du'u) is true about subject/issue x3 on grounds x4.
+x1 thinks/opines x2 \[opinion\] (du'u) is true about subject/issue x3 on grounds x4.
 
-- jitro
+##### jitro
 
-  x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance).
+x1 has control over/harnesses/manages/directs/conducts x2 in x3 (activity/event/performance).
 
-- jo
+##### jo
 
-  logical connective: tanru-internal afterthought biconditional/iff/if-and-only-if.
+logical connective: tanru-internal afterthought biconditional/iff/if-and-only-if.
 
-- jo'a
+##### jo'a
 
-  discursive: metalinguistic affirmer.
+discursive: metalinguistic affirmer.
 
-- jo'e
+##### jo'e
 
-  non-logical connective: union of sets.
+non-logical connective: union of sets.
 
-- jo'i
+##### jo'i
 
-  join mathematical expression (mex) operands into an array.
+join mathematical expression (mex) operands into an array.
 
-- jo'o
+##### jo'o
 
-  shift letterals to Arabic alphabet.
+shift letterals to Arabic alphabet.
 
-- jo'u
+##### jo'u
 
-  non-logical connective: in common with; along with (unmixed).
+non-logical connective: in common with; along with (unmixed).
 
-- joi
+##### joi
 
-  non-logical connective: mixed conjunction; "and" meaning "mixed together", forming a mass.
+non-logical connective: mixed conjunction; "and" meaning "mixed together", forming a mass.
 
-- jordo
+##### jordo
 
-  x1 reflects Jordanian culture/nationality in aspect x2.
+x1 reflects Jordanian culture/nationality in aspect x2.
 
-- ju
+##### ju
 
-  logical connective: tanru-internal afterthought whether-or-not.
+logical connective: tanru-internal afterthought whether-or-not.
 
-- ju'a
+##### ju'a
 
-  evidential: I state - (default) elliptical/non-specific basis.
+evidential: I state - (default) elliptical/non-specific basis.
 
-- ju'o
+##### ju'o
 
-  attitudinal modifier: certainty - uncertainty - impossibility.
+attitudinal modifier: certainty - uncertainty - impossibility.
 
-- ju'u
+##### ju'u
 
-  binary mathematical operator: number base; \[a interpreted in the base b\].
+binary mathematical operator: number base; \[a interpreted in the base b\].
 
-- jundi
+##### jundi
 
-  x1 is attentive towards/attends/tends/pays attention to object/affair x2.
+x1 is attentive towards/attends/tends/pays attention to object/affair x2.
 
-- jungo
+##### jungo
 
-  x1 reflects Chinese \[Mandarin, Cantonese, Wu, etc.\] culture/nationality/language in aspect x2.
+x1 reflects Chinese \[Mandarin, Cantonese, Wu, etc.\] culture/nationality/language in aspect x2.
 
-- jy
+##### jy
 
-  letteral for j.
+letteral for j.
 
-- ka
+##### ka
 
-  abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by \[bridi\].
+abstractor: property/quality abstractor (-ness); x1 is quality/property exhibited by \[bridi\].
 
-- kadno
+##### kadno
 
-  x1 reflects Canadian culture/nationality in aspect x2.
+x1 reflects Canadian culture/nationality in aspect x2.
 
-- ka'a
+##### ka'a
 
-  klama modal, 1st place gone to by ...
+klama modal, 1st place gone to by ...
 
-- ka'e
+##### ka'e
 
-  modal aspect: innate capability; possibly unrealized.
+modal aspect: innate capability; possibly unrealized.
 
-- ka'o
+##### ka'o
 
-  digit/number: imaginary i; square root of -1.
+digit/number: imaginary i; square root of -1.
 
-- ka'u
+##### ka'u
 
-  evidential: I know by cultural means (myth or custom).
+evidential: I know by cultural means (myth or custom).
 
-- kai
+##### kai
 
-  ckaji modal, 1st place characterizing ...
+ckaji modal, 1st place characterizing ...
 
-- kalri
+##### kalri
 
-  x1 (portal/passage/entrance-way) is open/ajar/not shut permitting passage/access to x2 by x3.
+x1 (portal/passage/entrance-way) is open/ajar/not shut permitting passage/access to x2 by x3.
 
-- kalselvi'i
+##### kalselvi'i
 
-  x1=v2 is a tear/tear fluid of x2=v1.
+x1=v2 is a tear/tear fluid of x2=v1.
 
-- kambla
+##### kambla
 
-  x1 is blueness
+x1 is blueness
 
-- kanji
+##### kanji
 
-  x1 calculates/reckons/computes x2 \[value (ni)/state\] from data x3 by process x4.
+x1 calculates/reckons/computes x2 \[value (ni)/state\] from data x3 by process x4.
 
-- kanla
+##### kanla
 
-  x1 is a/the eye \[body-part\] of x2; \[metaphor: sensory apparatus\]; (adjective:) x1 is ocular.
+x1 is a/the eye \[body-part\] of x2; \[metaphor: sensory apparatus\]; (adjective:) x1 is ocular.
 
-- kanro
+##### kanro
 
-  x1 is healthy/fit/well/in good health by standard x2.
+x1 is healthy/fit/well/in good health by standard x2.
 
-- karce
+##### karce
 
-  x1 is a car/automobile/truck/van \[a wheeled motor vehicle\] for carrying x2, propelled by x3
+x1 is a car/automobile/truck/van \[a wheeled motor vehicle\] for carrying x2, propelled by x3
 
-- karcykla
+##### karcykla
 
-  x1 comes/goes to x2 from x3 via route x4 using car x5
+x1 comes/goes to x2 from x3 via route x4 using car x5
 
-- kau
+##### kau
 
-  discursive: marks word serving as focus of indirect question: "I know WHO went to the store".
+discursive: marks word serving as focus of indirect question: "I know WHO went to the store".
 
-- ke
+##### ke
 
-  start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping.
+start grouping of tanru, etc; ... type of ... ; overrides normal tanru left grouping.
 
-- ke'a
+##### ke'a
 
-  pro-sumti: relativized sumti (object of relative clause).
+pro-sumti: relativized sumti (object of relative clause).
 
-- ke'e
+##### ke'e
 
-  elidable terminator: end of tanru left grouping override (usually elidable).
+elidable terminator: end of tanru left grouping override (usually elidable).
 
-- ke'i
+##### ke'i
 
-  open interval bracket marker; modifies intervals in non-logical connectives; exclude boundaries.
+open interval bracket marker; modifies intervals in non-logical connectives; exclude boundaries.
 
-- ke'o
+##### ke'o
 
-  vocative: please repeat.
+vocative: please repeat.
 
-- ke'u
+##### ke'u
 
-  discursive: repeating - continuing.
+discursive: repeating - continuing.
 
-- ke'unai
+##### ke'unai
 
-  discursive: repeating - continuing.
+discursive: repeating - continuing.
 
-- kei
+##### kei
 
-  elidable terminator: end abstraction bridi (often elidable).
+elidable terminator: end abstraction bridi (often elidable).
 
-- kelvo
+##### kelvo
 
-  x1 is x2 degree(s) Kelvin \[metric unit\] in temperature (default is 1) by standard x3.
+x1 is x2 degree(s) Kelvin \[metric unit\] in temperature (default is 1) by standard x3.
 
-- ketco
+##### ketco
 
-  x1 reflects South American culture/nationality/geography in aspect x2.
+x1 reflects South American culture/nationality/geography in aspect x2.
 
-- ki
+##### ki
 
-  tense/modal: set/use tense default; establishes new open scope space/time/modal reference base.
+tense/modal: set/use tense default; establishes new open scope space/time/modal reference base.
 
-- ki'a
+##### ki'a
 
-  attitudinal question: confusion about something said.
+attitudinal question: confusion about something said.
 
-- ki'o
+##### ki'o
 
-  digit/number: number comma; thousands.
+digit/number: number comma; thousands.
 
-- ki'u
+##### ki'u
 
-  krinu modal, 1st place (justified by) justifiably; because of reason ...
+krinu modal, 1st place (justified by) justifiably; because of reason ...
 
-- kilto
+##### kilto
 
-  x1 is a thousand \[1000; 103\] of x2 in dimension/aspect x3 (default is units).
+x1 is a thousand \[1000; 103\] of x2 in dimension/aspect x3 (default is units).
 
-- kisto
+##### kisto
 
-  x1 reflects Pakistani/Pashto culture/nationality/language in aspect x2.
+x1 reflects Pakistani/Pashto culture/nationality/language in aspect x2.
 
-- klama
+##### klama
 
-  x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5.
+x1 comes/goes to destination x2 from origin x3 via route x4 using means/vehicle x5.
 
-- klesi
+##### klesi
 
-  x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining property x3 (ka).
+x1 (mass/si'o) is a class/category/subgroup/subset within x2 with defining property x3 (ka).
 
-- ko
+##### ko
 
-  pro-sumti: you (imperative); make it true for you, the listener.
+pro-sumti: you (imperative); make it true for you, the listener.
 
-- ko'a
+##### ko'a
 
-  pro-sumti: he/she/it/they #1 (specified by goi).
+pro-sumti: he/she/it/they #1 (specified by goi).
 
-- ko'e
+##### ko'e
 
-  pro-sumti: he/she/it/they #2 (specified by goi).
+pro-sumti: he/she/it/they #2 (specified by goi).
 
-- ko'i
+##### ko'i
 
-  pro-sumti: he/she/it/they #3 (specified by goi).
+pro-sumti: he/she/it/they #3 (specified by goi).
 
-- ko'o
+##### ko'o
 
-  pro-sumti: he/she/it/they #4 (specified by goi).
+pro-sumti: he/she/it/they #4 (specified by goi).
 
-- ko'u
+##### ko'u
 
-  pro-sumti: he/she/it/they #5 (specified by goi).
+pro-sumti: he/she/it/they #5 (specified by goi).
 
-- krasi
+##### krasi
 
-  x1 (site/event) is a source/start/beginning/origin of x2 (object/event/process).
+x1 (site/event) is a source/start/beginning/origin of x2 (object/event/process).
 
-- krecau
+##### krecau
 
-  x1 (body or body part) is hairless
+x1 (body or body part) is hairless
 
-- krici
+##### krici
 
-  x1 believes \[regardless of evidence/proof\] belief/creed x2 (du'u) is true/assumed about subject x3.
+x1 believes \[regardless of evidence/proof\] belief/creed x2 (du'u) is true/assumed about subject x3.
 
-- krinu
+##### krinu
 
-  x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state).
+x1 (event/state) is a reason/justification/explanation for/causing/permitting x2 (event/state).
 
-- ku
+##### ku
 
-  elidable terminator: end description, modal, or negator sumti; often elidable.
+elidable terminator: end description, modal, or negator sumti; often elidable.
 
-- kuarka
+##### kuarka
 
-  x1 is a quark with flavor x2.
+x1 is a quark with flavor x2.
 
-- ku'a
+##### ku'a
 
-  non-logical connective: intersection of sets.
+non-logical connective: intersection of sets.
 
-- ku'e
+##### ku'e
 
-  elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable.
+elidable terminator: end mathematical (mex) forethought (Polish) expression; often elidable.
 
-- ku'i
+##### ku'i
 
-  discursive: however/but/in contrast.
+discursive: however/but/in contrast.
 
-- ku'o
+##### ku'o
 
-  elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses.
+elidable terminator: end NOI relative clause; always elidable, but preferred in complex clauses.
 
-- kuldi'u
+##### kuldi'u
 
-  d1 is a building housing school c1 teaching subject c3 to audience c4.
+d1 is a building housing school c1 teaching subject c3 to audience c4.
 
-- kurji
+##### kurji
 
-  x1 takes-care-of/looks after/attends to/provides for/is caretaker for x2 (object/event/person).
+x1 takes-care-of/looks after/attends to/provides for/is caretaker for x2 (object/event/person).
 
-- ky
+##### ky
 
-  letteral for k.
+letteral for k.
 
-- la
+##### la
 
-  name descriptor: the one(s) called ... ; takes name or selbri description.
+name descriptor: the one(s) called ... ; takes name or selbri description.
 
-- ladru
+##### ladru
 
-  x1 is made of/contains/is a quantity of milk from source x2; (adjective:) x1 is lactic/dairy.
+x1 is made of/contains/is a quantity of milk from source x2; (adjective:) x1 is lactic/dairy.
 
-- la'e
+##### la'e
 
-  the referent of (indirect pointer); uses the referent of a sumti as the desired sumti.
+the referent of (indirect pointer); uses the referent of a sumti as the desired sumti.
 
-- la'edi'u
+##### la'edi'u
 
-  pro-sumti: the referent of the last utterance; the state described: "IT was fun".
+pro-sumti: the referent of the last utterance; the state described: "IT was fun".
 
-- la'i
+##### la'i
 
-  name descriptor: the set of those named ... ; takes name or selbri description.
+name descriptor: the set of those named ... ; takes name or selbri description.
 
-- la'o
+##### la'o
 
-  delimited non-Lojban name; the resulting quote sumti is treated as a name.
+delimited non-Lojban name; the resulting quote sumti is treated as a name.
 
-- la'u
+##### la'u
 
-  klani modal, 1st place (amount) quantifying ...; being a quantity of ...
+klani modal, 1st place (amount) quantifying ...; being a quantity of ...
 
-- lai
+##### lai
 
-  name descriptor: the mass of individual(s) named ... ; takes name or selbri description.
+name descriptor: the mass of individual(s) named ... ; takes name or selbri description.
 
-- lanme
+##### lanme
 
-  x1 is a sheep/\[lamb/ewe/ram\] of species/breed x2 of flock x3.
+x1 is a sheep/\[lamb/ewe/ram\] of species/breed x2 of flock x3.
 
-- lantro
+##### lantro
 
-  x1 shepherds flock x2 composed of sheep x3
+x1 shepherds flock x2 composed of sheep x3
 
-- latmo
+##### latmo
 
-  x1 reflects Latin/Roman/Romance culture/empire/language in aspect x2.
+x1 reflects Latin/Roman/Romance culture/empire/language in aspect x2.
 
-- lau
+##### lau
 
-  2-word letteral/shift: punctuation mark or special symbol follows.
+2-word letteral/shift: punctuation mark or special symbol follows.
 
-- le
+##### le
 
-  non-veridical descriptor: the one(s) described as ...
+non-veridical descriptor: the one(s) described as ...
 
-- lebna
+##### lebna
 
-  x1 takes/gets/gains/obtains/seizes/\[removes\] x2 (object/property) from x3 (possessor).
+x1 takes/gets/gains/obtains/seizes/\[removes\] x2 (object/property) from x3 (possessor).
 
-- le'a
+##### le'a
 
-  klesi modal, 1st place (scalar set) in/of category ...
+klesi modal, 1st place (scalar set) in/of category ...
 
-- le'e
+##### le'e
 
-  non-veridical descriptor: the stereotype of those described as ...
+non-veridical descriptor: the stereotype of those described as ...
 
-- le'i
+##### le'i
 
-  non-veridical descriptor: the set of those described as ..., treated as a set.
+non-veridical descriptor: the set of those described as ..., treated as a set.
 
-- le'o
+##### le'o
 
-  attitudinal modifier: aggressive - passive - defensive.
+attitudinal modifier: aggressive - passive - defensive.
 
-- le'u
+##### le'u
 
-  end quote of questionable or out-of-context text; not elidable.
+end quote of questionable or out-of-context text; not elidable.
 
-- lei
+##### lei
 
-  non-veridical descriptor: the mass of individual(s) described as ...
+non-veridical descriptor: the mass of individual(s) described as ...
 
-- lerfu
+##### lerfu
 
-  x1 (la'e zo BY/word-bu) is a letter/digit/symbol in alphabet/character-set x2 representing x3.
+x1 (la'e zo BY/word-bu) is a letter/digit/symbol in alphabet/character-set x2 representing x3.
 
-- lervla
+##### lervla
 
-  v1 is a word which stands for the letter/digit/symbol v2=l1 in language v3.
+v1 is a word which stands for the letter/digit/symbol v2=l1 in language v3.
 
-- li
+##### li
 
-  the number/evaluated expression; convert number/operand/evaluated math expression to sumti.
+the number/evaluated expression; convert number/operand/evaluated math expression to sumti.
 
-- libjo
+##### libjo
 
-  x1 reflects Libyan culture/nationality in aspect x2.
+x1 reflects Libyan culture/nationality in aspect x2.
 
-- li'i
+##### li'i
 
-  abstractor: experience abstractor; x1 is x2's experience of \[bridi\] (participant or observer).
+abstractor: experience abstractor; x1 is x2's experience of \[bridi\] (participant or observer).
 
-- li'o
+##### li'o
 
-  discursive: omitted text (quoted material).
+discursive: omitted text (quoted material).
 
-- li'u
+##### li'u
 
-  elidable terminator: end grammatical quotation; seldom elidable except at end of text.
+elidable terminator: end grammatical quotation; seldom elidable except at end of text.
 
-- lijda
+##### lijda
 
-  x1 is a religion of believers including x2 sharing common beliefs/practices/tenets including x3.
+x1 is a religion of believers including x2 sharing common beliefs/practices/tenets including x3.
 
-- lijgri
+##### lijgri
 
-  g1 is a row (group) showing common property (ka) g2 due to set g3 linked by relations g4.
+g1 is a row (group) showing common property (ka) g2 due to set g3 linked by relations g4.
 
-- liste
+##### liste
 
-  x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4.
+x1 (physical object) is a list/catalog/register of sequence/set x2 in order x3 in medium x4.
 
-- litki
+##### litki
 
-  x1 is liquid/fluid, of composition/material including x2, under conditions x3.
+x1 is liquid/fluid, of composition/material including x2, under conditions x3.
 
-- litru
+##### litru
 
-  x1 travels/journeys/goes/moves via route x2 using means/vehicle x3; x1 is a traveller.
+x1 travels/journeys/goes/moves via route x2 using means/vehicle x3; x1 is a traveller.
 
-- lo
+##### lo
 
-  descriptor: the one, which (is / does) ... / those, which (are / do) ...
+descriptor: the one, which (is / does) ... / those, which (are / do) ...
 
-- logji
+##### logji
 
-  x1 \[rules/methods\] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u).
+x1 \[rules/methods\] is a logic for deducing/concluding/inferring/reasoning to/about x2 (du'u).
 
-- lo'a
+##### lo'a
 
-  shift letterals to Lojban (Roman) alphabet.
+shift letterals to Lojban (Roman) alphabet.
 
-- lo'e
+##### lo'e
 
-  veridical descriptor: the typical one(s) who really is(are) ...
+veridical descriptor: the typical one(s) who really is(are) ...
 
-- lo'i
+##### lo'i
 
-  veridical descriptor: the set of those that really are ..., treated as a set.
+veridical descriptor: the set of those that really are ..., treated as a set.
 
-- lo'o
+##### lo'o
 
-  elidable terminator: end math express.(mex) sumti; end mex-to-sumti conversion; usually elidable.
+elidable terminator: end math express.(mex) sumti; end mex-to-sumti conversion; usually elidable.
 
-- lo'u
+##### lo'u
 
-  start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical.
+start questionable/out-of-context quote; text should be Lojban words, but needn't be grammatical.
 
-- loi
+##### loi
 
-  veridical descriptor: the mass of individual(s) that is(are) ...
+veridical descriptor: the mass of individual(s) that is(are) ...
 
-- lojban
+##### lojban
 
-  Lojban.
+Lojban.
 
-- lojbangirz
+##### lojbangirz
 
-  Logical Language Group (LLG)
+Logical Language Group (LLG)
 
-- lojbaugri
+##### lojbaugri
 
-  x1 is the Logical Language Group (LLG).
+x1 is the Logical Language Group (LLG).
 
-- lojbo
+##### lojbo
 
-  x1 reflects \[Loglandic\]/Lojbanic language/culture/nationality/community in aspect x2.
+x1 reflects \[Loglandic\]/Lojbanic language/culture/nationality/community in aspect x2.
 
-- lu
+##### lu
 
-  start grammatical quotation; quoted text should be grammatical on its own.
+start grammatical quotation; quoted text should be grammatical on its own.
 
-- lubno
+##### lubno
 
-  x1 reflects Lebanese culture/nationality in aspect x2.
+x1 reflects Lebanese culture/nationality in aspect x2.
 
-- lu'a
+##### lu'a
 
-  the members of the set/components of the mass; converts another description type to individuals.
+the members of the set/components of the mass; converts another description type to individuals.
 
-- lu'e
+##### lu'e
 
-  the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti.
+the symbol for (indirect discourse); uses the symbol/word(s) for a sumti as the desired sumti.
 
-- lu'i
+##### lu'i
 
-  the set with members; converts another description type to a set of the members.
+the set with members; converts another description type to a set of the members.
 
-- lu'o
+##### lu'o
 
-  the mass composed of; converts another description type to a mass composed of the members.
+the mass composed of; converts another description type to a mass composed of the members.
 
-- lu'u
+##### lu'u
 
-  elidable terminator: end of sumti qualifiers; usually elidable except before a sumti.
+elidable terminator: end of sumti qualifiers; usually elidable except before a sumti.
 
-- lujvo
+##### lujvo
 
-  x1 (text) is a compound predicate word with meaning x2 and arguments x3 built from metaphor x4.
+x1 (text) is a compound predicate word with meaning x2 and arguments x3 built from metaphor x4.
 
-- ly
+##### ly
 
-  letteral for l.
+letteral for l.
 
-- ma
+##### ma
 
-  pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank.
+pro-sumti: sumti question (what/who/how/why/etc.); appropriately fill in sumti blank.
 
-- mabla
+##### mabla
 
-  x1 is execrable/deplorable/wretched/shitty/awful/rotten/miserable/contemptible/crappy/inferior/low-quality in property x2 by standard x3; x1 stinks/sucks in aspect x2 according to x3.
+x1 is execrable/deplorable/wretched/shitty/awful/rotten/miserable/contemptible/crappy/inferior/low-quality in property x2 by standard x3; x1 stinks/sucks in aspect x2 according to x3.
 
-- ma'a
+##### ma'a
 
-  pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified.
+pro-sumti: me/we the speaker(s)/author(s) & you the listener(s) & others unspecified.
 
-- ma'i
+##### ma'i
 
-  manri modal, 1st place (by standard 2) in reference frame ...
+manri modal, 1st place (by standard 2) in reference frame ...
 
-- ma'o
+##### ma'o
 
-  convert letteral string or other mathematical expression (mex) operand to mex operator.
+convert letteral string or other mathematical expression (mex) operand to mex operator.
 
-- ma'u
+##### ma'u
 
-  digit/number: plus sign; positive number; default any positive.
+digit/number: plus sign; positive number; default any positive.
 
-- mai
+##### mai
 
-  utterance ordinal suffix; converts a number to an ordinal, such as an item or paragraph number.
+utterance ordinal suffix; converts a number to an ordinal, such as an item or paragraph number.
 
-- mamta
+##### mamta
 
-  x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; \[not necessarily biological\].
+x1 is a mother of x2; x1 bears/mothers/acts maternally toward x2; \[not necessarily biological\].
 
-- matne
+##### matne
 
-  x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2.
+x1 is a quantity of/contains butter/oleo/margarine/shortening from source x2.
 
-- mau
+##### mau
 
-  zmadu modal, 1st place (a greater) exceeded by ... ; usually a sumti modifier.
+zmadu modal, 1st place (a greater) exceeded by ... ; usually a sumti modifier.
 
-- me
+##### me
 
-  convert sumti to selbri/tanru element; x1 is specific to \[sumti\] in aspect x2.
+convert sumti to selbri/tanru element; x1 is specific to \[sumti\] in aspect x2.
 
-- megdo
+##### megdo
 
-  x1 is a million \[106\] of x2 in dimension/aspect x3 (default is units).
+x1 is a million \[106\] of x2 in dimension/aspect x3 (default is units).
 
-- me'a
+##### me'a
 
-  mleca modal, 1st place (a lesser) undercut by ... ; usually a sumti modifier.
+mleca modal, 1st place (a lesser) undercut by ... ; usually a sumti modifier.
 
-- me'i
+##### me'i
 
-  digit/number: less than.
+digit/number: less than.
 
-- me'o
+##### me'o
 
-  the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti.
+the mathematical expression (unevaluated); convert unevaluated mathematical expression to sumti.
 
-- me'u
+##### me'u
 
-  elidable terminator: end sumti that was converted to selbri; usually elidable.
+elidable terminator: end sumti that was converted to selbri; usually elidable.
 
-- mei
+##### mei
 
-  convert number to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3.
+convert number to cardinality selbri; x1 is the mass formed from set x2 whose n member(s) are x3.
 
-- mekso
+##### mekso
 
-  x1 \[quantifier/expression\] is a mathematical expression interpreted under rules/convention x2.
+x1 \[quantifier/expression\] is a mathematical expression interpreted under rules/convention x2.
 
-- melbi
+##### melbi
 
-  x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard x4.
+x1 is beautiful/pleasant to x2 in aspect x3 (ka) by aesthetic standard x4.
 
-- meljo
+##### meljo
 
-  x1 reflects Malaysian/Malay culture/nationality/language in aspect x2.
+x1 reflects Malaysian/Malay culture/nationality/language in aspect x2.
 
-- merko
+##### merko
 
-  x1 pertains to USA/American culture/nationality/dialect in aspect x2.
+x1 pertains to USA/American culture/nationality/dialect in aspect x2.
 
-- mexno
+##### mexno
 
-  x1 reflects Mexican culture/nationality in aspect x2.
+x1 reflects Mexican culture/nationality in aspect x2.
 
-- mi
+##### mi
 
-  pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative.
+pro-sumti: me/we the speaker(s)/author(s); identified by self-vocative.
 
-- midju
+##### midju
 
-  x1 is in/at the middle/center/midpoint/\[is a focus\] of x2; (adjective:) x1 is central.
+x1 is in/at the middle/center/midpoint/\[is a focus\] of x2; (adjective:) x1 is central.
 
-- mi'a
+##### mi'a
 
-  pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener.
+pro-sumti: me/we the speaker(s)/author(s) & others unspecified, but not you, the listener.
 
-- mi'e
+##### mi'e
 
-  self vocative: self-introduction - denial of identity; identifies speaker.
+self vocative: self-introduction - denial of identity; identifies speaker.
 
-- mi'i
+##### mi'i
 
-  non-logical interval connective: ordered components: ... center, ... range surrounding center.
+non-logical interval connective: ordered components: ... center, ... range surrounding center.
 
-- mi'o
+##### mi'o
 
-  pro-sumti: me/we the speaker(s)/author(s) & you the listener(s).
+pro-sumti: me/we the speaker(s)/author(s) & you the listener(s).
 
-- mi'u
+##### mi'u
 
-  discursive: ditto.
+discursive: ditto.
 
-- mikce
+##### mikce
 
-  x1 doctors/treats/nurses/\[cures\]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.
+x1 doctors/treats/nurses/\[cures\]/is physician/midwife to x2 for ailment x3 by treatment/cure x4.
 
-- mikri
+##### mikri
 
-  x1 is a millionth \[10-6\] of x2 in dimension/aspect x3 (default is units).
+x1 is a millionth \[10-6\] of x2 in dimension/aspect x3 (default is units).
 
-- milti
+##### milti
 
-  x1 is a thousandth \[1/1000; 10-3\] of x2 in dimension/aspect x3 (default is units).
+x1 is a thousandth \[1/1000; 10-3\] of x2 in dimension/aspect x3 (default is units).
 
-- minde
+##### minde
 
-  x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur.
+x1 issues commands/orders to x2 for result x3 (event/state) to happen; x3 is commanded to occur.
 
-- misro
+##### misro
 
-  x1 reflects Egyptian culture/nationality in aspect x2.
+x1 reflects Egyptian culture/nationality in aspect x2.
 
-- mlatu
+##### mlatu
 
-  x1 is a cat/\[puss/pussy/kitten\] \[feline animal\] of species/breed x2; (adjective:) x1 is feline.
+x1 is a cat/\[puss/pussy/kitten\] \[feline animal\] of species/breed x2; (adjective:) x1 is feline.
 
-- mleca
+##### mleca
 
-  x1 is less than x2 in property/quantity x3 (ka/ni) by amount x4.
+x1 is less than x2 in property/quantity x3 (ka/ni) by amount x4.
 
-- mo
+##### mo
 
-  pro-bridi: bridi/selbri/brivla question.
+pro-bridi: bridi/selbri/brivla question.
 
-- mo'a
+##### mo'a
 
-  digit/number: too few; subjective.
+digit/number: too few; subjective.
 
-- mo'e
+##### mo'e
 
-  convert sumti to mex operand; sample use in story arithmetic: \[3 apples\] + \[3 apples\] = what.
+convert sumti to mex operand; sample use in story arithmetic: \[3 apples\] + \[3 apples\] = what.
 
-- mo'i
+##### mo'i
 
-  mark motions in space-time.
+mark motions in space-time.
 
-- mo'o
+##### mo'o
 
-  higher-order utterance ordinal suffix; converts a number to ordinal, usually a section/chapter.
+higher-order utterance ordinal suffix; converts a number to ordinal, usually a section/chapter.
 
-- mo'u
+##### mo'u
 
-  interval event contour: at the natural ending point of ...; completive | >|<.
+interval event contour: at the natural ending point of ...; completive | >|<.
 
-- moi
+##### moi
 
-  convert number to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3.
+convert number to ordinal selbri; x1 is (n)th member of set x2 ordered by rule x3.
 
-- mojysu'a
+##### mojysu'a
 
-  s1 is a structure of parts s2 as a monument/memorial to m3.
+s1 is a structure of parts s2 as a monument/memorial to m3.
 
-- mokca
+##### mokca
 
-  x1 is a point/instant/moment \[0-dimensional shape/form\] in/on/at time/place x2.
+x1 is a point/instant/moment \[0-dimensional shape/form\] in/on/at time/place x2.
 
-- molro
+##### molro
 
-  x1 is x2 mole(s) \[metric unit\] in substance (default is 1) by standard x3.
+x1 is x2 mole(s) \[metric unit\] in substance (default is 1) by standard x3.
 
-- morko
+##### morko
 
-  x1 reflects Moroccan culture/nationality in aspect x2.
+x1 reflects Moroccan culture/nationality in aspect x2.
 
-- mrostu
+##### mrostu
 
-  s1 is the grave/tomb of m1=s2.
+s1 is the grave/tomb of m1=s2.
 
-- mu
+##### mu
 
-  digit/number: 5 (digit) \[five\].
+digit/number: 5 (digit) \[five\].
 
-- mu'e
+##### mu'e
 
-  abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of \[bridi\].
+abstractor: achievement (event) abstractor; x1 is the event-as-a-point/achievement of \[bridi\].
 
-- mu'i
+##### mu'i
 
-  mukti modal, 1st place because of motive ...
+mukti modal, 1st place because of motive ...
 
-- mu'onai
+##### mu'onai
 
-  vocative: over (response OK) - more to come.
+vocative: over (response OK) - more to come.
 
-- mukti
+##### mukti
 
-  x1 (action/event/state) motivates/is a motive/incentive for action/event x2, per volition of x3.
+x1 (action/event/state) motivates/is a motive/incentive for action/event x2, per volition of x3.
 
-- mulgri
+##### mulgri
 
-  g1=m1 is a complete set showing common property (ka) g2, complete by standard m3.
+g1=m1 is a complete set showing common property (ka) g2, complete by standard m3.
 
-- muslo
+##### muslo
 
-  x1 pertains to the Islamic/Moslem/Koranic \[Quranic\] culture/religion/nation in aspect x2.
+x1 pertains to the Islamic/Moslem/Koranic \[Quranic\] culture/religion/nation in aspect x2.
 
-- my
+##### my
 
-  letteral for m.
+letteral for m.
 
-- na
+##### na
 
-  bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds.
+bridi contradictory negator; scope is an entire bridi; logically negates in some cmavo compounds.
 
-- na'a
+##### na'a
 
-  cancel all letteral shifts.
+cancel all letteral shifts.
 
-- na'e
+##### na'e
 
-  contrary scalar negator: other than ...; not ...; a scale or set is implied.
+contrary scalar negator: other than ...; not ...; a scale or set is implied.
 
-- na'i
+##### na'i
 
-  discursive: metalinguistic negator.
+discursive: metalinguistic negator.
 
-- na'o
+##### na'o
 
-  tense interval modifier: characteristically/typically; tense/modal; defaults as time tense.
+tense interval modifier: characteristically/typically; tense/modal; defaults as time tense.
 
-- na'u
+##### na'u
 
-  convert selbri to mex operator; used to create less-used operators using fu'ivla, lujvo, etc.
+convert selbri to mex operator; used to create less-used operators using fu'ivla, lujvo, etc.
 
-- na'ujbi
+##### na'ujbi
 
-  x1 is approximately equal to x2.
+x1 is approximately equal to x2.
 
-- nai
+##### nai
 
-  attached to cmavo to negate them; various negation-related meanings.
+attached to cmavo to negate them; various negation-related meanings.
 
-- naja
+##### naja
 
-  logical connective: tanru-internal afterthought conditional/only if.
+logical connective: tanru-internal afterthought conditional/only if.
 
-- nakykemcinctu
+##### nakykemcinctu
 
-  x1 is a male teacher of sexuality to audience x2.
+x1 is a male teacher of sexuality to audience x2.
 
-- namcu
+##### namcu
 
-  x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol.
+x1 (li) is a number/quantifier/digit/value/figure (noun); refers to the value and not the symbol.
 
-- nanmu
+##### nanmu
 
-  x1 is a man/men; x1 is a male humanoid person \[not necessarily adult\].
+x1 is a man/men; x1 is a male humanoid person \[not necessarily adult\].
 
-- nanvi
+##### nanvi
 
-  x1 is a billionth/thousand-millionth \[10-9\] of x2 in dimension/aspect x3 (default is units).
+x1 is a billionth/thousand-millionth \[10-9\] of x2 in dimension/aspect x3 (default is units).
 
-- nau
+##### nau
 
-  tense: refers to current space/time reference absolutely.
+tense: refers to current space/time reference absolutely.
 
-- ne
+##### ne
 
-  non-restrictive relative phrase marker: which incidentally is associated with ...
+non-restrictive relative phrase marker: which incidentally is associated with ...
 
-- nei
+##### nei
 
-  pro-bridi: repeats the current bridi.
+pro-bridi: repeats the current bridi.
 
-- ni
+##### ni
 
-  abstractor: quantity/amount abstractor; x1 is quantity/amount of \[bridi\] measured on scale x2.
+abstractor: quantity/amount abstractor; x1 is quantity/amount of \[bridi\] measured on scale x2.
 
-- nibli
+##### nibli
 
-  x1 logically necessitates/entails/implies action/event/state x2 under rules/logic system x3.
+x1 logically necessitates/entails/implies action/event/state x2 under rules/logic system x3.
 
-- ni'e
+##### ni'e
 
-  convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen.
+convert selbri to mex operand; used to create new non-numerical quantifiers; e.g. "herd" of oxen.
 
-- ni'i
+##### ni'i
 
-  nibli modal, 1st place logically; logically because ...
+nibli modal, 1st place logically; logically because ...
 
-- ni'o
+##### ni'o
 
-  discursive: paragraph break; introduce new topic.
+discursive: paragraph break; introduce new topic.
 
-- ni'u
+##### ni'u
 
-  digit/number: minus sign; negative number); default any negative.
+digit/number: minus sign; negative number); default any negative.
 
-- nimre
+##### nimre
 
-  x1 is a quantity of citrus \[fruit/tree, etc.\] of species/strain x2.
+x1 is a quantity of citrus \[fruit/tree, etc.\] of species/strain x2.
 
-- ninmu
+##### ninmu
 
-  x1 is a woman/women; x1 is a female humanoid person \[not necessarily adult\].
+x1 is a woman/women; x1 is a female humanoid person \[not necessarily adult\].
 
-- nitcu
+##### nitcu
 
-  x1 needs/requires/is dependent on/\[wants\] necessity x2 for purpose/action/stage of process x3.
+x1 needs/requires/is dependent on/\[wants\] necessity x2 for purpose/action/stage of process x3.
 
-- nixli
+##### nixli
 
-  x1 is a girl \[young female person\] of age x2 immature by standard x3.
+x1 is a girl \[young female person\] of age x2 immature by standard x3.
 
-- no
+##### no
 
-  digit/number: 0 (digit) \[zero\].
+digit/number: 0 (digit) \[zero\].
 
-- nobli
+##### nobli
 
-  x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard x2.
+x1 is noble/aristocratic/elite/high-born/titled in/under culture/society/standard x2.
 
-- noda
+##### noda
 
-  logically quantified sumti: nothing at all (unless restricted).
+logically quantified sumti: nothing at all (unless restricted).
 
-- no'a
+##### no'a
 
-  pro-bridi: repeats the bridi in which this one is embedded.
+pro-bridi: repeats the bridi in which this one is embedded.
 
-- no'e
+##### no'e
 
-  midpoint scalar negator: neutral point between je'a and to'e; "not really".
+midpoint scalar negator: neutral point between je'a and to'e; "not really".
 
-- no'i
+##### no'i
 
-  discursive: paragraph break; resume previous topic.
+discursive: paragraph break; resume previous topic.
 
-- no'o
+##### no'o
 
-  digit/number: typical/average value.
+digit/number: typical/average value.
 
-- no'u
+##### no'u
 
-  non-restrictive appositive phrase marker: which incidentally is the same thing as ...
+non-restrictive appositive phrase marker: which incidentally is the same thing as ...
 
-- noi
+##### noi
 
-  non-restrictive relative clause; attaches subordinate bridi with incidental information.
+non-restrictive relative clause; attaches subordinate bridi with incidental information.
 
-- nolraitru
+##### nolraitru
 
-  t1=n1 is a regent/monarch of t2 by standard n2.
+t1=n1 is a regent/monarch of t2 by standard n2.
 
-- nu
+##### nu
 
-  abstractor: generalized event abstractor; x1 is state/process/achievement/activity of \[bridi\].
+abstractor: generalized event abstractor; x1 is state/process/achievement/activity of \[bridi\].
 
-- nu'a
+##### nu'a
 
-  convert mathematical expression (mex) operator to a selbri/tanru component.
+convert mathematical expression (mex) operator to a selbri/tanru component.
 
-- nu'e
+##### nu'e
 
-  vocative: promise - promise release - un-promise.
+vocative: promise - promise release - un-promise.
 
-- nu'i
+##### nu'i
 
-  start forethought termset construct; marks start of place structure set with logical connection.
+start forethought termset construct; marks start of place structure set with logical connection.
 
-- nu'o
+##### nu'o
 
-  modal aspect: can but has not; unrealized potential.
+modal aspect: can but has not; unrealized potential.
 
-- nu'u
+##### nu'u
 
-  elidable terminator: end forethought termset; usually elidable except with following sumti.
+elidable terminator: end forethought termset; usually elidable except with following sumti.
 
-- nuncti
+##### nuncti
 
-  n1 is an event at which c1 eat(s) c2.
+n1 is an event at which c1 eat(s) c2.
 
-- nunctu
+##### nunctu
 
-  x1 (nu) is an event in which x2 teaches x3 facts x4 (du'u) about x5 by means x6; x1 is a lesson given by x2 to x3.
+x1 (nu) is an event in which x2 teaches x3 facts x4 (du'u) about x5 by means x6; x1 is a lesson given by x2 to x3.
 
-- nunkla
+##### nunkla
 
-  n1 is a passage where goer k1 comes/goes to destination k2 from origin k3 via route k4 using means/vehicle k5.
+n1 is a passage where goer k1 comes/goes to destination k2 from origin k3 via route k4 using means/vehicle k5.
 
-- ny
+##### ny
 
-  letteral for n.
+letteral for n.
 
-- o
+##### o
 
-  logical connective: sumti afterthought biconditional/iff/if-and-only-if.
+logical connective: sumti afterthought biconditional/iff/if-and-only-if.
 
-- obu
+##### obu
 
-  letteral for o.
+letteral for o.
 
-- o'u
+##### o'u
 
-  attitudinal: relaxation - composure - stress.
+attitudinal: relaxation - composure - stress.
 
-- oi
+##### oi
 
-  attitudinal: complaint - pleasure.
+attitudinal: complaint - pleasure.
 
-- oinai
+##### oinai
 
-  attitudinal: complaint - pleasure.
+attitudinal: complaint - pleasure.
 
-- onai
+##### onai
 
-  logical connective: sumti afterthought exclusive or; Latin 'aut'.
+logical connective: sumti afterthought exclusive or; Latin 'aut'.
 
-- pa
+##### pa
 
-  digit/number: 1 (digit) \[one\].
+digit/number: 1 (digit) \[one\].
 
-- pacru'i
+##### pacru'i
 
-  x1 is an evil spirit / demon
+x1 is an evil spirit / demon
 
-- pagbu
+##### pagbu
 
-  x1 is a part/component/piece/portion/segment of x2 \[where x2 is a whole/mass\]; x2 is partly x1.
+x1 is a part/component/piece/portion/segment of x2 \[where x2 is a whole/mass\]; x2 is partly x1.
 
-- pa'e
+##### pa'e
 
-  discursive: justice - prejudice.
+discursive: justice - prejudice.
 
-- pa'enai
+##### pa'enai
 
-  discursive: justice - prejudice.
+discursive: justice - prejudice.
 
-- pai
+##### pai
 
-  digit/number: pi (approximately 3.1416...); the constant defined by the ratio of the circumference to the diameter of all circles.
+digit/number: pi (approximately 3.1416...); the constant defined by the ratio of the circumference to the diameter of all circles.
 
-- pamoi
+##### pamoi
 
-  quantified selbri: convert 1 to ordinal selbri; x1 is first among x2 ordered by rule x3.
+quantified selbri: convert 1 to ordinal selbri; x1 is first among x2 ordered by rule x3.
 
-- paso
+##### paso
 
-  number/quantity: 19 \[nineteen\].
+number/quantity: 19 \[nineteen\].
 
-- patyta'a
+##### patyta'a
 
-  p1=t1 complains verbally to p3=t2 about p2=t3 in language t4
+p1=t1 complains verbally to p3=t2 about p2=t3 in language t4
 
-- pau
+##### pau
 
-  discursive: optional question premarker.
+discursive: optional question premarker.
 
-- paunai
+##### paunai
 
-  discursive: unreal/rhetorical question follows.
+discursive: unreal/rhetorical question follows.
 
-- pe
+##### pe
 
-  restrictive relative phrase marker: which is associated with ...; loosest associative/possessive.
+restrictive relative phrase marker: which is associated with ...; loosest associative/possessive.
 
-- pe'a
+##### pe'a
 
-  marks a construct as figurative (non-literal/metaphorical) speech/text.
+marks a construct as figurative (non-literal/metaphorical) speech/text.
 
-- pe'e
+##### pe'e
 
-  marks the following connective as joining termsets.
+marks the following connective as joining termsets.
 
-- pe'i
+##### pe'i
 
-  evidential: I opine (subjective claim).
+evidential: I opine (subjective claim).
 
-- pe'o
+##### pe'o
 
-  forethought flag for mathematical expression (mex) Polish (forethought) operator.
+forethought flag for mathematical expression (mex) Polish (forethought) operator.
 
-- pei
+##### pei
 
-  attitudinal: attitudinal question; how do you feel about it? with what intensity?.
+attitudinal: attitudinal question; how do you feel about it? with what intensity?.
 
-- pelnimre
+##### pelnimre
 
-  x1 is a lemon of variety x2.
+x1 is a lemon of variety x2.
 
-- pelxu
+##### pelxu
 
-  x1 is yellow/golden \[color adjective\].
+x1 is yellow/golden \[color adjective\].
 
-- petso
+##### petso
 
-  x1 is 1015 of x2 in dimension/aspect x3 (default is units).
+x1 is 1015 of x2 in dimension/aspect x3 (default is units).
 
-- pi
+##### pi
 
-  digit/number: radix (number base) point; default decimal.
+digit/number: radix (number base) point; default decimal.
 
-- picti
+##### picti
 
-  x1 is a trillionth \[10-12\] of x2 in dimension/aspect x3 (default is units).
+x1 is a trillionth \[10-12\] of x2 in dimension/aspect x3 (default is units).
 
-- pi'a
+##### pi'a
 
-  n-ary mathematical operator: operands are vectors to be treated as matrix rows.
+n-ary mathematical operator: operands are vectors to be treated as matrix rows.
 
-- pi'e
+##### pi'e
 
-  digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date).
+digit/number:separates digits for base >16, not current standard, or variable (e.g. time, date).
 
-- pi'i
+##### pi'i
 
-  n-ary mathematical operator: times; multiplication operator; \[(((a \* b) \* c) \* ...)\].
+n-ary mathematical operator: times; multiplication operator; \[(((a \* b) \* c) \* ...)\].
 
-- pi'o
+##### pi'o
 
-  pilno modal, 1st place used by ...
+pilno modal, 1st place used by ...
 
-- pi'u
+##### pi'u
 
-  non-logical connective: cross product; Cartesian product of sets.
+non-logical connective: cross product; Cartesian product of sets.
 
-- pilno
+##### pilno
 
-  x1 uses/employs x2 \[tool, apparatus, machine, agent, acting entity, material\] for purpose x3.
+x1 uses/employs x2 \[tool, apparatus, machine, agent, acting entity, material\] for purpose x3.
 
-- piro
+##### piro
 
-  number: all of.
+number: all of.
 
-- piso'a
+##### piso'a
 
-  number: almost all of.
+number: almost all of.
 
-- piso'u
+##### piso'u
 
-  number: a little of.
+number: a little of.
 
-- pisu'o
+##### pisu'o
 
-  number: at least some of.
+number: at least some of.
 
-- pluka
+##### pluka
 
-  x1 (event/state) seems pleasant to/pleases x2 under conditions x3.
+x1 (event/state) seems pleasant to/pleases x2 under conditions x3.
 
-- po
+##### po
 
-  restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.
+restrictive relative phrase marker: which is specific to ...; normal possessive physical/legal.
 
-- po'e
+##### po'e
 
-  restrictive relative phrase marker: which belongs to ... ; inalienable possession.
+restrictive relative phrase marker: which belongs to ... ; inalienable possession.
 
-- po'o
+##### po'o
 
-  discursive: uniquely, only, solely: the only relevant case.
+discursive: uniquely, only, solely: the only relevant case.
 
-- po'u
+##### po'u
 
-  restrictive appositive phrase marker: which is the same thing as.
+restrictive appositive phrase marker: which is the same thing as.
 
-- poi
+##### poi
 
-  restrictive relative clause; attaches subordinate bridi with identifying information to a sumti.
+restrictive relative clause; attaches subordinate bridi with identifying information to a sumti.
 
-- polno
+##### polno
 
-  x1 reflects Polynesian/Oceanian (geographic region) culture/nationality/languages in aspect x2.
+x1 reflects Polynesian/Oceanian (geographic region) culture/nationality/languages in aspect x2.
 
-- ponjo
+##### ponjo
 
-  x1 reflects Japanese culture/nationality/language in aspect x2.
+x1 reflects Japanese culture/nationality/language in aspect x2.
 
-- ponse
+##### ponse
 
-  x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of x2 under x3.
+x1 possesses/owns/has x2 under law/custom x3; x1 is owner/proprietor of x2 under x3.
 
-- porto
+##### porto
 
-  x1 reflects Portuguese culture/nationality/language in aspect x2.
+x1 reflects Portuguese culture/nationality/language in aspect x2.
 
-- prenu
+##### prenu
 
-  x1 is a person/people (noun) \[not necessarily human\]; x1 displays personality/a persona.
+x1 is a person/people (noun) \[not necessarily human\]; x1 displays personality/a persona.
 
-- pritu
+##### pritu
 
-  x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference x3.
+x1 is to the right/right-hand side of x2 which faces/in-frame-of-reference x3.
 
-- pu
+##### pu
 
-  time tense relation/direction: did \[selbri\]; before/prior to \[sumti\]; default past tense.
+time tense relation/direction: did \[selbri\]; before/prior to \[sumti\]; default past tense.
 
-- puba
+##### puba
 
-  time tense: was going to; (tense/modal).
+time tense: was going to; (tense/modal).
 
-- pu'i
+##### pu'i
 
-  modal aspect: can and has; demonstrated potential.
+modal aspect: can and has; demonstrated potential.
 
-- pu'o
+##### pu'o
 
-  interval event contour: in anticipation of ...; until ... ; inchoative ----| |.
+interval event contour: in anticipation of ...; until ... ; inchoative ----| |.
 
-- pu'u
+##### pu'u
 
-  abstractor: process (event) abstractor; x1 is process of \[bridi\] proceeding in stages x2.
+abstractor: process (event) abstractor; x1 is process of \[bridi\] proceeding in stages x2.
 
-- purci
+##### purci
 
-  x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter.
+x1 is in the past of/earlier than/before x2 in time sequence; x1 is former; x2 is latter.
 
-- py
+##### py
 
-  letteral for p.
+letteral for p.
 
-- ra
+##### ra
 
-  pro-sumti: a recent sumti before the last one, as determined by back-counting rules.
+pro-sumti: a recent sumti before the last one, as determined by back-counting rules.
 
-- radno
+##### radno
 
-  x1 is x2 radian(s) \[metric unit\] in angular measure (default is 1) by standard x3.
+x1 is x2 radian(s) \[metric unit\] in angular measure (default is 1) by standard x3.
 
-- rafsi
+##### rafsi
 
-  x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4.
+x1 is an affix/suffix/prefix/combining-form for word/concept x2, form/properties x3, language x4.
 
-- ra'a
+##### ra'a
 
-  srana modal, 1st place pertained to by ... (generally more specific).
+srana modal, 1st place pertained to by ... (generally more specific).
 
-- ra'e
+##### ra'e
 
-  digit/number: repeating digits (of a decimal) follow.
+digit/number: repeating digits (of a decimal) follow.
 
-- ra'i
+##### ra'i
 
-  krasi modal, 1st place from source/origin/starting point ...
+krasi modal, 1st place from source/origin/starting point ...
 
-- ra'o
+##### ra'o
 
-  flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi.
+flag GOhA to indicate pro-assignment context updating for all pro-assigns in referenced bridi.
 
-- ra'u
+##### ra'u
 
-  discursive: chiefly - equally - incidentally.
+discursive: chiefly - equally - incidentally.
 
-- ra'ucu'i
+##### ra'ucu'i
 
-  discursive: chiefly - equally - incidentally.
+discursive: chiefly - equally - incidentally.
 
-- ra'unai
+##### ra'unai
 
-  discursive: chiefly - equally - incidentally.
+discursive: chiefly - equally - incidentally.
 
-- rakso
+##### rakso
 
-  x1 reflects Iraqi culture/nationality in aspect x2.
+x1 reflects Iraqi culture/nationality in aspect x2.
 
-- ralju
+##### ralju
 
-  x1 is principal/chief/leader/main/\[staple\], most significant among x2 (set) in property x3 (ka).
+x1 is principal/chief/leader/main/\[staple\], most significant among x2 (set) in property x3 (ka).
 
-- rau
+##### rau
 
-  digit/number: enough; subjective.
+digit/number: enough; subjective.
 
-- re
+##### re
 
-  digit/number: 2 (digit) \[two\].
+digit/number: 2 (digit) \[two\].
 
-- re'i
+##### re'i
 
-  vocative: ready to receive - not ready to receive.
+vocative: ready to receive - not ready to receive.
 
-- re'inai
+##### re'inai
 
-  vocative: ready to receive - not ready to receive.
+vocative: ready to receive - not ready to receive.
 
-- re'u
+##### re'u
 
-  converts number to an objectively quantified ordinal tense interval modifier; defaults to time.
+converts number to an objectively quantified ordinal tense interval modifier; defaults to time.
 
-- reroi
+##### reroi
 
-  tense interval modifier: twice; objectively quantified tense; defaults as time tense.
+tense interval modifier: twice; objectively quantified tense; defaults as time tense.
 
-- ri
+##### ri
 
-  pro-sumti: the last sumti, as determined by back-counting rules.
+pro-sumti: the last sumti, as determined by back-counting rules.
 
-- ricfu
+##### ricfu
 
-  x1 is rich/wealthy in goods/possessions/property/aspect x2.
+x1 is rich/wealthy in goods/possessions/property/aspect x2.
 
-- ri'a
+##### ri'a
 
-  rinka modal, 1st place (phys./mental) causal because ...
+rinka modal, 1st place (phys./mental) causal because ...
 
-- ri'e
+##### ri'e
 
-  attitudinal modifier: release of emotion - emotion restraint.
+attitudinal modifier: release of emotion - emotion restraint.
 
-- rinka
+##### rinka
 
-  x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3.
+x1 (event/state) effects/physically causes effect x2 (event/state) under conditions x3.
 
-- risna
+##### risna
 
-  x1 is a/the heart \[body-part\] of x2; \[emotional/shape metaphors are NOT culturally neutral\].
+x1 is a/the heart \[body-part\] of x2; \[emotional/shape metaphors are NOT culturally neutral\].
 
-- ro
+##### ro
 
-  digit/number: each, all.
+digit/number: each, all.
 
-- ro'anai
+##### ro'anai
 
-  emotion category/modifier: social - antisocial.
+emotion category/modifier: social - antisocial.
 
-- ro'e
+##### ro'e
 
-  emotion category/modifier: mental - mindless.
+emotion category/modifier: mental - mindless.
 
-- ro'o
+##### ro'o
 
-  emotion category/modifier: physical - denying physical.
+emotion category/modifier: physical - denying physical.
 
-- ro'u
+##### ro'u
 
-  emotion category/modifier: sexual - sexual abstinence.
+emotion category/modifier: sexual - sexual abstinence.
 
-- roi
+##### roi
 
-  converts number to an objectively quantified tense interval modifier; defaults to time tense.
+converts number to an objectively quantified tense interval modifier; defaults to time tense.
 
-- romai
+##### romai
 
-  discursive utterance ordinal: finally; last utterance ordinal.
+discursive utterance ordinal: finally; last utterance ordinal.
 
-- ropno
+##### ropno
 
-  x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2.
+x1 reflects European culture/nationality/geography/Indo-European languages in aspect x2.
 
-- ru
+##### ru
 
-  pro-sumti: a remote past sumti, before all other in-use backcounting sumti.
+pro-sumti: a remote past sumti, before all other in-use backcounting sumti.
 
-- ruble
+##### ruble
 
-  x1 is weak/feeble/frail in property/quality/aspect x2 (ka) by standard x3.
+x1 is weak/feeble/frail in property/quality/aspect x2 (ka) by standard x3.
 
-- ru'a
+##### ru'a
 
-  evidential: I postulate.
+evidential: I postulate.
 
-- ru'e
+##### ru'e
 
-  attitudinal: weak intensity attitude modifier.
+attitudinal: weak intensity attitude modifier.
 
-- ru'i
+##### ru'i
 
-  tense interval modifier: continuously; subjective tense/modal; defaults as time tense.
+tense interval modifier: continuously; subjective tense/modal; defaults as time tense.
 
-- ru'inai
+##### ru'inai
 
-  tense interval modifier: occasional/intermittent/discontinuous; defaults as time tense.
+tense interval modifier: occasional/intermittent/discontinuous; defaults as time tense.
 
-- ru'o
+##### ru'o
 
-  shift letterals to Cyrillic alphabet.
+shift letterals to Cyrillic alphabet.
 
-- rusko
+##### rusko
 
-  x1 reflects Russian culture/nationality/language in aspect x2.
+x1 reflects Russian culture/nationality/language in aspect x2.
 
-- ry
+##### ry
 
-  letteral for r.
+letteral for r.
 
-- sa
+##### sa
 
-  erase complete or partial utterance; next word shows how much erasing to do.
+erase complete or partial utterance; next word shows how much erasing to do.
 
-- sadjo
+##### sadjo
 
-  x1 reflects Saudi Arabian culture/nationality in aspect x2.
+x1 reflects Saudi Arabian culture/nationality in aspect x2.
 
-- sa'a
+##### sa'a
 
-  discursive: material inserted by editor/narrator (bracketed text).
+discursive: material inserted by editor/narrator (bracketed text).
 
-- sa'enai
+##### sa'enai
 
-  discursive: precisely speaking - loosely speaking.
+discursive: precisely speaking - loosely speaking.
 
-- sa'i
+##### sa'i
 
-  n-ary mathematical operator: operands are vectors to be treated as matrix columns.
+n-ary mathematical operator: operands are vectors to be treated as matrix columns.
 
-- sa'unai
+##### sa'unai
 
-  discursive: simply - elaborating.
+discursive: simply - elaborating.
 
-- sai
+##### sai
 
-  attitudinal: moderate intensity attitude modifier.
+attitudinal: moderate intensity attitude modifier.
 
-- sakli
+##### sakli
 
-  x1 slides/slips/glides on x2.
+x1 slides/slips/glides on x2.
 
-- salci
+##### salci
 
-  x1 celebrates/recognizes/honors x2 (event/abstract) with activity/\[party\] x3.
+x1 celebrates/recognizes/honors x2 (event/abstract) with activity/\[party\] x3.
 
-- sanli
+##### sanli
 
-  x1 stands \[is vertically oriented\] on surface x2 supported by limbs/support/pedestal x3.
+x1 stands \[is vertically oriented\] on surface x2 supported by limbs/support/pedestal x3.
 
-- saske
+##### saske
 
-  x1 (mass of facts) is science of/about subject matter x2 based on methodology x3.
+x1 (mass of facts) is science of/about subject matter x2 based on methodology x3.
 
-- se
+##### se
 
-  2nd conversion; switch 1st/2nd places.
+2nd conversion; switch 1st/2nd places.
 
-- seba'i
+##### seba'i
 
-  basti modal, 2nd place instead of ...
+basti modal, 2nd place instead of ...
 
-- se'a
+##### se'a
 
-  attitudinal modifier: self-sufficiency - dependency.
+attitudinal modifier: self-sufficiency - dependency.
 
-- se'e
+##### se'e
 
-  following digits code a character (in ASCII, Unicode, etc.).
+following digits code a character (in ASCII, Unicode, etc.).
 
-- se'i
+##### se'i
 
-  attitudinal modifier: self-oriented - other-oriented.
+attitudinal modifier: self-oriented - other-oriented.
 
-- se'o
+##### se'o
 
-  evidential: I know by internal experience (dream, vision, or personal revelation).
+evidential: I know by internal experience (dream, vision, or personal revelation).
 
-- se'u
+##### se'u
 
-  elidable terminator: end discursive bridi or mathematical precedence;usually elidable.
+elidable terminator: end discursive bridi or mathematical precedence;usually elidable.
 
-- sei
+##### sei
 
-  start discursive (metalinguistic) bridi.
+start discursive (metalinguistic) bridi.
 
-- seja'e
+##### seja'e
 
-  jalge modal, 2nd place (event causal) results because of ...
+jalge modal, 2nd place (event causal) results because of ...
 
-- seka'a
+##### seka'a
 
-  klama modal, 2nd place with destination ...
+klama modal, 2nd place with destination ...
 
-- selbri
+##### selbri
 
-  x2=b1 (du'u) is a predicate relationship with relation x1=b2 among arguments x3=b3 (ordered set).
+x2=b1 (du'u) is a predicate relationship with relation x1=b2 among arguments x3=b3 (ordered set).
 
-- selkla
+##### selkla
 
-  T destination x1, goes x2 from x3 via route x4 by means x5.
+T destination x1, goes x2 from x3 via route x4 by means x5.
 
-- selma'o
+##### selma'o
 
-  x1 is the class of structure word x2, which means or has function x3 in language x4.
+x1 is the class of structure word x2, which means or has function x3 in language x4.
 
-- selsku
+##### selsku
 
-  c2 is said by c1 to audience c3 via expressive medium c4.
+c2 is said by c1 to audience c3 via expressive medium c4.
 
-- seltau
+##### seltau
 
-  x1 is the modifying part of binary metaphor x2 with modified part/modificand x3 giving meaning x4 in usage/instance x5
+x1 is the modifying part of binary metaphor x2 with modified part/modificand x3 giving meaning x4 in usage/instance x5
 
-- selti'i
+##### selti'i
 
-  x1 is a suggestion made by x2 to audience x3
+x1 is a suggestion made by x2 to audience x3
 
-- selti'ifla
+##### selti'ifla
 
-  f1=s2 is a bill specifying f2 (state/event) for community f3 under conditions f4, proposed/drafted by s1.
+f1=s2 is a bill specifying f2 (state/event) for community f3 under conditions f4, proposed/drafted by s1.
 
-- semau
+##### semau
 
-  zmadu modal, 2nd place (relative!) more than ...; usually a sumti modifier.
+zmadu modal, 2nd place (relative!) more than ...; usually a sumti modifier.
 
-- seme'a
+##### seme'a
 
-  mleca modal, 2nd place (relative!) less than ...; usually a sumti modifier.
+mleca modal, 2nd place (relative!) less than ...; usually a sumti modifier.
 
-- semto
+##### semto
 
-  x1 reflects Semitic \[metaphor: Middle-Eastern\] language/culture/nationality in aspect x2.
+x1 reflects Semitic \[metaphor: Middle-Eastern\] language/culture/nationality in aspect x2.
 
-- sepi'o
+##### sepi'o
 
-  pilno modal, 2nd place (instrumental) tool/machine/apparatus/acting entity; using (tool) ...
+pilno modal, 2nd place (instrumental) tool/machine/apparatus/acting entity; using (tool) ...
 
-- seri'a
+##### seri'a
 
-  rinka modal, 2nd place (phys./mental) causal therefore ...
+rinka modal, 2nd place (phys./mental) causal therefore ...
 
-- sfofa
+##### sfofa
 
-  x1 is a sofa/couch (noun).
+x1 is a sofa/couch (noun).
 
-- si
+##### si
 
-  erase the last Lojban word, treating non-Lojban text as a single word.
+erase the last Lojban word, treating non-Lojban text as a single word.
 
-- si'a
+##### si'a
 
-  discursive: similarly.
+discursive: similarly.
 
-- si'e
+##### si'e
 
-  convert number to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma).
+convert number to portion selbri; x1 is an (n)th portion of mass/totality x2; (cf. gunma).
 
-- si'o
+##### si'o
 
-  abstractor: idea/concept abstractor; x1 is x2's concept of \[bridi\].
+abstractor: idea/concept abstractor; x1 is x2's concept of \[bridi\].
 
-- since
+##### since
 
-  x1 is a snake/serpent of species/breed x2.
+x1 is a snake/serpent of species/breed x2.
 
-- sinso
+##### sinso
 
-  x1 is the trigonometric sine of angle/arcsine x2.
+x1 is the trigonometric sine of angle/arcsine x2.
 
-- sinxa
+##### sinxa
 
-  x1 is a sign/symbol/signal representing/referring/signifying/meaning x2 to observer x3.
+x1 is a sign/symbol/signal representing/referring/signifying/meaning x2 to observer x3.
 
-- sirxo
+##### sirxo
 
-  x1 reflects Syrian culture/nationality in aspect x2.
+x1 reflects Syrian culture/nationality in aspect x2.
 
-- sisti
+##### sisti
 
-  x1 \[agent\] ceases/stops/halts/ends activity/process/state x2 \[not necessarily completing it\].
+x1 \[agent\] ceases/stops/halts/ends activity/process/state x2 \[not necessarily completing it\].
 
-- skari
+##### skari
 
-  x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions x4.
+x1 is/appears to be of color/hue x2 as perceived/seen by x3 under conditions x4.
 
-- skoto
+##### skoto
 
-  x1 reflects Gaelic/Scottish culture/nationality/language in aspect x2.
+x1 reflects Gaelic/Scottish culture/nationality/language in aspect x2.
 
-- slaka
+##### slaka
 
-  x1 is a syllable in language x2.
+x1 is a syllable in language x2.
 
-- slovo
+##### slovo
 
-  x1 reflects Slavic language/culture/ethos in aspect x2.
+x1 reflects Slavic language/culture/ethos in aspect x2.
 
-- softo
+##### softo
 
-  x1 reflects Russian empire/USSR/ex-USSR (Soviet]/CIS culture/nationality in aspect x2.
+x1 reflects Russian empire/USSR/ex-USSR (Soviet]/CIS culture/nationality in aspect x2.
 
-- so'a
+##### so'a
 
-  digit/number: almost all (digit/number).
+digit/number: almost all (digit/number).
 
-- so'e
+##### so'e
 
-  digit/number: most.
+digit/number: most.
 
-- so'i
+##### so'i
 
-  digit/number: many.
+digit/number: many.
 
-- so'imei
+##### so'imei
 
-  quantified selbri: convert many to cardinal; x1 is a set with many members x2 of total set x3.
+quantified selbri: convert many to cardinal; x1 is a set with many members x2 of total set x3.
 
-- so'o
+##### so'o
 
-  digit/number: several.
+digit/number: several.
 
-- so'u
+##### so'u
 
-  digit/number: few.
+digit/number: few.
 
-- soi
+##### soi
 
-  discursive: reciprocal sumti marker; indicates a reciprocal relationship between sumti.
+discursive: reciprocal sumti marker; indicates a reciprocal relationship between sumti.
 
-- solri
+##### solri
 
-  x1 is the sun of home planet x2 (default Earth) of race x3; (adjective:) x1 is solar.
+x1 is the sun of home planet x2 (default Earth) of race x3; (adjective:) x1 is solar.
 
-- solxrula
+##### solxrula
 
-  x1 is a sunflower of species/variety x2.
+x1 is a sunflower of species/variety x2.
 
-- sonci
+##### sonci
 
-  x1 is a soldier/warrior/fighter of army x2.
+x1 is a soldier/warrior/fighter of army x2.
 
-- spageti
+##### spageti
 
-  x1 - is spaghetti made out of/containing x2.
+x1 - is spaghetti made out of/containing x2.
 
-- spano
+##### spano
 
-  x1 reflects Spanish-speaking culture/nationality/language in aspect x2.
+x1 reflects Spanish-speaking culture/nationality/language in aspect x2.
 
-- sralo
+##### sralo
 
-  x1 reflects Australian culture/nationality/geography/dialect in aspect x2.
+x1 reflects Australian culture/nationality/geography/dialect in aspect x2.
 
-- srana
+##### srana
 
-  x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2.
+x1 pertains to/is germane/relevant to/concerns/is related/associated with/is about x2.
 
-- srito
+##### srito
 
-  x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2.
+x1 reflects Sanskrit language/Sanskritic/Vedic culture/nationality in aspect x2.
 
-- stali
+##### stali
 
-  x1 remains/stays at/abides/lasts with x2.
+x1 remains/stays at/abides/lasts with x2.
 
-- steci
+##### steci
 
-  x1 (ka) is specific/particular/specialized/\[special\]/a defining property of x2 among x3 (set).
+x1 (ka) is specific/particular/specialized/\[special\]/a defining property of x2 among x3 (set).
 
-- stero
+##### stero
 
-  x1 is x2 steradian(s) \[metric unit\] in solid angle (default is 1) by standard x3.
+x1 is x2 steradian(s) \[metric unit\] in solid angle (default is 1) by standard x3.
 
-- stidi
+##### stidi
 
-  x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 in/among x3.
+x1 (agent) suggests/proposes idea/action x2 to audience x3; x1 (event) inspires x2 in/among x3.
 
-- stura
+##### stura
 
-  x1 is a structure/arrangement/organization of x2 \[set/system/complexity\].
+x1 is a structure/arrangement/organization of x2 \[set/system/complexity\].
 
-- su
+##### su
 
-  erase to start of discourse or text; drop subject or start over.
+erase to start of discourse or text; drop subject or start over.
 
-- sudysrasu
+##### sudysrasu
 
-  x1 is hay of species x2
+x1 is hay of species x2
 
-- su'a
+##### su'a
 
-  evidential: I generalize - I particularize; discursive: abstractly - concretely.
+evidential: I generalize - I particularize; discursive: abstractly - concretely.
 
-- su'anai
+##### su'anai
 
-  evidential: I generalize - I particularize; discursive: abstractly - concretely.
+evidential: I generalize - I particularize; discursive: abstractly - concretely.
 
-- su'e
+##### su'e
 
-  digit/number: at most (all); no more than.
+digit/number: at most (all); no more than.
 
-- su'i
+##### su'i
 
-  n-ary mathematical operator: plus; addition operator; \[(((a + b) + c) + ...)\].
+n-ary mathematical operator: plus; addition operator; \[(((a + b) + c) + ...)\].
 
-- su'o
+##### su'o
 
-  digit/number: at least (some); no less than.
+digit/number: at least (some); no less than.
 
-- su'u
+##### su'u
 
-  abstractor: generalized abstractor (how); x1 is \[bridi\] as a non-specific abstraction of type x2.
+abstractor: generalized abstractor (how); x1 is \[bridi\] as a non-specific abstraction of type x2.
 
-- sumti
+##### sumti
 
-  x1 is a/the argument of predicate/function x2 filling place x3 (kind/number).
+x1 is a/the argument of predicate/function x2 filling place x3 (kind/number).
 
-- sutra
+##### sutra
 
-  x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about x2 (event/state).
+x1 is fast/swift/quick/hastes/rapid at doing/being/bringing about x2 (event/state).
 
-- sy
+##### sy
 
-  letteral for s.
+letteral for s.
 
-- ta
+##### ta
 
-  pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener.
+pro-sumti: that there; nearby demonstrative it; indicated thing/place near listener.
 
-- ta'e
+##### ta'e
 
-  tense interval modifier: habitually; subjective tense/modal; defaults as time tense.
+tense interval modifier: habitually; subjective tense/modal; defaults as time tense.
 
-- ta'onai
+##### ta'onai
 
-  discursive: by the way - returning to main point.
+discursive: by the way - returning to main point.
 
-- ta'u
+##### ta'u
 
-  discursive: expanding the tanru - making a tanru.
+discursive: expanding the tanru - making a tanru.
 
-- ta'unai
+##### ta'unai
 
-  discursive: making a tanru - expanding the tanru.
+discursive: making a tanru - expanding the tanru.
 
-- tai
+##### tai
 
-  tamsmi modal, 1st place (like)/(in manner 2) resembling ...; sharing ideal form ...
+tamsmi modal, 1st place (like)/(in manner 2) resembling ...; sharing ideal form ...
 
-- tamdu'i
+##### tamdu'i
 
-  d1 is/are geometrically similar/has the same shape as d2.
+d1 is/are geometrically similar/has the same shape as d2.
 
-- tamsmi
+##### tamsmi
 
-  x1 has form x2, similar in form to x3 in property/quality x4.
+x1 has form x2, similar in form to x3 in property/quality x4.
 
-- tanjo
+##### tanjo
 
-  x1 is the trigonometric tangent of angle/arctangent x2.
+x1 is the trigonometric tangent of angle/arctangent x2.
 
-- tanru
+##### tanru
 
-  x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in usage/instance x5.
+x1 is a binary metaphor formed with x2 modifying x3, giving meaning x4 in usage/instance x5.
 
-- tarmi
+##### tarmi
 
-  x1 \[ideal\] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract).
+x1 \[ideal\] is the conceptual shape/form of object/abstraction/manifestation x2 (object/abstract).
 
-- tau
+##### tau
 
-  2-word letteral/shift: change case for next letteral only.
+2-word letteral/shift: change case for next letteral only.
 
-- tavla
+##### tavla
 
-  x1 talks/speaks to x2 about subject x3 in language x4.
+x1 talks/speaks to x2 about subject x3 in language x4.
 
-- te
+##### te
 
-  3rd conversion; switch 1st/3rd places.
+3rd conversion; switch 1st/3rd places.
 
-- teci'e
+##### teci'e
 
-  ciste modal, 3rd place of system components ...
+ciste modal, 3rd place of system components ...
 
-- te'a
+##### te'a
 
-  binary mathematical operator: to the power; exponential; \[a to the b power\].
+binary mathematical operator: to the power; exponential; \[a to the b power\].
 
-- te'o
+##### te'o
 
-  digit/number: exponential e (approx 2.71828...).
+digit/number: exponential e (approx 2.71828...).
 
-- te'u
+##### te'u
 
-  elidable terminator: end conversion between non-mex and mex; usually elidable.
+elidable terminator: end conversion between non-mex and mex; usually elidable.
 
-- tei
+##### tei
 
-  composite letteral follows; used for multi-character letterals.
+composite letteral follows; used for multi-character letterals.
 
-- teka'a
+##### teka'a
 
-  klama modal, 3rd place with origin ...
+klama modal, 3rd place with origin ...
 
-- terbi'a
+##### terbi'a
 
-  x3=b1 is ill/sick/diseased with symptoms x2=b2 from disease x1=b3.
+x3=b1 is ill/sick/diseased with symptoms x2=b2 from disease x1=b3.
 
-- tergu'i
+##### tergu'i
 
-  x1 is a light source with lit x2 with light x3.
+x1 is a light source with lit x2 with light x3.
 
-- terkavbu
+##### terkavbu
 
-  x1 is a trap/restraint with x2 being captured/restrained by x3 (object/event).
+x1 is a trap/restraint with x2 being captured/restrained by x3 (object/event).
 
-- tertau
+##### tertau
 
-  x1 is the modified part/modificand of binary metaphor x2 with modifying part x3, giving meaning x4 in usage/instance x5
+x1 is the modified part/modificand of binary metaphor x2 with modifying part x3, giving meaning x4 in usage/instance x5
 
-- terto
+##### terto
 
-  x1 is a trillion \[1012\] of x2 in dimension/aspect x3 (default is units).
+x1 is a trillion \[1012\] of x2 in dimension/aspect x3 (default is units).
 
-- tezu'e
+##### tezu'e
 
-  zukte modal, 3rd place purposefully; (as an action) with goal ...
+zukte modal, 3rd place purposefully; (as an action) with goal ...
 
-- ti
+##### ti
 
-  pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker.
+pro-sumti: this here; immediate demonstrative it; indicated thing/place near speaker.
 
-- ti'e
+##### ti'e
 
-  evidential: I hear (hearsay).
+evidential: I hear (hearsay).
 
-- ti'o
+##### ti'o
 
-  mathematical expression (mex) operator precedence (discursive).
+mathematical expression (mex) operator precedence (discursive).
 
-- ti'otci
+##### ti'otci
 
-  t1=c2 is a shade/blind for blocking light coming from/through c3
+t1=c2 is a shade/blind for blocking light coming from/through c3
 
-- tinju'i
+##### tinju'i
 
-  t1=j1 listens to/pays attention to sound t2=j2 with ambient background t3.
+t1=j1 listens to/pays attention to sound t2=j2 with ambient background t3.
 
-- tirna
+##### tirna
 
-  x1 hears x2 against background/noise x3; x2 is audible; (adjective:) x1 is aural.
+x1 hears x2 against background/noise x3; x2 is audible; (adjective:) x1 is aural.
 
-- to
+##### to
 
-  left parenthesis; start of parenthetical note which must be grammatical Lojban text.
+left parenthesis; start of parenthetical note which must be grammatical Lojban text.
 
-- to'a
+##### to'a
 
-  lower-case letteral shift.
+lower-case letteral shift.
 
-- to'e
+##### to'e
 
-  polar opposite scalar negator.
+polar opposite scalar negator.
 
-- to'i
+##### to'i
 
-  open editorial unquote (within a quote); contains grammatical text; mark with editorial insert.
+open editorial unquote (within a quote); contains grammatical text; mark with editorial insert.
 
-- to'o
+##### to'o
 
-  location tense relation/direction; departing from/directly away from ...
+location tense relation/direction; departing from/directly away from ...
 
-- to'u
+##### to'u
 
-  discursive: in brief - in detail.
+discursive: in brief - in detail.
 
-- toi
+##### toi
 
-  elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text.
+elidable terminator: right parenthesis/end unquote; seldom elidable except at end of text.
 
-- tolmle
+##### tolmle
 
-  x1 is ugly to x2 in aspect x3 (ka) by aesthetic standard x4.
+x1 is ugly to x2 in aspect x3 (ka) by aesthetic standard x4.
 
-- tolvri
+##### tolvri
 
-  x1 is a coward in activity x2 (event) by standard x3.
+x1 is a coward in activity x2 (event) by standard x3.
 
-- traji
+##### traji
 
-  x1 is superlative in property x2 (ka), the x3 extreme (ka; default ka zmadu) among set/range x4.
+x1 is superlative in property x2 (ka), the x3 extreme (ka; default ka zmadu) among set/range x4.
 
-- tricu
+##### tricu
 
-  x1 is a tree of species/cultivar x2.
+x1 is a tree of species/cultivar x2.
 
-- troci
+##### troci
 
-  x1 tries/attempts/makes an effort to do/attain x2 (event/state/property) by actions/method x3.
+x1 tries/attempts/makes an effort to do/attain x2 (event/state/property) by actions/method x3.
 
-- tsali
+##### tsali
 
-  x1 is strong/powerful/\[tough\] in property/quality x2 (ka) by standard x3.
+x1 is strong/powerful/\[tough\] in property/quality x2 (ka) by standard x3.
 
-- tu
+##### tu
 
-  pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker\&listener.
+pro-sumti: that yonder; distant demonstrative it; indicated thing far from speaker\&listener.
 
-- tu'a
+##### tu'a
 
-  extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u \[sumti\] co'e.
+extracts a concrete sumti from an unspecified abstraction; equivalent to le nu/su'u \[sumti\] co'e.
 
-- tu'e
+##### tu'e
 
-  start of multiple utterance scope; used for logical/non-logical/ordinal joining of sentences.
+start of multiple utterance scope; used for logical/non-logical/ordinal joining of sentences.
 
-- tu'o
+##### tu'o
 
-  null operand (used in unary mekso operations).
+null operand (used in unary mekso operations).
 
-- tu'u
+##### tu'u
 
-  elidable terminator: end multiple utterance scope; seldom elidable.
+elidable terminator: end multiple utterance scope; seldom elidable.
 
-- ty
+##### ty
 
-  letteral for t.
+letteral for t.
 
-- u
+##### u
 
-  logical connective: sumti afterthought whether-or-not.
+logical connective: sumti afterthought whether-or-not.
 
-- ua
+##### ua
 
-  attitudinal: discovery - confusion/searching.
+attitudinal: discovery - confusion/searching.
 
-- uanai
+##### uanai
 
-  attitudinal: discovery - confusion/searching.
+attitudinal: discovery - confusion/searching.
 
-- ubu
+##### ubu
 
-  letteral for u.
+letteral for u.
 
-- ue
+##### ue
 
-  attitudinal: surprise - not really surprised - expectation.
+attitudinal: surprise - not really surprised - expectation.
 
-- u'e
+##### u'e
 
-  attitudinal: wonder - commonplace.
+attitudinal: wonder - commonplace.
 
-- u'u
+##### u'u
 
-  attitudinal: repentance - lack of regret - innocence.
+attitudinal: repentance - lack of regret - innocence.
 
-- u'unai
+##### u'unai
 
-  attitudinal: repentance - lack of regret - innocence.
+attitudinal: repentance - lack of regret - innocence.
 
-- ui
+##### ui
 
-  attitudinal: happiness - unhappiness.
+attitudinal: happiness - unhappiness.
 
-- uinai
+##### uinai
 
-  attitudinal: happiness - unhappiness.
+attitudinal: happiness - unhappiness.
 
-- uo
+##### uo
 
-  attitudinal: completion - incompleteness.
+attitudinal: completion - incompleteness.
 
-- uu
+##### uu
 
-  attitudinal: pity - cruelty.
+attitudinal: pity - cruelty.
 
-- va
+##### va
 
-  location tense distance: near to ... ; there at ...; a medium/small distance from ...
+location tense distance: near to ... ; there at ...; a medium/small distance from ...
 
-- va'a
+##### va'a
 
-  unary mathematical operator: additive inverse; \[- a\].
+unary mathematical operator: additive inverse; \[- a\].
 
-- va'e
+##### va'e
 
-  convert number to scalar selbri; x1 is at (n)th position on scale x2.
+convert number to scalar selbri; x1 is at (n)th position on scale x2.
 
-- va'i
+##### va'i
 
-  discursive: in other words - in the same words.
+discursive: in other words - in the same words.
 
-- va'inai
+##### va'inai
 
-  discursive: in other words - in the same words.
+discursive: in other words - in the same words.
 
-- vau
+##### vau
 
-  elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti.
+elidable: end of sumti in simple bridi; in compound bridi, separates common trailing sumti.
 
-- ve
+##### ve
 
-  4th conversion; switch 1st/4th places.
+4th conversion; switch 1st/4th places.
 
-- vecnu
+##### vecnu
 
-  x1 \[seller\] sells/vends x2 \[goods/service/commodity\] to buyer x3 for amount/cost/expense x4.
+x1 \[seller\] sells/vends x2 \[goods/service/commodity\] to buyer x3 for amount/cost/expense x4.
 
-- ve'e
+##### ve'e
 
-  location tense interval: the whole of space.
+location tense interval: the whole of space.
 
-- ve'o
+##### ve'o
 
-  right mathematical bracket.
+right mathematical bracket.
 
-- vei
+##### vei
 
-  left mathematical bracket.
+left mathematical bracket.
 
-- veka'a
+##### veka'a
 
-  klama modal, 4th place via route ...
+klama modal, 4th place via route ...
 
-- veljvo
+##### veljvo
 
-  x1 is a metaphor \[of affix compound\] with meaning \[of affix compound\] x2 with argument \[of affix compound\] x3 with affix compound x4; x1 is the tanru/metaphor construct of complex word/affix compound/lujvo x4
+x1 is a metaphor \[of affix compound\] with meaning \[of affix compound\] x2 with argument \[of affix compound\] x3 with affix compound x4; x1 is the tanru/metaphor construct of complex word/affix compound/lujvo x4
 
-- vemau
+##### vemau
 
-  zmadu modal, 4th place (relative!) more than/exceeding by amount ...
+zmadu modal, 4th place (relative!) more than/exceeding by amount ...
 
-- veme'a
+##### veme'a
 
-  mleca modal, 4th place (relative!) less than by amount ...
+mleca modal, 4th place (relative!) less than by amount ...
 
-- vi
+##### vi
 
-  location tense distance: here at ... ; at or a very short/tiny distance from ...
+location tense distance: here at ... ; at or a very short/tiny distance from ...
 
-- vi'a
+##### vi'a
 
-  dimensionality of space interval tense: 2-space interval; throughout an area.
+dimensionality of space interval tense: 2-space interval; throughout an area.
 
-- vi'e
+##### vi'e
 
-  dimensionality of space interval tense: 4-space interval; throughout a spacetime.
+dimensionality of space interval tense: 4-space interval; throughout a spacetime.
 
-- vi'u
+##### vi'u
 
-  dimensionality of space interval tense: 3-space interval; throughout a space.
+dimensionality of space interval tense: 3-space interval; throughout a space.
 
-- viska
+##### viska
 
-  x1 sees/views/perceives visually x2 under conditions x3.
+x1 sees/views/perceives visually x2 under conditions x3.
 
-- vo
+##### vo
 
-  digit/number: 4 (digit) \[four\].
+digit/number: 4 (digit) \[four\].
 
-- vo'a
+##### vo'a
 
-  pro-sumti: repeats 1st place of main bridi of this sentence.
+pro-sumti: repeats 1st place of main bridi of this sentence.
 
-- vo'e
+##### vo'e
 
-  pro-sumti: repeats 2nd place of main bridi of this sentence.
+pro-sumti: repeats 2nd place of main bridi of this sentence.
 
-- vo'i
+##### vo'i
 
-  pro-sumti: repeats 3rd place of main bridi of this sentence.
+pro-sumti: repeats 3rd place of main bridi of this sentence.
 
-- vo'o
+##### vo'o
 
-  pro-sumti: repeats 4th place of main bridi of this sentence.
+pro-sumti: repeats 4th place of main bridi of this sentence.
 
-- vo'u
+##### vo'u
 
-  pro-sumti: repeats 5th place of main bridi of this sentence.
+pro-sumti: repeats 5th place of main bridi of this sentence.
 
-- voi
+##### voi
 
-  non-veridical restrictive clause used to form complicated le-like descriptions using "ke'a".
+non-veridical restrictive clause used to form complicated le-like descriptions using "ke'a".
 
-- vorme
+##### vorme
 
-  x1 is a doorway/gateway/access way between x2 and x3 of structure x4.
+x1 is a doorway/gateway/access way between x2 and x3 of structure x4.
 
-- vu
+##### vu
 
-  location tense distance: far from ... ; yonder at ... ; a long distance from ...
+location tense distance: far from ... ; yonder at ... ; a long distance from ...
 
-- vu'e
+##### vu'e
 
-  attitudinal modifier: virtue - sin.
+attitudinal modifier: virtue - sin.
 
-- vu'i
+##### vu'i
 
-  sumti qualifier: the sequence made from set or composed of elements/components; order is vague.
+sumti qualifier: the sequence made from set or composed of elements/components; order is vague.
 
-- vu'o
+##### vu'o
 
-  joins relative clause/phrase to complete complex or logically connected sumti in afterthought.
+joins relative clause/phrase to complete complex or logically connected sumti in afterthought.
 
-- vu'u
+##### vu'u
 
-  n-ary mathematical operator: minus; subtraction operator; \[(((a - b) - c) - ...)\].
+n-ary mathematical operator: minus; subtraction operator; \[(((a - b) - c) - ...)\].
 
-- vukro
+##### vukro
 
-  x1 reflects Ukrainian language/culture/nationality in aspect x2.
+x1 reflects Ukrainian language/culture/nationality in aspect x2.
 
-- vy
+##### vy
 
-  letteral for v.
+letteral for v.
 
-- xagmau
+##### xagmau
 
-  xa1=z1 is better than z2 for xa2 by standard xa3, by amount z4.
+xa1=z1 is better than z2 for xa2 by standard xa3, by amount z4.
 
-- xagrai
+##### xagrai
 
-  t1=x1 is the best among set/range t4 for x2 by standard x3.
+t1=x1 is the best among set/range t4 for x2 by standard x3.
 
-- xamgu
+##### xamgu
 
-  x1 (object/event) is good/beneficial/nice/\[acceptable\] for x2 by standard x3.
+x1 (object/event) is good/beneficial/nice/\[acceptable\] for x2 by standard x3.
 
-- xampo
+##### xampo
 
-  x1 is x2 ampere(s) \[metric unit\] in current (default is 1) by standard x3.
+x1 is x2 ampere(s) \[metric unit\] in current (default is 1) by standard x3.
 
-- xance
+##### xance
 
-  x1 is a/the hand \[body-part\] of x2; \[metaphor: manipulating tool, waldo\].
+x1 is a/the hand \[body-part\] of x2; \[metaphor: manipulating tool, waldo\].
 
-- xarci
+##### xarci
 
-  x1 is a weapon/arms for use against x2 by x3.
+x1 is a weapon/arms for use against x2 by x3.
 
-- xatsi
+##### xatsi
 
-  x1 is 10-18 of x2 in dimension/aspect x3 (default is units).
+x1 is 10-18 of x2 in dimension/aspect x3 (default is units).
 
-- xazdo
+##### xazdo
 
-  x1 reflects Asiatic culture/nationality/geography in aspect x2.
+x1 reflects Asiatic culture/nationality/geography in aspect x2.
 
-- xe
+##### xe
 
-  5th conversion; switch 1st/5th places.
+5th conversion; switch 1st/5th places.
 
-- xebro
+##### xebro
 
-  x1 reflects Hebrew/Jewish/Israeli culture/nationality/language in aspect x2.
+x1 reflects Hebrew/Jewish/Israeli culture/nationality/language in aspect x2.
 
-- xecto
+##### xecto
 
-  x1 is a hundred \[100; 102\] of x2 in dimension/aspect x3 (default is units).
+x1 is a hundred \[100; 102\] of x2 in dimension/aspect x3 (default is units).
 
-- xeka'a
+##### xeka'a
 
-  klama modal, 5th place by transport mode ...
+klama modal, 5th place by transport mode ...
 
-- xekri
+##### xekri
 
-  x1 is black/extremely dark-colored \[color adjective\].
+x1 is black/extremely dark-colored \[color adjective\].
 
-- xelso
+##### xelso
 
-  x1 reflects Greek/Hellenic culture/nationality/language in aspect x2.
+x1 reflects Greek/Hellenic culture/nationality/language in aspect x2.
 
-- xexso
+##### xexso
 
-  x1 is 1018 of x2 in dimension/aspect x3 (default is units).
+x1 is 1018 of x2 in dimension/aspect x3 (default is units).
 
-- xi
+##### xi
 
-  subscript; attaches a number of letteral string following as a subscript onto grammar structures.
+subscript; attaches a number of letteral string following as a subscript onto grammar structures.
 
-- xindo
+##### xindo
 
-  x1 reflects Hindi language/culture/religion in aspect x2.
+x1 reflects Hindi language/culture/religion in aspect x2.
 
-- xispo
+##### xispo
 
-  x1 reflects Hispano-American culture/nationalities in aspect x2.
+x1 reflects Hispano-American culture/nationalities in aspect x2.
 
-- xo
+##### xo
 
-  digit/number: number/digit/lerfu question.
+digit/number: number/digit/lerfu question.
 
-- xrabo
+##### xrabo
 
-  x1 reflects Arabic-speaking culture/nationality in aspect x2.
+x1 reflects Arabic-speaking culture/nationality in aspect x2.
 
-- xriso
+##### xriso
 
-  x1 pertains to the Christian religion/culture/nationality in aspect x2.
+x1 pertains to the Christian religion/culture/nationality in aspect x2.
 
-- xu
+##### xu
 
-  discursive: true-false question.
+discursive: true-false question.
 
-- xunre
+##### xunre
 
-  x1 is red/crimson/ruddy \[color adjective\].
+x1 is red/crimson/ruddy \[color adjective\].
 
-- xurdo
+##### xurdo
 
-  x1 reflects Urdu language/culture/nationality in aspect x2.
+x1 reflects Urdu language/culture/nationality in aspect x2.
 
-- xy
+##### xy
 
-  letteral for x.
+letteral for x.
 
-- y
+##### y
 
-  hesitation noise; maintains the floor while speaker decides what to say next.
+hesitation noise; maintains the floor while speaker decides what to say next.
 
-- ybu
+##### ybu
 
-  letteral for y.
+letteral for y.
 
-- y'y
+##### y'y
 
-  letteral for '.
+letteral for '.
 
-- zabna
+##### zabna
 
-  x1 is favorable/great/superb/fabulous/dandy/outstanding/swell/admirable/nice/commendable/delightful
-  /desirable/enjoyable/laudable/likable/lovable/wonderful/praiseworthy/high-quality/cool  
-  in property x2 by standard x3; x1 rocks in aspect x2 according to x3
+x1 is favorable/great/superb/fabulous/dandy/outstanding/swell/admirable/nice/commendable/delightful  
+/desirable/enjoyable/laudable/likable/lovable/wonderful/praiseworthy/high-quality/cool  
+in property x2 by standard x3; x1 rocks in aspect x2 according to x3
 
-- za'a
+##### za'a
 
-  evidential: I observe.
+evidential: I observe.
 
-- za'e
+##### za'e
 
-  forethought nonce-word indicator; indicates next word is nonce-creation and may be nonstandard.
+forethought nonce-word indicator; indicates next word is nonce-creation and may be nonstandard.
 
-- za'i
+##### za'i
 
-  abstractor: state (event) abstractor; x1 is continuous state of \[bridi\] being true.
+abstractor: state (event) abstractor; x1 is continuous state of \[bridi\] being true.
 
-- za'o
+##### za'o
 
-  interval event contour: continuing too long after natural end of ...; superfective | ---->.
+interval event contour: continuing too long after natural end of ...; superfective | ---->.
 
-- za'u
+##### za'u
 
-  digit/number: greater than.
+digit/number: greater than.
 
-- zai
+##### zai
 
-  2-word letteral/shift: alternate alphabet selector follows.
+2-word letteral/shift: alternate alphabet selector follows.
 
-- zarci
+##### zarci
 
-  x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated by/with participants x3.
+x1 is a market/store/exchange/shop(s) selling/trading (for) x2, operated by/with participants x3.
 
-- zbasu
+##### zbasu
 
-  x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components x3.
+x1 makes/assembles/builds/manufactures/creates x2 out of materials/parts/components x3.
 
-- zdani
+##### zdani
 
-  x1 is a nest/house/lair/den/\[home\] of/for x2.
+x1 is a nest/house/lair/den/\[home\] of/for x2.
 
-- ze'e
+##### ze'e
 
-  time tense interval: the whole of time.
+time tense interval: the whole of time.
 
-- ze'i
+##### ze'i
 
-  time tense interval: an instantaneous/tiny/short amount of time.
+time tense interval: an instantaneous/tiny/short amount of time.
 
-- ze'o
+##### ze'o
 
-  location tense relation/direction; beyond/outward/receding from ...
+location tense relation/direction; beyond/outward/receding from ...
 
-- zei
+##### zei
 
-  joins preceding and following words into a lujvo.
+joins preceding and following words into a lujvo.
 
-- zenba
+##### zenba
 
-  x1 (experiencer) increases/is incremented/augmented in property/quantity x2 by amount x3.
+x1 (experiencer) increases/is incremented/augmented in property/quantity x2 by amount x3.
 
-- zepti
+##### zepti
 
-  x1 is 10-21 of x2 in dimension/aspect x3 (default is units).
+x1 is 10-21 of x2 in dimension/aspect x3 (default is units).
 
-- zerle'a
+##### zerle'a
 
-  l1 steals l2 from l3, which is a crime according to z2.
+l1 steals l2 from l3, which is a crime according to z2.
 
-- zernerkla
+##### zernerkla
 
-  x1 trespasses (illegally enters) into x2, which is a crime according to x3
+x1 trespasses (illegally enters) into x2, which is a crime according to x3
 
-- zetro
+##### zetro
 
-  x1 is 1021 of x2 in dimension/aspect x3 (default is units).
+x1 is 1021 of x2 in dimension/aspect x3 (default is units).
 
-- zi
+##### zi
 
-  time tense distance: instantaneous-to-short distance in time.
+time tense distance: instantaneous-to-short distance in time.
 
-- zi'e
+##### zi'e
 
-  joins relative clauses which apply to the same sumti.
+joins relative clauses which apply to the same sumti.
 
-- zi'o
+##### zi'o
 
-  pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics.
+pro-sumti: fills a sumti place, deleting it from selbri place structure;changes selbri semantics.
 
-- zmadu
+##### zmadu
 
-  x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4.
+x1 exceeds/is more than x2 in property/quantity x3 (ka/ni) by amount/excess x4.
 
-- zo
+##### zo
 
-  quote next word only; quotes a single Lojban word (not a cmavo compound or tanru).
+quote next word only; quotes a single Lojban word (not a cmavo compound or tanru).
 
-- zo'e
+##### zo'e
 
-  pro-sumti: an elliptical/unspecified value; has some value which makes bridi true.
+pro-sumti: an elliptical/unspecified value; has some value which makes bridi true.
 
-- zo'i
+##### zo'i
 
-  location tense relation/direction; nearer than .../inward/approaching from ...
+location tense relation/direction; nearer than .../inward/approaching from ...
 
-- zo'o
+##### zo'o
 
-  attitudinal modifier: humorously - dully - seriously.
+attitudinal modifier: humorously - dully - seriously.
 
-- zo'u
+##### zo'u
 
-  marks end of logical prenex quantifiers/topic identification and start of sentence bridi.
+marks end of logical prenex quantifiers/topic identification and start of sentence bridi.
 
-- zoi
+##### zoi
 
-  delimited non-Lojban quotation; the result treated as a block of text.
+delimited non-Lojban quotation; the result treated as a block of text.
 
-- zu'a
+##### zu'a
 
-  location tense relation/direction; leftwards/to the left of ...
+location tense relation/direction; leftwards/to the left of ...
 
-- zu'i
+##### zu'i
 
-  pro-sumti: the typical sumti value for this place in this relationship; affects truth value.
+pro-sumti: the typical sumti value for this place in this relationship; affects truth value.
 
-- zu'o
+##### zu'o
 
-  abstractor: activity (event) abstractor; x1 is abstract activity of \[bridi\] composed of x2.
+abstractor: activity (event) abstractor; x1 is abstract activity of \[bridi\] composed of x2.
 
-- zukte
+##### zukte
 
-  x1 is a volitional entity employing means/taking action x2 for purpose/goal x3/to end x3.
+x1 is a volitional entity employing means/taking action x2 for purpose/goal x3/to end x3.
 
-- zuljma
+##### zuljma
 
-  j1=z1 is/are the left foot/feet of j2=z2.
+j1=z1 is/are the left foot/feet of j2=z2.
 
-- zunle
+##### zunle
 
-  x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3.
+x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3.
 
-- zy
+##### zy
 
-  letteral for z.
+letteral for z.
 
