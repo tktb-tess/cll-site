@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
-prev: /chapter13
+prev: /chapter13/
 prevTitle: 'Prev: Chapter 13'
-next: /chapter15
+next: /chapter15/
 nextTitle: 'Next: Chapter 15'
 ---
 
@@ -13,7 +13,7 @@ nextTitle: 'Next: Chapter 15'
 
 Lojban is a logical language: the name of the language itself means “logical language”. The fundamentals of ordinary logic (there are variant logics, which aren't addressed in this book) include the notions of a “sentence” (sometimes called a “statement” or “proposition”), which asserts a truth or falsehood, and a small set of “truth functions”, which combine two sentences to create a new sentence. The truth functions have the special characteristic that the truth value (that is, the truth or falsehood) of the results depends only on the truth value of the component sentences. For example,
 
-### Example 14.1.
+##### Example 14.1.
 
 John is a man or James is a woman.
 
@@ -119,7 +119,7 @@ In order to remain unambiguous, Lojban cannot have only a single logical connect
 
 Consider the English sentence:
 
-### Example 14.2.
+##### Example 14.2.
 
 Mary went to the window and ...
 
@@ -129,21 +129,21 @@ where the last word could be followed by “the door”, a noun phrase, or by �
 
 Instead, there are a total of five different selma'o used for logical connection: A, GA, GIhA, GUhA, and JA. Each of these includes four cmavo, one based on each of the four vowels, which is always the last vowel in the cmavo. In selma'o A, the vowel is the entire cmavo.
 
-Thus, in selma'o A, the cmavo for the function A is _[a](glossary#valsi-a)_. (Do not confuse A, which is a selma'o, with A, which is a truth function, or _[a](glossary#valsi-a)_, which is a cmavo.) Likewise, the cmavo for E in selma'o GIhA is _[gi'e](glossary#valsi-gihe)_, and the cmavo for U in selma'o GA is _[gu](glossary#valsi-gu)_. This systematic regularity makes the cmavo easier to learn.
+Thus, in selma'o A, the cmavo for the function A is *[a](/glossary/#valsi-a)*. (Do not confuse A, which is a selma'o, with A, which is a truth function, or *[a](/glossary/#valsi-a)*, which is a cmavo.) Likewise, the cmavo for E in selma'o GIhA is *[gi'e](/glossary/#valsi-gihe)*, and the cmavo for U in selma'o GA is *[gu](/glossary/#valsi-gu)*. This systematic regularity makes the cmavo easier to learn.
 
-Obviously, four cmavo are not enough to express the 14 truth functions explained in [Section 14.1](chapter14#section-connectives-introduction "14.1. Logical connection and truth tables"). Therefore, compound cmavo must be used. These compound cmavo follow a systematic pattern: each has one cmavo from the five logical connection selma'o at its heart, and may also contain one or more of the auxiliary cmavo _[se](glossary#valsi-se)_, _[na](glossary#valsi-na)_, or _[nai](glossary#valsi-nai)_. Which auxiliaries are used with which logical connection cmavo, and with what grammar and meaning, will be explained in the following sections. The uses of each of these auxiliary cmavo relates to its other uses in other parts of Lojban grammar.
+Obviously, four cmavo are not enough to express the 14 truth functions explained in [Section 14.1](/chapter14/#section-connectives-introduction "14.1. Logical connection and truth tables"). Therefore, compound cmavo must be used. These compound cmavo follow a systematic pattern: each has one cmavo from the five logical connection selma'o at its heart, and may also contain one or more of the auxiliary cmavo *[se](/glossary/#valsi-se)*, *[na](/glossary/#valsi-na)*, or *[nai](/glossary/#valsi-nai)*. Which auxiliaries are used with which logical connection cmavo, and with what grammar and meaning, will be explained in the following sections. The uses of each of these auxiliary cmavo relates to its other uses in other parts of Lojban grammar.
 
 For convenience, each of the types of compound cmavo used for logical connection is designated by a Lojban name. The name is derived by changing the final “-A” of the selma'o name to “-ek”; the reasons for using “-ek” are buried deep in the history of the Loglan Project. Thus, compound cmavo based on selma'o A are known as eks, and those based on selma'o JA are known as jeks. (When writing in English, it is conventional to use “eks” as the plural of “ek”.) When the term “logical connective” is used in this chapter, it refers to one or more of these kinds of compound cmavo.
 
-Why does the title of this section refer to “six types” when there are only five selma'o? A jek may be preceded by _[i](glossary#valsi-i)_, the usual Lojban cmavo for connecting two sentences. The compound produced by _[i](glossary#valsi-i)_ followed by a jek is known as an ijek. It is useful to think of ijeks as a sixth kind of logical connective, parallel to eks, jeks, geks, giheks, and guheks.
+Why does the title of this section refer to “six types” when there are only five selma'o? A jek may be preceded by *[i](/glossary/#valsi-i)*, the usual Lojban cmavo for connecting two sentences. The compound produced by *[i](/glossary/#valsi-i)* followed by a jek is known as an ijek. It is useful to think of ijeks as a sixth kind of logical connective, parallel to eks, jeks, geks, giheks, and guheks.
 
 There also exist giks, joiks, ijoiks, and joigiks, which are not logical connectives, but are other kinds of compound cmavo which will be introduced later.
 
 ## Logical connection of bridi
 
-Now we are ready to express [Example 14.1](chapter14#example-random-id-mJ6y "Example 14.1. ") in Lojban! The kind of logical connective which is placed between two Lojban bridi to connect them logically is an ijek:
+Now we are ready to express [Example 14.1](/chapter14/#example-random-id-mJ6y "Example 14.1. ") in Lojban! The kind of logical connective which is placed between two Lojban bridi to connect them logically is an ijek:
 
-### Example 14.3.
+##### Example 14.3.
 
 |            |       |          |      |            |          |             |
 | ---------- | ----- | -------- | ---- | ---------- | -------- | ----------- |
@@ -152,9 +152,9 @@ Now we are ready to express [Example 14.1](chapter14#example-random-id-mJ6y "Exa
 
 
 
-Here we have two separate Lojban bridi, _la djan. nanmu_ and _la djeimyz. ninmu_. These bridi are connected by _[ja](glossary#valsi-ja)_, the ijek for the truth function A. The _[i](glossary#valsi-i)_ portion of the ijek tells us that we are dealing with separate sentences here. Similarly, we can now say:
+Here we have two separate Lojban bridi, *la djan. nanmu* and *la djeimyz. ninmu*. These bridi are connected by *[ja](/glossary/#valsi-ja)*, the ijek for the truth function A. The *[i](/glossary/#valsi-i)* portion of the ijek tells us that we are dealing with separate sentences here. Similarly, we can now say:
 
-### Example 14.4.
+##### Example 14.4.
 
 |            |       |          |      |            |          |             |
 | ---------- | ----- | -------- | ---- | ---------- | -------- | ----------- |
@@ -163,7 +163,7 @@ Here we have two separate Lojban bridi, _la djan. nanmu_ and _la djeimyz. ninmu_
 
 
 
-### Example 14.5.
+##### Example 14.5.
 
 |            |       |          |                |            |          |             |
 | ---------- | ----- | -------- | -------------- | ---------- | -------- | ----------- |
@@ -172,7 +172,7 @@ Here we have two separate Lojban bridi, _la djan. nanmu_ and _la djeimyz. ninmu_
 
 
 
-### Example 14.6.
+##### Example 14.6.
 
 |            |       |          |                |            |          |             |
 | ---------- | ----- | -------- | -------------- | ---------- | -------- | ----------- |
@@ -181,13 +181,13 @@ Here we have two separate Lojban bridi, _la djan. nanmu_ and _la djeimyz. ninmu_
 
 
 
-To obtain the other truth tables listed in [Section 14.2](chapter14#section-four-basics "14.2. The Four basic vowels"), we need to know how to negate the two bridi which represent the component sentences. We could negate them directly by inserting _[na](glossary#valsi-na)_ before the selbri, but Lojban also allows us to place the negation within the connective itself.
+To obtain the other truth tables listed in [Section 14.2](/chapter14/#section-four-basics "14.2. The Four basic vowels"), we need to know how to negate the two bridi which represent the component sentences. We could negate them directly by inserting *[na](/glossary/#valsi-na)* before the selbri, but Lojban also allows us to place the negation within the connective itself.
 
-To negate the first or left-hand bridi, prefix _[na](glossary#valsi-na)_ to the JA cmavo but after the _[i](glossary#valsi-i)_. To negate the second or right-hand bridi, suffix _-nai_ to the JA cmavo. In either case, the negating word is placed on the side of the connective that is closest to the bridi being negated.
+To negate the first or left-hand bridi, prefix *[na](/glossary/#valsi-na)* to the JA cmavo but after the *[i](/glossary/#valsi-i)*. To negate the second or right-hand bridi, suffix *-nai* to the JA cmavo. In either case, the negating word is placed on the side of the connective that is closest to the bridi being negated.
 
 So to express the truth table FTTF, which requires O with either of the two bridi negated (not both), we can say either:
 
-### Example 14.7.
+##### Example 14.7.
 
 |            |       |              |                |            |          |             |
 | ---------- | ----- | ------------ | -------------- | ---------- | -------- | ----------- |
@@ -196,7 +196,7 @@ So to express the truth table FTTF, which requires O with either of the two brid
 
 
 
-### Example 14.8.
+##### Example 14.8.
 
 |            |       |          |                |            |          |                 |
 | ---------- | ----- | -------- | -------------- | ---------- | -------- | --------------- |
@@ -205,9 +205,9 @@ So to express the truth table FTTF, which requires O with either of the two brid
 
 
 
-The meaning of both [Example 14.7](chapter14#example-random-id-qgKB "Example 14.7. ") and [Example 14.8](chapter14#example-random-id-qgLH "Example 14.8. ") is the same as that of:
+The meaning of both [Example 14.7](/chapter14/#example-random-id-qgKB "Example 14.7. ") and [Example 14.8](/chapter14/#example-random-id-qgLH "Example 14.8. ") is the same as that of:
 
-### Example 14.9.
+##### Example 14.9.
 
 John is a man or James is a woman, but not both.
 
@@ -215,7 +215,7 @@ John is a man or James is a woman, but not both.
 
 Here is another example:
 
-### Example 14.10.
+##### Example 14.10.
 
 |            |       |          |         |            |          |                 |
 | ---------- | ----- | -------- | ------- | ---------- | -------- | --------------- |
@@ -228,11 +228,11 @@ Here is another example:
 
 
 
-How's that again? Are those two English sentences in [Example 14.10](chapter14#example-random-id-FXSC "Example 14.10. ") really equivalent? In English, no. The Lojban TTFT truth function can be glossed “A if B”, but the “if” does not quite have its English sense. [Example 14.10](chapter14#example-random-id-FXSC "Example 14.10. ") is true so long as John is a man, even if James is not a woman; likewise, it is true just because James is not a woman, regardless of John's gender. This kind of “if-then” is technically known as a “material conditional”.
+How's that again? Are those two English sentences in [Example 14.10](/chapter14/#example-random-id-FXSC "Example 14.10. ") really equivalent? In English, no. The Lojban TTFT truth function can be glossed “A if B”, but the “if” does not quite have its English sense. [Example 14.10](/chapter14/#example-random-id-FXSC "Example 14.10. ") is true so long as John is a man, even if James is not a woman; likewise, it is true just because James is not a woman, regardless of John's gender. This kind of “if-then” is technically known as a “material conditional”.
 
-Since James is not a woman (by our assertions in [Section 14.1](chapter14#section-connectives-introduction "14.1. Logical connection and truth tables")), the English sentence “John is a man if James is a woman” seems to be neither true nor false, since it assumes something which is not true. It turns out to be most convenient to treat this “if” as TTFT, which on investigation means that [Example 14.10](chapter14#example-random-id-FXSC "Example 14.10. ") is true. [Example 14.11](chapter14#example-random-id-EdY5 "Example 14.11. "), however, is equally true:
+Since James is not a woman (by our assertions in [Section 14.1](/chapter14/#section-connectives-introduction "14.1. Logical connection and truth tables")), the English sentence “John is a man if James is a woman” seems to be neither true nor false, since it assumes something which is not true. It turns out to be most convenient to treat this “if” as TTFT, which on investigation means that [Example 14.10](/chapter14/#example-random-id-FXSC "Example 14.10. ") is true. [Example 14.11](/chapter14/#example-random-id-EdY5 "Example 14.11. "), however, is equally true:
 
-### Example 14.11.
+##### Example 14.11.
 
 |            |       |            |         |            |          |             |
 | ---------- | ----- | ---------- | ------- | ---------- | -------- | ----------- |
@@ -243,9 +243,9 @@ Since James is not a woman (by our assertions in [Section 14.1](chapter14#sectio
 
 This can be thought of as a principle of consistency, and may be paraphrased as follows: “If a false statement is true, any statement follows from it.” All uses of English “if” must be considered very carefully when translating into Lojban to see if they really fit this Lojban mold.
 
-[Example 14.12](chapter14#example-random-id-9CCS "Example 14.12. "), which uses the TFTT truth function, is subject to the same rules: the stated gloss of TFTT as “only if” works naturally only when the right-hand bridi is false; if it is true, the left-hand bridi may be either true or false. The last gloss of [Example 14.12](chapter14#example-random-id-9CCS "Example 14.12. ") illustrates the use of “if ... then” as a more natural substitute for “only if”.
+[Example 14.12](/chapter14/#example-random-id-9CCS "Example 14.12. "), which uses the TFTT truth function, is subject to the same rules: the stated gloss of TFTT as “only if” works naturally only when the right-hand bridi is false; if it is true, the left-hand bridi may be either true or false. The last gloss of [Example 14.12](/chapter14/#example-random-id-9CCS "Example 14.12. ") illustrates the use of “if ... then” as a more natural substitute for “only if”.
 
-### Example 14.12.
+##### Example 14.12.
 
 |            |       |              |        |            |          |             |
 | ---------- | ----- | ------------ | ------ | ---------- | -------- | ----------- |
@@ -259,9 +259,9 @@ This can be thought of as a principle of consistency, and may be paraphrased as 
 
 
 
-The following example illustrates the use of _[se](glossary#valsi-se)_ to, in effect, exchange the two sentences. The normal use of _[se](glossary#valsi-se)_ is to (in effect) transpose places of a bridi, as explained in [Section 5.11](chapter05#section-place-conversion "5.11. Conversion of simple selbri").
+The following example illustrates the use of *[se](/glossary/#valsi-se)* to, in effect, exchange the two sentences. The normal use of *[se](/glossary/#valsi-se)* is to (in effect) transpose places of a bridi, as explained in [Section 5.11](/chapter05/#section-place-conversion "5.11. Conversion of simple selbri").
 
-### Example 14.13.
+##### Example 14.13.
 
 |     |       |       |        |     |          |       |
 | --- | ----- | ----- | ------ | --- | -------- | ----- |
@@ -273,19 +273,19 @@ The following example illustrates the use of _[se](glossary#valsi-se)_ to, in ef
 
 
 
-If both _[na](glossary#valsi-na)_ and _[se](glossary#valsi-se)_ are present, which is legal but never necessary, _[na](glossary#valsi-na)_ would come before _[se](glossary#valsi-se)_.
+If both *[na](/glossary/#valsi-na)* and *[se](/glossary/#valsi-se)* are present, which is legal but never necessary, *[na](/glossary/#valsi-na)* would come before *[se](/glossary/#valsi-se)*.
 
 The full syntax of ijeks, therefore, is:
 
-> .i \[na] \[se] JA \[nai]
+> .i \[na\] \[se\] JA \[nai\]
 
 where the cmavo in brackets are optional.
 
 ## Forethought bridi connection
 
-Many concepts in Lojban are expressible in two different ways, generally referred to as “afterthought” and “forethought”. [Section 14.4](chapter14#section-bridi-connection "14.4. Logical connection of bridi") discussed what is called “afterthought bridi logical connection”. The word “afterthought” is used because the connective cmavo and the second bridi were added, as it were, afterwards and without changing the form of the first bridi. This form might be used by someone who makes a statement and then wishes to add or qualify that statement after it has been completed. Thus,
+Many concepts in Lojban are expressible in two different ways, generally referred to as “afterthought” and “forethought”. [Section 14.4](/chapter14/#section-bridi-connection "14.4. Logical connection of bridi") discussed what is called “afterthought bridi logical connection”. The word “afterthought” is used because the connective cmavo and the second bridi were added, as it were, afterwards and without changing the form of the first bridi. This form might be used by someone who makes a statement and then wishes to add or qualify that statement after it has been completed. Thus,
 
-### Example 14.14.
+##### Example 14.14.
 
 la djan. nanmu
 
@@ -293,7 +293,7 @@ la djan. nanmu
 
 is a complete bridi, and adding an afterthought connection to make
 
-### Example 14.15.
+##### Example 14.15.
 
 |     |       |       |      |     |          |       |
 | --- | ----- | ----- | ---- | --- | -------- | ----- |
@@ -309,7 +309,7 @@ provides additional information without requiring any change in the form of what
 
 In forethought style the speaker decides in advance, before expressing the first bridi, that a logical connection will be expressed. Forethought and afterthought connectives are expressed with separate selma'o. The forethought logical connectives corresponding to afterthought ijeks are geks:
 
-### Example 14.16.
+##### Example 14.16.
 
 |     |     |       |       |     |     |          |       |
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
@@ -321,13 +321,13 @@ In forethought style the speaker decides in advance, before expressing the first
 
 
 
-_[ga](glossary#valsi-ga)_ is the cmavo which represents the A truth function in selma'o GA. The word _[gi](glossary#valsi-gi)_ does not belong to GA at all, but constitutes its own selma'o: it serves only to separate the two bridi without having any content of its own. The English translation of _[gi](glossary#valsi-gi)_ is “either ... or”, but in the English form the truth function is specified both by the word “either” and by the word “or”: not so in Lojban.
+*[ga](/glossary/#valsi-ga)* is the cmavo which represents the A truth function in selma'o GA. The word *[gi](/glossary/#valsi-gi)* does not belong to GA at all, but constitutes its own selma'o: it serves only to separate the two bridi without having any content of its own. The English translation of *[gi](/glossary/#valsi-gi)* is “either ... or”, but in the English form the truth function is specified both by the word “either” and by the word “or”: not so in Lojban.
 
-Even though two bridi are being connected, geks and giks do not have any _[i](glossary#valsi-i)_ in them. The forethought construct binds up the two bridi into a single sentence as far as the grammar is concerned.
+Even though two bridi are being connected, geks and giks do not have any *[i](/glossary/#valsi-i)* in them. The forethought construct binds up the two bridi into a single sentence as far as the grammar is concerned.
 
 Some more examples of forethought bridi connection are:
 
-### Example 14.17.
+##### Example 14.17.
 
 |     |     |       |       |     |     |          |       |
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
@@ -339,7 +339,7 @@ Some more examples of forethought bridi connection are:
 
 
 
-### Example 14.18.
+##### Example 14.18.
 
 |     |     |       |       |     |     |          |       |
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
@@ -351,11 +351,11 @@ Some more examples of forethought bridi connection are:
 
 
 
-It is worth emphasizing that [Example 14.18](chapter14#example-random-id-qgMN "Example 14.18. ") does not assert that James is (or is not) a woman. The _[gu](glossary#valsi-gu)_ which indicates that _la djeimyz. ninmu_ may be true or false is unfortunately rather remote from the bridi thus affected.
+It is worth emphasizing that [Example 14.18](/chapter14/#example-random-id-qgMN "Example 14.18. ") does not assert that James is (or is not) a woman. The *[gu](/glossary/#valsi-gu)* which indicates that *la djeimyz. ninmu* may be true or false is unfortunately rather remote from the bridi thus affected.
 
 Perhaps the most important of the truth functions commonly expressed in forethought is TFTT, which can be paraphrased as “if ... then ...”:
 
-### Example 14.19.
+##### Example 14.19.
 
 |        |            |       |               |     |            |          |             |
 | ------ | ---------- | ----- | ------------- | --- | ---------- | -------- | ----------- |
@@ -368,13 +368,13 @@ Perhaps the most important of the truth functions commonly expressed in forethou
 
 
 
-Note the placement of the _[nai](glossary#valsi-nai)_ in [Example 14.19](chapter14#example-random-id-Xcg1 "Example 14.19. "). When added to afterthought selma'o such as JA, a following _[nai](glossary#valsi-nai)_ negates the second bridi, to which it is adjacent. Since GA cmavo precede the first bridi, a following _[nai](glossary#valsi-nai)_ negates the first bridi instead.
+Note the placement of the *[nai](/glossary/#valsi-nai)* in [Example 14.19](/chapter14/#example-random-id-Xcg1 "Example 14.19. "). When added to afterthought selma'o such as JA, a following *[nai](/glossary/#valsi-nai)* negates the second bridi, to which it is adjacent. Since GA cmavo precede the first bridi, a following *[nai](/glossary/#valsi-nai)* negates the first bridi instead.
 
-Why does English insist on forethought in the translation of [Example 14.19](chapter14#example-random-id-Xcg1 "Example 14.19. ")? Possibly because it would be confusing to seemingly assert a sentence and then make it conditional (which, as the Lojban form shows, involves a negation). Truth functions which involve negating the first sentence may be confusing, even to the Lojbanic understanding, when expressed using afterthought.
+Why does English insist on forethought in the translation of [Example 14.19](/chapter14/#example-random-id-Xcg1 "Example 14.19. ")? Possibly because it would be confusing to seemingly assert a sentence and then make it conditional (which, as the Lojban form shows, involves a negation). Truth functions which involve negating the first sentence may be confusing, even to the Lojbanic understanding, when expressed using afterthought.
 
-It must be reiterated here that not every use of English “if ... then” is properly translated by _[ja](glossary#valsi-ja)_ or _[gi](glossary#valsi-gi)_; anything with implications of time needs a somewhat different Lojban translation, which will be discussed in [Section 14.18](chapter14#section-sumtcita "14.18. Tenses, modals, and logical connection"). Causal sentences like “If you feed the pig, then it will grow” are not logical connectives of any type, but rather need a translation using _[rinka](glossary#valsi-rinka)_ as the selbri joining two event abstractions, thus:
+It must be reiterated here that not every use of English “if ... then” is properly translated by *[ja](/glossary/#valsi-ja)* or *[gi](/glossary/#valsi-gi)*; anything with implications of time needs a somewhat different Lojban translation, which will be discussed in [Section 14.18](/chapter14/#section-sumtcita "14.18. Tenses, modals, and logical connection"). Causal sentences like “If you feed the pig, then it will grow” are not logical connectives of any type, but rather need a translation using *[rinka](/glossary/#valsi-rinka)* as the selbri joining two event abstractions, thus:
 
-### Example 14.20.
+##### Example 14.20.
 
 |     |          |      |       |       |     |     |       |
 | --- | -------- | ---- | ----- | ----- | --- | --- | ----- |
@@ -388,11 +388,11 @@ It must be reiterated here that not every use of English “if ... then” is pr
 
 
 
-Causality is discussed in far more detail in [Section 9.7](chapter09#section-causals "9.7. Modal sentence connection: the causals").
+Causality is discussed in far more detail in [Section 9.7](/chapter09/#section-causals "9.7. Modal sentence connection: the causals").
 
-[Example 14.21](chapter14#example-random-id-I2jU "Example 14.21. ") and [Example 14.22](chapter14#example-random-id-Tiz6 "Example 14.22. ") illustrates a truth function, FTTF, which needs to negate either the first or the second bridi. We already understand how to negate the first bridi:
+[Example 14.21](/chapter14/#example-random-id-I2jU "Example 14.21. ") and [Example 14.22](/chapter14/#example-random-id-Tiz6 "Example 14.22. ") illustrates a truth function, FTTF, which needs to negate either the first or the second bridi. We already understand how to negate the first bridi:
 
-### Example 14.21.
+##### Example 14.21.
 
 |       |     |       |       |     |     |          |       |
 | ----- | --- | ----- | ----- | --- | --- | -------- | ----- |
@@ -405,9 +405,9 @@ Causality is discussed in far more detail in [Section 9.7](chapter09#section-cau
 
 
 
-How can the second bridi be negated? By adding _-nai_ to the _[gi](glossary#valsi-gi)_.
+How can the second bridi be negated? By adding *-nai* to the *[gi](/glossary/#valsi-gi)*.
 
-### Example 14.22.
+##### Example 14.22.
 
 |     |     |       |       |       |     |          |       |
 | --- | --- | ----- | ----- | ----- | --- | -------- | ----- |
@@ -420,11 +420,11 @@ How can the second bridi be negated? By adding _-nai_ to the _[gi](glossary#vals
 
 
 
-A compound cmavo based on _[gi](glossary#valsi-gi)_ is called a gik; the only giks are _[gi](glossary#valsi-gi)_ itself and _[nai](glossary#valsi-nai)_.
+A compound cmavo based on *[gi](/glossary/#valsi-gi)* is called a gik; the only giks are *[gi](/glossary/#valsi-gi)* itself and *[nai](/glossary/#valsi-nai)*.
 
 Further examples:
 
-### Example 14.23.
+##### Example 14.23.
 
 |     |     |       |       |       |     |          |       |
 | --- | --- | ----- | ----- | ----- | --- | -------- | ----- |
@@ -436,7 +436,7 @@ Further examples:
 
 
 
-### Example 14.24.
+##### Example 14.24.
 
 |       |     |       |       |       |     |          |       |
 | ----- | --- | ----- | ----- | ----- | --- | -------- | ----- |
@@ -450,17 +450,17 @@ Further examples:
 
 The syntax of geks is:
 
-> \[se] GA \[nai]
+> \[se\] GA \[nai\]
 
 and of giks (which are not themselves connectives, but part of the machinery of forethought connection) is:
 
-> _[gi](glossary#valsi-gi)_ \[nai]
+> *[gi](/glossary/#valsi-gi)* \[nai\]
 
 ## sumti connection
 
 Geks and ijeks are sufficient to state every possible logical connection between two bridi. However, it is often the case that two bridi to be logically connected have one or more portions in common:
 
-### Example 14.25.
+##### Example 14.25.
 
 |     |       |       |     |       |      |     |        |       |     |       |
 | --- | ----- | ----- | --- | ----- | ---- | --- | ------ | ----- | --- | ----- |
@@ -474,7 +474,7 @@ Geks and ijeks are sufficient to state every possible logical connection between
 
 Here only a single sumti differs between the two bridi. Lojban does not require that both bridi be expressed in full. Instead, a single bridi can be given which contains both of the different sumti and uses a logical connective from a different selma'o to combine the two sumti:
 
-### Example 14.26.
+##### Example 14.26.
 
 |            |      |     |            |        |       |     |         |
 | ---------- | ---- | --- | ---------- | ------ | ----- | --- | ------- |
@@ -483,16 +483,16 @@ Here only a single sumti differs between the two bridi. Lojban does not require 
 
 
 
-[Example 14.26](chapter14#example-random-id-JTIm "Example 14.26. ") means exactly the same thing as [Example 14.25](chapter14#example-random-id-Ecnq "Example 14.25. "): one may be rigorously transformed into the other without any change of logical meaning. This rule is true in general for every different kind of logical connection in Lojban; all of them, with one exception (see [Section 14.12](chapter14#section-tanru "14.12. Logical connection within tanru")), can always be transformed into a logical connection between sentences that expresses the same truth function.
+[Example 14.26](/chapter14/#example-random-id-JTIm "Example 14.26. ") means exactly the same thing as [Example 14.25](/chapter14/#example-random-id-Ecnq "Example 14.25. "): one may be rigorously transformed into the other without any change of logical meaning. This rule is true in general for every different kind of logical connection in Lojban; all of them, with one exception (see [Section 14.12](/chapter14/#section-tanru "14.12. Logical connection within tanru")), can always be transformed into a logical connection between sentences that expresses the same truth function.
 
-The afterthought logical connectives between sumti are eks, which contain a connective cmavo of selma'o A. If ijeks were used in [Example 14.26](chapter14#example-random-id-JTIm "Example 14.26. "), the meaning would be changed:
+The afterthought logical connectives between sumti are eks, which contain a connective cmavo of selma'o A. If ijeks were used in [Example 14.26](/chapter14/#example-random-id-JTIm "Example 14.26. "), the meaning would be changed:
 
-### Example 14.27.
+##### Example 14.27.
 
 |            |       |                       |      |
 | ---------- | ----- | --------------------- | ---- |
 | la         | djan. |                       | .ije |
-| That-named | John  | \[is/does-something]. | And  |
+| That-named | John  | \[is/does-something\]. | And  |
 
 |            |        |         |     |         |
 | ---------- | ------ | ------- | --- | ------- |
@@ -505,7 +505,7 @@ leaving the reader uncertain why John is mentioned at all.
 
 Any ek may be used between sumti, even if there is no direct English equivalent:
 
-### Example 14.28.
+##### Example 14.28.
 
 |            |       |                |            |        |         |     |         |
 | ---------- | ----- | -------------- | ---------- | ------ | ------- | --- | ------- |
@@ -518,11 +518,11 @@ Any ek may be used between sumti, even if there is no direct English equivalent:
 
 
 
-The second line of [Example 14.27](chapter14#example-random-id-7KHA "Example 14.27. ") is highly stilted English, but the first line (of which it is a literal translation) is excellent Lojban.
+The second line of [Example 14.27](/chapter14/#example-random-id-7KHA "Example 14.27. ") is highly stilted English, but the first line (of which it is a literal translation) is excellent Lojban.
 
 What about forethought sumti connection? As is the case for bridi connection, geks are appropriate. They are not the only selma'o of forethought logical-connectives, but are the most commonly used ones.
 
-### Example 14.29.
+##### Example 14.29.
 
 |     |     |       |     |     |        |       |     |       |
 | --- | --- | ----- | --- | --- | ------ | ----- | --- | ----- |
@@ -534,9 +534,9 @@ What about forethought sumti connection? As is the case for bridi connection, ge
 
 
 
-Of course, eks include all the same patterns of compound cmavo that ijeks do. When _[na](glossary#valsi-na)_ or _[se](glossary#valsi-se)_ is part of an ek, a special writing convention is invoked, as in the following example:
+Of course, eks include all the same patterns of compound cmavo that ijeks do. When *[na](/glossary/#valsi-na)* or *[se](/glossary/#valsi-se)* is part of an ek, a special writing convention is invoked, as in the following example:
 
-### Example 14.30.
+##### Example 14.30.
 
 |            |       |         |            |        |         |     |         |
 | ---------- | ----- | ------- | ---------- | ------ | ------- | --- | ------- |
@@ -549,7 +549,7 @@ Of course, eks include all the same patterns of compound cmavo that ijeks do. Wh
 
 
 
-Note the period in _[.a](glossary#valsi-a)_. The cmavo of A begin with vowels, and therefore must always be preceded by a pause. It is conventional to write all connective compounds as single words (with no spaces), but this pause must still be marked in writing as in speech; otherwise, the _[na](glossary#valsi-na)_ and _[a](glossary#valsi-a)_ would tend to run together.
+Note the period in *[.a](/glossary/#valsi-a)*. The cmavo of A begin with vowels, and therefore must always be preceded by a pause. It is conventional to write all connective compounds as single words (with no spaces), but this pause must still be marked in writing as in speech; otherwise, the *[na](/glossary/#valsi-na)* and *[a](/glossary/#valsi-a)* would tend to run together.
 
 ## More than two propositions
 
@@ -557,7 +557,7 @@ So far we have seen logical connectives used to connect exactly two sentences. H
 
 Of the four primitive truth functions A, E, O, and U, all but O have the same truth values no matter how their component sentences are associated in pairs. Therefore,
 
-### Example 14.31.
+##### Example 14.31.
 
 |     |            |      |     |          |      |     |           |
 | --- | ---------- | ---- | --- | -------- | ---- | --- | --------- |
@@ -568,7 +568,7 @@ Of the four primitive truth functions A, E, O, and U, all but O have the same tr
 
 means that all three component sentences are true. Likewise,
 
-### Example 14.32.
+##### Example 14.32.
 
 |     |            |      |     |          |      |     |           |
 | --- | ---------- | ---- | --- | -------- | ---- | --- | --------- |
@@ -581,7 +581,7 @@ means that one or more of the component sentences is true.
 
 O, however, is different. Working out the truth table for
 
-### Example 14.33.
+##### Example 14.33.
 
 |     |            |                |     |          |                |     |           |
 | --- | ---------- | -------------- | --- | -------- | -------------- | --- | --------- |
@@ -590,17 +590,17 @@ O, however, is different. Working out the truth table for
 
 
 
-shows that [Example 14.33](chapter14#example-random-id-3zE1 "Example 14.33. ") does not mean that either I am all three of these things or none of them; instead, an accurate translation would be:
+shows that [Example 14.33](/chapter14/#example-random-id-3zE1 "Example 14.33. ") does not mean that either I am all three of these things or none of them; instead, an accurate translation would be:
 
 > Of the three properties – German-ness, wealth, and manhood – I possess either exactly one or else all three.
 
 Because of the counterintuitiveness of this outcome, it is safest to avoid O with more than two sentences. Likewise, the connectives which involve negation also have unexpected truth values when used with more than two sentences.
 
-In fact, no combination of logical connectives can produce the “all or none” interpretation intended (but not achieved) by [Example 14.33](chapter14#example-random-id-3zE1 "Example 14.33. ") without repeating one of the bridi. See [Example 14.48](chapter14#example-random-id-KyHw "Example 14.48. ").
+In fact, no combination of logical connectives can produce the “all or none” interpretation intended (but not achieved) by [Example 14.33](/chapter14/#example-random-id-3zE1 "Example 14.33. ") without repeating one of the bridi. See [Example 14.48](/chapter14/#example-random-id-KyHw "Example 14.48. ").
 
 There is an additional difficulty with the use of more than two sentences. What is the meaning of:
 
-### Example 14.34.
+##### Example 14.34.
 
 |     |       |            |       |      |     |       |            |         |
 | --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- |
@@ -616,7 +616,7 @@ There is an additional difficulty with the use of more than two sentences. What 
 
 Does this mean:
 
-### Example 14.35.
+##### Example 14.35.
 
 I like John, and I like either Martha or Mary or both.
 
@@ -624,15 +624,15 @@ I like John, and I like either Martha or Mary or both.
 
 Or is the correct translation:
 
-### Example 14.36.
+##### Example 14.36.
 
 Either I like John and I like Martha, or I like Mary, or both.
 
 
 
-[Example 14.36](chapter14#example-random-id-dPcI "Example 14.36. ") is the correct translation of [Example 14.34](chapter14#example-random-id-mLo1 "Example 14.34. "). The reason is that Lojban logical connectives pair off from the left, like many constructs in the language. This rule, called the left-grouping rule, is easy to forget, especially when intuition pulls the other way. Forethought connectives are not subject to this problem:
+[Example 14.36](/chapter14/#example-random-id-dPcI "Example 14.36. ") is the correct translation of [Example 14.34](/chapter14/#example-random-id-mLo1 "Example 14.34. "). The reason is that Lojban logical connectives pair off from the left, like many constructs in the language. This rule, called the left-grouping rule, is easy to forget, especially when intuition pulls the other way. Forethought connectives are not subject to this problem:
 
-### Example 14.37.
+##### Example 14.37.
 
 |        |       |     |       |            |       |
 | ------ | ----- | --- | ----- | ---------- | ----- |
@@ -651,9 +651,9 @@ Either I like John and I like Martha, or I like Mary, or both.
 
 
 
-is equivalent in meaning to [Example 14.34](chapter14#example-random-id-mLo1 "Example 14.34. "), whereas
+is equivalent in meaning to [Example 14.34](/chapter14/#example-random-id-mLo1 "Example 14.34. "), whereas
 
-### Example 14.38.
+##### Example 14.38.
 
 |      |     |       |            |       |
 | ---- | --- | ----- | ---------- | ----- |
@@ -672,13 +672,13 @@ is equivalent in meaning to [Example 14.34](chapter14#example-random-id-mLo1 "Ex
 
 
 
-is not equivalent to [Example 14.34](chapter14#example-random-id-mLo1 "Example 14.34. "), but is instead a valid translation into Lojban, using forethought, of [Example 14.35](chapter14#example-random-id-BSuT "Example 14.35. ").
+is not equivalent to [Example 14.34](/chapter14/#example-random-id-mLo1 "Example 14.34. "), but is instead a valid translation into Lojban, using forethought, of [Example 14.35](/chapter14/#example-random-id-BSuT "Example 14.35. ").
 
 ## Grouping of afterthought connectives
 
-There are several ways in Lojban to render [Example 14.35](chapter14#example-random-id-BSuT "Example 14.35. ") using afterthought only. The simplest method is to make use of the cmavo _[bo](glossary#valsi-bo)_ (of selma'o BO). This cmavo has several functions in Lojban, but is always associated with high precedence and short scope. In particular, if _[bo](glossary#valsi-bo)_ is placed after an ijek, the result is a grammatically distinct kind of ijek which overrides the regular left-grouping rule. Connections marked with _[bo](glossary#valsi-bo)_ are interpreted before connections not so marked. [Example 14.39](chapter14#example-random-id-Uu7D "Example 14.39. ") is equivalent in meaning to [Example 14.38](chapter14#example-random-id-1Dd2 "Example 14.38. "):
+There are several ways in Lojban to render [Example 14.35](/chapter14/#example-random-id-BSuT "Example 14.35. ") using afterthought only. The simplest method is to make use of the cmavo *[bo](/glossary/#valsi-bo)* (of selma'o BO). This cmavo has several functions in Lojban, but is always associated with high precedence and short scope. In particular, if *[bo](/glossary/#valsi-bo)* is placed after an ijek, the result is a grammatically distinct kind of ijek which overrides the regular left-grouping rule. Connections marked with *[bo](/glossary/#valsi-bo)* are interpreted before connections not so marked. [Example 14.39](/chapter14/#example-random-id-Uu7D "Example 14.39. ") is equivalent in meaning to [Example 14.38](/chapter14/#example-random-id-1Dd2 "Example 14.38. "):
 
-### Example 14.39.
+##### Example 14.39.
 
 |     |       |            |       |      |     |       |            |         |
 | --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- |
@@ -692,43 +692,43 @@ There are several ways in Lojban to render [Example 14.35](chapter14#example-ran
 
 
 
-The English translation feebly indicates with a comma what the Lojban marks far more clearly: the “I like Martha” and “I like Mary” sentences are joined by _[ja](glossary#valsi-ja)_ first, before the result is joined to “I like John” by _[je](glossary#valsi-je)_.
+The English translation feebly indicates with a comma what the Lojban marks far more clearly: the “I like Martha” and “I like Mary” sentences are joined by *[ja](/glossary/#valsi-ja)* first, before the result is joined to “I like John” by *[je](/glossary/#valsi-je)*.
 
-Eks can have _[bo](glossary#valsi-bo)_ attached in exactly the same way, so that [Example 14.40](chapter14#example-random-id-JVhK "Example 14.40. ") is equivalent in meaning to [Example 14.39](chapter14#example-random-id-Uu7D "Example 14.39. "):
+Eks can have *[bo](/glossary/#valsi-bo)* attached in exactly the same way, so that [Example 14.40](/chapter14/#example-random-id-JVhK "Example 14.40. ") is equivalent in meaning to [Example 14.39](/chapter14/#example-random-id-Uu7D "Example 14.39. "):
 
-### Example 14.40.
+##### Example 14.40.
 
 mi nelci la djan. .e la martas. .abo la meris.
 
 
 
-Forethought connectives, however, never can be suffixed with _[bo](glossary#valsi-bo)_, for every use of forethought connectives clearly indicates the intended pattern of grouping.
+Forethought connectives, however, never can be suffixed with *[bo](/glossary/#valsi-bo)*, for every use of forethought connectives clearly indicates the intended pattern of grouping.
 
-What happens if _[bo](glossary#valsi-bo)_ is used on both connectives, giving them the same high precedence, as in [Example 14.41](chapter14#example-random-id-YJeE "Example 14.41. ")?
+What happens if *[bo](/glossary/#valsi-bo)* is used on both connectives, giving them the same high precedence, as in [Example 14.41](/chapter14/#example-random-id-YJeE "Example 14.41. ")?
 
-### Example 14.41.
+##### Example 14.41.
 
 mi nelci la djan. .ebo la martas. .abo la meris.
 
 
 
-Does this wind up meaning the same as [Example 14.34](chapter14#example-random-id-mLo1 "Example 14.34. ") and [Example 14.36](chapter14#example-random-id-dPcI "Example 14.36. ")? Not at all. A second rule relating to _[bo](glossary#valsi-bo)_ is that where several _[bo](glossary#valsi-bo)_-marked connectives are used in succession, the normal Lojban left-grouping rule is replaced by a right-grouping rule. As a result, [Example 14.41](chapter14#example-random-id-YJeE "Example 14.41. ") in fact means the same as [Example 14.39](chapter14#example-random-id-Uu7D "Example 14.39. ") and [Example 14.40](chapter14#example-random-id-JVhK "Example 14.40. "). This rule may be occasionally exploited for special effects, but is tricky to keep straight; in writing intended to be easy to understand, multiple consecutive connectives marked with _[bo](glossary#valsi-bo)_ should be avoided.
+Does this wind up meaning the same as [Example 14.34](/chapter14/#example-random-id-mLo1 "Example 14.34. ") and [Example 14.36](/chapter14/#example-random-id-dPcI "Example 14.36. ")? Not at all. A second rule relating to *[bo](/glossary/#valsi-bo)* is that where several *[bo](/glossary/#valsi-bo)*-marked connectives are used in succession, the normal Lojban left-grouping rule is replaced by a right-grouping rule. As a result, [Example 14.41](/chapter14/#example-random-id-YJeE "Example 14.41. ") in fact means the same as [Example 14.39](/chapter14/#example-random-id-Uu7D "Example 14.39. ") and [Example 14.40](/chapter14/#example-random-id-JVhK "Example 14.40. "). This rule may be occasionally exploited for special effects, but is tricky to keep straight; in writing intended to be easy to understand, multiple consecutive connectives marked with *[bo](/glossary/#valsi-bo)* should be avoided.
 
-The use of _[bo](glossary#valsi-bo)_, therefore, gets tricky in complex connections of more than three sentences. Looking back at the English translations of [Example 14.37](chapter14#example-random-id-487z "Example 14.37. ") and [Example 14.38](chapter14#example-random-id-1Dd2 "Example 14.38. "), parentheses were used to clarify the grouping. These parentheses have their Lojban equivalents, two sets of them actually. _[tu'e](glossary#valsi-tuhe)_ and _[tu'u](glossary#valsi-tuhu)_ are used with ijeks, and _[ke](glossary#valsi-ke)_ and _[ke](glossary#valsi-ke)_ and _[ke'e](glossary#valsi-kehe)_ are also used in other roles in the language, but always as grouping markers). Consider the English sentence:
+The use of *[bo](/glossary/#valsi-bo)*, therefore, gets tricky in complex connections of more than three sentences. Looking back at the English translations of [Example 14.37](/chapter14/#example-random-id-487z "Example 14.37. ") and [Example 14.38](/chapter14/#example-random-id-1Dd2 "Example 14.38. "), parentheses were used to clarify the grouping. These parentheses have their Lojban equivalents, two sets of them actually. *[tu'e](/glossary/#valsi-tuhe)* and *[tu'u](/glossary/#valsi-tuhu)* are used with ijeks, and *[ke](/glossary/#valsi-ke)* and *[ke](/glossary/#valsi-ke)* and *[ke'e](/glossary/#valsi-kehe)* are also used in other roles in the language, but always as grouping markers). Consider the English sentence:
 
-### Example 14.42.
+##### Example 14.42.
 
 I kiss you and you kiss me, if I love you and you love me.
 
 
 
-where the semantics tells us that the instances of “and” are meant to have higher precedence than that of “if”. If we wish to express [Example 14.42](chapter14#example-random-id-aqIg "Example 14.42. ") in afterthought, we can say:
+where the semantics tells us that the instances of “and” are meant to have higher precedence than that of “if”. If we wish to express [Example 14.42](/chapter14/#example-random-id-aqIg "Example 14.42. ") in afterthought, we can say:
 
-### Example 14.43.
+##### Example 14.43.
 
 |     |       |     |           |     |       |     |
 | --- | ----- | --- | --------- | --- | ----- | --- |
-| mi  | cinba | do  | .ije\[bo] | do  | cinba | mi  |
+| mi  | cinba | do  | .ije\[bo\] | do  | cinba | mi  |
 | I   | kiss  | you | and       | you | kiss  | me, |
 
 |         |     |       |     |        |     |       |     |
@@ -738,11 +738,11 @@ where the semantics tells us that the instances of “and” are meant to have h
 
 
 
-marking two of the ijeks with _[bo](glossary#valsi-bo)_ for high precedence. (The first _[bo](glossary#valsi-bo)_ is not strictly necessary, because of the left-grouping rule, and is shown here in brackets.)
+marking two of the ijeks with *[bo](/glossary/#valsi-bo)* for high precedence. (The first *[bo](/glossary/#valsi-bo)* is not strictly necessary, because of the left-grouping rule, and is shown here in brackets.)
 
 But it may be clearer to use explicit parenthesis words and say:
 
-### Example 14.44.
+##### Example 14.44.
 
 |      |     |       |     |      |     |       |     |      |
 | ---- | --- | ----- | --- | ---- | --- | ----- | --- | ---- |
@@ -751,18 +751,18 @@ But it may be clearer to use explicit parenthesis words and say:
 
 |         |      |     |       |     |      |     |       |     |         |
 | ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | ------- |
-| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u] |
+| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
 | if      | (    | I   | love  | you | and  | you | love  | me  | ).      |
 
 
 
-where the _[tu'u](glossary#valsi-tuhu)_ pairs set off the structure. The cmavo _[tu'u](glossary#valsi-tuhu)_ is an elidable terminator, and its second occurrence in [Example 14.44](chapter14#example-random-id-erTb "Example 14.44. ") is bracketed, because all terminators may be elided at the end of a text.
+where the *[tu'u](/glossary/#valsi-tuhu)* pairs set off the structure. The cmavo *[tu'u](/glossary/#valsi-tuhu)* is an elidable terminator, and its second occurrence in [Example 14.44](/chapter14/#example-random-id-erTb "Example 14.44. ") is bracketed, because all terminators may be elided at the end of a text.
 
-In addition, parentheses are a general solution: multiple parentheses may be nested inside one another, and additional afterthought material may be added without upsetting the existing structure. Neither of these two advantages apply to _[bo](glossary#valsi-bo)_ grouping. In general, afterthought constructions trade generality for simplicity.
+In addition, parentheses are a general solution: multiple parentheses may be nested inside one another, and additional afterthought material may be added without upsetting the existing structure. Neither of these two advantages apply to *[bo](/glossary/#valsi-bo)* grouping. In general, afterthought constructions trade generality for simplicity.
 
-Because of the left-grouping rule, the first set of _[tu'u](glossary#valsi-tuhu)_ parentheses may actually be left off altogether, producing:
+Because of the left-grouping rule, the first set of *[tu'u](/glossary/#valsi-tuhu)* parentheses may actually be left off altogether, producing:
 
-### Example 14.45.
+##### Example 14.45.
 
 |     |       |     |      |     |       |     |
 | --- | ----- | --- | ---- | --- | ----- | --- |
@@ -771,22 +771,22 @@ Because of the left-grouping rule, the first set of _[tu'u](glossary#valsi-tuhu)
 
 |         |      |     |       |     |      |     |       |     |         |
 | ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | ------- |
-| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u] |
+| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
 | if      | (    | I   | love  | you | and  | you | love  | me  | ).      |
 
 
 
 What about parenthesized sumti connection? Consider
 
-### Example 14.46.
+##### Example 14.46.
 
 I walk to either the market and the house, or the school and the office.
 
 
 
-Two pairs of parentheses, analogous to [Example 14.44](chapter14#example-random-id-erTb "Example 14.44. "), would seem to be the right approach. However, it is a rule of Lojban grammar that a sumti may not begin with _[ke](glossary#valsi-ke)_, so the first set of parentheses must be omitted, producing [Example 14.47](chapter14#example-random-id-0mJM "Example 14.47. "), which is instead parallel to [Example 14.45](chapter14#example-random-id-QGBz "Example 14.45. "):
+Two pairs of parentheses, analogous to [Example 14.44](/chapter14/#example-random-id-erTb "Example 14.44. "), would seem to be the right approach. However, it is a rule of Lojban grammar that a sumti may not begin with *[ke](/glossary/#valsi-ke)*, so the first set of parentheses must be omitted, producing [Example 14.47](/chapter14/#example-random-id-0mJM "Example 14.47. "), which is instead parallel to [Example 14.45](/chapter14/#example-random-id-QGBz "Example 14.45. "):
 
-### Example 14.47.
+##### Example 14.47.
 
 |     |         |     |        |     |     |       |
 | --- | ------- | --- | ------ | --- | --- | ----- |
@@ -795,25 +795,25 @@ Two pairs of parentheses, analogous to [Example 14.44](chapter14#example-random-
 
 |     |     |     |        |     |     |        |         |
 | --- | --- | --- | ------ | --- | --- | ------ | ------- |
-| .a  | ke  | le  | ckule  | .e  | le  | briju  | \[ke'e] |
+| .a  | ke  | le  | ckule  | .e  | le  | briju  | \[ke'e\] |
 | or  | (   | the | school | and | the | office | ).      |
 
 
 
-If sumti were allowed to begin with _[ke](glossary#valsi-ke)_, unavoidable ambiguities would result, so _[ke](glossary#valsi-ke)_ grouping of sumti is allowed only just after a logical connective. This rule does not apply to _[tu'e](glossary#valsi-tuhe)_ grouping of bridi, as [Example 14.44](chapter14#example-random-id-erTb "Example 14.44. ") shows.
+If sumti were allowed to begin with *[ke](/glossary/#valsi-ke)*, unavoidable ambiguities would result, so *[ke](/glossary/#valsi-ke)* grouping of sumti is allowed only just after a logical connective. This rule does not apply to *[tu'e](/glossary/#valsi-tuhe)* grouping of bridi, as [Example 14.44](/chapter14/#example-random-id-erTb "Example 14.44. ") shows.
 
-Now we have enough facilities to handle the problem of [Example 14.33](chapter14#example-random-id-3zE1 "Example 14.33. "): “I am German, rich, and a man – or else none of these.” The following paraphrase has the correct meaning:
+Now we have enough facilities to handle the problem of [Example 14.33](/chapter14/#example-random-id-3zE1 "Example 14.33. "): “I am German, rich, and a man – or else none of these.” The following paraphrase has the correct meaning:
 
-### Example 14.48.
+##### Example 14.48.
 
 |         |     |           |                |     |         |         |
 | ------- | --- | --------- | -------------- | --- | ------- | ------- |
-| \[tu'e] | mi  | dotco     | .ijo           | mi  | ricfu   | \[tu'u] |
+| \[tu'e\] | mi  | dotco     | .ijo           | mi  | ricfu   | \[tu'u\] |
 | (       | I   | am-German | if-and-only-if | I   | am-rich | )       |
 
 |      |      |     |           |                |     |          |         |
 | ---- | ---- | --- | --------- | -------------- | --- | -------- | ------- |
-| .ije | tu'e | mi  | dotco     | .ijo           | mi  | nanmu    | \[tu'u] |
+| .ije | tu'e | mi  | dotco     | .ijo           | mi  | nanmu    | \[tu'u\] |
 | and  | (    | I   | am-German | if-and-only-if | I   | am-a-man | ).      |
 
 
@@ -828,7 +828,7 @@ Surprise! Lojban provides no logical connective that is designed to handle selbr
 
 The simplest cases result when the x1 sumti is the only common point:
 
-### Example 14.49.
+##### Example 14.49.
 
 |     |       |     |         |      |     |       |            |       |
 | --- | ----- | --- | ------- | ---- | --- | ----- | ---------- | ----- |
@@ -839,7 +839,7 @@ The simplest cases result when the x1 sumti is the only common point:
 
 is equivalent in meaning to the compound bridi:
 
-### Example 14.50.
+##### Example 14.50.
 
 |     |       |     |        |      |       |            |       |
 | --- | ----- | --- | ------ | ---- | ----- | ---------- | ----- |
@@ -848,9 +848,9 @@ is equivalent in meaning to the compound bridi:
 
 
 
-As [Example 14.50](chapter14#example-random-id-9H9e "Example 14.50. ") indicates, giheks are used in afterthought to create compound bridi; _[gi'e](glossary#valsi-gihe)_ is the gihek corresponding to “and”. The actual phrases _klama le zarci_ and _nelci la djan._ that the gihek connects are known as “bridi-tails”, because they represent (in this use) the “tail end” of a bridi, including the selbri and any following sumti, but excluding any sumti that precede the selbri:
+As [Example 14.50](/chapter14/#example-random-id-9H9e "Example 14.50. ") indicates, giheks are used in afterthought to create compound bridi; *[gi'e](/glossary/#valsi-gihe)* is the gihek corresponding to “and”. The actual phrases *klama le zarci* and *nelci la djan.* that the gihek connects are known as “bridi-tails”, because they represent (in this use) the “tail end” of a bridi, including the selbri and any following sumti, but excluding any sumti that precede the selbri:
 
-### Example 14.51.
+##### Example 14.51.
 
 |     |         |      |       |     |         |
 | --- | ------- | ---- | ----- | --- | ------- |
@@ -859,11 +859,11 @@ As [Example 14.50](chapter14#example-random-id-9H9e "Example 14.50. ") indicates
 
 
 
-In [Example 14.51](chapter14#example-random-id-F3RE "Example 14.51. "), the first bridi-tail is _[ricfu](glossary#valsi-ricfu)_, a simple selbri, and the second bridi-tail is _klama le zarci_, a selbri with one following sumti.
+In [Example 14.51](/chapter14/#example-random-id-F3RE "Example 14.51. "), the first bridi-tail is *[ricfu](/glossary/#valsi-ricfu)*, a simple selbri, and the second bridi-tail is *klama le zarci*, a selbri with one following sumti.
 
 Suppose that more than a single sumti is identical between the two sentences:
 
-### Example 14.52.
+##### Example 14.52.
 
 |     |       |     |       |         |      |     |       |      |                |           |
 | --- | ----- | --- | ----- | ------- | ---- | --- | ----- | ---- | -------------- | --------- |
@@ -872,9 +872,9 @@ Suppose that more than a single sumti is identical between the two sentences:
 
 
 
-In [Example 14.52](chapter14#example-random-id-PRxj "Example 14.52. "), the first and last sumti of each bridi are identical; the selbri and the second sumti are different. By moving the final sumti to the beginning, a form analogous to [Example 14.50](chapter14#example-random-id-9H9e "Example 14.50. ") can be achieved:
+In [Example 14.52](/chapter14/#example-random-id-PRxj "Example 14.52. "), the first and last sumti of each bridi are identical; the selbri and the second sumti are different. By moving the final sumti to the beginning, a form analogous to [Example 14.50](/chapter14/#example-random-id-9H9e "Example 14.50. ") can be achieved:
 
-### Example 14.53.
+##### Example 14.53.
 
 |         |     |     |     |       |     |       |
 | ------- | --- | --- | --- | ----- | --- | ----- |
@@ -888,9 +888,9 @@ In [Example 14.52](chapter14#example-random-id-PRxj "Example 14.52. "), the firs
 
 
 
-where the _[fi](glossary#valsi-fi)_ does not have an exact English translation because it merely places _[do](glossary#valsi-do)_ in the third place of both _[lebna](glossary#valsi-lebna)_ and _[dunda](glossary#valsi-dunda)_. However, a form that preserves natural sumti order also exists in Lojban. Giheks connect two bridi-tails, but also allow sumti to be added following the bridi-tail. These sumti are known as tail-terms, and apply to both bridi. The straightforward gihek version of [Example 14.52](chapter14#example-random-id-PRxj "Example 14.52. ") therefore is:
+where the *[fi](/glossary/#valsi-fi)* does not have an exact English translation because it merely places *[do](/glossary/#valsi-do)* in the third place of both *[lebna](/glossary/#valsi-lebna)* and *[dunda](/glossary/#valsi-dunda)*. However, a form that preserves natural sumti order also exists in Lojban. Giheks connect two bridi-tails, but also allow sumti to be added following the bridi-tail. These sumti are known as tail-terms, and apply to both bridi. The straightforward gihek version of [Example 14.52](/chapter14/#example-random-id-PRxj "Example 14.52. ") therefore is:
 
-### Example 14.54.
+##### Example 14.54.
 
 |     |       |     |       |      |       |      |                 |     |              |
 | --- | ----- | --- | ----- | ---- | ----- | ---- | --------------- | --- | ------------ |
@@ -899,30 +899,30 @@ where the _[fi](glossary#valsi-fi)_ does not have an exact English translation b
 
 
 
-The _[vau](glossary#valsi-vau)_ (of selma'o VAU) serves to separate the bridi-tail from the tail-terms. Every bridi-tail is terminated by an elidable _[vau](glossary#valsi-vau)_, but only in connection with compound bridi is it ever necessary to express this _[vau](glossary#valsi-vau)_. Thus:
+The *[vau](/glossary/#valsi-vau)* (of selma'o VAU) serves to separate the bridi-tail from the tail-terms. Every bridi-tail is terminated by an elidable *[vau](/glossary/#valsi-vau)*, but only in connection with compound bridi is it ever necessary to express this *[vau](/glossary/#valsi-vau)*. Thus:
 
-### Example 14.55.
+##### Example 14.55.
 
 |     |       |     |         |        |
 | --- | ----- | --- | ------- | ------ |
-| mi  | klama | le  | zarci   | \[vau] |
+| mi  | klama | le  | zarci   | \[vau\] |
 | I   | go-to | the | market. |        |
 
 
 
-has a single elided _[vau](glossary#valsi-vau)_, and [Example 14.50](chapter14#example-random-id-9H9e "Example 14.50. ") is equivalent to:
+has a single elided *[vau](/glossary/#valsi-vau)*, and [Example 14.50](/chapter14/#example-random-id-9H9e "Example 14.50. ") is equivalent to:
 
-### Example 14.56.
+##### Example 14.56.
 
-mi klama le zarci \[vau] gi'e nelci la djan. \[vau] \[vau]
+mi klama le zarci \[vau\] gi'e nelci la djan. \[vau\] \[vau\]
 
 
 
-where the double _[vau](glossary#valsi-vau)_ at the end of [Example 14.56](chapter14#example-random-id-RfIR "Example 14.56. ") terminates both the right-hand bridi-tail and the unexpressed tail-terms.
+where the double *[vau](/glossary/#valsi-vau)* at the end of [Example 14.56](/chapter14/#example-random-id-RfIR "Example 14.56. ") terminates both the right-hand bridi-tail and the unexpressed tail-terms.
 
 A final use of giheks is to combine bridi-tails used as complete sentences, the Lojban observative:
 
-### Example 14.57.
+##### Example 14.57.
 
 |        |        |        |      |          |        |         |
 | ------ | ------ | ------ | ---- | -------- | ------ | ------- |
@@ -931,11 +931,11 @@ A final use of giheks is to combine bridi-tails used as complete sentences, the 
 
 
 
-Since x1 is omitted in both of the bridi underlying [Example 14.57](chapter14#example-random-id-rvUD "Example 14.57. "), this compound bridi does not necessarily imply that the goer and the walker are the same. Only the presence of an explicit x1 (other than _[zo'e](glossary#valsi-zohe)_, which is equivalent to omission) can force the goer and the walker to be identical.
+Since x1 is omitted in both of the bridi underlying [Example 14.57](/chapter14/#example-random-id-rvUD "Example 14.57. "), this compound bridi does not necessarily imply that the goer and the walker are the same. Only the presence of an explicit x1 (other than *[zo'e](/glossary/#valsi-zohe)*, which is equivalent to omission) can force the goer and the walker to be identical.
 
 A strong argument for this convention is provided by analysis of the following example:
 
-### Example 14.58.
+##### Example 14.58.
 
 |        |               |          |
 | ------ | ------------- | -------- |
@@ -959,9 +959,9 @@ A strong argument for this convention is provided by analysis of the following e
 
 
 
-If the rule were that the x1 places of the two underlying bridi were considered identical, then (since there is nothing special about x1), the unspecified x4 (route) and x5 (means) places would also have to be the same, leading to the absurd result that the route from Phoenix to New York is the same as the route from Rome to New York. Inserting _[da](glossary#valsi-da)_, meaning roughly “something”, into the x1 place cures the problem:
+If the rule were that the x1 places of the two underlying bridi were considered identical, then (since there is nothing special about x1), the unspecified x4 (route) and x5 (means) places would also have to be the same, leading to the absurd result that the route from Phoenix to New York is the same as the route from Rome to New York. Inserting *[da](/glossary/#valsi-da)*, meaning roughly “something”, into the x1 place cures the problem:
 
-### Example 14.59.
+##### Example 14.59.
 
 |           |           |               |          |                 |         |
 | --------- | --------- | ------------- | -------- | --------------- | ------- |
@@ -977,15 +977,15 @@ If the rule were that the x1 places of the two underlying bridi were considered 
 
 The syntax of giheks is:
 
-> \[na] \[se] GIhA \[nai]
+> \[na\] \[se\] GIhA \[nai\]
 
 which is exactly parallel to the syntax of eks.
 
 ## Multiple compound bridi
 
-Giheks can be combined with _[bo](glossary#valsi-bo)_ in the same way as eks:
+Giheks can be combined with *[bo](/glossary/#valsi-bo)* in the same way as eks:
 
-### Example 14.60.
+##### Example 14.60.
 
 |     |       |     |       |      |       |     |         |        |       |     |        |
 | --- | ----- | --- | ----- | ---- | ----- | --- | ------- | ------ | ----- | --- | ------ |
@@ -997,9 +997,9 @@ Giheks can be combined with _[bo](glossary#valsi-bo)_ in the same way as eks:
 
 
 
-is equivalent in meaning to [Example 14.39](chapter14#example-random-id-Uu7D "Example 14.39. ") and [Example 14.40](chapter14#example-random-id-JVhK "Example 14.40. "). Likewise, _[ke'e](glossary#valsi-kehe)_ grouping can be used after giheks:
+is equivalent in meaning to [Example 14.39](/chapter14/#example-random-id-Uu7D "Example 14.39. ") and [Example 14.40](/chapter14/#example-random-id-JVhK "Example 14.40. "). Likewise, *[ke'e](/glossary/#valsi-kehe)* grouping can be used after giheks:
 
-### Example 14.61.
+##### Example 14.61.
 
 |     |         |     |        |
 | --- | ------- | --- | ------ |
@@ -1018,21 +1018,21 @@ is equivalent in meaning to [Example 14.39](chapter14#example-random-id-Uu7D "Ex
 
 |      |         |     |         |         |
 | ---- | ------- | --- | ------- | ------- |
-| gi'e | dzukla  | le  | briju   | \[ke'e] |
+| gi'e | dzukla  | le  | briju   | \[ke'e\] |
 | and  | walk-to | the | office. | )       |
 
 
 
-is the gihek version of [Example 14.47](chapter14#example-random-id-0mJM "Example 14.47. "). The same rule about using _[ke'e](glossary#valsi-kehe)_ bracketing only just after a connective applies to bridi-tails as to sumti, so the first two bridi-tails in [Example 14.61](chapter14#example-random-id-rH4n "Example 14.61. ") cannot be explicitly grouped; implicit left-grouping suffices to associate them.
+is the gihek version of [Example 14.47](/chapter14/#example-random-id-0mJM "Example 14.47. "). The same rule about using *[ke'e](/glossary/#valsi-kehe)* bracketing only just after a connective applies to bridi-tails as to sumti, so the first two bridi-tails in [Example 14.61](/chapter14/#example-random-id-rH4n "Example 14.61. ") cannot be explicitly grouped; implicit left-grouping suffices to associate them.
 
 Each of the pairs of bridi-tails joined by multiple giheks can have its own set of tail-terms:
 
-### Example 14.62.
+##### Example 14.62.
 
 |       |     |       |      |                |               |       |
 | ----- | --- | ----- | ---- | -------------- | ------------- | ----- |
 |       | mi  | dejni | lo   | rupnu          | la            | djan. |
-| \[If] | I   | owe   | some | currency-units | to-that-named | John, |
+| \[If\] | I   | owe   | some | currency-units | to-that-named | John, |
 
 |        |     |       |     |       |               |       |
 | ------ | --- | ----- | --- | ----- | ------------- | ----- |
@@ -1048,12 +1048,12 @@ Each of the pairs of bridi-tails joined by multiple giheks can have its own set 
 
 is equivalent in meaning to:
 
-### Example 14.63.
+##### Example 14.63.
 
 |       |     |       |      |                |        |       |
 | ----- | --- | ----- | ---- | -------------- | ------ | ----- |
 |       | mi  | dejni | lo   | rupnu          | nagi'a | dunda |
-| \[If] | I   | owe   | some | currency-units | then   | (give |
+| \[If\] | I   | owe   | some | currency-units | then   | (give |
 
 |        |       |     |     |       |     |                    |       |
 | ------ | ----- | --- | --- | ----- | --- | ------------------ | ----- |
@@ -1062,14 +1062,14 @@ is equivalent in meaning to:
 
 
 
-The literal English translation in [Example 14.63](chapter14#example-random-id-901t "Example 14.63. ") is almost unintelligible, but the Lojban is perfectly grammatical. _[mi](glossary#valsi-mi)_ fills the x1 place of all three selbri; _lo rupnu_ is the x2 of _[dejni](glossary#valsi-dejni)_, whereas _le cukta_ is a tail-term shared between _[dunda](glossary#valsi-dunda)_ and _[lebna](glossary#valsi-lebna)_; _la djan._ is a tail-term shared by _[dejni](glossary#valsi-dejni)_ and by _dunda gi'abo lebna_. In this case, greater clarity is probably achieved by moving _la djan._ to the beginning of the sentence, as in [Example 14.53](chapter14#example-random-id-Evo4 "Example 14.53. "):
+The literal English translation in [Example 14.63](/chapter14/#example-random-id-901t "Example 14.63. ") is almost unintelligible, but the Lojban is perfectly grammatical. *[mi](/glossary/#valsi-mi)* fills the x1 place of all three selbri; *lo rupnu* is the x2 of *[dejni](/glossary/#valsi-dejni)*, whereas *le cukta* is a tail-term shared between *[dunda](/glossary/#valsi-dunda)* and *[lebna](/glossary/#valsi-lebna)*; *la djan.* is a tail-term shared by *[dejni](/glossary/#valsi-dejni)* and by *dunda gi'abo lebna*. In this case, greater clarity is probably achieved by moving *la djan.* to the beginning of the sentence, as in [Example 14.53](/chapter14/#example-random-id-Evo4 "Example 14.53. "):
 
-### Example 14.64.
+##### Example 14.64.
 
 |         |            |       |       |     |     |       |      |                |
 | ------- | ---------- | ----- | ----- | --- | --- | ----- | ---- | -------------- |
 | fi      | la         | djan. |       | fa  | mi  | dejni | lo   | rupnu          |
-| To/from | that-named | John, | \[if] |     | I   | owe   | some | currency-units |
+| To/from | that-named | John, | \[if\] |     | I   | owe   | some | currency-units |
 
 |        |      |       |        |       |     |     |       |
 | ------ | ---- | ----- | ------ | ----- | --- | --- | ----- |
@@ -1080,7 +1080,7 @@ The literal English translation in [Example 14.63](chapter14#example-random-id-9
 
 Finally, what about forethought logical connection of bridi-tails? There is no direct mechanism for the purpose. Instead, Lojban grammar allows a pair of forethought-connected sentences to function as a single bridi-tail, and of course the sentences need not have terms before their selbri. For example:
 
-### Example 14.65.
+##### Example 14.65.
 
 |     |      |       |     |        |     |       |            |       |
 | --- | ---- | ----- | --- | ------ | --- | ----- | ---------- | ----- |
@@ -1089,11 +1089,11 @@ Finally, what about forethought logical connection of bridi-tails? There is no d
 
 
 
-is equivalent in meaning to [Example 14.50](chapter14#example-random-id-9H9e "Example 14.50. ").
+is equivalent in meaning to [Example 14.50](/chapter14/#example-random-id-9H9e "Example 14.50. ").
 
 Of course, either of the connected sentences may contain giheks:
 
-### Example 14.66.
+##### Example 14.66.
 
 |     |      |       |        |        |      |        |        |        |
 | --- | ---- | ----- | ------ | ------ | ---- | ------ | ------ | ------ |
@@ -1107,20 +1107,20 @@ Of course, either of the connected sentences may contain giheks:
 
 
 
-The entire gek-connected sentence pair may be negated as a whole by prefixing _[na](glossary#valsi-na)_:
+The entire gek-connected sentence pair may be negated as a whole by prefixing *[na](/glossary/#valsi-na)*:
 
-### Example 14.67.
+##### Example 14.67.
 
 |           |     |     |      |       |     |        |     |         |     |        |
 | --------- | --- | --- | ---- | ----- | --- | ------ | --- | ------- | --- | ------ |
 |           | mi  | na  | ge   | klama | le  | zarci  | gi  | dzukla  | le  | zdani  |
-| \[False!] | I   |     | both | go-to | the | market | and | walk-to | the | house. |
+| \[False!\] | I   |     | both | go-to | the | market | and | walk-to | the | house. |
 
 
 
-Since a pair of sentences joined by geks is the equivalent of a bridi-tail, it may be followed by tail terms. The forethought equivalent of [Example 14.54](chapter14#example-random-id-DYBN "Example 14.54. ") is:
+Since a pair of sentences joined by geks is the equivalent of a bridi-tail, it may be followed by tail terms. The forethought equivalent of [Example 14.54](/chapter14/#example-random-id-DYBN "Example 14.54. ") is:
 
-### Example 14.68.
+##### Example 14.68.
 
 |     |      |       |     |       |
 | --- | ---- | ----- | --- | ----- |
@@ -1134,9 +1134,9 @@ Since a pair of sentences joined by geks is the equivalent of a bridi-tail, it m
 
 
 
-Here is a pair of gek-connected observatives, a forethought equivalent of [Example 14.57](chapter14#example-random-id-rvUD "Example 14.57. "):
+Here is a pair of gek-connected observatives, a forethought equivalent of [Example 14.57](/chapter14/#example-random-id-rvUD "Example 14.57. "):
 
-### Example 14.69.
+##### Example 14.69.
 
 |      |        |        |        |     |          |        |         |
 | ---- | ------ | ------ | ------ | --- | -------- | ------ | ------- |
@@ -1147,7 +1147,7 @@ Here is a pair of gek-connected observatives, a forethought equivalent of [Examp
 
 Finally, here is an example of gek-connected sentences with both shared and unshared terms before their selbri:
 
-### Example 14.70.
+##### Example 14.70.
 
 |     |                     |        |        |     |       |     |        |       |     |        |
 | --- | ------------------- | ------ | ------ | --- | ----- | --- | ------ | ----- | --- | ------ |
@@ -1164,31 +1164,31 @@ Finally, here is an example of gek-connected sentences with both shared and unsh
 
 So far we have seen sentences that differ in all components, and require bridi connection; sentences that differ in one sumti only, and permit sumti connection; and sentences that differ in the selbri and possibly one or more sumti, and permit bridi-tail connection. Termset logical connectives are employed for sentences that differ in more than one sumti but not in the selbri, such as:
 
-### Example 14.71.
+##### Example 14.71.
 
 I go to the market from the office and to the house from the school.
 
 
 
-The Lojban version of [Example 14.71](chapter14#example-random-id-G02C "Example 14.71. ") requires two termsets joined by a logical connective. A “term” is either a sumti or a sumti preceded by a tense or modal tag such as _[pu](glossary#valsi-pu)_ or _[bai](glossary#valsi-bai)_. Afterthought termsets are formed by linking terms together by inserting the cmavo _[ce'e](glossary#valsi-cehe)_ (of selma'o CEhE) between each of them. Furthermore, the logical connective (which is a jek) must be prefixed by the cmavo _[pe'e](glossary#valsi-pehe)_ (of selma'o PEhE). (We could refer to the combination of _[pe'e](glossary#valsi-pehe)_ and a jek as a “pehejek”, I suppose.)
+The Lojban version of [Example 14.71](/chapter14/#example-random-id-G02C "Example 14.71. ") requires two termsets joined by a logical connective. A “term” is either a sumti or a sumti preceded by a tense or modal tag such as *[pu](/glossary/#valsi-pu)* or *[bai](/glossary/#valsi-bai)*. Afterthought termsets are formed by linking terms together by inserting the cmavo *[ce'e](/glossary/#valsi-cehe)* (of selma'o CEhE) between each of them. Furthermore, the logical connective (which is a jek) must be prefixed by the cmavo *[pe'e](/glossary/#valsi-pehe)* (of selma'o PEhE). (We could refer to the combination of *[pe'e](/glossary/#valsi-pehe)* and a jek as a “pehejek”, I suppose.)
 
-### Example 14.72.
+##### Example 14.72.
 
 |     |       |        |        |         |          |        |
 | --- | ----- | ------ | ------ | ------- | -------- | ------ |
 | mi  | klama | le     | zarci  | ce'e    | le       | briju  |
-| I   | go    | to-the | market | \[plus] | from-the | office |
+| I   | go    | to-the | market | \[plus\] | from-the | office |
 
 |          |     |        |       |         |          |         |
 | -------- | --- | ------ | ----- | ------- | -------- | ------- |
 | pe'e     | je  | le     | zdani | ce'e    | le       | ckule   |
-| \[joint] | and | to-the | house | \[plus] | from-the | school. |
+| \[joint\] | and | to-the | house | \[plus\] | from-the | school. |
 
 
 
-The literal translation uses “\[plus]” to indicate the termset connective, and “\[joint]” to indicate the position of the logical connective joint. As usual, there is an equivalent bridi-connection form:
+The literal translation uses “\[plus\]” to indicate the termset connective, and “\[joint\]” to indicate the position of the logical connective joint. As usual, there is an equivalent bridi-connection form:
 
-### Example 14.73.
+##### Example 14.73.
 
 |     |       |        |        |          |         |
 | --- | ----- | ------ | ------ | -------- | ------- |
@@ -1206,18 +1206,18 @@ which illustrates that the two bridi differ in the x2 and x3 places only.
 
 What happens if the two joined sets of terms are of unequal length? Expanding to bridi connection will always make clear which term goes in which place of which bridi. It can happen that a sumti may fall in the x2 place of one bridi and the x3 place of another:
 
-### Example 14.74.
+##### Example 14.74.
 
 |     |          |     |     |         |        |        |     |       |             |         |
 | --- | -------- | --- | --- | ------- | ------ | ------ | --- | ----- | ----------- | ------- |
 | mi  | pe'e     | ja  | do  | ce'e    | le     | zarci  | cu  | klama | le          | briju   |
-| I   | \[joint] | or  | you | \[plus] | to-the | market |     | go    | to/from-the | office. |
+| I   | \[joint\] | or  | you | \[plus\] | to-the | market |     | go    | to/from-the | office. |
 
 
 
 can be clearly understood by expansion to:
 
-### Example 14.75.
+##### Example 14.75.
 
 |     |       |        |         |      |     |        |        |     |       |
 | --- | ----- | ------ | ------- | ---- | --- | ------ | ------ | --- | ----- |
@@ -1231,9 +1231,9 @@ can be clearly understood by expansion to:
 
 
 
-So _le briju_ is your origin but my destination, and thus falls in the x2 and x3 places of _[klama](glossary#valsi-klama)_ simultaneously! This is legal because even though there is only one selbri, _[klama](glossary#valsi-klama)_, there are two distinct bridi expressed here. In addition, _[mi](glossary#valsi-mi)_ in [Example 14.74](chapter14#example-random-id-yYsr "Example 14.74. ") is serving as a termset containing only one term. An analogous paradox applies to compound bridi with tail-terms and unequal numbers of sumti within the connected bridi-tails:
+So *le briju* is your origin but my destination, and thus falls in the x2 and x3 places of *[klama](/glossary/#valsi-klama)* simultaneously! This is legal because even though there is only one selbri, *[klama](/glossary/#valsi-klama)*, there are two distinct bridi expressed here. In addition, *[mi](/glossary/#valsi-mi)* in [Example 14.74](/chapter14/#example-random-id-yYsr "Example 14.74. ") is serving as a termset containing only one term. An analogous paradox applies to compound bridi with tail-terms and unequal numbers of sumti within the connected bridi-tails:
 
-### Example 14.76.
+##### Example 14.76.
 
 |     |     |       |        |        |      |        |     |             |         |
 | --- | --- | ----- | ------ | ------ | ---- | ------ | --- | ----------- | ------- |
@@ -1242,33 +1242,33 @@ So _le briju_ is your origin but my destination, and thus falls in the x2 and x3
 
 
 
-means that I go to the market from the office, and I walk to the office; _le briju_ is the x3 place of _[klama](glossary#valsi-klama)_ and the x2 place of _[dzukla](glossary#valsi-dzukla)_.
+means that I go to the market from the office, and I walk to the office; *le briju* is the x3 place of *[klama](/glossary/#valsi-klama)* and the x2 place of *[dzukla](/glossary/#valsi-dzukla)*.
 
-Forethought termsets also exist, and use _[nu'i](glossary#valsi-nuhi)_ of selma'o NUhI to signal the beginning and _[nu'u](glossary#valsi-nuhu)_ of selma'o NUhU (an elidable terminator) to signal the end. Nothing is inserted between the individual terms: they simply sit side-by-side. To make a logical connection in a forethought termset, use a gek, with the gek just after the _[nu'i](glossary#valsi-nuhi)_, and an extra _[nu'u](glossary#valsi-nuhu)_ just before the gik:
+Forethought termsets also exist, and use *[nu'i](/glossary/#valsi-nuhi)* of selma'o NUhI to signal the beginning and *[nu'u](/glossary/#valsi-nuhu)* of selma'o NUhU (an elidable terminator) to signal the end. Nothing is inserted between the individual terms: they simply sit side-by-side. To make a logical connection in a forethought termset, use a gek, with the gek just after the *[nu'i](/glossary/#valsi-nuhi)*, and an extra *[nu'u](/glossary/#valsi-nuhu)* just before the gik:
 
-### Example 14.77.
+##### Example 14.77.
 
 |     |       |                  |      |        |        |          |        |
 | --- | ----- | ---------------- | ---- | ------ | ------ | -------- | ------ |
 | mi  | klama | nu'i             | ge   | le     | zarci  | le       | briju  |
-| I   | go    | \[start-termset] | both | to-the | market | from-the | office |
+| I   | go    | \[start-termset\] | both | to-the | market | from-the | office |
 
 |          |     |        |       |          |        |                 |
 | -------- | --- | ------ | ----- | -------- | ------ | --------------- |
-| nu'u     | gi  | le     | zdani | le       | ckule  | \[nu'u]         |
-| \[joint] | and | to-the | house | from-the | school | \[end-termset]. |
+| nu'u     | gi  | le     | zdani | le       | ckule  | \[nu'u\]         |
+| \[joint\] | and | to-the | house | from-the | school | \[end-termset\]. |
 
 
 
-Note that even though two termsets are being connected, only one _[nu'i](glossary#valsi-nuhi)_ is used.
+Note that even though two termsets are being connected, only one *[nu'i](/glossary/#valsi-nuhi)* is used.
 
-The grammatical uses of termsets that do not contain logical connectives are explained in [Section 9.8](chapter09#section-modal-connectives "9.8. Other modal connections"), [Section 10.25](chapter10#section-explicit-magnitudes "10.25. Explicit magnitudes"), and [Section 16.7](chapter16#section-quantifier-grouping "16.7. Grouping of quantifiers").
+The grammatical uses of termsets that do not contain logical connectives are explained in [Section 9.8](/chapter09/#section-modal-connectives "9.8. Other modal connections"), [Section 10.25](/chapter10/#section-explicit-magnitudes "10.25. Explicit magnitudes"), and [Section 16.7](/chapter16/#section-quantifier-grouping "16.7. Grouping of quantifiers").
 
 ## Logical connection within tanru
 
-As noted at the beginning of [Section 14.9](chapter14#section-compound-bridi "14.9. Compound bridi"), there is no logical connective in Lojban that joins selbri and nothing but selbri. However, it is possible to have logical connectives within a selbri, forming a kind of tanru that involves a logical connection. Consider the simple tanru _blanu zdani_, blue house. Now anything that is a blue ball, in the most ordinary understanding of the phrase at least, is both blue and a ball. And indeed, instead of _blanu bolci_, Lojbanists can say _blanu je bolci_, using a jek connective within the tanru. (We saw jeks used in [Section 14.11](chapter14#section-termsets "14.11. Termset logical connection") also, but there they were always prefixed by _[pe'e](glossary#valsi-pehe)_; in this section they are used alone.) Here is a pair of examples:
+As noted at the beginning of [Section 14.9](/chapter14/#section-compound-bridi "14.9. Compound bridi"), there is no logical connective in Lojban that joins selbri and nothing but selbri. However, it is possible to have logical connectives within a selbri, forming a kind of tanru that involves a logical connection. Consider the simple tanru *blanu zdani*, blue house. Now anything that is a blue ball, in the most ordinary understanding of the phrase at least, is both blue and a ball. And indeed, instead of *blanu bolci*, Lojbanists can say *blanu je bolci*, using a jek connective within the tanru. (We saw jeks used in [Section 14.11](/chapter14/#section-termsets "14.11. Termset logical connection") also, but there they were always prefixed by *[pe'e](/glossary/#valsi-pehe)*; in this section they are used alone.) Here is a pair of examples:
 
-### Example 14.78.
+##### Example 14.78.
 
 |      |                   |        |
 | ---- | ----------------- | ------ |
@@ -1277,7 +1277,7 @@ As noted at the beginning of [Section 14.9](chapter14#section-compound-bridi "14
 
 
 
-### Example 14.79.
+##### Example 14.79.
 
 |      |         |     |             |
 | ---- | ------- | --- | ----------- |
@@ -1286,19 +1286,19 @@ As noted at the beginning of [Section 14.9](chapter14#section-compound-bridi "14
 
 
 
-But of course [Example 14.78](chapter14#example-random-id-qGoH "Example 14.78. ") and [Example 14.79](chapter14#example-random-id-qgoW "Example 14.79. ") are not necessarily equivalent in meaning! It is the most elementary point about Lojban tanru that [Example 14.78](chapter14#example-random-id-qGoH "Example 14.78. ") might just as well mean
+But of course [Example 14.78](/chapter14/#example-random-id-qGoH "Example 14.78. ") and [Example 14.79](/chapter14/#example-random-id-qgoW "Example 14.79. ") are not necessarily equivalent in meaning! It is the most elementary point about Lojban tanru that [Example 14.78](/chapter14/#example-random-id-qGoH "Example 14.78. ") might just as well mean
 
-### Example 14.80.
+##### Example 14.80.
 
 This is a house for blue inhabitants.
 
 
 
-and [Example 14.79](chapter14#example-random-id-qgoW "Example 14.79. ") certainly is not equivalent in meaning to [Example 14.80](chapter14#example-random-id-DxVB "Example 14.80. ").
+and [Example 14.79](/chapter14/#example-random-id-qgoW "Example 14.79. ") certainly is not equivalent in meaning to [Example 14.80](/chapter14/#example-random-id-DxVB "Example 14.80. ").
 
-A full explanation of logical connection within tanru belongs rather to a discussion of selbri structure than to logical connectives in general. Why? Because although [Example 14.79](chapter14#example-random-id-qgoW "Example 14.79. ") happens to mean the same as
+A full explanation of logical connection within tanru belongs rather to a discussion of selbri structure than to logical connectives in general. Why? Because although [Example 14.79](/chapter14/#example-random-id-qgoW "Example 14.79. ") happens to mean the same as
 
-### Example 14.81.
+##### Example 14.81.
 
 ti blanu gi'e zdani
 
@@ -1306,7 +1306,7 @@ ti blanu gi'e zdani
 
 and therefore as
 
-### Example 14.82.
+##### Example 14.82.
 
 ti blanu .ije ti zdani
 
@@ -1314,7 +1314,7 @@ ti blanu .ije ti zdani
 
 the rule of expansion into separate bridi simply does not always work for tanru connection. Supposing Alice to be a person who lives in blue houses, then
 
-### Example 14.83.
+##### Example 14.83.
 
 |            |        |     |        |       |     |       |     |                 |
 | ---------- | ------ | --- | ------ | ----- | --- | ----- | --- | --------------- |
@@ -1325,7 +1325,7 @@ the rule of expansion into separate bridi simply does not always work for tanru 
 
 would be true, because tanru grouping with a jek has higher precedence than unmarked tanru grouping, but:
 
-### Example 14.84.
+##### Example 14.84.
 
 |            |        |     |      |       |         |
 | ---------- | ------ | --- | ---- | ----- | ------- |
@@ -1341,9 +1341,9 @@ would be true, because tanru grouping with a jek has higher precedence than unma
 
 is probably false, because the blueness is associated with the house, not with Alice, even leaving aside the question of what it means to say “Alice is a blue person”. (Perhaps she belongs to the Blue team, or is wearing blue clothes.) The semantic ambiguity of tanru make such logical manipulations impossible.
 
-It suffices to note here, then, a few purely grammatical points about tanru logical connection. _[bo](glossary#valsi-bo)_ may be appended to jeks as to eks, with the same rules:
+It suffices to note here, then, a few purely grammatical points about tanru logical connection. *[bo](/glossary/#valsi-bo)* may be appended to jeks as to eks, with the same rules:
 
-### Example 14.85.
+##### Example 14.85.
 
 |            |        |     |         |     |       |      |          |
 | ---------- | ------ | --- | ------- | --- | ----- | ---- | -------- |
@@ -1352,35 +1352,35 @@ It suffices to note here, then, a few purely grammatical points about tanru logi
 
 
 
-The components of tanru may be grouped with _[ke](glossary#valsi-ke)_ both before and after a logical connective:
+The components of tanru may be grouped with *[ke](/glossary/#valsi-ke)* both before and after a logical connective:
 
-### Example 14.86.
+##### Example 14.86.
 
 |            |         |     |       |         |     |         |         |
 | ---------- | ------- | --- | ----- | ------- | --- | ------- | ------- |
-| la         | .teris. | cu  | \[ke] | ricfu   | ja  | pindi   | \[ke'e] |
+| la         | .teris. | cu  | \[ke\] | ricfu   | ja  | pindi   | \[ke'e\] |
 | That-named | Terry   |     | (     | is-rich | or  | is-poor | )       |
 
 |     |     |       |     |        |         |
 | --- | --- | ----- | --- | ------ | ------- |
-| je  | ke  | nakni | ja  | fetsi  | \[ke'e] |
+| je  | ke  | nakni | ja  | fetsi  | \[ke'e\] |
 | and | (   | male  | or  | female | ).      |
 
 
 
-where the first _[ke'e](glossary#valsi-kehe)_ pair may be omitted altogether by the rule of left-grouping, but is optionally permitted. In any case, the last instance of _[ke'e](glossary#valsi-kehe)_ may be elided.
+where the first *[ke'e](/glossary/#valsi-kehe)* pair may be omitted altogether by the rule of left-grouping, but is optionally permitted. In any case, the last instance of *[ke'e](/glossary/#valsi-kehe)* may be elided.
 
 The syntax of jeks is:
 
-> \[na] \[se] JA \[nai]
+> \[na\] \[se\] JA \[nai\]
 
 parallel to eks and giheks.
 
-> \[se] GUhA \[nai]
+> \[se\] GUhA \[nai\]
 
 Using guheks in tanru connection (rather than geks) resolves what would otherwise be an unacceptable ambiguity between bridi-tail and tanru connection:
 
-### Example 14.87.
+##### Example 14.87.
 
 |            |        |         |       |     |         |
 | ---------- | ------ | ------- | ----- | --- | ------- |
@@ -1391,7 +1391,7 @@ Using guheks in tanru connection (rather than geks) resolves what would otherwis
 
 Note that giks are used with guheks in exactly the same way they are used with geks. Like jeks, guheks bind more closely than unmarked tanru grouping does:
 
-### Example 14.88.
+##### Example 14.88.
 
 |            |        |            |       |     |          |                 |
 | ---------- | ------ | ---------- | ----- | --- | -------- | --------------- |
@@ -1400,11 +1400,11 @@ Note that giks are used with guheks in exactly the same way they are used with g
 
 
 
-is the forethought version of [Example 14.83](chapter14#example-random-id-DG5K "Example 14.83. ").
+is the forethought version of [Example 14.83](/chapter14/#example-random-id-DG5K "Example 14.83. ").
 
 A word of caution about the use of logically connected tanru within descriptions. English-based intuition can lead the speaker astray. In correctly reducing
 
-### Example 14.89.
+##### Example 14.89.
 
 |     |       |     |       |      |     |       |     |        |
 | --- | ----- | --- | ----- | ---- | --- | ----- | --- | ------ |
@@ -1415,7 +1415,7 @@ A word of caution about the use of logically connected tanru within descriptions
 
 to
 
-### Example 14.90.
+##### Example 14.90.
 
 |     |       |     |       |     |     |        |
 | --- | ----- | --- | ----- | --- | --- | ------ |
@@ -1426,7 +1426,7 @@ to
 
 there is a great temptation to reduce further to:
 
-### Example 14.91.
+##### Example 14.91.
 
 |     |       |     |       |     |        |
 | --- | ----- | --- | ----- | --- | ------ |
@@ -1435,15 +1435,15 @@ there is a great temptation to reduce further to:
 
 
 
-But [Example 14.91](chapter14#example-random-id-ag8r "Example 14.91. ") means that you see one thing which is both a man and a woman simultaneously! A _nanmu je ninmu_ is a manwoman, a presumably non-existent creature who is both a _[nanmu](glossary#valsi-nanmu)_ and a _[ninmu](glossary#valsi-ninmu)_.
+But [Example 14.91](/chapter14/#example-random-id-ag8r "Example 14.91. ") means that you see one thing which is both a man and a woman simultaneously! A *nanmu je ninmu* is a manwoman, a presumably non-existent creature who is both a *[nanmu](/glossary/#valsi-nanmu)* and a *[ninmu](/glossary/#valsi-ninmu)*.
 
 ## Truth questions and connective questions
 
 So far we have addressed only sentences which are statements. Lojban, like all human languages, needs also to deal with sentences which are questions. There are many ways of asking questions in Lojban, but some of these (like questions about quantity, tense, and emotion) are discussed in other chapters.
 
-The simplest kind of question is of the type “Is it true that ...” where some statement follows. This type is called a “truth question”, and can be represented in English by [Example 14.92](chapter14#example-random-id-bMjE "Example 14.92. "):
+The simplest kind of question is of the type “Is it true that ...” where some statement follows. This type is called a “truth question”, and can be represented in English by [Example 14.92](/chapter14/#example-random-id-bMjE "Example 14.92. "):
 
-### Example 14.92.
+##### Example 14.92.
 
 Is it true that Fido is a dog?
 
@@ -1451,9 +1451,9 @@ Is Fido a dog?
 
 
 
-Note the two formulations. English truth questions can always be formed by prefixing “Is is true that” to the beginning of a statement; there is also usually a more idiomatic way involving putting the verb before its subject. “Is Fido a dog?” is the truth question corresponding to “Fido is a dog”. In Lojban, the equivalent mechanism is to prefix the cmavo _[xu](glossary#valsi-xu)_ (of selma'o UI) to the statement:
+Note the two formulations. English truth questions can always be formed by prefixing “Is is true that” to the beginning of a statement; there is also usually a more idiomatic way involving putting the verb before its subject. “Is Fido a dog?” is the truth question corresponding to “Fido is a dog”. In Lojban, the equivalent mechanism is to prefix the cmavo *[xu](/glossary/#valsi-xu)* (of selma'o UI) to the statement:
 
-### Example 14.93.
+##### Example 14.93.
 
 |                 |            |         |           |
 | --------------- | ---------- | ------- | --------- |
@@ -1462,11 +1462,11 @@ Note the two formulations. English truth questions can always be formed by prefi
 
 
 
-[Example 14.92](chapter14#example-random-id-bMjE "Example 14.92. ") and [Example 14.93](chapter14#example-random-id-gKaM "Example 14.93. ") are equivalent in meaning.
+[Example 14.92](/chapter14/#example-random-id-bMjE "Example 14.92. ") and [Example 14.93](/chapter14/#example-random-id-gKaM "Example 14.93. ") are equivalent in meaning.
 
-A truth question can be answered “yes” or “no”, depending on the truth or falsity, respectively, of the underlying statement. The standard way of saying “yes” in Lojban is _[go'i](glossary#valsi-gohi)_ and of saying “no” is _[go'i](glossary#valsi-gohi)_. (The reasons for this rule are explained in [Section 7.6](chapter07#section-ri-gohi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").) In answer to [Example 14.93](chapter14#example-random-id-gKaM "Example 14.93. "), the possible answers are:
+A truth question can be answered “yes” or “no”, depending on the truth or falsity, respectively, of the underlying statement. The standard way of saying “yes” in Lojban is *[go'i](/glossary/#valsi-gohi)* and of saying “no” is *[go'i](/glossary/#valsi-gohi)*. (The reasons for this rule are explained in [Section 7.6](/chapter07/#section-ri-gohi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").) In answer to [Example 14.93](/chapter14/#example-random-id-gKaM "Example 14.93. "), the possible answers are:
 
-### Example 14.94.
+##### Example 14.94.
 
 |      |
 | ---- |
@@ -1480,7 +1480,7 @@ A truth question can be answered “yes” or “no”, depending on the truth o
 
 and
 
-### Example 14.95.
+##### Example 14.95.
 
 |        |
 | ------ |
@@ -1494,23 +1494,23 @@ and
 
 Some English questions seemingly have the same form as the truth questions so far discussed. Consider
 
-### Example 14.96.
+##### Example 14.96.
 
 Is Fido a dog or a cat?
 
 
 
-Superficially, [Example 14.96](chapter14#example-random-id-mftC "Example 14.96. ") seems like a truth question with the underlying statement:
+Superficially, [Example 14.96](/chapter14/#example-random-id-mftC "Example 14.96. ") seems like a truth question with the underlying statement:
 
-### Example 14.97.
+##### Example 14.97.
 
 Fido is a dog or a cat.
 
 
 
-By translating [Example 14.97](chapter14#example-random-id-n6Ec "Example 14.97. ") into Lojban and prefixing _[xu](glossary#valsi-xu)_ to signal a truth question, we get:
+By translating [Example 14.97](/chapter14/#example-random-id-n6Ec "Example 14.97. ") into Lojban and prefixing *[xu](/glossary/#valsi-xu)* to signal a truth question, we get:
 
-### Example 14.98.
+##### Example 14.98.
 
 |                 |            |         |          |         |          |                 |
 | --------------- | ---------- | ------- | -------- | ------- | -------- | --------------- |
@@ -1519,9 +1519,9 @@ By translating [Example 14.97](chapter14#example-random-id-n6Ec "Example 14.97. 
 
 
 
-Given that Fido really is either a dog or a cat, the appropriate answer would be _[go'i](glossary#valsi-gohi)_; if Fido were a fish, the appropriate answer would be _[go'i](glossary#valsi-gohi)_.
+Given that Fido really is either a dog or a cat, the appropriate answer would be *[go'i](/glossary/#valsi-gohi)*; if Fido were a fish, the appropriate answer would be *[go'i](/glossary/#valsi-gohi)*.
 
-But that is not what an English-speaker who utters [Example 14.96](chapter14#example-random-id-mftC "Example 14.96. ") is asking! The true significance of [Example 14.96](chapter14#example-random-id-mftC "Example 14.96. ") is that the speaker desires to know the truth value of either of the two underlying bridi (it is presupposed that only one is true).
+But that is not what an English-speaker who utters [Example 14.96](/chapter14/#example-random-id-mftC "Example 14.96. ") is asking! The true significance of [Example 14.96](/chapter14/#example-random-id-mftC "Example 14.96. ") is that the speaker desires to know the truth value of either of the two underlying bridi (it is presupposed that only one is true).
 
 Lojban has an elegant mechanism for rendering this kind of question which is very unlike that used in English. Instead of asking about the truth value of the connected bridi, Lojban users ask about the truth function which connects them. This is done by using a special question cmavo: there is one of these for each of the logical connective selma'o, as shown by the following table:
 
@@ -1533,22 +1533,22 @@ Lojban has an elegant mechanism for rendering this kind of question which is ver
 | je'i | JA   | tanru connective question             |
 | ji   | A    | sumti connective question             |
 
-(This list unfortunately departs from the pretty regularity of the other cmavo for logical connection. The two-syllable selma'o, GIhA and GUhA, make use of the cmavo ending in “-i” which is not used for a truth function, but _[gi](glossary#valsi-gi)_ and _[i](glossary#valsi-i)_ were not available, and different cmavo had to be chosen. This table must simply be memorized, like most other non-connective cmavo assignments.)
+(This list unfortunately departs from the pretty regularity of the other cmavo for logical connection. The two-syllable selma'o, GIhA and GUhA, make use of the cmavo ending in “-i” which is not used for a truth function, but *[gi](/glossary/#valsi-gi)* and *[i](/glossary/#valsi-i)* were not available, and different cmavo had to be chosen. This table must simply be memorized, like most other non-connective cmavo assignments.)
 
-One correct translation of [Example 14.96](chapter14#example-random-id-mftC "Example 14.96. ") employs a question gihek:
+One correct translation of [Example 14.96](/chapter14/#example-random-id-mftC "Example 14.96. ") employs a question gihek:
 
-### Example 14.99.
+##### Example 14.99.
 
 |            |        |          |                    |           |
 | ---------- | ------ | -------- | ------------------ | --------- |
 | la         | .alis. | gerku    | gi'i               | mlatu     |
-| That-named | Alice  | is-a-dog | \[truth-function?] | is-a-cat? |
+| That-named | Alice  | is-a-dog | \[truth-function?\] | is-a-cat? |
 
 
 
 Here are some plausible answers:
 
-### Example 14.100.
+##### Example 14.100.
 
 |        |
 | ------ |
@@ -1560,7 +1560,7 @@ Here are some plausible answers:
 
 
 
-### Example 14.101.
+##### Example 14.101.
 
 |         |
 | ------- |
@@ -1572,7 +1572,7 @@ Here are some plausible answers:
 
 
 
-### Example 14.102.
+##### Example 14.102.
 
 |           |
 | --------- |
@@ -1584,7 +1584,7 @@ Here are some plausible answers:
 
 
 
-### Example 14.103.
+##### Example 14.103.
 
 |         |
 | ------- |
@@ -1597,13 +1597,13 @@ Here are some plausible answers:
 
 
 
-[Example 14.103](chapter14#example-random-id-qGRz "Example 14.103. ") is correct but uncooperative.
+[Example 14.103](/chapter14/#example-random-id-qGRz "Example 14.103. ") is correct but uncooperative.
 
 As usual, Lojban questions are answered by filling in the blank left by the question. Here the blank is a logical connective, and therefore it is grammatical in Lojban to utter a bare logical connective without anything for it to connect.
 
-The answer _[gi'e](glossary#valsi-gihe)_, meaning that Alice is a dog and is a cat, is impossible in the real world, but for:
+The answer *[gi'e](/glossary/#valsi-gihe)*, meaning that Alice is a dog and is a cat, is impossible in the real world, but for:
 
-### Example 14.104.
+##### Example 14.104.
 
 |     |        |                 |           |        |
 | --- | ------ | --------------- | --------- | ------ |
@@ -1613,7 +1613,7 @@ The answer _[gi'e](glossary#valsi-gihe)_, meaning that Alice is a dog and is a c
 |                    |           |       |
 | ------------------ | --------- | ----- |
 | ji                 | loi       | tcati |
-| \[truth-function?] | a-mass-of | tea?  |
+| \[truth-function?\] | a-mass-of | tea?  |
 
 |                            |
 | -------------------------- |
@@ -1621,21 +1621,21 @@ The answer _[gi'e](glossary#valsi-gihe)_, meaning that Alice is a dog and is a c
 
 
 
-the answer _[e](glossary#valsi-e)_, meaning that I want both, is perfectly plausible, if not necessarily polite.
+the answer *[e](/glossary/#valsi-e)*, meaning that I want both, is perfectly plausible, if not necessarily polite.
 
-The forethought questions _[ge'i](glossary#valsi-gehi)_ and _[gu'i](glossary#valsi-guhi)_ are used like the others, but ambiguity forbids the use of isolated forethought connectives as answers – they sound like the start of forethought-connected bridi. So although [Example 14.105](chapter14#example-random-id-286J "Example 14.105. ") is the forethought version of [Example 14.104](chapter14#example-random-id-xtIf "Example 14.104. "):
+The forethought questions *[ge'i](/glossary/#valsi-gehi)* and *[gu'i](/glossary/#valsi-guhi)* are used like the others, but ambiguity forbids the use of isolated forethought connectives as answers – they sound like the start of forethought-connected bridi. So although [Example 14.105](/chapter14/#example-random-id-286J "Example 14.105. ") is the forethought version of [Example 14.104](/chapter14/#example-random-id-xtIf "Example 14.104. "):
 
-### Example 14.105.
+##### Example 14.105.
 
 |     |        |                 |                    |           |        |
 | --- | ------ | --------------- | ------------------ | --------- | ------ |
 | do  | djica  | tu'a            | ge'i               | loi       | ckafi  |
-| You | desire | something-about | \[truth-function?] | a-mass-of | coffee |
+| You | desire | something-about | \[truth-function?\] | a-mass-of | coffee |
 
 |       |           |       |
 | ----- | --------- | ----- |
 | gi    | loi       | tcati |
-| \[or] | a-mass-of | tea?  |
+| \[or\] | a-mass-of | tea?  |
 
 
 
@@ -1643,41 +1643,41 @@ the answer must be in afterthought form.
 
 There are natural languages, notably Chinese, which employ the Lojbanic form of connective question. The Chinese sentence
 
-### Example 14.106.
+##### Example 14.106.
 
 |                         |
 | ----------------------- |
-| _ni3 zou3 hai2shi pao3_ |
-| You walk \[or?] run?    |
+| *ni3 zou3 hai2shi pao3* |
+| You walk \[or?\] run?    |
 
 
 
 means “Do you walk or run?”, and is exactly parallel to the Lojban:
 
-### Example 14.107.
+##### Example 14.107.
 
 |     |       |        |       |
 | --- | ----- | ------ | ----- |
 | do  | cadzu | gi'i   | bajra |
-| You | walk  | \[or?] | run?  |
+| You | walk  | \[or?\] | run?  |
 
 
 
 However, Chinese does not use logical connectives in the reply to such a question, so the resemblance, though striking, is superficial.
 
-Truth questions may be used in bridi connection. This form of sentence is perfectly legitimate, and can be interpreted by using the convention that a truth question is true if the answer is “yes” and false if the answer is _[no](glossary#valsi-no)_. Analogously, an imperative sentence (involving the special pro-sumti _[ko](glossary#valsi-ko)_, which means “you” but marks the sentence as a command) is true if the command is obeyed, and false otherwise. A request of Abraham Lincoln's may be translated thus:
+Truth questions may be used in bridi connection. This form of sentence is perfectly legitimate, and can be interpreted by using the convention that a truth question is true if the answer is “yes” and false if the answer is *[no](/glossary/#valsi-no)*. Analogously, an imperative sentence (involving the special pro-sumti *[ko](/glossary/#valsi-ko)*, which means “you” but marks the sentence as a command) is true if the command is obeyed, and false otherwise. A request of Abraham Lincoln's may be translated thus:
 
-### Example 14.108.
+##### Example 14.108.
 
 |       |      |           |      |         |       |           |       |        |
 | ----- | ---- | --------- | ---- | ------- | ----- | --------- | ----- | ------ |
 | ganai | ti   | ckafi     | gi   | ko      | bevri | loi       | tcati | mi     |
-| If    | this | is-coffee | then | \[you!] | bring | a-mass-of | tea   | to-me, |
+| If    | this | is-coffee | then | \[you!\] | bring | a-mass-of | tea   | to-me, |
 
 |      |       |      |        |      |         |       |           |        |        |
 | ---- | ----- | ---- | ------ | ---- | ------- | ----- | --------- | ------ | ------ |
 | .ije | ganai | ti   | tcati  | gi   | ko      | bevri | loi       | ckafi  | mi     |
-| and  | if    | this | is-tea | then | \[you!] | bring | a-mass-of | coffee | to-me. |
+| and  | if    | this | is-tea | then | \[you!\] | bring | a-mass-of | coffee | to-me. |
 
 |                                                                       |
 | --------------------------------------------------------------------- |
@@ -1685,13 +1685,13 @@ Truth questions may be used in bridi connection. This form of sentence is perfec
 
 
 
-In logical terms, however, “but” is the same as “and”; the difference is that the sentence after a “but” is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo _[ku'i](glossary#valsi-kuhi)_ (of selma'o UI), which is explained in [Section 13.12](chapter13#section-discursives "13.12. Discursives"), to the logical _[je](glossary#valsi-je)_.)
+In logical terms, however, “but” is the same as “and”; the difference is that the sentence after a “but” is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo *[ku'i](/glossary/#valsi-kuhi)* (of selma'o UI), which is explained in [Section 13.12](/chapter13/#section-discursives "13.12. Discursives"), to the logical *[je](/glossary/#valsi-je)*.)
 
 ## Non-logical connectives
 
-Way back in [Section 14.1](chapter14#section-connectives-introduction "14.1. Logical connection and truth tables"), the point was made that not every use of English “and”, “if ... then”, and so on represents a Lojban logical connective. In particular, consider the “and” of:
+Way back in [Section 14.1](/chapter14/#section-connectives-introduction "14.1. Logical connection and truth tables"), the point was made that not every use of English “and”, “if ... then”, and so on represents a Lojban logical connective. In particular, consider the “and” of:
 
-### Example 14.109.
+##### Example 14.109.
 
 John and Alice carried the piano.
 
@@ -1699,15 +1699,15 @@ John and Alice carried the piano.
 
 Given the nature of pianos, this probably means that John carried one end and Alice the other. So it is not true that:
 
-### Example 14.110.
+##### Example 14.110.
 
 John carried the piano, and Alice carried the piano.
 
 
 
-which would mean that each of them carried the piano by himself/herself. Lojban deals with this particular linguistic phenomenon as a “mass”. John and Alice are joined together into a mass, John-and-Alice, and it is this mass which carried the piano, not either of them separately. The cmavo _[joi](glossary#valsi-joi)_ (of selma'o JOI) is used to join two or more components into a mass:
+which would mean that each of them carried the piano by himself/herself. Lojban deals with this particular linguistic phenomenon as a “mass”. John and Alice are joined together into a mass, John-and-Alice, and it is this mass which carried the piano, not either of them separately. The cmavo *[joi](/glossary/#valsi-joi)* (of selma'o JOI) is used to join two or more components into a mass:
 
-### Example 14.111.
+##### Example 14.111.
 
 |            |       |             |            |        |     |       |     |        |
 | ---------- | ----- | ----------- | ---------- | ------ | --- | ----- | --- | ------ |
@@ -1716,26 +1716,26 @@ which would mean that each of them carried the piano by himself/herself. Lojban 
 
 
 
-[Example 14.111](chapter14#example-random-id-pC5x "Example 14.111. ") covers the case mentioned, where John and Alice divide the labor; it also could mean that John did all the hauling and Alice did the supervising. This possibility arises because the properties of a mass are the properties of its components, which can lead to apparent contradictions: if John is small and Alice is large, then John-and-Alice is both small and large. Masses are also discussed in [Section 6.3](chapter06#section-masses "6.3. Individuals and masses").
+[Example 14.111](/chapter14/#example-random-id-pC5x "Example 14.111. ") covers the case mentioned, where John and Alice divide the labor; it also could mean that John did all the hauling and Alice did the supervising. This possibility arises because the properties of a mass are the properties of its components, which can lead to apparent contradictions: if John is small and Alice is large, then John-and-Alice is both small and large. Masses are also discussed in [Section 6.3](/chapter06/#section-masses "6.3. Individuals and masses").
 
-Grammatically, _[joi](glossary#valsi-joi)_ can appear between two sumti (like an ek) or between two tanru components (like a jek). This flexibility must be paid for in the form of occasional terminators that cannot be elided:
+Grammatically, *[joi](/glossary/#valsi-joi)* can appear between two sumti (like an ek) or between two tanru components (like a jek). This flexibility must be paid for in the form of occasional terminators that cannot be elided:
 
-### Example 14.112.
+##### Example 14.112.
 
 |     |       |     |             |     |       |       |     |       |     |         |
 | --- | ----- | --- | ----------- | --- | ----- | ----- | --- | ----- | --- | ------- |
-| le  | nanmu | ku  | joi         | le  | ninmu | \[ku] | cu  | klama | le  | zarci   |
+| le  | nanmu | ku  | joi         | le  | ninmu | \[ku\] | cu  | klama | le  | zarci   |
 | The | man   |     | massed-with | the | woman |       |     | go-to | the | market. |
 
 
 
-The cmavo _[ku](glossary#valsi-ku)_ is the elidable terminator for _[le](glossary#valsi-le)_, which can almost always be elided, but not in this case. If the first _[ku](glossary#valsi-ku)_ were elided here, Lojban's parsing rules would see _le nanmu joi_ and assume that another tanru component is to follow; since the second _[le](glossary#valsi-le)_ cannot be part of a tanru, a parsing error results. No such problem can occur with logical connectives, because an ek signals a following sumti and a jek a following tanru component unambiguously.
+The cmavo *[ku](/glossary/#valsi-ku)* is the elidable terminator for *[le](/glossary/#valsi-le)*, which can almost always be elided, but not in this case. If the first *[ku](/glossary/#valsi-ku)* were elided here, Lojban's parsing rules would see *le nanmu joi* and assume that another tanru component is to follow; since the second *[le](/glossary/#valsi-le)* cannot be part of a tanru, a parsing error results. No such problem can occur with logical connectives, because an ek signals a following sumti and a jek a following tanru component unambiguously.
 
 Single or compound cmavo involving members of selma'o JOI are called joiks, by analogy with the names for logical connectives. It is not grammatical to use joiks to connect bridi-tails.
 
-In tanru, _[joi](glossary#valsi-joi)_ has the connotation “mixed with”, as in the following example:
+In tanru, *[joi](/glossary/#valsi-joi)* has the connotation “mixed with”, as in the following example:
 
-### Example 14.113.
+##### Example 14.113.
 
 |      |            |            |       |       |
 | ---- | ---------- | ---------- | ----- | ----- |
@@ -1748,27 +1748,27 @@ In tanru, _[joi](glossary#valsi-joi)_ has the connotation “mixed with”, as i
 
 
 
-Here the ball is neither wholly blue nor wholly red, but partly blue and partly red. Its blue/redness is a mass property. (Just how blue something has to be to count as “wholly blue” is an unsettled question, though. A _blanu zdani_ may be so even though not every part of it is blue.)
+Here the ball is neither wholly blue nor wholly red, but partly blue and partly red. Its blue/redness is a mass property. (Just how blue something has to be to count as “wholly blue” is an unsettled question, though. A *blanu zdani* may be so even though not every part of it is blue.)
 
 There are several other cmavo in selma'o JOI which can be used in the same grammatical constructions. Not all of them are well-defined as yet in all contexts. All have clear definitions as sumti connectives; those definitions are shown in the following table:
 
 |                                    |                                             |
 | ---------------------------------- | ------------------------------------------- |
-| A _[joi](glossary#valsi-joi)_ B   | the mass with components A and B            |
-| A _[ce](glossary#valsi-ce)_ B     | the set with elements A and B               |
-| A _[ce'o](glossary#valsi-ceho)_ B | the sequence with elements A and B in order |
-| A _[ce'o](glossary#valsi-ceho)_ B | the sequence with elements B and A in order |
-| A _[jo'u](glossary#valsi-johu)_ B | A and B considered jointly                  |
-| A _[fa'u](glossary#valsi-fahu)_ B | A and B respectively                        |
-| A _[fa'u](glossary#valsi-fahu)_ B | B and A respectively                        |
-| A _[jo'e](glossary#valsi-johe)_ B | the union of sets A and B                   |
-| A _[ku'a](glossary#valsi-kuha)_ B | the intersection of sets A and B            |
-| A _[pi'u](glossary#valsi-pihu)_ B | the cross product of sets A and B           |
-| A _[pi'u](glossary#valsi-pihu)_ B | the cross product of sets B and A           |
+| A *[joi](/glossary/#valsi-joi)* B   | the mass with components A and B            |
+| A *[ce](/glossary/#valsi-ce)* B     | the set with elements A and B               |
+| A *[ce'o](/glossary/#valsi-ceho)* B | the sequence with elements A and B in order |
+| A *[ce'o](/glossary/#valsi-ceho)* B | the sequence with elements B and A in order |
+| A *[jo'u](/glossary/#valsi-johu)* B | A and B considered jointly                  |
+| A *[fa'u](/glossary/#valsi-fahu)* B | A and B respectively                        |
+| A *[fa'u](/glossary/#valsi-fahu)* B | B and A respectively                        |
+| A *[jo'e](/glossary/#valsi-johe)* B | the union of sets A and B                   |
+| A *[ku'a](/glossary/#valsi-kuha)* B | the intersection of sets A and B            |
+| A *[pi'u](/glossary/#valsi-pihu)* B | the cross product of sets A and B           |
+| A *[pi'u](/glossary/#valsi-pihu)* B | the cross product of sets B and A           |
 
-The cmavo _[se](glossary#valsi-se)_ is grammatical before any JOI cmavo, but only useful with those that have inherent order. Here are some examples of joiks:
+The cmavo *[se](/glossary/#valsi-se)* is grammatical before any JOI cmavo, but only useful with those that have inherent order. Here are some examples of joiks:
 
-### Example 14.114.
+##### Example 14.114.
 
 |     |        |            |        |                 |        |
 | --- | ------ | ---------- | ------ | --------------- | ------ |
@@ -1786,11 +1786,11 @@ The cmavo _[se](glossary#valsi-se)_ is grammatical before any JOI cmavo, but onl
 
 
 
-The x3 place of _[cuxna](glossary#valsi-cuxna)_ is a set from which the choice is being made. A set is an abstract object which is determined by specifying its members. Unlike those of a mass, the properties of a set are unrelated to its members' properties: the set of all rats is large (since many rats exist), but the rats themselves are small. This chapter does not attempt to explain set theory (the mathematical study of sets) in detail: explaining propositional logic is quite enough for one chapter!
+The x3 place of *[cuxna](/glossary/#valsi-cuxna)* is a set from which the choice is being made. A set is an abstract object which is determined by specifying its members. Unlike those of a mass, the properties of a set are unrelated to its members' properties: the set of all rats is large (since many rats exist), but the rats themselves are small. This chapter does not attempt to explain set theory (the mathematical study of sets) in detail: explaining propositional logic is quite enough for one chapter!
 
-In [Example 14.114](chapter14#example-random-id-cwG8 "Example 14.114. ") we specify that set by listing the members with _[ce](glossary#valsi-ce)_ joining them.
+In [Example 14.114](/chapter14/#example-random-id-cwG8 "Example 14.114. ") we specify that set by listing the members with *[ce](/glossary/#valsi-ce)* joining them.
 
-### Example 14.115.
+##### Example 14.115.
 
 |      |              |     |              |     |              |            |       |
 | ---- | ------------ | --- | ------------ | --- | ------------ | ---------- | ----- |
@@ -1803,11 +1803,11 @@ In [Example 14.114](chapter14#example-random-id-cwG8 "Example 14.114. ") we spec
 
 
 
-The x2 place of _[liste](glossary#valsi-liste)_ is a sequence of the things which are mentioned in the list. (It is worth pointing out that _lo liste_ means a physical object such as a grocery list: a purely abstract list is _lo porsi_, a sequence.) Here the three sumti connected by _[ce'o](glossary#valsi-ceho)_ are in a definite order, not just lumped together in a set or a mass.
+The x2 place of *[liste](/glossary/#valsi-liste)* is a sequence of the things which are mentioned in the list. (It is worth pointing out that *lo liste* means a physical object such as a grocery list: a purely abstract list is *lo porsi*, a sequence.) Here the three sumti connected by *[ce'o](/glossary/#valsi-ceho)* are in a definite order, not just lumped together in a set or a mass.
 
-So _[joi](glossary#valsi-joi)_, _[ce](glossary#valsi-ce)_, and _[ce'o](glossary#valsi-ceho)_ are parallel, in that the sumti connected are taken to be individuals, and the result is something else: a mass, a set, or a sequence respectively. The cmavo _[jo'u](glossary#valsi-johu)_ serves as a fourth element in this pattern: the sumti connected are individuals, and the result is still individuals – but inseparably so. The normal Lojban way of saying that James and George are brothers is:
+So *[joi](/glossary/#valsi-joi)*, *[ce](/glossary/#valsi-ce)*, and *[ce'o](/glossary/#valsi-ceho)* are parallel, in that the sumti connected are taken to be individuals, and the result is something else: a mass, a set, or a sequence respectively. The cmavo *[jo'u](/glossary/#valsi-johu)* serves as a fourth element in this pattern: the sumti connected are individuals, and the result is still individuals – but inseparably so. The normal Lojban way of saying that James and George are brothers is:
 
-### Example 14.116.
+##### Example 14.116.
 
 |            |          |                   |            |         |
 | ---------- | -------- | ----------------- | ---------- | ------- |
@@ -1818,7 +1818,7 @@ So _[joi](glossary#valsi-joi)_, _[ce](glossary#valsi-ce)_, and _[ce'o](glossary#
 
 possibly adding a discursive element meaning “and vice versa”. However, “James and George are brothers” cannot be correctly translated as:
 
-### Example 14.117.
+##### Example 14.117.
 
 |            |          |     |            |         |               |
 | ---------- | -------- | --- | ---------- | ------- | ------------- |
@@ -1827,9 +1827,9 @@ possibly adding a discursive element meaning “and vice versa”. However, “J
 
 
 
-since that expands to two bridi and means that James is a brother and so is George, but not necessarily of each other. If the _[e](glossary#valsi-e)_ is changed to _[jo'u](glossary#valsi-johu)_, however, the meaning of [Example 14.116](chapter14#example-random-id-sy2V "Example 14.116. ") is preserved:
+since that expands to two bridi and means that James is a brother and so is George, but not necessarily of each other. If the *[e](/glossary/#valsi-e)* is changed to *[jo'u](/glossary/#valsi-johu)*, however, the meaning of [Example 14.116](/chapter14/#example-random-id-sy2V "Example 14.116. ") is preserved:
 
-### Example 14.118.
+##### Example 14.118.
 
 |            |          |                |            |
 | ---------- | -------- | -------------- | ---------- |
@@ -1843,9 +1843,9 @@ since that expands to two bridi and means that James is a brother and so is Geor
 
 
 
-The tanru _remei bruna_ is not strictly necessary in this sentence, but is used to make clear that we are not saying that James and George are both brothers of some third person not specified. Alternatively, we could turn the tanru around: the x1 place of _[mei](glossary#valsi-mei)_ is a mass with two components, leading to:
+The tanru *remei bruna* is not strictly necessary in this sentence, but is used to make clear that we are not saying that James and George are both brothers of some third person not specified. Alternatively, we could turn the tanru around: the x1 place of *[mei](/glossary/#valsi-mei)* is a mass with two components, leading to:
 
-### Example 14.119.
+##### Example 14.119.
 
 |            |          |             |
 | ---------- | -------- | ----------- |
@@ -1859,11 +1859,11 @@ The tanru _remei bruna_ is not strictly necessary in this sentence, but is used 
 
 
 
-where _[joi](glossary#valsi-joi)_ is used to create the necessary mass.
+where *[joi](/glossary/#valsi-joi)* is used to create the necessary mass.
 
-Likewise, _[fa'u](glossary#valsi-fahu)_ can be used to put two individuals together where order matters. Typically, there will be another _[fa'u](glossary#valsi-fahu)_ somewhere else in the same bridi:
+Likewise, *[fa'u](/glossary/#valsi-fahu)* can be used to put two individuals together where order matters. Typically, there will be another *[fa'u](/glossary/#valsi-fahu)* somewhere else in the same bridi:
 
-### Example 14.120.
+##### Example 14.120.
 
 |            |          |                       |            |         |
 | ---------- | -------- | --------------------- | ---------- | ------- |
@@ -1881,9 +1881,9 @@ Likewise, _[fa'u](glossary#valsi-fahu)_ can be used to put two individuals toget
 
 
 
-Here the information carried by the English adverb “respectively”, namely that James loves Mary and George loves Martha, is divided between the two occurrences of _[fa'u](glossary#valsi-fahu)_. If both uses of _[fa'u](glossary#valsi-fahu)_ were to be changed to _[e](glossary#valsi-e)_, we would get:
+Here the information carried by the English adverb “respectively”, namely that James loves Mary and George loves Martha, is divided between the two occurrences of *[fa'u](/glossary/#valsi-fahu)*. If both uses of *[fa'u](/glossary/#valsi-fahu)* were to be changed to *[e](/glossary/#valsi-e)*, we would get:
 
-### Example 14.121.
+##### Example 14.121.
 
 |            |          |     |            |         |       |
 | ---------- | -------- | --- | ---------- | ------- | ----- |
@@ -1899,7 +1899,7 @@ Here the information carried by the English adverb “respectively”, namely th
 
 which can be transformed to four bridi:
 
-### Example 14.122.
+##### Example 14.122.
 
 |            |          |       |            |        |      |            |         |       |
 | ---------- | -------- | ----- | ---------- | ------ | ---- | ---------- | ------- | ----- |
@@ -1918,25 +1918,25 @@ which can be transformed to four bridi:
 
 
 
-which represents quite a different state of affairs from [Example 14.120](chapter14#example-random-id-MBsp "Example 14.120. "). The meaning of [Example 14.120](chapter14#example-random-id-MBsp "Example 14.120. ") can also be conveyed by a termset:
+which represents quite a different state of affairs from [Example 14.120](/chapter14/#example-random-id-MBsp "Example 14.120. "). The meaning of [Example 14.120](/chapter14/#example-random-id-MBsp "Example 14.120. ") can also be conveyed by a termset:
 
-### Example 14.123.
+##### Example 14.123.
 
 |            |          |         |            |        |          |
 | ---------- | -------- | ------- | ---------- | ------ | -------- |
 | la         | djeimyz. | ce'e    | la         | meris. | pe'e     |
-| That-named | James    | \[plus] | that-named | Mary   | \[joint] |
+| That-named | James    | \[plus\] | that-named | Mary   | \[joint\] |
 
 |     |            |         |         |            |         |        |
 | --- | ---------- | ------- | ------- | ---------- | ------- | ------ |
 | .e  | la         | djordj. | ce'e    | la         | martas. | prami  |
-| and | that-named | George  | \[plus] | that-named | Martha  | loves. |
+| and | that-named | George  | \[plus\] | that-named | Martha  | loves. |
 
 
 
 at the expense of re-ordering the list of names so as to make the pairs explicit. This option is not available when one of the lists is only described rather than enumerated:
 
-### Example 14.124.
+##### Example 14.124.
 
 |            |          |                  |            |         |       |     |          |
 | ---------- | -------- | ---------------- | ---------- | ------- | ----- | --- | -------- |
@@ -1949,9 +1949,9 @@ which conveys that James loves one sister and George the other, though we are no
 
 ## More about non-logical connectives
 
-The final three JOI cmavo, _[jo'e](glossary#valsi-johe)_, _[ku'a](glossary#valsi-kuha)_, and _[pi'u](glossary#valsi-pihu)_, are probably only useful when talking explicitly about sets. They represent three standard set operators usually called “union”, “intersection”, and “cross product” (also known as “Cartesian product”). The union of two sets is a set containing all the members that are in either set; the intersection of two sets is a set containing all the members that are in both sets. The cross product of two sets is the set of all possible ordered pairs, where each ordered pair contains a single element from the first set followed by a single element from the second. This may seem very abstract; hopefully, the following examples will help:
+The final three JOI cmavo, *[jo'e](/glossary/#valsi-johe)*, *[ku'a](/glossary/#valsi-kuha)*, and *[pi'u](/glossary/#valsi-pihu)*, are probably only useful when talking explicitly about sets. They represent three standard set operators usually called “union”, “intersection”, and “cross product” (also known as “Cartesian product”). The union of two sets is a set containing all the members that are in either set; the intersection of two sets is a set containing all the members that are in both sets. The cross product of two sets is the set of all possible ordered pairs, where each ordered pair contains a single element from the first set followed by a single element from the second. This may seem very abstract; hopefully, the following examples will help:
 
-### Example 14.125.
+##### Example 14.125.
 
 |            |             |     |       |            |               |     |           |
 | ---------- | ----------- | --- | ----- | ---------- | ------------- | --- | --------- |
@@ -1960,7 +1960,7 @@ The final three JOI cmavo, _[jo'e](glossary#valsi-johe)_, _[ku'a](glossary#valsi
 
 
 
-### Example 14.126.
+##### Example 14.126.
 
 |            |             |     |              |            |               |     |           |
 | ---------- | ----------- | --- | ------------ | ---------- | ------------- | --- | --------- |
@@ -1969,9 +1969,9 @@ The final three JOI cmavo, _[jo'e](glossary#valsi-johe)_, _[ku'a](glossary#valsi
 
 
 
-There is a parallelism between logic and set theory that makes [Example 14.125](chapter14#example-random-id-qGSA "Example 14.125. ") and [Example 14.126](chapter14#example-random-id-qgSe "Example 14.126. ") equivalent respectively to:
+There is a parallelism between logic and set theory that makes [Example 14.125](/chapter14/#example-random-id-qGSA "Example 14.125. ") and [Example 14.126](/chapter14/#example-random-id-qgSe "Example 14.126. ") equivalent respectively to:
 
-### Example 14.127.
+##### Example 14.127.
 
 |            |              |     |                |     |           |
 | ---------- | ------------ | --- | -------------- | --- | --------- |
@@ -1982,7 +1982,7 @@ There is a parallelism between logic and set theory that makes [Example 14.125](
 
 and
 
-### Example 14.128.
+##### Example 14.128.
 
 |            |              |     |                |     |           |
 | ---------- | ------------ | --- | -------------- | --- | --------- |
@@ -1991,13 +1991,13 @@ and
 
 
 
-The following example uses _se remei_, which is a set (not a mass) of two elements:
+The following example uses *se remei*, which is a set (not a mass) of two elements:
 
-### Example 14.129.
+##### Example 14.129.
 
 |            |          |         |            |         |               |
 | ---------- | -------- | ------- | ---------- | ------- | ------------- |
-| la         | djeimyz. | ce\[bo] | la         | djordj. | pi'u          |
+| la         | djeimyz. | ce\[bo\] | la         | djordj. | pi'u          |
 | That-named | James    | and-set | that-named | George  | cross-product |
 
 |            |        |         |            |         |     |           |     |                |
@@ -2007,11 +2007,11 @@ The following example uses _se remei_, which is a set (not a mass) of two elemen
 
 
 
-means that each of the pairs James/Mary, George/Mary, James/Martha, and George/Martha love each other. Therefore it is similar in meaning to [Example 14.121](chapter14#example-random-id-7bv3 "Example 14.121. "); however, that example speaks only of the men loving the women, not vice versa.
+means that each of the pairs James/Mary, George/Mary, James/Martha, and George/Martha love each other. Therefore it is similar in meaning to [Example 14.121](/chapter14/#example-random-id-7bv3 "Example 14.121. "); however, that example speaks only of the men loving the women, not vice versa.
 
-Joiks may be combined with _[bo](glossary#valsi-bo)_ or with _[ke](glossary#valsi-ke)_ in the same way as eks and jeks; this allows grouping of non-logical connections between sumti and tanru units, in complete parallelism with logical connections:
+Joiks may be combined with *[bo](/glossary/#valsi-bo)* or with *[ke](/glossary/#valsi-ke)* in the same way as eks and jeks; this allows grouping of non-logical connections between sumti and tanru units, in complete parallelism with logical connections:
 
-### Example 14.130.
+##### Example 14.130.
 
 |     |             |      |     |             |       |             |            |        |
 | --- | ----------- | ---- | --- | ----------- | ----- | ----------- | ---------- | ------ |
@@ -2027,29 +2027,29 @@ Joiks may be combined with _[bo](glossary#valsi-bo)_ or with _[ke](glossary#vals
 
 asserts that there is a set of two items each of which is a mass.
 
-Non-logical connection is permitted at the joint of a termset; this is useful for associating more than one sumti or tagged sumti with each side of the non-logical connection. The place structure of _[casnu](glossary#valsi-casnu)_ is:
+Non-logical connection is permitted at the joint of a termset; this is useful for associating more than one sumti or tagged sumti with each side of the non-logical connection. The place structure of *[casnu](/glossary/#valsi-casnu)* is:
 
-> _[casnu](glossary#valsi-casnu)_ the mass x1 discusses/talks about x2
+> *[casnu](/glossary/#valsi-casnu)* the mass x1 discusses/talks about x2
 
 so the x1 place must be occupied by a mass (for reasons not explained here); however, different components of the mass may discuss in different languages. To associate each participant with his or her language, we can say:
 
-### Example 14.131.
+##### Example 14.131.
 
 |     |         |             |            |         |          |             |
 | --- | ------- | ----------- | ---------- | ------- | -------- | ----------- |
 | mi  | ce'e    | bau         | la         | lojban. | pe'e     | joi         |
-| (I  | \[plus] | in-language | that-named | Lojban  | \[joint] | massed-with |
+| (I  | \[plus\] | in-language | that-named | Lojban  | \[joint\] | massed-with |
 
 |     |         |             |            |         |      |          |
 | --- | ------- | ----------- | ---------- | ------- | ---- | -------- |
 | do  | ce'e    | bau         | la         | gliban. | nu'u | casnu    |
-| you | \[plus] | in-language | that-named | English | )    | discuss. |
+| you | \[plus\] | in-language | that-named | English | )    | discuss. |
 
 
 
-Like all non-logical connectives, the usage shown in [Example 14.131](chapter14#example-random-id-sdba "Example 14.131. ") cannot be mechanically converted into a non-logical connective placed at another location in the bridi. The forethought equivalent of [Example 14.131](chapter14#example-random-id-sdba "Example 14.131. ") is:
+Like all non-logical connectives, the usage shown in [Example 14.131](/chapter14/#example-random-id-sdba "Example 14.131. ") cannot be mechanically converted into a non-logical connective placed at another location in the bridi. The forethought equivalent of [Example 14.131](/chapter14/#example-random-id-sdba "Example 14.131. ") is:
 
-### Example 14.132.
+##### Example 14.132.
 
 nu'i joigi mi bau la lojban gi do bau la gliban. nu'u casnu
 
@@ -2057,7 +2057,7 @@ nu'i joigi mi bau la lojban gi do bau la gliban. nu'u casnu
 
 Non-logical forethought termsets are also useful when the things to be non-logically connected are sumti preceded with tense or modal (BAI) tags:
 
-### Example 14.133.
+##### Example 14.133.
 
 |            |       |                   |            |        |         |
 | ---------- | ----- | ----------------- | ---------- | ------ | ------- |
@@ -2067,16 +2067,16 @@ Non-logical forethought termsets are also useful when the things to be non-logic
 |                  |             |            |         |
 | ---------------- | ----------- | ---------- | ------- |
 | nu'i             | bau         | la         | lojban. |
-| \[start-termset] | in-language | that-named | Lojban  |
+| \[start-termset\] | in-language | that-named | Lojban  |
 
 |          |                   |                     |
 | -------- | ----------------- | ------------------- |
 | nu'u     | fa'u              | bai                 |
-| \[joint] | respectively-with | under-compulsion-by |
+| \[joint\] | respectively-with | under-compulsion-by |
 
 |                 |            |         |         |
 | --------------- | ---------- | ------- | ------- |
-| tu'a            | la         | djordj. | \[nu'u] |
+| tu'a            | la         | djordj. | \[nu'u\] |
 | something-about | that-named | George. |         |
 
 |                                                                             |
@@ -2085,16 +2085,16 @@ Non-logical forethought termsets are also useful when the things to be non-logic
 
 
 
-[Example 14.133](chapter14#example-random-id-wVSG "Example 14.133. ") associates speaking in Lojban with John, and speaking under George's compulsion with Frank. We do not know what language Frank uses, or whether John speaks under anyone's compulsion.
+[Example 14.133](/chapter14/#example-random-id-wVSG "Example 14.133. ") associates speaking in Lojban with John, and speaking under George's compulsion with Frank. We do not know what language Frank uses, or whether John speaks under anyone's compulsion.
 
-Joiks may be prefixed with _[i](glossary#valsi-i)_ to produce ijoiks, which serve to non-logically connect sentences. The ijoik _[ce'o](glossary#valsi-ceho)_ indicates that the event of the second bridi follows that of the first bridi in some way other than a time relationship (which is handled with a tense):
+Joiks may be prefixed with *[i](/glossary/#valsi-i)* to produce ijoiks, which serve to non-logically connect sentences. The ijoik *[ce'o](/glossary/#valsi-ceho)* indicates that the event of the second bridi follows that of the first bridi in some way other than a time relationship (which is handled with a tense):
 
-### Example 14.134.
+##### Example 14.134.
 
 |     |           |       |                 |                |     |
 | --- | --------- | ----- | --------------- | -------------- | --- |
 | mi  | ba        | gasnu | la'e            | di'e           | .i  |
-| I   | \[future] | do    | the-referent-of | the-following: |     |
+| I   | \[future\] | do    | the-referent-of | the-following: |     |
 
 |      |         |     |             |        |          |       |     |       |
 | ---- | ------- | --- | ----------- | ------ | -------- | ----- | --- | ----- |
@@ -2112,26 +2112,26 @@ Joiks may be prefixed with _[i](glossary#valsi-i)_ to produce ijoiks, which serv
 
 
 
-[Example 14.134](chapter14#example-random-id-27xU "Example 14.134. ") represents a list of things to be done in priority order. The order is important, hence the need for a sequence connective, but does not necessarily represent a time order (the dog may end up getting walked first). Note the use of _[tu'e](glossary#valsi-tuhe)_ and _[tu'u](glossary#valsi-tuhu)_ as general brackets around the whole list. This is related to, but distinct from, their use in [Section 14.8](chapter14#section-afterthought-connectives-grouping "14.8. Grouping of afterthought connectives"), because there is no logical connective between the introductory phrase _mi ba gasnu la'edi'e_ and the rest. The brackets effectively show how large an utterance the word _[di'e](glossary#valsi-dihe)_, which means “the following utterance”, refers to.
+[Example 14.134](/chapter14/#example-random-id-27xU "Example 14.134. ") represents a list of things to be done in priority order. The order is important, hence the need for a sequence connective, but does not necessarily represent a time order (the dog may end up getting walked first). Note the use of *[tu'e](/glossary/#valsi-tuhe)* and *[tu'u](/glossary/#valsi-tuhu)* as general brackets around the whole list. This is related to, but distinct from, their use in [Section 14.8](/chapter14/#section-afterthought-connectives-grouping "14.8. Grouping of afterthought connectives"), because there is no logical connective between the introductory phrase *mi ba gasnu la'edi'e* and the rest. The brackets effectively show how large an utterance the word *[di'e](/glossary/#valsi-dihe)*, which means “the following utterance”, refers to.
 
-Similarly, _[joi](glossary#valsi-joi)_ is used to connect sentences that represent the components of a joint event such as a joint cause: the Lojban equivalent of “Fran hit her head and fell out of the boat, so that she drowned” would join the events “Fran hit her head” and “Fran fell out of the boat” with _[joi](glossary#valsi-joi)_.
+Similarly, *[joi](/glossary/#valsi-joi)* is used to connect sentences that represent the components of a joint event such as a joint cause: the Lojban equivalent of “Fran hit her head and fell out of the boat, so that she drowned” would join the events “Fran hit her head” and “Fran fell out of the boat” with *[joi](/glossary/#valsi-joi)*.
 
-The following _[nai](glossary#valsi-nai)_, if present, does not negate either of the things to be connected, but instead specifies that some other connection (logical or non-logical) is applicable: it is a scalar negation:
+The following *[nai](/glossary/#valsi-nai)*, if present, does not negate either of the things to be connected, but instead specifies that some other connection (logical or non-logical) is applicable: it is a scalar negation:
 
-### Example 14.135.
+##### Example 14.135.
 
 |     |                |         |     |     |               |
 | --- | -------------- | ------- | --- | --- | ------------- |
 | mi  | jo'u           | nai     | do  | cu  | remei         |
-| I   | in-common-with | \[not!] | you |     | are-a-twosome |
+| I   | in-common-with | \[not!\] | you |     | are-a-twosome |
 
 
 
-The result of _mi jo'u do_ would be two individuals, not a mass, therefore _[jo'u](glossary#valsi-johu)_ is not applicable; _[joi](glossary#valsi-joi)_ would be the correct connective.
+The result of *mi jo'u do* would be two individuals, not a mass, therefore *[jo'u](/glossary/#valsi-johu)* is not applicable; *[joi](/glossary/#valsi-joi)* would be the correct connective.
 
 There is no joik question cmavo as such; however, joiks and ijoiks may be uttered in isolation in response to a logical connective question, as in the following exchange:
 
-### Example 14.136.
+##### Example 14.136.
 
 |     |        |                 |           |        |
 | --- | ------ | --------------- | --------- | ------ |
@@ -2141,7 +2141,7 @@ There is no joik question cmavo as such; however, joiks and ijoiks may be uttere
 |                     |           |       |
 | ------------------- | --------- | ----- |
 | ji                  | loi       | tcati |
-| \[what-connective?] | a-mass-of | tea?  |
+| \[what-connective?\] | a-mass-of | tea?  |
 
 |                            |
 | -------------------------- |
@@ -2149,7 +2149,7 @@ There is no joik question cmavo as such; however, joiks and ijoiks may be uttere
 
 
 
-### Example 14.137.
+##### Example 14.137.
 
 |                 |
 | --------------- |
@@ -2162,25 +2162,25 @@ There is no joik question cmavo as such; however, joiks and ijoiks may be uttere
 
 
 
-Ugh. (Or in Lojban: _[ro'o](glossary#valsi-roho)_.)
+Ugh. (Or in Lojban: *[ro'o](/glossary/#valsi-roho)*.)
 
 ## Interval connectives and forethought non-logical connection
 
-In addition to the non-logical connectives of selma'o JOI explained in [Section 14.14](chapter14#section-non-logical-connectives "14.14. Non-logical connectives") and [Section 14.15](chapter14#section-non-logical-continued "14.15. More about non-logical connectives"), there are three other connectives which can appear in joiks: _[bi'i](glossary#valsi-bihi)_, _[bi'o](glossary#valsi-biho)_, and _[mi'i](glossary#valsi-mihi)_, all of selma'o BIhI. The first two cmavo are used to specify intervals: abstract objects defined by two endpoints. The cmavo _[bi'i](glossary#valsi-bihi)_ is correct if the endpoints are independent of order, whereas _[bi'o](glossary#valsi-biho)_ or _[bi'o](glossary#valsi-biho)_ are used when order matters.
+In addition to the non-logical connectives of selma'o JOI explained in [Section 14.14](/chapter14/#section-non-logical-connectives "14.14. Non-logical connectives") and [Section 14.15](/chapter14/#section-non-logical-continued "14.15. More about non-logical connectives"), there are three other connectives which can appear in joiks: *[bi'i](/glossary/#valsi-bihi)*, *[bi'o](/glossary/#valsi-biho)*, and *[mi'i](/glossary/#valsi-mihi)*, all of selma'o BIhI. The first two cmavo are used to specify intervals: abstract objects defined by two endpoints. The cmavo *[bi'i](/glossary/#valsi-bihi)* is correct if the endpoints are independent of order, whereas *[bi'o](/glossary/#valsi-biho)* or *[bi'o](/glossary/#valsi-biho)* are used when order matters.
 
-An example of _[bi'i](glossary#valsi-bihi)_ in sumti connection:
+An example of *[bi'i](/glossary/#valsi-bihi)* in sumti connection:
 
-### Example 14.138.
+##### Example 14.138.
 
 |     |            |                  |
 | --- | ---------- | ---------------- |
 | mi  | ca         | sanli            |
-| I   | \[present] | stand-on-surface |
+| I   | \[present\] | stand-on-surface |
 
 |            |         |             |            |            |
 | ---------- | ------- | ----------- | ---------- | ---------- |
 | la         | drezdn. | bi'i        | la         | frankfurt. |
-| that-named | Dresden | \[interval] | that-named | Frankfurt. |
+| that-named | Dresden | \[interval\] | that-named | Frankfurt. |
 
 |                                              |
 | -------------------------------------------- |
@@ -2188,9 +2188,9 @@ An example of _[bi'i](glossary#valsi-bihi)_ in sumti connection:
 
 
 
-In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), it is all the same whether I am standing between Dresden and Frankfurt or between Frankfurt and Dresden, so _[bi'i](glossary#valsi-bihi)_ is the appropriate interval connective. The sumti _la drezdn. bi'i la frankfurt._ falls into the x2 place of _[sanli](glossary#valsi-sanli)_, which is the surface I stand on; the interval specifies that surface by its limits. (Obviously, I am not standing on the whole of the interval; the x2 place of _[sanli](glossary#valsi-sanli)_ specifies a surface which is typically larger in extent than just the size of the stander's feet.)
+In [Example 14.138](/chapter14/#example-random-id-sHhA "Example 14.138. "), it is all the same whether I am standing between Dresden and Frankfurt or between Frankfurt and Dresden, so *[bi'i](/glossary/#valsi-bihi)* is the appropriate interval connective. The sumti *la drezdn. bi'i la frankfurt.* falls into the x2 place of *[sanli](/glossary/#valsi-sanli)*, which is the surface I stand on; the interval specifies that surface by its limits. (Obviously, I am not standing on the whole of the interval; the x2 place of *[sanli](/glossary/#valsi-sanli)* specifies a surface which is typically larger in extent than just the size of the stander's feet.)
 
-### Example 14.139.
+##### Example 14.139.
 
 |     |       |                   |     |            |
 | --- | ----- | ----------------- | --- | ---------- |
@@ -2200,7 +2200,7 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), it is 
 |                     |     |              |
 | ------------------- | --- | ------------ |
 | bi'o                | la  | recac.       |
-| \[ordered-interval] |     | Second-hour. |
+| \[ordered-interval\] |     | Second-hour. |
 
 |                                         |
 | --------------------------------------- |
@@ -2208,11 +2208,11 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), it is 
 
 
 
-In [Example 14.139](chapter14#example-random-id-rYv4 "Example 14.139. "), on the other hand, it is essential that _la pacac._ comes before _la recac._; otherwise we have an 11-hour (or 23-hour) interval rather than a one-hour interval. In this use of an interval, the whole interval is probably intended, or at least most of it.
+In [Example 14.139](/chapter14/#example-random-id-rYv4 "Example 14.139. "), on the other hand, it is essential that *la pacac.* comes before *la recac.*; otherwise we have an 11-hour (or 23-hour) interval rather than a one-hour interval. In this use of an interval, the whole interval is probably intended, or at least most of it.
 
-[Example 14.139](chapter14#example-random-id-rYv4 "Example 14.139. ") is equivalent to:
+[Example 14.139](/chapter14/#example-random-id-rYv4 "Example 14.139. ") is equivalent to:
 
-### Example 14.140.
+##### Example 14.140.
 
 |     |       |                   |     |             |
 | --- | ----- | ----------------- | --- | ----------- |
@@ -2222,25 +2222,25 @@ In [Example 14.139](chapter14#example-random-id-rYv4 "Example 14.139. "), on the
 |            |            |     |             |
 | ---------- | ---------- | --- | ----------- |
 | se         | bi'o       | la  | pacac.      |
-| \[reverse] | \[ordered] |     | First-hour. |
+| \[reverse\] | \[ordered\] |     | First-hour. |
 
 
 
-English cannot readily express _[bi'o](glossary#valsi-biho)_, but its meaning can be understood by reversing the two sumti.
+English cannot readily express *[bi'o](/glossary/#valsi-biho)*, but its meaning can be understood by reversing the two sumti.
 
-The third cmavo of selma'o BIhI, namely _[mi'i](glossary#valsi-mihi)_, expresses an interval seen from a different viewpoint: not a pair of endpoints, but a center point and a distance. For example:
+The third cmavo of selma'o BIhI, namely *[mi'i](/glossary/#valsi-mihi)*, expresses an interval seen from a different viewpoint: not a pair of endpoints, but a center point and a distance. For example:
 
-### Example 14.141.
+##### Example 14.141.
 
 |     |       |         |          |     |            |
 | --- | ----- | ------- | -------- | --- | ---------- |
 | le  | jbama | pu      | daspo    | la  | .uacintyn. |
-| The | bomb  | \[past] | destroys |     | Washington |
+| The | bomb  | \[past\] | destroys |     | Washington |
 
 |           |         |                   |     |     |      |
 | --------- | ------- | ----------------- | --- | --- | ---- |
 | mi'i      | lo      | minli             | be  | li  | muno |
-| \[center] | what-is | measured-in-miles |     | by  | 50.  |
+| \[center\] | what-is | measured-in-miles |     | by  | 50.  |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -2250,19 +2250,19 @@ The third cmavo of selma'o BIhI, namely _[mi'i](glossary#valsi-mihi)_, expresses
 
 Here we have an interval whose center is Washington and whose distance, or radius, is fifty miles.
 
-In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), is it possible that I am standing in Dresden (or Frankfurt) itself? Yes. The connectives of selma'o BIhI are ambiguous about whether the endpoints themselves are included in or excluded from the interval. Two auxiliary cmavo _[ga'o](glossary#valsi-gaho)_ and _[ke'i](glossary#valsi-kehi)_ (of cmavo GAhO) are used to indicate the status of the endpoints: _[ga'o](glossary#valsi-gaho)_ means that the endpoint is included, _[ke'i](glossary#valsi-kehi)_ that it is excluded:
+In [Example 14.138](/chapter14/#example-random-id-sHhA "Example 14.138. "), is it possible that I am standing in Dresden (or Frankfurt) itself? Yes. The connectives of selma'o BIhI are ambiguous about whether the endpoints themselves are included in or excluded from the interval. Two auxiliary cmavo *[ga'o](/glossary/#valsi-gaho)* and *[ke'i](/glossary/#valsi-kehi)* (of cmavo GAhO) are used to indicate the status of the endpoints: *[ga'o](/glossary/#valsi-gaho)* means that the endpoint is included, *[ke'i](/glossary/#valsi-kehi)* that it is excluded:
 
-### Example 14.142.
+##### Example 14.142.
 
 |     |            |       |            |         |              |
 | --- | ---------- | ----- | ---------- | ------- | ------------ |
 | mi  | ca         | sanli | la         | drezdn. | ga'o         |
-| I   | \[present] | stand | that-named | Dresden | \[inclusive] |
+| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] |
 
 |             |              |            |            |
 | ----------- | ------------ | ---------- | ---------- |
 | bi'i        | ga'o         | la         | frankfurt. |
-| \[interval] | \[inclusive] | that-named | Frankfurt. |
+| \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 |                                                                 |
 | --------------------------------------------------------------- |
@@ -2270,17 +2270,17 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), is it 
 
 
 
-### Example 14.143.
+##### Example 14.143.
 
 |     |            |       |            |         |              |
 | --- | ---------- | ----- | ---------- | ------- | ------------ |
 | mi  | ca         | sanli | la         | drezdn. | ga'o         |
-| I   | \[present] | stand | that-named | Dresden | \[inclusive] |
+| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] |
 
 |             |              |            |            |
 | ----------- | ------------ | ---------- | ---------- |
 | bi'i        | ke'i         | la         | frankfurt. |
-| \[interval] | \[exclusive] | that-named | Frankfurt. |
+| \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -2288,17 +2288,17 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), is it 
 
 
 
-### Example 14.144.
+##### Example 14.144.
 
 |     |            |       |            |         |              |
 | --- | ---------- | ----- | ---------- | ------- | ------------ |
 | mi  | ca         | sanli | la         | drezdn. | ke'i         |
-| I   | \[present] | stand | that-named | Dresden | \[exclusive] |
+| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] |
 
 |             |              |            |            |
 | ----------- | ------------ | ---------- | ---------- |
 | bi'i        | ga'o         | la         | frankfurt. |
-| \[interval] | \[inclusive] | that-named | Frankfurt. |
+| \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -2306,17 +2306,17 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), is it 
 
 
 
-### Example 14.145.
+##### Example 14.145.
 
 |     |            |       |            |         |              |
 | --- | ---------- | ----- | ---------- | ------- | ------------ |
 | mi  | ca         | sanli | la         | drezdn. | ke'i         |
-| I   | \[present] | stand | that-named | Dresden | \[exclusive] |
+| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] |
 
 |             |              |            |            |
 | ----------- | ------------ | ---------- | ---------- |
 | bi'i        | ke'i         | la         | frankfurt. |
-| \[interval] | \[exclusive] | that-named | Frankfurt. |
+| \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 |                                                                 |
 | --------------------------------------------------------------- |
@@ -2326,13 +2326,13 @@ In [Example 14.138](chapter14#example-random-id-sHhA "Example 14.138. "), is it 
 
 As these examples should make clear, the GAhO cmavo that applies to a given endpoint is the one that stands physically adjacent to it: the left-hand endpoint is referred to by the first GAhO, and the right-hand endpoint by the second GAhO. It is ungrammatical to have just one GAhO.
 
-(Etymologically, _[ga'o](glossary#valsi-gaho)_ is derived from _[ganlo](glossary#valsi-ganlo)_, which means “closed”, and _[ke'i](glossary#valsi-kehi)_ from _[kalri](glossary#valsi-kalri)_, which means “open”. In mathematics, inclusive intervals are referred to as closed intervals, and exclusive intervals as open ones.)
+(Etymologically, *[ga'o](/glossary/#valsi-gaho)* is derived from *[ganlo](/glossary/#valsi-ganlo)*, which means “closed”, and *[ke'i](/glossary/#valsi-kehi)* from *[kalri](/glossary/#valsi-kalri)*, which means “open”. In mathematics, inclusive intervals are referred to as closed intervals, and exclusive intervals as open ones.)
 
 BIhI joiks are grammatical anywhere that other joiks are, including in tanru connection and (as ijoiks) between sentences. No meanings have been found for these uses.
 
-Negated intervals, marked with a _-nai_ following the BIhI cmavo, indicate an interval that includes everything but what is between the endpoints (with respect to some understood scale):
+Negated intervals, marked with a *-nai* following the BIhI cmavo, indicate an interval that includes everything but what is between the endpoints (with respect to some understood scale):
 
-### Example 14.146.
+##### Example 14.146.
 
 |     |         |           |     |     |            |         |
 | --- | ------- | --------- | --- | --- | ---------- | ------- |
@@ -2352,48 +2352,48 @@ Negated intervals, marked with a _-nai_ following the BIhI cmavo, indicate an in
 
 The complete syntax of joiks is:
 
-> - \[se] JOI \[nai]
+> - \[se\] JOI \[nai\]
 >
-> - \[se] BIhI \[nai]
+> - \[se\] BIhI \[nai\]
 >
-> - GAhO \[se] BIhI \[nai] GAhO
+> - GAhO \[se\] BIhI \[nai\] GAhO
 
-Notice that the colloquial English translations of _[bi'i](glossary#valsi-bihi)_ and _[bi'o](glossary#valsi-biho)_ have forethought form: “between ... and” for _[bi'i](glossary#valsi-bihi)_, and “from ... to” for _[bi'o](glossary#valsi-biho)_. In Lojban too, non-logical connectives can be expressed in forethought. Rather than using a separate selma'o, the forethought logical connectives are constructed from the afterthought ones by suffixing _[gi](glossary#valsi-gi)_. Such a compound cmavo is not unnaturally called a “joigik”; the syntax of joigiks is any of:
+Notice that the colloquial English translations of *[bi'i](/glossary/#valsi-bihi)* and *[bi'o](/glossary/#valsi-biho)* have forethought form: “between ... and” for *[bi'i](/glossary/#valsi-bihi)*, and “from ... to” for *[bi'o](/glossary/#valsi-biho)*. In Lojban too, non-logical connectives can be expressed in forethought. Rather than using a separate selma'o, the forethought logical connectives are constructed from the afterthought ones by suffixing *[gi](/glossary/#valsi-gi)*. Such a compound cmavo is not unnaturally called a “joigik”; the syntax of joigiks is any of:
 
-> - \[se] JOI \[nai] GI
+> - \[se\] JOI \[nai\] GI
 >
-> - \[se] BIhI \[nai] GI
+> - \[se\] BIhI \[nai\] GI
 >
-> - GAhO \[se] BIhI \[nai] GAhO GI
+> - GAhO \[se\] BIhI \[nai\] GAhO GI
 
 Joigiks may be used to non-logically connect bridi, sumti, and bridi-tails; and also in termsets.
 
-[Example 14.111](chapter14#example-random-id-pC5x "Example 14.111. ") in forethought becomes:
+[Example 14.111](/chapter14/#example-random-id-pC5x "Example 14.111. ") in forethought becomes:
 
-### Example 14.147.
+##### Example 14.147.
 
 |             |            |       |     |            |        |       |     |        |
 | ----------- | ---------- | ----- | --- | ---------- | ------ | ----- | --- | ------ |
 | joigi       | la         | djan. | gi  | la         | .alis. | bevri | le  | pipno  |
-| \[Together] | that-named | John  | and | that-named | Alice  | carry | the | piano. |
+| \[Together\] | that-named | John  | and | that-named | Alice  | carry | the | piano. |
 
 
 
-The first _[gi](glossary#valsi-gi)_ is part of the joigik; the second _[gi](glossary#valsi-gi)_ is the regular gik that separates the two things being connected in all forethought forms.
+The first *[gi](/glossary/#valsi-gi)* is part of the joigik; the second *[gi](/glossary/#valsi-gi)* is the regular gik that separates the two things being connected in all forethought forms.
 
-[Example 14.143](chapter14#example-random-id-qGtv "Example 14.143. ") can be expressed in forethought as:
+[Example 14.143](/chapter14/#example-random-id-qGtv "Example 14.143. ") can be expressed in forethought as:
 
-### Example 14.148.
+##### Example 14.148.
 
 |     |            |       |              |         |
 | --- | ---------- | ----- | ------------ | ------- |
 | mi  | ca         | sanli | ke'i         | bi'i    |
-| I   | \[present] | stand | \[exclusive] | between |
+| I   | \[present\] | stand | \[exclusive\] | between |
 
 |              |     |            |         |     |            |            |
 | ------------ | --- | ---------- | ------- | --- | ---------- | ---------- |
 | ga'o         | gi  | la         | drezdn. | gi  | la         | frankfurt. |
-| \[inclusive] | and | that-named | Dresden | and | that-named | Frankfurt. |
+| \[inclusive\] | and | that-named | Dresden | and | that-named | Frankfurt. |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -2405,41 +2405,41 @@ In forethought, unfortunately, the GAhOs become physically separated from the en
 
 ## Logical and non-logical connectives within mekso
 
-Lojban has a separate grammar embedded within the main grammar for representing mathematical expressions (or mekso in Lojban) such as “2 + 2”. Mathematical expressions are explained fully in [Chapter 18](chapter18 "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). The basic components of mekso are operands, like “2”, and operators, like “+”. Both of these may be either logically or non-logically connected.
+Lojban has a separate grammar embedded within the main grammar for representing mathematical expressions (or mekso in Lojban) such as “2 + 2”. Mathematical expressions are explained fully in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). The basic components of mekso are operands, like “2”, and operators, like “+”. Both of these may be either logically or non-logically connected.
 
-Operands are connected in afterthought with eks and in forethought with geks, just like sumti. Operators, on the other hand, are connected in afterthought with jeks and in forethought with guheks, just like tanru components. (However, jeks and joiks with _[bo](glossary#valsi-bo)_ are not allowed for operators.) This parallelism is no accident.
+Operands are connected in afterthought with eks and in forethought with geks, just like sumti. Operators, on the other hand, are connected in afterthought with jeks and in forethought with guheks, just like tanru components. (However, jeks and joiks with *[bo](/glossary/#valsi-bo)* are not allowed for operators.) This parallelism is no accident.
 
-In addition, eks with _[bo](glossary#valsi-bo)_ and with _[ke'e](glossary#valsi-kehe)_ are allowed for grouping logically connected operands, and _[ke'e](glossary#valsi-kehe)_ is allowed for grouping logically connected operators, although there is no analogue of tanru among the operators.
+In addition, eks with *[bo](/glossary/#valsi-bo)* and with *[ke'e](/glossary/#valsi-kehe)* are allowed for grouping logically connected operands, and *[ke'e](/glossary/#valsi-kehe)* is allowed for grouping logically connected operators, although there is no analogue of tanru among the operators.
 
-Only a few examples of each kind of mekso connection will be given. Despite the large number of rules required to support this feature, it is of relatively minor importance in either the mekso or the logical-connective scheme of things. These examples are drawn from [Section 18.17](chapter18#section-connectives-within-mekso "18.17. Logical and non-logical connectives within mekso"), and contain many mekso features not explained in this chapter.
+Only a few examples of each kind of mekso connection will be given. Despite the large number of rules required to support this feature, it is of relatively minor importance in either the mekso or the logical-connective scheme of things. These examples are drawn from [Section 18.17](/chapter18/#section-connectives-within-mekso "18.17. Logical and non-logical connectives within mekso"), and contain many mekso features not explained in this chapter.
 
-[Example 14.149](chapter14#example-random-id-gMU4 "Example 14.149. ") exhibits afterthought logical connection between operands:
+[Example 14.149](/chapter14/#example-random-id-gMU4 "Example 14.149. ") exhibits afterthought logical connection between operands:
 
-### Example 14.149.
+##### Example 14.149.
 
 |     |       |     |      |         |        |     |       |     |         |
 | --- | ----- | --- | ---- | ------- | ------ | --- | ----- | --- | ------- |
-| vei | ci    | .a  | vo   | \[ve'o] | prenu  | cu  | klama | le  | zarci   |
+| vei | ci    | .a  | vo   | \[ve'o\] | prenu  | cu  | klama | le  | zarci   |
 | (   | Three | or  | four | )       | people |     | go-to | the | market. |
 
 
 
-[Example 14.150](chapter14#example-random-id-ftNY "Example 14.150. ") is equivalent in meaning, but uses forethought connection:
+[Example 14.150](/chapter14/#example-random-id-ftNY "Example 14.150. ") is equivalent in meaning, but uses forethought connection:
 
-### Example 14.150.
+##### Example 14.150.
 
 |     |        |     |     |     |         |        |     |       |     |         |
 | --- | ------ | --- | --- | --- | ------- | ------ | --- | ----- | --- | ------- |
-| vei | ga     | ci  | gi  | vo  | \[ve'o] | prenu  | cu  | klama | le  | zarci   |
+| vei | ga     | ci  | gi  | vo  | \[ve'o\] | prenu  | cu  | klama | le  | zarci   |
 | (   | Either | 3   | or  | 4   | )       | people |     | go-to | the | market. |
 
 
 
-Note that the mekso in [Example 14.149](chapter14#example-random-id-gMU4 "Example 14.149. ") and [Example 14.150](chapter14#example-random-id-ftNY "Example 14.150. ") are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in _[vei](glossary#valsi-vei)_ and _[ve'o](glossary#valsi-veho)_ parentheses when used as a quantifier. The right parenthesis mark, _[ve'o](glossary#valsi-veho)_, is an elidable terminator.
+Note that the mekso in [Example 14.149](/chapter14/#example-random-id-gMU4 "Example 14.149. ") and [Example 14.150](/chapter14/#example-random-id-ftNY "Example 14.150. ") are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in *[vei](/glossary/#valsi-vei)* and *[ve'o](/glossary/#valsi-veho)* parentheses when used as a quantifier. The right parenthesis mark, *[ve'o](/glossary/#valsi-veho)*, is an elidable terminator.
 
 Simple examples of logical connection between operators are hard to come by. A contrived example is:
 
-### Example 14.151.
+##### Example 14.151.
 
 |            |     |      |     |       |     |        |            |     |
 | ---------- | --- | ---- | --- | ----- | --- | ------ | ---------- | --- |
@@ -2452,9 +2452,9 @@ Simple examples of logical connection between operators are hard to come by. A c
 
 
 
-The forethought form of [Example 14.151](chapter14#example-random-id-dCxf "Example 14.151. ") is:
+The forethought form of [Example 14.151](/chapter14/#example-random-id-dCxf "Example 14.151. ") is:
 
-### Example 14.152.
+##### Example 14.152.
 
 |            |     |      |      |     |       |     |        |            |       |
 | ---------- | --- | ---- | ---- | --- | ----- | --- | ------ | ---------- | ----- |
@@ -2467,9 +2467,9 @@ The forethought form of [Example 14.151](chapter14#example-random-id-dCxf "Examp
 
 
 
-Non-logical connection with joiks or joigiks is also permitted between operands and between operators. One use for this construct is to connect operands with _[bi'i](glossary#valsi-bihi)_ to create mathematical intervals:
+Non-logical connection with joiks or joigiks is also permitted between operands and between operators. One use for this construct is to connect operands with *[bi'i](/glossary/#valsi-bihi)* to create mathematical intervals:
 
-### Example 14.153.
+##### Example 14.153.
 
 |            |      |             |         |             |     |
 | ---------- | ---- | ----------- | ------- | ----------- | --- |
@@ -2483,37 +2483,37 @@ Non-logical connection with joiks or joigiks is also permitted between operands 
 
 
 
-You can also combine two operands with _[ce'o](glossary#valsi-ceho)_, the sequence connective of selma'o JOI, to make a compound subscript:
+You can also combine two operands with *[ce'o\](/glossary/#valsi-ceho)*, the sequence connective of selma'o JOI, to make a compound subscript:
 
-### Example 14.154.
+##### Example 14.154.
 
 |      |     |     |     |     |          |     |         |
 | ---- | --- | --- | --- | --- | -------- | --- | ------- |
-| xy.  | boi | xi  | vei | by. | ce'o     | dy. | \[ve'o] |
+| xy.  | boi | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
 | “x”  |     | sub | (   | “b” | sequence | “d” | )       |
 | xb,d |     |     |     |     |          |     |         |
 
 
 
-Note that the _[boi](glossary#valsi-boi)_ in [Example 14.154](chapter14#example-random-id-8rEL "Example 14.154. ") is not elidable, because the _[xi](glossary#valsi-xi)_ subscript needs something to attach to.
+Note that the *[boi](/glossary/#valsi-boi)* in [Example 14.154](/chapter14/#example-random-id-8rEL "Example 14.154. ") is not elidable, because the *[xi](/glossary/#valsi-xi)* subscript needs something to attach to.
 
 ## Tenses, modals, and logical connection
 
-The tense and modal systems of Lojban interact with the logical connective system. No one chapter can explain all of these simultaneously, so each chapter must present its own view of the area of interaction with emphasis on its own concepts and terminology. In the examples of this chapter, the many tenses of various selma'o as well as the modals of selma'o BAI are represented by the simple time cmavo _[pu](glossary#valsi-pu)_, _[ca](glossary#valsi-ca)_, and _[ba](glossary#valsi-ba)_ (of selma'o PU) representing the past, the present, and the future respectively. Preceding a selbri, these cmavo state the time when the bridi was, is, or will be true (analogous to English verb tenses); preceding a sumti, they state that the event of the main bridi is before, simultaneous with, or after the event given by the sumti (which is generally a _le nu_ abstraction; see [Section 11.2](chapter11#section-events "11.2. Event abstraction")).
+The tense and modal systems of Lojban interact with the logical connective system. No one chapter can explain all of these simultaneously, so each chapter must present its own view of the area of interaction with emphasis on its own concepts and terminology. In the examples of this chapter, the many tenses of various selma'o as well as the modals of selma'o BAI are represented by the simple time cmavo *[pu](/glossary/#valsi-pu)*, *[ca](/glossary/#valsi-ca)*, and *[ba](/glossary/#valsi-ba)* (of selma'o PU) representing the past, the present, and the future respectively. Preceding a selbri, these cmavo state the time when the bridi was, is, or will be true (analogous to English verb tenses); preceding a sumti, they state that the event of the main bridi is before, simultaneous with, or after the event given by the sumti (which is generally a *le nu* abstraction; see [Section 11.2](/chapter11/#section-events "11.2. Event abstraction")).
 
 The two types of interaction between tenses and logical connectives are logically connected tenses and tensed logical connections. The former are fairly simple. Jeks may be used between tense cmavo to specify two connected bridi that differ only in tense:
 
-### Example 14.155.
+##### Example 14.155.
 
 |            |        |         |                        |
 | ---------- | ------ | ------- | ---------------------- |
 | la         | .artr. | pu      | nolraitru              |
-| That-named | Arthur | \[past] | is-a-noblest-governor. |
+| That-named | Arthur | \[past\] | is-a-noblest-governor. |
 
 |      |            |        |           |                        |
 | ---- | ---------- | ------ | --------- | ---------------------- |
 | .ije | la         | .artr. | ba        | nolraitru              |
-| And  | that-named | Arthur | \[future] | is-a-noblest-governor. |
+| And  | that-named | Arthur | \[future\] | is-a-noblest-governor. |
 
 |                                               |
 | --------------------------------------------- |
@@ -2523,12 +2523,12 @@ The two types of interaction between tenses and logical connectives are logicall
 
 can be reduced to:
 
-### Example 14.156.
+##### Example 14.156.
 
 |            |        |         |     |           |                        |
 | ---------- | ------ | ------- | --- | --------- | ---------------------- |
 | la         | .artr. | pu      | je  | ba        | nolraitru              |
-| That-named | Arthur | \[past] | and | \[future] | is-a-noblest-governor. |
+| That-named | Arthur | \[past\] | and | \[future\] | is-a-noblest-governor. |
 
 |                              |
 | ---------------------------- |
@@ -2536,16 +2536,16 @@ can be reduced to:
 
 
 
-[Example 14.155](chapter14#example-random-id-g6iT "Example 14.155. ") and [Example 14.156](chapter14#example-random-id-PLgw "Example 14.156. ") are equivalent in meaning; neither says anything about whether Arthur is king now.
+[Example 14.155](/chapter14/#example-random-id-g6iT "Example 14.155. ") and [Example 14.156](/chapter14/#example-random-id-PLgw "Example 14.156. ") are equivalent in meaning; neither says anything about whether Arthur is king now.
 
 Non-logical connection with joiks is also possible between tenses:
 
-### Example 14.157.
+##### Example 14.157.
 
 |     |         |             |           |          |
 | --- | ------- | ----------- | --------- | -------- |
 | mi  | pu      | bi'o        | ba        | vasxu    |
-| I   | \[past] | from-...-to | \[future] | breathe. |
+| I   | \[past\] | from-...-to | \[future\] | breathe. |
 
 |                                                 |
 | ----------------------------------------------- |
@@ -2559,51 +2559,51 @@ No forethought connections between tenses are permitted by the grammar, nor is t
 
 Tensed logical connections are both more complex and more important than logical connections between tenses. Consider the English sentence:
 
-### Example 14.158.
+##### Example 14.158.
 
 I went to the market, and I bought food.
 
 
 
-The verbatim translation of [Example 14.158](chapter14#example-random-id-efav "Example 14.158. "), namely:
+The verbatim translation of [Example 14.158](/chapter14/#example-random-id-efav "Example 14.158. "), namely:
 
-### Example 14.159.
+##### Example 14.159.
 
 |     |         |       |     |         |      |     |         |          |          |       |
 | --- | ------- | ----- | --- | ------- | ---- | --- | ------- | -------- | -------- | ----- |
 | mi  | pu      | klama | le  | zarci   | .ije | mi  | pu      | tervecnu | lo       | cidja |
-| I   | \[past] | go-to | the | market. | And  | I   | \[past] | buy      | items-of | food. |
+| I   | \[past\] | go-to | the | market. | And  | I   | \[past\] | buy      | items-of | food. |
 
 
 
-fails to fully represent a feature of the English, namely that the buying came after the going. (It also fails to represent that the buying was a consequence of the going, which can be expressed by a modal that is discussed in [Chapter 9](chapter09 "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals").) However, the tense information – that the event of my going to the market preceded the event of my buying food – can be added to the logical connective as follows. The _[je](glossary#valsi-je)_ is replaced by _[bo](glossary#valsi-bo)_, and the tense cmavo _[ba](glossary#valsi-ba)_ is inserted between _[je](glossary#valsi-je)_ and _[bo](glossary#valsi-bo)_:
+fails to fully represent a feature of the English, namely that the buying came after the going. (It also fails to represent that the buying was a consequence of the going, which can be expressed by a modal that is discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals").) However, the tense information – that the event of my going to the market preceded the event of my buying food – can be added to the logical connective as follows. The *[je](/glossary/#valsi-je)* is replaced by *[bo](/glossary/#valsi-bo)*, and the tense cmavo *[ba](/glossary/#valsi-ba)* is inserted between *[je](/glossary/#valsi-je)* and *[bo](/glossary/#valsi-bo)*:
 
-### Example 14.160.
+##### Example 14.160.
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
 | mi  | pu      | klama | le  | zarci   |
-| I   | \[past] | go-to | the | market. |
+| I   | \[past\] | go-to | the | market. |
 
 |      |          |     |         |          |          |       |
 | ---- | -------- | --- | ------- | -------- | -------- | ----- |
 | .ije | babo     | mi  | pu      | tervecnu | lo       | cidja |
-| And  | \[later] | I   | \[past] | buy      | items-of | food. |
+| And  | \[later\] | I   | \[past\] | buy      | items-of | food. |
 
 
 
-Here the _[pu](glossary#valsi-pu)_ cmavo in the two bridi-tails express the time of both actions with respect to the speaker: in the past. The _[ba](glossary#valsi-ba)_ relates the two items to one another: the second item is later than the first item. The grammar does not permit omitting the _[bo](glossary#valsi-bo)_; if it were omitted, the _[ba](glossary#valsi-ba)_ and the second _[pu](glossary#valsi-pu)_ would run together to form a compound tense _[bapu](glossary#valsi-bapu)_ applying to the second bridi-tail only.
+Here the *[pu](/glossary/#valsi-pu)* cmavo in the two bridi-tails express the time of both actions with respect to the speaker: in the past. The *[ba](/glossary/#valsi-ba)* relates the two items to one another: the second item is later than the first item. The grammar does not permit omitting the *[bo](/glossary/#valsi-bo)*; if it were omitted, the *[ba](/glossary/#valsi-ba)* and the second *[pu](/glossary/#valsi-pu)* would run together to form a compound tense *[bapu](/glossary/#valsi-bapu)* applying to the second bridi-tail only.
 
 Adding tense or modal information to a logical connective is permitted only in the following situations:
 
-Between an ek (or joik) and _[bo](glossary#valsi-bo)_, as in:
+Between an ek (or joik) and *[bo](/glossary/#valsi-bo)*, as in:
 
-### Example 14.161.
+##### Example 14.161.
 
 |            |       |     |                 |            |        |       |     |         |
 | ---------- | ----- | --- | --------------- | ---------- | ------ | ----- | --- | ------- |
 | la         | .djan | .e  | cabo            | la         | .alis. | klama | le  | zarci   |
-| That-named | John  | and | \[simultaneous] | that-named | Alice  | go-to | the | market. |
+| That-named | John  | and | \[simultaneous\] | that-named | Alice  | go-to | the | market. |
 
 |                                                 |
 | ----------------------------------------------- |
@@ -2611,18 +2611,18 @@ Between an ek (or joik) and _[bo](glossary#valsi-bo)_, as in:
 
 
 
-Between an ek (or joik) and _[ke](glossary#valsi-ke)_, as in:
+Between an ek (or joik) and *[ke](/glossary/#valsi-ke)*, as in:
 
-### Example 14.162.
+##### Example 14.162.
 
 |     |         |     |        |     |            |
 | --- | ------- | --- | ------ | --- | ---------- |
 | mi  | dzukla  | le  | zarci  | .e  | pu         |
-| I   | walk-to | the | market | and | \[earlier] |
+| I   | walk-to | the | market | and | \[earlier\] |
 
 |     |     |       |     |     |        |         |
 | --- | --- | ----- | --- | --- | ------ | ------- |
-| ke  | le  | zdani | .a  | le  | ckule  | \[ke'e] |
+| ke  | le  | zdani | .a  | le  | ckule  | \[ke'e\] |
 | (   | the | house | or  | the | school | ).      |
 
 |                                                                    |
@@ -2631,14 +2631,14 @@ Between an ek (or joik) and _[ke](glossary#valsi-ke)_, as in:
 
 
 
-Between a gihek and _[bo](glossary#valsi-bo)_, as in:
+Between a gihek and *[bo](/glossary/#valsi-bo)*, as in:
 
-### Example 14.163.
+##### Example 14.163.
 
 |     |       |     |       |      |          |
 | --- | ----- | --- | ----- | ---- | -------- |
 | mi  | dunda | le  | cukta | gi'e | babo     |
-| I   | give  | the | book  | and  | \[later] |
+| I   | give  | the | book  | and  | \[later\] |
 
 |       |      |                |     |              |
 | ----- | ---- | -------------- | --- | ------------ |
@@ -2651,18 +2651,18 @@ Between a gihek and _[bo](glossary#valsi-bo)_, as in:
 
 
 
-Between a gihek and _[ke](glossary#valsi-ke)_, as in:
+Between a gihek and *[ke](/glossary/#valsi-ke)*, as in:
 
-### Example 14.164.
+##### Example 14.164.
 
 |     |         |     |        |      |                 |
 | --- | ------- | --- | ------ | ---- | --------------- |
 | mi  | dzukla  | le  | zarci  | gi'e | ca              |
-| I   | walk-to | the | market | and  | \[simultaneous] |
+| I   | walk-to | the | market | and  | \[simultaneous\] |
 
 |     |         |           |               |       |         |
 | --- | ------- | --------- | ------------- | ----- | ------- |
-| ke  | cusku   | zo'e      | la            | djan. | \[ke'e] |
+| ke  | cusku   | zo'e      | la            | djan. | \[ke'e\] |
 | (   | express | something | to-that-named | John. | )       |
 
 |                                                         |
@@ -2671,14 +2671,14 @@ Between a gihek and _[ke](glossary#valsi-ke)_, as in:
 
 
 
-Between an ijek (or ijoik) and _[bo](glossary#valsi-bo)_, as in:
+Between an ijek (or ijoik) and *[bo](/glossary/#valsi-bo)*, as in:
 
-### Example 14.165.
+##### Example 14.165.
 
 |     |       |     |       |      |          |     |       |     |        |
 | --- | ----- | --- | ----- | ---- | -------- | --- | ----- | --- | ------ |
 | mi  | viska | pa  | nanmu | .ije | babo     | mi  | viska | pa  | ninmu  |
-| I   | see   | a   | man.  | And  | \[later] | I   | see   | a   | woman. |
+| I   | see   | a   | man.  | And  | \[later\] | I   | see   | a   | woman. |
 
 |                                      |
 | ------------------------------------ |
@@ -2686,14 +2686,14 @@ Between an ijek (or ijoik) and _[bo](glossary#valsi-bo)_, as in:
 
 
 
-Between an ijek (or ijoik) and _[tu'e](glossary#valsi-tuhe)_, as in:
+Between an ijek (or ijoik) and *[tu'e](/glossary/#valsi-tuhe)*, as in:
 
-### Example 14.166.
+##### Example 14.166.
 
 |     |       |     |       |      |          |     |       |     |        |         |
 | --- | ----- | --- | ----- | ---- | -------- | --- | ----- | --- | ------ | ------- |
-| mi  | viska | pa  | nanmu | .ije | batu'e   | mi  | viska | pa  | ninmu  | \[tu'u] |
-| I   | see   | a   | man.  | And  | \[later] | I   | see   | a   | woman. |         |
+| mi  | viska | pa  | nanmu | .ije | batu'e   | mi  | viska | pa  | ninmu  | \[tu'u\] |
+| I   | see   | a   | man.  | And  | \[later\] | I   | see   | a   | woman. |         |
 
 |                                      |
 | ------------------------------------ |
@@ -2701,14 +2701,14 @@ Between an ijek (or ijoik) and _[tu'e](glossary#valsi-tuhe)_, as in:
 
 
 
-And finally, between a jek (or joik) and _[bo](glossary#valsi-bo)_, as in:
+And finally, between a jek (or joik) and *[bo](/glossary/#valsi-bo)*, as in:
 
-### Example 14.167.
+##### Example 14.167.
 
 |     |             |              |       |
 | --- | ----------- | ------------ | ----- |
 | mi  | mikce       | jebabo       | ricfu |
-| I   | am-a-doctor | and-\[later] | rich  |
+| I   | am-a-doctor | and-\[later\] | rich  |
 
 |                                       |
 | ------------------------------------- |
@@ -2716,16 +2716,16 @@ And finally, between a jek (or joik) and _[bo](glossary#valsi-bo)_, as in:
 
 
 
-As can be seen from [Example 14.165](chapter14#example-random-id-AhnP "Example 14.165. ") and [Example 14.166](chapter14#example-random-id-GBgP "Example 14.166. "), the choice between _[bo](glossary#valsi-bo)_ and _[ke](glossary#valsi-ke)_ (or _[tu'e](glossary#valsi-tuhe)_) is arbitrary when there are only two things to be connected. If there were no tense information to include, of course neither would be required; it is only the rule that tense information must always be sandwiched between the logical connective and a following _[bo](glossary#valsi-bo)_, _[ke](glossary#valsi-ke)_, or _[tu'e](glossary#valsi-tuhe)_ that requires the use of one of these grouping cmavo in [Example 14.161](chapter14#example-random-id-129L "Example 14.161. ") and [Example 14.163](chapter14#example-random-id-APPE "Example 14.163. ") through [Example 14.167](chapter14#example-random-id-Ce09 "Example 14.167. ").
+As can be seen from [Example 14.165](/chapter14/#example-random-id-AhnP "Example 14.165. ") and [Example 14.166](/chapter14/#example-random-id-GBgP "Example 14.166. "), the choice between *[bo](/glossary/#valsi-bo)* and *[ke](/glossary/#valsi-ke)* (or *[tu'e](/glossary/#valsi-tuhe)*) is arbitrary when there are only two things to be connected. If there were no tense information to include, of course neither would be required; it is only the rule that tense information must always be sandwiched between the logical connective and a following *[bo](/glossary/#valsi-bo)*, *[ke](/glossary/#valsi-ke)*, or *[tu'e](/glossary/#valsi-tuhe)* that requires the use of one of these grouping cmavo in [Example 14.161](/chapter14/#example-random-id-129L "Example 14.161. ") and [Example 14.163](/chapter14/#example-random-id-APPE "Example 14.163. ") through [Example 14.167](/chapter14/#example-random-id-Ce09 "Example 14.167. ").
 
-Non-logical connectives with _[bo](glossary#valsi-bo)_ and _[ke](glossary#valsi-ke)_ can include tense information in exactly the same way as logical connectives. Forethought connectives, however (except as noted below) are unable to do so, as are termsets or tense connectives. Mathematical operands and operators can also include tense information in their logical connectives as a result of their close parallelism with sumti and tanru components respectively:
+Non-logical connectives with *[bo](/glossary/#valsi-bo)* and *[ke](/glossary/#valsi-ke)* can include tense information in exactly the same way as logical connectives. Forethought connectives, however (except as noted below) are unable to do so, as are termsets or tense connectives. Mathematical operands and operators can also include tense information in their logical connectives as a result of their close parallelism with sumti and tanru components respectively:
 
-### Example 14.168.
+##### Example 14.168.
 
 |     |     |               |     |         |          |     |        |     |       |
 | --- | --- | ------------- | --- | ------- | -------- | --- | ------ | --- | ----- |
-| vei | ci  | .ebabo        | vo  | \[ve'o] | tadni    | cu  | zvati  | le  | kumfa |
-| (   | 3   | and-\[future] | 4   | )       | students |     | are-at | the | room. |
+| vei | ci  | .ebabo        | vo  | \[ve'o\] | tadni    | cu  | zvati  | le  | kumfa |
+| (   | 3   | and-\[future\] | 4   | )       | students |     | are-at | the | room. |
 
 |                                                   |
 | ------------------------------------------------- |
@@ -2735,12 +2735,12 @@ Non-logical connectives with _[bo](glossary#valsi-bo)_ and _[ke](glossary#valsi-
 
 is a simple example. There is a special grammatical rule for use when a tense applies to both of the selbri in a forethought bridi-tail connection: the entire forethought construction can just be preceded by a tense. For example:
 
-### Example 14.169.
+##### Example 14.169.
 
 |     |         |      |       |     |        |     |          |      |       |
 | --- | ------- | ---- | ----- | --- | ------ | --- | -------- | ---- | ----- |
 | mi  | pu      | ge   | klama | le  | zarci  | gi  | tervecnu | lo   | cidja |
-| I   | \[past] | both | go-to | the | market | and | buy      | some | food  |
+| I   | \[past\] | both | go-to | the | market | and | buy      | some | food  |
 
 |                                            |
 | ------------------------------------------ |
@@ -2748,13 +2748,13 @@ is a simple example. There is a special grammatical rule for use when a tense ap
 
 
 
-[Example 14.169](chapter14#example-random-id-DxuA "Example 14.169. ") is similar to [Example 14.159](chapter14#example-random-id-PMTu "Example 14.159. "). There is no time relationship specified between the going and the buying; both are simply set in the past.
+[Example 14.169](/chapter14/#example-random-id-DxuA "Example 14.169. ") is similar to [Example 14.159](/chapter14/#example-random-id-PMTu "Example 14.159. "). There is no time relationship specified between the going and the buying; both are simply set in the past.
 
 ## Abstractor connection and connection within abstractions
 
-Last and (as a matter of fact) least: a logical connective is allowed between abstraction markers of selma'o NU. As usual, the connection can be expanded to a bridi connection between two bridi which differ only in abstraction marker. Jeks are the appropriate connective. [Example 14.170](chapter14#example-random-id-qGVP "Example 14.170. ") and [Example 14.171](chapter14#example-random-id-qgVR "Example 14.171. ") are equivalent in meaning:
+Last and (as a matter of fact) least: a logical connective is allowed between abstraction markers of selma'o NU. As usual, the connection can be expanded to a bridi connection between two bridi which differ only in abstraction marker. Jeks are the appropriate connective. [Example 14.170](/chapter14/#example-random-id-qGVP "Example 14.170. ") and [Example 14.171](/chapter14/#example-random-id-qgVR "Example 14.171. ") are equivalent in meaning:
 
-### Example 14.170.
+##### Example 14.170.
 
 |     |            |            |         |         |     |         |
 | --- | ---------- | ---------- | ------- | ------- | --- | ------- |
@@ -2768,7 +2768,7 @@ Last and (as a matter of fact) least: a logical connective is allowed between ab
 
 
 
-### Example 14.171.
+##### Example 14.171.
 
 |     |         |     |          |     |            |         |         |       |         |
 | --- | ------- | --- | -------- | --- | ---------- | ------- | ------- | ----- | ------- |
@@ -2781,7 +2781,7 @@ As with tenses and modals, there is no forethought and no way to override the le
 
 Logical connectives and abstraction are related in another way as well, though. Since an abstraction contains a bridi, the bridi may have a logical connection inside it. Is it legitimate to split the outer bridi into two, joined by the logical connection? Absolutely not. For example:
 
-### Example 14.172.
+##### Example 14.172.
 
 |     |       |     |           |           |               |
 | --- | ----- | --- | --------- | --------- | ------------- |
@@ -2801,7 +2801,7 @@ Logical connectives and abstraction are related in another way as well, though. 
 
 is true, since the embedded sentence is a tautology, but:
 
-### Example 14.173.
+##### Example 14.173.
 
 |     |       |     |           |           |               |     |       |            |           |
 | --- | ----- | --- | --------- | --------- | ------------- | --- | ----- | ---------- | --------- |
@@ -2820,7 +2820,7 @@ is true, since the embedded sentence is a tautology, but:
 
 
 
-is false, since I have no evidence one way or the other (_[jinvi](glossary#valsi-jinvi)_ requires some sort of evidence, real or fancied, unlike _[krici](glossary#valsi-krici)_).
+is false, since I have no evidence one way or the other (*[jinvi](/glossary/#valsi-jinvi)* requires some sort of evidence, real or fancied, unlike *[krici](/glossary/#valsi-krici)*).
 
 ## Constructs and appropriate connectives
 
@@ -2830,72 +2830,72 @@ A dash indicates that connection of the specified type is not possible.
 
 | construct     | afterthought logical                                                                                                  | forethought logical                                                                                                   | afterthought non-logical                                                                                               | forethought non-logical                                                                                                                         |
 | ------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| bridi         | [ijek\*](chapter14#section-bridi-connection "14.4. Logical connection of bridi")                       | [gek](chapter14#section-forethought-bridi-connection "14.5. Forethought bridi connection")             | [ijoik\*](chapter14#section-non-logical-continued "14.15. More about non-logical connectives")          | [joigik](chapter14#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
-| sumti         | [ek\*](chapter14#section-sumti-connection "14.6. sumti connection")                                    | [gek](chapter14#section-sumti-connection "14.6. sumti connection")                                     | [joik\*](chapter14#section-non-logical-connectives "14.14. Non-logical connectives")                    | [joigik](chapter14#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
-| bridi-tails   | [gihek\*](chapter14#section-compound-bridi "14.9. Compound bridi")                                     | [gek](chapter14#section-multiple-compound-bridi "14.10. Multiple compound bridi")                      | -                                                                                                                      | [joigik](chapter14#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
-| termsets      | [ek\*](chapter14#section-termsets "14.11. Termset logical connection")                                 | [gek](chapter14#section-termsets "14.11. Termset logical connection")                                  | [joik\*](chapter14#section-termsets "14.11. Termset logical connection")                                | [joigik](chapter14#section-termsets "14.11. Termset logical connection")                                                         |
-| tanru parts   | [jek](chapter14#section-tanru "14.12. Logical connection within tanru")                                | [guhek](chapter14#section-tanru "14.12. Logical connection within tanru")                              | [joik\*](chapter14#section-tanru "14.12. Logical connection within tanru")                              | -                                                                                                                                               |
-| operands      | [ek\*](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")  | [gek](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | [joik\*](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso") | [joigik](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")                          |
-| operators     | [jek](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | [guhek](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso") | [joik](chapter14#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | -                                                                                                                                               |
-| tenses/modals | [jek](chapter14#section-sumtcita "14.18. Tenses, modals, and logical connection")                      | -                                                                                                                     | [joik](chapter14#section-sumtcita "14.18. Tenses, modals, and logical connection")                      | -                                                                                                                                               |
-| abstractors   | [jek](chapter14#section-abstractors "14.19. Abstractor connection and connection within abstractions") | -                                                                                                                     | [joik](chapter14#section-abstractors "14.19. Abstractor connection and connection within abstractions") | -                                                                                                                                               |
+| bridi         | [ijek\*](/chapter14/#section-bridi-connection "14.4. Logical connection of bridi")                       | [gek](/chapter14/#section-forethought-bridi-connection "14.5. Forethought bridi connection")             | [ijoik\*](/chapter14/#section-non-logical-continued "14.15. More about non-logical connectives")          | [joigik](/chapter14/#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
+| sumti         | [ek\*](/chapter14/#section-sumti-connection "14.6. sumti connection")                                    | [gek](/chapter14/#section-sumti-connection "14.6. sumti connection")                                     | [joik\*](/chapter14/#section-non-logical-connectives "14.14. Non-logical connectives")                    | [joigik](/chapter14/#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
+| bridi-tails   | [gihek\*](/chapter14/#section-compound-bridi "14.9. Compound bridi")                                     | [gek](/chapter14/#section-multiple-compound-bridi "14.10. Multiple compound bridi")                      | -                                                                                                                      | [joigik](/chapter14/#section-non-logical-continued-continued "14.16. Interval connectives and forethought non-logical connection") |
+| termsets      | [ek\*](/chapter14/#section-termsets "14.11. Termset logical connection")                                 | [gek](/chapter14/#section-termsets "14.11. Termset logical connection")                                  | [joik\*](/chapter14/#section-termsets "14.11. Termset logical connection")                                | [joigik](/chapter14/#section-termsets "14.11. Termset logical connection")                                                         |
+| tanru parts   | [jek](/chapter14/#section-tanru "14.12. Logical connection within tanru")                                | [guhek](/chapter14/#section-tanru "14.12. Logical connection within tanru")                              | [joik\*](/chapter14/#section-tanru "14.12. Logical connection within tanru")                              | -                                                                                                                                               |
+| operands      | [ek\*](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")  | [gek](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | [joik\*](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso") | [joigik](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")                          |
+| operators     | [jek](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | [guhek](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso") | [joik](/chapter14/#section-mekso-connections "14.17. Logical and non-logical connectives within mekso")   | -                                                                                                                                               |
+| tenses/modals | [jek](/chapter14/#section-sumtcita "14.18. Tenses, modals, and logical connection")                      | -                                                                                                                     | [joik](/chapter14/#section-sumtcita "14.18. Tenses, modals, and logical connection")                      | -                                                                                                                                               |
+| abstractors   | [jek](/chapter14/#section-abstractors "14.19. Abstractor connection and connection within abstractions") | -                                                                                                                     | [joik](/chapter14/#section-abstractors "14.19. Abstractor connection and connection within abstractions") | -                                                                                                                                               |
 
 ## Truth functions and corresponding logical connectives
 
-The following table specifies, for each truth function, the most-often used cmavo or compound cmavo which expresses it for each of the six types of logical connective. (Other compound cmavo are often possible: for example, _[.a](glossary#valsi-a)_ means the same as _[a](glossary#valsi-a)_, and could be used instead.)
+The following table specifies, for each truth function, the most-often used cmavo or compound cmavo which expresses it for each of the six types of logical connective. (Other compound cmavo are often possible: for example, *[.a](/glossary/#valsi-a)* means the same as *[a](/glossary/#valsi-a)*, and could be used instead.)
 
 | truth | ek                                                                                | jek                                                                                | gihek                                                                                  | gek-gik                      | guhek-gik                    |
 | ----- | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------- |
-| TTTF  | _[a](glossary#valsi-a)_                                                          | _[ja](glossary#valsi-ja)_                                                         | _[gi'a](glossary#valsi-giha)_                                                         | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| TTFT  | _[.a](glossary#valsi-a)_ _[nai](glossary#valsi-nai)_                            | _[ja](glossary#valsi-ja)_ _[nai](glossary#valsi-nai)_                            | _[gi'a](glossary#valsi-giha)_ _[nai](glossary#valsi-nai)_                            | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
-| TTFF  | _[u](glossary#valsi-u)_                                                          | _[ju](glossary#valsi-ju)_                                                         | _[gi'u](glossary#valsi-gihu)_                                                         | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| TFTT  | _[na](glossary#valsi-na)_ _[.a](glossary#valsi-a)_                              | _[na](glossary#valsi-na)_ _[ja](glossary#valsi-ja)_                              | _[na](glossary#valsi-na)_ _[gi'a](glossary#valsi-giha)_                              | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| TFTF  | _[se](glossary#valsi-se)_ _[.u](glossary#valsi-u)_                              | _[se](glossary#valsi-se)_ _[ju](glossary#valsi-ju)_                              | _[se](glossary#valsi-se)_ _[gi'u](glossary#valsi-gihu)_                              | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| TFFT  | _[o](glossary#valsi-o)_                                                          | _[jo](glossary#valsi-jo)_                                                         | _[gi'o](glossary#valsi-giho)_                                                         | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| TFFF  | _[e](glossary#valsi-e)_                                                          | _[je](glossary#valsi-je)_                                                         | _[gi'e](glossary#valsi-gihe)_                                                         | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| FTTT  | _[na](glossary#valsi-na)_ _[.a](glossary#valsi-a)_ _[nai](glossary#valsi-nai)_ | _[na](glossary#valsi-na)_ _[ja](glossary#valsi-ja)_ _[nai](glossary#valsi-nai)_ | _[na](glossary#valsi-na)_ _[gi'a](glossary#valsi-giha)_ _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
-| FTTF  | _[.o](glossary#valsi-o)_ _[nai](glossary#valsi-nai)_                            | _[jo](glossary#valsi-jo)_ _[nai](glossary#valsi-nai)_                            | _[gi'o](glossary#valsi-giho)_ _[nai](glossary#valsi-nai)_                            | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
-| FTFT  | _[se](glossary#valsi-se)_ _[.u](glossary#valsi-u)_ _[nai](glossary#valsi-nai)_ | _[se](glossary#valsi-se)_ _[ju](glossary#valsi-ju)_ _[nai](glossary#valsi-nai)_ | _[se](glossary#valsi-se)_ _[gi'u](glossary#valsi-gihu)_ _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
-| FTFF  | _[.e](glossary#valsi-e)_ _[nai](glossary#valsi-nai)_                            | _[je](glossary#valsi-je)_ _[nai](glossary#valsi-nai)_                            | _[gi'e](glossary#valsi-gihe)_ _[nai](glossary#valsi-nai)_                            | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
-| FFTT  | _[na](glossary#valsi-na)_ _[.u](glossary#valsi-u)_                              | _[na](glossary#valsi-na)_ _[ju](glossary#valsi-ju)_                              | _[na](glossary#valsi-na)_ _[gi'u](glossary#valsi-gihu)_                              | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| FFTF  | _[na](glossary#valsi-na)_ _[.e](glossary#valsi-e)_                              | _[na](glossary#valsi-na)_ _[je](glossary#valsi-je)_                              | _[na](glossary#valsi-na)_ _[gi'e](glossary#valsi-gihe)_                              | _[gi](glossary#valsi-gi)_   | _[gi](glossary#valsi-gi)_   |
-| FFFT  | _[na](glossary#valsi-na)_ _[.e](glossary#valsi-e)_ _[nai](glossary#valsi-nai)_ | _[na](glossary#valsi-na)_ _[je](glossary#valsi-je)_ _[nai](glossary#valsi-nai)_ | _[na](glossary#valsi-na)_ _[gi'e](glossary#valsi-gihe)_ _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ | _[nai](glossary#valsi-nai)_ |
+| TTTF  | *[a](/glossary/#valsi-a)*                                                          | *[ja](/glossary/#valsi-ja)*                                                         | *[gi'a](/glossary/#valsi-giha)*                                                         | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| TTFT  | *[.a](/glossary/#valsi-a)* *[nai](/glossary/#valsi-nai)*                            | *[ja](/glossary/#valsi-ja)* *[nai](/glossary/#valsi-nai)*                            | *[gi'a](/glossary/#valsi-giha)* *[nai](/glossary/#valsi-nai)*                            | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
+| TTFF  | *[u](/glossary/#valsi-u)*                                                          | *[ju](/glossary/#valsi-ju)*                                                         | *[gi'u](/glossary/#valsi-gihu)*                                                         | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| TFTT  | *[na](/glossary/#valsi-na)* *[.a](/glossary/#valsi-a)*                              | *[na](/glossary/#valsi-na)* *[ja](/glossary/#valsi-ja)*                              | *[na](/glossary/#valsi-na)* *[gi'a](/glossary/#valsi-giha)*                              | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| TFTF  | *[se](/glossary/#valsi-se)* *[.u](/glossary/#valsi-u)*                              | *[se](/glossary/#valsi-se)* *[ju](/glossary/#valsi-ju)*                              | *[se](/glossary/#valsi-se)* *[gi'u](/glossary/#valsi-gihu)*                              | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| TFFT  | *[o](/glossary/#valsi-o)*                                                          | *[jo](/glossary/#valsi-jo)*                                                         | *[gi'o](/glossary/#valsi-giho)*                                                         | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| TFFF  | *[e](/glossary/#valsi-e)*                                                          | *[je](/glossary/#valsi-je)*                                                         | *[gi'e](/glossary/#valsi-gihe)*                                                         | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| FTTT  | *[na](/glossary/#valsi-na)* *[.a](/glossary/#valsi-a)* *[nai](/glossary/#valsi-nai)* | *[na](/glossary/#valsi-na)* *[ja](/glossary/#valsi-ja)* *[nai](/glossary/#valsi-nai)* | *[na](/glossary/#valsi-na)* *[gi'a](/glossary/#valsi-giha)* *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
+| FTTF  | *[.o](/glossary/#valsi-o)* *[nai](/glossary/#valsi-nai)*                            | *[jo](/glossary/#valsi-jo)* *[nai](/glossary/#valsi-nai)*                            | *[gi'o](/glossary/#valsi-giho)* *[nai](/glossary/#valsi-nai)*                            | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
+| FTFT  | *[se](/glossary/#valsi-se)* *[.u](/glossary/#valsi-u)* *[nai](/glossary/#valsi-nai)* | *[se](/glossary/#valsi-se)* *[ju](/glossary/#valsi-ju)* *[nai](/glossary/#valsi-nai)* | *[se](/glossary/#valsi-se)* *[gi'u](/glossary/#valsi-gihu)* *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
+| FTFF  | *[.e](/glossary/#valsi-e)* *[nai](/glossary/#valsi-nai)*                            | *[je](/glossary/#valsi-je)* *[nai](/glossary/#valsi-nai)*                            | *[gi'e](/glossary/#valsi-gihe)* *[nai](/glossary/#valsi-nai)*                            | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
+| FFTT  | *[na](/glossary/#valsi-na)* *[.u](/glossary/#valsi-u)*                              | *[na](/glossary/#valsi-na)* *[ju](/glossary/#valsi-ju)*                              | *[na](/glossary/#valsi-na)* *[gi'u](/glossary/#valsi-gihu)*                              | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| FFTF  | *[na](/glossary/#valsi-na)* *[.e](/glossary/#valsi-e)*                              | *[na](/glossary/#valsi-na)* *[je](/glossary/#valsi-je)*                              | *[na](/glossary/#valsi-na)* *[gi'e](/glossary/#valsi-gihe)*                              | *[gi](/glossary/#valsi-gi)*   | *[gi](/glossary/#valsi-gi)*   |
+| FFFT  | *[na](/glossary/#valsi-na)* *[.e](/glossary/#valsi-e)* *[nai](/glossary/#valsi-nai)* | *[na](/glossary/#valsi-na)* *[je](/glossary/#valsi-je)* *[nai](/glossary/#valsi-nai)* | *[na](/glossary/#valsi-na)* *[gi'e](/glossary/#valsi-gihe)* *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* | *[nai](/glossary/#valsi-nai)* |
 
-Note: ijeks are exactly the same as the corresponding jeks, except for the prefixed _[i](glossary#valsi-i)_.
+Note: ijeks are exactly the same as the corresponding jeks, except for the prefixed *[i](/glossary/#valsi-i)*.
 
 ## Rules for making logical and non-logical connectives
 
-The full set of rules for inserting _[na](glossary#valsi-na)_, _[se](glossary#valsi-se)_, and _[nai](glossary#valsi-nai)_ into any connective is:
+The full set of rules for inserting *[na](/glossary/#valsi-na)*, *[se](/glossary/#valsi-se)*, and *[nai](/glossary/#valsi-nai)* into any connective is:
 
 Afterthought logical connectives (eks, jeks, giheks, ijeks):
 
-- Negate first construct: Place _[na](glossary#valsi-na)_ before the connective cmavo (but after the _[i](glossary#valsi-i)_ of an ijek).
+- Negate first construct: Place *[na](/glossary/#valsi-na)* before the connective cmavo (but after the *[i](/glossary/#valsi-i)* of an ijek).
 
-- Negate second construct: Place _[nai](glossary#valsi-nai)_ after the connective cmavo.
+- Negate second construct: Place *[nai](/glossary/#valsi-nai)* after the connective cmavo.
 
-- Exchange constructs: Place _[se](glossary#valsi-se)_ before the connective cmavo (after _[na](glossary#valsi-na)_ if any).
+- Exchange constructs: Place *[se](/glossary/#valsi-se)* before the connective cmavo (after *[na](/glossary/#valsi-na)* if any).
 
 Forethought logical connectives (geks, guheks):
 
-- Negate first construct: Place _[nai](glossary#valsi-nai)_ after the connective cmavo.
+- Negate first construct: Place *[nai](/glossary/#valsi-nai)* after the connective cmavo.
 
-- Negate second construct: Place _[nai](glossary#valsi-nai)_ after the _[gi](glossary#valsi-gi)_.
+- Negate second construct: Place *[nai](/glossary/#valsi-nai)* after the *[gi](/glossary/#valsi-gi)*.
 
-- Exchange constructs: Place _[se](glossary#valsi-se)_ before the connective cmavo.
+- Exchange constructs: Place *[se](/glossary/#valsi-se)* before the connective cmavo.
 
 Non-logical connectives (joiks, joigiks):
 
-- Negate connection: Place _[nai](glossary#valsi-nai)_ after the connective cmavo (but before the _[gi](glossary#valsi-gi)_ of a joigik).
+- Negate connection: Place *[nai](/glossary/#valsi-nai)* after the connective cmavo (but before the *[gi](/glossary/#valsi-gi)* of a joigik).
 
-- Exchange constructs: Place _[se](glossary#valsi-se)_ before the connective cmavo.
+- Exchange constructs: Place *[se](/glossary/#valsi-se)* before the connective cmavo.
 
 ## Locations of other tables
 
-[Section 14.1](chapter14#section-connectives-introduction "14.1. Logical connection and truth tables"): a table explaining the meaning of each truth function in English.
+[Section 14.1](/chapter14/#section-connectives-introduction "14.1. Logical connection and truth tables"): a table explaining the meaning of each truth function in English.
 
-[Section 14.2](chapter14#section-four-basics "14.2. The Four basic vowels"): a table relating the truth functions to the four basic vowels.
+[Section 14.2](/chapter14/#section-four-basics "14.2. The Four basic vowels"): a table relating the truth functions to the four basic vowels.
 
-[Section 14.13](chapter14#section-truth-and-connective-questions "14.13. Truth questions and connective questions"): a table of the connective question cmavo.
+[Section 14.13](/chapter14/#section-truth-and-connective-questions "14.13. Truth questions and connective questions"): a table of the connective question cmavo.
 
-[Section 14.14](chapter14#section-non-logical-connectives "14.14. Non-logical connectives"): a table of the meanings of JOI cmavo when used to connect sumti.
+[Section 14.14](/chapter14/#section-non-logical-connectives "14.14. Non-logical connectives"): a table of the meanings of JOI cmavo when used to connect sumti.
 
