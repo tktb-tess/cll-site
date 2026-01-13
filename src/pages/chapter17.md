@@ -68,7 +68,7 @@ Here are some illustrations of common Lojban words spelled out using the alphabe
 
 Spelling out words is less useful in Lojban than in English, for two reasons: Lojban spelling is phonemic, so there can be no real dispute about how a word is spelled; and the Lojban lerfu words sound more alike than the English ones do, since they are made up systematically. The English words “fail” and “vale” sound similar, but just hearing the first lerfu word of either, namely “eff” or “vee”, is enough to discriminate easily between them – and even if the first lerfu word were somehow confused, neither “vail” nor “fale” is a word of ordinary English, so the rest of the spelling determines which word is meant. Still, the capability of spelling out words does exist in Lojban.
 
-Note that the lerfu words ending in *y* were written (in [Example 17.2](/chapter17/#example-172 "Example 17.2. ") and [Example 17.3](/chapter17/#example-173 "Example 17.3. ")) with pauses after them. It is not strictly necessary to pause after such lerfu words, but failure to do so can in some cases lead to ambiguities:
+Note that the lerfu words ending in *y* were written (in [Example 17.2](/chapter17/#example-172 "Example 17.2.") and [Example 17.3](/chapter17/#example-173 "Example 17.3.")) with pauses after them. It is not strictly necessary to pause after such lerfu words, but failure to do so can in some cases lead to ambiguities:
 
 ##### Example 17.4.
 
@@ -125,7 +125,7 @@ The cmavo and compound cmavo of this type will be called “shift words”.
 
 How long does a shift word last? Theoretically, until the next shift word that contradicts it or until the end of text. In practice, it is common to presume that a shift word is only in effect until the next word other than a lerfu word is found.
 
-It is often convenient to shift just a single letter to upper case. The cmavo *[tau](/glossary/#tau)*, of selma'o LAU, is useful for the purpose. A LAU cmavo must always be immediately followed by a BY cmavo or its equivalent: the combination is grammatically equivalent to a single BY. (See [Section 17.14](/chapter17/#list-of-all-auxiliary-lerfu-word-cmavo "17.14. List of all auxiliary lerfu-word cmavo") for details.)
+It is often convenient to shift just a single letter to upper case. The cmavo *[tau](/glossary/#tau)*, of selma'o LAU, is useful for the purpose. A LAU cmavo must always be immediately followed by a BY cmavo or its equivalent: the combination is grammatically equivalent to a single BY. (See [Section 17.14](/chapter17/#1714-list-of-all-auxiliary-lerfu-word-cmavo "17.14. List of all auxiliary lerfu-word cmavo") for details.)
 
 A likely use of *[tau](/glossary/#tau)* is in the internationally standardized symbols for the chemical elements. Each element is represented using either a single upper-case lerfu or one upper-case lerfu followed by one lower-case lerfu:
 
@@ -180,7 +180,7 @@ The *.* and *,* characters used in Lojbanic writing to represent pause and sylla
 
 ## 17.5. Alien alphabets
 
-As stated in [Section 17.1](/chapter17/#whats-a-letteral-anyway "17.1. What's a letteral, anyway?"), Lojban's goal of cultural neutrality demands a standard set of lerfu words for the lerfu of as many other writing systems as possible. When we meet these lerfu in written text (particularly, though not exclusively, mathematical text), we need a standard Lojbanic way to pronounce them.
+As stated in [Section 17.1](/chapter17/#171-whats-a-letteral-anyway "17.1. What's a letteral, anyway?"), Lojban's goal of cultural neutrality demands a standard set of lerfu words for the lerfu of as many other writing systems as possible. When we meet these lerfu in written text (particularly, though not exclusively, mathematical text), we need a standard Lojbanic way to pronounce them.
 
 There are certainly hundreds of alphabets and other writing systems in use around the world, and it is probably an unachievable goal to create a single system which can express all of them, but if perfection is not demanded, a usable system can be created from the raw material which Lojban provides.
 
@@ -214,7 +214,7 @@ A few more possibilities for Latin-alphabet letters used in languages other than
 
 However, this system is not ideal for all purposes. For one thing, it is verbose. The native lerfu words are often quite long, and with *[bu](/glossary/#bu)* added they become even longer: the worst-case Greek lerfu word would be *.Omikron. bu*, with four syllables and two mandatory pauses. In addition, alphabets that are used by many languages have separate sets of lerfu words for each language, and which set is Lojban to choose?
 
-The alternative plan, therefore, is to use a shift word similar to those introduced in [Section 17.3](/chapter17/#upper-and-lower-cases "17.3. Upper and lower cases"). After the appearance of such a shift word, the regular lerfu words are re-interpreted to represent the lerfu of the alphabet now in use. After a shift to the Greek alphabet, for example, the lerfu word *[ty](/glossary/#ty)* would represent not Latin “t” but Greek “tau”. Why “tau”? Because it is, in some sense, the closest counterpart of “t” within the Greek lerfu system. In principle it would be all right to map *[ty.](/glossary/#ty)* to “phi” or even “omega”, but such an arbitrary relationship would be extremely hard to remember.
+The alternative plan, therefore, is to use a shift word similar to those introduced in [Section 17.3](/chapter17/#173-upper-and-lower-cases "17.3. Upper and lower cases"). After the appearance of such a shift word, the regular lerfu words are re-interpreted to represent the lerfu of the alphabet now in use. After a shift to the Greek alphabet, for example, the lerfu word *[ty](/glossary/#ty)* would represent not Latin “t” but Greek “tau”. Why “tau”? Because it is, in some sense, the closest counterpart of “t” within the Greek lerfu system. In principle it would be all right to map *[ty.](/glossary/#ty)* to “phi” or even “omega”, but such an arbitrary relationship would be extremely hard to remember.
 
 Where no obvious closest counterpart exists, some more or less arbitrary choice must be made. Some alien lerfu may simply not have any shifted equivalent, forcing the speaker to fall back on a *[bu](/glossary/#bu)* form. Since a *[bu](/glossary/#bu)* form may mean different things in different alphabets, it is safest to employ a shift word even when *[bu](/glossary/#bu)* forms are in use.
 
@@ -313,7 +313,7 @@ Lojban cannot settle this question by fiat. Either it must be left up to default
 | tei | .ebu | .akut.bu | foi | ty. | tei | .akut.bu | .ebu | foi |
 | (   | e    | acute    | )   | t   | (   | acute    | e    | )   |
 
-and it does not matter whether *akut. bu* appears before or after *[.ebu](/glossary/#ebu)*; the *[foi](/glossary/#foi)* grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by [Example 17.18](/chapter17/#example-1718 "Example 17.18. ") would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
+and it does not matter whether *akut. bu* appears before or after *[.ebu](/glossary/#ebu)*; the *[foi](/glossary/#foi)* grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by [Example 17.18](/chapter17/#example-1718 "Example 17.18.") would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
 
 This system breaks down in languages which use more than one accent mark on a single lerfu; some other convention must be used for showing which accent marks are written where in that case. The obvious convention is to represent the mark nearest the basic lerfu by the lerfu word closest to the word representing the basic lerfu. Any remaining ambiguities must be resolved by further conventions not yet established.
 
@@ -321,7 +321,7 @@ Some languages, like Swedish and Finnish, consider certain accented lerfu to be 
 
 In addition, when discussing a specific language, it is permissible to make up new lerfu words, as long as they are either explained locally or well understood from context: thus Spanish “ll” or Croatian “lj” could be called *[.ibu](/glossary/#ibu)*, but that usage would not necessarily be universally understood.
 
-[Section 17.19](/chapter17/#proposed-lerfu-words-for-some-accent-marks-and-multiple-letters "17.19. Proposed lerfu words for some accent marks and multiple letters") contains a table of proposed lerfu words for some common accent marks.
+[Section 17.19](/chapter17/#1719-proposed-lerfu-words-for-some-accent-marks-and-multiple-letters "17.19. Proposed lerfu words for some accent marks and multiple letters") contains a table of proposed lerfu words for some common accent marks.
 
 ## 17.7. Punctuation marks
 
@@ -346,7 +346,7 @@ First, both Chinese and Japanese have standard Latin-alphabet representations, k
 | .y'y.bu | .abu | ny. | vo  | zy. | .ibu | vo  |
 | h       | a    | n   | 4   | z   | i    | 4   |
 
-The cmavo *[vo](/glossary/#vo)* is the Lojban digit “4”. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in [Section 17.6](/chapter17/#accent-marks-and-compound-lerfu-words "17.6. Accent marks and compound lerfu words").
+The cmavo *[vo](/glossary/#vo)* is the Lojban digit “4”. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in [Section 17.6](/chapter17/#176-accent-marks-and-compound-lerfu-words "17.6. Accent marks and compound lerfu words").
 
 The Japanese company named “Mitsubishi” in English is spelled the same way in romaji, and could be spelled out in Lojban thus:
 
@@ -375,7 +375,7 @@ A lerfu string may be used as a pro-sumti (a sumti which refers to some previous
 | --------- |
 | A loves B |
 
-In [Example 17.21](/chapter17/#example-1721 "Example 17.21. "), *[.abu](/glossary/#abu)* and *[by.](/glossary/#by)* represent specific sumti, but which sumti they represent must be inferred from context.
+In [Example 17.21](/chapter17/#example-1721 "Example 17.21."), *[.abu](/glossary/#abu)* and *[by.](/glossary/#by)* represent specific sumti, but which sumti they represent must be inferred from context.
 
 Alternatively, lerfu strings may be assigned by *[goi](/glossary/#goi)*, the regular pro-sumti assignment cmavo:
 
@@ -389,7 +389,7 @@ Alternatively, lerfu strings may be assigned by *[goi](/glossary/#goi)*, the reg
 | --------------------------------------------- |
 | The dog, or G, is black. G goes to the house. |
 
-There is a special rule that sometimes makes lerfu strings more advantageous than the regular pro-sumti cmavo. If no assignment can be found for a lerfu string (especially a single lerfu word), it can be assumed to refer to the most recent sumti whose name or description begins in Lojban with that lerfu. So [Example 17.22](/chapter17/#example-1722 "Example 17.22. ") can be rephrased:
+There is a special rule that sometimes makes lerfu strings more advantageous than the regular pro-sumti cmavo. If no assignment can be found for a lerfu string (especially a single lerfu word), it can be assumed to refer to the most recent sumti whose name or description begins in Lojban with that lerfu. So [Example 17.22](/chapter17/#example-1722 "Example 17.22.") can be rephrased:
 
 ##### Example 17.23.
 
@@ -462,7 +462,7 @@ requires the first *[boi](/glossary/#boi)* to separate the lerfu string *[xy.](/
 
 ## 17.10. References to lerfu
 
-The rules of [Section 17.9](/chapter17/#lerfu-words-as-pro-sumti "17.9. lerfu words as pro-sumti") make it impossible to use unmarked lerfu words to refer to lerfu themselves. In the sentence:
+The rules of [Section 17.9](/chapter17/#179-lerfu-words-as-pro-sumti "17.9. lerfu words as pro-sumti") make it impossible to use unmarked lerfu words to refer to lerfu themselves. In the sentence:
 
 ##### Example 17.28.
 
@@ -483,7 +483,7 @@ the hearer would try to find what previous sumti *[.abu](/glossary/#abu)* refers
 | --------------------------------- |
 | The-expression “a” is-a-letteral. |
 
-Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1. ") into Lojban:
+Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1.") into Lojban:
 
 ##### Example 17.30.
 
@@ -496,7 +496,7 @@ Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1. ") in
 | ---------------------------------- |
 | This sentence contains four “e” s. |
 
-Since the Lojban sentence has only four *e* lerfu rather than fourteen, the translation is not a literal one – but [Example 17.31](/chapter17/#example-1731 "Example 17.31. ") is a Lojban truth just as [Example 17.1](/chapter17/#example-171 "Example 17.1. ") is an English truth. Coincidentally, the colloquial English translation of [Example 17.31](/chapter17/#example-1731 "Example 17.31. ") is also true!
+Since the Lojban sentence has only four *e* lerfu rather than fourteen, the translation is not a literal one – but [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is a Lojban truth just as [Example 17.1](/chapter17/#example-171 "Example 17.1.") is an English truth. Coincidentally, the colloquial English translation of [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is also true!
 
 The reader might be tempted to use quotation with *[li'u](/glossary/#liu)* instead of *[me'o](/glossary/#meo)*, producing:
 
@@ -507,7 +507,7 @@ The reader might be tempted to use quotation with *[li'u](/glossary/#liu)* inste
 | lu        | .abu | li'u        | cu  | lerfu          |
 | \[quote\] | .abu | \[unquote\] |     | is-a-letteral. |
 
-(The single-word quote *[zo](/glossary/#zo)* cannot be used, because *[.abu](/glossary/#abu)* is a compound cmavo.) But [Example 17.31](/chapter17/#example-1731 "Example 17.31. ") is false, because it says:
+(The single-word quote *[zo](/glossary/#zo)* cannot be used, because *[.abu](/glossary/#abu)* is a compound cmavo.) But [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is false, because it says:
 
 ##### Example 17.32.
 
@@ -626,7 +626,7 @@ In Lojban, a name can be almost any sequence of sounds that ends in a consonant 
 | ---------------- |
 | … SQL. IBM. NYC. |
 
-There is no fixed convention for assigning the final consonant. In [Example 17.40](/chapter17/#example-1740 "Example 17.40. "), the last consonant of the lerfu string has been replicated into final position.
+There is no fixed convention for assigning the final consonant. In [Example 17.40](/chapter17/#example-1740 "Example 17.40."), the last consonant of the lerfu string has been replicated into final position.
 
 Some compression can be done by leaving out *[bu](/glossary/#bu)* after vowel lerfu words (except for *[.y.bu](/glossary/#ybu)*, wherein the *[bu](/glossary/#bu)* cannot be omitted without ambiguity). Compression is moderately important because it's hard to say long names without introducing an involuntary (and illegal) pause:
 
@@ -648,7 +648,7 @@ Some compression can be done by leaving out *[bu](/glossary/#bu)* after vowel le
 | ---------------- |
 | … SQL. IBM. NYC. |
 
-In [Example 17.41](/chapter17/#example-1741 "Example 17.41. "), the final consonant *m* stands for *[merko](/glossary/#merko)*, indicating the source culture of these acronyms.
+In [Example 17.41](/chapter17/#example-1741 "Example 17.41."), the final consonant *m* stands for *[merko](/glossary/#merko)*, indicating the source culture of these acronyms.
 
 Another approach, which some may find easier to say and which is compatible with older versions of the language that did not have a *'* character, is to use the consonant *z* instead of *'* :
 
@@ -692,7 +692,7 @@ This works because *[la](/glossary/#la)*, the cmavo that normally introduces nam
 | ----------------- |
 | Bear is a writer. |
 
-[Example 17.44](/chapter17/#example-1744 "Example 17.44. ") does not of course refer to a bear (*le cribe* or *lo cribe*) but to something else, probably a person, named “Bear”. Similarly, *me dy ny. .abu* is a predicate which can be used as a name, producing a kind of acronym which can have pauses between the individual lerfu words.
+[Example 17.44](/chapter17/#example-1744 "Example 17.44.") does not of course refer to a bear (*le cribe* or *lo cribe*) but to something else, probably a person, named “Bear”. Similarly, *me dy ny. .abu* is a predicate which can be used as a name, producing a kind of acronym which can have pauses between the individual lerfu words.
 
 ## 17.13. Computerized character codes
 
@@ -715,7 +715,7 @@ Since the first application of computers to non-numerical information, character
 | The character code 36 in ASCII represents American dollars. |
 | “$” represents American dollars.                            |
 
-Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45. ") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/#see)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
+Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45.") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/#see)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
 
 As another example, the Unicode character set (also known as ISO 10646) represents the international symbol of peace, an inverted trident in a circle, using the base-16 value 262E. In a suitable context, a Lojbanist may say:
 
@@ -757,7 +757,7 @@ The following sections contain tables of proposed lerfu words for some of the st
 
 These tables are not meant to be authoritative (several authorities within the Lojban community have niggled over them extensively, disagreeing with each other and sometimes with themselves). They provide a working basis until actual usage is available, rather than a final resolution of lerfu word problems. Probably the system presented here will evolve somewhat before settling down into a final, conventional form.
 
-For Latin-alphabet lerfu words, see [Section 17.2](/chapter17/#a-to-z-in-lojban-plus-one "17.2. A to Z in Lojban, plus one") (for Lojban) and [Section 17.5](/chapter17/#alien-alphabets "17.5. Alien alphabets") (for non-Lojban Latin-alphabet lerfu).
+For Latin-alphabet lerfu words, see [Section 17.2](/chapter17/#172-a-to-z-in-lojban-plus-one "17.2. A to Z in Lojban, plus one") (for Lojban) and [Section 17.5](/chapter17/#175-alien-alphabets "17.5. Alien alphabets") (for non-Lojban Latin-alphabet lerfu).
 
 ## 17.16. Proposed lerfu words for the Greek alphabet
 

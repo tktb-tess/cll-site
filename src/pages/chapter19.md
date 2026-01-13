@@ -17,18 +17,18 @@ This chapter is also not very self-contained. It makes passing reference to a gr
 
 The following cmavo is discussed in this section:
 
-|    |   |                    |
-| -- | - | ------------------ |
-| .i | I | sentence separator |
+|     |     |                    |
+| --- | --- | ------------------ |
+| .i  | I   | sentence separator |
 
 Since Lojban is audio-visually isomorphic, there needs to be a spoken and written way of signaling the end of a sentence and the start of the following one. In written English, a period serves this purpose; in spoken English, a tone contour (rising or falling) usually does the job, or sometimes a long pause. Lojban uses a single separator: the cmavo *[i](/glossary/#i)* (of selma'o I):
 
 ##### Example 19.1.
 
-|    |       |     |        |    |     |         |     |       |
-| -- | ----- | --- | ------ | -- | --- | ------- | --- | ----- |
-| mi | klama | le  | zarci  | .i | do  | cadzu   | le  | bisli |
-| I  | go-to | the | store. |    | You | walk-on | the | ice.  |
+|     |       |     |        |     |     |         |     |       |
+| --- | ----- | --- | ------ | --- | --- | ------- | --- | ----- |
+| mi  | klama | le  | zarci  | .i  | do  | cadzu   | le  | bisli |
+| I   | go-to | the | store. |     | You | walk-on | the | ice.  |
 
 The word “separator” should be noted. *[i](/glossary/#i)* is not normally used after the last sentence nor before the first one, although both positions are technically grammatical. *[i](/glossary/#i)* signals a new sentence on the same topic, not necessarily by the same speaker. The relationship between the sentences is left vague, except in stories, where the relationship usually is temporal, and the following sentence states something that happened after the previous sentence.
 
@@ -36,11 +36,11 @@ Note that although the first letter of an English sentence is capitalized, the c
 
 An *[i](/glossary/#i)* cmavo may or may not be used when the speaker of the following sentence is different from the speaker of the preceding sentence, depending on whether the sentences are felt to be connected or not.
 
-An *[i](/glossary/#i)* cmavo can be compounded with a logical or non-logical connective (a jek or joik), a modal or tense connective, or both: these constructs are explained in [Section 9.8](/chapter09/#other-modal-connections "9.8. Other modal connections"), [Section 10.16](/chapter10/#tense-relations-between-sentences "10.16. Tense relations between sentences"), and [Section 14.4](/chapter14/#logical-connection-of-bridi "14.4. Logical connection of bridi"). In all cases, the *[i](/glossary/#i)* comes first in the compound. Attitudinals can also be attached to an *[i](/glossary/#i)* if they are meant to apply to the whole sentence: see [Section 13.9](/chapter13/#the-uses-of-indicators "13.9. The uses of indicators").
+An *[i](/glossary/#i)* cmavo can be compounded with a logical or non-logical connective (a jek or joik), a modal or tense connective, or both: these constructs are explained in [Section 9.8](/chapter09/#98-other-modal-connections "9.8. Other modal connections"), [Section 10.16](/chapter10/#1016-tense-relations-between-sentences "10.16. Tense relations between sentences"), and [Section 14.4](/chapter14/#144-logical-connection-of-bridi "14.4. Logical connection of bridi"). In all cases, the *[i](/glossary/#i)* comes first in the compound. Attitudinals can also be attached to an *[i](/glossary/#i)* if they are meant to apply to the whole sentence: see [Section 13.9](/chapter13/#139-the-uses-of-indicators "13.9. The uses of indicators").
 
 There exist a pair of mechanisms for binding a sequence of sentences closely together. If the *[i](/glossary/#i)* (with or without connectives) is followed by *[bo](/glossary/#bo)* (of selma'o BO), then the two sentences being separated are understood to be more closely grouped than sentences connected by *[i](/glossary/#i)* alone.
 
-Similarly, a group of sentences can be preceded by *[tu'e](/glossary/#tue)* (of selma'o TUhE) and followed by *[tu'u](/glossary/#tuu)* (of selma'o TUhU) to fuse them into a single unit. A common use of *[tu'u](/glossary/#tuu)* is to group the sentences which compose a poem: the title sentence would precede the group, separated from it by *[i](/glossary/#i)*. Another use might be a set of directions, where each numbered direction might be surrounded by *[tu'u](/glossary/#tuu)* and contain one or more sentences separated by *[i](/glossary/#i)*. Grouping with *[tu'e](/glossary/#tue)* and *[tu'u](/glossary/#tuu)* is analogous to grouping with *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* to establish the scope of logical or non-logical connectives (see [Section 14.8](/chapter14/#grouping-of-afterthought-connectives "14.8. Grouping of afterthought connectives")).
+Similarly, a group of sentences can be preceded by *[tu'e](/glossary/#tue)* (of selma'o TUhE) and followed by *[tu'u](/glossary/#tuu)* (of selma'o TUhU) to fuse them into a single unit. A common use of *[tu'u](/glossary/#tuu)* is to group the sentences which compose a poem: the title sentence would precede the group, separated from it by *[i](/glossary/#i)*. Another use might be a set of directions, where each numbered direction might be surrounded by *[tu'u](/glossary/#tuu)* and contain one or more sentences separated by *[i](/glossary/#i)*. Grouping with *[tu'e](/glossary/#tue)* and *[tu'u](/glossary/#tuu)* is analogous to grouping with *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* to establish the scope of logical or non-logical connectives (see [Section 14.8](/chapter14/#148-grouping-of-afterthought-connectives "14.8. Grouping of afterthought connectives")).
 
 ## 19.3. Paragraphs: NIhO
 
@@ -56,9 +56,9 @@ The paragraph is a concept used in writing systems for two purposes: to indicate
 
 A *[ni'o](/glossary/#nio)* can take the place of an *[i](/glossary/#i)* as a sentence separator, and in addition signals a new topic or paragraph. Grammatically, any number of *[ni'o](/glossary/#nio)* cmavo can appear consecutively and are equivalent to a single one; semantically, a greater number of *[ni'o](/glossary/#nio)* cmavo indicates a larger-scale change of topic. This feature allows complexly structured text, with topics, subtopics, and sub-subtopics, to be represented clearly and unambiguously in both spoken and written Lojban. However, some conventional differences do exist between *[ni'o](/glossary/#nio)* in writing and in conversation.
 
-In written text, a single *[ni'o](/glossary/#nio)* is a mere discursive indicator of a new subject, whereas *ni'oni'o* marks a change in the context. In this situation, *ni'oni'o* implicitly cancels the definitions of all pro-sumti of selma'o KOhA as well as pro-bridi of selma'o GOhA. (Explicit cancelling is expressed by the cmavo *[da'o](/glossary/#dao)* of selma'o DAhO, which has the free grammar of an indicator – it can appear almost anywhere.) The use of *ni'oni'o* does not affect indicators (of selma'o UI) or tense references, but *ni'oni'oni'o*, indicating a drastic change of topic, would serve to reset both indicators and tenses. (See [Section 19.8](/chapter19/#attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO") for a discussion of indicator scope.)
+In written text, a single *[ni'o](/glossary/#nio)* is a mere discursive indicator of a new subject, whereas *ni'oni'o* marks a change in the context. In this situation, *ni'oni'o* implicitly cancels the definitions of all pro-sumti of selma'o KOhA as well as pro-bridi of selma'o GOhA. (Explicit cancelling is expressed by the cmavo *[da'o](/glossary/#dao)* of selma'o DAhO, which has the free grammar of an indicator – it can appear almost anywhere.) The use of *ni'oni'o* does not affect indicators (of selma'o UI) or tense references, but *ni'oni'oni'o*, indicating a drastic change of topic, would serve to reset both indicators and tenses. (See [Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO") for a discussion of indicator scope.)
 
-In spoken text, which is inherently less structured, these levels are reduced by one, with *[ni'o](/glossary/#nio)* indicating a change in context sufficient to cancel pro-sumti and pro-bridi assignment. On the other hand, in a book, or in stories within stories such as “The Arabian Nights”, further levels may be expressed by extending the *[ni'o](/glossary/#nio)* string as needed. Normally, a written text will begin with the number of *[ni'o](/glossary/#nio)* cmavo needed to signal the largest scale division which the text contains. *[ni'o](/glossary/#nio)* strings may be subscripted to label each context of discourse: see [Section 19.6](/chapter19/#subscripts-xi "19.6. Subscripts: XI").
+In spoken text, which is inherently less structured, these levels are reduced by one, with *[ni'o](/glossary/#nio)* indicating a change in context sufficient to cancel pro-sumti and pro-bridi assignment. On the other hand, in a book, or in stories within stories such as “The Arabian Nights”, further levels may be expressed by extending the *[ni'o](/glossary/#nio)* string as needed. Normally, a written text will begin with the number of *[ni'o](/glossary/#nio)* cmavo needed to signal the largest scale division which the text contains. *[ni'o](/glossary/#nio)* strings may be subscripted to label each context of discourse: see [Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI").
 
 [*no'i*](/glossary/#noi) is similar in effect to *[ni'o](/glossary/#nio)*, but indicates the resumption of a previous topic. In speech, it is analogous to (but much shorter than) such English discursive phrases as “But getting back to the point ...”. By default, the topic resumed is that in effect before the last *[ni'o](/glossary/#nio)*. When subtopics are nested within topics, then *[no'i](/glossary/#noi)* would resume the previous subtopic and *no'ino'i* the previous topic. Note that *[no'i](/glossary/#noi)* also resumes tense and pro-sumti assignments dropped at the previous *[ni'o](/glossary/#nio)*.
 
@@ -76,9 +76,9 @@ The normal Lojban sentence is just a bridi, parallel to the normal English sente
 
 ##### Example 19.2.
 
-|    |       |    |       |
-| -- | ----- | -- | ----- |
-| mi | klama | le | zarci |
+|     |       |     |       |
+| --- | ----- | --- | ----- |
+| mi  | klama | le  | zarci |
 
 |                      |
 | -------------------- |
@@ -96,27 +96,27 @@ In Chinese, the normal sentence form is different: a topic is stated, and a comm
 
 - I've heard this news already.
 
-The colon in the first two versions of [Example 19.3](/chapter19/#example-193 "Example 19.3. ") separate the topic (“this news”) from the comment (“I know already”).
+The colon in the first two versions of [Example 19.3](/chapter19/#example-193 "Example 19.3.") separate the topic (“this news”) from the comment (“I know already”).
 
 Lojban uses the cmavo *[zo'u](/glossary/#zou)* (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):
 
 ##### Example 19.4.
 
-|     |       |      |    |               |       |
-| --- | ----- | ---- | -- | ------------- | ----- |
-| le  | nuzba | zo'u | mi | ba'o          | djuno |
-| The | news  | :    | I  | \[perfective\] | know. |
+|     |       |      |     |                |       |
+| --- | ----- | ---- | --- | -------------- | ----- |
+| le  | nuzba | zo'u | mi  | ba'o           | djuno |
+| The | news  | :    | I   | \[perfective\] | know. |
 
-[Example 19.4](/chapter19/#example-194 "Example 19.4. ") is the literal Lojban translation of [Example 19.3](/chapter19/#example-193 "Example 19.3. "). Of course, the topic-comment structure can be changed to a straightforward bridi structure:
+[Example 19.4](/chapter19/#example-194 "Example 19.4.") is the literal Lojban translation of [Example 19.3](/chapter19/#example-193 "Example 19.3."). Of course, the topic-comment structure can be changed to a straightforward bridi structure:
 
 ##### Example 19.5.
 
-|    |               |       |     |       |
-| -- | ------------- | ----- | --- | ----- |
-| mi | ba'o          | djuno | le  | nuzba |
-| I  | \[perfective\] | know  | the | news. |
+|     |                |       |     |       |
+| --- | -------------- | ----- | --- | ----- |
+| mi  | ba'o           | djuno | le  | nuzba |
+| I   | \[perfective\] | know  | the | news. |
 
-[Example 19.5](/chapter19/#example-195 "Example 19.5. ") means the same as [Example 19.4](/chapter19/#example-194 "Example 19.4. "), and it is simpler. However, often the position of the topic in the place structure of the selbri within the comment is vague:
+[Example 19.5](/chapter19/#example-195 "Example 19.5.") means the same as [Example 19.4](/chapter19/#example-194 "Example 19.4."), and it is simpler. However, often the position of the topic in the place structure of the selbri within the comment is vague:
 
 ##### Example 19.6.
 
@@ -125,7 +125,7 @@ Lojban uses the cmavo *[zo'u](/glossary/#zou)* (of selma'o ZOhU) to separate top
 | le  | finpe | zo'u | citka |
 | the | fish  | :    | eat   |
 
-Is the fish eating or being eaten? The sentence doesn't say. The Chinese equivalent of [Example 19.6](/chapter19/#example-196 "Example 19.6. ") is:
+Is the fish eating or being eaten? The sentence doesn't say. The Chinese equivalent of [Example 19.6](/chapter19/#example-196 "Example 19.6.") is:
 
 ##### Example 19.7.
 
@@ -135,37 +135,37 @@ Is the fish eating or being eaten? The sentence doesn't say. The Chinese equival
 
 which is vague in exactly the same way.
 
-Grammatically, it is possible to have more than one sumti before *[zo'u](/glossary/#zou)*. This is not normally useful in topic-comment sentences, but is necessary in the other use of *[zo'u](/glossary/#zou)*: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Lojban (see [Section 16.2](/chapter16/#existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")), but an example would be:
+Grammatically, it is possible to have more than one sumti before *[zo'u](/glossary/#zou)*. This is not normally useful in topic-comment sentences, but is necessary in the other use of *[zo'u](/glossary/#zou)*: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Lojban (see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")), but an example would be:
 
 ##### Example 19.8.
 
-|         |    |       |              |      |
-| ------- | -- | ----- | ------------ | ---- |
-| ro      | da | poi   | prenu        | ku'o |
-| For-all | X  | which | are-persons, |      |
+|         |     |       |              |      |
+| ------- | --- | ----- | ------------ | ---- |
+| ro      | da  | poi   | prenu        | ku'o |
+| For-all | X   | which | are-persons, |      |
 
-|                |    |           |    |                  |    |
-| -------------- | -- | --------- | -- | ---------------- | -- |
-| su'o           | de | zo'u      | de | patfu            | da |
-| there-exists-a | Y  | such-that | Y  | is-the-father-of | X. |
+|                |     |           |     |                  |     |
+| -------------- | --- | --------- | --- | ---------------- | --- |
+| su'o           | de  | zo'u      | de  | patfu            | da  |
+| there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 |                            |
 | -------------------------- |
 | Every person has a father. |
 
-The string of sumti before *[zo'u](/glossary/#zou)* (called the “prenex”: see [Section 16.2](/chapter16/#existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")) may contain both a topic and bound variables:
+The string of sumti before *[zo'u](/glossary/#zou)* (called the “prenex”: see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")) may contain both a topic and bound variables:
 
 ##### Example 19.9.
 
-|                 |         |         |    |       |              |      |
-| --------------- | ------- | ------- | -- | ----- | ------------ | ---- |
-| loi             | patfu   | ro      | da | poi   | prenu        | ku'o |
-| For-the-mass-of | fathers | for-all | X  | which | are-persons, |      |
+|                 |         |         |     |       |              |      |
+| --------------- | ------- | ------- | --- | ----- | ------------ | ---- |
+| loi             | patfu   | ro      | da  | poi   | prenu        | ku'o |
+| For-the-mass-of | fathers | for-all | X   | which | are-persons, |      |
 
-|                |    |           |    |                  |    |
-| -------------- | -- | --------- | -- | ---------------- | -- |
-| su'o           | de | zo'u      | de | patfu            | da |
-| there-exists-a | Y  | such-that | Y  | is-the-father-of | X. |
+|                |     |           |     |                  |     |
+| -------------- | --- | --------- | --- | ---------------- | --- |
+| su'o           | de  | zo'u      | de  | patfu            | da  |
+| there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 |                                       |
 | ------------------------------------- |
@@ -175,16 +175,16 @@ To specify a topic which affects more than one sentence, wrap the sentences in *
 
 ##### Example 19.10.
 
-|             |       |      |      |       |     |          |        |     |       |         |
-| ----------- | ----- | ---- | ---- | ----- | --- | -------- | ------ | --- | ----- | ------- |
-| loi         | jdini | zo'u | tu'e |       | do  | ponse    | .inaja | do  | djica | \[tu'u\] |
-| The-mass-of | money | :    | (    | \[if\] | you | possess, | then   | you | want  | )       |
+|             |       |      |      |        |     |          |        |     |       |          |
+| ----------- | ----- | ---- | ---- | ------ | --- | -------- | ------ | --- | ----- | -------- |
+| loi         | jdini | zo'u | tu'e |        | do  | ponse    | .inaja | do  | djica | \[tu'u\] |
+| The-mass-of | money | :    | (    | \[if\] | you | possess, | then   | you | want  | )        |
 
 |                                     |
 | ----------------------------------- |
 | Money: if you have it, you want it. |
 
-Note: In Lojban, you do not “want money”; you “want to have money” or something of the sort, as the x2 place of *[djica](/glossary/#djica)* demands an event. As a result, the straightforward rendering of [Example 19.9](/chapter19/#example-199 "Example 19.9. ") without a topic is not:
+Note: In Lojban, you do not “want money”; you “want to have money” or something of the sort, as the x2 place of *[djica](/glossary/#djica)* demands an event. As a result, the straightforward rendering of [Example 19.9](/chapter19/#example-199 "Example 19.9.") without a topic is not:
 
 ##### Example 19.11.
 
@@ -202,7 +202,7 @@ where *[ri](/glossary/#ri)* means *loi jdini* and is interpreted as “the mere 
 | do  | ponse   | loi jdini | .inaja  | do  | djica  | tu'a            | ri  |
 | You | possess | money     | only-if | you | desire | something-about | it. |
 
-namely, the possession of money. But topic-comment sentences like [Example 19.10](/chapter19/#example-1910 "Example 19.10. ") are inherently vague, and this difference between *[ponse](/glossary/#ponse)* (which expects a physical object in x2) and *[djica](/glossary/#djica)* is ignored. See [Example 19.45](/chapter19/#example-1945 "Example 19.45. ") for another topic/comment sentence.
+namely, the possession of money. But topic-comment sentences like [Example 19.10](/chapter19/#example-1910 "Example 19.10.") are inherently vague, and this difference between *[ponse](/glossary/#ponse)* (which expects a physical object in x2) and *[djica](/glossary/#djica)* is ignored. See [Example 19.45](/chapter19/#example-1945 "Example 19.45.") for another topic/comment sentence.
 
 The subject of an English sentence is often the topic as well, but in Lojban the sumti in the x1 place is not necessarily the topic, especially if it is the normal (unconverted) x1 for the selbri. Thus Lojban sentences don't necessarily have a “subject” in the English sense.
 
@@ -230,16 +230,16 @@ Lojban questions are not at all like English questions. There are two basic type
 
 ##### Example 19.13.
 
-|                   |     |       |     |       |
-| ----------------- | --- | ----- | --- | ----- |
-| xu                | do  | klama | le  | zarci |
+|                    |     |       |     |       |
+| ------------------ | --- | ----- | --- | ----- |
+| xu                 | do  | klama | le  | zarci |
 | \[True-or-false?\] | You | go-to | the | store |
 
 |                                                     |
 | --------------------------------------------------- |
 | Are you going to the store/Did you go to the store? |
 
-(Since the Lojban is tenseless, either colloquial translation might be correct.) Truth questions are further discussed in [Section 15.8](/chapter15/#truth-questions "15.8. Truth questions").
+(Since the Lojban is tenseless, either colloquial translation might be correct.) Truth questions are further discussed in [Section 15.8](/chapter15/#158-truth-questions "15.8. Truth questions").
 
 Fill-in-the-blank questions have a cmavo representing some Lojban word or phrase which is not known to the questioner, and which the answerer is to supply. There are a variety of cmavo belonging to different selma'o which provide different kinds of blanks.
 
@@ -247,9 +247,9 @@ Where a sumti is not known, a question may be formed with *[ma](/glossary/#ma)* 
 
 ##### Example 19.14.
 
-|                |         |     |       |
-| -------------- | ------- | --- | ----- |
-| ma             | klama   | le  | zarci |
+|                 |         |     |       |
+| --------------- | ------- | --- | ----- |
+| ma              | klama   | le  | zarci |
 | \[What-sumti?\] | goes-to | the | store |
 
 |                            |
@@ -260,9 +260,9 @@ Of course, the *[ma](/glossary/#ma)* need not be in the x1 place:
 
 ##### Example 19.15.
 
-|     |       |                |
-| --- | ----- | -------------- |
-| do  | klama | ma             |
+|     |       |                 |
+| --- | ----- | --------------- |
+| do  | klama | ma              |
 | You | go-to | \[what-sumti?\] |
 
 |                      |
@@ -299,18 +299,18 @@ and the answer would be two sumti, which are meant to fill in the two *[ma](/glo
 
 ##### Example 19.18.
 
-|    |           |        |
-| -- | --------- | ------ |
-| mi | le        | zarci  |
-| I, | \[to\]-the | store. |
+|     |            |        |
+| --- | ---------- | ------ |
+| mi  | le         | zarci  |
+| I,  | \[to\]-the | store. |
 
 An even more complex example, depending on the non-logical connective *[fa'u](/glossary/#fau)* (of selma'o JOI), which is like the English “and ... respectively”:
 
 ##### Example 19.19.
 
-|    |      |    |       |    |      |    |
-| -- | ---- | -- | ----- | -- | ---- | -- |
-| ma | fa'u | ma | klama | ma | fa'u | ma |
+|     |      |     |       |     |      |     |
+| --- | ---- | --- | ----- | --- | ---- | --- |
+| ma  | fa'u | ma  | klama | ma  | fa'u | ma  |
 
 |                                                  |
 | ------------------------------------------------ |
@@ -320,25 +320,25 @@ An answer might be
 
 ##### Example 19.20.
 
-|    |       |    |         |     |        |     |         |
-| -- | ----- | -- | ------- | --- | ------ | --- | ------- |
-| la | djan. | la | marcas. | le  | zarci  | le  | briju   |
-|    | John, |    | Marsha, | the | store, | the | office. |
+|     |       |     |         |     |        |     |         |
+| --- | ----- | --- | ------- | --- | ------ | --- | ------- |
+| la  | djan. | la  | marcas. | le  | zarci  | le  | briju   |
+|     | John, |     | Marsha, | the | store, | the | office. |
 
 |                                                               |
 | ------------------------------------------------------------- |
 | John and Marsha go to the store and the office, respectively. |
 
-(Note: A mechanical substitution of [Example 19.20](/chapter19/#example-1920 "Example 19.20. ") into [Example 19.19](/chapter19/#example-1919 "Example 19.19. ") produces an ungrammatical result, because *\* ... le zarci fa'u le briju* is ungrammatical Lojban: the first *le zarci* has to be closed with its proper terminator *[ku](/glossary/#ku)*, for reasons explained in [Section 14.14](/chapter14/#non-logical-connectives "14.14. Non-logical connectives"). This effect is not important: Lojban behaves as if all elided terminators have been supplied in both question and answer before inserting the latter into the former. The exchange is grammatical if question and answer are each separately grammatical.)
+(Note: A mechanical substitution of [Example 19.20](/chapter19/#example-1920 "Example 19.20.") into [Example 19.19](/chapter19/#example-1919 "Example 19.19.") produces an ungrammatical result, because *\* ... le zarci fa'u le briju* is ungrammatical Lojban: the first *le zarci* has to be closed with its proper terminator *[ku](/glossary/#ku)*, for reasons explained in [Section 14.14](/chapter14/#1414-non-logical-connectives "14.14. Non-logical connectives"). This effect is not important: Lojban behaves as if all elided terminators have been supplied in both question and answer before inserting the latter into the former. The exchange is grammatical if question and answer are each separately grammatical.)
 
 Questions to be answered with a selbri are expressed with *[mo](/glossary/#mo)* of selma'o GOhA, which is a kind of pro-bridi:
 
 ##### Example 19.21.
 
-|    |         |                 |
-| -- | ------- | --------------- |
-| la | lojban. | mo              |
-|    | Lojban  | \[what-selbri?\] |
+|     |         |                  |
+| --- | ------- | ---------------- |
+| la  | lojban. | mo               |
+|     | Lojban  | \[what-selbri?\] |
 
 |                 |
 | --------------- |
@@ -350,9 +350,9 @@ Questions about numbers are expressed with *[xo](/glossary/#xo)* of selma'o PA:
 
 ##### Example 19.22.
 
-|     |       |                 |          |
-| --- | ----- | --------------- | -------- |
-| do  | viska | xo              | prenu    |
+|     |       |                  |          |
+| --- | ----- | ---------------- | -------- |
+| do  | viska | xo               | prenu    |
 | You | saw   | \[what-number?\] | persons. |
 
 |                              |
@@ -368,9 +368,9 @@ The answer would be a simple number, another kind of non-bridi utterance:
 | vomu        |
 | Forty-five. |
 
-Fill-in-the-blank questions may also be asked about: logical connectives (using cmavo *[ji](/glossary/#ji)* of A, *[ge'i](/glossary/#gei)* of GA, *[gi'i](/glossary/#gii)* of GIhA, *[gu'i](/glossary/#gui)* of GUhA, or *[je'i](/glossary/#jei)* of JA, and receiving an ek, gihek, ijek, or ijoik as an answer) – see [Section 14.13](/chapter14/#truth-questions-and-connective-questions "14.13. Truth questions and connective questions"); attitudes (using *[pei](/glossary/#pei)* of UI, and receiving an attitudinal as an answer) – see [Section 13.10](/chapter13/#attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"); place structures (using *[fi'a](/glossary/#fia)* of FA, and receiving a cmavo of FA as an answer) – see [Section 9.3](/chapter09/#tagging-places-fa "9.3. Tagging places: FA"); tenses and modals (using *[cu'e](/glossary/#cue)* of CUhE, and receiving any tense or BAI cmavo as an answer) – see [Section 9.6](/chapter09/#modal-tags-bai "9.6. Modal tags: BAI") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
+Fill-in-the-blank questions may also be asked about: logical connectives (using cmavo *[ji](/glossary/#ji)* of A, *[ge'i](/glossary/#gei)* of GA, *[gi'i](/glossary/#gii)* of GIhA, *[gu'i](/glossary/#gui)* of GUhA, or *[je'i](/glossary/#jei)* of JA, and receiving an ek, gihek, ijek, or ijoik as an answer) – see [Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"); attitudes (using *[pei](/glossary/#pei)* of UI, and receiving an attitudinal as an answer) – see [Section 13.10](/chapter13/#1310-attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"); place structures (using *[fi'a](/glossary/#fia)* of FA, and receiving a cmavo of FA as an answer) – see [Section 9.3](/chapter09/#93-tagging-places-fa "9.3. Tagging places: FA"); tenses and modals (using *[cu'e](/glossary/#cue)* of CUhE, and receiving any tense or BAI cmavo as an answer) – see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
 
-Questions can be marked by placing *[pau](/glossary/#pau)* (of selma'o UI) before the question bridi. See [Section 13.13](/chapter13/#miscellaneous-indicators "13.13. Miscellaneous indicators") for details.
+Questions can be marked by placing *[pau](/glossary/#pau)* (of selma'o UI) before the question bridi. See [Section 13.13](/chapter13/#1313-miscellaneous-indicators "13.13. Miscellaneous indicators") for details.
 
 The full list of non-bridi utterances suitable as answers to questions is:
 
@@ -386,7 +386,7 @@ The full list of non-bridi utterances suitable as answers to questions is:
 
 - a prenex/topic (to modify some previously expressed bridi, see [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"))
 
-- linked arguments (beginning with *[be](/glossary/#be)* or *[bei](/glossary/#bei)* and attached to some previously expressed selbri, often in a description, see [Section 5.7](/chapter05/#linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o"))
+- linked arguments (beginning with *[be](/glossary/#be)* or *[bei](/glossary/#bei)* and attached to some previously expressed selbri, often in a description, see [Section 5.7](/chapter05/#57-linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o"))
 
 At the beginning of a text, the following non-bridi are also permitted:
 
@@ -394,7 +394,7 @@ At the beginning of a text, the following non-bridi are also permitted:
 
 - indicators (to express a prevailing attitude, see [Chapter 13](/chapter13/ "Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators"))
 
-- *[nai](/glossary/#nai)* (to vaguely negate something or other, see [Section 15.7](/chapter15/#negation-of-minor-grammatical-constructs "15.7. Negation of minor grammatical constructs"))
+- *[nai](/glossary/#nai)* (to vaguely negate something or other, see [Section 15.7](/chapter15/#157-negation-of-minor-grammatical-constructs "15.7. Negation of minor grammatical constructs"))
 
 Where not needed for the expression of answers, most of these are made grammatical for pragmatic reasons: people will say them in conversation, and there is no reason to rule them out as ungrammatical merely because most of them are vague.
 
@@ -402,9 +402,9 @@ Where not needed for the expression of answers, most of these are made grammatic
 
 The following cmavo is discussed in this section:
 
-|    |    |           |
-| -- | -- | --------- |
-| xi | XI | subscript |
+|     |     |           |
+| --- | --- | --------- |
+| xi  | XI  | subscript |
 
 The cmavo *[xi](/glossary/#xi)* (of selma'o XI) indicates that a subscript (a number, a lerfu string, or a parenthesized mekso) follows. Subscripts can be attached to almost any construction and are placed following the construction (or its terminator word, which is generally required). They are useful either to extend the finite cmavo list to infinite length, or to make more refined distinctions than the standard cmavo list permits. The remainder of this section mentions some places where subscripts might naturally be used.
 
@@ -412,19 +412,19 @@ Lojban gismu have at most five places:
 
 ##### Example 19.24.
 
-|    |    |       |    |     |        |      |     |       |     |     |       |       |     |       |
-| -- | -- | ----- | -- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
-| mi | cu | klama |    | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
-| I  |    | go    | to | the | market | from | the | house | via | the | road  | using | the | car.  |
+|     |     |       |     |     |        |      |     |       |     |     |       |       |     |       |
+| --- | --- | ----- | --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
+| mi  | cu  | klama |     | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
+| I   |     | go    | to  | the | market | from | the | house | via | the | road  | using | the | car.  |
 
-Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of [Example 19.24](/chapter19/#example-1924 "Example 19.24. "), using *[xe](/glossary/#xe)* to swap the x1 and x5 places, would produce:
+Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of [Example 19.24](/chapter19/#example-1924 "Example 19.24."), using *[xe](/glossary/#xe)* to swap the x1 and x5 places, would produce:
 
 ##### Example 19.25.
 
-|     |       |    |                           |    |     |        |
-| --- | ----- | -- | ------------------------- | -- | --- | ------ |
-| le  | karce | cu | xe-klama                  |    | le  | zarci  |
-| The | car   |    | is-a-transportation-means | to | the | market |
+|     |       |     |                           |     |     |        |
+| --- | ----- | --- | ------------------------- | --- | --- | ------ |
+| le  | karce | cu  | xe-klama                  |     | le  | zarci  |
+| The | car   |     | is-a-transportation-means | to  | the | market |
 
 |      |     |       |     |     |       |     |     |
 | ---- | --- | ----- | --- | --- | ----- | --- | --- |
@@ -435,43 +435,43 @@ And reordering of the place structures might produce:
 
 ##### Example 19.26.
 
-|     |     |       |      |     |        |    |    |
-| --- | --- | ----- | ---- | --- | ------ | -- | -- |
-| fo  | le  | dargu | fi   | le  | zdani  | fa | mi |
-| Via | the | road, | from | the | house, |    | I, |
+|     |     |       |      |     |        |     |     |
+| --- | --- | ----- | ---- | --- | ------ | --- | --- |
+| fo  | le  | dargu | fi   | le  | zdani  | fa  | mi  |
+| Via | the | road, | from | the | house, |     | I,  |
 
-|    |     |         |       |     |       |    |       |
-| -- | --- | ------- | ----- | --- | ----- | -- | ----- |
-| fe | le  | zarci   | fu    | le  | karce | cu | klama |
-| to | the | market, | using | the | car,  |    | go.   |
+|     |     |         |       |     |       |     |       |
+| --- | --- | ------- | ----- | --- | ----- | --- | ----- |
+| fe  | le  | zarci   | fu    | le  | karce | cu  | klama |
+| to  | the | market, | using | the | car,  |     | go.   |
 
-[Example 19.24](/chapter19/#example-1924 "Example 19.24. ") to [Example 19.26](/chapter19/#example-1926 "Example 19.26. ") all mean the same thing. But consider the lujvo *[nunkla](/glossary/#nunkla)*, formed by applying the abstraction operator *[nu](/glossary/#nu)* to *[klama](/glossary/#klama)*:
+[Example 19.24](/chapter19/#example-1924 "Example 19.24.") to [Example 19.26](/chapter19/#example-1926 "Example 19.26.") all mean the same thing. But consider the lujvo *[nunkla](/glossary/#nunkla)*, formed by applying the abstraction operator *[nu](/glossary/#nu)* to *[klama](/glossary/#klama)*:
 
 ##### Example 19.27.
 
-|                 |                       |    |                      |    |    |
-| --------------- | --------------------- | -- | -------------------- | -- | -- |
-| la'e            | di'u                  | cu | nunkla               |    | mi |
-| The-referent-of | the-previous-sentence |    | is-an-event-of-going | by | me |
+|                 |                       |     |                      |     |     |
+| --------------- | --------------------- | --- | -------------------- | --- | --- |
+| la'e            | di'u                  | cu  | nunkla               |     | mi  |
+| The-referent-of | the-previous-sentence |     | is-an-event-of-going | by  | me  |
 
-|    |     |        |      |     |       |     |     |       |       |     |       |
-| -- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
-|    | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
-| to | the | market | from | the | house | via | the | road  | using | the | car.  |
+|     |     |        |      |     |       |     |     |       |       |     |       |
+| --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
+|     | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
+| to  | the | market | from | the | house | via | the | road  | using | the | car.  |
 
-[Example 19.27](/chapter19/#example-1927 "Example 19.27. ") shows that *[nunkla](/glossary/#nunkla)* has six places: the five places of *[klama](/glossary/#klama)* plus a new one (placed first) for the event itself. Performing transformations similar to that of [Example 19.25](/chapter19/#example-1925 "Example 19.25. ") requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" ([Section 19.6](/chapter19/#subscripts-xi "19.6. Subscripts: XI")):
+[Example 19.27](/chapter19/#example-1927 "Example 19.27.") shows that *[nunkla](/glossary/#nunkla)* has six places: the five places of *[klama](/glossary/#klama)* plus a new one (placed first) for the event itself. Performing transformations similar to that of [Example 19.25](/chapter19/#example-1925 "Example 19.25.") requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" ([Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI")):
 
 ##### Example 19.28.
 
-|     |       |    |                                                 |    |    |
-| --- | ----- | -- | ----------------------------------------------- | -- | -- |
-| le  | karce | cu | sexixa nunkla                                   |    | mi |
-| The | car   |    | is-a-transportation-means-in-the-event-of-going | by | me |
+|     |       |     |                                                 |     |     |
+| --- | ----- | --- | ----------------------------------------------- | --- | --- |
+| le  | karce | cu  | sexixa nunkla                                   |     | mi  |
+| The | car   |     | is-a-transportation-means-in-the-event-of-going | by  | me  |
 
-|    |     |        |      |     |       |
-| -- | --- | ------ | ---- | --- | ----- |
-|    | le  | zarci  |      | le  | zdani |
-| to | the | market | from | the | house |
+|     |     |        |      |     |       |
+| --- | --- | ------ | ---- | --- | ----- |
+|     | le  | zarci  |      | le  | zdani |
+| to  | the | market | from | the | house |
 
 |     |     |       |                                                        |
 | --- | --- | ----- | ------------------------------------------------------ |
@@ -482,22 +482,22 @@ Likewise, a sixth place tag can be created by using any cmavo of FA with a subsc
 
 ##### Example 19.29.
 
-|     |     |       |      |     |        |    |     |
-| --- | --- | ----- | ---- | --- | ------ | -- | --- |
-| fu  | le  | dargu | fo   | le  | zdani  | fe | mi  |
-| Via | the | road, | from | the | house, | by | me, |
+|     |     |       |      |     |        |     |     |
+| --- | --- | ----- | ---- | --- | ------ | --- | --- |
+| fu  | le  | dargu | fo   | le  | zdani  | fe  | mi  |
+| Via | the | road, | from | the | house, | by  | me, |
 
-|    |                   |                                      |
-| -- | ----------------- | ------------------------------------ |
-| fa | la'edi'u          |                                      |
-|    | is-an-event-which | is-referred-to-by-the-last-sentence, |
+|     |                   |                                      |
+| --- | ----------------- | ------------------------------------ |
+| fa  | la'edi'u          |                                      |
+|     | is-an-event-which | is-referred-to-by-the-last-sentence, |
 
-|    |     |         |        |     |       |    |                       |
-| -- | --- | ------- | ------ | --- | ----- | -- | --------------------- |
-| fi | le  | zarci   | faxixa | le  | karce | cu | nunkla                |
-| to | the | market, | using  | the | car,  |    | is-an-event-of-going. |
+|     |     |         |        |     |       |     |                       |
+| --- | --- | ------- | ------ | --- | ----- | --- | --------------------- |
+| fi  | le  | zarci   | faxixa | le  | karce | cu  | nunkla                |
+| to  | the | market, | using  | the | car,  |     | is-an-event-of-going. |
 
-[Example 19.27](/chapter19/#example-1927 "Example 19.27. ") to [Example 19.29](/chapter19/#example-1929 "Example 19.29. ") also all mean the same thing, and each is derived straightforwardly from any of the others, despite the tortured nature of the English glosses. In addition, any other member of SE or FA could be substituted into *sexixa* and *faxixa* without change of meaning: *vexixa* means the same thing as *sexixa*.
+[Example 19.27](/chapter19/#example-1927 "Example 19.27.") to [Example 19.29](/chapter19/#example-1929 "Example 19.29.") also all mean the same thing, and each is derived straightforwardly from any of the others, despite the tortured nature of the English glosses. In addition, any other member of SE or FA could be substituted into *sexixa* and *faxixa* without change of meaning: *vexixa* means the same thing as *sexixa*.
 
 Lojban provides two groups of pro-sumti, both belonging to selma'o KOhA. The ko'a-series cmavo are used to refer to explicitly specified sumti to which they have been bound using *[goi](/glossary/#goi)*. The da-series, on the other hand, are existentially or universally quantified variables. (These concepts are explained more fully in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic").) There are ten ko'a-series cmavo and 3 da-series cmavo available.
 
@@ -505,10 +505,10 @@ If more are required, any cmavo of the ko'a-series or the da-series can be subsc
 
 ##### Example 19.30.
 
-|    |     |    |
-| -- | --- | -- |
-| da | xi  | vo |
-| X  | sub | 4  |
+|     |     |     |
+| --- | --- | --- |
+| da  | xi  | vo  |
+| X   | sub | 4   |
 
 is the 4th bound variable of the 1st sequence of the da-series, and
 
@@ -531,16 +531,16 @@ Subscripts on lerfu words are used in the standard mathematical way to extend th
 | The-number   | x-sub-1    | equals | the-number | x-sub-2    | plus | x-sub-3    |
 | x1 = x2 + x3 |            |        |            |            |      |            |
 
-and can be used to extend the number of pro-sumti as well, since lerfu strings outside mathematical contexts are grammatically and semantically equivalent to pro-sumti of the ko'a-series. (In [Example 19.32](/chapter19/#example-1932 "Example 19.32. "), note the required terminator *[boi](/glossary/#boi)* after each *[xy.](/glossary/#xy)* cmavo; this terminator allows the subscript to be attached without ambiguity.)
+and can be used to extend the number of pro-sumti as well, since lerfu strings outside mathematical contexts are grammatically and semantically equivalent to pro-sumti of the ko'a-series. (In [Example 19.32](/chapter19/#example-1932 "Example 19.32."), note the required terminator *[boi](/glossary/#boi)* after each *[xy.](/glossary/#xy)* cmavo; this terminator allows the subscript to be attached without ambiguity.)
 
 Names, which are similar to pro-sumti, can also be subscripted to distinguish two individuals with the same name:
 
 ##### Example 19.33.
 
-|    |       |      |           |          |          |     |            |    |       |      |   |   |
-| -- | ----- | ---- | --------- | -------- | -------- | --- | ---------- | -- | ----- | ---- | - | - |
-| la | djan. | xipa | cusku     | lu       | mi'enai  | do  | li'u       | la | djan. | xire |   |   |
-|    | John  | 1    | expresses | \[quote\] | I-am-not | you | \[unquote\] | to |       | John | 2 | . |
+|     |       |      |           |           |          |     |             |     |       |      |     |     |
+| --- | ----- | ---- | --------- | --------- | -------- | --- | ----------- | --- | ----- | ---- | --- | --- |
+| la  | djan. | xipa | cusku     | lu        | mi'enai  | do  | li'u        | la  | djan. | xire |     |     |
+|     | John  | 1    | expresses | \[quote\] | I-am-not | you | \[unquote\] | to  |       | John | 2   | .   |
 
 Subscripts on tenses allow talking about more than one time or place that is described by the same general cmavo. For example, *puxipa* could refer to one point in the past, and *puxire* a second point (earlier or later).
 
@@ -548,21 +548,21 @@ You can place a subscript on the word *[ja'a](/glossary/#jaa)*, the bridi affirm
 
 ##### Example 19.34.
 
-|            |      |                       |    |              |
-| ---------- | ---- | --------------------- | -- | ------------ |
-| li         | pimu | jei                   | mi | ganra        |
-| The-number | .5   | is-the-truth-value-of | my | being-broad. |
+|            |      |                       |     |              |
+| ---------- | ---- | --------------------- | --- | ------------ |
+| li         | pimu | jei                   | mi  | ganra        |
+| The-number | .5   | is-the-truth-value-of | my  | being-broad. |
 
 However, by convention we can attach a subscript to *[ja'a](/glossary/#jaa)* to indicate fuzzy truth (or to *[na](/glossary/#na)* if we change the amount):
 
 ##### Example 19.35.
 
-|    |       |        |          |
-| -- | ----- | ------ | -------- |
-| mi | ja'a  | xipimu | ganra    |
-| I  | truly | sub-.5 | am-broad |
+|     |       |        |          |
+| --- | ----- | ------ | -------- |
+| mi  | ja'a  | xipimu | ganra    |
+| I   | truly | sub-.5 | am-broad |
 
-Finally, as mentioned in [Section 19.2](/chapter19/#sentences-i "19.2. Sentences: I"), *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)* cmavo with matching subscripts mark the start and the continuation of a given topic respectively. Different topics can be assigned to different subscripts.
+Finally, as mentioned in [Section 19.2](/chapter19/#192-sentences-i "19.2. Sentences: I"), *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)* cmavo with matching subscripts mark the start and the continuation of a given topic respectively. Different topics can be assigned to different subscripts.
 
 Other uses of subscripts will doubtless be devised in future.
 
@@ -579,10 +579,10 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 
 ##### Example 19.36.
 
-|    |       |           |     |       |     |            |     |        |
-| -- | ----- | --------- | --- | ----- | --- | ---------- | --- | ------ |
-| mi | klama | pamai     | le  | zarci | .e  | remai      | le  | zdani  |
-| I  | go-to | (firstly) | the | store | and | (secondly) | the | house. |
+|     |       |           |     |       |     |            |     |        |
+| --- | ----- | --------- | --- | ----- | --- | ---------- | --- | ------ |
+| mi  | klama | pamai     | le  | zarci | .e  | remai      | le  | zdani  |
+| I   | go-to | (firstly) | the | store | and | (secondly) | the | house. |
 
 This does not imply that I go to the store before I go to the house: that meaning requires a tense. The sumti are simply numbered for convenience of reference. Like other free modifiers, the utterance ordinals can be inserted almost anywhere in a sentence without affecting its grammar or its meaning.
 
@@ -605,10 +605,10 @@ Normally, an attitudinal applies to the preceding word only. However, if the pre
 
 ##### Example 19.37.
 
-|    |       |     |       |           |        |       |
-| -- | ----- | --- | ----- | --------- | ------ | ----- |
-| mi | viska | le  | blanu | .ia       | zdani  | \[ku\] |
-| I  | see   | the | blue  | \[belief\] | house. |       |
+|     |       |     |       |            |        |        |
+| --- | ----- | --- | ----- | ---------- | ------ | ------ |
+| mi  | viska | le  | blanu | .ia        | zdani  | \[ku\] |
+| I   | see   | the | blue  | \[belief\] | house. |        |
 
 |                                              |
 | -------------------------------------------- |
@@ -616,10 +616,10 @@ Normally, an attitudinal applies to the preceding word only. However, if the pre
 
 ##### Example 19.38.
 
-|    |       |     |       |       |            |       |
-| -- | ----- | --- | ----- | ----- | ---------- | ----- |
-| mi | viska | le  | blanu | zdani | .ia        | \[ku\] |
-| I  | see   | the | blue  | house | \[belief\]. |       |
+|     |       |     |       |       |             |        |
+| --- | ----- | --- | ----- | ----- | ----------- | ------ |
+| mi  | viska | le  | blanu | zdani | .ia         | \[ku\] |
+| I   | see   | the | blue  | house | \[belief\]. |        |
 
 |                                                      |
 | ---------------------------------------------------- |
@@ -627,10 +627,10 @@ Normally, an attitudinal applies to the preceding word only. However, if the pre
 
 ##### Example 19.39.
 
-|    |       |     |           |       |       |       |
-| -- | ----- | --- | --------- | ----- | ----- | ----- |
-| mi | viska | le  | .ia       | blanu | zdani | \[ku\] |
-| I  | see   | the | \[belief\] | blue  | house |       |
+|     |       |     |            |       |       |        |
+| --- | ----- | --- | ---------- | ----- | ----- | ------ |
+| mi  | viska | le  | .ia        | blanu | zdani | \[ku\] |
+| I   | see   | the | \[belief\] | blue  | house |        |
 
 |                                          |
 | ---------------------------------------- |
@@ -638,10 +638,10 @@ Normally, an attitudinal applies to the preceding word only. However, if the pre
 
 ##### Example 19.40.
 
-|    |       |      |       |        |    |           |
-| -- | ----- | ---- | ----- | ------ | -- | --------- |
-| mi | viska | le   | blanu | zdani  | ku | .ia       |
-| I  | see   | (the | blue  | house) |    | \[belief\] |
+|     |       |      |       |        |     |            |
+| --- | ----- | ---- | ----- | ------ | --- | ---------- |
+| mi  | viska | le   | blanu | zdani  | ku  | .ia        |
+| I   | see   | (the | blue  | house) |     | \[belief\] |
 
 |                                          |
 | ---------------------------------------- |
@@ -651,10 +651,10 @@ An attitudinal meant to cover a whole sentence can be attached to the preceding 
 
 ##### Example 19.41.
 
-|       |           |    |       |     |       |        |
-| ----- | --------- | -- | ----- | --- | ----- | ------ |
-| \[.i\] | .ia       | mi | viska | le  | blanu | zdani  |
-|       | \[belief\] | I  | see   | the | blue  | house. |
+|        |            |     |       |     |       |        |
+| ------ | ---------- | --- | ----- | --- | ----- | ------ |
+| \[.i\] | .ia        | mi  | viska | le  | blanu | zdani  |
+|        | \[belief\] | I   | see   | the | blue  | house. |
 
 |                               |
 | ----------------------------- |
@@ -668,10 +668,10 @@ However, sometimes it is necessary to be more specific about the range of one or
 
 ##### Example 19.42.
 
-|    |       |     |          |           |       |       |        |           |
-| -- | ----- | --- | -------- | --------- | ----- | ----- | ------ | --------- |
-| mi | viska | le  | fu'e     | .ia       | blanu | zdani | fu'o   | ponse     |
-| I  | see   | the | \[start\] | \[belief\] | blue  | house | \[end\] | possessor |
+|     |       |     |           |            |       |       |         |           |
+| --- | ----- | --- | --------- | ---------- | ----- | ----- | ------- | --------- |
+| mi  | viska | le  | fu'e      | .ia        | blanu | zdani | fu'o    | ponse     |
+| I   | see   | the | \[start\] | \[belief\] | blue  | house | \[end\] | possessor |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -696,10 +696,10 @@ Grammatically, quotations are very simple in Lojban: all of them are sumti, and 
 
 ##### Example 19.43.
 
-|    |         |         |          |      |        |            |
-| -- | ------- | ------- | -------- | ---- | ------ | ---------- |
-| mi | pu      | cusku   | lu       | mi'e | .djan. | \[li'u\]    |
-| I  | \[past\] | express | \[quote\] | I-am | John   | \[unquote\] |
+|     |          |         |           |      |        |             |
+| --- | -------- | ------- | --------- | ---- | ------ | ----------- |
+| mi  | pu       | cusku   | lu        | mi'e | .djan. | \[li'u\]    |
+| I   | \[past\] | express | \[quote\] | I-am | John   | \[unquote\] |
 
 |                     |
 | ------------------- |
@@ -707,55 +707,55 @@ Grammatically, quotations are very simple in Lojban: all of them are sumti, and 
 
 But in fact there are four different flavors of quotation in the language, involving six cmavo of six different selma'o. This being the case, quotation deserves some elaboration.
 
-The simplest kind of quotation, exhibited in [Example 19.43](/chapter19/#example-1943 "Example 19.43. "), uses the cmavo *[lu](/glossary/#lu)* (of selma'o LU) as the opening quotation mark, and the cmavo *[li'u](/glossary/#liu)* (of selma'o LIhU) as the closing quotation mark. The text between *[lu](/glossary/#lu)* and *[li'u](/glossary/#liu)* must be a valid, parseable Lojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo *[li'u](/glossary/#liu)* is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
+The simplest kind of quotation, exhibited in [Example 19.43](/chapter19/#example-1943 "Example 19.43."), uses the cmavo *[lu](/glossary/#lu)* (of selma'o LU) as the opening quotation mark, and the cmavo *[li'u](/glossary/#liu)* (of selma'o LIhU) as the closing quotation mark. The text between *[lu](/glossary/#lu)* and *[li'u](/glossary/#liu)* must be a valid, parseable Lojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo *[li'u](/glossary/#liu)* is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
 
 The cmavo *[lo'u](/glossary/#lou)* (of selma'o LOhU) and *[le'u](/glossary/#leu)* (of selma'o LEhU) are used to surround a quotation that is not necessarily grammatical Lojban. However, the text must consist of morphologically correct Lojban words (as defined in [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")), so that the *[le'u](/glossary/#leu)* can be picked out reliably. The words need not be meaningful, but they must be recognizable as cmavo, brivla, or cmene. Quotation with *[lo'u](/glossary/#lou)* is essential to quoting ungrammatical Lojban for teaching in the language, the equivalent of the \* that is used in English to mark such errors:
 
 ##### Example 19.44.
 
-|          |                      |            |
-| -------- | -------------------- | ---------- |
-| lo'u     | mi du do du la djan. | le'u       |
+|           |                      |             |
+| --------- | -------------------- | ----------- |
+| lo'u      | mi du do du la djan. | le'u        |
 | \[quote\] | mi du do du la djan. | \[unquote\] |
 
-|        |                         |    |         |
-| ------ | ----------------------- | -- | ------- |
-| na     | tergerna                | la | lojban. |
-| is-not | a-grammatical-structure | in | Lojban. |
+|        |                         |     |         |
+| ------ | ----------------------- | --- | ------- |
+| na     | tergerna                | la  | lojban. |
+| is-not | a-grammatical-structure | in  | Lojban. |
 
-[Example 19.44](/chapter19/#example-1944 "Example 19.44. ") is grammatical even though the embedded quotation is not. Similarly, *[lo'u](/glossary/#lou)* quotation can quote fragments of a text which themselves do not constitute grammatical utterances:
+[Example 19.44](/chapter19/#example-1944 "Example 19.44.") is grammatical even though the embedded quotation is not. Similarly, *[lo'u](/glossary/#lou)* quotation can quote fragments of a text which themselves do not constitute grammatical utterances:
 
 ##### Example 19.45.
 
-|          |                            |            |      |
-| -------- | -------------------------- | ---------- | ---- |
-| lu       | le mlatu cu viska le finpe | li'u       | zo'u |
+|           |                            |             |      |
+| --------- | -------------------------- | ----------- | ---- |
+| lu        | le mlatu cu viska le finpe | li'u        | zo'u |
 | \[quote\] | le mlatu cu viska le finpe | \[unquote\] | :    |
 
-|          |          |            |    |                |
-| -------- | -------- | ---------- | -- | -------------- |
-| lo'u     | viska le | le'u       | cu | selbasti       |
-| \[quote\] | viska le | \[unquote\] |    | is-replaced-by |
+|           |          |             |     |                |
+| --------- | -------- | ----------- | --- | -------------- |
+| lo'u      | viska le | le'u        | cu  | selbasti       |
+| \[quote\] | viska le | \[unquote\] |     | is-replaced-by |
 
-|                |          |          |             |
-| -------------- | -------- | -------- | ----------- |
-| .ei            | lo'u     | viska lo | le'u        |
+|                 |           |          |              |
+| --------------- | --------- | -------- | ------------ |
+| .ei             | lo'u      | viska lo | le'u         |
 | \[obligation!\] | \[quote\] | viska lo | \[unquote\]. |
 
 |                             |
 | --------------------------- |
 | In the sentence *viska lo*. |
 
-Note the topic-comment formulation ([Section 19.4](/chapter19/#topic-comment-sentences-zohu "19.4. Topic-comment sentences: ZOhU")) and the indicator applying to the selbri only ([Section 19.8](/chapter19/#attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO")). Neither *viska le* nor *viska lo* is a valid Lojban utterance, and both require *[lo'u](/glossary/#lou)* quotation.
+Note the topic-comment formulation ([Section 19.4](/chapter19/#194-topic-comment-sentences-zohu "19.4. Topic-comment sentences: ZOhU")) and the indicator applying to the selbri only ([Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO")). Neither *viska le* nor *viska lo* is a valid Lojban utterance, and both require *[lo'u](/glossary/#lou)* quotation.
 
 Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words appearing in the quoted sentence when *[li'u](/glossary/#liu)* is used, but not when *lo'u ... le'u* is used:
 
 ##### Example 19.46.
 
-|    |          |       |          |     |       |    |         |             |
-| -- | -------- | ----- | -------- | --- | ----- | -- | ------- | ----------- |
-| la | tcarlis. | cusku | lu       | le  | ninmu | cu | morsi   | li'u        |
-|    | Charlie  | says  | \[quote\] | the | woman |    | is-dead | \[unquote\]. |
+|     |          |       |           |     |       |     |         |              |
+| --- | -------- | ----- | --------- | --- | ----- | --- | ------- | ------------ |
+| la  | tcarlis. | cusku | lu        | le  | ninmu | cu  | morsi   | li'u         |
+|     | Charlie  | says  | \[quote\] | the | woman |     | is-dead | \[unquote\]. |
 
 |          |                    |           |
 | -------- | ------------------ | --------- |
@@ -766,14 +766,14 @@ Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words 
 | --------------------------------------------------- |
 | Charlie says “The woman is dead”, but she is alive. |
 
-In [Example 19.46](/chapter19/#example-1946 "Example 19.46. "), *[ri](/glossary/#ri)* is a pro-sumti which refers to the most recent previous sumti, namely *le ninmu*. Compare:
+In [Example 19.46](/chapter19/#example-1946 "Example 19.46."), *[ri](/glossary/#ri)* is a pro-sumti which refers to the most recent previous sumti, namely *le ninmu*. Compare:
 
 ##### Example 19.47.
 
-|    |          |       |          |    |       |    |       |             |
-| -- | -------- | ----- | -------- | -- | ----- | -- | ----- | ----------- |
-| la | tcarlis. | cusku | lo'u     | le | ninmu | cu | morsi | le'u        |
-|    | Charlie  | says  | \[quote\] | le | ninmu | cu | morsi | \[unquote\]. |
+|     |          |       |           |     |       |     |       |              |
+| --- | -------- | ----- | --------- | --- | ----- | --- | ----- | ------------ |
+| la  | tcarlis. | cusku | lo'u      | le  | ninmu | cu  | morsi | le'u         |
+|     | Charlie  | says  | \[quote\] | le  | ninmu | cu  | morsi | \[unquote\]. |
 
 |          |                    |           |
 | -------- | ------------------ | --------- |
@@ -784,9 +784,9 @@ In [Example 19.46](/chapter19/#example-1946 "Example 19.46. "), *[ri](/glossary/
 | -------------------------------------------------- |
 | Charlie says *le ninmu cu morsi*, but he is alive. |
 
-In [Example 19.47](/chapter19/#example-1947 "Example 19.47. "), *[ri](/glossary/#ri)* cannot refer to the referent of the alleged sumti *le ninmu*, because *le ninmu cu morsi* is a mere uninterpreted sequence of Lojban words. Instead, *[ri](/glossary/#ri)* ends up referring to the referent of the sumti *la tcarlis.*, and so it is Charlie who is alive.
+In [Example 19.47](/chapter19/#example-1947 "Example 19.47."), *[ri](/glossary/#ri)* cannot refer to the referent of the alleged sumti *le ninmu*, because *le ninmu cu morsi* is a mere uninterpreted sequence of Lojban words. Instead, *[ri](/glossary/#ri)* ends up referring to the referent of the sumti *la tcarlis.*, and so it is Charlie who is alive.
 
-The metalinguistic erasers *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, and *[su](/glossary/#su)*, discussed in [Section 19.13](/chapter19/#erasure-si-sa-su "19.13. Erasure: SI, SA, SU"), do not operate in text between *[lo'u](/glossary/#lou)* and *[le'u](/glossary/#leu)*. Since the first *[le'u](/glossary/#leu)* terminates a *[lo'u](/glossary/#lou)* quotation, it is not directly possible to have a *[lo'u](/glossary/#lou)* quotation within another *[lo'u](/glossary/#lou)* quotation. However, it is possible for a *[le'u](/glossary/#leu)* to occur within a *lo'u ... le'u* quotation by preceding it with the cmavo *[zo](/glossary/#zo)*, discussed in [Section 19.10](/chapter19/#more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Note that *[le'u](/glossary/#leu)* is not an elidable terminator; it is required.
+The metalinguistic erasers *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, and *[su](/glossary/#su)*, discussed in [Section 19.13](/chapter19/#1913-erasure-si-sa-su "19.13. Erasure: SI, SA, SU"), do not operate in text between *[lo'u](/glossary/#lou)* and *[le'u](/glossary/#leu)*. Since the first *[le'u](/glossary/#leu)* terminates a *[lo'u](/glossary/#lou)* quotation, it is not directly possible to have a *[lo'u](/glossary/#lou)* quotation within another *[lo'u](/glossary/#lou)* quotation. However, it is possible for a *[le'u](/glossary/#leu)* to occur within a *lo'u ... le'u* quotation by preceding it with the cmavo *[zo](/glossary/#zo)*, discussed in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Note that *[le'u](/glossary/#leu)* is not an elidable terminator; it is required.
 
 ## 19.10. More on quotations: ZO, ZOI
 
@@ -806,8 +806,8 @@ The cmavo *[zo](/glossary/#zo)* (of selma'o ZO) is a strong quotation mark for t
 | -------------------- |
 | zo si cu lojbo valsi |
 
-|                                                  |
-| ------------------------------------------------ |
+|                                           |
+| ----------------------------------------- |
 | *[si](/glossary/#si)* is a Lojbanic word. |
 
 Since *[zo](/glossary/#zo)* acts on a single word only, there is no corresponding terminator. Brevity, then, is a great advantage of *[zo](/glossary/#zo)*, since the terminators for other kinds of quotation are rarely or never elidable.
@@ -826,7 +826,7 @@ The cmavo *[zoi](/glossary/#zoi)* (of selma'o ZOI) is a quotation mark for quoti
 
 where *[gy](/glossary/#gy)* stands for *[glico](/glossary/#glico)*. Other popular choices of delimiting words are *.kuot.*, a Lojban name which sounds like the English word “quote”, and the word *[zoi](/glossary/#zoi)* itself. Another possibility is a Lojban word suggesting the topic of the quotation.
 
-Within written text, the Lojban written word used as a delimiting word may not appear, whereas within spoken text, the sound of the delimiting word may not be uttered. This leads to occasional breakdowns of audio-visual isomorphism: [Example 19.50](/chapter19/#example-1950 "Example 19.50. ") is fine in speech but ungrammatical as written, whereas [Example 19.51](/chapter19/#example-1951 "Example 19.51. ") is correct when written but ungrammatical in speech.
+Within written text, the Lojban written word used as a delimiting word may not appear, whereas within spoken text, the sound of the delimiting word may not be uttered. This leads to occasional breakdowns of audio-visual isomorphism: [Example 19.50](/chapter19/#example-1950 "Example 19.50.") is fine in speech but ungrammatical as written, whereas [Example 19.51](/chapter19/#example-1951 "Example 19.51.") is correct when written but ungrammatical in speech.
 
 ##### Example 19.50.
 
@@ -858,8 +858,8 @@ It should be noted particularly that *[zoi](/glossary/#zoi)* quotation is the on
 | ---------------------------------- |
 | zoi ry. sku .ry. cu rafsi zo cusku |
 
-|                                                             |
-| ----------------------------------------------------------- |
+|                                                      |
+| ---------------------------------------------------- |
 | “*sku*” is a rafsi of “*[cusku](/glossary/#cusku)*”. |
 
 (A minor note on interaction between *lo'u ... le'u* and *[zoi](/glossary/#zoi)*: The text between *[lo'u](/glossary/#lou)* and *[le'u](/glossary/#leu)* should consist of Lojban words only. In fact, non-Lojban material in the form of a *[zoi](/glossary/#zoi)* quotation may also appear. However, if the word *[le'u](/glossary/#leu)* is used either as the delimiting word for the *[zoi](/glossary/#zoi)* quotation, or within the quotation itself, the outer *[lo'u](/glossary/#lou)* quotation will be prematurely terminated. Therefore, *[le'u](/glossary/#leu)* should be avoided as the delimiting word in any *[zoi](/glossary/#zoi)* quotation.)
@@ -873,23 +873,23 @@ Lojban strictly avoids any confusion between things and the names of things:
 | zo       | .bab. | cmene          | la            | bab. |
 | The-word | “Bob” | is-the-name-of | the-one-named | Bob. |
 
-In [Example 19.53](/chapter19/#example-1953 "Example 19.53. "), *zo .bab.* is the word, whereas *la bab.* is the thing named by the word. The cmavo *[la'e](/glossary/#lae)* and *[lu'e](/glossary/#lue)* (of selma'o LAhE) convert back and forth between references and their referents:
+In [Example 19.53](/chapter19/#example-1953 "Example 19.53."), *zo .bab.* is the word, whereas *la bab.* is the thing named by the word. The cmavo *[la'e](/glossary/#lae)* and *[lu'e](/glossary/#lue)* (of selma'o LAhE) convert back and forth between references and their referents:
 
 ##### Example 19.54.
 
-|          |       |                |                 |          |       |   |
-| -------- | ----- | -------------- | --------------- | -------- | ----- | - |
-| zo       | .bab. | cmene          | la'e            | zo       | .bab. |   |
-| The-word | “Bob” | is-the-name-of | the-referent-of | the-word | “Bob” | . |
+|          |       |                |                 |          |       |     |
+| -------- | ----- | -------------- | --------------- | -------- | ----- | --- |
+| zo       | .bab. | cmene          | la'e            | zo       | .bab. |     |
+| The-word | “Bob” | is-the-name-of | the-referent-of | the-word | “Bob” | .   |
 
 ##### Example 19.55.
 
-|              |    |      |                |    |      |
-| ------------ | -- | ---- | -------------- | -- | ---- |
-| lu'e         | la | bab. | cmene          | la | bab. |
-| A-symbol-for |    | Bob  | is-the-name-of |    | Bob. |
+|              |     |      |                |     |      |
+| ------------ | --- | ---- | -------------- | --- | ---- |
+| lu'e         | la  | bab. | cmene          | la  | bab. |
+| A-symbol-for |     | Bob  | is-the-name-of |     | Bob. |
 
-[Example 19.53](/chapter19/#example-1953 "Example 19.53. ") through [Example 19.55](/chapter19/#example-1955 "Example 19.55. ") all mean approximately the same thing, except for differences in emphasis. [Example 19.56](/chapter19/#example-1956 "Example 19.56. ") is different:
+[Example 19.53](/chapter19/#example-1953 "Example 19.53.") through [Example 19.55](/chapter19/#example-1955 "Example 19.55.") all mean approximately the same thing, except for differences in emphasis. [Example 19.56](/chapter19/#example-1956 "Example 19.56.") is different:
 
 ##### Example 19.56.
 
@@ -903,7 +903,7 @@ In [Example 19.53](/chapter19/#example-1953 "Example 19.53. "), *zo .bab.* is th
 
 and says that Bob is both the name and the thing named, an unlikely situation. People are not names.
 
-(In [Example 19.53](/chapter19/#example-1953 "Example 19.53. ") through [Example 19.54](/chapter19/#example-1954 "Example 19.54. "), the name *bab.* was separated from a preceding *[zo](/glossary/#zo)* by a pause, thus: *zo .bab.*. The reason for this extra pause is that all Lojban names must be separated by pause from any preceding word other than *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, *[la'i](/glossary/#lai)* (all of selma'o LA) and *[doi](/glossary/#doi)* (of selma'o DOI). There are numerous other cmavo that may precede a name: of these, *[zo](/glossary/#zo)* is one of the most common.)
+(In [Example 19.53](/chapter19/#example-1953 "Example 19.53.") through [Example 19.54](/chapter19/#example-1954 "Example 19.54."), the name *bab.* was separated from a preceding *[zo](/glossary/#zo)* by a pause, thus: *zo .bab.*. The reason for this extra pause is that all Lojban names must be separated by pause from any preceding word other than *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, *[la'i](/glossary/#lai)* (all of selma'o LA) and *[doi](/glossary/#doi)* (of selma'o DOI). There are numerous other cmavo that may precede a name: of these, *[zo](/glossary/#zo)* is one of the most common.)
 
 The cmavo *[la'o](/glossary/#lao)* also belongs to selma'o ZOI, and is mentioned here for completeness, although it does not signal the beginning of a quotation. Instead, *[la'o](/glossary/#lao)* serves to mark non-Lojban names, especially the Linnaean binomial names (such as “Homo sapiens”) which are the internationally standardized names for species of animals and plants. Internationally known names which can more easily be recognized by spelling rather than pronunciation, such as “Goethe”, can also appear in Lojban text with *[la'o](/glossary/#lao)*:
 
@@ -950,10 +950,10 @@ In Lojban, the cmavo *[ba'e](/glossary/#bae)* (of selma'o BAhE) precedes a singl
 
 ##### Example 19.61.
 
-|    |       |               |             |          |   |
-| -- | ----- | ------------- | ----------- | -------- | - |
-| mi | viska | la            | ba'e        | .djordj. |   |
-| I  | saw   | the-one-named | \[emphasis\] | “George” | . |
+|     |       |               |              |          |     |
+| --- | ----- | ------------- | ------------ | -------- | --- |
+| mi  | viska | la            | ba'e         | .djordj. |     |
+| I   | saw   | the-one-named | \[emphasis\] | “George” | .   |
 
 |                 |
 | --------------- |
@@ -963,10 +963,10 @@ Note the pause before the name *djordj.*, which serves to separate it unambiguou
 
 ##### Example 19.62.
 
-|    |       |             |               |          |   |
-| -- | ----- | ----------- | ------------- | -------- | - |
-| mi | viska | ba'e        | la            | djordj.  |   |
-| I  | saw   | \[emphasis\] | the-one-named | “George” | . |
+|     |       |              |               |          |     |
+| --- | ----- | ------------ | ------------- | -------- | --- |
+| mi  | viska | ba'e         | la            | djordj.  |     |
+| I   | saw   | \[emphasis\] | the-one-named | “George” | .   |
 
 |                 |
 | --------------- |
@@ -1000,10 +1000,10 @@ For completeness, the cmavo *[za'e](/glossary/#zae)* should be mentioned, also o
 
 ##### Example 19.65.
 
-|    |       |    |           |             |
-| -- | ----- | -- | --------- | ----------- |
-| mi | klama | la | za'e      | .albeinias. |
-| I  | go-to |    | so-called | Albania     |
+|     |       |     |           |             |
+| --- | ----- | --- | --------- | ----------- |
+| mi  | klama | la  | za'e      | .albeinias. |
+| I   | go-to |     | so-called | Albania     |
 
 marks a Lojbanization of an English name, where a more appropriate standard form might be something like *la ckiipyris.*, reflecting the country's name in Albanian.
 
@@ -1024,21 +1024,21 @@ The cmavo *[to](/glossary/#to)* and *[toi](/glossary/#toi)* are discursive (non-
 
 ##### Example 19.66.
 
-|     |        |    |        |     |          |    |     |        |
-| --- | ------ | -- | ------ | --- | -------- | -- | --- | ------ |
-| doi | lisas. | mi | djica  | le  | nu       | to | doi | frank. |
-| O   | Lisa,  | I  | desire | the | event-of | (  | O   | Frank, |
+|     |        |     |        |     |          |     |     |        |
+| --- | ------ | --- | ------ | --- | -------- | --- | --- | ------ |
+| doi | lisas. | mi  | djica  | le  | nu       | to  | doi | frank. |
+| O   | Lisa,  | I   | desire | the | event-of | (   | O   | Frank, |
 
-|               |       |     |     |       |     |       |
-| ------------- | ----- | --- | --- | ----- | --- | ----- |
-| ko            | sisti | toi | do  | viska | le  | mlatu |
+|                |       |     |     |       |     |       |
+| -------------- | ----- | --- | --- | ----- | --- | ----- |
+| ko             | sisti | toi | do  | viska | le  | mlatu |
 | \[imperative\] | stop! | )   | you | see   | the | cat.  |
 
 |                                                 |
 | ----------------------------------------------- |
 | Lisa, I want you to (Frank! Stop!) see the cat. |
 
-[Example 19.66](/chapter19/#example-1966 "Example 19.66. ") implicitly redefines *[do](/glossary/#do)* within the parentheses: the listener is changed by *doi frank.* When the context sentence resumes, however, the old listener, Lisa, is automatically restored.
+[Example 19.66](/chapter19/#example-1966 "Example 19.66.") implicitly redefines *[do](/glossary/#do)* within the parentheses: the listener is changed by *doi frank.* When the context sentence resumes, however, the old listener, Lisa, is automatically restored.
 
 There is another cmavo of selma'o TO: *[to'i](/glossary/#toi)*. The difference between *[to](/glossary/#to)* and *[to'i](/glossary/#toi)* is the difference between parentheses and square brackets in English prose. Remarks within *to ... toi* cmavo are implicitly by the same speaker, whereas remarks within *to'i ... toi* are implicitly by someone else, perhaps an editor:
 
@@ -1048,8 +1048,8 @@ There is another cmavo of selma'o TO: *[to'i](/glossary/#toi)*. The difference b
 | ---------------------------------------------------------------- |
 | la frank. cusku lu mi prami do to'isa'a do du la djein. toi li'u |
 
-|                                            |
-| ------------------------------------------ |
+|                                             |
+| ------------------------------------------- |
 | Frank expresses “I love you \[you = Jane\]” |
 
 The *[sa'a](/glossary/#saa)* suffix is a discursive cmavo (of selma'o UI) meaning “editorial insertion”, and indicating that the marked word or construct (in this case, the entire bracketed remark) is not part of the quotation. It is required whenever the *to'i ... toi* remark is physically within quotation marks, at least when speaking to literal-minded listeners; the convention may be relaxed if no actual confusion results.
@@ -1102,24 +1102,24 @@ Lojban works differently from English in that the “he said” can be marked in
 
 ##### Example 19.71.
 
-|    |       |           |          |    |       |     |       |             |
-| -- | ----- | --------- | -------- | -- | ----- | --- | ----- | ----------- |
-| la | djan. | cusku     | lu       | mi | klama | le  | zarci | li'u        |
-|    | John  | expresses | \[quote\] | I  | go-to | the | store | \[unquote\]. |
+|     |       |           |           |     |       |     |       |              |
+| --- | ----- | --------- | --------- | --- | ----- | --- | ----- | ------------ |
+| la  | djan. | cusku     | lu        | mi  | klama | le  | zarci | li'u         |
+|     | John  | expresses | \[quote\] | I   | go-to | the | store | \[unquote\]. |
 
 which literally claims that John uttered the quoted text. If the central claim is that John made the utterance, as is likely in conversation, this style is the most sensible. However, in written text which quotes a conversation, you don't want the “he said” or “she said” to be considered part of the conversation. If unmarked, it could mess up the anaphora counting. Instead, you can use:
 
 ##### Example 19.72.
 
-|          |    |       |     |       |         |
-| -------- | -- | ----- | --- | ----- | ------- |
-| lu       | mi | klama | le  | zarci | seisa'a |
-| \[quote\] | I  | go-to | the | store | (       |
+|           |     |       |     |       |         |
+| --------- | --- | ----- | --- | ----- | ------- |
+| lu        | mi  | klama | le  | zarci | seisa'a |
+| \[quote\] | I   | go-to | the | store | (       |
 
-|    |       |           |    |               |             |
-| -- | ----- | --------- | -- | ------------- | ----------- |
-| la | djan. | cusku     | be | dei           | li'u        |
-|    | John  | expresses |    | this-sentence | )\[unquote\] |
+|     |       |           |     |               |              |
+| --- | ----- | --------- | --- | ------------- | ------------ |
+| la  | djan. | cusku     | be  | dei           | li'u         |
+|     | John  | expresses |     | this-sentence | )\[unquote\] |
 
 |                                 |
 | ------------------------------- |
@@ -1155,11 +1155,11 @@ The elidable terminator for *[sei](/glossary/#sei)* is *[se'u](/glossary/#seu)* 
 
 The following cmavo are discussed in this section:
 
-|    |    |                 |
-| -- | -- | --------------- |
-| si | SI | erase word      |
-| sa | SA | erase phrase    |
-| su | SU | erase discourse |
+|     |     |                 |
+| --- | --- | --------------- |
+| si  | SI  | erase word      |
+| sa  | SA  | erase phrase    |
+| su  | SU  | erase discourse |
 
 The cmavo *[si](/glossary/#si)* (of selma'o SI) is a metalinguistic operator that erases the preceding word, as if it had never been spoken:
 
@@ -1183,10 +1183,10 @@ In order to erase the word *[zo](/glossary/#zo)*, it is necessary to use three *
 
 ##### Example 19.77.
 
-|          |       |                |       |      |                              |    |     |     |      |
-| -------- | ----- | -------------- | ----- | ---- | ---------------------------- | -- | --- | --- | ---- |
-| zo       | .bab. | se             | cmene | zo   | si                           | si | si  | la  | bab. |
-| The-word | “Bob” | is-the-name-of | the   | word | *[si](/glossary/#si)* | ,  | er, | er, | Bob. |
+|          |       |                |       |      |                       |     |     |     |      |
+| -------- | ----- | -------------- | ----- | ---- | --------------------- | --- | --- | --- | ---- |
+| zo       | .bab. | se             | cmene | zo   | si                    | si  | si  | la  | bab. |
+| The-word | “Bob” | is-the-name-of | the   | word | *[si](/glossary/#si)* | ,   | er, | er, | Bob. |
 
 The first use of *[si](/glossary/#si)* does not erase anything, but completes the *[zo](/glossary/#zo)* quotation. Two more *[si](/glossary/#si)* cmavo are then necessary to erase the first *[si](/glossary/#si)* and the *[zo](/glossary/#zo)*.
 
@@ -1194,10 +1194,10 @@ Incorrect names can likewise cause trouble with *[si](/glossary/#si)*:
 
 ##### Example 19.78.
 
-|    |       |             |            |               |
-| -- | ----- | ----------- | ---------- | ------------- |
-| mi | tavla | fo          | la         | .esperanto    |
-| I  | talk  | in-language | that-named | and-speranto, |
+|     |       |             |            |               |
+| --- | ----- | ----------- | ---------- | ------------- |
+| mi  | tavla | fo          | la         | .esperanto    |
+| I   | talk  | in-language | that-named | and-speranto, |
 
 |     |     |              |
 | --- | --- | ------------ |
@@ -1210,21 +1210,21 @@ Even more messy is the result of an incorrect *[zoi](/glossary/#zoi)*:
 
 ##### Example 19.79.
 
-|    |         |            |          |                              |             |     |     |     |     |          |   |
-| -- | ------- | ---------- | -------- | ---------------------------- | ----------- | --- | --- | --- | --- | -------- | - |
-| mi | cusku   | zoi        | fy.      | gy.                          | .fy.        | si  | si  | si  | si  | zo .djan |   |
-| I  | express | \[foreign\] | \[quote\] | *[gy](/glossary/#gy)* | \[unquote\], | er, | er, | er, | er, | “John”   | . |
+|     |         |             |           |                       |              |     |     |     |     |          |     |
+| --- | ------- | ----------- | --------- | --------------------- | ------------ | --- | --- | --- | --- | -------- | --- |
+| mi  | cusku   | zoi         | fy.       | gy.                   | .fy.         | si  | si  | si  | si  | zo .djan |     |
+| I   | express | \[foreign\] | \[quote\] | *[gy](/glossary/#gy)* | \[unquote\], | er, | er, | er, | er, | “John”   | .   |
 
-In [Example 19.79](/chapter19/#example-1979 "Example 19.79. "), the first *[fy](/glossary/#fy)* is taken to be the delimiting word. The next word must be different from the delimiting word, and *[gy.](/glossary/#gy)*, the Lojban name for the letter *g*, was chosen arbitrarily. Then the delimiting word must be repeated. For purposes of *[si](/glossary/#si)* erasure, the entire quoted text is taken to be a word, so four words have been uttered, and four more *[si](/glossary/#si)* cmavo are needed to erase them altogether. Similarly, a stray *[lo'u](/glossary/#lou)* quotation mark must be erased with *fy. le'u si si si*, by completing the quotation and then erasing it all with three *[si](/glossary/#si)* cmavo.
+In [Example 19.79](/chapter19/#example-1979 "Example 19.79."), the first *[fy](/glossary/#fy)* is taken to be the delimiting word. The next word must be different from the delimiting word, and *[gy.](/glossary/#gy)*, the Lojban name for the letter *g*, was chosen arbitrarily. Then the delimiting word must be repeated. For purposes of *[si](/glossary/#si)* erasure, the entire quoted text is taken to be a word, so four words have been uttered, and four more *[si](/glossary/#si)* cmavo are needed to erase them altogether. Similarly, a stray *[lo'u](/glossary/#lou)* quotation mark must be erased with *fy. le'u si si si*, by completing the quotation and then erasing it all with three *[si](/glossary/#si)* cmavo.
 
 What if less than the entire *[zo](/glossary/#zo)* or *[zoi](/glossary/#zoi)* construct is erased? The result is something which has a loose *[zo](/glossary/#zo)* or *[zoi](/glossary/#zoi)* in it, without its expected sequels, and which is incurably ungrammatical. Thus, to erase just the word quoted by *[zo](/glossary/#zo)*, it turns out to be necessary to erase the *[zo](/glossary/#zo)* as well:
 
 ##### Example 19.80.
 
-|    |    |             |          |         |     |     |          |           |
-| -- | -- | ----------- | -------- | ------- | --- | --- | -------- | --------- |
-| mi | se | cmene       | zo       | .djan.  | si  | si  | zo       | .djordj.  |
-| I  |    | am-named-by | the-word | “John,” | er, | er, | the-word | “George.” |
+|     |     |             |          |         |     |     |          |           |
+| --- | --- | ----------- | -------- | ------- | --- | --- | -------- | --------- |
+| mi  | se  | cmene       | zo       | .djan.  | si  | si  | zo       | .djordj.  |
+| I   |     | am-named-by | the-word | “John,” | er, | er, | the-word | “George.” |
 
 The parser will reject *zo .djan. si .djordj.*, because in that context *djordj.* is a name (of selma'o CMENE) rather than a quoted word.
 
@@ -1234,12 +1234,12 @@ As the above examples plainly show, precise erasures with *[si](/glossary/#si)* 
 
 ##### Example 19.81.
 
-|    |       |     |     |    |    |       |          |        |   |
-| -- | ----- | --- | --- | -- | -- | ----- | -------- | ------ | - |
-| mi | viska | le  | sa  | .i | mi | cusku | zo       | .djan. |   |
-| I  | see   | the | ... |    | I  | say   | the-word | “John” | . |
+|     |       |     |     |     |     |       |          |        |     |
+| --- | ----- | --- | --- | --- | --- | ----- | -------- | ------ | --- |
+| mi  | viska | le  | sa  | .i  | mi  | cusku | zo       | .djan. |     |
+| I   | see   | the | ... |     | I   | say   | the-word | “John” | .   |
 
-Since the word following *[sa](/glossary/#sa)* is *[i](/glossary/#i)*, the sentence separator, its effect is to erase the preceding sentence. So [Example 19.81](/chapter19/#example-1981 "Example 19.81. ") is equivalent to:
+Since the word following *[sa](/glossary/#sa)* is *[i](/glossary/#i)*, the sentence separator, its effect is to erase the preceding sentence. So [Example 19.81](/chapter19/#example-1981 "Example 19.81.") is equivalent to:
 
 ##### Example 19.82.
 
@@ -1249,12 +1249,12 @@ Another example, erasing a partial description rather than a partial sentence:
 
 ##### Example 19.83.
 
-|    |       |     |       |        |     |     |       |        |
-| -- | ----- | --- | ----- | ------ | --- | --- | ----- | ------ |
-| mi | viska | le  | blanu | .zdan. | sa  | le  | xekri | zdani  |
-| I  | see   | the | blue  | hou    | ... | the | black | house. |
+|     |       |     |       |        |     |     |       |        |
+| --- | ----- | --- | ----- | ------ | --- | --- | ----- | ------ |
+| mi  | viska | le  | blanu | .zdan. | sa  | le  | xekri | zdani  |
+| I   | see   | the | blue  | hou    | ... | the | black | house. |
 
-In [Example 19.83](/chapter19/#example-1983 "Example 19.83. "), *le blanu .zdan.* is ungrammatical, but clearly reflects the speaker's original intention to say *le blanu zdani*. However, the *[zdani](/glossary/#zdani)* was cut off before the end and changed into a name. The entire ungrammatical *[le](/glossary/#le)* construct is erased and replaced by *le xekri zdani*.
+In [Example 19.83](/chapter19/#example-1983 "Example 19.83."), *le blanu .zdan.* is ungrammatical, but clearly reflects the speaker's original intention to say *le blanu zdani*. However, the *[zdani](/glossary/#zdani)* was cut off before the end and changed into a name. The entire ungrammatical *[le](/glossary/#le)* construct is erased and replaced by *le xekri zdani*.
 
 Note: The current machine parser does not implement *[sa](/glossary/#sa)* erasure. Getting *[sa](/glossary/#sa)* right is even more difficult (for a computer) than getting *[si](/glossary/#si)* right, as the behavior of *[si](/glossary/#si)* is defined in terms of words rather than in terms of grammatical constructs (possibly incorrect ones) and words are conceptually simpler entities. On the other hand, *[sa](/glossary/#sa)* is generally easier for human beings, because the rules for using it correctly are less finicky.
 
@@ -1266,9 +1266,9 @@ Note: The current machine parser does not implement either *[su](/glossary/#su)*
 
 The following cmavo is discussed in this section:
 
-|     |   |                  |
-| --- | - | ---------------- |
-| .y. | Y | hesitation noise |
+|     |     |                  |
+| --- | --- | ---------------- |
+| .y. | Y   | hesitation noise |
 
 Speakers often need to hesitate to think of what to say next or for some extra-linguistic reason. There are two ways to hesitate in Lojban: to pause between words (that is, to say nothing) or to use the cmavo *[.y.](/glossary/#y)* (of selma'o Y). This resembles in sound the English hesitation noise written “uh” (or “er”), but differs from it in the requirement for pauses before and after. Unlike a long pause, it cannot be mistaken for having nothing more to say: it holds the floor for the speaker. Since vowel length is not significant in Lojban, the *y* sound can be dragged out for as long as necessary. Furthermore, the sound can be repeated, provided the required pauses are respected.
 
