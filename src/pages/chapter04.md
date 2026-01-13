@@ -52,7 +52,7 @@ A stream of Lojban sounds can be uniquely broken up into its component words acc
    |      |      |     |     |      |      |      |      |     |     |      |      |
    | *ml* | *mr* |     |     |      |      |      |      |     |     | *xl* | *xr* |
 
-5. C/C represents two adjacent consonants which constitute one of the permissible consonant pairs (not necessarily a permissible initial consonant pair). The permissible consonant pairs are explained in [Section 3.6](/chapter03/#consonant-clusters "3.6. Consonant Clusters"). In brief, any consonant pair is permissible unless it: contains two identical letters, contains both a voiced (excluding *r*, *l*, *m*, *n*) and an unvoiced consonant, or is one of certain specified forbidden pairs.
+5. C/C represents two adjacent consonants which constitute one of the permissible consonant pairs (not necessarily a permissible initial consonant pair). The permissible consonant pairs are explained in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters"). In brief, any consonant pair is permissible unless it: contains two identical letters, contains both a voiced (excluding *r*, *l*, *m*, *n*) and an unvoiced consonant, or is one of certain specified forbidden pairs.
 
 6. C/CC represents a consonant triple. The first two consonants must constitute a permissible consonant pair; the last two consonants must constitute a permissible initial consonant pair.
 
@@ -79,7 +79,7 @@ A simple cmavo thus has the property of having only one or two vowels, or of hav
 
 “Experimental use” means that the language designers will not assign any standard meaning or usage to these words, and words and usages coined by Lojban speakers will not appear in official dictionaries for the indefinite future. Experimental-use words provide an escape hatch for adding grammatical mechanisms (as opposed to semantic concepts) the need for which was not foreseen.
 
-The cmavo of VV-form include not only the diphthongs and vowel pairs listed in [Section 4.1](/chapter04/#introductory "4.1. Introductory"), but also the following ten additional diphthongs:
+The cmavo of VV-form include not only the diphthongs and vowel pairs listed in [Section 4.1](/chapter04/#41-introductory "4.1. Introductory"), but also the following ten additional diphthongs:
 
 |                        |                        |                        |                        |                        |
 | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
@@ -130,7 +130,7 @@ is a single cmavo reserved for experimental purposes: it has four vowels.
 
 - cy. .ibu .abu
 
-Again the pauses are required (see [Section 4.9](/chapter04/#rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
+Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
 
 There is no particular stress required in cmavo or their compounds. Some conventions do exist that are not mandatory. For two-syllable cmavo, for example, stress is typically placed on the first vowel; an example is
 
@@ -160,7 +160,7 @@ since there are no rules forcing stress on either of the first two words; the st
 
 - LE re NANmu
 
-is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/#le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8. "), the secondary stress on *[re](/glossary/#re)* would be similar to that in the English phrase “the TWO men”.
+is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/#le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8."), the secondary stress on *[re](/glossary/#re)* would be similar to that in the English phrase “the TWO men”.
 
 Both cmavo may also be left unstressed, thus:
 
@@ -182,7 +182,7 @@ All brivla have the following properties:
 
 1. always end in a vowel;
 
-2. always contain a consonant pair in the first five letters, where *y* and apostrophe are not counted as letters for this purpose (see [Section 4.6](/chapter04/#rafsi "4.6. rafsi").);
+2. always contain a consonant pair in the first five letters, where *y* and apostrophe are not counted as letters for this purpose (see [Section 4.6](/chapter04/#46-rafsi "4.6. rafsi").);
 
 3. always are stressed on the next-to-the-last (penultimate) syllable; this implies that they have two or more syllables.
 
@@ -206,7 +206,7 @@ The gismu do not represent any sort of systematic partitioning of semantic space
 
 There are about 1350 gismu. In learning Lojban, you need only to learn most of these gismu and their combining forms (known as *[rafsi](/glossary/#rafsi)*) as well as perhaps 200 major cmavo, and you will be able to communicate effectively in the language. This may sound like a lot, but it is a small number compared to the vocabulary needed for similar communications in other languages.
 
-All gismu have very strong form restrictions. Using the conventions defined in [Section 4.1](/chapter04/#introductory "4.1. Introductory"), all gismu are of the forms CVC/CV or CCVCV. They must meet the rules for all brivla given in [Section 4.3](/chapter04/#brivla "4.3. brivla"); furthermore, they:
+All gismu have very strong form restrictions. Using the conventions defined in [Section 4.1](/chapter04/#41-introductory "4.1. Introductory"), all gismu are of the forms CVC/CV or CCVCV. They must meet the rules for all brivla given in [Section 4.3](/chapter04/#43-brivla "4.3. brivla"); furthermore, they:
 
 1. always have five letters;
 
@@ -220,7 +220,7 @@ The five letter length distinguishes gismu from lujvo and fu'ivla. In addition, 
 
 With the exception of five special brivla variables, *[broda](/glossary/#broda)*, *[brode](/glossary/#brode)*, *[brodi](/glossary/#brodi)*, *[brodo](/glossary/#brodo)*, and *[brodu](/glossary/#brodu)*, no two gismu differ only in the final vowel. Furthermore, the set of gismu was specifically designed to reduce the likelihood that two similar sounding gismu could be confused. For example, because *[gismu](/glossary/#gismu)* is in the set of gismu, *kismu*, *xismu*, *gicmu*, *gizmu*, and *gisnu* cannot be.
 
-Almost all Lojban gismu are constructed from pieces of words drawn from other languages, specifically Chinese, English, Hindi, Spanish, Russian, and Arabic, the six most widely spoken natural languages. For a given concept, words in the six languages that represent that concept were written in Lojban phonetics. Then a gismu was selected to maximize the recognizability of the Lojban word for speakers of the six languages by weighting the inclusion of the sounds drawn from each language by the number of speakers of that language. See [Section 4.14](/chapter04/#the-gismu-creation-algorithm "4.14. The gismu creation algorithm") for a full explanation of the algorithm.
+Almost all Lojban gismu are constructed from pieces of words drawn from other languages, specifically Chinese, English, Hindi, Spanish, Russian, and Arabic, the six most widely spoken natural languages. For a given concept, words in the six languages that represent that concept were written in Lojban phonetics. Then a gismu was selected to maximize the recognizability of the Lojban word for speakers of the six languages by weighting the inclusion of the sounds drawn from each language by the number of speakers of that language. See [Section 4.14](/chapter04/#414-the-gismu-creation-algorithm "4.14. The gismu creation algorithm") for a full explanation of the algorithm.
 
 Here are a few examples of gismu, with rough English equivalents (not definitions):
 
@@ -304,7 +304,7 @@ Here are a few examples of gismu, with rough English equivalents (not definition
 | ----- |
 | woman |
 
-A small number of gismu were formed differently; see [Section 4.15](/chapter04/#cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu") for a list.
+A small number of gismu were formed differently; see [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu") for a list.
 
 ## 4.5. lujvo
 
@@ -344,9 +344,9 @@ mamta patfu
 
 respectively.
 
-The possibility of semantic ambiguity can easily be seen in the last case. To interpret [Example 4.22](/chapter04/#example-422 "Example 4.22. "), the listener must determine what type of motherliness pertains to the father being referred to. In an appropriate context, *mamta patfu* could mean not “grandfather” but simply “father with some motherly attributes”, depending on the culture. If absolute clarity is required, there are ways to expand upon and explain the exact interrelationship between the components; but such detail is usually not needed.
+The possibility of semantic ambiguity can easily be seen in the last case. To interpret [Example 4.22](/chapter04/#example-422 "Example 4.22."), the listener must determine what type of motherliness pertains to the father being referred to. In an appropriate context, *mamta patfu* could mean not “grandfather” but simply “father with some motherly attributes”, depending on the culture. If absolute clarity is required, there are ways to expand upon and explain the exact interrelationship between the components; but such detail is usually not needed.
 
-When a concept expressed in a tanru proves useful, or is frequently expressed, it is desirable to choose one of the possible meanings of the tanru and assign it to a new brivla. For [Example 4.19](/chapter04/#example-419 "Example 4.19. "), we would probably choose “user of computers”, and form the new word
+When a concept expressed in a tanru proves useful, or is frequently expressed, it is desirable to choose one of the possible meanings of the tanru and assign it to a new brivla. For [Example 4.19](/chapter04/#example-419 "Example 4.19."), we would probably choose “user of computers”, and form the new word
 
 ##### Example 4.23.
 
@@ -354,7 +354,7 @@ When a concept expressed in a tanru proves useful, or is frequently expressed, i
 | ------ |
 | sampli |
 
-Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20. "), would be:
+Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
 
 ##### Example 4.24.
 
@@ -366,7 +366,7 @@ Such a brivla, built from the rafsi which represent its component words, is call
 
 The lujvo representing a given tanru is built from units representing the component gismu. These units are called *[rafsi](/glossary/#rafsi)* in Lojban. Each rafsi represents only one gismu. The rafsi are attached together in the order of the words in the tanru, occasionally inserting so-called “hyphen” letters to ensure that the pieces stick together as a single word and cannot accidentally be broken apart into cmavo, gismu, or other word forms. As a result, each lujvo can be readily and accurately recognized, allowing a listener to pick out the word from a string of spoken Lojban, and if necessary, unambiguously decompose the word to a unique source tanru, thus providing a strong clue to its meaning.
 
-The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chapter04/#example-422 "Example 4.22. ") is
+The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chapter04/#example-422 "Example 4.22.") is
 
 ##### Example 4.25.
 
@@ -380,7 +380,7 @@ Like gismu, lujvo have only one meaning. When a lujvo is formally entered into a
 
 When assembling rafsi together into lujvo, the rules for valid brivla must be followed: a consonant cluster must occur in the first five letters (excluding *y* and *'* ), and the lujvo must end in a vowel.
 
-A *y* (which is ignored in determining stress or consonant clusters) is inserted in the middle of the consonant cluster to glue the word together when the resulting cluster is either not permissible or the word is likely to break up. There are specific rules describing these conditions, detailed in [Section 4.6](/chapter04/#rafsi "4.6. rafsi").
+A *y* (which is ignored in determining stress or consonant clusters) is inserted in the middle of the consonant cluster to glue the word together when the resulting cluster is either not permissible or the word is likely to break up. There are specific rules describing these conditions, detailed in [Section 4.6](/chapter04/#46-rafsi "4.6. rafsi").
 
 An *r* (in some cases, an *n*) is inserted when a CVV-form rafsi attaches to the beginning of a lujvo in such a way that there is no consonant cluster. For example, in the lujvo
 
@@ -401,7 +401,7 @@ Most important, it is possible to invent new lujvo while you speak or write in o
 
 ## 4.6. rafsi
 
-Every gismu has from two to five rafsi, each of a different form, but each such rafsi represents only one gismu. It is valid to use any of the rafsi forms in building lujvo – whichever the reader or listener will most easily understand, or whichever is most pleasing – subject to the rules of lujvo making. There is a scoring algorithm which is intended to determine which of the possible and legal lujvo forms will be the standard dictionary form (see [Section 4.12](/chapter04/#the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm")).
+Every gismu has from two to five rafsi, each of a different form, but each such rafsi represents only one gismu. It is valid to use any of the rafsi forms in building lujvo – whichever the reader or listener will most easily understand, or whichever is most pleasing – subject to the rules of lujvo making. There is a scoring algorithm which is intended to determine which of the possible and legal lujvo forms will be the standard dictionary form (see [Section 4.12](/chapter04/#412-the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm")).
 
 Each gismu always has at least two rafsi forms; one is the gismu itself (used only at the end of a lujvo), and one is the gismu without its final vowel (used only at the beginning or middle of a lujvo). These forms are represented as CVC/CV or CCVCV (called “the 5-letter rafsi”), and CVC/C or CCVC (called “the 4-letter rafsi”) respectively. The dashes in these rafsi form representations show where other rafsi may be attached to form a valid lujvo. When lujvo are formed only from 4-letter and 5-letter rafsi, known collectively as “long rafsi”, they are called “unreduced lujvo”.
 
@@ -483,7 +483,7 @@ For gismu of the form CCVCV, like *[blaci](/glossary/#blaci)*, the only short ra
 
 (In fact, *[blaci](/glossary/#blaci)* has none of these short rafsi; they are all assigned to other gismu. Lojban speakers are not free to reassign any of the rafsi; the tables shown here are to help understand how the rafsi were chosen in the first place.)
 
-There are a few restrictions: a CVV-form rafsi without an apostrophe cannot exist unless the vowels make up one of the four diphthongs *ai*, *ei*, *oi*, or *au*; and a CCV-form rafsi is possible only if the two consonants form a permissible initial consonant pair (see [Section 4.1](/chapter04/#introductory "4.1. Introductory")). Thus *[mamta](/glossary/#mamta)*, which has the same form as *[salci](/glossary/#salci)*, can only have *mam*, *mat*, and *ma'a* as possible rafsi: in fact, only *mam* is assigned to it.
+There are a few restrictions: a CVV-form rafsi without an apostrophe cannot exist unless the vowels make up one of the four diphthongs *ai*, *ei*, *oi*, or *au*; and a CCV-form rafsi is possible only if the two consonants form a permissible initial consonant pair (see [Section 4.1](/chapter04/#41-introductory "4.1. Introductory")). Thus *[mamta](/glossary/#mamta)*, which has the same form as *[salci](/glossary/#salci)*, can only have *mam*, *mat*, and *ma'a* as possible rafsi: in fact, only *mam* is assigned to it.
 
 Some cmavo also have associated rafsi, usually CVC-form. For example, the ten common numerical digits, which are all CV form cmavo, each have a CVC-form rafsi formed by adding a consonant to the cmavo. Most cmavo that have rafsi are ones used in composing tanru.
 
@@ -521,7 +521,7 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 | from *sinxa djuno* |
 | “sign know”        |
 
-In addition, the unreduced forms in [Example 4.27](/chapter04/#example-427 "Example 4.27. ") and [Example 4.28](/chapter04/#example-428 "Example 4.28. ") may be fully reduced to:
+In addition, the unreduced forms in [Example 4.27](/chapter04/#example-427 "Example 4.27.") and [Example 4.28](/chapter04/#example-428 "Example 4.28.") may be fully reduced to:
 
 ##### Example 4.36.
 
@@ -547,7 +547,7 @@ The y-hyphen is used after a CVC-form rafsi when joining it with the following r
 
 Thus, the tanru *pante tavla* (“protest talk”) cannot produce the lujvo *patta'a*, because *tt* is not a permissible consonant pair; the lujvo must be *[patyta'a](/glossary/#patytaa)*. Similarly, the tanru *mudri siclu* (“wooden whistle”) cannot form the lujvo *mudsiclu*; instead, *mudysiclu* must be used. (Remember that *y* is not counted in determining whether the first five letters of a brivla contain a consonant cluster: this is why.)
 
-The y-hyphen is also used to attach a 4-letter rafsi, formed by dropping the final vowel of a gismu, to the following rafsi. (This procedure was shown, but not explained, in [Example 4.27](/chapter04/#example-427 "Example 4.27. ") to [Example 4.31](/chapter04/#example-431 "Example 4.31. ").)
+The y-hyphen is also used to attach a 4-letter rafsi, formed by dropping the final vowel of a gismu, to the following rafsi. (This procedure was shown, but not explained, in [Example 4.27](/chapter04/#example-427 "Example 4.27.") to [Example 4.31](/chapter04/#example-431 "Example 4.31.").)
 
 The lujvo forms *zunlyjamfu*, *zunlyjma*, *zuljamfu*, and *[zuljma](/glossary/#zuljma)* are all legitimate and equivalent forms made from the tanru *zunle jamfu* (“left foot”). Of these, *[zuljma](/glossary/#zuljma)* is the preferred one since it is the shortest; it thus is likely to be the form listed in a Lojban dictionary.
 
@@ -598,7 +598,7 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 | “Sherman war-car”     |
 | Sherman tank          |
 
-[Example 4.41](/chapter04/#example-441 "Example 4.41. ") is particularly noteworthy because the phrase that would be produced by removing the *[zei](/glossary/#zei)*&#x73; from it doesn't end with a brivla, and in fact is not even grammatical. As written, the example is a tanru with two components, but by adding a *[zei](/glossary/#zei)* between *[by.](/glossary/#by)* and *livgyterbilma* to produce
+[Example 4.41](/chapter04/#example-441 "Example 4.41.") is particularly noteworthy because the phrase that would be produced by removing the *[zei](/glossary/#zei)*&#x73; from it doesn't end with a brivla, and in fact is not even grammatical. As written, the example is a tanru with two components, but by adding a *[zei](/glossary/#zei)* between *[by.](/glossary/#by)* and *livgyterbilma* to produce
 
 ##### Example 4.43.
 
@@ -607,7 +607,7 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 | na'e zei .a zei na'e zei by. zei livgyterbilma |
 | non-A-non-B-hepatitis                          |
 
-the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43. ") may be preferable, because its place structure can be built from that of *[bilma](/glossary/#bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
+the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43.") may be preferable, because its place structure can be built from that of *[bilma](/glossary/#bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
 
 Note that rafsi may not be used in *[zei](/glossary/#zei)* phrases, because they are not words. CVV rafsi look like words (specifically cmavo) but there can be no confusion between the two uses of the same letters, because cmavo appear only as separate words or in compound cmavo (which are really just a notation for writing separate but closely related words as if they were one); rafsi appear only as parts of lujvo.
 
@@ -615,7 +615,7 @@ Note that rafsi may not be used in *[zei](/glossary/#zei)* phrases, because they
 
 The use of tanru or lujvo is not always appropriate for very concrete or specific terms (e.g. “brie” or “cobra”), or for jargon words specialized to a narrow field (e.g. “quark”, “integral”, or “iambic pentameter”). These words are in effect names for concepts, and the names were invented by speakers of another language. The vast majority of words referring to plants, animals, foods, and scientific terminology cannot be easily expressed as tanru. They thus must be borrowed (actually “copied”) into Lojban from the original language.
 
-There are four stages of borrowing in Lojban, as words become more and more modified (but shorter and easier to use). Stage 1 is the use of a foreign name quoted with the cmavo *[la'o](/glossary/#lao)* (explained in full in [Section 19.10](/chapter19/#more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI")):
+There are four stages of borrowing in Lojban, as words become more and more modified (but shorter and easier to use). Stage 1 is the use of a foreign name quoted with the cmavo *[la'o](/glossary/#lao)* (explained in full in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI")):
 
 ##### Example 4.44.
 
@@ -623,7 +623,7 @@ me la'o ly. spaghetti .ly.
 
 is a predicate with the place structure “x1 is a quantity of spaghetti”.
 
-Stage 2 involves changing the foreign name to a Lojbanized name, as explained in [Section 4.8](/chapter04/#cmene "4.8. cmene"):
+Stage 2 involves changing the foreign name to a Lojbanized name, as explained in [Section 4.8](/chapter04/#48-cmene "4.8. cmene"):
 
 ##### Example 4.45.
 
@@ -635,7 +635,7 @@ Where a little more universality is desired, the word to be borrowed must be Loj
 
 The rafsi categorizes or limits the meaning of the fu'ivla; otherwise a word having several different jargon meanings in other languages would require the word-inventor to choose which meaning should be assigned to the fu'ivla, since fu'ivla (like other brivla) are not permitted to have more than one definition. Such a Stage 3 borrowing is the most common kind of fu'ivla.
 
-Finally, Stage 4 fu'ivla do not have any rafsi classifier, and are used where a fu'ivla has become so common or so important that it must be made as short as possible. (See [Section 4.16](/chapter04/#rafsi-fuivla-a-proposal "4.16. rafsi fu'ivla: a proposal") for a proposal concerning Stage 4 fu'ivla.)
+Finally, Stage 4 fu'ivla do not have any rafsi classifier, and are used where a fu'ivla has become so common or so important that it must be made as short as possible. (See [Section 4.16](/chapter04/#416-rafsi-fuivla-a-proposal "4.16. rafsi fu'ivla: a proposal") for a proposal concerning Stage 4 fu'ivla.)
 
 The form of a fu'ivla reliably distinguishes it from both the gismu and the cmavo. Like cultural gismu, fu'ivla are generally based on a word from a single non-Lojban language. The word is “borrowed” (actually “copied”, hence the Lojban tanru *fukpi valsi*) from the other language and Lojbanized – the phonemes are converted to their closest Lojban equivalent and modifications are made as necessary to make the word a legitimate Lojban fu'ivla-form word. All fu'ivla:
 
@@ -783,7 +783,7 @@ Here are some fu'ivla representing cultures and related things, shown with more 
 | kuln,r,kore,a        |
 | Korean (the culture) |
 
-Note the commas in [Example 4.55](/chapter04/#example-455 "Example 4.55. ") and [Example 4.56](/chapter04/#example-456 "Example 4.56. "), used because *ea* is not a valid diphthong in Lojban. Arguably, some form of the native name “Chosen” should have been used instead of the internationally known “Korea”; this is a recurring problem in all borrowings. In general, it is better to use the native name unless using it will severely impede understanding: “Navajo” is far more widely known than “Dine'e”.
+Note the commas in [Example 4.55](/chapter04/#example-455 "Example 4.55.") and [Example 4.56](/chapter04/#example-456 "Example 4.56."), used because *ea* is not a valid diphthong in Lojban. Arguably, some form of the native name “Chosen” should have been used instead of the internationally known “Korea”; this is a recurring problem in all borrowings. In general, it is better to use the native name unless using it will severely impede understanding: “Navajo” is far more widely known than “Dine'e”.
 
 ## 4.8. cmene
 
@@ -833,7 +833,7 @@ Because names are often highly personal and individual, Lojban attempts to allow
 | kat,r,in. |
 | Catherine |
 
-(Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62. ") is stressed on the *[ka](/glossary/#ka)*.)
+(Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62.") is stressed on the *[ka](/glossary/#ka)*.)
 
 ##### Example 4.63.
 
@@ -949,7 +949,7 @@ To Lojbanize a name from the various natural languages, apply the following rule
 
 6. No cmene may have the syllables *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[doi](/glossary/#doi)* in them, unless immediately preceded by a consonant. If these combinations are present, they must be converted to something else. Possible substitutions include *[ly](/glossary/#ly)*, *ly'i*, and *[dai](/glossary/#dai)* or *[do'i](/glossary/#doi)*, respectively.
 
-There are some additional rules for Lojbanizing the scientific names (technically known as “Linnaean binomials” after their inventor) which are internationally applied to each species of animal or plant. Where precision is essential, these names need not be Lojbanized, but can be directly inserted into Lojban text using the cmavo *[la'o](/glossary/#lao)*, explained in [Section 19.10](/chapter19/#more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Using this cmavo makes the already lengthy Latinized names at least four syllables longer, however, and leaves the pronunciation in doubt. The following suggestions, though incomplete, will assist in converting Linnaean binomals to valid Lojban names. They can also help to create fu'ivla based on Linnaean binomials or other words of the international scientific vocabulary. The term “back vowel” in the following list refers to any of the letters *a*, *o*, or *u*; the term “front vowel” correspondingly refers to any of the letters *e*, *i*, or *y*.
+There are some additional rules for Lojbanizing the scientific names (technically known as “Linnaean binomials” after their inventor) which are internationally applied to each species of animal or plant. Where precision is essential, these names need not be Lojbanized, but can be directly inserted into Lojban text using the cmavo *[la'o](/glossary/#lao)*, explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Using this cmavo makes the already lengthy Latinized names at least four syllables longer, however, and leaves the pronunciation in doubt. The following suggestions, though incomplete, will assist in converting Linnaean binomals to valid Lojban names. They can also help to create fu'ivla based on Linnaean binomials or other words of the international scientific vocabulary. The term “back vowel” in the following list refers to any of the letters *a*, *o*, or *u*; the term “front vowel” correspondingly refers to any of the letters *e*, *i*, or *y*.
 
 1. Change double consonants other than *cc* to single consonants.
 
@@ -1033,21 +1033,21 @@ Summarized in one place, here are the rules for inserting pauses between Lojban 
 
 6. A cmavo of the form “Cy” must be followed by a pause unless another “Cy”-form cmavo follows.
 
-7. When non-Lojban text is embedded in Lojban, it must be preceded and followed by pauses. (How to embed non-Lojban text is explained in [Section 19.10](/chapter19/#more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI").)
+7. When non-Lojban text is embedded in Lojban, it must be preceded and followed by pauses. (How to embed non-Lojban text is explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI").)
 
 ## 4.10. Considerations for making lujvo
 
-Given a tanru which expresses an idea to be used frequently, it can be turned into a lujvo by following the lujvo-making algorithm which is given in [Section 4.11](/chapter04/#the-lujvo-making-algorithm "4.11. The lujvo-making algorithm").
+Given a tanru which expresses an idea to be used frequently, it can be turned into a lujvo by following the lujvo-making algorithm which is given in [Section 4.11](/chapter04/#411-the-lujvo-making-algorithm "4.11. The lujvo-making algorithm").
 
 In building a lujvo, the first step is to replace each gismu with a rafsi that uniquely represents that gismu. These rafsi are then attached together by fixed rules that allow the resulting compound to be recognized as a single word and to be analyzed in only one way.
 
 There are three other complications; only one is serious.
 
-The first is that there is usually more than one rafsi that can be used for each gismu. The one to be used is simply whichever one sounds or looks best to the speaker or writer. There are usually many valid combinations of possible rafsi. They all are equally valid, and all of them mean exactly the same thing. (The scoring algorithm given in [Section 4.12](/chapter04/#the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm") is used to choose the standard form of the lujvo – the version which would be entered into a dictionary.)
+The first is that there is usually more than one rafsi that can be used for each gismu. The one to be used is simply whichever one sounds or looks best to the speaker or writer. There are usually many valid combinations of possible rafsi. They all are equally valid, and all of them mean exactly the same thing. (The scoring algorithm given in [Section 4.12](/chapter04/#412-the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm") is used to choose the standard form of the lujvo – the version which would be entered into a dictionary.)
 
 The second complication is the serious one. Remember that a tanru is ambiguous – it has several possible meanings. A lujvo, or at least one that would be put into the dictionary, has just a single meaning. Like a gismu, a lujvo is a predicate which encompasses one area of the semantic universe, with one set of places. Hopefully the meaning chosen is the most useful of the possible semantic spaces. A possible source of linguistic drift in Lojban is that as Lojbanic society evolves, the concept that seems the most useful one may change.
 
-You must also be aware of the possibility of some prior meaning of a new lujvo, especially if you are writing for posterity. If a lujvo is invented which involves the same tanru as one that is in the dictionary, and is assigned a different meaning (or even just a different place structure), linguistic drift results. This isn't necessarily bad. Every natural language does it. But in communication, when you use a meaning different from the dictionary definition, someone else may use the dictionary and therefore misunderstand you. You can use the cmavo *[za'e](/glossary/#zae)* (explained in [Section 19.11](/chapter19/#contrastive-emphasis-bahe "19.11. Contrastive emphasis: BAhE")) before a newly coined lujvo to indicate that it may have a non-dictionary meaning.
+You must also be aware of the possibility of some prior meaning of a new lujvo, especially if you are writing for posterity. If a lujvo is invented which involves the same tanru as one that is in the dictionary, and is assigned a different meaning (or even just a different place structure), linguistic drift results. This isn't necessarily bad. Every natural language does it. But in communication, when you use a meaning different from the dictionary definition, someone else may use the dictionary and therefore misunderstand you. You can use the cmavo *[za'e](/glossary/#zae)* (explained in [Section 19.11](/chapter19/#1911-contrastive-emphasis-bahe "19.11. Contrastive emphasis: BAhE")) before a newly coined lujvo to indicate that it may have a non-dictionary meaning.
 
 The essential nature of human communication is that if the listener understands, then all is well. Let this be the ultimate guideline for choosing meanings and place structures for invented lujvo.
 
@@ -1162,7 +1162,7 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 
 ## 4.13. lujvo-making examples
 
-This section contains examples of making and scoring lujvo. First, we will start with the tanru *gerku zdani* (“dog house”) and construct a lujvo meaning “doghouse”, that is, a house where a dog lives. We will use a brute-force application of the algorithm in [Section 4.12](/chapter04/#the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm"), using every possible rafsi.
+This section contains examples of making and scoring lujvo. First, we will start with the tanru *gerku zdani* (“dog house”) and construct a lujvo meaning “doghouse”, that is, a house where a dog lives. We will use a brute-force application of the algorithm in [Section 4.12](/chapter04/#412-the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm"), using every possible rafsi.
 
 The rafsi for *[gerku](/glossary/#gerku)* are:
 
@@ -1309,7 +1309,7 @@ The gismu were created through the following process:
    | *x*            | *g*, *k*       |
    | *z*            | *j*, *s*       |
 
-   See [Section 4.4](/chapter04/#gismu "4.4. gismu") for an example.
+   See [Section 4.4](/chapter04/#44-gismu "4.4. gismu") for an example.
 
 5. The gismu form with the highest score usually became the actual gismu. Sometimes a lower-scoring form was used to provide a better rafsi. A few gismu were changed in error as a result of transcription blunders (for example, the gismu *[gismu](/glossary/#gismu)* should have been *gicmu*, but it's too late to fix it now).
 
@@ -1527,9 +1527,9 @@ A few terms that cover multiple groups of the above:
 
 ## 4.16. rafsi fu'ivla: a proposal
 
-The list of cultures represented by gismu, given in [Section 4.15](/chapter04/#cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"), is unavoidably controversial. Much time has been spent debating whether this or that culture “deserves a gismu” or “must languish in fu'ivla space”. To help defuse this argument, a last-minute proposal was made when this book was already substantially complete. I have added it here with experimental status: it is not yet a standard part of Lojban, since all its implications have not been tested in open debate, and it affects a part of the language (lujvo-making) that has long been stable, but is known to be fragile in the face of small changes. (Many attempts were made to add general mechanisms for making lujvo that contained fu'ivla, but all failed on obvious or obscure counterexamples; finally the general *[zei](/glossary/#zei)* mechanism was devised instead.)
+The list of cultures represented by gismu, given in [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"), is unavoidably controversial. Much time has been spent debating whether this or that culture “deserves a gismu” or “must languish in fu'ivla space”. To help defuse this argument, a last-minute proposal was made when this book was already substantially complete. I have added it here with experimental status: it is not yet a standard part of Lojban, since all its implications have not been tested in open debate, and it affects a part of the language (lujvo-making) that has long been stable, but is known to be fragile in the face of small changes. (Many attempts were made to add general mechanisms for making lujvo that contained fu'ivla, but all failed on obvious or obscure counterexamples; finally the general *[zei](/glossary/#zei)* mechanism was devised instead.)
 
-The first part of the proposal is uncontroversial and involves no change to the language mechanisms. All valid Type 4 fu'ivla of the form CCVVCV would be reserved for cultural brivla analogous to those described in [Section 4.15](/chapter04/#cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"). For example,
+The first part of the proposal is uncontroversial and involves no change to the language mechanisms. All valid Type 4 fu'ivla of the form CCVVCV would be reserved for cultural brivla analogous to those described in [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"). For example,
 
 ##### Example 4.75.
 

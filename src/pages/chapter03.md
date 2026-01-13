@@ -22,13 +22,13 @@ omitting the letters “h”, “q”, and “w”.
 
 The alphabetic order given above is that of the ASCII coded character set, widely used in computers. By making Lojban alphabetical order the same as ASCII, computerized sorting and searching of Lojban text is facilitated.
 
-Capital letters are used only to represent non-standard stress, which can appear only in the representation of Lojbanized names. Thus the English name “Josephine”, as normally pronounced, is Lojbanized as *DJOsefin.*, pronounced <span class="font-ipa">\[ˈdʒosɛfinʔ\]</span>. (See [Section 3.2](/chapter03/#basic-phonetics "3.2. Basic Phonetics") for an explanation of the symbols within square brackets.) Technically, it is sufficient to capitalize the vowel letter, in this case *O*, but it is easier on the reader to capitalize the whole syllable.
+Capital letters are used only to represent non-standard stress, which can appear only in the representation of Lojbanized names. Thus the English name “Josephine”, as normally pronounced, is Lojbanized as *DJOsefin.*, pronounced <span class="font-ipa">\[ˈdʒosɛfinʔ\]</span>. (See [Section 3.2](/chapter03/#32-basic-phonetics "3.2. Basic Phonetics") for an explanation of the symbols within square brackets.) Technically, it is sufficient to capitalize the vowel letter, in this case *O*, but it is easier on the reader to capitalize the whole syllable.
 
 Without the capitalization, the ordinary rules of Lojban stress would cause the *[se](/glossary/#se)* syllable to be stressed. Lojbanized names are meant to represent the pronunciation of names from other languages with as little distortion as may be; as such, they are exempt from many of the regular rules of Lojban phonology, as will appear in the rest of this chapter.
 
 ## 3.2. Basic Phonetics
 
-Lojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word “cat” is pronounced (in General American pronunciation) <span class="font-ipa">\[kæt\]</span>. [Section 3.10](/chapter03/#ipa-for-english-speakers "3.10. IPA For English Speakers") contains a brief explanation of the IPA characters used in this chapter, with their nearest analogues in English, and will be especially useful to those not familiar with the technical terms used in describing speech sounds.
+Lojban pronunciations are defined using the International Phonetic Alphabet, or IPA, a standard method of transcribing pronunciations. By convention, IPA transcriptions are always within square brackets: for example, the word “cat” is pronounced (in General American pronunciation) <span class="font-ipa">\[kæt\]</span>. [Section 3.10](/chapter03/#310-ipa-for-english-speakers "3.10. IPA For English Speakers") contains a brief explanation of the IPA characters used in this chapter, with their nearest analogues in English, and will be especially useful to those not familiar with the technical terms used in describing speech sounds.
 
 The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except *r* the first IPA symbol shown represents the preferred pronunciation; for *r*, all of the variations (and any other rhotic sound) are equally acceptable.
 
@@ -83,7 +83,7 @@ The apostrophe is included in Lojban only to enable a smooth transition between 
 
 As a permitted variant, any unvoiced fricative other than those already used in Lojban may be used to render the apostrophe: IPA <span class="font-ipa">\[θ\]</span> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for \[h\].
 
-The period represents a mandatory pause, with no specified length; a glottal stop (IPA <span class="font-ipa">\[ʔ\]</span>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases – explained in detail in [Section 4.9](/chapter04/#rules-for-inserting-pauses "4.9. Rules for inserting pauses") – must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.
+The period represents a mandatory pause, with no specified length; a glottal stop (IPA <span class="font-ipa">\[ʔ\]</span>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases – explained in detail in [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses") – must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.
 
 Technically, the period is an optional reminder to the reader of a mandatory pause that is dictated by the rules of the language; because these rules are unambiguous, a missing period can be inferred from otherwise correct text. Periods are included only as an aid to the reader.
 
@@ -101,7 +101,7 @@ Here is a somewhat artificial example of the difference in pronunciation between
 - <span class="font-ipa">\[ʔi ʔaj ʔi ʔaj ʔo\]</span>
 - Ee! Eye! Ee! Eye! Oh!
 
-However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although [Example 3.1](/chapter03/#example-31 "Example 3.1. ") is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
+However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although [Example 3.1](/chapter03/#example-31 "Example 3.1.") is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
 
 If commas were used instead of periods, we could represent the English string as a Lojbanized name, ending in a consonant:
 
@@ -122,7 +122,7 @@ which is technically a different Lojban name. Since the intent with Lojbanized n
 
 Still, it is better if Lojbanized names are always distinct. Therefore, the apostrophe is preferred in regular Lojbanized names that are not attempting to simulate a non-Lojban pronunciation perfectly. (Perfection, in any event, is not really achievable, because some sounds simply lack reasonable Lojbanic counterparts.)
 
-If apostrophes were used instead of commas in [Example 3.2](/chapter03/#example-32 "Example 3.2. "), it would appear as:
+If apostrophes were used instead of commas in [Example 3.2](/chapter03/#example-32 "Example 3.2."), it would appear as:
 
 ##### Example 3.4.
 
@@ -164,7 +164,7 @@ The Lojban diphthongs are shown in the table below. (Variant pronunciations have
 
 </div>
 
-(Approximate English equivalents of most of these diphthongs exist: see [Section 3.11](/chapter03/#english-analogues-for-lojban-diphthongs "3.11. English Analogues For Lojban Diphthongs") for examples.)
+(Approximate English equivalents of most of these diphthongs exist: see [Section 3.11](/chapter03/#311-english-analogues-for-lojban-diphthongs "3.11. English Analogues For Lojban Diphthongs") for examples.)
 
 The first four diphthongs above (*ai*, *ei*, *oi*, and *au*, the ones with off-glides) are freely used in most types of Lojban words; the ten following ones are used only as stand-alone words and in Lojbanized names and borrowings; and the last two (*iy* and *uy*) are used only in Lojbanized names.
 
@@ -183,7 +183,7 @@ is a hypothetical Lojbanized name with more than one valid pronunciation; howeve
 
 Syllabic consonants are treated as consonants rather than vowels from the standpoint of Lojban morphology. Thus Lojbanized names, which are generally required to end in a consonant, are allowed to end with a syllabic consonant. An example is *rl.*, which is an approximation of the English name “Earl”, and has two syllabic consonants.
 
-Syllables with syllabic consonants and no vowel are never stressed or counted when determining which syllables to stress (see [Section 3.9](/chapter03/#syllabication-and-stress "3.9. Syllabication And Stress")).
+Syllables with syllabic consonants and no vowel are never stressed or counted when determining which syllables to stress (see [Section 3.9](/chapter03/#39-syllabication-and-stress "3.9. Syllabication And Stress")).
 
 ## 3.5. Vowel Pairs
 
@@ -202,7 +202,7 @@ The Lojban vowel pairs are:
 | *u'a* | *u'e* | *u'i* | *u'o* | *u'u* | *u'y* |
 | *y'a* | *y'e* | *y'i* | *y'o* | *y'u* | *y'y* |
 
-Vowel pairs involving *y* appear only in Lojbanized names. They could appear in cmavo (structure words), but only *[.y'y.](/glossary/#yy)* is so used – it is the Lojban name of the apostrophe letter (see [Section 17.2](/chapter17/#a-to-z-in-lojban-plus-one "17.2. A to Z in Lojban, plus one")).
+Vowel pairs involving *y* appear only in Lojbanized names. They could appear in cmavo (structure words), but only *[.y'y.](/glossary/#yy)* is so used – it is the Lojban name of the apostrophe letter (see [Section 17.2](/chapter17/#172-a-to-z-in-lojban-plus-one "17.2. A to Z in Lojban, plus one")).
 
 When more than two vowels occur together in Lojban, the normal pronunciation pairs vowels from the left into syllables, as in the Lojbanized name:
 
@@ -211,13 +211,13 @@ When more than two vowels occur together in Lojban, the normal pronunciation pai
 - meiin.
 - mei,in.
 
-[Example 3.6](/chapter03/#example-36 "Example 3.6. ") contains the diphthong *ei* followed by the vowel *i*. In order to indicate a different grouping, the comma must always be used, leading to:
+[Example 3.6](/chapter03/#example-36 "Example 3.6.") contains the diphthong *ei* followed by the vowel *i*. In order to indicate a different grouping, the comma must always be used, leading to:
 
 ##### Example 3.7.
 
 - me,iin.
 
-which contains the vowel *e* followed by the diphthong *ii*. In rough English representation, [Example 3.6](/chapter03/#example-36 "Example 3.6. ") is “May Een”, whereas [Example 3.7](/chapter03/#example-37 "Example 3.7. ") is “Meh Yeen”.
+which contains the vowel *e* followed by the diphthong *ii*. In rough English representation, [Example 3.6](/chapter03/#example-36 "Example 3.6.") is “May Een”, whereas [Example 3.7](/chapter03/#example-37 "Example 3.7.") is “Meh Yeen”.
 
 ## 3.6. Consonant Clusters
 
@@ -264,7 +264,7 @@ The regular English pronunciation of “James”, which is \[dʒɛjmz\], would L
 
 ## 3.7. Initial Consonant Pairs
 
-The set of consonant pairs that may appear at the beginning of a word (excluding Lojbanized names) is far more restricted than the fairly large group of permissible consonant pairs described in [Section 3.6](/chapter03/#consonant-clusters "3.6. Consonant Clusters"). Even so, it is more than English allows, although hopefully not more than English-speakers (and others) can learn to pronounce.
+The set of consonant pairs that may appear at the beginning of a word (excluding Lojbanized names) is far more restricted than the fairly large group of permissible consonant pairs described in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters"). Even so, it is more than English allows, although hopefully not more than English-speakers (and others) can learn to pronounce.
 
 There are just 48 such permissible initial consonant pairs, as follows:
 
@@ -347,14 +347,14 @@ Here are more examples of unbuffered and buffered pronunciations:
 - <span class="font-ipa">\[ˈxa pɪ ʃkɛ\]</span>
 - <span class="font-ipa">\[ˈxa pɪ ʃɪ kɛ\]</span>
 
-In [Example 3.12](/chapter03/#example-312 "Example 3.12. "), we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the *pc* consonant pair but not the *ck*. The third pronunciation buffers both.
+In [Example 3.12](/chapter03/#example-312 "Example 3.12."), we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the *pc* consonant pair but not the *ck*. The third pronunciation buffers both.
 
 ##### Example 3.13.
 
 - ponyni'u
 - <span class="font-ipa">\[po nə ˈni hu\]</span>
 
-[Example 3.13](/chapter03/#example-313 "Example 3.13. ") cannot contain any buffering vowel. It is important not to confuse the vowel *y*, which is pronounced <span class="font-ipa">\[ə\]</span>, with the buffer, which has a variety of possible pronunciations and is never written. Consider the contrast between
+[Example 3.13](/chapter03/#example-313 "Example 3.13.") cannot contain any buffering vowel. It is important not to confuse the vowel *y*, which is pronounced <span class="font-ipa">\[ə\]</span>, with the buffer, which has a variety of possible pronunciations and is never written. Consider the contrast between
 
 ##### Example 3.14.
 
@@ -368,15 +368,15 @@ an unlikely Lojban compound word meaning “bone bread” (note the use of <span
 - bongnanba
 - <span class="font-ipa">\[boŋ ˈɡnan ba\]</span>
 
-a possible borrowing from another language (Lojban borrowings can only take a limited form). If [Example 3.15](/chapter03/#example-315 "Example 3.15. ") were pronounced with buffering, as
+a possible borrowing from another language (Lojban borrowings can only take a limited form). If [Example 3.15](/chapter03/#example-315 "Example 3.15.") were pronounced with buffering, as
 
 ##### Example 3.16.
 
 - <span class="font-ipa">\[boŋ ɡɪ ˈnan ba\]</span>
 
-it would be very similar to [Example 3.14](/chapter03/#example-314 "Example 3.14. "). Only a clear distinction between *y* and any buffering vowel would keep the two words distinct.
+it would be very similar to [Example 3.14](/chapter03/#example-314 "Example 3.14."). Only a clear distinction between *y* and any buffering vowel would keep the two words distinct.
 
-Since buffering is done for the benefit of the speaker in order to aid pronounceability, there is no guarantee that the listener will not mistake a buffer vowel for one of the six regular Lojban vowels. The buffer vowel should be as laxly pronounced as possible, as central as possible, and as short as possible. Furthermore, it is worthwhile for speakers who use buffers to pronounce their regular vowels a bit longer than usual, to avoid confusion with buffer vowels. The speakers of many languages will have trouble correctly hearing any of the suggested buffer vowels otherwise. By this guideline, [Example 3.16](/chapter03/#example-316 "Example 3.16. ") would be pronounced
+Since buffering is done for the benefit of the speaker in order to aid pronounceability, there is no guarantee that the listener will not mistake a buffer vowel for one of the six regular Lojban vowels. The buffer vowel should be as laxly pronounced as possible, as central as possible, and as short as possible. Furthermore, it is worthwhile for speakers who use buffers to pronounce their regular vowels a bit longer than usual, to avoid confusion with buffer vowels. The speakers of many languages will have trouble correctly hearing any of the suggested buffer vowels otherwise. By this guideline, [Example 3.16](/chapter03/#example-316 "Example 3.16.") would be pronounced
 
 ##### Example 3.17.
 
@@ -489,7 +489,7 @@ Here is another example showing the use of *y*:
 - BI,sy,dja
 - BI,syd,ja
 
-This word is a compound word, or lujvo, built from the two affixes *bis* and *dja*. When they are joined, an impermissible consonant pair results: *sd*. In accordance with the algorithm for making lujvo, explained in [Section 4.11](/chapter04/#the-lujvo-making-algorithm "4.11. The lujvo-making algorithm"), a *y* is inserted to separate the impermissible consonant pair; the *y* is not counted as a syllable for purposes of stress determination.
+This word is a compound word, or lujvo, built from the two affixes *bis* and *dja*. When they are joined, an impermissible consonant pair results: *sd*. In accordance with the algorithm for making lujvo, explained in [Section 4.11](/chapter04/#411-the-lujvo-making-algorithm "4.11. The lujvo-making algorithm"), a *y* is inserted to separate the impermissible consonant pair; the *y* is not counted as a syllable for purposes of stress determination.
 
 ##### Example 3.29.
 
@@ -506,7 +506,7 @@ These two syllabications sound the same to a Lojban listener – the association
 - E'u BRI,di
 - e'U.BRI,di
 
-In [Example 3.30](/chapter03/#example-330 "Example 3.30. "), *[e'u](/glossary/#eu)* is a cmavo and *[bridi](/glossary/#bridi)* is a brivla. Either of the first two pronunciations is permitted: no primary stress on either syllable of *[e'u](/glossary/#eu)*, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that – since the following word is a brivla – the two words must be separated by a pause. Consider the following two cases:
+In [Example 3.30](/chapter03/#example-330 "Example 3.30."), *[e'u](/glossary/#eu)* is a cmavo and *[bridi](/glossary/#bridi)* is a brivla. Either of the first two pronunciations is permitted: no primary stress on either syllable of *[e'u](/glossary/#eu)*, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that – since the following word is a brivla – the two words must be separated by a pause. Consider the following two cases:
 
 ##### Example 3.31.
 
@@ -518,7 +518,7 @@ In [Example 3.30](/chapter03/#example-330 "Example 3.30. "), *[e'u](/glossary/#e
 - le re no bliprenu
 - le re no bliPREnu
 
-If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Example 3.32. ") were to be stressed, the phrase would sound exactly like the given pronunciation of [Example 3.31](/chapter03/#example-331 "Example 3.31. "), which is unacceptable in Lojban: a single pronunciation cannot represent both.
+If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Example 3.32.") were to be stressed, the phrase would sound exactly like the given pronunciation of [Example 3.31](/chapter03/#example-331 "Example 3.31."), which is unacceptable in Lojban: a single pronunciation cannot represent both.
 
 ## 3.10. IPA For English Speakers
 
