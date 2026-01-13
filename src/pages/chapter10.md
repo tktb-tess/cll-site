@@ -27,10 +27,10 @@ In Lojban, the concept of tense extends to every selbri, not merely the verb-lik
 
 ##### Example 10.1.
 
-|    |       |     |         |
-| -- | ----- | --- | ------- |
-| mi | klama | le  | zarci   |
-| I  | go-to | the | market. |
+|     |       |     |         |
+| --- | ----- | --- | ------- |
+| mi  | klama | le  | zarci   |
+| I   | go-to | the | market. |
 
 
 
@@ -52,11 +52,11 @@ The placement of a tense construct within a Lojban bridi is easy: right before t
 
 ##### Example 10.2.
 
-|    |    |             |       |     |         |
-| -- | -- | ----------- | ----- | --- | ------- |
-| mi | cu | pu          | klama | le  | zarci   |
-| mi |    | pu          | klama | le  | zarci   |
-| I  |    | in-the-past | go-to | the | market. |
+|     |     |             |       |     |         |
+| --- | --- | ----------- | ----- | --- | ------- |
+| mi  | cu  | pu          | klama | le  | zarci   |
+| mi  |     | pu          | klama | le  | zarci   |
+| I   |     | in-the-past | go-to | the | market. |
 
 |                       |
 | --------------------- |
@@ -68,10 +68,10 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 
 ##### Example 10.3.
 
-|             |    |       |     |         |
-| ----------- | -- | ----- | --- | ------- |
-| puku        | mi | klama | le  | zarci   |
-| In-the-past | I  | go-to | the | market. |
+|             |     |       |     |         |
+| ----------- | --- | ----- | --- | ------- |
+| puku        | mi  | klama | le  | zarci   |
+| In-the-past | I   | go-to | the | market. |
 
 |                                |
 | ------------------------------ |
@@ -81,10 +81,10 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 
 ##### Example 10.4.
 
-|    |       |             |     |         |
-| -- | ----- | ----------- | --- | ------- |
-| mi | klama | puku        | le  | zarci   |
-| I  | go-to | in-the-past | the | market. |
+|     |       |             |     |         |
+| --- | ----- | ----------- | --- | ------- |
+| mi  | klama | puku        | le  | zarci   |
+| I   | go-to | in-the-past | the | market. |
 
 |                               |
 | ----------------------------- |
@@ -94,10 +94,10 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 
 ##### Example 10.5.
 
-|    |       |     |        |              |       |
-| -- | ----- | --- | ------ | ------------ | ----- |
-| mi | klama | le  | zarci  | pu           | \[ku\] |
-| I  | go-to | the | market | in-the-past. |       |
+|     |       |     |        |              |        |
+| --- | ----- | --- | ------ | ------------ | ------ |
+| mi  | klama | le  | zarci  | pu           | \[ku\] |
+| I   | go-to | the | market | in-the-past. |        |
 
 |                               |
 | ----------------------------- |
@@ -134,9 +134,9 @@ Lojban specifies the spatial tense of a bridi (the place at which it occurs) by 
 
 ##### Example 10.6.
 
-|     |       |                    |       |     |       |
-| --- | ----- | ------------------ | ----- | --- | ----- |
-| le  | nanmu | va                 | batci | le  | gerku |
+|     |       |                     |       |     |       |
+| --- | ----- | ------------------- | ----- | --- | ----- |
+| le  | nanmu | va                  | batci | le  | gerku |
 | The | man   | \[medium-distance\] | bites | the | dog.  |
 
 |                                       |
@@ -151,9 +151,9 @@ Suppose you specify a direction with a FAhA cmavo, rather than a distance with a
 
 ##### Example 10.7.
 
-|     |       |         |       |     |       |
-| --- | ----- | ------- | ----- | --- | ----- |
-| le  | nanmu | zu'a    | batci | le  | gerku |
+|     |       |          |       |     |       |
+| --- | ----- | -------- | ----- | --- | ----- |
+| le  | nanmu | zu'a     | batci | le  | gerku |
 | The | man   | \[left\] | bites | the | dog.  |
 
 
@@ -170,9 +170,9 @@ What about specifying both a direction and a distance? The rule here is that the
 
 ##### Example 10.8.
 
-|     |       |                        |       |     |       |
-| --- | ----- | ---------------------- | ----- | --- | ----- |
-| le  | nanmu | zu'avi                 | batci | le  | gerku |
+|     |       |                         |       |     |       |
+| --- | ----- | ----------------------- | ----- | --- | ----- |
+| le  | nanmu | zu'avi                  | batci | le  | gerku |
 | The | man   | \[left-short-distance\] | bites | the | dog.  |
 
 |                                             |
@@ -185,10 +185,10 @@ As explained in [Section 10.1](/chapter10/#introductory "10.1. Introductory"), i
 
 ##### Example 10.9.
 
-|                        |     |       |    |       |     |       |
-| ---------------------- | --- | ----- | -- | ----- | --- | ----- |
-| zu'aviku               | le  | nanmu | cu | batci | le  | gerku |
-| \[Left-short-distance\] | the | man   |    | bites | the | dog.  |
+|                         |     |       |     |       |     |       |
+| ----------------------- | --- | ----- | --- | ----- | --- | ----- |
+| zu'aviku                | le  | nanmu | cu  | batci | le  | gerku |
+| \[Left-short-distance\] | the | man   |     | bites | the | dog.  |
 
 |                                             |
 | ------------------------------------------- |
@@ -202,9 +202,9 @@ Humph, says the reader: this talk of “imaginary journeys” is all very well, 
 
 ##### Example 10.10.
 
-|     |       |       |         |       |     |       |
-| --- | ----- | ----- | ------- | ----- | --- | ----- |
-| le  | nanmu | ga'u  | zu'a    | batci | le  | gerku |
+|     |       |        |          |       |     |       |
+| --- | ----- | ------ | -------- | ----- | --- | ----- |
+| le  | nanmu | ga'u   | zu'a     | batci | le  | gerku |
 | The | man   | \[up\] | \[left\] | bites | the | dog.  |
 
 
@@ -221,9 +221,9 @@ The opposite order also makes sense:
 
 ##### Example 10.11.
 
-|     |       |         |       |       |     |       |
-| --- | ----- | ------- | ----- | ----- | --- | ----- |
-| le  | nanmu | zu'a    | ga'u  | batci | le  | gerku |
+|     |       |          |        |       |     |       |
+| --- | ----- | -------- | ------ | ----- | --- | ----- |
+| le  | nanmu | zu'a     | ga'u   | batci | le  | gerku |
 | The | man   | \[left\] | \[up\] | bites | the | dog.  |
 
 |                                                         |
@@ -238,9 +238,9 @@ Each direction can have a distance following:
 
 ##### Example 10.12.
 
-|     |       |                        |       |                  |       |     |       |
-| --- | ----- | ---------------------- | ----- | ---------------- | ----- | --- | ----- |
-| le  | nanmu | zu'avi                 | ga'u  | vu               | batci | le  | gerku |
+|     |       |                         |        |                   |       |     |       |
+| --- | ----- | ----------------------- | ------ | ----------------- | ----- | --- | ----- |
+| le  | nanmu | zu'avi                  | ga'u   | vu                | batci | le  | gerku |
 | The | man   | \[left-short-distance\] | \[up\] | \[long-distance\] | bites | the | dog.  |
 
 |                                                                      |
@@ -253,9 +253,9 @@ A distance can also come at the beginning of the tense construct, without any sp
 
 ##### Example 10.13.
 
-|     |       |                   |         |       |     |       |
-| --- | ----- | ----------------- | ------- | ----- | --- | ----- |
-| le  | nanmu | vi                | zu'a    | batci | le  | gerku |
+|     |       |                    |          |       |     |       |
+| --- | ----- | ------------------ | -------- | ----- | --- | ----- |
+| le  | nanmu | vi                 | zu'a     | batci | le  | gerku |
 | The | man   | \[short-distance\] | \[left\] | bites | the | dog.  |
 
 |                                                 |
@@ -268,12 +268,12 @@ Any number of directions may be used in a compound tense, with or without specif
 
 ##### Example 10.14.
 
-|           |       |          |          |         |           |          |         |
-| --------- | ----- | -------- | -------- | ------- | --------- | -------- | ------- |
-| le        | nanmu | ca'u     | vi       | ni'a    | va        | ri'u     | vu      |
-| The       | man   | \[front\] | \[short\] | \[down\] | \[medium\] | \[right\] | \[long\] |
-| ne'i      | batci | le       | gerku    |         |           |          |         |
-| \[within\] | bites | the      | dog.     |         |           |          |         |
+|            |       |           |           |          |            |           |          |
+| ---------- | ----- | --------- | --------- | -------- | ---------- | --------- | -------- |
+| le         | nanmu | ca'u      | vi        | ni'a     | va         | ri'u      | vu       |
+| The        | man   | \[front\] | \[short\] | \[down\] | \[medium\] | \[right\] | \[long\] |
+| ne'i       | batci | le        | gerku     |          |            |           |          |
+| \[within\] | bites | the       | dog.      |          |            |           |          |
 
 |                                                                                                                                                                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -287,22 +287,22 @@ Whew! It's a good thing tense constructs are optional: having to say all that co
 
 The following cmavo are discussed in this section:
 
-|    |    |                      |
-| -- | -- | -------------------- |
-| pu | PU | past                 |
-| ca | PU | present              |
-| ba | PU | future               |
-| zi | ZI | short time distance  |
-| za | ZI | medium time distance |
-| zu | ZI | long time distance   |
+|     |     |                      |
+| --- | --- | -------------------- |
+| pu  | PU  | past                 |
+| ca  | PU  | present              |
+| ba  | PU  | future               |
+| zi  | ZI  | short time distance  |
+| za  | ZI  | medium time distance |
+| zu  | ZI  | long time distance   |
 
 Now that the reader understands spatial tenses, there are only two main facts to understand about temporal tenses: they work exactly like the spatial tenses, with selma'o PU and ZI standing in for FAhA and VA; and when both spatial and temporal tense cmavo are given in a single tense construct, the temporal tense is expressed first. (If space could be expressed before or after time at will, then certain constructions would be ambiguous.)
 
 ##### Example 10.15.
 
-|     |       |         |       |     |       |
-| --- | ----- | ------- | ----- | --- | ----- |
-| le  | nanmu | pu      | batci | le  | gerku |
+|     |       |          |       |     |       |
+| --- | ----- | -------- | ----- | --- | ----- |
+| le  | nanmu | pu       | batci | le  | gerku |
 | The | man   | \[past\] | bites | the | dog.  |
 
 |                      |
@@ -323,9 +323,9 @@ Here are some examples of temporal tenses:
 
 ##### Example 10.16.
 
-|     |       |                        |       |     |       |
-| --- | ----- | ---------------------- | ----- | --- | ----- |
-| le  | nanmu | puzi                   | batci | le  | gerku |
+|     |       |                         |       |     |       |
+| --- | ----- | ----------------------- | ----- | --- | ----- |
+| le  | nanmu | puzi                    | batci | le  | gerku |
 | The | man   | \[past-short-distance\] | bites | the | dog.  |
 
 |                                        |
@@ -336,9 +336,9 @@ Here are some examples of temporal tenses:
 
 ##### Example 10.17.
 
-|     |       |         |         |       |     |       |
-| --- | ----- | ------- | ------- | ----- | --- | ----- |
-| le  | nanmu | pu      | pu      | batci | le  | gerku |
+|     |       |          |          |       |     |       |
+| --- | ----- | -------- | -------- | ----- | --- | ----- |
+| le  | nanmu | pu       | pu       | batci | le  | gerku |
 | The | man   | \[past\] | \[past\] | bites | the | dog.  |
 
 |                                                             |
@@ -351,9 +351,9 @@ Here are some examples of temporal tenses:
 
 ##### Example 10.18.
 
-|     |       |           |               |       |     |       |
-| --- | ----- | --------- | ------------- | ----- | --- | ----- |
-| le  | nanmu | ba        | puzi          | batci | le  | gerku |
+|     |       |            |                |       |     |       |
+| --- | ----- | ---------- | -------------- | ----- | --- | ----- |
+| le  | nanmu | ba         | puzi           | batci | le  | gerku |
 | The | man   | \[future\] | \[past-short\] | bites | the | dog.  |
 
 |                                                                           |
@@ -369,9 +369,9 @@ What about the analogue of an initial VA without a direction? Lojban does allow 
 
 ##### Example 10.19.
 
-|     |       |          |         |       |     |       |
-| --- | ----- | -------- | ------- | ----- | --- | ----- |
-| le  | nanmu | zi       | pu      | batci | le  | gerku |
+|     |       |           |          |       |     |       |
+| --- | ----- | --------- | -------- | ----- | --- | ----- |
+| le  | nanmu | zi        | pu       | batci | le  | gerku |
 | The | man   | \[short\] | \[past\] | bites | the | dog.  |
 
 |                                                                           |
@@ -382,9 +382,9 @@ What about the analogue of an initial VA without a direction? Lojban does allow 
 
 ##### Example 10.20.
 
-|     |       |         |       |     |       |
-| --- | ----- | ------- | ----- | --- | ----- |
-| le  | nanmu | zu      | batci | le  | gerku |
+|     |       |          |       |     |       |
+| --- | ----- | -------- | ----- | --- | ----- |
+| le  | nanmu | zu       | batci | le  | gerku |
 | The | man   | \[long\] | bites | the | dog.  |
 
 |                                                                   |
@@ -401,9 +401,9 @@ Finally, here are examples which combine temporal and spatial tense:
 
 ##### Example 10.21.
 
-|     |       |                   |               |       |     |       |
-| --- | ----- | ----------------- | ------------- | ----- | --- | ----- |
-| le  | nanmu | puzu              | vu            | batci | le  | gerku |
+|     |       |                    |                |       |     |       |
+| --- | ----- | ------------------ | -------------- | ----- | --- | ----- |
+| le  | nanmu | puzu               | vu             | batci | le  | gerku |
 | The | man   | \[past-long-time\] | \[long-space\] | bites | the | dog.  |
 
 |                                             |
@@ -416,10 +416,10 @@ Alternatively,
 
 ##### Example 10.22.
 
-|     |       |    |       |     |       |                               |
-| --- | ----- | -- | ----- | --- | ----- | ----------------------------- |
-| le  | nanmu | cu | batci | le  | gerku | puzuvuku                      |
-| The | man   |    | bites | the | dog   | \[past-long-time-long-space\]. |
+|     |       |     |       |     |       |                                |
+| --- | ----- | --- | ----- | --- | ----- | ------------------------------ |
+| le  | nanmu | cu  | batci | le  | gerku | puzuvuku                       |
+| The | man   |     | bites | the | dog   | \[past-long-time-long-space\]. |
 
 |                                            |
 | ------------------------------------------ |
@@ -444,9 +444,9 @@ So far, we have considered only events that are usually thought of as happening 
 
 ##### Example 10.23.
 
-|     |       |                         |          |     |       |
-| --- | ----- | ----------------------- | -------- | --- | ----- |
-| le  | verba | ve'i                    | cadzu    | le  | bisli |
+|     |       |                          |          |     |       |
+| --- | ----- | ------------------------ | -------- | --- | ----- |
+| le  | verba | ve'i                     | cadzu    | le  | bisli |
 | The | child | \[small-space-interval\] | walks-on | the | ice.  |
 
 |                                                |
@@ -462,9 +462,9 @@ Here is an example using a time interval:
 
 ##### Example 10.24.
 
-|     |       |                         |          |     |       |
-| --- | ----- | ----------------------- | -------- | --- | ----- |
-| le  | verba | ze'a                    | cadzu    | le  | bisli |
+|     |       |                          |          |     |       |
+| --- | ----- | ------------------------ | -------- | --- | ----- |
+| le  | verba | ze'a                     | cadzu    | le  | bisli |
 | The | child | \[medium-time-interval\] | walks-on | the | ice.  |
 
 |                                                                 |
@@ -477,9 +477,9 @@ Note that with no time direction word, [Example 10.24](/chapter10/#example-1024 
 
 ##### Example 10.25.
 
-|     |       |         |                         |          |     |       |
-| --- | ----- | ------- | ----------------------- | -------- | --- | ----- |
-| le  | verba | pu      | ze'a                    | cadzu    | le  | bisli |
+|     |       |          |                          |          |     |       |
+| --- | ----- | -------- | ------------------------ | -------- | --- | ----- |
+| le  | verba | pu       | ze'a                     | cadzu    | le  | bisli |
 | The | child | \[past\] | \[medium-time-interval\] | walks-on | the | ice.  |
 
 |                                                 |
@@ -493,10 +493,10 @@ In [Example 10.25](/chapter10/#example-1025 "Example 10.25. "), the relationship
 
 ##### Example 10.26.
 
-|    |            |                                |         |                 |
-| -- | ---------- | ------------------------------ | ------- | --------------- |
-| mi | ca         | ze'ica                         | cusku   | dei             |
-| I  | \[present\] | \[short-time-interval-present\] | express | this-utterance. |
+|     |             |                                 |         |                 |
+| --- | ----------- | ------------------------------- | ------- | --------------- |
+| mi  | ca          | ze'ica                          | cusku   | dei             |
+| I   | \[present\] | \[short-time-interval-present\] | express | this-utterance. |
 
 |                                |
 | ------------------------------ |
@@ -510,10 +510,10 @@ By contrast,
 
 ##### Example 10.27.
 
-|    |            |                             |         |                 |
-| -- | ---------- | --------------------------- | ------- | --------------- |
-| mi | ca         | ze'ipu                      | cusku   | dei             |
-| I  | \[present\] | \[short-time-interval-past\] | express | this-utterance. |
+|     |             |                              |         |                 |
+| --- | ----------- | ---------------------------- | ------- | --------------- |
+| mi  | ca          | ze'ipu                       | cusku   | dei             |
+| I   | \[present\] | \[short-time-interval-past\] | express | this-utterance. |
 
 |                                        |
 | -------------------------------------- |
@@ -525,10 +525,10 @@ means that for a short time interval extending from the past to the present I ha
 
 ##### Example 10.28.
 
-|    |         |                                |       |     |       |       |
-| -- | ------- | ------------------------------ | ----- | --- | ----- | ----- |
-| mi | pu      | ze'aba                         | citka | le  | mi    | sanmi |
-| I  | \[past\] | \[medium-time-interval-future\] | eat   | the | of-me | meal. |
+|     |          |                                 |       |     |       |       |
+| --- | -------- | ------------------------------- | ----- | --- | ----- | ----- |
+| mi  | pu       | ze'aba                          | citka | le  | mi    | sanmi |
+| I   | \[past\] | \[medium-time-interval-future\] | eat   | the | of-me | meal. |
 
 |                                             |
 | ------------------------------------------- |
@@ -541,10 +541,10 @@ With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/ch
 
 ##### Example 10.29.
 
-|    |         |                                 |       |     |       |       |
-| -- | ------- | ------------------------------- | ----- | --- | ----- | ----- |
-| mi | pu      | ze'aca                          | citka | le  | mi    | sanmi |
-| I  | \[past\] | \[medium-time-interval-present\] | eat   | the | of-me | meal. |
+|     |          |                                  |       |     |       |       |
+| --- | -------- | -------------------------------- | ----- | --- | ----- | ----- |
+| mi  | pu       | ze'aca                           | citka | le  | mi    | sanmi |
+| I   | \[past\] | \[medium-time-interval-present\] | eat   | the | of-me | meal. |
 
 |                                                        |
 | ------------------------------------------------------ |
@@ -559,9 +559,9 @@ Here are some examples of the use of space intervals with and without specified 
 
 ##### Example 10.30.
 
-|            |          |                         |            |
-| ---------- | -------- | ----------------------- | ---------- |
-| ta         | ri'u     | ve'i                    | finpe      |
+|            |           |                          |            |
+| ---------- | --------- | ------------------------ | ---------- |
+| ta         | ri'u      | ve'i                     | finpe      |
 | That-there | \[right\] | \[short-space-interval\] | is-a-fish. |
 
 |                                   |
@@ -574,9 +574,9 @@ In [Example 10.30](/chapter10/#example-1030 "Example 10.30. "), there is no equi
 
 ##### Example 10.31.
 
-|            |          |                               |            |
-| ---------- | -------- | ----------------------------- | ---------- |
-| ta         | ri'u     | ve'ica'u                      | finpe      |
+|            |           |                                |            |
+| ---------- | --------- | ------------------------------ | ---------- |
+| ta         | ri'u      | ve'ica'u                       | finpe      |
 | That-there | \[right\] | \[short-space-interval-front\] | is-a-fish. |
 
 |                                                      |
@@ -593,10 +593,10 @@ What is the significance of failing to specify an interval size of the type disc
 
 ##### Example 10.32.
 
-|    |         |       |     |         |
-| -- | ------- | ----- | --- | ------- |
-| mi | pu      | klama | le  | zarci   |
-| I  | \[past\] | go-to | the | market. |
+|     |          |       |     |         |
+| --- | -------- | ----- | --- | ------- |
+| mi  | pu       | klama | le  | zarci   |
+| I   | \[past\] | go-to | the | market. |
 
 
 
@@ -612,9 +612,9 @@ This property of a past tense is sometimes called “aorist”, in reference to 
 
 ##### Example 10.33.
 
-|     |       |           |           |
-| --- | ----- | --------- | --------- |
-| le  | tricu | ba        | crino     |
+|     |       |            |           |
+| --- | ----- | ---------- | --------- |
+| le  | tricu | ba         | crino     |
 | The | tree  | \[future\] | is-green. |
 
 |                         |
@@ -644,9 +644,9 @@ What about the child walking on the ice in [Example 10.23](/chapter10/#example-1
 
 ##### Example 10.34.
 
-|     |       |                          |                  |          |     |       |
-| --- | ----- | ------------------------ | ---------------- | -------- | --- | ----- |
-| le  | verba | ve'a                     | vi'a             | cadzu    | le  | bisli |
+|     |       |                           |                   |          |     |       |
+| --- | ----- | ------------------------- | ----------------- | -------- | --- | ----- |
+| le  | verba | ve'a                      | vi'a              | cadzu    | le  | bisli |
 | The | child | \[medium-space-interval\] | \[2-dimensional\] | walks-on | the | ice.  |
 
 |                                                     |
@@ -673,9 +673,9 @@ All the information carried by the tense constructs so far presented has been pr
 
 ##### Example 10.35.
 
-|     |       |             |          |          |     |       |
-| --- | ----- | ----------- | -------- | -------- | --- | ----- |
-| le  | verba | mo'i        | ri'u     | cadzu    | le  | bisli |
+|     |       |              |           |          |     |       |
+| --- | ----- | ------------ | --------- | -------- | --- | ----- |
+| le  | verba | mo'i         | ri'u      | cadzu    | le  | bisli |
 | The | child | \[movement\] | \[right\] | walks-on | the | ice.  |
 
 |                                             |
@@ -688,9 +688,9 @@ This is quite different from:
 
 ##### Example 10.36.
 
-|     |       |          |          |     |       |
-| --- | ----- | -------- | -------- | --- | ----- |
-| le  | verba | ri'u     | cadzu    | le  | bisli |
+|     |       |           |          |     |       |
+| --- | ----- | --------- | -------- | --- | ----- |
+| le  | verba | ri'u      | cadzu    | le  | bisli |
 | The | child | \[right\] | walks-on | the | ice.  |
 
 |                                                 |
@@ -703,9 +703,9 @@ In either case, however, the reference frame for defining “right” and “lef
 
 ##### Example 10.37.
 
-|     |       |             |          |          |     |       |
-| --- | ----- | ----------- | -------- | -------- | --- | ----- |
-| le  | verba | mo'i        | ri'u     | cadzu    | le  | bisli |
+|     |       |              |           |          |     |       |
+| --- | ----- | ------------ | --------- | -------- | --- | ----- |
+| le  | verba | mo'i         | ri'u      | cadzu    | le  | bisli |
 | The | child | \[movement\] | \[right\] | walks-on | the | ice   |
 
 |                    |               |
@@ -725,9 +725,9 @@ Both a regular and a *[mo'i](/glossary/#moi)*-flagged spatial tense can be combi
 
 ##### Example 10.38.
 
-|     |       |              |             |                |          |     |       |
-| --- | ----- | ------------ | ----------- | -------------- | -------- | --- | ----- |
-| le  | verba | zu'avu       | mo'i        | ri'uvi         | cadzu    | le  | bisli |
+|     |       |               |              |                 |          |     |       |
+| --- | ----- | ------------- | ------------ | --------------- | -------- | --- | ----- |
+| le  | verba | zu'avu        | mo'i         | ri'uvi          | cadzu    | le  | bisli |
 | The | child | \[left-long\] | \[movement\] | \[right-short\] | walks-on | the | ice.  |
 
 |                                                                                     |
@@ -742,10 +742,10 @@ Here is an example of a movement tense on a bridi not inherently involving movem
 
 ##### Example 10.39.
 
-|    |             |               |       |     |                    |       |
-| -- | ----------- | ------------- | ----- | --- | ------------------ | ----- |
-| mi | mo'i        | ca'uvu        | citka | le  | mi                 | sanmi |
-| I  | \[movement\] | \[front-long\] | eat   | the | associated-with-me | meal. |
+|     |              |                |       |     |                    |       |
+| --- | ------------ | -------------- | ----- | --- | ------------------ | ----- |
+| mi  | mo'i         | ca'uvu         | citka | le  | mi                 | sanmi |
+| I   | \[movement\] | \[front-long\] | eat   | the | associated-with-me | meal. |
 
 |                                                 |
 | ----------------------------------------------- |
@@ -780,10 +780,10 @@ Consider Lojban bridi which express events taking place in time. Whether a very 
 
 ##### Example 10.40.
 
-|    |                       |                  |                               |
-| -- | --------------------- | ---------------- | ----------------------------- |
-| mi | puzu                  | ze'u             | velckule                      |
-| I  | \[past-long-distance\] | \[long-interval\] | am-a-school-attendee (pupil). |
+|     |                        |                   |                               |
+| --- | ---------------------- | ----------------- | ----------------------------- |
+| mi  | puzu                   | ze'u              | velckule                      |
+| I   | \[past-long-distance\] | \[long-interval\] | am-a-school-attendee (pupil). |
 
 |                                             |
 | ------------------------------------------- |
@@ -795,10 +795,10 @@ probably does not mean that I attended school continuously throughout the whole 
 
 ##### Example 10.41.
 
-|    |                       |                  |              |             |
-| -- | --------------------- | ---------------- | ------------ | ----------- |
-| mi | puzu                  | ze'u             | di'i         | velckule    |
-| I  | \[past-long-distance\] | \[long-interval\] | \[regularly\] | am-a-pupil. |
+|     |                        |                   |               |             |
+| --- | ---------------------- | ----------------- | ------------- | ----------- |
+| mi  | puzu                   | ze'u              | di'i          | velckule    |
+| I   | \[past-long-distance\] | \[long-interval\] | \[regularly\] | am-a-pupil. |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -812,11 +812,11 @@ Using TAhE does not require being so specific. Either the time direction or the 
 
 ##### Example 10.42.
 
-|    |           |               |       |     |         |
-| -- | --------- | ------------- | ----- | --- | ------- |
-| mi | ba        | ta'e          | klama | le  | zarci   |
-| I  | \[future\] | \[habitually\] | go-to | the | market. |
-| I  | will      | habitually    | go to | the | market. |
+|     |            |                |       |     |         |
+| --- | ---------- | -------------- | ----- | --- | ------- |
+| mi  | ba         | ta'e           | klama | le  | zarci   |
+| I   | \[future\] | \[habitually\] | go-to | the | market. |
+| I   | will       | habitually     | go to | the | market. |
 
 |                                             |
 | ------------------------------------------- |
@@ -828,10 +828,10 @@ specifies the future, but the duration of the interval is indefinite. Similarly,
 
 ##### Example 10.43.
 
-|    |              |       |     |         |
-| -- | ------------ | ----- | --- | ------- |
-| mi | na'o         | klama | le  | zarci   |
-| I  | \[typically\] | go-to | the | market. |
+|     |               |       |     |         |
+| --- | ------------- | ----- | --- | ------- |
+| mi  | na'o          | klama | le  | zarci   |
+| I   | \[typically\] | go-to | the | market. |
 
 |                                            |
 | ------------------------------------------ |
@@ -845,9 +845,9 @@ illustrates an interval property in isolation. There are no distance or directio
 
 ##### Example 10.44.
 
-|     |       |                     |          |     |       |
-| --- | ----- | ------------------- | -------- | --- | ----- |
-| le  | verba | ru'inai             | cadzu    | le  | bisli |
+|     |       |                      |          |     |       |
+| --- | ----- | -------------------- | -------- | --- | ----- |
+| le  | verba | ru'inai              | cadzu    | le  | bisli |
 | The | child | \[continuously-not\] | walks-on | the | ice.  |
 
 |                                            |
@@ -862,10 +862,10 @@ An intermittent event can also be specified by counting the number of times duri
 
 ##### Example 10.45.
 
-|    |             |       |     |         |
-| -- | ----------- | ----- | --- | ------- |
-| mi | paroi       | klama | le  | zarci   |
-| I  | \[one-time\] | go-to | the | market. |
+|     |              |       |     |         |
+| --- | ------------ | ----- | --- | ------- |
+| mi  | paroi        | klama | le  | zarci   |
+| I   | \[one-time\] | go-to | the | market. |
 
 |                          |
 | ------------------------ |
@@ -875,10 +875,10 @@ An intermittent event can also be specified by counting the number of times duri
 
 ##### Example 10.46.
 
-|    |                   |       |     |         |
-| -- | ----------------- | ----- | --- | ------- |
-| mi | du'eroi           | klama | le  | zarci   |
-| I  | \[too-many-times\] | go-to | the | market. |
+|     |                    |       |     |         |
+| --- | ------------------ | ----- | --- | ------- |
+| mi  | du'eroi            | klama | le  | zarci   |
+| I   | \[too-many-times\] | go-to | the | market. |
 
 |                               |
 | ----------------------------- |
@@ -890,10 +890,10 @@ With the quantified tense alone, we don't know whether the past, the present, or
 
 ##### Example 10.47.
 
-|    |         |              |       |     |         |
-| -- | ------- | ------------ | ----- | --- | ------- |
-| mi | pu      | reroi        | klama | le  | zarci   |
-| I  | \[past\] | \[two-times\] | go-to | the | market. |
+|     |          |               |       |     |         |
+| --- | -------- | ------------- | ----- | --- | ------- |
+| mi  | pu       | reroi         | klama | le  | zarci   |
+| I   | \[past\] | \[two-times\] | go-to | the | market. |
 
 |                             |
 | --------------------------- |
@@ -907,9 +907,9 @@ Adding *-nai* to *[roi](/glossary/#roi)* is also permitted, and has the meaning 
 
 ##### Example 10.48.
 
-|     |       |              |       |     |         |
-| --- | ----- | ------------ | ----- | --- | ------- |
-| le  | ratcu | reroinai     | citka | le  | cirla   |
+|     |       |               |       |     |         |
+| --- | ----- | ------------- | ----- | --- | ------- |
+| le  | ratcu | reroinai      | citka | le  | cirla   |
 | The | rat   | \[twice-not\] | eats  | the | cheese. |
 
 |                                           |
@@ -924,10 +924,10 @@ It is necessary to be careful with sentences like [Example 10.45](/chapter10/#ex
 
 ##### Example 10.49.
 
-|    |                   |         |       |     |         |
-| -- | ----------------- | ------- | ----- | --- | ------- |
-| mi | ze'e              | paroi   | klama | le  | zarci   |
-| I  | \[whole-interval\] | \[once\] | go-to | the | market. |
+|     |                    |          |       |     |         |
+| --- | ------------------ | -------- | ----- | --- | ------- |
+| mi  | ze'e               | paroi    | klama | le  | zarci   |
+| I   | \[whole-interval\] | \[once\] | go-to | the | market. |
 
 
 
@@ -937,10 +937,10 @@ A PU cmavo following *[ze'e](/glossary/#zee)* has a slightly different meaning f
 
 ##### Example 10.50.
 
-|    |                        |          |       |     |         |
-| -- | ---------------------- | -------- | ----- | --- | ------- |
-| mi | ze'epu                 | noroi    | klama | le  | zarci   |
-| I  | \[whole-interval-past\] | \[never\] | go-to | the | market. |
+|     |                         |           |       |     |         |
+| --- | ----------------------- | --------- | ----- | --- | ------- |
+| mi  | ze'epu                  | noroi     | klama | le  | zarci   |
+| I   | \[whole-interval-past\] | \[never\] | go-to | the | market. |
 
 |                                  |
 | -------------------------------- |
@@ -980,10 +980,10 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 
 ##### Example 10.51.
 
-|    |               |        |
-| -- | ------------- | ------ |
-| mi | pu'o          | damba  |
-| I  | \[inchoative\] | fight. |
+|     |                |        |
+| --- | -------------- | ------ |
+| mi  | pu'o           | damba  |
+| I   | \[inchoative\] | fight. |
 
 |                               |
 | ----------------------------- |
@@ -993,9 +993,9 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 
 ##### Example 10.52.
 
-|            |       |                 |         |
-| ---------- | ----- | --------------- | ------- |
-| la         | stiv. | ca'o            | bacru   |
+|            |       |                  |         |
+| ---------- | ----- | ---------------- | ------- |
+| la         | stiv. | ca'o             | bacru   |
 | That-named | Steve | \[continuitive\] | utters. |
 
 |                          |
@@ -1006,9 +1006,9 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 
 ##### Example 10.53.
 
-|     |       |               |          |     |       |
-| --- | ----- | ------------- | -------- | --- | ----- |
-| le  | verba | ba'o          | cadzu    | le  | bisli |
+|     |       |                |          |     |       |
+| --- | ----- | -------------- | -------- | --- | ----- |
+| le  | verba | ba'o           | cadzu    | le  | bisli |
 | The | child | \[perfective\] | walks-on | the | ice.  |
 
 |                                           |
@@ -1025,10 +1025,10 @@ The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51. ") through
 
 ##### Example 10.54.
 
-|    |           |               |       |     |                    |       |
-| -- | --------- | ------------- | ----- | --- | ------------------ | ----- |
-| mi | ba        | co'a          | citka | le  | mi                 | sanmi |
-| I  | \[future\] | \[initiative\] | eat   | the | associated-with-me | meal. |
+|     |            |                |       |     |                    |       |
+| --- | ---------- | -------------- | ----- | --- | ------------------ | ----- |
+| mi  | ba         | co'a           | citka | le  | mi                 | sanmi |
+| I   | \[future\] | \[initiative\] | eat   | the | associated-with-me | meal. |
 
 |                              |
 | ---------------------------- |
@@ -1038,10 +1038,10 @@ The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51. ") through
 
 ##### Example 10.55.
 
-|    |         |              |       |     |                    |       |
-| -- | ------- | ------------ | ----- | --- | ------------------ | ----- |
-| mi | pu      | co'u         | citka | le  | mi                 | sanmi |
-| I  | \[past\] | \[cessitive\] | eat   | the | associated-with-me | meal. |
+|     |          |               |       |     |                    |       |
+| --- | -------- | ------------- | ----- | --- | ------------------ | ----- |
+| mi  | pu       | co'u          | citka | le  | mi                 | sanmi |
+| I   | \[past\] | \[cessitive\] | eat   | the | associated-with-me | meal. |
 
 |                          |
 | ------------------------ |
@@ -1053,10 +1053,10 @@ Compare [Example 10.54](/chapter10/#example-1054 "Example 10.54. ") with:
 
 ##### Example 10.56.
 
-|    |           |              |               |       |
-| -- | --------- | ------------ | ------------- | ----- |
-| mi | ba        | di'i         | co'a          | bajra |
-| I  | \[future\] | \[regularly\] | \[initiative\] | run.  |
+|     |            |               |                |       |
+| --- | ---------- | ------------- | -------------- | ----- |
+| mi  | ba         | di'i          | co'a           | bajra |
+| I   | \[future\] | \[regularly\] | \[initiative\] | run.  |
 
 |                                |
 | ------------------------------ |
@@ -1070,10 +1070,10 @@ A process can have two end points, one reflecting the “natural end” (when th
 
 ##### Example 10.57.
 
-|    |         |                 |       |     |                    |       |
-| -- | ------- | --------------- | ----- | --- | ------------------ | ----- |
-| mi | pu      | mo'u            | citka | le  | mi                 | sanmi |
-| I  | \[past\] | \[completitive\] | eat   | the | associated-with-me | meal. |
+|     |          |                  |       |     |                    |       |
+| --- | -------- | ---------------- | ----- | --- | ------------------ | ----- |
+| mi  | pu       | mo'u             | citka | le  | mi                 | sanmi |
+| I   | \[past\] | \[completitive\] | eat   | the | associated-with-me | meal. |
 
 |                            |
 | -------------------------- |
@@ -1087,10 +1087,10 @@ A process such as eating a meal does not necessarily proceed uninterrupted. If i
 
 ##### Example 10.58.
 
-|    |         |              |       |     |                    |       |
-| -- | ------- | ------------ | ----- | --- | ------------------ | ----- |
-| mi | pu      | de'a         | citka | le  | mi                 | sanmi |
-| I  | \[past\] | \[pausative\] | eat   | the | associated-with-me | meal. |
+|     |          |               |       |     |                    |       |
+| --- | -------- | ------------- | ----- | --- | ------------------ | ----- |
+| mi  | pu       | de'a          | citka | le  | mi                 | sanmi |
+| I   | \[past\] | \[pausative\] | eat   | the | associated-with-me | meal. |
 
 |                                                            |
 | ---------------------------------------------------------- |
@@ -1100,10 +1100,10 @@ A process such as eating a meal does not necessarily proceed uninterrupted. If i
 
 ##### Example 10.59.
 
-|    |           |               |       |     |                    |       |
-| -- | --------- | ------------- | ----- | --- | ------------------ | ----- |
-| mi | ba        | di'a          | citka | le  | mi                 | sanmi |
-| I  | \[future\] | \[resumptive\] | eat   | the | associated-with-me | meal. |
+|     |            |                |       |     |                    |       |
+| --- | ---------- | -------------- | ----- | --- | ------------------ | ----- |
+| mi  | ba         | di'a           | citka | le  | mi                 | sanmi |
+| I   | \[future\] | \[resumptive\] | eat   | the | associated-with-me | meal. |
 
 |                               |
 | ----------------------------- |
@@ -1115,9 +1115,9 @@ In addition, it is possible for a process to continue beyond its natural end. Th
 
 ##### Example 10.60.
 
-|     |         |         |                 |           |
-| --- | ------- | ------- | --------------- | --------- |
-| le  | ctuca   | pu      | za'o            | ciksi     |
+|     |         |          |                  |           |
+| --- | ------- | -------- | ---------------- | --------- |
+| le  | ctuca   | pu       | za'o             | ciksi     |
 | The | teacher | \[past\] | \[superfective\] | explained |
 
 |     |             |          |        |                |
@@ -1137,9 +1137,9 @@ An entire event can be treated as a single moment using the cmavo *[co'i](/gloss
 
 ##### Example 10.61.
 
-|            |       |         |                |       |            |      |
-| ---------- | ----- | ------- | -------------- | ----- | ---------- | ---- |
-| la         | djan. | pu      | co'i           | catra | la         | djim |
+|            |       |          |                 |       |            |      |
+| ---------- | ----- | -------- | --------------- | ----- | ---------- | ---- |
+| la         | djan. | pu       | co'i            | catra | la         | djim |
 | That-named | John  | \[past\] | \[achievative\] | kills | that-named | Jim. |
 
 |                                                    |
@@ -1152,10 +1152,10 @@ Finally, since an activity is cyclical, an individual cycle can be referred to u
 
 ##### Example 10.62.
 
-|    |               |       |     |        |
-| -- | ------------- | ----- | --- | ------ |
-| mi | pare'u        | klama | le  | zarci  |
-| I  | \[first-time\] | go-to | the | store. |
+|     |                |       |     |        |
+| --- | -------------- | ----- | --- | ------ |
+| mi  | pare'u         | klama | le  | zarci  |
+| I   | \[first-time\] | go-to | the | store. |
 
 |                                                                 |
 | --------------------------------------------------------------- |
@@ -1167,10 +1167,10 @@ Note the difference between:
 
 ##### Example 10.63.
 
-|    |               |             |       |     |        |
-| -- | ------------- | ----------- | ----- | --- | ------ |
-| mi | pare'u        | paroi       | klama | le  | zarci  |
-| I  | \[first-time\] | \[one-time\] | go-to | the | store. |
+|     |                |              |       |     |        |
+| --- | -------------- | ------------ | ----- | --- | ------ |
+| mi  | pare'u         | paroi        | klama | le  | zarci  |
+| I   | \[first-time\] | \[one-time\] | go-to | the | store. |
 
 |                                             |
 | ------------------------------------------- |
@@ -1182,10 +1182,10 @@ and
 
 ##### Example 10.64.
 
-|    |             |               |       |     |        |
-| -- | ----------- | ------------- | ----- | --- | ------ |
-| mi | paroi       | pare'u        | klama | le  | zarci  |
-| I  | \[one-time\] | \[first-time\] | go-to | the | store. |
+|     |              |                |       |     |        |
+| --- | ------------ | -------------- | ----- | --- | ------ |
+| mi  | paroi        | pare'u         | klama | le  | zarci  |
+| I   | \[one-time\] | \[first-time\] | go-to | the | store. |
 
 |                                                                      |
 | -------------------------------------------------------------------- |
@@ -1205,9 +1205,9 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 
 ##### Example 10.65.
 
-|                |                  |           |              |       |     |        |
-| -------------- | ---------------- | --------- | ------------ | ----- | --- | ------ |
-| ko             | vi'i             | fe'e      | di'i         | sombo | le  | gurni  |
+|                |                   |            |               |       |     |        |
+| -------------- | ----------------- | ---------- | ------------- | ----- | --- | ------ |
+| ko             | vi'i              | fe'e       | di'i          | sombo | le  | gurni  |
 | You-imperative | \[1-dimensional\] | \[space:\] | \[regularly\] | sow   | the | grain. |
 
 |                                     |
@@ -1218,10 +1218,10 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 
 ##### Example 10.66.
 
-|    |           |                 |          |                 |                    |
-| -- | --------- | --------------- | -------- | --------------- | ------------------ |
-| mi | fe'e      | ciroi           | tervecnu | lo              | selsalta           |
-| I  | \[space:\] | \[three-places\] | buy      | those-which-are | salad-ingredients. |
+|     |            |                  |          |                 |                    |
+| --- | ---------- | ---------------- | -------- | --------------- | ------------------ |
+| mi  | fe'e       | ciroi            | tervecnu | lo              | selsalta           |
+| I   | \[space:\] | \[three-places\] | buy      | those-which-are | salad-ingredients. |
 
 |                                             |
 | ------------------------------------------- |
@@ -1231,15 +1231,15 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 
 ##### Example 10.67.
 
-|               |              |                |           |               |    |
-| ------------- | ------------ | -------------- | --------- | ------------- | -- |
-| ze'e          | roroi        | ve'e           | fe'e      | roroi         | ku |
-| \[whole-time\] | \[all-times\] | \[whole-space\] | \[space:\] | \[all-places\] |    |
+|                |               |                 |            |                |     |
+| -------------- | ------------- | --------------- | ---------- | -------------- | --- |
+| ze'e           | roroi         | ve'e            | fe'e       | roroi          | ku  |
+| \[whole-time\] | \[all-times\] | \[whole-space\] | \[space:\] | \[all-places\] |     |
 
-|            |    |      |    |    |            |    |
-| ---------- | -- | ---- | -- | -- | ---------- | -- |
-| li         | re | su'i | re | du | li         | vo |
-| The-number | 2  | +    | 2  | =  | the-number | 4. |
+|            |     |      |     |     |            |     |
+| ---------- | --- | ---- | --- | --- | ---------- | --- |
+| li         | re  | su'i | re  | du  | li         | vo  |
+| The-number | 2   | +    | 2   | =   | the-number | 4.  |
 
 |                                              |
 | -------------------------------------------- |
@@ -1253,9 +1253,9 @@ The *[fe'e](/glossary/#fee)* marker can also be used for the same purpose before
 
 ##### Example 10.68.
 
-|             |                                |          |               |            |
-| ----------- | ------------------------------ | -------- | ------------- | ---------- |
-| tu          | ve'abe'a                       | fe'e     | co'a          | rokci      |
+|             |                                 |           |                |            |
+| ----------- | ------------------------------- | --------- | -------------- | ---------- |
+| tu          | ve'abe'a                        | fe'e      | co'a           | rokci      |
 | That-yonder | \[medium-space-interval-north\] | \[space\] | \[initiative\] | is-a-rock. |
 
 |                                                        |
@@ -1277,10 +1277,10 @@ So far, we have seen tenses only just before the selbri, or (equivalently in mea
 
 ##### Example 10.69.
 
-|    |       |     |        |            |     |          |     |       |
-| -- | ----- | --- | ------ | ---------- | --- | -------- | --- | ----- |
-| mi | klama | le  | zarci  | ca         | le  | nu       | do  | klama |
-| I  | go-to | the | market | \[present\] | the | event-of | you | go-to |
+|     |       |     |        |             |     |          |     |       |
+| --- | ----- | --- | ------ | ----------- | --- | -------- | --- | ----- |
+| mi  | klama | le  | zarci  | ca          | le  | nu       | do  | klama |
+| I   | go-to | the | market | \[present\] | the | event-of | you | go-to |
 
 |     |        |
 | --- | ------ |
@@ -1297,10 +1297,10 @@ Here *[ca](/glossary/#ca)* does not appear before the selbri, nor with *[ku](/gl
 
 ##### Example 10.70.
 
-|    |       |     |        |         |     |          |     |         |       |
-| -- | ----- | --- | ------ | ------- | --- | -------- | --- | ------- | ----- |
-| mi | klama | le  | zarci  | pu      | le  | nu       | do  | pu      | klama |
-| I  | go-to | the | market | \[past\] | the | event-of | you | \[past\] | go-to |
+|     |       |     |        |          |     |          |     |          |       |
+| --- | ----- | --- | ------ | -------- | --- | -------- | --- | -------- | ----- |
+| mi  | klama | le  | zarci  | pu       | le  | nu       | do  | pu       | klama |
+| I   | go-to | the | market | \[past\] | the | event-of | you | \[past\] | go-to |
 
 |     |        |
 | --- | ------ |
@@ -1319,10 +1319,10 @@ All of our imaginary journeys so far have started at the speaker's location in s
 
 ##### Example 10.71.
 
-|     |       |    |       |     |        |                        |     |       |
-| --- | ----- | -- | ----- | --- | ------ | ---------------------- | --- | ----- |
-| le  | ratcu | cu | citka | le  | cirla  | vi                     | le  | panka |
-| The | rat   |    | eats  | the | cheese | \[short-time-distance\] | the | park. |
+|     |       |     |       |     |        |                         |     |       |
+| --- | ----- | --- | ----- | --- | ------ | ----------------------- | --- | ----- |
+| le  | ratcu | cu  | citka | le  | cirla  | vi                      | le  | panka |
+| The | rat   |     | eats  | the | cheese | \[short-time-distance\] | the | park. |
 
 |                                        |
 | -------------------------------------- |
@@ -1332,10 +1332,10 @@ All of our imaginary journeys so far have started at the speaker's location in s
 
 ##### Example 10.72.
 
-|     |       |    |       |     |        |                   |     |                  |       |
-| --- | ----- | -- | ----- | --- | ------ | ----------------- | --- | ---------------- | ----- |
-| le  | ratcu | cu | citka | le  | cirla  | vi                | le  | vu               | panka |
-| The | rat   |    | eats  | the | cheese | \[short-distance\] | the | \[long-distance\] | park  |
+|     |       |     |       |     |        |                    |     |                   |       |
+| --- | ----- | --- | ----- | --- | ------ | ------------------ | --- | ----------------- | ----- |
+| le  | ratcu | cu  | citka | le  | cirla  | vi                 | le  | vu                | panka |
+| The | rat   |     | eats  | the | cheese | \[short-distance\] | the | \[long-distance\] | park  |
 
 |                                                |
 | ---------------------------------------------- |
@@ -1345,10 +1345,10 @@ All of our imaginary journeys so far have started at the speaker's location in s
 
 ##### Example 10.73.
 
-|     |       |    |       |     |        |                  |     |                   |       |
-| --- | ----- | -- | ----- | --- | ------ | ---------------- | --- | ----------------- | ----- |
-| le  | ratcu | cu | citka | le  | cirla  | vu               | le  | vi                | panka |
-| The | rat   |    | eats  | the | cheese | \[long-distance\] | the | \[short-distance\] | park  |
+|     |       |     |       |     |        |                   |     |                    |       |
+| --- | ----- | --- | ----- | --- | ------ | ----------------- | --- | ------------------ | ----- |
+| le  | ratcu | cu  | citka | le  | cirla  | vu                | le  | vi                 | panka |
+| The | rat   |     | eats  | the | cheese | \[long-distance\] | the | \[short-distance\] | park  |
 
 |                                                        |
 | ------------------------------------------------------ |
@@ -1360,10 +1360,10 @@ The event contours of selma'o ZAhO (and their space equivalents, prefixed with *
 
 ##### Example 10.74.
 
-|    |         |               |     |          |    |       |
-| -- | ------- | ------------- | --- | -------- | -- | ----- |
-| mi | morsi   | ba'o          | le  | nu       | mi | jmive |
-| I  | am-dead | \[perfective\] | the | event-of | I  | live. |
+|     |         |                |     |          |     |       |
+| --- | ------- | -------------- | --- | -------- | --- | ----- |
+| mi  | morsi   | ba'o           | le  | nu       | mi  | jmive |
+| I   | am-dead | \[perfective\] | the | event-of | I   | live. |
 
 |                                      |
 | ------------------------------------ |
@@ -1375,10 +1375,10 @@ Here the (point-)event of my being dead is the portion of my living-process whic
 
 ##### Example 10.75.
 
-|    |         |           |     |          |    |       |
-| -- | ------- | --------- | --- | -------- | -- | ----- |
-| mi | morsi   | ba        | le  | nu       | mi | jmive |
-| I  | am-dead | \[future\] | the | event-of | I  | live. |
+|     |         |            |     |          |     |       |
+| --- | ------- | ---------- | --- | -------- | --- | ----- |
+| mi  | morsi   | ba         | le  | nu       | mi  | jmive |
+| I   | am-dead | \[future\] | the | event-of | I   | live. |
 
 
 
@@ -1388,10 +1388,10 @@ Likewise, we might say:
 
 ##### Example 10.76.
 
-|    |       |     |       |               |     |          |    |       |
-| -- | ----- | --- | ----- | ------------- | --- | -------- | -- | ----- |
-| mi | klama | le  | zarci | pu'o          | le  | nu       | mi | citka |
-| I  | go-to | the | store | \[inchoative\] | the | event-of | I  | eat   |
+|     |       |     |       |                |     |          |     |       |
+| --- | ----- | --- | ----- | -------------- | --- | -------- | --- | ----- |
+| mi  | klama | le  | zarci | pu'o           | le  | nu       | mi  | citka |
+| I   | go-to | the | store | \[inchoative\] | the | event-of | I   | eat   |
 
 
 
@@ -1399,10 +1399,10 @@ which indicates that before my eating begins, I go to the store, whereas
 
 ##### Example 10.77.
 
-|    |       |     |       |               |     |          |    |       |
-| -- | ----- | --- | ----- | ------------- | --- | -------- | -- | ----- |
-| mi | klama | le  | zarci | ba'o          | le  | nu       | mi | citka |
-| I  | go-to | the | store | \[perfective\] | the | event-of | I  | eat   |
+|     |       |     |       |                |     |          |     |       |
+| --- | ----- | --- | ----- | -------------- | --- | -------- | --- | ----- |
+| mi  | klama | le  | zarci | ba'o           | le  | nu       | mi  | citka |
+| I   | go-to | the | store | \[perfective\] | the | event-of | I   | eat   |
 
 
 
@@ -1412,14 +1412,14 @@ Here is an example which mixes temporal ZAhO (as a tense) and spatial ZAhO (as a
 
 ##### Example 10.78.
 
-|     |       |         |                 |                          |
-| --- | ----- | ------- | --------------- | ------------------------ |
-| le  | bloti | pu      | za'o            | xelklama                 |
+|     |       |          |                  |                          |
+| --- | ----- | -------- | ---------------- | ------------------------ |
+| le  | bloti | pu       | za'o             | xelklama                 |
 | The | boat  | \[past\] | \[superfective\] | is-a-transport-mechanism |
 
-|          |               |     |       |
-| -------- | ------------- | --- | ----- |
-| fe'e     | ba'o          | le  | lalxu |
+|           |                |     |       |
+| --------- | -------------- | --- | ----- |
+| fe'e      | ba'o           | le  | lalxu |
 | \[space\] | \[perfective\] | the | lake. |
 
 |                                                   |
@@ -1434,10 +1434,10 @@ The remaining tense cmavo, which have to do with interval size, dimension, and c
 
 ##### Example 10.79.
 
-|    |       |     |        |          |     |            |       |
-| -- | ----- | --- | ------ | -------- | --- | ---------- | ----- |
-| mi | klama | le  | zarci  | reroi    | le  | ca         | djedi |
-| I  | go-to | the | market | \[twice\] | the | \[present\] | day.  |
+|     |       |     |        |           |     |             |       |
+| --- | ----- | --- | ------ | --------- | --- | ----------- | ----- |
+| mi  | klama | le  | zarci  | reroi     | le  | ca          | djedi |
+| I   | go-to | the | market | \[twice\] | the | \[present\] | day.  |
 
 |                                              |
 | -------------------------------------------- |
@@ -1449,14 +1449,14 @@ Be careful not to confuse a tense used as a sumti tcita with a tense used within
 
 ##### Example 10.80.
 
-|                     |       |    |       |
-| ------------------- | ----- | -- | ----- |
-| loi                 | snime | cu | carvi |
-| Some-of-the-mass-of | snow  |    | rains |
+|                     |       |     |       |
+| ------------------- | ----- | --- | ----- |
+| loi                 | snime | cu  | carvi |
+| Some-of-the-mass-of | snow  |     | rains |
 
-|                       |     |            |         |
-| --------------------- | --- | ---------- | ------- |
-| ze'u                  | le  | ca         | dunra   |
+|                        |     |             |         |
+| ---------------------- | --- | ----------- | ------- |
+| ze'u                   | le  | ca          | dunra   |
 | \[long-time-interval\] | the | \[present\] | winter. |
 
 |                                |
@@ -1469,10 +1469,10 @@ claims that the interval specified by “this winter” is long, as events of sn
 
 ##### Example 10.81.
 
-|                     |       |    |       |            |     |              |         |
-| ------------------- | ----- | -- | ----- | ---------- | --- | ------------ | ------- |
-| loi                 | snime | cu | carvi | ca         | le  | ze'u         | dunra   |
-| Some-of-the-mass-of | snow  |    | rains | \[present\] | the | \[long-time\] | winter. |
+|                     |       |     |       |             |     |               |         |
+| ------------------- | ----- | --- | ----- | ----------- | --- | ------------- | ------- |
+| loi                 | snime | cu  | carvi | ca          | le  | ze'u          | dunra   |
+| Some-of-the-mass-of | snow  |     | rains | \[present\] | the | \[long-time\] | winter. |
 
 |                                |
 | ------------------------------ |
@@ -1486,9 +1486,9 @@ claims that during some part of the winter, which is long as winters go, snow fa
 
 The following cmavo is discussed in this section:
 
-|    |    |                        |
-| -- | -- | ---------------------- |
-| ki | KI | sticky tense set/reset |
+|     |     |                        |
+| --- | --- | ---------------------- |
+| ki  | KI  | sticky tense set/reset |
 
 So far we have only considered tenses in isolated bridi. Lojban provides several ways for a tense to continue in effect over more than a single bridi. This property is known as “stickiness”: the tense gets “stuck” and remains in effect until explicitly “unstuck”. In the metaphor of the imaginary journey, the place and time set by a sticky tense may be thought of as a campsite or way-station: it provides a permanent origin with respect to which other tenses are understood. Later imaginary journeys start from that point rather than from the speaker.
 
@@ -1496,15 +1496,15 @@ To make a tense sticky, suffix *[ki](/glossary/#ki)* to it:
 
 ##### Example 10.82.
 
-|    |                |       |     |         |
-| -- | -------------- | ----- | --- | ------- |
-| mi | puki           | klama | le  | zarci   |
-| I  | \[past-sticky\] | go-to | the | market. |
+|     |                 |       |     |         |
+| --- | --------------- | ----- | --- | ------- |
+| mi  | puki            | klama | le  | zarci   |
+| I   | \[past-sticky\] | go-to | the | market. |
 
-|    |     |       |    |       |     |       |
-| -- | --- | ----- | -- | ----- | --- | ----- |
-| .i | le  | nanmu | cu | batci | le  | gerku |
-|    | The | man   |    | bites | the | dog.  |
+|     |     |       |     |       |     |       |
+| --- | --- | ----- | --- | ----- | --- | ----- |
+| .i  | le  | nanmu | cu  | batci | le  | gerku |
+|     | The | man   |     | bites | the | dog.  |
 
 |                                            |
 | ------------------------------------------ |
@@ -1520,15 +1520,15 @@ What if the second sentence has a tense anyway?
 
 ##### Example 10.83.
 
-|    |                |       |     |         |
-| -- | -------------- | ----- | --- | ------- |
-| mi | puki           | klama | le  | zarci   |
-| I  | \[past-sticky\] | go-to | the | market. |
+|     |                 |       |     |         |
+| --- | --------------- | ----- | --- | ------- |
+| mi  | puki            | klama | le  | zarci   |
+| I   | \[past-sticky\] | go-to | the | market. |
 
-|    |     |       |         |       |     |       |
-| -- | --- | ----- | ------- | ----- | --- | ----- |
-| .i | le  | nanmu | pu      | batci | le  | gerku |
-|    | The | man   | \[past\] | bites | the | dog.  |
+|     |     |       |          |       |     |       |
+| --- | --- | ----- | -------- | ----- | --- | ----- |
+| .i  | le  | nanmu | pu       | batci | le  | gerku |
+|     | The | man   | \[past\] | bites | the | dog.  |
 
 
 
@@ -1544,15 +1544,15 @@ and it is equivalent in meaning (when considered in isolation from any other sen
 
 ##### Example 10.85.
 
-|    |         |       |     |         |
-| -- | ------- | ----- | --- | ------- |
-| mi | pu      | klama | le  | zarci   |
-| I  | \[past\] | go-to | the | market. |
+|     |          |       |     |         |
+| --- | -------- | ----- | --- | ------- |
+| mi  | pu       | klama | le  | zarci   |
+| I   | \[past\] | go-to | the | market. |
 
-|    |     |       |              |       |     |       |
-| -- | --- | ----- | ------------ | ----- | --- | ----- |
-| .i | le  | nanmu | pupu         | batci | le  | gerku |
-|    | The | man   | \[past-past\] | bites | the | dog.  |
+|     |     |       |               |       |     |       |
+| --- | --- | ----- | ------------- | ----- | --- | ----- |
+| .i  | le  | nanmu | pupu          | batci | le  | gerku |
+|     | The | man   | \[past-past\] | bites | the | dog.  |
 
 
 
@@ -1560,10 +1560,10 @@ The point has not been discussed so far, but it is perfectly grammatical to have
 
 ##### Example 10.86.
 
-|         |    |           |       |     |         |
-| ------- | -- | --------- | ----- | --- | ------- |
-| puku    | mi | ba        | klama | le  | zarci   |
-| \[past\] | I  | \[future\] | go-to | the | market. |
+|          |     |            |       |     |         |
+| -------- | --- | ---------- | ----- | --- | ------- |
+| puku     | mi  | ba         | klama | le  | zarci   |
+| \[past\] | I   | \[future\] | go-to | the | market. |
 
 |                                           |
 | ----------------------------------------- |
@@ -1575,10 +1575,10 @@ Here there are two tenses in the same bridi, the first floating free and specifi
 
 ##### Example 10.87.
 
-|    |                |       |     |         |
-| -- | -------------- | ----- | --- | ------- |
-| mi | puba           | klama | le  | zarci   |
-| I  | \[past-future\] | go-to | the | market. |
+|     |                 |       |     |         |
+| --- | --------------- | ----- | --- | ------- |
+| mi  | puba            | klama | le  | zarci   |
+| I   | \[past-future\] | go-to | the | market. |
 
 |                                  |
 | -------------------------------- |
@@ -1590,10 +1590,10 @@ Compare [Example 10.88](/chapter10/#example-1088 "Example 10.88. ") and [Example
 
 ##### Example 10.88.
 
-|    |           |       |     |        |          |
-| -- | --------- | ----- | --- | ------ | -------- |
-| mi | ba        | klama | le  | zarci  | puku     |
-| I  | \[future\] | go-to | the | market | \[past\]. |
+|     |            |       |     |        |           |
+| --- | ---------- | ----- | --- | ------ | --------- |
+| mi  | ba         | klama | le  | zarci  | puku      |
+| I   | \[future\] | go-to | the | market | \[past\]. |
 
 |                                         |
 | --------------------------------------- |
@@ -1603,10 +1603,10 @@ Compare [Example 10.88](/chapter10/#example-1088 "Example 10.88. ") and [Example
 
 ##### Example 10.89.
 
-|    |                |       |     |         |
-| -- | -------------- | ----- | --- | ------- |
-| mi | bapu           | klama | le  | zarci   |
-| I  | \[future-past\] | go-to | the | market. |
+|     |                 |       |     |         |
+| --- | --------------- | ----- | --- | ------- |
+| mi  | bapu            | klama | le  | zarci   |
+| I   | \[future-past\] | go-to | the | market. |
 
 |                                 |
 | ------------------------------- |
@@ -1620,15 +1620,15 @@ But why bother to allow multiple tense constructs at all? They specify separate 
 
 ##### Example 10.90.
 
-|         |           |    |    |           |       |     |         |
-| ------- | --------- | -- | -- | --------- | ----- | --- | ------- |
-| pu      | ki        | ku | mi | ba        | klama | le  | zarci   |
-| \[past\] | \[sticky\] |    | I  | \[future\] | go-to | the | market. |
+|          |            |     |     |            |       |     |         |
+| -------- | ---------- | --- | --- | ---------- | ----- | --- | ------- |
+| pu       | ki         | ku  | mi  | ba         | klama | le  | zarci   |
+| \[past\] | \[sticky\] |     | I   | \[future\] | go-to | the | market. |
 
-|    |     |       |    |       |     |       |
-| -- | --- | ----- | -- | ----- | --- | ----- |
-| .i | le  | nanmu | cu | batci | le  | gerku |
-|    | The | man   |    | bites | the | dog.  |
+|     |     |       |     |       |     |       |
+| --- | --- | ----- | --- | ----- | --- | ----- |
+| .i  | le  | nanmu | cu  | batci | le  | gerku |
+|     | The | man   |     | bites | the | dog.  |
 
 
 
@@ -1640,10 +1640,10 @@ Lojban has several ways of embedding a bridi within another bridi: descriptions,
 
 ##### Example 10.91.
 
-|    |         |       |     |               |        |
-| -- | ------- | ----- | --- | ------------- | ------ |
-| mi | pu      | klama | le  | ba'o          | zarci  |
-| I  | \[past\] | go-to | the | \[perfective\] | market |
+|     |          |       |     |                |        |
+| --- | -------- | ----- | --- | -------------- | ------ |
+| mi  | pu       | klama | le  | ba'o           | zarci  |
+| I   | \[past\] | go-to | the | \[perfective\] | market |
 
 |                              |
 | ---------------------------- |
@@ -1657,10 +1657,10 @@ Here is an example involving an abstraction bridi:
 
 ##### Example 10.92.
 
-|    |     |       |     |           |    |         |       |
-| -- | --- | ----- | --- | --------- | -- | ------- | ----- |
-| mi | ca  | jinvi | le  | du'u      | mi | ba      | morsi |
-| I  | now | opine | the | fact-that | I  | will-be | dead. |
+|     |     |       |     |           |     |         |       |
+| --- | --- | ----- | --- | --------- | --- | ------- | ----- |
+| mi  | ca  | jinvi | le  | du'u      | mi  | ba      | morsi |
+| I   | now | opine | the | fact-that | I   | will-be | dead. |
 
 |                                    |
 | ---------------------------------- |
@@ -1684,9 +1684,9 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.93.
 
-|         |         |           |      |           |           |     |       |
-| ------- | ------- | --------- | ---- | --------- | --------- | --- | ----- |
-| pu      | zu      | ki        | ku   | ne'i      | ki        | le  | kevna |
+|          |          |            |      |            |            |     |       |
+| -------- | -------- | ---------- | ---- | ---------- | ---------- | --- | ----- |
+| pu       | zu       | ki         | ku   | ne'i       | ki         | le  | kevna |
 | \[past\] | \[long\] | \[sticky\] | \[,] | \[inside\] | \[sticky\] | the | cave, |
 
 |     |       |            |       |        |     |       |
@@ -1702,10 +1702,10 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.94.
 
-|    |       |                 |                     |       |        |
-| -- | ----- | --------------- | ------------------- | ----- | ------ |
-| .i | ko'a  | citka           | loi                 | kanba | rectu  |
-|    | She-1 | eat-(tenseless) | some-of-the-mass-of | goat  | flesh. |
+|     |       |                 |                     |       |        |
+| --- | ----- | --------------- | ------------------- | ----- | ------ |
+| .i  | ko'a  | citka           | loi                 | kanba | rectu  |
+|     | She-1 | eat-(tenseless) | some-of-the-mass-of | goat  | flesh. |
 
 |                             |
 | --------------------------- |
@@ -1715,10 +1715,10 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.95.
 
-|    |      |         |       |                    |               |            |
-| -- | ---- | ------- | ----- | ------------------ | ------------- | ---------- |
-| .i | ko'a | pu      | jukpa | ri                 | le            | mudyfagri  |
-|    | She  | \[past\] | cook  | the-last-mentioned | by-method-the | wood-fire. |
+|     |      |          |       |                    |               |            |
+| --- | ---- | -------- | ----- | ------------------ | ------------- | ---------- |
+| .i  | ko'a | pu       | jukpa | ri                 | le            | mudyfagri  |
+|     | She  | \[past\] | cook  | the-last-mentioned | by-method-the | wood-fire. |
 
 |                                           |
 | ----------------------------------------- |
@@ -1728,10 +1728,10 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.96.
 
-|    |             |       |    |                      |
-| -- | ----------- | ----- | -- | -------------------- |
-| .i | lei         | rectu | cu | zanglare             |
-|    | The-mass-of | flesh |    | is-(favorable)-warm. |
+|     |             |       |     |                      |
+| --- | ----------- | ----- | --- | -------------------- |
+| .i  | lei         | rectu | cu  | zanglare             |
+|     | The-mass-of | flesh |     | is-(favorable)-warm. |
 
 |                               |
 | ----------------------------- |
@@ -1741,14 +1741,14 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.97.
 
-|    |     |       |            |      |
-| -- | --- | ----- | ---------- | ---- |
-| .i | le  | labno | goi        | ko'e |
-|    | The | wolf  | defined-as | it-2 |
+|     |     |       |            |      |
+| --- | --- | ----- | ---------- | ---- |
+| .i  | le  | labno | goi        | ko'e |
+|     | The | wolf  | defined-as | it-2 |
 
-|           |           |           |        |       |        |       |
-| --------- | --------- | --------- | ------ | ----- | ------ | ----- |
-| ba        | za        | ki        | nenri  | klama | le     | kevna |
+|            |            |            |        |       |        |       |
+| ---------- | ---------- | ---------- | ------ | ----- | ------ | ----- |
+| ba         | za         | ki         | nenri  | klama | le     | kevna |
 | \[future\] | \[medium\] | \[sticky\] | within | came  | to-the | cave. |
 
 |                                           |
@@ -1759,10 +1759,10 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.98.
 
-|    |      |                   |             |       |             |
-| -- | ---- | ----------------- | ----------- | ----- | ----------- |
-| .i | ko'e | lebna             | lei         | rectu | ko'a        |
-|    | It-2 | takes-(tenseless) | the-mass-of | flesh | from-her-1. |
+|     |      |                   |             |       |             |
+| --- | ---- | ----------------- | ----------- | ----- | ----------- |
+| .i  | ko'e | lebna             | lei         | rectu | ko'a        |
+|     | It-2 | takes-(tenseless) | the-mass-of | flesh | from-her-1. |
 
 |                            |
 | -------------------------- |
@@ -1772,10 +1772,10 @@ The following mini-story illustrates the important features of story time. A sen
 
 ##### Example 10.99.
 
-|    |      |       |       |
-| -- | ---- | ----- | ----- |
-| .i | ko'e | bartu | klama |
-|    | It-2 | out   | ran   |
+|     |      |       |       |
+| --- | ---- | ----- | ----- |
+| .i  | ko'e | bartu | klama |
+|     | It-2 | out   | ran   |
 
 |             |
 | ----------- |
@@ -1835,53 +1835,53 @@ Lojban, like Russian and Esperanto, uses a different convention. A tense in a su
 
 ##### Example 10.104.
 
-|    |       |            |       |     |    |                |
-| -- | ----- | ---------- | ----- | --- | -- | -------------- |
-| la | djan. | ca         | cusku | le  | se | du'u           |
-|    | John  | \[present\] | says  | the |    | statement-that |
+|     |       |             |       |     |     |                |
+| --- | ----- | ----------- | ----- | --- | --- | -------------- |
+| la  | djan. | ca          | cusku | le  | se  | du'u           |
+|     | John  | \[present\] | says  | the |     | statement-that |
 
-|            |         |            |         |     |         |
-| ---------- | ------- | ---------- | ------- | --- | ------- |
-| la         | djordj. | ca         | klama   | le  | zarci   |
+|            |         |             |         |     |         |
+| ---------- | ------- | ----------- | ------- | --- | ------- |
+| la         | djordj. | ca          | klama   | le  | zarci   |
 | That-named | George  | \[present\] | goes-to | the | market. |
 
 
 
 ##### Example 10.105.
 
-|            |       |            |       |     |    |                |
-| ---------- | ----- | ---------- | ----- | --- | -- | -------------- |
-| la         | djan. | ca         | cusku | le  | se | du'u           |
-| That-named | John  | \[present\] | says  | the |    | statement-that |
+|            |       |             |       |     |     |                |
+| ---------- | ----- | ----------- | ----- | --- | --- | -------------- |
+| la         | djan. | ca          | cusku | le  | se  | du'u           |
+| That-named | John  | \[present\] | says  | the |     | statement-that |
 
-|            |         |         |         |     |         |
-| ---------- | ------- | ------- | ------- | --- | ------- |
-| la         | djordj. | pu      | klama   | le  | zarci   |
+|            |         |          |         |     |         |
+| ---------- | ------- | -------- | ------- | --- | ------- |
+| la         | djordj. | pu       | klama   | le  | zarci   |
 | That-named | George  | \[past\] | goes-to | the | market. |
 
 
 
 ##### Example 10.106.
 
-|            |         |            |         |     |         |                |
-| ---------- | ------- | ---------- | ------- | --- | ------- | -------------- |
-| la         | djan.   | pu         | cusku   | le  | se      | du'u           |
+|            |         |             |         |     |         |                |
+| ---------- | ------- | ----------- | ------- | --- | ------- | -------------- |
+| la         | djan.   | pu          | cusku   | le  | se      | du'u           |
 | That-named | John    | \[past\]    | says    | the |         | statement-that |
-| la         | djordj. | ca         | klama   | le  | zarci   |                |
+| la         | djordj. | ca          | klama   | le  | zarci   |                |
 | That-named | George  | \[present\] | goes-to | the | market. |                |
 
 
 
 ##### Example 10.107.
 
-|            |       |         |       |     |    |                |
-| ---------- | ----- | ------- | ----- | --- | -- | -------------- |
-| la         | djan. | pu      | cusku | le  | se | du'u           |
-| That-named | John  | \[past\] | says  | the |    | statement-that |
+|            |       |          |       |     |     |                |
+| ---------- | ----- | -------- | ----- | --- | --- | -------------- |
+| la         | djan. | pu       | cusku | le  | se  | du'u           |
+| That-named | John  | \[past\] | says  | the |     | statement-that |
 
-|            |         |         |         |     |         |
-| ---------- | ------- | ------- | ------- | --- | ------- |
-| la         | djordj. | pu      | klama   | le  | zarci   |
+|            |         |          |         |     |         |
+| ---------- | ------- | -------- | ------- | --- | ------- |
+| la         | djordj. | pu       | klama   | le  | zarci   |
 | That-named | George  | \[past\] | goes-to | the | market. |
 
 
@@ -1892,24 +1892,24 @@ There is a special cmavo *[nau](/glossary/#nau)* (of selma'o CUhE) which can be 
 
 ##### Example 10.108.
 
-|            |       |         |       |     |    |                |
-| ---------- | ----- | ------- | ----- | --- | -- | -------------- |
-| la         | djan. | pu      | cusku | le  | se | du'u           |
-| That-named | John  | \[past\] | says  | the |    | statement-that |
+|            |       |          |       |     |     |                |
+| ---------- | ----- | -------- | ----- | --- | --- | -------------- |
+| la         | djan. | pu       | cusku | le  | se  | du'u           |
+| That-named | John  | \[past\] | says  | the |     | statement-that |
 
-|            |       |         |       |     |    |                |
-| ---------- | ----- | ------- | ----- | --- | -- | -------------- |
-| la         | .alis | pu      | cusku | le  | se | du'u           |
-| That-named | Alice | \[past\] | says  | the |    | statement-that |
+|            |       |          |       |     |     |                |
+| ---------- | ----- | -------- | ----- | --- | --- | -------------- |
+| la         | .alis | pu       | cusku | le  | se  | du'u           |
+| That-named | Alice | \[past\] | says  | the |     | statement-that |
 
-|            |         |         |       |     |    |                |
-| ---------- | ------- | ------- | ----- | --- | -- | -------------- |
-| la         | djordj. | pu      | cusku | le  | se | du'u           |
-| That-named | George  | \[past\] | says  | the |    | statement-that |
+|            |         |          |       |     |     |                |
+| ---------- | ------- | -------- | ----- | --- | --- | -------------- |
+| la         | djordj. | pu       | cusku | le  | se  | du'u           |
+| That-named | George  | \[past\] | says  | the |     | statement-that |
 
-|            |        |        |         |     |         |
-| ---------- | ------ | ------ | ------- | --- | ------- |
-| la         | maris. | nau    | klama   | le  | zarci   |
+|            |        |         |         |     |         |
+| ---------- | ------ | ------- | ------- | --- | ------- |
+| la         | maris. | nau     | klama   | le  | zarci   |
 | That-named | Mary   | \[now\] | goes-to | the | market. |
 
 |                                                                                                  |
@@ -1926,15 +1926,15 @@ The sumti tcita method, explained in [Section 10.12](/chapter10/#tenses-as-sumti
 
 ##### Example 10.109.
 
-|     |       |    |          |     |       |
-| --- | ----- | -- | -------- | --- | ----- |
-| le  | verba | cu | cadzu    | le  | bisli |
-| The | child |    | walks-on | the | ice   |
+|     |       |     |          |     |       |
+| --- | ----- | --- | -------- | --- | ----- |
+| le  | verba | cu  | cadzu    | le  | bisli |
+| The | child |     | walks-on | the | ice   |
 
-|         |     |          |     |       |    |       |     |       |
-| ------- | --- | -------- | --- | ----- | -- | ----- | --- | ----- |
-| zu'a    | le  | nu       | le  | nanmu | cu | batci | le  | gerku |
-| \[left\] | the | event-of | the | man   |    | bites | the | dog.  |
+|          |     |          |     |       |     |       |     |       |
+| -------- | --- | -------- | --- | ----- | --- | ----- | --- | ----- |
+| zu'a     | le  | nu       | le  | nanmu | cu  | batci | le  | gerku |
+| \[left\] | the | event-of | the | man   |     | bites | the | dog.  |
 
 |                                                                        |
 | ---------------------------------------------------------------------- |
@@ -1946,15 +1946,15 @@ which specifies an imaginary journey leftward from the man biting the dog to the
 
 ##### Example 10.110.
 
-|     |       |    |       |     |       |
-| --- | ----- | -- | ----- | --- | ----- |
-| le  | nanmu | cu | batci | le  | gerku |
-| The | man   |    | bites | the | dog.  |
+|     |       |     |       |     |       |
+| --- | ----- | --- | ----- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku |
+| The | man   |     | bites | the | dog.  |
 
-|          |     |       |    |          |     |       |
-| -------- | --- | ----- | -- | -------- | --- | ----- |
-| .izu'abo | le  | verba | cu | cadzu    | le  | bisli |
-| \[Left\]  | the | child |    | walks-on | the | ice.  |
+|          |     |       |     |          |     |       |
+| -------- | --- | ----- | --- | -------- | --- | ----- |
+| .izu'abo | le  | verba | cu  | cadzu    | le  | bisli |
+| \[Left\] | the | child |     | walks-on | the | ice.  |
 
 |                                                                 |
 | --------------------------------------------------------------- |
@@ -1970,15 +1970,15 @@ Note that the bridi in [Example 10.110](/chapter10/#example-10110 "Example 10.11
 
 ##### Example 10.111.
 
-|     |       |    |       |     |       |    |         |                                   |
-| --- | ----- | -- | ----- | --- | ----- | -- | ------- | --------------------------------- |
-| le  | nanmu | cu | batci | le  | gerku | .i | zu'a    | la'edi'u                          |
-| The | man   |    | bites | the | dog.  |    | \[Left\] | the-referent-of-the-last-sentence |
+|     |       |     |       |     |       |     |          |                                   |
+| --- | ----- | --- | ----- | --- | ----- | --- | -------- | --------------------------------- |
+| le  | nanmu | cu  | batci | le  | gerku | .i  | zu'a     | la'edi'u                          |
+| The | man   |     | bites | the | dog.  |     | \[Left\] | the-referent-of-the-last-sentence |
 
-|     |       |    |          |     |       |
-| --- | ----- | -- | -------- | --- | ----- |
-| le  | verba | cu | cadzu    | le  | bisli |
-| the | child |    | walks-on | the | ice.  |
+|     |       |     |          |     |       |
+| --- | ----- | --- | -------- | --- | ----- |
+| le  | verba | cu  | cadzu    | le  | bisli |
+| the | child |     | walks-on | the | ice.  |
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
@@ -1990,15 +1990,15 @@ If the *[bo](/glossary/#bo)* is omitted in [Example 10.110](/chapter10/#example-
 
 ##### Example 10.112.
 
-|     |       |    |       |     |       |
-| --- | ----- | -- | ----- | --- | ----- |
-| le  | nanmu | cu | batci | le  | gerku |
-| The | man   |    | bites | the | dog.  |
+|     |       |     |       |     |       |
+| --- | ----- | --- | ----- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku |
+| The | man   |     | bites | the | dog.  |
 
-|    |         |     |       |    |              |          |     |       |
-| -- | ------- | --- | ----- | -- | ------------ | -------- | --- | ----- |
-| .i | zu'a    | le  | verba | cu |              | cadzu    | le  | bisli |
-|    | \[Left\] | the | child |    | \[something\] | walks-on | the | ice.  |
+|     |          |     |       |     |               |          |     |       |
+| --- | -------- | --- | ----- | --- | ------------- | -------- | --- | ----- |
+| .i  | zu'a     | le  | verba | cu  |               | cadzu    | le  | bisli |
+|     | \[Left\] | the | child |     | \[something\] | walks-on | the | ice.  |
 
 |                                                                              |
 | ---------------------------------------------------------------------------- |
@@ -2012,15 +2012,15 @@ Do not confuse either [Example 10.110](/chapter10/#example-10110 "Example 10.110
 
 ##### Example 10.113.
 
-|     |       |    |       |     |       |
-| --- | ----- | -- | ----- | --- | ----- |
-| le  | nanmu | cu | batci | le  | gerku |
-| The | man   |    | bites | the | dog.  |
+|     |       |     |       |     |       |
+| --- | ----- | --- | ----- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku |
+| The | man   |     | bites | the | dog.  |
 
-|    |         |     |       |    |          |     |       |
-| -- | ------- | --- | ----- | -- | -------- | --- | ----- |
-| .i | zu'aku  | le  | verba | cu | cadzu    | le  | bisli |
-|    | \[Left\] | the | child |    | walks-on | the | ice.  |
+|     |          |     |       |     |          |     |       |
+| --- | -------- | --- | ----- | --- | -------- | --- | ----- |
+| .i  | zu'aku   | le  | verba | cu  | cadzu    | le  | bisli |
+|     | \[Left\] | the | child |     | walks-on | the | ice.  |
 
 |                                                                |
 | -------------------------------------------------------------- |
@@ -2036,10 +2036,10 @@ The origin sentence is placed first, preceded by a tense plus *[gi](/glossary/#g
 
 ##### Example 10.114.
 
-|         |    |       |     |        |      |    |       |     |        |
-| ------- | -- | ----- | --- | ------ | ---- | -- | ----- | --- | ------ |
-| pugi    | mi | klama | le  | zarci  | gi   | mi | klama | le  | zdani  |
-| \[past\] | I  | go-to | the | market | \[,] | I  | go-to | the | house. |
+|          |     |       |     |        |      |     |       |     |        |
+| -------- | --- | ----- | --- | ------ | ---- | --- | ----- | --- | ------ |
+| pugi     | mi  | klama | le  | zarci  | gi   | mi  | klama | le  | zdani  |
+| \[past\] | I   | go-to | the | market | \[,] | I   | go-to | the | house. |
 
 |                                               |
 | --------------------------------------------- |
@@ -2051,10 +2051,10 @@ A parallel construction can be used to express a tense relationship between sumt
 
 ##### Example 10.115.
 
-|    |       |         |     |        |      |     |        |
-| -- | ----- | ------- | --- | ------ | ---- | --- | ------ |
-| mi | klama | pugi    | le  | zarci  | gi   | le  | zdani  |
-| I  | go-to | \[past\] | the | market | \[,] | the | house. |
+|     |       |          |     |        |      |     |        |
+| --- | ----- | -------- | --- | ------ | ---- | --- | ------ |
+| mi  | klama | pugi     | le  | zarci  | gi   | le  | zdani  |
+| I   | go-to | \[past\] | the | market | \[,] | the | house. |
 
 
 
@@ -2064,10 +2064,10 @@ Finally, a third forethought construction expresses a tense relationship between
 
 ##### Example 10.116.
 
-|    |         |       |     |        |      |       |     |        |
-| -- | ------- | ----- | --- | ------ | ---- | ----- | --- | ------ |
-| mi | pugi    | klama | le  | zarci  | gi   | klama | le  | zdani  |
-| I  | \[past\] | go-to | the | market | \[,] | go-to | the | house. |
+|     |          |       |     |        |      |       |     |        |
+| --- | -------- | ----- | --- | ------ | ---- | ----- | --- | ------ |
+| mi  | pugi     | klama | le  | zarci  | gi   | klama | le  | zdani  |
+| I   | \[past\] | go-to | the | market | \[,] | go-to | the | house. |
 
 |                                                 |
 | ----------------------------------------------- |
@@ -2091,9 +2091,9 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 
 ##### Example 10.117.
 
-|    |        |       |    |       |      |    |        |       |    |       |
-| -- | ------ | ----- | -- | ----- | ---- | -- | ------ | ----- | -- | ----- |
-| la | teris. | satre | le | mlatu | .ije | la | teris. | satre | le | ractu |
+|     |        |       |     |       |      |     |        |       |     |       |
+| --- | ------ | ----- | --- | ----- | ---- | --- | ------ | ----- | --- | ----- |
+| la  | teris. | satre | le  | mlatu | .ije | la  | teris. | satre | le  | ractu |
 
 |                                                      |
 | ---------------------------------------------------- |
@@ -2103,9 +2103,9 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 
 ##### Example 10.118.
 
-|    |        |       |    |       |      |       |    |       |
-| -- | ------ | ----- | -- | ----- | ---- | ----- | -- | ----- |
-| la | teris. | satre | le | mlatu | gi'e | satre | le | ractu |
+|     |        |       |     |       |      |       |     |       |
+| --- | ------ | ----- | --- | ----- | ---- | ----- | --- | ----- |
+| la  | teris. | satre | le  | mlatu | gi'e | satre | le  | ractu |
 
 |                                               |
 | --------------------------------------------- |
@@ -2115,9 +2115,9 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 
 ##### Example 10.119.
 
-|    |        |       |    |       |    |    |       |
-| -- | ------ | ----- | -- | ----- | -- | -- | ----- |
-| la | teris. | satre | le | mlatu | .e | le | ractu |
+|     |        |       |     |       |     |     |       |
+| --- | ------ | ----- | --- | ----- | --- | --- | ----- |
+| la  | teris. | satre | le  | mlatu | .e  | le  | ractu |
 
 |                                       |
 | ------------------------------------- |
@@ -2129,9 +2129,9 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 
 ##### Example 10.120.
 
-|    |        |       |    |       |          |    |        |       |    |       |
-| -- | ------ | ----- | -- | ----- | -------- | -- | ------ | ----- | -- | ----- |
-| la | teris. | satre | le | mlatu | .ijebabo | la | teris. | satre | le | ractu |
+|     |        |       |     |       |          |     |        |       |     |       |
+| --- | ------ | ----- | --- | ----- | -------- | --- | ------ | ----- | --- | ----- |
+| la  | teris. | satre | le  | mlatu | .ijebabo | la  | teris. | satre | le  | ractu |
 
 |                                                           |
 | --------------------------------------------------------- |
@@ -2141,9 +2141,9 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 
 ##### Example 10.121.
 
-|    |        |       |    |       |          |       |    |       |
-| -- | ------ | ----- | -- | ----- | -------- | ----- | -- | ----- |
-| la | teris. | satre | le | mlatu | gi'ebabo | satre | le | ractu |
+|     |        |       |     |       |          |       |     |       |
+| --- | ------ | ----- | --- | ----- | -------- | ----- | --- | ----- |
+| la  | teris. | satre | le  | mlatu | gi'ebabo | satre | le  | ractu |
 
 |                                                     |
 | --------------------------------------------------- |
@@ -2153,9 +2153,9 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 
 ##### Example 10.122.
 
-|    |        |       |    |       |        |    |       |
-| -- | ------ | ----- | -- | ----- | ------ | -- | ----- |
-| la | teris. | satre | le | mlatu | .ebabo | le | ractu |
+|     |        |       |     |       |        |     |       |
+| --- | ------ | ----- | --- | ----- | ------ | --- | ----- |
+| la  | teris. | satre | le  | mlatu | .ebabo | le  | ractu |
 
 |                                            |
 | ------------------------------------------ |
@@ -2169,15 +2169,15 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 
 ##### Example 10.123.
 
-|    |       |     |       |      |      |    |       |     |       |
-| -- | ----- | --- | ----- | ---- | ---- | -- | ----- | --- | ----- |
-| mi | bevri | le  | dakli | .ije | tu'e | mi | bevri | le  | gerku |
-| I  | carry | the | sack. | And  | (    | I  | carry | the | dog.  |
+|     |       |     |       |      |      |     |       |     |       |
+| --- | ----- | --- | ----- | ---- | ---- | --- | ----- | --- | ----- |
+| mi  | bevri | le  | dakli | .ije | tu'e | mi  | bevri | le  | gerku |
+| I   | carry | the | sack. | And  | (    | I   | carry | the | dog.  |
 
-|        |    |       |     |       |      |
-| ------ | -- | ----- | --- | ----- | ---- |
-| .ija   | mi | bevri | le  | mlatu | tu'u |
-| And/or | I  | carry | the | cat   | ).   |
+|        |     |       |     |       |      |
+| ------ | --- | ----- | --- | ----- | ---- |
+| .ija   | mi  | bevri | le  | mlatu | tu'u |
+| And/or | I   | carry | the | cat   | ).   |
 
 |                                                                             |
 | --------------------------------------------------------------------------- |
@@ -2187,10 +2187,10 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 
 ##### Example 10.124.
 
-|    |       |     |       |        |        |     |       |        |       |
-| -- | ----- | --- | ----- | ------ | ------ | --- | ----- | ------ | ----- |
-| mi | bevri | le  | dakli | gi'eke | bevri  | le  | gerku | gi'a   | bevri |
-| I  | carry | the | sack  | and    | (carry | the | dog   | and/or | carry |
+|     |       |     |       |        |        |     |       |        |       |
+| --- | ----- | --- | ----- | ------ | ------ | --- | ----- | ------ | ----- |
+| mi  | bevri | le  | dakli | gi'eke | bevri  | le  | gerku | gi'a   | bevri |
+| I   | carry | the | sack  | and    | (carry | the | dog   | and/or | carry |
 
 |     |       |
 | --- | ----- |
@@ -2205,10 +2205,10 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 
 ##### Example 10.125.
 
-|    |       |     |       |      |      |       |    |     |       |
-| -- | ----- | --- | ----- | ---- | ---- | ----- | -- | --- | ----- |
-| mi | bevri | le  | dakli | .eke | le   | gerku | .a | le  | mlatu |
-| I  | carry | the | sack  | and  | (the | dog   | or | the | cat). |
+|     |       |     |       |      |      |       |     |     |       |
+| --- | ----- | --- | ----- | ---- | ---- | ----- | --- | --- | ----- |
+| mi  | bevri | le  | dakli | .eke | le   | gerku | .a  | le  | mlatu |
+| I   | carry | the | sack  | and  | (the | dog   | or  | the | cat). |
 
 |                                                       |
 | ----------------------------------------------------- |
@@ -2222,15 +2222,15 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 
 ##### Example 10.126.
 
-|    |       |     |       |      |           |      |    |       |     |       |
-| -- | ----- | --- | ----- | ---- | --------- | ---- | -- | ----- | --- | ----- |
-| mi | bevri | le  | dakli | .ije | ba        | tu'e | mi | bevri | le  | gerku |
-| I  | carry | the | sack. | And  | \[future\] | (    | I  | carry | the | dog.  |
+|     |       |     |       |      |            |      |     |       |     |       |
+| --- | ----- | --- | ----- | ---- | ---------- | ---- | --- | ----- | --- | ----- |
+| mi  | bevri | le  | dakli | .ije | ba         | tu'e | mi  | bevri | le  | gerku |
+| I   | carry | the | sack. | And  | \[future\] | (    | I   | carry | the | dog.  |
 
-|        |            |    |       |     |       |      |
-| ------ | ---------- | -- | ----- | --- | ----- | ---- |
-| .ija   | cabo       | mi | bevri | le  | mlatu | tu'u |
-| And/or | \[present\] | I  | carry | the | cat.  | )    |
+|        |             |     |       |     |       |      |
+| ------ | ----------- | --- | ----- | --- | ----- | ---- |
+| .ija   | cabo        | mi  | bevri | le  | mlatu | tu'u |
+| And/or | \[present\] | I   | carry | the | cat.  | )    |
 
 |                                                                                                       |
 | ----------------------------------------------------------------------------------------------------- |
@@ -2240,14 +2240,14 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 
 ##### Example 10.127.
 
-|    |       |     |       |      |           |        |     |       |
-| -- | ----- | --- | ----- | ---- | --------- | ------ | --- | ----- |
-| mi | bevri | le  | dakli | gi'e | bake      | bevri  | le  | gerku |
-| I  | carry | the | sack  | and  | \[future\] | (carry | the | dog   |
+|     |       |     |       |      |            |        |     |       |
+| --- | ----- | --- | ----- | ---- | ---------- | ------ | --- | ----- |
+| mi  | bevri | le  | dakli | gi'e | bake       | bevri  | le  | gerku |
+| I   | carry | the | sack  | and  | \[future\] | (carry | the | dog   |
 
-|        |            |       |     |       |
-| ------ | ---------- | ----- | --- | ----- |
-| gi'a   | cabo       | bevri | le  | mlatu |
+|        |             |       |     |       |
+| ------ | ----------- | ----- | --- | ----- |
+| gi'a   | cabo        | bevri | le  | mlatu |
 | and/or | \[present\] | carry | the | cat). |
 
 |                                                                                      |
@@ -2258,14 +2258,14 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 
 ##### Example 10.128.
 
-|    |       |     |       |     |           |      |       |
-| -- | ----- | --- | ----- | --- | --------- | ---- | ----- |
-| mi | bevri | le  | dakli | .e  | bake      | le   | gerku |
-| I  | carry | the | sack  | and | \[future\] | (the | dog   |
+|     |       |     |       |     |            |      |       |
+| --- | ----- | --- | ----- | --- | ---------- | ---- | ----- |
+| mi  | bevri | le  | dakli | .e  | bake       | le   | gerku |
+| I   | carry | the | sack  | and | \[future\] | (the | dog   |
 
-|        |            |     |       |
-| ------ | ---------- | --- | ----- |
-| .a     | cabo       | le  | mlatu |
+|        |             |     |       |
+| ------ | ----------- | --- | ----- |
+| .a     | cabo        | le  | mlatu |
 | and/or | \[present\] | the | cat). |
 
 |                                                                |
@@ -2282,10 +2282,10 @@ Any bridi which involves tenses of selma'o PU, FAhA, or ZAhO can be contradicted
 
 ##### Example 10.129.
 
-|    |             |       |     |         |
-| -- | ----------- | ----- | --- | ------- |
-| mi | punai       | klama | le  | zarci   |
-| I  | \[past-not\] | go-to | the | market. |
+|     |              |       |     |         |
+| --- | ------------ | ----- | --- | ------- |
+| mi  | punai        | klama | le  | zarci   |
+| I   | \[past-not\] | go-to | the | market. |
 
 |                            |
 | -------------------------- |
@@ -2297,10 +2297,10 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 
 ##### Example 10.130.
 
-|    |       |     |        |            |        |
-| -- | ----- | --- | ------ | ---------- | ------ |
-| mi | klama | le  | zarci  | ca         | nai    |
-| I  | go-to | the | market | \[present\] | \[not\] |
+|     |       |     |        |             |         |
+| --- | ----- | --- | ------ | ----------- | ------- |
+| mi  | klama | le  | zarci  | ca          | nai     |
+| I   | go-to | the | market | \[present\] | \[not\] |
 
 |     |          |     |       |     |        |
 | --- | -------- | --- | ----- | --- | ------ |
@@ -2315,10 +2315,10 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 
 ##### Example 10.131.
 
-|     |       |    |       |     |       |               |     |       |
-| --- | ----- | -- | ----- | --- | ----- | ------------- | --- | ----- |
-| le  | nanmu | cu | batci | le  | gerku | ne'inai       | le  | kumfa |
-| The | man   |    | bites | the | dog   | \[within-not\] | the | room. |
+|     |       |     |       |     |       |                |     |       |
+| --- | ----- | --- | ----- | --- | ----- | -------------- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku | ne'inai        | le  | kumfa |
+| The | man   |     | bites | the | dog   | \[within-not\] | the | room. |
 
 |                                              |
 | -------------------------------------------- |
@@ -2328,10 +2328,10 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 
 ##### Example 10.132.
 
-|    |         |                         |     |          |    |       |
-| -- | ------- | ----------------------- | --- | -------- | -- | ----- |
-| mi | morsi   | ca'onai                 | le  | nu       | mi | jmive |
-| I  | am-dead | \[continuitive-negated\] | the | event-of | I  | live. |
+|     |         |                          |     |          |     |       |
+| --- | ------- | ------------------------ | --- | -------- | --- | ----- |
+| mi  | morsi   | ca'onai                  | le  | nu       | mi  | jmive |
+| I   | am-dead | \[continuitive-negated\] | the | event-of | I   | live. |
 
 |                                            |
 | ------------------------------------------ |
@@ -2343,10 +2343,10 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 
 ##### Example 10.133.
 
-|    |         |         |       |     |         |
-| -- | ------- | ------- | ----- | --- | ------- |
-| mi | na'e    | pu      | klama | le  | zarci   |
-| I  | \[non-\] | \[past\] | go-to | the | market. |
+|     |          |          |       |     |         |
+| --- | -------- | -------- | ----- | --- | ------- |
+| mi  | na'e     | pu       | klama | le  | zarci   |
+| I   | \[non-\] | \[past\] | go-to | the | market. |
 
 |                                            |
 | ------------------------------------------ |
@@ -2356,10 +2356,10 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 
 ##### Example 10.134.
 
-|     |       |    |       |     |       |                |           |     |       |
-| --- | ----- | -- | ----- | --- | ----- | -------------- | --------- | --- | ----- |
-| le  | nanmu | cu | batci | le  | gerku | to'e           | ne'i      | le  | kumfa |
-| The | man   |    | bites | the | dog   | \[opposite-of\] | \[within\] | the | room. |
+|     |       |     |       |     |       |                 |            |     |       |
+| --- | ----- | --- | ----- | --- | ----- | --------------- | ---------- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku | to'e            | ne'i       | le  | kumfa |
+| The | man   |     | bites | the | dog   | \[opposite-of\] | \[within\] | the | room. |
 
 |                                         |
 | --------------------------------------- |
@@ -2369,10 +2369,10 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 
 ##### Example 10.135.
 
-|    |       |     |        |         |            |     |          |
-| -- | ----- | --- | ------ | ------- | ---------- | --- | -------- |
-| mi | klama | le  | zarci  | na'e    | ca         | le  | nu       |
-| I  | go-to | the | market | \[non-\] | \[present\] | the | event-of |
+|     |       |     |        |          |             |     |          |
+| --- | ----- | --- | ------ | -------- | ----------- | --- | -------- |
+| mi  | klama | le  | zarci  | na'e     | ca          | le  | nu       |
+| I   | go-to | the | market | \[non-\] | \[present\] | the | event-of |
 
 |     |       |     |        |
 | --- | ----- | --- | ------ |
@@ -2387,10 +2387,10 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 
 ##### Example 10.136.
 
-|    |         |         |                 |     |          |    |       |
-| -- | ------- | ------- | --------------- | --- | -------- | -- | ----- |
-| mi | morsi   | na'e    | ca'o            | le  | nu       | mi | jmive |
-| I  | am-dead | \[non-\] | \[continuitive\] | the | event-of | I  | live. |
+|     |         |          |                  |     |          |     |       |
+| --- | ------- | -------- | ---------------- | --- | -------- | --- | ----- |
+| mi  | morsi   | na'e     | ca'o             | le  | nu       | mi  | jmive |
+| I   | am-dead | \[non-\] | \[continuitive\] | the | event-of | I   | live. |
 
 |                                      |
 | ------------------------------------ |
@@ -2402,9 +2402,9 @@ Unlike *-nai* contradictory negation, scalar negation of tenses is not limited t
 
 ##### Example 10.137.
 
-|     |       |         |          |          |     |       |
-| --- | ----- | ------- | -------- | -------- | --- | ----- |
-| le  | verba | na'e    | ri'u     | cadzu    | le  | bisli |
+|     |       |          |           |          |     |       |
+| --- | ----- | -------- | --------- | -------- | --- | ----- |
+| le  | verba | na'e     | ri'u      | cadzu    | le  | bisli |
 | The | child | \[non-\] | \[right\] | walks-on | the | ice   |
 
 |                                                    |
@@ -2430,10 +2430,10 @@ Lojban bridi without tense markers may not necessarily refer to actual events: t
 
 ##### Example 10.138.
 
-|     |       |    |                     |
-| --- | ----- | -- | ------------------- |
-| ro  | datka | cu | flulimna            |
-| All | ducks |    | are-float-swimmers. |
+|     |       |     |                     |
+| --- | ----- | --- | ------------------- |
+| ro  | datka | cu  | flulimna            |
+| All | ducks |     | are-float-swimmers. |
 
 |                             |
 | --------------------------- |
@@ -2445,9 +2445,9 @@ is a Lojban truth, even though the colloquial English translation is false or at
 
 ##### Example 10.139.
 
-|     |       |            |                     |
-| --- | ----- | ---------- | ------------------- |
-| ro  | datka | ca         | flulimna            |
+|     |       |             |                     |
+| --- | ----- | ----------- | ------------------- |
+| ro  | datka | ca          | flulimna            |
 | All | ducks | \[present\] | are-float-swimmers. |
 
 |                                         |
@@ -2460,9 +2460,9 @@ the resulting [Example 10.139](/chapter10/#example-10139 "Example 10.139. ") mig
 
 ##### Example 10.140.
 
-|     |       |            |           |                     |
-| --- | ----- | ---------- | --------- | ------------------- |
-| ro  | datka | ca         | ca'a      | flulimna            |
+|     |       |             |            |                     |
+| --- | ----- | ----------- | ---------- | ------------------- |
+| ro  | datka | ca          | ca'a       | flulimna            |
 | All | ducks | \[present\] | \[actual\] | are-float-swimmers. |
 
 |                                                  |
@@ -2479,9 +2479,9 @@ Furthermore, some ducks are dead (and therefore sink); some ducks have just hatc
 
 ##### Example 10.141.
 
-|     |       |            |                     |
-| --- | ----- | ---------- | ------------------- |
-| ro  | datka | ka'e       | flulimna            |
+|     |       |             |                     |
+| --- | ----- | ----------- | ------------------- |
+| ro  | datka | ka'e        | flulimna            |
 | All | ducks | \[capable\] | are-float-swimmers. |
 
 |                                             |
@@ -2494,9 +2494,9 @@ Under some epistemologies, innate capability can be extended in order to apply t
 
 ##### Example 10.142.
 
-|            |       |            |       |
-| ---------- | ----- | ---------- | ----- |
-| la         | djan. | ka'e       | viska |
+|            |       |             |       |
+| ---------- | ----- | ----------- | ----- |
+| la         | djan. | ka'e        | viska |
 | That-named | John  | \[capable\] | sees. |
 
 |                                     |
@@ -2510,9 +2510,9 @@ might be true about a human being named John, even though he has been blind sinc
 
 ##### Example 10.143.
 
-|     |       |            |       |
-| --- | ----- | ---------- | ----- |
-| le  | cukta | ka'e       | viska |
+|     |       |             |       |
+| --- | ----- | ----------- | ----- |
+| le  | cukta | ka'e        | viska |
 | The | book  | \[capable\] | sees. |
 
 |                   |
@@ -2527,9 +2527,9 @@ Consider once again the newly hatched ducks mentioned earlier. They have the pot
 
 ##### Example 10.144.
 
-|     |              |                    |                     |
-| --- | ------------ | ------------------ | ------------------- |
-| ro  | cifydatka    | nu'o               | flulimna            |
+|     |              |                     |                     |
+| --- | ------------ | ------------------- | ------------------- |
+| ro  | cifydatka    | nu'o                | flulimna            |
 | All | infant-ducks | \[can-but-has-not\] | are-float-swimmers. |
 
 |                                                                             |
@@ -2543,9 +2543,9 @@ Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is
 
 ##### Example 10.145.
 
-|            |        |                |       |
-| ---------- | ------ | -------------- | ----- |
-| la         | frank. | pu'i           | viska |
+|            |        |                 |       |
+| ---------- | ------ | --------------- | ----- |
+| la         | frank. | pu'i            | viska |
 | That-named | Frank  | \[can-and-has\] | sees. |
 
 |                                                |
@@ -2559,10 +2559,10 @@ Note that the glosses given at the beginning of this section for *[ca'a](/glossa
 
 ##### Example 10.146.
 
-|    |         |           |       |     |        |
-| -- | ------- | --------- | ----- | --- | ------ |
-| mi | pu      | ca'a      | klama | le  | zarci  |
-| I  | \[past\] | \[actual\] | go-to | the | store. |
+|     |          |            |       |     |        |
+| --- | -------- | ---------- | ----- | --- | ------ |
+| mi  | pu       | ca'a       | klama | le  | zarci  |
+| I   | \[past\] | \[actual\] | go-to | the | store. |
 
 |                               |
 | ----------------------------- |
@@ -2572,9 +2572,9 @@ Note that the glosses given at the beginning of this section for *[ca'a](/glossa
 
 ##### Example 10.147.
 
-|            |        |           |                    |         |     |        |
-| ---------- | ------ | --------- | ------------------ | ------- | --- | ------ |
-| la         | frank. | ba        | nu'o               | klama   | le  | zdani  |
+|            |        |            |                     |         |     |        |
+| ---------- | ------ | ---------- | ------------------- | ------- | --- | ------ |
+| la         | frank. | ba         | nu'o                | klama   | le  | zdani  |
 | That-named | Frank  | \[future\] | \[can-but-has-not\] | goes-to | the | store. |
 
 |                                                                                                   |
@@ -2598,9 +2598,9 @@ with no CAhA specified can translate the two very different English sentences �
 
 ##### Example 10.149.
 
-|      |            |           |        |
-| ---- | ---------- | --------- | ------ |
-| ta   | ca         | ca'a      | jelca  |
+|      |             |            |        |
+| ---- | ----------- | ---------- | ------ |
+| ta   | ca          | ca'a       | jelca  |
 | That | \[present\] | \[actual\] | burns. |
 
 |                  |
@@ -2613,9 +2613,9 @@ and
 
 ##### Example 10.150.
 
-|      |            |        |
-| ---- | ---------- | ------ |
-| ta   | ka'e       | jelca  |
+|      |             |        |
+| ---- | ----------- | ------ |
+| ta   | ka'e        | jelca  |
 | That | \[capable\] | burns. |
 
 |                             |
@@ -2649,10 +2649,10 @@ The appropriate logical connectives belong to selma'o JA. A logical connective b
 
 ##### Example 10.152.
 
-|    |         |     |           |       |     |         |
-| -- | ------- | --- | --------- | ----- | --- | ------- |
-| mi | pu      | je  | ba        | klama | le  | zarci   |
-| I  | \[past\] | and | \[future\] | go-to | the | market. |
+|     |          |     |            |       |     |         |
+| --- | -------- | --- | ---------- | ----- | --- | ------- |
+| mi  | pu       | je  | ba         | klama | le  | zarci   |
+| I   | \[past\] | and | \[future\] | go-to | the | market. |
 
 |                                   |
 | --------------------------------- |
@@ -2664,15 +2664,15 @@ means the same as:
 
 ##### Example 10.153.
 
-|    |         |       |     |         |
-| -- | ------- | ----- | --- | ------- |
-| mi | pu      | klama | le  | zarci   |
-| I  | \[past\] | go-to | the | market. |
+|     |          |       |     |         |
+| --- | -------- | ----- | --- | ------- |
+| mi  | pu       | klama | le  | zarci   |
+| I   | \[past\] | go-to | the | market. |
 
-|      |    |           |       |     |         |
-| ---- | -- | --------- | ----- | --- | ------- |
-| .ije | mi | ba        | klama | le  | zarci   |
-| And  | I  | \[future\] | go-to | the | market. |
+|      |     |            |       |     |         |
+| ---- | --- | ---------- | ----- | --- | ------- |
+| .ije | mi  | ba         | klama | le  | zarci   |
+| And  | I   | \[future\] | go-to | the | market. |
 
 |                                                    |
 | -------------------------------------------------- |
@@ -2684,10 +2684,10 @@ Tense connection and tense negation are combined in:
 
 ##### Example 10.154.
 
-|    |             |     |                |     |           |       |     |         |
-| -- | ----------- | --- | -------------- | --- | --------- | ----- | --- | ------- |
-| mi | punai       | je  | canai          | je  | ba        | klama | le  | zarci   |
-| I  | \[past-not\] | and | \[present-not\] | and | \[future\] | go-to | the | market. |
+|     |              |     |                 |     |            |       |     |         |
+| --- | ------------ | --- | --------------- | --- | ---------- | ----- | --- | ------- |
+| mi  | punai        | je  | canai           | je  | ba         | klama | le  | zarci   |
+| I   | \[past-not\] | and | \[present-not\] | and | \[future\] | go-to | the | market. |
 
 |                                                         |
 | ------------------------------------------------------- |
@@ -2699,10 +2699,10 @@ Tense connection and tense negation are combined in:
 
 ##### Example 10.155.
 
-|    |           |       |     |         |
-| -- | --------- | ----- | --- | ------- |
-| mi | ba        | klama | le  | zarci   |
-| I  | \[future\] | go-to | the | market. |
+|     |            |       |     |         |
+| --- | ---------- | ----- | --- | ------- |
+| mi  | ba         | klama | le  | zarci   |
+| I   | \[future\] | go-to | the | market. |
 
 
 
@@ -2712,10 +2712,10 @@ Tense negation can often be removed in favor of negation in the logical connecti
 
 ##### Example 10.156.
 
-|    |                    |     |                 |       |
-| -- | ------------------ | --- | --------------- | ----- |
-| mi | mo'izu'anai        | je  | mo'iri'u        | cadzu |
-| I  | \[motion-left-not\] | and | \[motion-right\] | walk. |
+|     |                     |     |                  |       |
+| --- | ------------------- | --- | ---------------- | ----- |
+| mi  | mo'izu'anai         | je  | mo'iri'u         | cadzu |
+| I   | \[motion-left-not\] | and | \[motion-right\] | walk. |
 
 |                                    |
 | ---------------------------------- |
@@ -2725,10 +2725,10 @@ Tense negation can often be removed in favor of negation in the logical connecti
 
 ##### Example 10.157.
 
-|    |                |         |                 |       |
-| -- | -------------- | ------- | --------------- | ----- |
-| mi | mo'izu'a       | naje    | mo'iri'u        | cadzu |
-| I  | \[motion-left\] | not-and | \[motion-right\] | walk. |
+|     |                 |         |                  |       |
+| --- | --------------- | ------- | ---------------- | ----- |
+| mi  | mo'izu'a        | naje    | mo'iri'u         | cadzu |
+| I   | \[motion-left\] | not-and | \[motion-right\] | walk. |
 
 |                                    |
 | ---------------------------------- |
@@ -2742,10 +2742,10 @@ There are no forethought logical connections between tenses allowed by the gramm
 
 ##### Example 10.158.
 
-|    |                |         |                |          |
-| -- | -------------- | ------- | -------------- | -------- |
-| mi | puza           | bi'o    | bazu           | vasxu    |
-| I  | \[past-medium\] | from…to | \[future-long\] | breathe. |
+|     |                 |         |                 |          |
+| --- | --------------- | ------- | --------------- | -------- |
+| mi  | puza            | bi'o    | bazu            | vasxu    |
+| I   | \[past-medium\] | from…to | \[future-long\] | breathe. |
 
 |                                                            |
 | ---------------------------------------------------------- |
@@ -2763,10 +2763,10 @@ Another application of non-logical tense connection is to talk about sub-events 
 
 ##### Example 10.159.
 
-|    |          |                  |              |       |
-| -- | -------- | ---------------- | ------------ | ----- |
-| mi | reroi    | pi'u             | xaroi        | cecla |
-| I  | \[twice\] | \[cross-product\] | \[six-times\] | shoot |
+|     |           |                   |               |       |
+| --- | --------- | ----------------- | ------------- | ----- |
+| mi  | reroi     | pi'u              | xaroi         | cecla |
+| I   | \[twice\] | \[cross-product\] | \[six-times\] | shoot |
 
 |     |                      |
 | --- | -------------------- |
@@ -2785,9 +2785,9 @@ In fact, you can specify strings of interval properties and event contours withi
 
 ##### Example 10.160.
 
-|            |         |                 |               |         |
-| ---------- | ------- | --------------- | ------------- | ------- |
-| la         | djordj. | ca'o            | co'a          | ciska   |
+|            |         |                  |                |         |
+| ---------- | ------- | ---------------- | -------------- | ------- |
+| la         | djordj. | ca'o             | co'a           | ciska   |
 | That-named | George  | \[continuitive\] | \[initiative\] | writes. |
 
 |                                     |
@@ -2798,10 +2798,10 @@ In fact, you can specify strings of interval properties and event contours withi
 
 ##### Example 10.161.
 
-|    |          |                 |              |       |     |       |
-| -- | -------- | --------------- | ------------ | ----- | --- | ----- |
-| mi | reroi    | ca'o            | xaroi        | darxi | le  | damri |
-| I  | \[twice\] | \[continuitive\] | \[six-times\] | hit   | the | drum. |
+|     |           |                  |               |       |     |       |
+| --- | --------- | ---------------- | ------------- | ----- | --- | ----- |
+| mi  | reroi     | ca'o             | xaroi         | darxi | le  | damri |
+| I   | \[twice\] | \[continuitive\] | \[six-times\] | hit   | the | drum. |
 
 |                                                          |
 | -------------------------------------------------------- |
@@ -2822,19 +2822,19 @@ Conversion is the regular Lojban process of moving around the places of a place 
 
 ##### Example 10.162.
 
-|    |    |       |     |         |
-| -- | -- | ----- | --- | ------- |
-| mi | cu | klama | le  | zarci   |
-| I  |    | go-to | the | market. |
+|     |     |       |     |         |
+| --- | --- | ----- | --- | ------- |
+| mi  | cu  | klama | le  | zarci   |
+| I   |     | go-to | the | market. |
 
 
 
 ##### Example 10.163.
 
-|     |        |    |            |        |
-| --- | ------ | -- | ---------- | ------ |
-| le  | zarci  | cu | se klama   | mi     |
-| The | market |    | is-gone-to | by-me. |
+|     |        |     |            |        |
+| --- | ------ | --- | ---------- | ------ |
+| le  | zarci  | cu  | se klama   | mi     |
+| The | market |     | is-gone-to | by-me. |
 
 
 
@@ -2842,10 +2842,10 @@ It is also possible to bring a place that is specified by a sumti tcita (for the
 
 ##### Example 10.164.
 
-|     |       |    |       |     |        |                   |     |       |
-| --- | ----- | -- | ----- | --- | ------ | ----------------- | --- | ----- |
-| le  | ratcu | cu | citka | le  | cirla  | vi                | le  | panka |
-| The | rat   |    | eats  | the | cheese | \[short-distance\] | the | park. |
+|     |       |     |       |     |        |                    |     |       |
+| --- | ----- | --- | ----- | --- | ------ | ------------------ | --- | ----- |
+| le  | ratcu | cu  | citka | le  | cirla  | vi                 | le  | panka |
+| The | rat   |     | eats  | the | cheese | \[short-distance\] | the | park. |
 
 |                                      |
 | ------------------------------------ |
@@ -2855,10 +2855,10 @@ It is also possible to bring a place that is specified by a sumti tcita (for the
 
 ##### Example 10.165.
 
-|     |       |    |                 |        |     |        |     |     |       |
-| --- | ----- | -- | --------------- | ------ | --- | ------ | --- | --- | ----- |
-| le  | panka | cu | jai vi          | citka  | le  | cirla  | fai | le  | ratcu |
-| The | park  |    | is-the-place-of | eating | the | cheese | by  | the | rat.  |
+|     |       |     |                 |        |     |        |     |     |       |
+| --- | ----- | --- | --------------- | ------ | --- | ------ | --- | --- | ----- |
+| le  | panka | cu  | jai vi          | citka  | le  | cirla  | fai | le  | ratcu |
+| The | park  |     | is-the-place-of | eating | the | cheese | by  | the | rat.  |
 
 |                                            |
 | ------------------------------------------ |
@@ -2898,10 +2898,10 @@ Like SE conversion, JAI+tense conversion is especially useful in descriptions wi
 
 ##### Example 10.169.
 
-|    |       |     |          |        |    |     |         |
-| -- | ----- | --- | -------- | ------ | -- | --- | ------- |
-| mi | viska | le  | jai vi   | citka  | be | le  | cirla   |
-| I  | saw   | the | place-of | eating |    | the | cheese. |
+|     |       |     |          |        |     |     |         |
+| --- | ----- | --- | -------- | ------ | --- | --- | ------- |
+| mi  | viska | le  | jai vi   | citka  | be  | le  | cirla   |
+| I   | saw   | the | place-of | eating |     | the | cheese. |
 
 
 
@@ -2911,10 +2911,10 @@ Of course, temporal tenses are also usable with JAI:
 
 ##### Example 10.170.
 
-|    |       |       |     |     |            |         |    |     |            |        |   |
-| -- | ----- | ----- | --- | --- | ---------- | ------- | -- | --- | ---------- | ------ | - |
-| mi | djuno | fi    | le  | jai | ca         | morsi   | be | fai | la         | djan.  |   |
-| I  | know  | about | the |     | \[present\] | is-dead |    | of  | that-named | “John” | . |
+|     |       |       |     |     |             |         |     |     |            |        |     |
+| --- | ----- | ----- | --- | --- | ----------- | ------- | --- | --- | ---------- | ------ | --- |
+| mi  | djuno | fi    | le  | jai | ca          | morsi   | be  | fai | la         | djan.  |     |
+| I   | know  | about | the |     | \[present\] | is-dead |     | of  | that-named | “John” | .   |
 
 |                                  |
 | -------------------------------- |
@@ -2931,10 +2931,10 @@ The core distinction is that whereas the modal bridi
 
 ##### Example 10.171.
 
-|    |       |     |                 |     |          |     |       |     |
-| -- | ----- | --- | --------------- | --- | -------- | --- | ----- | --- |
-| mi | nelci | do  | mu'i            | le  | nu       | do  | nelci | mi  |
-| I  | like  | you | with-motivation | the | event-of | you | like  | me. |
+|     |       |     |                 |     |          |     |       |     |
+| --- | ----- | --- | --------------- | --- | -------- | --- | ----- | --- |
+| mi  | nelci | do  | mu'i            | le  | nu       | do  | nelci | mi  |
+| I   | like  | you | with-motivation | the | event-of | you | like  | me. |
 
 |                                 |
 | ------------------------------- |
@@ -2946,10 +2946,10 @@ places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/#mukti)
 
 ##### Example 10.172.
 
-|    |       |     |       |     |          |     |       |     |
-| -- | ----- | --- | ----- | --- | -------- | --- | ----- | --- |
-| mi | nelci | do  | ba    | le  | nu       | do  | nelci | mi  |
-| I  | like  | you | after | the | event-of | you | like  | me. |
+|     |       |     |       |     |          |     |       |     |
+| --- | ----- | --- | ----- | --- | -------- | --- | ----- | --- |
+| mi  | nelci | do  | ba    | le  | nu       | do  | nelci | mi  |
+| I   | like  | you | after | the | event-of | you | like  | me. |
 
 |                               |
 | ----------------------------- |
@@ -2961,15 +2961,15 @@ places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/#balvi)
 
 ##### Example 10.173.
 
-|     |          |     |       |    |    |           |     |          |
-| --- | -------- | --- | ----- | -- | -- | --------- | --- | -------- |
-| le  | nu       | do  | nelci | mi | cu | mukti     | le  | nu       |
-| The | event-of | you | like  | me |    | motivates | the | event-of |
+|     |          |     |       |     |     |           |     |          |
+| --- | -------- | --- | ----- | --- | --- | --------- | --- | -------- |
+| le  | nu       | do  | nelci | mi  | cu  | mukti     | le  | nu       |
+| The | event-of | you | like  | me  |     | motivates | the | event-of |
 
-|    |       |      |
-| -- | ----- | ---- |
-| mi | nelci | do   |
-| I  | like  | you. |
+|     |       |      |
+| --- | ----- | ---- |
+| mi  | nelci | do   |
+| I   | like  | you. |
 
 |                                                 |
 | ----------------------------------------------- |
@@ -2981,10 +2981,10 @@ and
 
 ##### Example 10.174.
 
-|     |          |    |       |     |    |          |     |          |
-| --- | -------- | -- | ----- | --- | -- | -------- | --- | -------- |
-| le  | nu       | mi | nelci | do  | cu | balvi    | le  | nu       |
-| The | event-of | I  | like  | you |    | is-after | the | event-of |
+|     |          |     |       |     |     |          |     |          |
+| --- | -------- | --- | ----- | --- | --- | -------- | --- | -------- |
+| le  | nu       | mi  | nelci | do  | cu  | balvi    | le  | nu       |
+| The | event-of | I   | like  | you |     | is-after | the | event-of |
 
 |     |       |     |
 | --- | ----- | --- |
@@ -3003,19 +3003,19 @@ As a result, the afterthought sentence-connective forms of [Example 10.171](/cha
 
 ##### Example 10.175.
 
-|    |       |      |                    |     |       |     |
-| -- | ----- | ---- | ------------------ | --- | ----- | --- |
-| mi | nelci | do   | .imu'ibo           | do  | nelci | mi  |
-| I  | like  | you. | \[That-is\] Because | you | like  | me. |
+|     |       |      |                     |     |       |     |
+| --- | ----- | ---- | ------------------- | --- | ----- | --- |
+| mi  | nelci | do   | .imu'ibo            | do  | nelci | mi  |
+| I   | like  | you. | \[That-is\] Because | you | like  | me. |
 
 
 
 ##### Example 10.176.
 
-|     |       |     |            |    |       |      |
-| --- | ----- | --- | ---------- | -- | ----- | ---- |
-| do  | nelci | mi  | .ibabo     | mi | nelci | do   |
-| You | like  | me. | Afterward, | I  | like  | you. |
+|     |       |     |            |     |       |      |
+| --- | ----- | --- | ---------- | --- | ----- | ---- |
+| do  | nelci | mi  | .ibabo     | mi  | nelci | do   |
+| You | like  | me. | Afterward, | I   | like  | you. |
 
 
 
@@ -3025,10 +3025,10 @@ In forethought connections, however, the asymmetry between modals and tenses is 
 
 ##### Example 10.177.
 
-|         |     |       |    |    |    |       |      |
-| ------- | --- | ----- | -- | -- | -- | ----- | ---- |
-| mu'igi  | do  | nelci | mi | gi | mi | nelci | do   |
-| Because | you | like  | me | ,  | I  | like  | you. |
+|         |     |       |     |     |     |       |      |
+| ------- | --- | ----- | --- | --- | --- | ----- | ---- |
+| mu'igi  | do  | nelci | mi  | gi  | mi  | nelci | do   |
+| Because | you | like  | me  | ,   | I   | like  | you. |
 
 
 
@@ -3036,10 +3036,10 @@ and
 
 ##### Example 10.178.
 
-|       |     |       |    |    |    |       |      |
-| ----- | --- | ----- | -- | -- | -- | ----- | ---- |
-| bagi  | do  | nelci | mi | gi | mi | nelci | do   |
-| After | you | like  | me | ,  | I  | like  | you. |
+|       |     |       |     |     |     |       |      |
+| ----- | --- | ----- | --- | --- | --- | ----- | ---- |
+| bagi  | do  | nelci | mi  | gi  | mi  | nelci | do   |
+| After | you | like  | me  | ,   | I   | like  | you. |
 
 
 
@@ -3075,11 +3075,11 @@ There are two main ways to ask questions about tense. The main English tense que
 
 ##### Example 10.179.
 
-|     |       |     |       |            |                 |
-| --- | ----- | --- | ----- | ---------- | --------------- |
-| do  | klama | le  | zdani | ca         | ma              |
+|     |       |     |       |             |                  |
+| --- | ----- | --- | ----- | ----------- | ---------------- |
+| do  | klama | le  | zdani | ca          | ma               |
 | You | go-to | the | house | \[present\] | \[what-sumti?\]. |
-| You | go-to | the | house | at         | what-time?      |
+| You | go-to | the | house | at          | what-time?       |
 
 |                              |
 | ---------------------------- |
@@ -3089,11 +3089,11 @@ There are two main ways to ask questions about tense. The main English tense que
 
 ##### Example 10.180.
 
-|     |       |                |                |         |           |     |       |
-| --- | ----- | -------------- | -------------- | ------- | --------- | --- | ----- |
-| le  | verba | vi             | ma             | pu      | cadzu     | le  | bisli |
+|     |       |                 |                 |          |           |     |       |
+| --- | ----- | --------------- | --------------- | -------- | --------- | --- | ----- |
+| le  | verba | vi              | ma              | pu       | cadzu     | le  | bisli |
 | The | child | \[short-space\] | \[what-sumti?\] | \[past\] | walks-on  | the | ice.  |
-| The | child | at/near        | what-place     |         | walked-on | the | ice?  |
+| The | child | at/near         | what-place      |          | walked-on | the | ice?  |
 
 |                                      |
 | ------------------------------------ |
@@ -3105,9 +3105,9 @@ There is also a non-specific tense and modal question, *[cu'e](/glossary/#cue)*,
 
 ##### Example 10.181.
 
-|     |       |                |       |     |       |
-| --- | ----- | -------------- | ----- | --- | ----- |
-| le  | nanmu | cu'e           | batci | le  | gerku |
+|     |       |                 |       |     |       |
+| --- | ----- | --------------- | ----- | --- | ----- |
+| le  | nanmu | cu'e            | batci | le  | gerku |
 | The | man   | \[what-tense?\] | bites | the | dog.  |
 
 |                                           |
@@ -3120,9 +3120,9 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181. 
 
 ##### Example 10.182.
 
-|                  |
-| ---------------- |
-| va               |
+|                   |
+| ----------------- |
+| va                |
 | \[medium-space\]. |
 
 |                      |
@@ -3133,9 +3133,9 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181. 
 
 ##### Example 10.183.
 
-|                       |
-| --------------------- |
-| puzu                  |
+|                         |
+| ----------------------- |
+| puzu                    |
 | \[past\]-\[long-time\]. |
 
 |                  |
@@ -3146,9 +3146,9 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181. 
 
 ##### Example 10.184.
 
-|                |     |       |
-| -------------- | --- | ----- |
-| vi             | le  | lunra |
+|                 |     |       |
+| --------------- | --- | ----- |
+| vi              | le  | lunra |
 | \[short-space\] | The | moon. |
 
 |              |
@@ -3159,9 +3159,9 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181. 
 
 ##### Example 10.185.
 
-|               |
-| ------------- |
-| pu'o          |
+|                |
+| -------------- |
+| pu'o           |
 | \[inchoative\] |
 
 |                        |
@@ -3185,9 +3185,9 @@ The only way to combine *[cu'e](/glossary/#cue)* with other tense cmavo is throu
 
 ##### Example 10.187.
 
-|     |               |     |          |       |     |        |
-| --- | ------------- | --- | -------- | ----- | --- | ------ |
-| do  | puzi          | je  | cu'e     | sombo | le  | gurni  |
+|     |                |     |           |       |     |        |
+| --- | -------------- | --- | --------- | ----- | --- | ------ |
+| do  | puzi           | je  | cu'e      | sombo | le  | gurni  |
 | You | \[past-short\] | and | \[when?\] | sow   | the | grain? |
 
 |                                                                  |
@@ -3200,9 +3200,9 @@ Additionally, the logical connective itself can be replaced by a question word:
 
 ##### Example 10.188.
 
-|            |        |         |           |           |           |
-| ---------- | ------ | ------- | --------- | --------- | --------- |
-| la         | .artr. | pu      | je'i      | ba        | nolraitru |
+|            |        |          |            |            |           |
+| ---------- | ------ | -------- | ---------- | ---------- | --------- |
+| la         | .artr. | pu       | je'i       | ba         | nolraitru |
 | That-named | Arthur | \[past\] | \[which?\] | \[future\] | is-a-king |
 
 |                                  |
@@ -3219,15 +3219,15 @@ It is a limitation of the VA and ZI system of specifying magnitudes that they ca
 
 ##### Example 10.189.
 
-|            |        |        |         |                  |    |         |
-| ---------- | ------ | ------ | ------- | ---------------- | -- | ------- |
-| la         | frank. | sanli  | zu'a    | nu'i             | la | djordj. |
-| That-named | Frank  | stands | \[left\] | \[start-termset\] |    | George  |
+|            |        |        |          |                   |     |         |
+| ---------- | ------ | ------ | -------- | ----------------- | --- | ------- |
+| la         | frank. | sanli  | zu'a     | nu'i              | la  | djordj. |
+| That-named | Frank  | stands | \[left\] | \[start-termset\] |     | George  |
 
-|             |    |                           |    |            |    |                 |
-| ----------- | -- | ------------------------- | -- | ---------- | -- | --------------- |
-| la'u        | lo | mitre                     | be | li         | mu | \[nu'u\]         |
-| \[quantity\] | a  | thing-measuring-in-meters |    | the-number | 5  | \[end-termset\]. |
+|              |     |                           |     |            |     |                  |
+| ------------ | --- | ------------------------- | --- | ---------- | --- | ---------------- |
+| la'u         | lo  | mitre                     | be  | li         | mu  | \[nu'u\]         |
+| \[quantity\] | a   | thing-measuring-in-meters |     | the-number | 5   | \[end-termset\]. |
 
 |                                                      |
 | ---------------------------------------------------- |
@@ -3241,15 +3241,15 @@ It is not necessary to have both an origin point and an explicit magnitude: a te
 
 ##### Example 10.190.
 
-|            |        |        |         |            |             |
-| ---------- | ------ | ------ | ------- | ---------- | ----------- |
-| la         | frank. | sanli  | zu'a    | nu'i       | la'u        |
+|            |        |        |          |             |              |
+| ---------- | ------ | ------ | -------- | ----------- | ------------ |
+| la         | frank. | sanli  | zu'a     | nu'i        | la'u         |
 | That-named | Frank  | stands | \[left\] | \[termset\] | \[quantity\] |
 
-|    |                           |    |            |    |
-| -- | ------------------------- | -- | ---------- | -- |
-| lo | mitre                     | be | li         | mu |
-| a  | thing-measuring-in-meters |    | the-number | 5. |
+|     |                           |     |            |     |
+| --- | ------------------------- | --- | ---------- | --- |
+| lo  | mitre                     | be  | li         | mu  |
+| a   | thing-measuring-in-meters |     | the-number | 5.  |
 
 |                                       |
 | ------------------------------------- |
@@ -3263,160 +3263,156 @@ It is not necessary to have both an origin point and an explicit magnitude: a te
 
 .a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste
 
+##### PU
 
+temporal direction
 
-##
+|     |         |
+| --- | ------- |
+| pu  | past    |
+| ca  | present |
+| ba  | future  |
 
-- PU
+##### ZI
 
-  temporal direction
+temporal distance
 
-  |    |         |
-  | -- | ------- |
-  | pu | past    |
-  | ca | present |
-  | ba | future  |
+|     |        |
+| --- | ------ |
+| zi  | short  |
+| za  | medium |
+| zu  | long   |
 
-- ZI
+##### ZEhA
 
-  temporal distance
+temporal interval
 
-  |    |        |
-  | -- | ------ |
-  | zi | short  |
-  | za | medium |
-  | zu | long   |
+|      |          |
+| ---- | -------- |
+| ze'i | short    |
+| ze'a | medium   |
+| ze'u | long     |
+| ze'e | infinite |
 
-- ZEhA
+##### ROI
 
-  temporal interval
+objective quantified tense flag
 
-  |      |          |
-  | ---- | -------- |
-  | ze'i | short    |
-  | ze'a | medium   |
-  | ze'u | long     |
-  | ze'e | infinite |
+|          |                 |
+| -------- | --------------- |
+| noroi    | never           |
+| paroi    | once            |
+| \[N]roi  | \[N] times      |
+| roroi    | always          |
+| pare'u   | the first time  |
+| rere'u   | the second time |
+| \[N]re'u | the \[N]th time |
 
-- ROI
+##### TAhE
 
-  objective quantified tense flag
+subjective quantified tense
 
-  |          |                 |
-  | -------- | --------------- |
-  | noroi    | never           |
-  | paroi    | once            |
-  | \[N]roi  | \[N] times      |
-  | roroi    | always          |
-  | pare'u   | the first time  |
-  | rere'u   | the second time |
-  | \[N]re'u | the \[N]th time |
+|      |              |
+| ---- | ------------ |
+| di'i | regularly    |
+| na'o | typically    |
+| ru'i | continuously |
+| ta'e | habitually   |
 
-- TAhE
+##### ZAhO
 
-  subjective quantified tense
+event contours
 
-  |      |              |
-  | ---- | ------------ |
-  | di'i | regularly    |
-  | na'o | typically    |
-  | ru'i | continuously |
-  | ta'e | habitually   |
+see [Section 10.10](/chapter10/#event-contours-zaho-and-reu "10.10. Event contours: ZAhO and re'u")
 
-- ZAhO
+##### FAhA
 
-  event contours
+spatial direction
 
-  see [Section 10.10](/chapter10/#event-contours-zaho-and-reu "10.10. Event contours: ZAhO and re'u")
+see [Section 10.28](/chapter10/#list-of-spatial-directions-and-direction-like-relations "10.28. List of spatial directions and direction-like relations")
 
-- FAhA
+##### VA
 
-  spatial direction
+spatial distance
 
-  see [Section 10.28](/chapter10/#list-of-spatial-directions-and-direction-like-relations "10.28. List of spatial directions and direction-like relations")
+|     |        |
+| --- | ------ |
+| vi  | short  |
+| va  | medium |
+| vu  | long   |
 
-- VA
+##### VEhA
 
-  spatial distance
+spatial interval
 
-  |    |        |
-  | -- | ------ |
-  | vi | short  |
-  | va | medium |
-  | vu | long   |
+|      |          |
+| ---- | -------- |
+| ve'i | short    |
+| ve'a | medium   |
+| ve'u | long     |
+| ve'e | infinite |
 
-- VEhA
+##### VIhA
 
-  spatial interval
+spatial dimensionality
 
-  |      |          |
-  | ---- | -------- |
-  | ve'i | short    |
-  | ve'a | medium   |
-  | ve'u | long     |
-  | ve'e | infinite |
+|      |            |
+| ---- | ---------- |
+| vi'i | line       |
+| vi'a | plane      |
+| vi'u | space      |
+| vi'e | space-time |
 
-- VIhA
+##### FEhE
 
-  spatial dimensionality
+spatial interval modifier flag
 
-  |      |            |
-  | ---- | ---------- |
-  | vi'i | line       |
-  | vi'a | plane      |
-  | vi'u | space      |
-  | vi'e | space-time |
+|           |            |
+| --------- | ---------- |
+| fe'enoroi | nowhere    |
+| fe'eroroi | everywhere |
+| fe'eba'o  | beyond     |
 
-- FEhE
+etc.
 
-  spatial interval modifier flag
+##### MOhI
 
-  |           |            |
-  | --------- | ---------- |
-  | fe'enoroi | nowhere    |
-  | fe'eroroi | everywhere |
-  | fe'eba'o  | beyond     |
+spatial movement flag
 
-  etc.
+|      |        |
+| ---- | ------ |
+| mo'i | motion |
 
-- MOhI
+see [Section 10.28](/chapter10/#list-of-spatial-directions-and-direction-like-relations "10.28. List of spatial directions and direction-like relations")
 
-  spatial movement flag
+##### KI
 
-  |      |        |
-  | ---- | ------ |
-  | mo'i | motion |
+set or reset sticky tense
 
-  see [Section 10.28](/chapter10/#list-of-spatial-directions-and-direction-like-relations "10.28. List of spatial directions and direction-like relations")
+|                             |       |
+| --------------------------- | ----- |
+| tense+*[ki](/glossary/#ki)* | set   |
+| *[ki](/glossary/#ki)* alone | reset |
 
-- KI
+##### CUhE
 
-  set or reset sticky tense
+tense question, reference point
 
-  |                                    |       |
-  | ---------------------------------- | ----- |
-  | tense+*[ki](/glossary/#ki)* | set   |
-  | *[ki](/glossary/#ki)* alone | reset |
+|      |                               |
+| ---- | ----------------------------- |
+| cu'e | asks for a tense or aspect    |
+| nau  | use speaker's reference point |
 
-- CUhE
+##### JAI
 
-  tense question, reference point
+tense conversion
 
-  |      |                               |
-  | ---- | ----------------------------- |
-  | cu'e | asks for a tense or aspect    |
-  | nau  | use speaker's reference point |
+|       |              |
+| ----- | ------------ |
+| jaica | the time of  |
+| jaivi | the place of |
 
-- JAI
-
-  tense conversion
-
-  |       |              |
-  | ----- | ------------ |
-  | jaica | the time of  |
-  | jaivi | the place of |
-
-  etc.
+etc.
 
 ## List of spatial directions and direction-like relations
 
