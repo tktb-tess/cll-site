@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban selbri'
-prev: /chapter04/
-prevTitle: 'Prev: Chapter 4'
-next: /chapter06/
-nextTitle: 'Next: Chapter 6'
 ---
 
 ![The picture for chapter 5](../assets/chapter05.gif)
+
+## Contents
 
 ## Lojban content words: brivla
 

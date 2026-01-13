@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
-prev: /chapter05/
-prevTitle: 'Prev: Chapter 5'
-next: /chapter07/
-nextTitle: 'Next: Chapter 7'
 ---
 
 ![The picture for chapter 6](../assets/chapter06.gif)
+
+## Contents
 
 ## The five kinds of simple sumti
 

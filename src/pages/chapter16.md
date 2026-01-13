@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic'
-prev: /chapter15/
-prevTitle: 'Prev: Chapter 15'
-next: /chapter17/
-nextTitle: 'Next: Chapter 17'
 ---
 
 ![The picture for chapter 16](../assets/chapter16.gif)
+
+## Contents
 
 ## What's wrong with this picture?
 

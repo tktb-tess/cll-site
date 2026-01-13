@@ -1,12 +1,7 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'The Complete Lojban Language'
-prev: /
-prevTitle: ''
-next: /chapter01/
-nextTitle: 'Next: Chapter 1'
 ---
-
 
 > John Woldemar Cowan  
 > A Logical Language Group Publication  

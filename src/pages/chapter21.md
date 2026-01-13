@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 21. Formal Grammars'
-prev: /chapter20/
-prevTitle: 'Prev: Chapter 20'
-next: /glossary/
-nextTitle: 'Next: Lojban Word Glossary'
 ---
 
 ![The picture for chapter 21](../assets/chapter21.gif)
+
+## Contents
 
 ## EBNF Grammar of Lojban
 

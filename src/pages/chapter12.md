@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 12. Dog House And White House: Determining lujvo Place Structures'
-prev: /chapter11/
-prevTitle: 'Prev: Chapter 11'
-next: /chapter13/
-nextTitle: 'Next: Chapter 13'
 ---
 
 ![The picture for chapter 12](../assets/chapter12.gif)
+
+## Contents
 
 ## Why have lujvo?
 

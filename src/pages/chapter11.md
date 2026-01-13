@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
-prev: /chapter10/
-prevTitle: 'Prev: Chapter 10'
-next: /chapter12/
-nextTitle: 'Next: Chapter 12'
 ---
 
 ![The picture for chapter 11](../assets/chapter11.gif)
+
+## Contents
 
 ## The syntax of abstraction
 

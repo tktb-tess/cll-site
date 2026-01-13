@@ -1,16 +1,31 @@
 ---
 import '../styles/globals.css';
-interface Props {
-  frontmatter: {
+import { linkTitles } from './titles';
+
+export interface Props {
+  readonly frontmatter: {
     readonly title: string;
     readonly description?: string;
-    readonly prev: string;
-    readonly prevTitle: string;
-    readonly next: string;
-    readonly nextTitle: string;
   };
+  readonly file: string;
+  readonly url: string;
+  getHeadings: () => {
+    depth: number;
+    slug: string;
+    text: string;
+  }[];
+  rawContent: () => string;
+  compiledContent: () => string;
 }
-const { frontmatter } = Astro.props;
+
+const { frontmatter, url } = Astro.props;
+console.log(Astro.props);
+const index = linkTitles.findIndex(([k]) => k === url);
+const prev = index > 0 ? linkTitles.at(index - 1) : undefined;
+const next =
+  index >= 0 && index < linkTitles.length - 1
+    ? linkTitles.at(index + 1)
+    : undefined;
 ---
 
 <!doctype html>
@@ -45,16 +60,8 @@ const { frontmatter } = Astro.props;
       >
         <p class='text-center text-xl'>The Complete Lojban Language</p>
         <div class='flex justify-center gap-4'>
-          {
-            frontmatter.prevTitle !== '' && (
-              <a href={frontmatter.prev}>{frontmatter.prevTitle}</a>
-            )
-          }
-          {
-            frontmatter.nextTitle !== '' && (
-              <a href={frontmatter.next}>{frontmatter.nextTitle}</a>
-            )
-          }
+          {prev && <a href={prev[0]}>Prev: {prev[1]}</a>}
+          {next && <a href={next[0]}>Next: {next[1]}</a>}
         </div>
         <p class='text-center'><a href='/'>Table of Contents</a></p>
         <p class='text-center'>

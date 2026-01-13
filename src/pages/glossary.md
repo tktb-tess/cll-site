@@ -1,10 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Lojban Word Glossary'
-prev: /chapter21/
-prevTitle: 'Prev: Chapter 21'
-next: /general/
-nextTitle: 'Next: General Index'
 ---
 
 All definitions in this glossary are brief and unofficial. Only the published dictionary is a truly official reference for word definitions. These definitions are here simply as a quick reference.

@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 15. “No” Problems: On Lojban Negation'
-prev: /chapter14/
-prevTitle: 'Prev: Chapter 14'
-next: /chapter16/
-nextTitle: 'Next: Chapter 16'
 ---
 
 ![The picture for chapter 15](../assets/chapter15.gif)
+
+## Contents
 
 ## Introductory
 

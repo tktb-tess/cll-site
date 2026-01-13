@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators'
-prev: /chapter12/
-prevTitle: 'Prev: Chapter 12'
-next: /chapter14/
-nextTitle: 'Next: Chapter 14'
 ---
 
 ![The picture for chapter 13](../assets/chapter13.gif)
+
+## Contents
 
 ## What are attitudinal indicators?
 

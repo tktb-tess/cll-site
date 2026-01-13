@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 8. Relative Clauses, Which Make sumti Even More Complicated'
-prev: /chapter07/
-prevTitle: 'Prev: Chapter 7'
-next: /chapter09/
-nextTitle: 'Next: Chapter 9'
 ---
 
 ![The picture for chapter 8](../assets/chapter08.gif)
+
+## Contents
 
 ## What are you pointing at?
 

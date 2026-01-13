@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 4. The Shape Of Words To Come: Lojban Morphology'
-prev: /chapter03/
-prevTitle: 'Prev: Chapter 3'
-next: /chapter05/
-nextTitle: 'Next: Chapter 5'
 ---
 
 ![The picture for chapter 4](../assets/chapter04.gif)
+
+## Contents
 
 ## Introductory
 

@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
-prev: /chapter06/
-prevTitle: 'Prev: Chapter 6'
-next: /chapter08/
-nextTitle: 'Next: Chapter 8'
 ---
 
 ![The picture for chapter 7](../assets/chapter07.gif)
+
+## Contents
 
 ## What are pro-sumti and pro-bridi? What are they for?
 

@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams'
-prev: /chapter01/
-prevTitle: 'Prev: Chapter 1'
-next: /chapter03/
-nextTitle: 'Next: Chapter 3'
 ---
 
 ![The picture for chapter 2](../assets/chapter02.gif)
+
+## Contents
 
 ## The concept of the bridi
 

@@ -1,10 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
 title: Lojban Words Index
-prev: /general/
-prevTitle: 'Prev: General Index'
-next: /examples/
-nextTitle: 'Next: Examples Index'
 ---
 
 ### Symbols

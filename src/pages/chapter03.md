@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 3. The Hills Are Alive With The Sounds Of Lojban'
-prev: /chapter02/
-prevTitle: 'Prev: Chapter 2'
-next: /chapter04/
-nextTitle: 'Next: Chapter 4'
 ---
 
 ![The picture for chapter 3](../assets/chapter03.gif)
+
+## Contents
 
 ## Orthography
 

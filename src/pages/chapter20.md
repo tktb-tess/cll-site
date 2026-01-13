@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 20. A Catalogue of selma''o'
-prev: /chapter19/
-prevTitle: 'Prev: Chapter 19'
-next: /chapter21/
-nextTitle: 'Next: Chapter 21'
 ---
 
 ![The picture for chapter 20](../assets/chapter20.gif)
+
+## Contents
 
 ## A Catalogue Of selma'o
 

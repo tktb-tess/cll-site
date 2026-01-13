@@ -1,13 +1,11 @@
 ---
 layout: ../layouts/Layout.astro
 title: 'Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts'
-prev: /chapter18/
-prevTitle: 'Prev: Chapter 18'
-next: /chapter20/
-nextTitle: 'Next: Chapter 20'
 ---
 
 ![The picture for chapter 19](../assets/chapter19.gif)
+
+## Contents
 
 ## Introductory
 
