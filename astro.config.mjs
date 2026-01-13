@@ -14,7 +14,7 @@ export default defineConfig({
   },
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [[remarkToc, { heading: 'contents', maxDepth: 4 }], remarkMath],
+    remarkPlugins: [[remarkToc, { heading: 'contents', maxDepth: 4, ordered: true }], remarkMath],
     rehypePlugins: [rehypeKatex],
   },
 });
