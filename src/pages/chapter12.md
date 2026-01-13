@@ -7,7 +7,7 @@ title: 'Chapter 12. Dog House And White House: Determining lujvo Place Structure
 
 ## Contents
 
-## Why have lujvo?
+## 12.1. Why have lujvo?
 
 The Lojban vocabulary is founded on its list of 1350-plus gismu, made up by combining word lists from various sources. These gismu are not intended to be either a complete vocabulary for the language nor a minimal list of semantic primitives. Instead, the gismu list serves as a basis for the creation of compound words, or lujvo. The intention is that (except in certain semantically broad but shallow fields such as cultures, nations, foods, plants, and animals) suitable lujvo can be devised to cover the ten million or so concepts expressible in all the world's languages taken together. Grammatically, lujvo behave just like gismu: they have place structures and function as selbri.
 
@@ -40,7 +40,7 @@ If the tanru includes connective cmavo such as *[bo](/glossary/#bo)*, *[ke](/glo
 
 The exact workings of the lujvo-making algorithm, which takes a tanru built from gismu (and possibly cmavo) and produces a lujvo from it, are described in [Section 4.11](/chapter04/#the-lujvo-making-algorithm "4.11. The lujvo-making algorithm").
 
-## The meaning of tanru: a necessary detour
+## 12.2. The meaning of tanru: a necessary detour
 
 The meaning of a lujvo is controlled by – but is not the same as – the meaning of the tanru from which the lujvo was constructed. The tanru corresponding to a lujvo is called its *[veljvo](/glossary/#veljvo)* in Lojban, and since there is no concise English equivalent, that term will be used in this chapter. Furthermore, the left (modifier) part of a tanru will be called the *[seltau](/glossary/#seltau)*, and the right (modified) part the *[tertau](/glossary/#tertau)*, following the usage of [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri"). For brevity, we will speak of the seltau or tertau of a lujvo, meaning of course the seltau or tertau of the veljvo of that lujvo. (If this terminology is confusing, substituting “modifier” for *[seltau](/glossary/#seltau)* and “modified” for *[tertau](/glossary/#tertau)* may help.)
 
@@ -91,7 +91,7 @@ As we have seen, no less than five elements are involved in the definition of *g
 
 Not the most elegant sentence ever written in either Lojban or English. Yet if there is any relation at all between Spot and the White House, [Example 12.5](/chapter12/#example-125 "Example 12.5. ") is arguably true. If we concentrate on just one type of relation in interpreting the tanru *gerku zdani*, then the meaning of *gerku zdani* changes. So if we understand *gerku zdani* as having the same meaning as the English word “doghouse”, the White House would no longer be a *gerku zdani* with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
 
-## The meaning of lujvo
+## 12.3. The meaning of lujvo
 
 This is a fairly long way to go to try and work out how to say “doghouse”! The reader can take heart; we're nearly there. Recall that one of the components involved in fixing the meaning of a tanru – the one left deliberately vague – is the precise relation between the tertau and the seltau. Indeed, fixing this relation is tantamount to giving an interpretation to the ambiguous tanru.
 
@@ -141,7 +141,7 @@ or more comprehensively
 
 Despite the apparently conclusive nature of [Example 12.10](/chapter12/#example-1210 "Example 12.10. "), our task is not yet done: we still need to decide whether any of the remaining places should also be eliminated, and what order the lujvo places should appear in. These concerns will be addressed in the remainder of the chapter; but we are now equipped with the terminology needed for those discussions.
 
-## Selecting places
+## 12.4. Selecting places
 
 The set of places of an ordinary lujvo are selected from the places of its component gismu. More precisely, the places of such a lujvo are derived from the set of places of the component gismu by eliminating unnecessary places, until just enough places remain to give an appropriate meaning to the lujvo. In general, including a place makes the concept expressed by a lujvo more general; excluding a place makes the concept more specific, because omitting the place requires assuming a standard value or range of values for it.
 
@@ -153,7 +153,7 @@ The second reason is related to the first: if the veljvo of the lujvo has not be
 
 However, second-guessing the place structure of the lujvo is useful in guiding the process of subsequently eliminating places from the veljvo. If the Lojbanist has an idea of what the final place structure should look like, he or she should be able to pick an appropriate veljvo to begin with, in order to express the idea, and then to decide which places are relevant or not relevant to expressing that idea.
 
-## Symmetrical and asymmetrical lujvo
+## 12.5. Symmetrical and asymmetrical lujvo
 
 A common pattern, perhaps the most common pattern, of lujvo-making creates what is called a “symmetrical lujvo”. A symmetrical lujvo is one based on a tanru interpretation such that the first place of the seltau is equivalent to the first place of the tertau: each component of the tanru characterizes the same object. As an illustration of this, consider the lujvo *[balsoi](/glossary/#balsoi)*: it is intended to mean “both great and a soldier”- that is, “great soldier”, which is the interpretation we would tend to give its veljvo, *banli sonci*. The underlying gismu place structures are:
 
@@ -221,7 +221,7 @@ But in general we go about in cars, rather than going to cars, so a far more lik
 
 instead.
 
-## Dependent places
+## 12.6. Dependent places
 
 In order to understand which places, if any, should be completely removed from a lujvo place structure, we need to understand the concept of dependent places. One place of a brivla is said to be dependent on another if its value can be predicted from the values of one or more of the other places. For example, the g2 place of *[gerku](/glossary/#gerku)* is dependent on the g1 place. Why? Because when we know what fits in the g1 place (Spot, let us say, a well-known dog), then we know what fits in the g2 place (“St. Bernard”, let us say). In other words, when the value of the g1 place has been specified, the value of the g2 place is determined by it. Conversely, since each dog has only one breed, but each breed contains many dogs, the g1 place is not dependent on the g2 place; if we know only that some dog is a St. Bernard, we cannot tell by that fact alone which dog is meant.
 
@@ -327,7 +327,7 @@ Unfortunately, not all dependent places in the seltau can be safely removed: som
 
 even though c3 and c4 are plainly dependent on c1. The other places of *[ckule](/glossary/#ckule)*, the location (c2) and operators (c5), don't seem to be necessary to the concept “school building”, and are dependent on c1 to boot, so they are omitted. Again, the need for case-by-case consideration of place structures is demonstrated.
 
-## Ordering lujvo places.
+## 12.7. Ordering lujvo places.
 
 So far, we have concentrated on selecting the places to go into the place structure of a lujvo. However, this is only half the story. In using selbri in Lojban, it is important to remember the right order of the sumti. With lujvo, the need to attend to the order of sumti becomes critical: the set of places selected should be ordered in such a way that a reader unfamiliar with the lujvo should be able to tell which place is which.
 
@@ -394,7 +394,7 @@ Asymmetrical lujvo like *[gerzda](/glossary/#gerzda)*, on the other hand, employ
 
 Since the shared place is m2=d1, the animal patient, the remaining seltau place d2 is inserted immediately after the shared place; then the remaining tertau places form the last two places of the lujvo.
 
-## lujvo with more than two parts.
+## 12.8. lujvo with more than two parts.
 
 The theory we have outlined so far is an account of lujvo with two parts. But often lujvo are made containing more than two parts. An example is *[bavlamdei](/glossary/#bavlamdei)*, “tomorrow”: it is composed of the rafsi for “future”, “adjacent”, and “day”. How does the account we have given apply to lujvo like this?The best way to approach such lujvo is to continue to classify them as based on binary tanru, the only difference being that the seltau or the tertau or both is itself a lujvo. So it is easiest to make sense of *[bavlamdei](/glossary/#bavlamdei)* as having two components: *[bavla'i](/glossary/#bavlai)*, “next”, and *[djedi](/glossary/#djedi)*. If we know or invent the lujvo place structure for the components, we can compose the new lujvo place structure in the usual way.
 
@@ -432,7 +432,7 @@ Since *[cladakyxa'i](/glossary/#cladakyxai)* is a symmetrical lujvo based on *cl
 
 If the last place sounds unimportant to you, notice that what counts legally as a “sword”, rather than just a “knife”, depends on the length of the blade (the legal limit varies in different jurisdictions). This fifth place of *[cladakyxa'i](/glossary/#cladakyxai)* may not often be explicitly filled, but it is still useful on occasion. Because it is so seldom important, it is best that it be last.
 
-## Eliding SE rafsi from seltau
+## 12.9. Eliding SE rafsi from seltau
 
 It is common to form lujvo that omit the rafsi based on cmavo of selma'o SE, as well as other cmavo rafsi. Doing so makes lujvo construction for common or useful constructions shorter. Since it puts more strain on the listener who has not heard the lujvo before, the shortness of the word should not necessarily outweigh ease in understanding, especially if the lujvo refers to a rare or unusual concept.
 
@@ -468,7 +468,7 @@ Abbreviated lujvo like *ti'ifla* are more intuitive (for the lujvo-maker) than t
 
 Note that, with these lujvo, an interpretation requiring SE insertion is safe only if the alternatives are either implausible or unlikely to be needed as a lujvo. This may not always be the case, and Lojbanists should be aware of the risk of ambiguity.
 
-## Eliding SE rafsi from tertau
+## 12.10. Eliding SE rafsi from tertau
 
 Eliding SE rafsi from tertau gets us into much more trouble. To understand why, recall that lujvo, following their veljvo, describe some type of whatever their tertau describe. Thus, *posydji* describes a type of *[djica](/glossary/#djica)*, *[gerzda](/glossary/#gerzda)* describes a type of *[zdani](/glossary/#zdani)*, and so on. What is certain is that *[gerzda](/glossary/#gerzda)* does not describe a *se zdani*- it is not a word that could be used to describe an inhabitant such as a dog.
 
@@ -502,7 +502,7 @@ What is happening here is that we are translating the tertau wrongly, under the 
 
 Because we've got the wrong tertau (eliding a *[se](/glossary/#se)* that really should be there), any attempt to accommodate the resulting lujvo into our guidelines for place structure is fitting a square peg in a round hole. Since they can be so misleading, lujvo with SE rafsi elided from the tertau should be avoided in favor of their more explicit counterparts: in this case, *[blaselkanla](/glossary/#blaselkanla)*.
 
-## Eliding KE and KEhE rafsi from lujvo
+## 12.11. Eliding KE and KEhE rafsi from lujvo
 
 People constructing lujvo usually want them to be as short as possible. To that end, they will discard any cmavo they regard as niceties. The first such cmavo to get thrown out are usually *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)*, the cmavo used to structure and group tanru. We can usually get away with this, because the interpretation of the tertau with *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* missing is less plausible than that with the cmavo inserted, or because the distinction isn't really important.
 
@@ -657,7 +657,7 @@ explained in [Section 11.10](/chapter11/#lojban-sumti-raising "11.10. Lojban sum
 
 In making a lujvo that contains *jax-* for a selbri that contains *[jai](/glossary/#jai)*, the rule is to leave the *[fai](/glossary/#fai)* place as a *[fai](/glossary/#fai)* place of the lujvo; it does not participate in the regular lujvo place structure. (The use of *[fai](/glossary/#fai)* is explained in [Section 9.12](/chapter09/#modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI").)
 
-## Implicit-abstraction lujvo
+## 12.12. Implicit-abstraction lujvo
 
 Eliding NU rafsi involves the same restrictions as eliding SE rafsi, plus additional ones. In general, NU rafsi should not be elided from the tertau, since that changes the kind of thing the lujvo is talking about from an abstraction to a concrete sumti. However, they may be elided from the seltau if no reasonable ambiguity would result.
 
@@ -742,7 +742,7 @@ are closely related to those based on *[gasnu](/glossary/#gasnu)*. However, *[ri
 
 and would be useful in translating sentences like “The heat of the sun liquefied the block of ice.”Implicit-abstraction lujvo are a powerful means in the language of rendering quite verbose bridi into succinct and manageable concepts, and increasing the expressive power of the language.
 
-## Anomalous lujvo
+## 12.13. Anomalous lujvo
 
 Some lujvo that have been coined and actually employed in Lojban writing do not follow the guidelines expressed above, either because the places that are equivalent in the seltau and the tertau are in an unusual position, or because the seltau and tertau are related in a complex way, or both. An example of the first kind is *[jdaselsku](/glossary/#jdaselsku)*, meaning “prayer”, which was mentioned in [Section 12.7](/chapter12/#ordering-lujvo-places "12.7. Ordering lujvo places."). The gismu places are:
 
@@ -832,7 +832,7 @@ which lead to the three different lujvo *xanplimi'e*, *mi'erxanpli*, and *minkem
 
 Does this make *xanmi'e* wrong? By no means. But it does mean that there is a latent component to the meaning of *xanmi'e*, the gismu *[pilno](/glossary/#pilno)*, which is not explicit in the veljvo. And it also means that, for a place structure derivation that actually makes sense, rather than being ad-hoc, the Lojbanist should probably go through a derivation for *xancypliminde* or one of the other possibilities that is analogous to the analysis of *terlantroge'u* above, even if he or she decides to stick with a shorter, more convenient form like *xanmi'e*. In addition, of course, the possibilities of elliptical lujvo increase their potential ambiguity enormously – an unavoidable fact which should be borne in mind.
 
-## Comparatives and superlatives
+## 12.14. Comparatives and superlatives
 
 English has the concepts of “comparative adjectives” and “superlative adjectives” which can be formed from other adjectives, either by adding the suffixes “-er” and “-est” or by using the words “more” and “most”, respectively. The Lojbanic equivalents, which can be made from any brivla, are lujvo with the tertau *[zmadu](/glossary/#zmadu)*, *[mleca](/glossary/#mleca)*, *[zenba](/glossary/#zenba)*, *[jdika](/glossary/#jdika)*, and *[traji](/glossary/#traji)*. In order to make these lujvo regular and easy to make, certain special guidelines are imposed.
 
@@ -972,7 +972,7 @@ But the set against which the t1 place of *[traji](/glossary/#traji)* is compare
 | -------------------------------------------- |
 | Einstein was the greatest of all scientists. |
 
-## Notes on gismu place structures
+## 12.15. Notes on gismu place structures
 
 Unlike the place structures of lujvo, the place structures of gismu were assigned in a far less systematic way through a detailed case-by-case analysis and repeated reviews with associated changes. (The gismu list is now baselined, so no further changes are contemplated.) Nevertheless, certain regularities were imposed both in the choice of places and in the ordering of places which may be helpful to the learner and the lujvo-maker, and which are therefore discussed here.
 

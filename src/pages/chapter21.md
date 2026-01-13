@@ -7,7 +7,7 @@ title: 'Chapter 21. Formal Grammars'
 
 ## Contents
 
-## EBNF Grammar of Lojban
+## 21.1. EBNF Grammar of Lojban
 
 Lojban Machine Grammar, EBNF Version, Final Baseline
 
@@ -408,7 +408,7 @@ FAhO is a universal terminator and signals the end of parsable input.
 
 </div>
 
-## EBNF Cross-Reference
+## 21.2. EBNF Cross-Reference
 
 <div class="font-mono overflow-auto max-w-full text-nowrap [&_p]:m-2 [&_p:nth-child(even)]:ps-8">
 

@@ -120,6 +120,7 @@ const next =
       integrity='sha384-Pu5+C18nP5dwykLJOhd2U4Xen7rjScHN/qusop27hdd2drI+lL5KvX7YntvT8yew'
       crossorigin='anonymous'
     />
+
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
     <title>{frontmatter.title}</title>
   </head>
@@ -130,8 +131,8 @@ const next =
       >
         <p class='text-center text-xl'>The Complete Lojban Language</p>
         <div class='flex justify-center gap-4'>
-          {prev && <a href={prev[0]}>← {prev[1]}</a>}
-          {next && <a href={next[0]}>{next[1]} →</a>}
+          {prev && <a href={prev[0]}>&lt;- {prev[1]}</a>}
+          {next && <a href={next[0]}>{next[1]} -&gt;</a>}
         </div>
         <p class='text-center'><a href='/'>Table of Contents</a></p>
         <p class='text-center'>

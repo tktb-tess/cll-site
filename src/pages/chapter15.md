@@ -7,7 +7,7 @@ title: 'Chapter 15. “No” Problems: On Lojban Negation'
 
 ## Contents
 
-## Introductory
+## 15.1. Introductory
 
 The grammatical expression of negation is a critical part of Lojban's claim to being logical. The problem of negation, simply put, is to come up with a complete definition of the word “not”. For Lojban's unambiguous grammar, this means further that meanings of “not” with different grammatical effect must be different words, and even different grammatical structures.
 
@@ -81,7 +81,7 @@ In the natural languages, we would be inclined to say that both of these stateme
 
 The rest of this chapter is designed to explain the Lojban model of negation.
 
-## bridi negation
+## 15.2. bridi negation
 
 In discussing Lojban negation, we will call the form of logical negation that simply denies the truth of a statement “bridi negation”. Using bridi negation, we can say the equivalent of “I haven't stopped beating my wife” without implying that I ever started, nor even that I have a wife, meaning simply “It isn't true that I have stopped beating my wife.” Since Lojban uses bridi as smaller components of complex sentences, bridi negation is permitted in these components as well at the sentence level.
 
@@ -308,7 +308,7 @@ The event-of (my \[false\] being-conscripted-into the Army) was aided by my uncl
 
 It is possible that someone will want to incorporate bridi negations into lujvo. For this reason, the rafsi *-nar-* has been reserved for *[na](/glossary/#na)*. However, before using this rafsi, make sure that you intend the contradictory bridi negation, and not the scalar negation described in [Section 15.3](/chapter15/#scalar-negation "15.3. Scalar Negation"), which will be much more common in tanru and lujvo.
 
-## Scalar Negation
+## 15.3. Scalar Negation
 
 Let us now consider some other types of negation. For example, when we say:
 
@@ -441,7 +441,7 @@ In English, scalar negation semantically includes phrases such as “other than�
 
 In the examples of [Section 15.4](/chapter15/#selbri-and-tanru-negation "15.4. selbri and tanru negation"), we will translate the general case of scalar negation using the general formula “other than” when a phrase is scalar-negated, and “non-” when a single word is scalar-negated.
 
-## selbri and tanru negation
+## 15.4. selbri and tanru negation
 
 All the scalar negations illustrated in [Section 15.3](/chapter15/#scalar-negation "15.3. Scalar Negation") are expressed in Lojban using the cmavo *[na'e](/glossary/#nae)* (of selma'o NAhE). The most common use of *[na'e](/glossary/#nae)* is as a prefix to the selbri:
 
@@ -674,7 +674,7 @@ Since there is no current King of France, it is false to say that he is bald, or
 
 Note: *[lo](/glossary/#lo)* is used in these sentences because negation relates to truth conditions. To meaningfully talk about truth conditions in sentences carrying a description, it must be clear that the description actually applies to the referent. A sentence using *[le](/glossary/#le)* instead of *[lo](/glossary/#lo)* can be true even if there is no current king of France, as long as the speaker and the listener agree to describe something as the current king of France. (See the explanations of *[le](/glossary/#le)* in [Section 6.2](/chapter06/#the-three-basic-description-types "6.2. The three basic description types").)
 
-## Expressing scales in selbri negation
+## 15.5. Expressing scales in selbri negation
 
 In expressing a scalar negation, we can provide some indication of the scale, range, frame-of-reference, or universe of discourse that is being dealt with in an assertion. As stated in [Section 15.4](/chapter15/#selbri-and-tanru-negation "15.4. selbri and tanru negation"), the default is the set of plausible alternatives. Thus if we say:
 
@@ -815,7 +815,7 @@ This large variety of scalar negations is provided because different scales have
 
 Correspondingly, some selbri have no obvious *[to'e](/glossary/#toe)*- what is the opposite of a dog? – while others have more than one, and need *[ci'u](/glossary/#ciu)* to specify which opposite is meant.
 
-## sumti negation
+## 15.6. sumti negation
 
 There are two ways of negating sumti in Lojban. We have the choice of quantifying the sumti with zero, or of applying the sumti-negator *na'ebo* before the sumti. It turns out that a zero quantification serves for contradictory negation. As the cmavo we use implies, *na'ebo* forms a scalar negation.
 
@@ -876,7 +876,7 @@ In place of *na'ebo*, you may also use *no'ebo* and *to'ebo*, to be more specifi
 
 It is not possible to transform sumti negations of either type into bridi negations or scalar selbri negations. Negations of sumti will be used in Lojban conversation. The inability to manipulate these negations logically will, it is hoped, prevent the logical errors that result when natural languages attempt corresponding manipulations.
 
-## Negation of minor grammatical constructs
+## 15.7. Negation of minor grammatical constructs
 
 We have a few other constructs that can be negated, all of them based on negating individual words. For such negation, we use the suffix-combining negator, which is *[nai](/glossary/#nai)*. *[nai](/glossary/#nai)*, by the way, is almost always written as a compound into the previous word that it is negating, although it is a regular separate-word cmavo and the sole member of selma'o NAI.
 
@@ -937,7 +937,7 @@ The abstractors of selma'o NU follow the pattern of the tenses and modals. NU al
 
 A *[nai](/glossary/#nai)* attached to a non-logical connective (of selma'o JOI or BIhI) is a scalar negation, and says that the bridi is false under the specified mixture, but that another connective is applicable. Non-logical connectives are discussed in [Section 14.14](/chapter14/#non-logical-connectives "14.14. Non-logical connectives").
 
-## Truth questions
+## 15.8. Truth questions
 
 One application of negation is in answer to truth questions (those which expect the answers “Yes” or “No”). The truth question cmavo *[xu](/glossary/#xu)* is in selma'o UI; placed at the beginning of a sentence, it asks whether the sentence as a whole is true or false.
 
@@ -1063,7 +1063,7 @@ which means
 
 He might have telephoned the two cities instead of going there. The unnecessary *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* would have been essential if the selbri had been a tanru.
 
-## Affirmations
+## 15.9. Affirmations
 
 There is an explicit positive form for both selma'o NA (*[je'a](/glossary/#jea)*), each of which would supplant the corresponding negator in the grammatical position used, allowing one to assert the positive in response to a negative question or statement without confusion. Assuming the same context as in [Section 15.8](/chapter15/#truth-questions "15.8. Truth questions"):
 
@@ -1150,7 +1150,7 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 | ta   | je'a      | melbi      |
 | that | is-indeed | beautiful. |
 
-## Metalinguistic negation forms
+## 15.10. Metalinguistic negation forms
 
 The question of truth or falsity is not entirely synonymous with negation. Consider the English sentence
 
@@ -1331,7 +1331,7 @@ One can also specifically qualify the metalinguistic negation, by explicitly rep
 
 Finally, one may metalinguistically affirm a bridi with *[jo'a](/glossary/#joa)*, another cmavo of selma'o UI. A common use for *[jo'a](/glossary/#joa)* might be to affirm that a particular construction, though unusual or counterintuitive, is in fact correct; another usage would be to disagree with – by overriding – a respondent's metalinguistic negation.
 
-## Summary – Are All Possible Questions About Negation Now Answered?
+## 15.11. Summary – Are All Possible Questions About Negation Now Answered?
 
 ##### Example 15.114.
 

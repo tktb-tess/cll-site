@@ -7,7 +7,7 @@ title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic
 
 ## Contents
 
-## What's wrong with this picture?
+## 16.1. What's wrong with this picture?
 
 The following brief dialogue is from *Chapter 7* of *Through The Looking Glass* by Lewis Carroll.
 
@@ -56,7 +56,7 @@ that there really is a man; the only thing you can conclude is that there is one
 
 In addition, the use of attitudinals (see [Chapter 13](/chapter13/ "Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators")) often reduces or removes the ability to make deductions about the bridi to which those attitudinals are applied. From the fact that I hope George will win the election, you can conclude nothing about George's actual victory or defeat.
 
-## Existential claims, prenexes, and variables
+## 16.2. Existential claims, prenexes, and variables
 
 Let us consider, to begin with, a sentence that is not in the dialogue:
 
@@ -157,7 +157,7 @@ It is very peculiar, however, even if technically grammatical, for the variable 
 
 has a variable bound in a prenex whose relevance to the claim of the following bridi is completely unspecified.
 
-## Universal claims
+## 16.3. Universal claims
 
 What happens if we substitute “everything” for “something” in [Example 16.7](/chapter16/#example-167 "Example 16.7. ")? We get:
 
@@ -221,7 +221,7 @@ Note that *[ro](/glossary/#ro)* appears before both *[da](/glossary/#da)* and *[
 
 There are various possible translations of universal claims in English: sometimes we use “anybody/anything” rather than “everybody/everything”. Often it makes no difference which of these is used: when it does make a difference, it is a rather subtle one which is explained in [Section 16.8](/chapter16/#the-problem-of-any "16.8. The problem of “any”").
 
-## Restricted claims: *da poi*
+## 16.4. Restricted claims: *da poi*
 
 The universal claims of [Section 16.3](/chapter16/#universal-claims "16.3. Universal claims") are not only false but absurd: there is really very little to be said that is both true and non-trivial about every object whatsoever. Furthermore, we have been glossing over the distinction between “everything” and “everybody” and the other pairs ending in “-thing” and “-body”. It is time to bring up the most useful feature of Lojban variables: the ability to restrict their ranges.
 
@@ -296,7 +296,7 @@ If we make an existential claim about dogs rather than a universal one, we get:
 | ------------------ |
 | Some dog breathes. |
 
-## Dropping the prenex
+## 16.5. Dropping the prenex
 
 It isn't really necessary for every Lojban bridi involving variables to have a prenex on the front. In fact, none of the examples we've seen so far required prenexes at all! The rule for dropping the prenex is simple: if the variables appear in the same order within the bridi as they did in the prenex, then the prenex is superfluous. However, any *[ro](/glossary/#ro)* or *[poi](/glossary/#poi)* appearing in the prenex must be transferred to the first occurrence of the variable in the main part of the bridi. Thus, [Example 16.9](/chapter16/#example-169 "Example 16.9. ") becomes just:
 
@@ -401,7 +401,7 @@ If a variable occurs more than once, then any *[ro](/glossary/#ro)* or *[poi](/g
 
 As the examples in this section show, dropping the prenex makes for terseness of expression often even greater than that of English (Lojban is meant to be an unambiguous language, not necessarily a terse or verbose one), provided the rules are observed.
 
-## Variables with generalized quantifiers
+## 16.6. Variables with generalized quantifiers
 
 So far, we have seen variables with either nothing in front, or with the cmavo *[ro](/glossary/#ro)* in front. Now *[ro](/glossary/#ro)* is a Lojban number, and means “all”; thus *ro prenu* means “all persons”, just as *re prenu* means “two persons”. In fact, unadorned *[da](/glossary/#da)* is also taken to have an implicit number in front of it, namely *[su'o](/glossary/#suo)*, which means “at least one”. Why is this? Consider [Example 16.9](/chapter16/#example-169 "Example 16.9. ") again, this time with an explicit *[su'o](/glossary/#suo)*:
 
@@ -491,7 +491,7 @@ which in turn is short for:
 
 Note that when we move more than one variable to the prenex (along with its attached relative clause), we must make sure that the variables are in the same order in the prenex as in the bridi proper.
 
-## Grouping of quantifiers
+## 16.7. Grouping of quantifiers
 
 Let us consider a sentence containing two quantifier expressions neither of which is *[ro](/glossary/#ro)* or *[su'o](/glossary/#suo)* (remembering that *[su'o](/glossary/#suo)* is implicit where no explicit quantifier is given):
 
@@ -566,7 +566,7 @@ What about descriptors, like *ci lo gerku*, *le nanmu* or *re le ci mlatu*? They
 
 means that each of the dogs specified bites each of the men specified, for six acts of biting altogether. However, if there is an explicit quantifier before *[le](/glossary/#le)* other than *[ro](/glossary/#ro)*, the problems of this section reappear.
 
-## The problem of “any”
+## 16.8. The problem of “any”
 
 Consider the English sentence
 
@@ -682,7 +682,7 @@ There's a box, bigger than this one, that I need
 
 which is what [Example 16.52](/chapter16/#example-1652 "Example 16.52. ") says, whereas [Example 16.53](/chapter16/#example-1653 "Example 16.53. ") turns out to be an effective translation of our original [Example 16.47](/chapter16/#example-1647 "Example 16.47. "). So uses of “any” that aren't universal end up being reflected by variables bound in the prenex of a subordinate bridi.
 
-## Negation boundaries
+## 16.9. Negation boundaries
 
 This section, as well as [Section 16.10](/chapter16/#bridi-negation-and-logical-connectives "16.10. bridi negation and logical connectives") through [Section 16.12](/chapter16/#logical-connectives-and-demorgans-law "16.12. Logical Connectives and DeMorgan's Law"), are in effect a continuation of [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"), introducing features of Lojban negation that require an understanding of prenexes and variables. In the examples below, “there is a Y” and the like must be understood as “there is at least one Y, possibly more”.
 
@@ -914,7 +914,7 @@ which is clearly the desired contradiction of [Example 16.69](/chapter16/#exampl
 
 The interactions between quantifiers and negation mean that you cannot eliminate double negatives that are not adjacent. You must first move the negation phrases so that they are adjacent, inverting any quantifiers they cross, and then the double negative can be eliminated.
 
-## bridi negation and logical connectives
+## 16.10. bridi negation and logical connectives
 
 A complete discussion of logical connectives appears in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System"). What is said here is intentionally quite incomplete and makes several oversimplifications.
 
@@ -1026,7 +1026,7 @@ If you remember only two rules for prenex manipulation of negations, you won't g
 
 - A *[na](/glossary/#na)* before the selbri is always transformed into a *naku* at the left-hand end of the prenex, and vice versa.
 
-## Using *naku* outside a prenex
+## 16.11. Using *naku* outside a prenex
 
 Let us consider the English sentence
 
@@ -1219,7 +1219,7 @@ Other expressions using two *naku* compounds may or may not cancel out. If there
 
 Negation with internal *naku* is clumsy and non-intuitive for logical manipulations, but then, so are the natural language features it is emulating.
 
-## Logical Connectives and DeMorgan's Law
+## 16.12. Logical Connectives and DeMorgan's Law
 
 DeMorgan's Law states that when a logical connective between terms falls within a negation, then expanding the negation requires a change in the connective. Thus (where “p” and “q” stand for terms or sentences) “not (p or q)” is identical to “not p and not q”, and “not (p and q)” is identical to “not p or not q”. The corresponding changes for the other two basic Lojban connectives are: “not (p equivalent to q)” is identical to “not p exclusive-or not q”, and “not (p whether-or-not q)” is identical to both “not p whether-or-not q” and “not p whether-or-not not q”. In any Lojban sentence having one of the basic connectives, you can substitute in either direction from these identities. (These basic connectives are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System").)
 
@@ -1382,7 +1382,7 @@ DeMorgan's Law must also be applied to internal *naku* negations:
 
 That [Example 16.103](/chapter16/#example-16103 "Example 16.103. ") and [Example 16.104](/chapter16/#example-16104 "Example 16.104. ") mean the same should become evident by studying the English. It is a good exercise to work through the Lojban and prove that they are the same.
 
-## selbri variables
+## 16.13. selbri variables
 
 In addition to the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* that we have seen so far, which function as sumti and belong to selma'o KOhA, there are three corresponding variables *[bu'a](/glossary/#bua)*, *[bu'e](/glossary/#bue)*, and *[bu'i](/glossary/#bui)* which function as selbri and belong to selma'o GOhA. These new variables allow existential or universal claims which are about the relationships between objects rather than the objects themselves. We will start with the usual silly examples; the literal translation will represent *[bu'a](/glossary/#bua)*, *[bu'e](/glossary/#bue)* and *[bu'i](/glossary/#bui)* with F, G, and H respectively.
 
@@ -1433,7 +1433,7 @@ As a result, if the number before the variable is anything but *[su'o](/glossary
 
 [Example 16.105](/chapter16/#example-16105 "Example 16.105. ") and [Example 16.106](/chapter16/#example-16106 "Example 16.106. ") are almost certainly true: Jim and John might be brothers, or might live in the same city, or at least have the property of being jointly human. [Example 16.107](/chapter16/#example-16107 "Example 16.107. ") is palpably false, however; if Jim and John were related by every possible relationship, then they would have to be both brothers and father-and-son, which is impossible.
 
-## A few notes on variables
+## 16.14. A few notes on variables
 
 A variable may have a quantifier placed in front of it even though it has already been quantified explicitly or implicitly by a previous appearance, as in:
 
@@ -1465,7 +1465,7 @@ A quantifier can be prefixed to a variable that has already been bound either in
 
 The *pa da* in [Example 16.109](/chapter16/#example-16109 "Example 16.109. ") does not specify the number of things to which *[da](/glossary/#da)* refers, as the preceding *ci da* does. Instead, it selects one of them for use in this sumti only. The number of referents of *[da](/glossary/#da)* remains three, but a single one (there is no way of knowing which one) is selected to be the leader.
 
-## Conclusion
+## 16.15. Conclusion
 
 This chapter is incomplete. There are many more aspects of logic that I neither fully understand nor feel competent to explain, neither in abstract nor in their Lojban realization. Lojban was designed to be a language that makes predicate logic speakable, and achieving that goal completely will need to wait for someone who understands both logic and Lojban better than I do. I can only hope to have pointed out the areas that are well-understood (and by implication, those that are not).
 

@@ -9,7 +9,7 @@ title: 'Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book'
 
 test
 
-## What is Lojban?
+## 1.1. What is Lojban?
 
 Lojban (pronounced “LOZH-bahn”) is a constructed language. Previous versions of the language were called “Loglan” by Dr. James Cooke Brown, who founded the Loglan Project and started the development of the language in 1955. The goals for the language were first described in the open literature in the article “Loglan”, published in *Scientific American*, June, 1960. Made well-known by that article and by occasional references in science fiction (most notably in Robert Heinlein's novel *The Moon Is A Harsh Mistress*) and computer publications, Loglan and Lojban have been built over four decades by dozens of workers and hundreds of supporters, led since 1987 by The Logical Language Group (who are the publishers of this book).
 
@@ -27,7 +27,7 @@ There are thousands of artificial languages (of which Esperanto is the best-know
 - Lojban has a variety of uses, ranging from the creative to the scientific, from the theoretical to the practical.
 - Lojban has been demonstrated in translation and in original works of prose and poetry.
 
-## What is this book?
+## 1.2. What is this book?
 
 This book is what is called a “reference grammar”. It attempts to expound the whole Lojban language, or at least as much of it as is understood at present. Lojban is a rich language with many features, and an attempt has been made to discover the functions of those features. The word “discover” is used advisedly; Lojban was not “invented” by any one person or committee. Often, grammatical features were introduced into the language long before their usage was fully understood. Sometimes they were introduced for one reason, only to prove more useful for other reasons not recognized at the time.
 
@@ -39,7 +39,7 @@ It is probably worth mentioning that this book was written somewhat piecemeal. E
 
 Each chapter has a descriptive title, often involving some play on words; this is an attempt to make the chapters more memorable. The title of [Chapter 1](/chapter01/ "Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book") (which you are now reading), for example, is an allusion to the book *English As We Speak It In Ireland*, by P. W. Joyce, which is a sort of informal reference grammar of Hiberno-English. “Lojbanistan” is both an imaginary country where Lojban is the native language, and a term for the actual community of Lojban-speakers, scattered over the world. Why “mangle”? As yet, nobody in the real Lojbanistan speaks the language at all well, by the standards of the imaginary Lojbanistan; that is one of the circumstances this book is meant to help remedy.
 
-## What are the typographical conventions of this book?
+## 1.3. What are the typographical conventions of this book?
 
 Each chapter is broken into numbered sections; each section contains a mixture of expository text, numbered examples, and possibly tables.
 
@@ -64,13 +64,13 @@ Many of the tables, especially those placed at the head of various sections, are
 
 A few Lojban words are used in this book as technical terms. All of these are explained in [Chapter 2](/chapter02/ "Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams"), except for a few used only in single chapters, which are explained in the introductory sections of those chapters.
 
-## Disclaimers
+## 1.4. Disclaimers
 
 It is necessary to add, alas, that the examples used in this book do not refer to any existing person, place, or institution, and that any such resemblance is entirely coincidental and unintentional, and not intended to give offense.
 
 When definitions and place structures of gismu, and especially of lujvo, are given in this book, they may differ from those given in the English-Lojban dictionary (which, as of this writing, is not yet published). If so, the information given in the dictionary supersedes whatever is given here.
 
-## Acknowledgements and Credits
+## 1.5. Acknowledgements and Credits
 
 Although the bulk of this book was written for the Logical Language Group (LLG) by John Cowan, who is represented by the occasional authorial “I”, certain chapters were first written by others and then heavily edited by me to fit into this book.
 
@@ -88,7 +88,7 @@ Nick Nicholas (NSN) would like to thank the following Lojbanists: Mark Shoulson,
 
 Of course, the entire Loglan Project owes a considerable debt to James Cooke Brown as the language inventor, and also to several earlier contributors to the development of the language. Especially noteworthy are Doug Landauer, Jeff Prothero, Scott Layson, Jeff Taylor, and Bob McIvor. Final responsibility for the remaining errors and infelicities is solely mine.
 
-## Informal Bibliography
+## 1.6. Informal Bibliography
 
 The founding document for the Loglan Project, of which this book is one of the products, is *Loglan 1: A Logical Language* by James Cooke Brown (4th ed. 1989, The Loglan Institute, Gainesville, Florida, U.S.A.). The language described therein is not Lojban, but is very close to it and may be considered an ancestral version. It is regrettably necessary to state that nothing in this book has been approved by Dr. Brown, and that the very existence of Lojban is disapproved of by him.
 
@@ -100,7 +100,7 @@ Of course, neither Brown nor Quine nor Horn is in any way responsible for the us
 
 Depending on just when you are reading this book, there may be three other books about Lojban available: a textbook, a Lojban/English dictionary, and a book containing general information about Lojban. You can probably get these books, if they have been published, from the same place where you got this book. In addition, other books not yet foreseen may also exist.
 
-## Captions to Pictures
+## 1.7. Captions to Pictures
 
 The following examples list the Lojban caption, with a translation, for the picture at the head of each chapter. If a chapter's picture has no caption, “(none)” is specified instead.
 
@@ -128,7 +128,7 @@ The following examples list the Lojban caption, with a translation, for the pict
 | [Chapter 20](/chapter20/) | (none)                                                                                                                                                                                                                                                                |
 | [Chapter 21](/chapter21/) | (none)                                                                                                                                                                                                                                                                |
 
-## Boring Legalities
+## 1.8. Boring Legalities
 
 Copyright © 1997 by The Logical Language Group, Inc. All Rights Reserved.
 

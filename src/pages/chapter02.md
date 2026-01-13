@@ -7,7 +7,7 @@ title: 'Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams'
 
 ## Contents
 
-## The concept of the bridi
+## 2.1. The concept of the bridi
 
 This chapter gives diagrammed examples of basic Lojban sentence structures. The most general pattern is covered first, followed by successive variations on the basic components of the Lojban sentence. There are many more capabilities not covered in this chapter, but covered in detail in later chapters, so this chapter is a “quick tour” of the material later covered more slowly throughout the book. It also introduces most of the Lojban words used to discuss Lojban grammar.
 
@@ -59,7 +59,7 @@ This book uses the Lojban terms *[bridi](/glossary/#bridi)*, *[sumti](/glossary/
 
 The Lojban examples in this chapter (but not in the rest of the book) use boldface (as well as the usual italics) for selbri, to help you to tell them apart.
 
-## Pronunciation
+## 2.2. Pronunciation
 
 Detailed pronunciation and spelling rules are given in [Chapter 3](/chapter03/ "Chapter 3. The Hills Are Alive With The Sounds Of Lojban"), but what follows will keep the reader from going too far astray while digesting this chapter.
 
@@ -75,7 +75,7 @@ Stress falls on the next to the last syllable of all words, unless that vowel is
 
 All Lojban words are pronounced as they are spelled: there are no silent letters.
 
-## Words that can act as sumti
+## 2.3. Words that can act as sumti
 
 Here is a short table of single words used as sumti. This table provides examples only, not the entire set of such words, which may be found in [Section 7.16](/chapter07/#koha-cmavo-by-series "7.16. KOhA cmavo by series").
 
@@ -101,7 +101,7 @@ Names may also be used as sumti, provided they are preceded with the word *[la](
 
 Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#lojban-names "6.12. Lojban names") for more information.
 
-## Some words used to indicate selbri relations
+## 2.4. Some words used to indicate selbri relations
 
 Here is a short table of some words used as Lojban selbri in this chapter:
 
@@ -126,7 +126,7 @@ Each selbri (relation) has a specific rule that defines the role of each sumti i
 
 Like the table in [Section 2.3](/chapter02/#words-that-can-act-as-sumti "2.3. Words that can act as sumti"), this table is far from complete: in fact, no complete table can exist, because Lojban allows new words to be created (in specified ways) whenever a speaker or writer finds the existing supply of words inadequate. This notion is a basic difference between Lojban (and some other languages such as German and Chinese) and English; in English, most people are very leery of using words that “aren't in the dictionary”. Lojbanists are encouraged to invent new words; doing so is a major way of participating in the development of the language. [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") explains how to make new words, and [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures") explains how to give them appropriate meanings.
 
-## Some simple Lojban bridi
+## 2.5. Some simple Lojban bridi
 
 Let's look at a simple Lojban bridi. The place structure of the gismu *[tavla](/glossary/#tavla)* is
 
@@ -202,7 +202,7 @@ When there are one or more occurrences of the cmavo *[zo'e](/glossary/#zoe)* at 
 
 Note that [Example 2.13](/chapter02/#example-213 "Example 2.13. ") is not subject to ellipsis by this direct method, as the *[zo'e](/glossary/#zoe)* in it is not at the end of the bridi.
 
-## Variant bridi structure
+## 2.6. Variant bridi structure
 
 Consider the sentence
 
@@ -213,7 +213,6 @@ Consider the sentence
 | mi        | \[cu\] | vecnu | ti            | ta       | zo'e            |
 | seller-x1 | -      | sells | goods-sold-x2 | buyer-x3 | price-x4        |
 | I         | -      | sell  | this          | to that  | for some price. |
-
 
 - *I sell this-thing/these-things to that-buyer/those-buyers. (the price is obvious or unimportant)*
 
@@ -227,7 +226,6 @@ Consider the sentence
 | seller-x1 | goods-sold-x2 | -      | sells | buyer-x3 |
 | I         | this          | -      | sell  | to that. |
 
-
 - *(translates as stilted or poetic English) I this thing do sell to that buyer.*
 
 ##### Example 2.18.
@@ -237,7 +235,6 @@ Consider the sentence
 | mi        | ti            | ta       | \[cu\] | vecnu |
 | seller-x1 | goods-sold-x2 | buyer-x3 | -      | sells |
 | I         | this          | to that  | -      | sell  |
-
 
 - *(translates as stilted or poetic English) I this thing to that buyer do sell.*
 
@@ -272,7 +269,7 @@ Omitting the x1 adds emphasis to the selbri relation, which has become first in 
 
 The word *[cu](/glossary/#cu)* does not occur in an observative; *[cu](/glossary/#cu)* is a separator, and there must be a sumti before the selbri that needs to be kept separate for *[cu](/glossary/#cu)* to be used. With no sumti preceding the selbri, *[cu](/glossary/#cu)* is not permitted. Short words like *[cu](/glossary/#cu)* which serve grammatical functions are called *[cmavo](/glossary/#cmavo)* in Lojban.
 
-## Varying the order of sumti
+## 2.7. Varying the order of sumti
 
 For one reason or another you may want to change the order, placing one particular sumti at the front of the bridi. The cmavo *[se](/glossary/#se)*, when placed before the last word of the selbri, will switch the meanings of the first and second sumti places. So
 
@@ -322,7 +319,7 @@ More than one of these operators may be used on a given selbri at one time, and 
 
 The effect is similar to what in English is called the “passive voice”. In Lojban, the converted selbri has a new place structure that is renumbered to reflect the place reversal, thus having effects when such a conversion is used in combination with other constructs such as *le selbri \[ku\]* (see [Section 2.10](/chapter02/#description-sumti "2.10. Description sumti")).
 
-## The basic structure of longer utterances
+## 2.8. The basic structure of longer utterances
 
 People don't always say just one sentence. Lojban has a specific structure for talk or writing that is longer than one sentence. The entirety of a given speech event or written text is called an utterance. The sentences (usually, but not always, bridi) in an utterance are separated by the cmavo *[ni'o](/glossary/#nio)* and *[i](/glossary/#i)*. These correspond to a brief pause (or nothing at all) in spoken English, and the various punctuation marks like period, question mark, and exclamation mark in written English. These separators prevent the sumti at the beginning of the next sentence from being mistaken for a trailing sumti of the previous sentence.
 
@@ -332,7 +329,7 @@ The cmavo *[i](/glossary/#i)* separates sentences. It is sometimes compounded wi
 
 It is still O.K. for a new speaker to say the *[i](/glossary/#i)* before continuing; indeed, it is encouraged for maximum clarity (since it is possible that the second speaker might merely be adding words onto the end of the first speaker's sentence). A good translation for *[i](/glossary/#i)* is the “and” used in run-on sentences when people are talking informally: “I did this, and then I did that, and ..., and ...”.
 
-## tanru
+## 2.9. tanru
 
 When two gismu are adjacent, the first one modifies the second, and the selbri takes its place structure from the rightmost word. Such combinations of gismu are called *[tanru](/glossary/#tanru)*. For example,
 
@@ -451,7 +448,7 @@ Note that there is no place structure change if the modifying term is converted,
 
 and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.
 
-## Description sumti
+## 2.10. Description sumti
 
 Often we wish to talk about things other than the speaker, the listener and things we can point to. Let's say I want to talk about a talker other than *[mi](/glossary/#mi)*. What I want to talk about would naturally fit into the first place of *[tavla](/glossary/#tavla)*. Lojban, it turns out, has an operator that pulls this first place out of a selbri and converts it to a sumti called a “description sumti”. The description sumti *le tavla ku* means “the talker”, and may be used wherever any sumti may be used.
 
@@ -529,7 +526,7 @@ The sumti *le vecnu* contains the selbri *[vecnu](/glossary/#vecnu)*, which has 
 
 It is safe to omit both occurrences of *[ku](/glossary/#ku)* in [Example 2.45](/chapter02/#example-245 "Example 2.45. "), and it is also safe to omit the *[cu](/glossary/#cu)*.
 
-## Examples of brivla
+## 2.11. Examples of brivla
 
 The simplest form of selbri is an individual word. A word which may by itself express a selbri relation is called a *[brivla](/glossary/#brivla)*. The three types of brivla are gismu (root words), lujvo (compounds), and fu'ivla (borrowings from other languages). All have identical grammatical uses. So far, most of our selbri have been gismu or tanru built from gismu.
 
@@ -573,7 +570,7 @@ Some cmavo may also serve as selbri, acting as variables that stand for another 
 
 - *That (is spaghetti), too.*
 
-## The sumti *di'u* and *la'e di'u*
+## 2.12. The sumti *di'u* and *la'e di'u*
 
 In English, I might say “The dog is beautiful”, and you might reply “This pleases me.” How do you know what “this” refers to? Lojban uses different expressions to convey the possible meanings of the English:
 
@@ -613,7 +610,7 @@ The following three sentences all might translate as “This pleases me.”
 
 [Example 2.53](/chapter02/#example-253 "Example 2.53. ") uses one sumti to point to or refer to another by inference. It is common to write *[la'edi'u](/glossary/#laediu)* as a single word; it is used more often than *[di'u](/glossary/#diu)* by itself.
 
-## Possession
+## 2.13. Possession
 
 “Possession” refers to the concept of specifying an object by saying who it belongs to (or with). A full explanation of Lojban possession is given in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated"). A simple means of expressing possession, however, is to place a sumti representing the possessor of an object within the description sumti that refers to the object: specifically, between the *[le](/glossary/#le)* and the selbri of the description:
 
@@ -628,7 +625,7 @@ The following three sentences all might translate as “This pleases me.”
 
 In Lojban, possession doesn't necessarily mean ownership: one may “possess” a chair simply by sitting on it, even though it actually belongs to someone else. English uses possession casually in the same way, but also uses it to refer to actual ownership or even more intimate relationships: “my arm” doesn't mean “some arm I own” but rather “the arm that is part of my body”. Lojban has methods of specifying all these different kinds of possession precisely and easily.
 
-## Vocatives and commands
+## 2.14. Vocatives and commands
 
 You may call someone's attention to the fact that you are addressing them by using *[doi](/glossary/#doi)* followed by their name. The sentence
 
@@ -710,7 +707,7 @@ and
 
 both mean “You take care of you” and “Be taken care of by you”, or to put it colloquially, “Take care of yourself”.
 
-## Questions
+## 2.15. Questions
 
 There are many kinds of questions in Lojban: full explanations appear in [Section 19.5](/chapter19/#questions-and-answers "19.5. Questions and answers") and in various other chapters throughout the book. In this chapter, we will introduce three kinds: sumti questions, selbri questions, and yes/no questions.
 
@@ -865,7 +862,7 @@ or
 
 A general negative answer may be given by *na go'i*. *[na](/glossary/#na)* may be placed before any selbri (but after the *[cu](/glossary/#cu)*). It is equivalent to stating “It is not true that ...” before the bridi. It does not imply that anything else is true or untrue, only that that specific bridi is not true. More details on negative statements are available in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation").
 
-## Indicators
+## 2.16. Indicators
 
 Different cultures express emotions and attitudes with a variety of intonations and gestures that are not usually included in written language. Some of these are available in some languages as interjections (i.e. “Aha!”, “Oh no!”, “Ouch!”, “Aahh!”, etc.), but they vary greatly from culture to culture.
 
@@ -940,7 +937,7 @@ Another group of indicators are called “evidentials”. Evidentials show the s
 | za'a                | do  | \[cu\] | melbi          |
 | I directly observe! | You | -      | are beautiful. |
 
-## Tenses
+## 2.17. Tenses
 
 In English, every verb is tagged for the grammatical category called tense: past, present, or future. The sentence
 
@@ -1030,7 +1027,7 @@ Furthermore, a tense tag can appear both on the selbri and within a description,
 - *The talker who is here will go.*
 - *This talker will go.*
 
-## Lojban grammatical terms
+## 2.18. Lojban grammatical terms
 
 Here is a review of the Lojban grammatical terms used in this chapter, plus some others used throughout this book. Only terms that are themselves Lojban words are included: there are of course many expressions like “indicator” in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic") that are not explained here. See the Index for further help with these.
 

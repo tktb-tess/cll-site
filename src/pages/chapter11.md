@@ -7,7 +7,7 @@ title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Loj
 
 ## Contents
 
-## The syntax of abstraction
+## 11.1. The syntax of abstraction
 
 The purpose of the feature of Lojban known as “abstraction” is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until [Section 11.2](/chapter11/#event-abstraction "11.2. Event abstraction").
 
@@ -20,8 +20,6 @@ An abstraction selbri is formed by taking a full bridi and preceding it by any c
 | mi  | klama | le  | zarci |
 | I   | go-to | the | store |
 
-
-
 into an abstraction using *[nu](/glossary/#nu)*, one of the members of selma'o NU, we change it into
 
 ##### Example 11.2.
@@ -30,8 +28,6 @@ into an abstraction using *[nu](/glossary/#nu)*, one of the members of selma'o N
 | ----------- | --- | -------- | --- | ----- | ------ |
 | nu          | mi  | klama    | le  | zarci | \[kei\] |
 | an-event-of | my  | going-to | the | store |        |
-
-
 
 The bridi may be a simple selbri, or it may have associated sumti, as here. It is important to beware of eliding *[kei](/glossary/#kei)* improperly, as many of the common uses of abstraction selbri involve following them with words that would appear to be part of the abstraction if *[kei](/glossary/#kei)* had been elided.
 
@@ -50,8 +46,6 @@ The grammatical uses of an abstraction selbri are exactly the same as those of a
 | --------------------------- |
 | John wants to be a soldier. |
 
-
-
 Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary/#le)* (or any other member of selma'o LE):
 
 ##### Example 11.4.
@@ -61,15 +55,13 @@ Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary
 | la         | djan. | cu  | djica   | le  | nu       | sonci            | \[kei\] |
 | That-named | John  |     | desires | the | event-of | being-a-soldier. |        |
 
-
-
 We will most often use descriptions containing abstraction either at the end of a bridi, or just before the main selbri with its *[cu](/glossary/#cu)*; in either of these circumstances, *[kei](/glossary/#kei)* can normally be elided.
 
 The place structure of an abstraction selbri depends on the particular abstractor, and will be explained individually in the following sections.
 
 Note: In glosses of bridi within abstractions, the grammatical form used in the English changes. Thus, in the gloss of [Example 11.2](/chapter11/#example-112 "Example 11.2. ") we see “my going-to the store” rather than “I go-to the store”; likewise, in the glosses of [Example 11.3](/chapter11/#example-113 "Example 11.3. ") and [Example 11.4](/chapter11/#example-114 "Example 11.4. ") we see “being-a-soldier” rather than “is-a-soldier”. This procedure reflects the desire for more understandable glosses, and does not indicate any change in the Lojban form. A bridi is a bridi, and undergoes no change when it is used as part of an abstraction selbri.
 
-## Event abstraction
+## 11.2. Event abstraction
 
 The following cmavo is discussed in this section:
 
@@ -89,8 +81,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 | --------------------------- |
 | the comer, that which comes |
 
-
-
 ##### Example 11.6.
 
 |     |     |       |
@@ -100,8 +90,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 |                 |
 | --------------- |
 | the destination |
-
-
 
 ##### Example 11.7.
 
@@ -113,8 +101,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 | ---------- |
 | the origin |
 
-
-
 ##### Example 11.8.
 
 |     |     |       |
@@ -124,8 +110,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 |           |
 | --------- |
 | the route |
-
-
 
 ##### Example 11.9.
 
@@ -137,8 +121,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 | --------------------------- |
 | the means of transportation |
 
-
-
 ##### Example 11.10.
 
 |     |     |       |
@@ -148,8 +130,6 @@ The examples in [Section 11.1](/chapter11/#the-syntax-of-abstraction "11.1. The 
 |                                                                                        |
 | -------------------------------------------------------------------------------------- |
 | the event of someone coming to somewhere from somewhere by some route using some means |
-
-
 
 [Example 11.5](/chapter11/#example-115 "Example 11.5. ") through [Example 11.9](/chapter11/#example-119 "Example 11.9. ") are descriptions that isolate the five individual sumti places of the selbri *[klama](/glossary/#klama)*. [Example 11.10](/chapter11/#example-1110 "Example 11.10. ") describes something associated with the bridi as a whole: the event of it.
 
@@ -162,8 +142,6 @@ In Lojban, the term “event” is divorced from its ordinary English sense of s
 | le  | nu       | mi  | vasxu     |
 | the | event-of | my  | breathing |
 
-
-
 is an event which lasts for the whole of my life (under normal circumstances). On the other hand,
 
 ##### Example 11.12.
@@ -172,8 +150,6 @@ is an event which lasts for the whole of my life (under normal circumstances). O
 | --- | -------- | ---------- | ----- | ------- | ---------- | ------ |
 | le  | nu       | la         | djan. | cinba   | la         | djein. |
 | the | event-of | that-named | John  | kissing | that-named | Jane   |
-
-
 
 is relatively brief by comparison (again, under normal circumstances).
 
@@ -190,8 +166,6 @@ We can see from [Example 11.10](/chapter11/#example-1110 "Example 11.10. ") thro
 | ---------------- |
 | I like swimming. |
 
-
-
 is elliptical, and most probably means:
 
 ##### Example 11.14.
@@ -200,8 +174,6 @@ is elliptical, and most probably means:
 | --- | ----- | --- | -------- | --- | ----- |
 | mi  | nelci | le  | nu       | mi  | limna |
 | I   | like  | the | event-of | I   | swim. |
-
-
 
 In the proper context, of course, [Example 11.13](/chapter11/#example-1113 "Example 11.13. ") could refer to the event of somebody else swimming. Its English equivalent, “I like swimming”, can't be interpreted as “I like Frank's swimming”; this is a fundamental distinction between English and Lojban. In Lojban, an omitted sumti can mean whatever the context indicates that it should mean.
 
@@ -217,8 +189,6 @@ Note that the lack of an explicit NU cmavo in a sumti can sometimes hide an impl
 |                                       |
 | ------------------------------------- |
 | The thing which I like happens often. |
-
-
 
 which in this context means
 
@@ -242,15 +212,13 @@ Event descriptions with *le nu* are commonly used to fill the “under condition
 | ----------------------------------- |
 | Lojban is easy for me when I study. |
 
-
-
 (The “when” of the English would also be appropriate for a construction involving a Lojban tense, but the Lojban sentence says more than that the studying is concurrent with the ease.)
 
 The place structure of a *[nu](/glossary/#nu)* abstraction selbri is simply:
 
 > x1 is an event of (the bridi)
 
-## Types of event abstractions
+## 11.3. Types of event abstractions
 
 The following cmavo are discussed in this section:
 
@@ -276,8 +244,6 @@ An event considered as a point in time is called a “point-event”, or sometim
 | -------------------------------------------------------------- |
 | John's killing Jim (considered as a point in time) is a crime. |
 
-
-
 An event considered as extended in time, and structured with a beginning, a middle containing one or more stages, and an end, is called a “process”. The abstractor *[pu'u](/glossary/#puu)* means “process-of”:
 
 ##### Example 11.18.
@@ -296,8 +262,6 @@ An event considered as extended in time, and structured with a beginning, a midd
 | --------------------------------------------------------------- |
 | During the fall of the Roman Empire, many Emperors were killed. |
 
-
-
 An event considered as extended in time and cyclic or repetitive is called an “activity”. The abstractor *[zu'o](/glossary/#zuo)* means “activity-of”:
 
 ##### Example 11.19.
@@ -311,8 +275,6 @@ An event considered as extended in time and cyclic or repetitive is called an �
 | -------------------------- |
 | I am tired because I jump. |
 
-
-
 An event considered as something that is either happening or not happening, with sharp boundaries, is called a “state”. The abstractor *[za'i](/glossary/#zai)* means “state-of”:
 
 ##### Example 11.20.
@@ -325,8 +287,6 @@ An event considered as something that is either happening or not happening, with
 |                                     |
 | ----------------------------------- |
 | My being alive is dangerous to you. |
-
-
 
 The abstractors in [Example 11.17](/chapter11/#example-1117 "Example 11.17. ") through [Example 11.20](/chapter11/#example-1120 "Example 11.20. ") could all have been replaced by *[nu](/glossary/#nu)*, with some loss of precision. Note that Lojban allows every sort of event to be viewed in any of these four ways:
 
@@ -347,7 +307,7 @@ The four event type abstractors have the following place structures:
 > *za'i*: x1 is a continuous state of (the bridi) being true
 > *zu'o*: x1 is an activity of (the bridi) consisting of repeated actions x2
 
-## Property abstractions
+## 11.4. Property abstractions
 
 The following cmavo are discussed in this section:
 
@@ -624,7 +584,7 @@ is not the same as
 Whenever we talk of measurement of an amount, there is some sort of scale, and so the place structure of *[ni](/glossary/#ni)* abstraction selbri is:
 > *[*ni*](/glossary/#ni)* x1 is the amount of (the bridi) on scale x2 Note: the best way to express the x2 places of abstract sumti is to use something like *le ni ... kei be*. See [Example 11.62](/chapter11/#example-1162 "Example 11.62. ") for the use of this construction.
 
-## Truth-value abstraction: *jei*
+## 11.5. Truth-value abstraction: *jei*
 
 The “blueness of the picture” discussed in [Section 11.5](/chapter11/#amount-abstractions "11.5. Amount abstractions") refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Lojban using *[jei](/glossary/#jei)*, which is closely related semantically to *[ni](/glossary/#ni)*. In the simplest cases, *le jei* produces not a number but a truth value:
 
@@ -676,7 +636,7 @@ However, not everything in life (or even in Lojban) is simply true or false. The
 
 Abstractions using *[jei](/glossary/#jei)* are the mechanism for fuzzy logic in Lojban; the *[jei](/glossary/#jei)* abstraction refers to a number between 0 and 1 inclusive (as distinct from *[ni](/glossary/#ni)* abstractions, which are often on open-ended scales). The detailed conventions for using *[jei](/glossary/#jei)* in fuzzy-logic contexts have not yet been established.
 
-## Predication/sentence abstraction
+## 11.6. Predication/sentence abstraction
 
 The following cmavo is discussed in this section:
 
@@ -884,7 +844,7 @@ because the x3 place of *[djuno](/glossary/#djuno)* is the subject of knowledge,
 
 In addition, [Example 11.56](/chapter11/#example-1156 "Example 11.56. ") is only a loose paraphrase of [Example 11.52](/chapter11/#example-1152 "Example 11.52. "), because it is left to the listener's insight to realize that what is known about the goer-to-the-store is his identity rather than some other of his attributes.
 
-## Minor abstraction types
+## 11.7. Minor abstraction types
 
 The following cmavo are discussed in this section:
 
@@ -985,7 +945,7 @@ and there is a book whose title might be rendered in Lojban as:
 
 Note the importance of using *[kei](/glossary/#kei)* after *[su'u](/glossary/#suu)* when the x2 of *[su'u](/glossary/#suu)* (or any other abstractor) is being specified; otherwise, the *be lo* ends up inside the abstraction bridi.
 
-## Lojban sumti raising
+## 11.8. Lojban sumti raising
 
 The following cmavo are discussed in this section:
 
@@ -1093,7 +1053,7 @@ The weakness of *[jai](/glossary/#jai)* used in descriptions in this way is that
 | le            | jai gau  | rinka   | be  | le  | nu       | do   | morsi |     |
 | that-which-is | agent-in | causing | (   | the | event-of | your | death | )   |
 
-## Event-type abstractors and event contour tenses
+## 11.9. Event-type abstractors and event contour tenses
 
 This section is a logical continuation of [Section 11.3](/chapter11/#types-of-event-abstractions "11.3. Types of event abstractions").
 
@@ -1115,7 +1075,7 @@ For events seen as point-events and abstracted with *[mu'e](/glossary/#mue)*, th
 
 Note that the parts of events are themselves events, and may be treated as such. The points in time may be seen as *[mu'e](/glossary/#mue)* point-events; the spans of time may constitute processes or activities. Therefore, Lojban allows us to refer to processes within processes, activities within states, and many other complicated abstract things.
 
-## Abstractor connection
+## 11.10. Abstractor connection
 
 An abstractor may be replaced by two or more abstractors joined by logical or non-logical connectives. Connectives are explained in detail in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System"). The connection can be expanded to one between two bridi which differ only in abstraction marker. [Example 11.74](/chapter11/#example-1174 "Example 11.74. ") and [Example 11.75](/chapter11/#example-1175 "Example 11.75. ") are equivalent in meaning:
 
@@ -1143,7 +1103,7 @@ An abstractor may be replaced by two or more abstractors joined by logical or no
 
 This feature of Lojban has hardly ever been used, and nobody knows what uses it may eventually have.
 
-## Table of abstractors
+## 11.11. Table of abstractors
 
 The following table gives each abstractor, an English gloss for it, a Lojban gismu which is connected with it (more or less remotely: the associations between abstractors and gismu are meant more as memory hooks than for any kind of inference), the rafsi associated with it, and (on the following line) its place structure.
 
