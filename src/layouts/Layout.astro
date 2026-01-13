@@ -9,18 +9,23 @@ export interface Props {
   };
   readonly file: string;
   readonly url: string;
-  getHeadings: () => {
+  readonly getHeadings: () => {
     depth: number;
     slug: string;
     text: string;
   }[];
-  rawContent: () => string;
-  compiledContent: () => string;
+  readonly rawContent: () => string;
+  readonly compiledContent: () => string;
 }
 
-const { frontmatter, url } = Astro.props;
-console.log(Astro.props);
+const { frontmatter } = Astro.props;
+const url = (() => {
+  const url = Astro.props.url;
+  return url !== '' ? url : '/';
+})();
+
 const index = linkTitles.findIndex(([k]) => k === url);
+
 const prev = index > 0 ? linkTitles.at(index - 1) : undefined;
 const next =
   index >= 0 && index < linkTitles.length - 1

@@ -1,5 +1,5 @@
 export const linkTitles: [string, string][] = [
-  ['', 'The Complete Lojban Language'],
+  ['/', 'The Complete Lojban Language'],
   ['/chapter01/', 'Chapter 01'],
   ['/chapter02/', 'Chapter 02'],
   ['/chapter03/', 'Chapter 03'],
