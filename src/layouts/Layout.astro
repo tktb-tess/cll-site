@@ -38,6 +38,70 @@ const next =
     <meta charset='utf-8' />
     <meta name='viewport' content='width=device-width,initial-scale=1' />
     <meta name='generator' content={Astro.generator} />
+
+    <!-- preloads -->
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Inter/InterVariable.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Inter/InterVariable-Italic.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-Regular.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-Medium.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-SemiBold.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-Bold.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-Italic.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-MediumItalic.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-SemiBoldItalic.woff2'
+      crossorigin='anonymous'
+    />
+    <link
+      rel='preload'
+      as='font'
+      href='https://api.tktb-tess.dev/fonts/Charis/Charis-BoldItalic.woff2'
+      crossorigin='anonymous'
+    />
+
+    <!-- font-face -->
     <link
       rel='stylesheet'
       href='https://api.tktb-tess.dev/fonts/Inter/font-face.css'
@@ -48,6 +112,8 @@ const next =
       href='https://api.tktb-tess.dev/fonts/Charis/font-face.css'
       crossorigin='anonymous'
     />
+
+    <!-- KaTeX -->
     <link
       rel='stylesheet'
       href='https://cdn.jsdelivr.net/npm/katex@0.16.27/dist/katex.min.css'
@@ -64,8 +130,8 @@ const next =
       >
         <p class='text-center text-xl'>The Complete Lojban Language</p>
         <div class='flex justify-center gap-4'>
-          {prev && <a href={prev[0]}>Prev: {prev[1]}</a>}
-          {next && <a href={next[0]}>Next: {next[1]}</a>}
+          {prev && <a href={prev[0]}>← {prev[1]}</a>}
+          {next && <a href={next[0]}>{next[1]} →</a>}
         </div>
         <p class='text-center'><a href='/'>Table of Contents</a></p>
         <p class='text-center'>

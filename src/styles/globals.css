@@ -15,27 +15,31 @@
   }
 
   #md-root {
-    @apply flow-root prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
-    prose-a:hover:opacity-60 wrap-anywhere;
+    @apply flow-root prose prose-slate dark:prose-invert w-full
+    max-w-7xl mx-auto px-4 prose-a:hover:opacity-60 wrap-anywhere;
 
-    :where(h1#title) {
+    h1:where(#title) {
       @apply font-extralight text-center my-12;
     }
 
-    :where(h2, h3, h4) {
+    :is(h2, h3, h4) {
       @apply font-normal;
     }
 
-    :where(h5, h6) {
+    :is(h5, h6) {
       @apply font-semibold;
     }
 
-    :where(img) {
+    img {
       @apply mx-auto;
     }
 
-    :where(table) {
+    table {
       @apply lg:max-w-max lg:me-auto;
+    }
+
+    li > :where(p) {
+      @apply my-3;
     }
   }
 }
