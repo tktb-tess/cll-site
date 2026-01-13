@@ -43,8 +43,8 @@
     }
 
     /* toc */
-    :where(h2#contents) + ol {
-      @apply bg-violet-50 border border-slate-300 rounded ps-10;
+    :where(h2#contents) + ul {
+      @apply bg-violet-50 border border-slate-300 rounded;
     }
   }
 }
