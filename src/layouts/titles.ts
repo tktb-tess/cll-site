@@ -1,4 +1,4 @@
-export const linkTitles: [string, string][] = [
+export const linkTitles: readonly (readonly [string, string])[] = [
   ['/', 'The Complete Lojban Language'],
   ['/chapter01/', 'Chapter 01'],
   ['/chapter02/', 'Chapter 02'],

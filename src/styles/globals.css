@@ -18,6 +18,10 @@
     @apply flow-root prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
     prose-a:hover:opacity-60 wrap-anywhere;
 
+    :where(h1#title) {
+      @apply font-extralight text-center my-12;
+    }
+
     :where(h2, h3, h4) {
       @apply font-normal;
     }

@@ -25,7 +25,6 @@ const url = (() => {
 })();
 
 const index = linkTitles.findIndex(([k]) => k === url);
-
 const prev = index > 0 ? linkTitles.at(index - 1) : undefined;
 const next =
   index >= 0 && index < linkTitles.length - 1
@@ -76,7 +75,7 @@ const next =
         </p>
       </header>
       <main>
-        <h1 class='font-extralight text-center my-12'>
+        <h1 id='title'>
           {frontmatter.title}
         </h1>
         <slot />
