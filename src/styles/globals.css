@@ -16,13 +16,21 @@
 
   #md-root {
     @apply flow-root prose prose-slate dark:prose-invert w-full max-w-7xl mx-auto px-4
-    prose-headings:font-normal prose-a:hover:opacity-60 wrap-anywhere;
+    prose-a:hover:opacity-60 wrap-anywhere;
 
-    img {
+    :where(h2, h3, h4) {
+      @apply font-normal;
+    }
+
+    :where(h5, h6) {
+      @apply font-semibold;
+    }
+
+    :where(img) {
       @apply mx-auto;
     }
 
-    table {
+    :where(table) {
       @apply lg:max-w-max lg:me-auto;
     }
   }
