@@ -41,6 +41,11 @@
     li > :where(p) {
       @apply my-3;
     }
+
+    /* toc */
+    :where(h2#contents) + ol {
+      @apply bg-sky-50 border border-slate-300 rounded;
+    }
   }
 }
 
