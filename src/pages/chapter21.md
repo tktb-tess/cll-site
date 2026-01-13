@@ -15,1257 +15,1259 @@ This EBNF document is explicitly dedicated to the public domain by its author, T
 
 Explanation of notation: All rules have the form:
 
-name number= bnf-expression
+<span class="font-mono">name<sub>number</sub> = bnf-expression</span>
 
 which means that the grammatical construct “name” is defined by “bnf-expression”. The number cross-references this grammar with the rule numbers in the YACC grammar. The names are the same as those in the YACC grammar, except that subrules are labeled with A, B, C, ... in the YACC grammar and with 1, 2, 3, ... in this grammar. In addition, rule 971 is “simple\*tag” in the YACC grammar but “stag” in this grammar, because of its frequent appearance.
 
 1. Names in lower case are grammatical constructs.
-
 2. Names in UPPER CASE are selma'o (lexeme) names, and are terminals.
-
 3. Concatenation is expressed by juxtaposition with no operator symbol.
-
 4. \| represents alternation (choice).
-
-5. \[] represents an optional element.
-
+5. \[\] represents an optional element.
 6. & represents and/or (“A & B” is the same as “A | B | A B”).
-
 7. ... represents optional repetition of the construct to the left. Left-grouping is implied; right-grouping is shown by explicit self-referential recursion with no “...”
-
 8. () serves to indicate the grouping of the other operators. Otherwise, “...” binds closer than &, which binds closer than |.
-
 9. \# is shorthand for “\[free ...\]”, a construct which appears in many places.
-
 10. // encloses an elidable terminator, which may be omitted (without change of meaning) if no grammatical ambiguity results.
 
-- text 0=
+<div class="font-mono overflow-auto max-w-full text-nowrap [&_p]:m-2 [&_p:nth-child(even)]:ps-8">
 
-  \[NAI ...\] \[CMENE ... # | (indicators & free ...)\] \[joik-jek\] text-1
+text<sub>0</sub> =
 
-- text-1 2=
+\[NAI ...\] \[CMENE ... # | (indicators & free ...)\] \[joik-jek\] text-1
 
-  \[(I \[jek | joik\] \[\[stag\] BO] #) ... | NIhO ... #] \[paragraphs\]
+text-1<sub>2</sub> =
 
-- paragraphs 4=
+\[(I \[jek | joik\] \[\[stag\] BO] #) ... | NIhO ... #] \[paragraphs\]
 
-  paragraph \[NIhO ... # paragraphs\]
+paragraphs<sub>4</sub> =
 
-- paragraph 10=
+paragraph \[NIhO ... # paragraphs\]
 
-  (statement | fragment) \[I # \[statement | fragment]\] ...
+paragraph<sub>10</sub> =
 
-- statement 11=
+(statement | fragment) \[I # \[statement | fragment]\] ...
 
-  statement-1 | prenex statement
+statement<sub>11</sub> =
 
-- statement-1 12=
+statement-1 | prenex statement
 
-  statement-2 \[I joik-jek \[statement-2]\] ...
+statement-1<sub>12</sub> =
 
-- statement-2 13=
+statement-2 \[I joik-jek \[statement-2]\] ...
 
-  statement-3 \[I \[jek | joik\] \[stag\] BO # \[statement-2]\]
+statement-2<sub>13</sub> =
 
-- statement-3 14=
+statement-3 \[I \[jek | joik\] \[stag\] BO # \[statement-2]\]
 
-  sentence | \[tag\] TUhE # text-1 /TUhU#/
+statement-3<sub>14</sub> =
 
-- fragment 20=
+sentence | \[tag\] TUhE # text-1 /TUhU#/
 
-  ek # | gihek # | quantifier | NA # | terms /VAU#/ | prenex | relative-clauses | links | linkargs
+fragment<sub>20</sub> =
 
-- prenex 30=
+ek # | gihek # | quantifier | NA # | terms /VAU#/ | prenex | relative-clauses | links | linkargs
 
-  terms ZOhU #
+prenex<sub>30</sub> =
 
-- sentence 40=
+terms ZOhU #
 
-  \[terms \[CU #]\] bridi-tail
+sentence<sub>40</sub> =
 
-- subsentence 41=
+\[terms \[CU #]\] bridi-tail
 
-  sentence | prenex subsentence
+subsentence<sub>41</sub> =
 
-- bridi-tail 50=
+sentence | prenex subsentence
 
-  bridi-tail-1 \[gihek \[stag\] KE # bridi-tail /KEhE#/ tail-terms]
+bridi-tail<sub>50</sub> =
 
-- bridi-tail-1 51=
+bridi-tail-1 \[gihek \[stag\] KE # bridi-tail /KEhE#/ tail-terms]
 
-  bridi-tail-2 \[gihek # bridi-tail-2 tail-terms\] ...
+bridi-tail-1<sub>51</sub> =
 
-- bridi-tail-2 52=
+bridi-tail-2 \[gihek # bridi-tail-2 tail-terms\] ...
 
-  bridi-tail-3 \[gihek \[stag\] BO # bridi-tail-2 tail-terms]
+bridi-tail-2<sub>52</sub> =
 
-- bridi-tail-3 53=
+bridi-tail-3 \[gihek \[stag\] BO # bridi-tail-2 tail-terms]
 
-  selbri tail-terms | gek-sentence
+bridi-tail-3<sub>53</sub> =
 
-- gek-sentence 54=
+selbri tail-terms | gek-sentence
 
-  gek subsentence gik subsentence tail-terms | \[tag\] KE # gek-sentence /KEhE#/ | NA # gek-sentence
+gek-sentence<sub>54</sub> =
 
-- tail-terms 71=
+gek subsentence gik subsentence tail-terms | \[tag\] KE # gek-sentence /KEhE#/ | NA # gek-sentence
 
-  \[terms\] /VAU#/
+tail-terms<sub>71</sub> =
 
-- terms 80=
+\[terms\] /VAU#/
 
-  terms-1 ...
+terms<sub>80</sub> =
 
-- terms-1 81=
+terms-1 ...
 
-  terms-2 \[PEhE # joik-jek terms-2\] ...
+terms-1<sub>81</sub> =
 
-- terms-2 82=
+terms-2 \[PEhE # joik-jek terms-2\] ...
 
-  term \[CEhE # term\] ...
+terms-2<sub>82</sub> =
 
-- term 83=
+term \[CEhE # term\] ...
 
-  sumti | (tag | FA #) (sumti | /KU#/) | termset | NA KU #
+term<sub>83</sub> =
 
-- termset 85=
+sumti | (tag | FA #) (sumti | /KU#/) | termset | NA KU #
 
-  NUhI # gek terms /NUhU#/ gik terms /NUhU#/ | NUhI # terms /NUhU#/
+termset<sub>85</sub> =
 
-- sumti 90=
+NUhI # gek terms /NUhU#/ gik terms /NUhU#/ | NUhI # terms /NUhU#/
 
-  sumti-1 \[VUhO # relative-clauses\]
+sumti<sub>90</sub> =
 
-- sumti-1 91=
+sumti-1 \[VUhO # relative-clauses\]
 
-  sumti-2 \[(ek | joik) \[stag\] KE # sumti /KEhE#/]
+sumti-1<sub>91</sub> =
 
-- sumti-2 92=
+sumti-2 \[(ek | joik) \[stag\] KE # sumti /KEhE#/]
 
-  sumti-3 \[joik-ek sumti-3\] ...
+sumti-2<sub>92</sub> =
 
-- sumti-3 93=
+sumti-3 \[joik-ek sumti-3\] ...
 
-  sumti-4 \[(ek | joik) \[stag\] BO # sumti-3]
+sumti-3<sub>93</sub> =
 
-- sumti-4 94=
+sumti-4 \[(ek | joik) \[stag\] BO # sumti-3]
 
-  sumti-5 | gek sumti gik sumti-4
+sumti-4<sub>94</sub> =
 
-- sumti-5 95=
+sumti-5 | gek sumti gik sumti-4
 
-  \[quantifier\] sumti-6 \[relative-clauses\] | quantifier selbri /KU#/ \[relative-clauses\]
+sumti-5<sub>95</sub> =
 
-- sumti-6 97=
+\[quantifier\] sumti-6 \[relative-clauses\] | quantifier selbri /KU#/ \[relative-clauses\]
 
-  (LAhE # | NAhE BO #) \[relative-clauses\] sumti /LUhU#/ | KOhA # | lerfu-string /BOI#/ | LA # \[relative-clauses\] CMENE ... # | (LA | LE) # sumti-tail /KU#/ | LI # mex /LOhO#/ | ZO any-word # | LU text /LIhU#/ | LOhU any-word ... LEhU # | ZOI any-word anything any-word #
+sumti-6<sub>97</sub> =
 
-- sumti-tail 111=
+(LAhE # | NAhE BO #) \[relative-clauses\] sumti /LUhU#/ | KOhA # | lerfu-string /BOI#/ | LA # \[relative-clauses\] CMENE ... # | (LA | LE) # sumti-tail /KU#/ | LI # mex /LOhO#/ | ZO any-word # | LU text /LIhU#/ | LOhU any-word ... LEhU # | ZOI any-word anything any-word #
 
-  \[sumti-6 \[relative-clauses]\] sumti-tail-1 | relative-clauses sumti-tail-1
+sumti-tail<sub>111</sub> =
 
-- sumti-tail-1 112=
+\[sumti-6 \[relative-clauses]\] sumti-tail-1 | relative-clauses sumti-tail-1
 
-  \[quantifier\] selbri \[relative-clauses\] | quantifier sumti
+sumti-tail-1<sub>112</sub> =
 
-- relative-clauses 121=
+\[quantifier\] selbri \[relative-clauses\] | quantifier sumti
 
-  relative-clause \[ZIhE # relative-clause\] ...
+relative-clauses<sub>121</sub> =
 
-- relative-clause 122=
+relative-clause \[ZIhE # relative-clause\] ...
 
-  GOI # term /GEhU#/ | NOI # subsentence /KUhO#/
+relative-clause<sub>122</sub> =
 
-- selbri 130=
+GOI # term /GEhU#/ | NOI # subsentence /KUhO#/
 
-  \[tag\] selbri-1
+selbri<sub>130</sub> =
 
-- selbri-1 131=
+\[tag\] selbri-1
 
-  selbri-2 | NA # selbri
+selbri-1<sub>131</sub> =
 
-- selbri-2 132=
+selbri-2 | NA # selbri
 
-  selbri-3 \[CO # selbri-2\]
+selbri-2<sub>132</sub> =
 
-- selbri-3 133=
+selbri-3 \[CO # selbri-2\]
 
-  selbri-4 ...
+selbri-3<sub>133</sub> =
 
-- selbri-4 134=
+selbri-4 ...
 
-  selbri-5 \[joik-jek selbri-5 | joik \[stag\] KE # selbri-3 /KEhE#/] ...
+selbri-4<sub>134</sub> =
 
-- selbri-5 135=
+selbri-5 \[joik-jek selbri-5 | joik \[stag\] KE # selbri-3 /KEhE#/] ...
 
-  selbri-6 \[(jek | joik) \[stag\] BO # selbri-5]
+selbri-5<sub>135</sub> =
 
-- selbri-6 136=
+selbri-6 \[(jek | joik) \[stag\] BO # selbri-5]
 
-  tanru-unit \[BO # selbri-6\] | \[NAhE #\] guhek selbri gik selbri-6
+selbri-6<sub>136</sub> =
 
-- tanru-unit 150=
+tanru-unit \[BO # selbri-6\] | \[NAhE #\] guhek selbri gik selbri-6
 
-  tanru-unit-1 \[CEI # tanru-unit-1\] ...
+tanru-unit<sub>150</sub> =
 
-- tanru-unit-1 151=
+tanru-unit-1 \[CEI # tanru-unit-1\] ...
 
-  tanru-unit-2 \[linkargs\]
+tanru-unit-1<sub>151</sub> =
 
-- tanru-unit-2 152=
+tanru-unit-2 \[linkargs\]
 
-  BRIVLA # | GOhA \[RAhO\] # | KE # selbri-3 /KEhE#/ | ME # sumti /MEhU#/ \[MOI #\] | (number | lerfu-string) MOI # | NUhA # mex-operator | SE # tanru-unit-2 | JAI # \[tag\] tanru-unit-2 | any-word (ZEI any-word) ... | NAhE # tanru-unit-2 | NU \[NAI\] # \[joik-jek NU \[NAI\] #] ... subsentence /KEI#/
+tanru-unit-2<sub>152</sub> =
 
-- linkargs 160=
+BRIVLA # | GOhA \[RAhO\] # | KE # selbri-3 /KEhE#/ | ME # sumti /MEhU#/ \[MOI #\] | (number | lerfu-string) MOI # | NUhA # mex-operator | SE # tanru-unit-2 | JAI # \[tag\] tanru-unit-2 | any-word (ZEI any-word) ... | NAhE # tanru-unit-2 | NU \[NAI\] # \[joik-jek NU \[NAI\] #] ... subsentence /KEI#/
 
-  BE # term \[links\] /BEhO#/
+linkargs<sub>160</sub> =
 
-- links 161=
+BE # term \[links\] /BEhO#/
 
-  BEI # term \[links\]
+links<sub>161</sub> =
 
-- quantifier 300=
+BEI # term \[links\]
 
-  number /BOI#/ | VEI # mex /VEhO#/
+quantifier<sub>300</sub> =
 
-- mex 310=
+number /BOI#/ | VEI # mex /VEhO#/
 
-  mex-1 \[operator mex-1\] ... | FUhA # rp-expression
+mex<sub>310</sub> =
 
-- mex-1 311=
+mex-1 \[operator mex-1\] ... | FUhA # rp-expression
 
-  mex-2 \[BIhE # operator mex-1\]
+mex-1<sub>311</sub> =
 
-- mex-2 312=
+mex-2 \[BIhE # operator mex-1\]
 
-  operand | \[PEhO #\] operator mex-2 ... /KUhE#/
+mex-2<sub>312</sub> =
 
-- rp-expression 330=
+operand | \[PEhO #\] operator mex-2 ... /KUhE#/
 
-  rp-operand rp-operand operator
+rp-expression<sub>330</sub> =
 
-- rp-operand 332=
+rp-operand rp-operand operator
 
-  operand | rp-expression
+rp-operand<sub>332</sub> =
 
-- operator 370=
+operand | rp-expression
 
-  operator-1 \[joik-jek operator-1 | joik \[stag\] KE # operator /KEhE#/] ...
+operator<sub>370</sub> =
 
-- operator-1 371=
+operator-1 \[joik-jek operator-1 | joik \[stag\] KE # operator /KEhE#/] ...
 
-  operator-2 | guhek operator-1 gik operator-2 | operator-2 (jek | joik) \[stag\] BO # operator-1
+operator-1<sub>371</sub> =
 
-- operator-2 372=
+operator-2 | guhek operator-1 gik operator-2 | operator-2 (jek | joik) \[stag\] BO # operator-1
 
-  mex-operator | KE # operator /KEhE#/
+operator-2<sub>372</sub> =
 
-- mex-operator 374=
+mex-operator | KE # operator /KEhE#/
 
-  SE # mex-operator | NAhE # mex-operator | MAhO # mex /TEhU#/ | NAhU # selbri /TEhU#/ | VUhU #
+mex-operator<sub>374</sub> =
 
-- operand 381=
+SE # mex-operator | NAhE # mex-operator | MAhO # mex /TEhU#/ | NAhU # selbri /TEhU#/ | VUhU #
 
-  operand-1 \[(ek | joik) \[stag\] KE # operand /KEhE#/]
+operand<sub>381</sub> =
 
-- operand-1 382=
+operand-1 \[(ek | joik) \[stag\] KE # operand /KEhE#/]
 
-  operand-2 \[joik-ek operand-2\] ...
+operand-1<sub>382</sub> =
 
-- operand-2 383=
+operand-2 \[joik-ek operand-2\] ...
 
-  operand-3 \[(ek | joik) \[stag\] BO # operand-2]
+operand-2<sub>383</sub> =
 
-- operand-3 385=
+operand-3 \[(ek | joik) \[stag\] BO # operand-2]
 
-  quantifier | lerfu-string /BOI#/ | NIhE # selbri /TEhU#/ | MOhE # sumti /TEhU#/ | JOhI # mex-2 ... /TEhU#/ | gek operand gik operand-3 | (LAhE # | NAhE BO #) operand /LUhU#/
+operand-3<sub>385</sub> =
 
-- number 812=
+quantifier | lerfu-string /BOI#/ | NIhE # selbri /TEhU#/ | MOhE # sumti /TEhU#/ | JOhI # mex-2 ... /TEhU#/ | gek operand gik operand-3 | (LAhE # | NAhE BO #) operand /LUhU#/
 
-  PA \[PA | lerfu-word\] ...
+number<sub>812</sub> =
 
-- lerfu-string 817=
+PA \[PA | lerfu-word\] ...
 
-  lerfu-word \[PA | lerfu-word\] ...
+lerfu-string<sub>817</sub> =
 
-- lerfu-word 987=
+lerfu-word \[PA | lerfu-word\] ...
 
-  BY | any-word BU | LAU lerfu-word | TEI lerfu-string FOI
+lerfu-word<sub>987</sub> =
 
-- ek 802=
+BY | any-word BU | LAU lerfu-word | TEI lerfu-string FOI
 
-  \[NA\] \[SE\] A \[NAI\]
+ek<sub>802</sub> =
 
-- gihek 818=
+\[NA\] \[SE\] A \[NAI\]
 
-  \[NA\] \[SE\] GIhA \[NAI\]
+gihek<sub>818</sub> =
 
-- jek 805=
+\[NA\] \[SE\] GIhA \[NAI\]
 
-  \[NA\] \[SE\] JA \[NAI\]
+jek<sub>805</sub> =
 
-- joik 806=
+\[NA\] \[SE\] JA \[NAI\]
 
-  \[SE\] JOI \[NAI\] | interval | GAhO interval GAhO
+joik<sub>806</sub> =
 
-- interval 932=
+\[SE\] JOI \[NAI\] | interval | GAhO interval GAhO
 
-  \[SE\] BIhI \[NAI\]
+interval<sub>932</sub> =
 
-- joik-ek 421=
+\[SE\] BIhI \[NAI\]
 
-  joik # | ek #
+joik-ek<sub>421</sub> =
 
-- joik-jek 422=
+joik # | ek #
 
-  joik # | jek #
+joik-jek<sub>422</sub> =
 
-- gek 807=
+joik # | jek #
 
-  \[SE\] GA \[NAI\] # | joik GI # | stag gik
+gek<sub>807</sub> =
 
-- guhek 808=
+\[SE\] GA \[NAI\] # | joik GI # | stag gik
 
-  \[SE\] GUhA \[NAI\] #
+guhek<sub>808</sub> =
 
-- gik 816=
+\[SE\] GUhA \[NAI\] #
 
-  GI \[NAI\] #
+gik<sub>816</sub> =
 
-- tag 491=
+GI \[NAI\] #
 
-  tense-modal \[joik-jek tense-modal\] ...
+tag<sub>491</sub> =
 
-- stag 971=
+tense-modal \[joik-jek tense-modal\] ...
 
-  simple-tense-modal \[(jek | joik) simple-tense-modal\] ...
+stag<sub>971</sub> =
 
-- tense-modal 815=
+simple-tense-modal \[(jek | joik) simple-tense-modal\] ...
 
-  simple-tense-modal # | FIhO # selbri /FEhU#/
+tense-modal<sub>815</sub> =
 
-- simple-tense-modal 972=
+simple-tense-modal # | FIhO # selbri /FEhU#/
 
-  \[NAhE\] \[SE\] BAI \[NAI\] \[KI\] | \[NAhE\] (time \[space\] | space \[time\]) & CAhA \[KI\] | KI | CUhE
+simple-tense-modal<sub>972</sub> =
 
-- time 1030=
+\[NAhE\] \[SE\] BAI \[NAI\] \[KI\] | \[NAhE\] (time \[space\] | space \[time\]) & CAhA \[KI\] | KI | CUhE
 
-  ZI & time-offset ... & ZEhA \[PU \[NAI]\] & interval-property ...
+time<sub>1030</sub> =
 
-- time-offset 1033=
+ZI & time-offset ... & ZEhA \[PU \[NAI]\] & interval-property ...
 
-  PU \[NAI\] \[ZI\]
+time-offset<sub>1033</sub> =
 
-- space 1040=
+PU \[NAI\] \[ZI\]
 
-  VA & space-offset ... & space-interval & (MOhI space-offset)
+space<sub>1040</sub> =
 
-- space-offset 1045=
+VA & space-offset ... & space-interval & (MOhI space-offset)
 
-  FAhA \[NAI\] \[VA\]
+space-offset<sub>1045</sub> =
 
-- space-interval 1046=
+FAhA \[NAI\] \[VA\]
 
-  ((VEhA & VIhA) \[FAhA \[NAI]\]) & space-int-props
+space-interval<sub>1046</sub> =
 
-- space-int-props 1049=
+((VEhA & VIhA) \[FAhA \[NAI]\]) & space-int-props
 
-  (FEhE interval-property) ...
+space-int-props<sub>1049</sub> =
 
-- interval-property 1051=
+(FEhE interval-property) ...
 
-  number ROI \[NAI\] | TAhE \[NAI\] | ZAhO \[NAI\]
+interval-property<sub>1051</sub> =
 
-- free 32=
+number ROI \[NAI\] | TAhE \[NAI\] | ZAhO \[NAI\]
 
-  SEI # \[terms \[CU #]\] selbri /SEhU/ | SOI # sumti \[sumti\] /SEhU/ | vocative \[relative-clauses\] selbri \[relative-clauses\] /DOhU/ | vocative \[relative-clauses\] CMENE ... # \[relative-clauses\] /DOhU/ | vocative \[sumti\] /DOhU/ | (number | lerfu-string) MAI | TO text /TOI/ | XI # (number | lerfu-string) /BOI/ | XI # VEI # mex /VEhO/
+free<sub>32</sub> =
 
-- vocative 415=
+SEI # \[terms \[CU #]\] selbri /SEhU/ | SOI # sumti \[sumti\] /SEhU/ | vocative \[relative-clauses\] selbri \[relative-clauses\] /DOhU/ | vocative \[relative-clauses\] CMENE ... # \[relative-clauses\] /DOhU/ | vocative \[sumti\] /DOhU/ | (number | lerfu-string) MAI | TO text /TOI/ | XI # (number | lerfu-string) /BOI/ | XI # VEI # mex /VEhO/
 
-  (COI \[NAI\]) ... & DOI
+vocative<sub>415</sub> =
 
-- indicators 411=
+(COI \[NAI\]) ... & DOI
 
-  \[FUhE\] indicator ...
+indicators<sub>411</sub> =
 
-- indicator 413=
+\[FUhE\] indicator ...
 
-  (UI | CAI) \[NAI\] | Y | DAhO | FUhO
+indicator<sub>413</sub> =
+
+(UI | CAI) \[NAI\] | Y | DAhO | FUhO
 
 The following rules are non-formal:
 
-- word 1100=
+<div class="hidden"></div>
 
-  \[BAhE\] any-word \[indicators\]
+word<sub>1100</sub> =
 
-- any-word =
+\[BAhE\] any-word \[indicators\]
 
-  “any single word (no compound cmavo)”
+any-word =
 
-- anything =
+“any single word (no compound cmavo)”
 
-  “any text at all, whether Lojban or not”
+anything =
 
-- null 1101=
+“any text at all, whether Lojban or not”
 
-  any-word SI | utterance SA | text SU
+null<sub>1101</sub> =
+
+any-word SI | utterance SA | text SU
 
 FAhO is a universal terminator and signals the end of parsable input.
 
+</div>
+
 ## EBNF Cross-Reference
 
-- A
+<div class="font-mono overflow-auto max-w-full text-nowrap [&_p]:m-2 [&_p:nth-child(even)]:ps-8">
 
-  [BNF rule #802](/chapter21/#cll*bnf-802) 802
+A
 
-- BAI
+[BNF rule #802](/chapter21/#cll*bnf-802) 802
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+BAI
 
-- BAhE
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #1100](/chapter21/#cll*bnf-1100) 1100
+BAhE
 
-- BE
+[BNF rule #1100](/chapter21/#cll*bnf-1100) 1100
 
-  [BNF rule #160](/chapter21/#cll*bnf-160) 160
+BE
 
-- BEI
+[BNF rule #160](/chapter21/#cll*bnf-160) 160
 
-  [BNF rule #161](/chapter21/#cll*bnf-161) 161
+BEI
 
-- BEhO
+[BNF rule #161](/chapter21/#cll*bnf-161) 161
 
-  [BNF rule #160](/chapter21/#cll*bnf-160) 160
+BEhO
 
-- BIhE
+[BNF rule #160](/chapter21/#cll*bnf-160) 160
 
-  [BNF rule #311](/chapter21/#cll*bnf-311) 311
+BIhE
 
-- BIhI
+[BNF rule #311](/chapter21/#cll*bnf-311) 311
 
-  [BNF rule #932](/chapter21/#cll*bnf-932) 932
+BIhI
 
-- BO
+[BNF rule #932](/chapter21/#cll*bnf-932) 932
 
-  [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #2](/chapter21/#cll*bnf-2)2
+BO
 
-- BOI
+[BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #97](/chapter21/#cll*bnf-97)97
+BOI
 
-- BRIVLA
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #97](/chapter21/#cll*bnf-97)97
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+BRIVLA
 
-- BU
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #987](/chapter21/#cll*bnf-987) 987
+BU
 
-- BY
+[BNF rule #987](/chapter21/#cll*bnf-987) 987
 
-  [BNF rule #987](/chapter21/#cll*bnf-987) 987
+BY
 
-- CAI
+[BNF rule #987](/chapter21/#cll*bnf-987) 987
 
-  [BNF rule #413](/chapter21/#cll*bnf-413) 413
+CAI
 
-- CAhA
+[BNF rule #413](/chapter21/#cll*bnf-413) 413
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+CAhA
 
-- CEI
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #150](/chapter21/#cll*bnf-150) 150
+CEI
 
-- CEhE
+[BNF rule #150](/chapter21/#cll*bnf-150) 150
 
-  [BNF rule #82](/chapter21/#cll*bnf-82) 82
+CEhE
 
-- CMENE
+[BNF rule #82](/chapter21/#cll*bnf-82) 82
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #0](/chapter21/#cll*bnf-0)0
+CMENE
 
-- CO
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #0](/chapter21/#cll*bnf-0)0
 
-  [BNF rule #132](/chapter21/#cll*bnf-132) 132
+CO
 
-- COI
+[BNF rule #132](/chapter21/#cll*bnf-132) 132
 
-  [BNF rule #415](/chapter21/#cll*bnf-415) 415
+COI
 
-- CU
+[BNF rule #415](/chapter21/#cll*bnf-415) 415
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #40](/chapter21/#cll*bnf-40)40
+CU
 
-- CUhE
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #40](/chapter21/#cll*bnf-40)40
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+CUhE
 
-- DAhO
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #413](/chapter21/#cll*bnf-413) 413
+DAhO
 
-- DOI
+[BNF rule #413](/chapter21/#cll*bnf-413) 413
 
-  [BNF rule #415](/chapter21/#cll*bnf-415) 415
+DOI
 
-- DOhU
+[BNF rule #415](/chapter21/#cll*bnf-415) 415
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+DOhU
 
-- FA
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #83](/chapter21/#cll*bnf-83) 83
+FA
 
-- FAhA
+[BNF rule #83](/chapter21/#cll*bnf-83) 83
 
-  [BNF rule #1046](/chapter21/#cll*bnf-1046)1046, [BNF rule #1045](/chapter21/#cll*bnf-1045)1045
+FAhA
 
-- FEhE
+[BNF rule #1046](/chapter21/#cll*bnf-1046)1046, [BNF rule #1045](/chapter21/#cll*bnf-1045)1045
 
-  [BNF rule #1049](/chapter21/#cll*bnf-1049) 1049
+FEhE
 
-- FEhU
+[BNF rule #1049](/chapter21/#cll*bnf-1049) 1049
 
-  [BNF rule #815](/chapter21/#cll*bnf-815) 815
+FEhU
 
-- FIhO
+[BNF rule #815](/chapter21/#cll*bnf-815) 815
 
-  [BNF rule #815](/chapter21/#cll*bnf-815) 815
+FIhO
 
-- FOI
+[BNF rule #815](/chapter21/#cll*bnf-815) 815
 
-  [BNF rule #987](/chapter21/#cll*bnf-987) 987
+FOI
 
-- FUhA
+[BNF rule #987](/chapter21/#cll*bnf-987) 987
 
-  [BNF rule #310](/chapter21/#cll*bnf-310) 310
+FUhA
 
-- FUhE
+[BNF rule #310](/chapter21/#cll*bnf-310) 310
 
-  [BNF rule #411](/chapter21/#cll*bnf-411) 411
+FUhE
 
-- FUhO
+[BNF rule #411](/chapter21/#cll*bnf-411) 411
 
-  [BNF rule #413](/chapter21/#cll*bnf-413) 413
+FUhO
 
-- GA
+[BNF rule #413](/chapter21/#cll*bnf-413) 413
 
-  [BNF rule #807](/chapter21/#cll*bnf-807) 807
+GA
 
-- GAhO
+[BNF rule #807](/chapter21/#cll*bnf-807) 807
 
-  [BNF rule #806](/chapter21/#cll*bnf-806) 806
+GAhO
 
-- GEhU
+[BNF rule #806](/chapter21/#cll*bnf-806) 806
 
-  [BNF rule #122](/chapter21/#cll*bnf-122) 122
+GEhU
 
-- GI
+[BNF rule #122](/chapter21/#cll*bnf-122) 122
 
-  [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #816](/chapter21/#cll*bnf-816)816
+GI
 
-- GIhA
+[BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #816](/chapter21/#cll*bnf-816)816
 
-  [BNF rule #818](/chapter21/#cll*bnf-818) 818
+GIhA
 
-- GOI
+[BNF rule #818](/chapter21/#cll*bnf-818) 818
 
-  [BNF rule #122](/chapter21/#cll*bnf-122) 122
+GOI
 
-- GOhA
+[BNF rule #122](/chapter21/#cll*bnf-122) 122
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+GOhA
 
-- GUhA
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #808](/chapter21/#cll*bnf-808) 808
+GUhA
 
-- I
+[BNF rule #808](/chapter21/#cll*bnf-808) 808
 
-  [BNF rule #10](/chapter21/#cll*bnf-10)10, [BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #2](/chapter21/#cll*bnf-2)2
+I
 
-- JA
+[BNF rule #10](/chapter21/#cll*bnf-10)10, [BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #805](/chapter21/#cll*bnf-805) 805
+JA
 
-- JAI
+[BNF rule #805](/chapter21/#cll*bnf-805) 805
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+JAI
 
-- JOI
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #806](/chapter21/#cll*bnf-806) 806
+JOI
 
-- JOhI
+[BNF rule #806](/chapter21/#cll*bnf-806) 806
 
-  [BNF rule #385](/chapter21/#cll*bnf-385) 385
+JOhI
 
-- KE
+[BNF rule #385](/chapter21/#cll*bnf-385) 385
 
-  [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #152](/chapter21/#cll*bnf-152)152
+KE
 
-- KEI
+[BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+KEI
 
-- KEhE
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #152](/chapter21/#cll*bnf-152)152
+KEhE
 
-- KI
+[BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+KI
 
-- KOhA
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+KOhA
 
-- KU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #83](/chapter21/#cll*bnf-83)83
+KU
 
-- KUhE
+[BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #83](/chapter21/#cll*bnf-83)83
 
-  [BNF rule #312](/chapter21/#cll*bnf-312) 312
+KUhE
 
-- KUhO
+[BNF rule #312](/chapter21/#cll*bnf-312) 312
 
-  [BNF rule #122](/chapter21/#cll*bnf-122) 122
+KUhO
 
-- LA
+[BNF rule #122](/chapter21/#cll*bnf-122) 122
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LA
 
-- LAU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #987](/chapter21/#cll*bnf-987) 987
+LAU
 
-- LAhE
+[BNF rule #987](/chapter21/#cll*bnf-987) 987
 
-  [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97
+LAhE
 
-- LE
+[BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LE
 
-- LEhU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LEhU
 
-- LI
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LI
 
-- LIhU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LIhU
 
-- LOhO
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LOhO
 
-- LOhU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LOhU
 
-- LU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+LU
 
-- LUhU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97
+LUhU
 
-- MAI
+[BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+MAI
 
-- MAhO
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #374](/chapter21/#cll*bnf-374) 374
+MAhO
 
-- ME
+[BNF rule #374](/chapter21/#cll*bnf-374) 374
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+ME
 
-- MEhU
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+MEhU
 
-- MOI
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+MOI
 
-- MOhE
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #385](/chapter21/#cll*bnf-385) 385
+MOhE
 
-- MOhI
+[BNF rule #385](/chapter21/#cll*bnf-385) 385
 
-  [BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
+MOhI
 
-- NA
+[BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
 
-  [BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #83](/chapter21/#cll*bnf-83)83
+NA
 
-- NAI
+[BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #83](/chapter21/#cll*bnf-83)83
 
-  [BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #816](/chapter21/#cll*bnf-816)816, [BNF rule #808](/chapter21/#cll*bnf-808)808, [BNF rule #413](/chapter21/#cll*bnf-413)413, [BNF rule #1051](/chapter21/#cll*bnf-1051)1051, [BNF rule #932](/chapter21/#cll*bnf-932)932, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #806](/chapter21/#cll*bnf-806)806, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #1046](/chapter21/#cll*bnf-1046)1046, [BNF rule #1045](/chapter21/#cll*bnf-1045)1045, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #0](/chapter21/#cll*bnf-0)0, [BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030, [BNF rule #415](/chapter21/#cll*bnf-415)415
+NAI
 
-- NAhE
+[BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #816](/chapter21/#cll*bnf-816)816, [BNF rule #808](/chapter21/#cll*bnf-808)808, [BNF rule #413](/chapter21/#cll*bnf-413)413, [BNF rule #1051](/chapter21/#cll*bnf-1051)1051, [BNF rule #932](/chapter21/#cll*bnf-932)932, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #806](/chapter21/#cll*bnf-806)806, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #1046](/chapter21/#cll*bnf-1046)1046, [BNF rule #1045](/chapter21/#cll*bnf-1045)1045, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #0](/chapter21/#cll*bnf-0)0, [BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030, [BNF rule #415](/chapter21/#cll*bnf-415)415
 
-  [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152
+NAhE
 
-- NAhU
+[BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #374](/chapter21/#cll*bnf-374) 374
+NAhU
 
-- NIhE
+[BNF rule #374](/chapter21/#cll*bnf-374) 374
 
-  [BNF rule #385](/chapter21/#cll*bnf-385) 385
+NIhE
 
-- NIhO
+[BNF rule #385](/chapter21/#cll*bnf-385) 385
 
-  [BNF rule #4](/chapter21/#cll*bnf-4)4, [BNF rule #2](/chapter21/#cll*bnf-2)2
+NIhO
 
-- NOI
+[BNF rule #4](/chapter21/#cll*bnf-4)4, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #122](/chapter21/#cll*bnf-122) 122
+NOI
 
-- NU
+[BNF rule #122](/chapter21/#cll*bnf-122) 122
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+NU
 
-- NUhA
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+NUhA
 
-- NUhI
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #85](/chapter21/#cll*bnf-85) 85
+NUhI
 
-- NUhU
+[BNF rule #85](/chapter21/#cll*bnf-85) 85
 
-  [BNF rule #85](/chapter21/#cll*bnf-85) 85
+NUhU
 
-- PA
+[BNF rule #85](/chapter21/#cll*bnf-85) 85
 
-  [BNF rule #817](/chapter21/#cll*bnf-817)817, [BNF rule #812](/chapter21/#cll*bnf-812)812
+PA
 
-- PEhE
+[BNF rule #817](/chapter21/#cll*bnf-817)817, [BNF rule #812](/chapter21/#cll*bnf-812)812
 
-  [BNF rule #81](/chapter21/#cll*bnf-81) 81
+PEhE
 
-- PEhO
+[BNF rule #81](/chapter21/#cll*bnf-81) 81
 
-  [BNF rule #312](/chapter21/#cll*bnf-312) 312
+PEhO
 
-- PU
+[BNF rule #312](/chapter21/#cll*bnf-312) 312
 
-  [BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
+PU
 
-- RAhO
+[BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+RAhO
 
-- ROI
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
+ROI
 
-- SA
+[BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
 
-  [BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
+SA
 
-- SE
+[BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
 
-  [BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #808](/chapter21/#cll*bnf-808)808, [BNF rule #932](/chapter21/#cll*bnf-932)932, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #806](/chapter21/#cll*bnf-806)806, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #152](/chapter21/#cll*bnf-152)152
+SE
 
-- SEI
+[BNF rule #802](/chapter21/#cll*bnf-802)802, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #818](/chapter21/#cll*bnf-818)818, [BNF rule #808](/chapter21/#cll*bnf-808)808, [BNF rule #932](/chapter21/#cll*bnf-932)932, [BNF rule #805](/chapter21/#cll*bnf-805)805, [BNF rule #806](/chapter21/#cll*bnf-806)806, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #972](/chapter21/#cll*bnf-972)972, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+SEI
 
-- SEhU
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+SEhU
 
-- SI
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
+SI
 
-- SOI
+[BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+SOI
 
-- SU
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
+SU
 
-- TAhE
+[BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
 
-  [BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
+TAhE
 
-- TEI
+[BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
 
-  [BNF rule #987](/chapter21/#cll*bnf-987) 987
+TEI
 
-- TEhU
+[BNF rule #987](/chapter21/#cll*bnf-987) 987
 
-  [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385
+TEhU
 
-- TO
+[BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+TO
 
-- TOI
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+TOI
 
-- TUhE
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #14](/chapter21/#cll*bnf-14) 14
+TUhE
 
-- TUhU
+[BNF rule #14](/chapter21/#cll*bnf-14) 14
 
-  [BNF rule #14](/chapter21/#cll*bnf-14) 14
+TUhU
 
-- UI
+[BNF rule #14](/chapter21/#cll*bnf-14) 14
 
-  [BNF rule #413](/chapter21/#cll*bnf-413) 413
+UI
 
-- VA
+[BNF rule #413](/chapter21/#cll*bnf-413) 413
 
-  [BNF rule #1045](/chapter21/#cll*bnf-1045)1045, [BNF rule #1040](/chapter21/#cll*bnf-1040)1040
+VA
 
-- VAU
+[BNF rule #1045](/chapter21/#cll*bnf-1045)1045, [BNF rule #1040](/chapter21/#cll*bnf-1040)1040
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #71](/chapter21/#cll*bnf-71)71
+VAU
 
-- VEI
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #71](/chapter21/#cll*bnf-71)71
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #300](/chapter21/#cll*bnf-300)300
+VEI
 
-- VEhA
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #300](/chapter21/#cll*bnf-300)300
 
-  [BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
+VEhA
 
-- VEhO
+[BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #300](/chapter21/#cll*bnf-300)300
+VEhO
 
-- VIhA
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #300](/chapter21/#cll*bnf-300)300
 
-  [BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
+VIhA
 
-- VUhO
+[BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
 
-  [BNF rule #90](/chapter21/#cll*bnf-90) 90
+VUhO
 
-- VUhU
+[BNF rule #90](/chapter21/#cll*bnf-90) 90
 
-  [BNF rule #374](/chapter21/#cll*bnf-374) 374
+VUhU
 
-- XI
+[BNF rule #374](/chapter21/#cll*bnf-374) 374
 
-  [BNF rule #32](/chapter21/#cll*bnf-32) 32
+XI
 
-- Y
+[BNF rule #32](/chapter21/#cll*bnf-32) 32
 
-  [BNF rule #413](/chapter21/#cll*bnf-413) 413
+Y
 
-- ZAhO
+[BNF rule #413](/chapter21/#cll*bnf-413) 413
 
-  [BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
+ZAhO
 
-- ZEI
+[BNF rule #1051](/chapter21/#cll*bnf-1051) 1051
 
-  [BNF rule #152](/chapter21/#cll*bnf-152) 152
+ZEI
 
-- ZEhA
+[BNF rule #152](/chapter21/#cll*bnf-152) 152
 
-  [BNF rule #1030](/chapter21/#cll*bnf-1030) 1030
+ZEhA
 
-- ZI
+[BNF rule #1030](/chapter21/#cll*bnf-1030) 1030
 
-  [BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
+ZI
 
-- ZIhE
+[BNF rule #1033](/chapter21/#cll*bnf-1033)1033, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
 
-  [BNF rule #121](/chapter21/#cll*bnf-121) 121
+ZIhE
 
-- ZO
+[BNF rule #121](/chapter21/#cll*bnf-121) 121
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+ZO
 
-- ZOI
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+ZOI
 
-- ZOhU
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #30](/chapter21/#cll*bnf-30) 30
+ZOhU
 
-- any-word
+[BNF rule #30](/chapter21/#cll*bnf-30) 30
 
-  [BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #1101](/chapter21/#cll*bnf-1101)1101, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #1100](/chapter21/#cll*bnf-1100)1100
+any-word
 
-- anything
+[BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #1101](/chapter21/#cll*bnf-1101)1101, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #1100](/chapter21/#cll*bnf-1100)1100
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+anything
 
-- bridi-tail
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #40](/chapter21/#cll*bnf-40)40
+bridi-tail
 
-- bridi-tail-1
+[BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #40](/chapter21/#cll*bnf-40)40
 
-  [BNF rule #50](/chapter21/#cll*bnf-50) 50
+bridi-tail-1
 
-- bridi-tail-2
+[BNF rule #50](/chapter21/#cll*bnf-50) 50
 
-  [BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52
+bridi-tail-2
 
-- bridi-tail-3
+[BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52
 
-  [BNF rule #52](/chapter21/#cll*bnf-52) 52
+bridi-tail-3
 
-- ek
+[BNF rule #52](/chapter21/#cll*bnf-52) 52
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #421](/chapter21/#cll*bnf-421)421, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93
+ek
 
-- fragment
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #421](/chapter21/#cll*bnf-421)421, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93
 
-  [BNF rule #10](/chapter21/#cll*bnf-10) 10
+fragment
 
-- free
+[BNF rule #10](/chapter21/#cll*bnf-10) 10
 
-  [BNF rule #0](/chapter21/#cll*bnf-0) 0
+free
 
-- gek
+[BNF rule #0](/chapter21/#cll*bnf-0) 0
 
-  [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #85](/chapter21/#cll*bnf-85)85
+gek
 
-- gek-sentence
+[BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #85](/chapter21/#cll*bnf-85)85
 
-  [BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #54](/chapter21/#cll*bnf-54)54
+gek-sentence
 
-- gihek
+[BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #54](/chapter21/#cll*bnf-54)54
 
-  [BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #20](/chapter21/#cll*bnf-20)20
+gihek
 
-- gik
+[BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #20](/chapter21/#cll*bnf-20)20
 
-  [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #85](/chapter21/#cll*bnf-85)85
+gik
 
-- guhek
+[BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #85](/chapter21/#cll*bnf-85)85
 
-  [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #136](/chapter21/#cll*bnf-136)136
+guhek
 
-- indicator
+[BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #136](/chapter21/#cll*bnf-136)136
 
-  [BNF rule #411](/chapter21/#cll*bnf-411) 411
+indicator
 
-- indicators
+[BNF rule #411](/chapter21/#cll*bnf-411) 411
 
-  [BNF rule #0](/chapter21/#cll*bnf-0)0, [BNF rule #1100](/chapter21/#cll*bnf-1100)1100
+indicators
 
-- interval
+[BNF rule #0](/chapter21/#cll*bnf-0)0, [BNF rule #1100](/chapter21/#cll*bnf-1100)1100
 
-  [BNF rule #806](/chapter21/#cll*bnf-806) 806
+interval
 
-- interval-property
+[BNF rule #806](/chapter21/#cll*bnf-806) 806
 
-  [BNF rule #1049](/chapter21/#cll*bnf-1049)1049, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
+interval-property
 
-- jek
+[BNF rule #1049](/chapter21/#cll*bnf-1049)1049, [BNF rule #1030](/chapter21/#cll*bnf-1030)1030
 
-  [BNF rule #422](/chapter21/#cll*bnf-422)422, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #2](/chapter21/#cll*bnf-2)2
+jek
 
-- joik
+[BNF rule #422](/chapter21/#cll*bnf-422)422, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #421](/chapter21/#cll*bnf-421)421, [BNF rule #422](/chapter21/#cll*bnf-422)422, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #2](/chapter21/#cll*bnf-2)2
+joik
 
-- joik-ek
+[BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #421](/chapter21/#cll*bnf-421)421, [BNF rule #422](/chapter21/#cll*bnf-422)422, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #382](/chapter21/#cll*bnf-382)382, [BNF rule #92](/chapter21/#cll*bnf-92)92
+joik-ek
 
-- joik-jek
+[BNF rule #382](/chapter21/#cll*bnf-382)382, [BNF rule #92](/chapter21/#cll*bnf-92)92
 
-  [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #491](/chapter21/#cll*bnf-491)491, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #81](/chapter21/#cll*bnf-81)81, [BNF rule #0](/chapter21/#cll*bnf-0)0
+joik-jek
 
-- lerfu-string
+[BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #491](/chapter21/#cll*bnf-491)491, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #81](/chapter21/#cll*bnf-81)81, [BNF rule #0](/chapter21/#cll*bnf-0)0
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152
+lerfu-string
 
-- lerfu-word
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #817](/chapter21/#cll*bnf-817)817, [BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #812](/chapter21/#cll*bnf-812)812
+lerfu-word
 
-- linkargs
+[BNF rule #817](/chapter21/#cll*bnf-817)817, [BNF rule #987](/chapter21/#cll*bnf-987)987, [BNF rule #812](/chapter21/#cll*bnf-812)812
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #151](/chapter21/#cll*bnf-151)151
+linkargs
 
-- links
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #151](/chapter21/#cll*bnf-151)151
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #160](/chapter21/#cll*bnf-160)160, [BNF rule #161](/chapter21/#cll*bnf-161)161
+links
 
-- mex
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #160](/chapter21/#cll*bnf-160)160, [BNF rule #161](/chapter21/#cll*bnf-161)161
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #97](/chapter21/#cll*bnf-97)97
+mex
 
-- mex-1
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #97](/chapter21/#cll*bnf-97)97
 
-  [BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #310](/chapter21/#cll*bnf-310)310
+mex-1
 
-- mex-2
+[BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #310](/chapter21/#cll*bnf-310)310
 
-  [BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #385](/chapter21/#cll*bnf-385)385
+mex-2
 
-- mex-operator
+[BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #385](/chapter21/#cll*bnf-385)385
 
-  [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #152](/chapter21/#cll*bnf-152)152
+mex-operator
 
-- number
+[BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #1051](/chapter21/#cll*bnf-1051)1051, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #152](/chapter21/#cll*bnf-152)152
+number
 
-- operand
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #1051](/chapter21/#cll*bnf-1051)1051, [BNF rule #300](/chapter21/#cll*bnf-300)300, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #332](/chapter21/#cll*bnf-332)332
+operand
 
-- operand-1
+[BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #332](/chapter21/#cll*bnf-332)332
 
-  [BNF rule #381](/chapter21/#cll*bnf-381) 381
+operand-1
 
-- operand-2
+[BNF rule #381](/chapter21/#cll*bnf-381) 381
 
-  [BNF rule #382](/chapter21/#cll*bnf-382)382, [BNF rule #383](/chapter21/#cll*bnf-383)383
+operand-2
 
-- operand-3
+[BNF rule #382](/chapter21/#cll*bnf-382)382, [BNF rule #383](/chapter21/#cll*bnf-383)383
 
-  [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #385](/chapter21/#cll*bnf-385)385
+operand-3
 
-- operator
+[BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #385](/chapter21/#cll*bnf-385)385
 
-  [BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #310](/chapter21/#cll*bnf-310)310, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #330](/chapter21/#cll*bnf-330)330
+operator
 
-- operator-1
+[BNF rule #311](/chapter21/#cll*bnf-311)311, [BNF rule #312](/chapter21/#cll*bnf-312)312, [BNF rule #310](/chapter21/#cll*bnf-310)310, [BNF rule #372](/chapter21/#cll*bnf-372)372, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #330](/chapter21/#cll*bnf-330)330
 
-  [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370
+operator-1
 
-- operator-2
+[BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370
 
-  [BNF rule #371](/chapter21/#cll*bnf-371) 371
+operator-2
 
-- paragraph
+[BNF rule #371](/chapter21/#cll*bnf-371) 371
 
-  [BNF rule #4](/chapter21/#cll*bnf-4) 4
+paragraph
 
-- paragraphs
+[BNF rule #4](/chapter21/#cll*bnf-4) 4
 
-  [BNF rule #4](/chapter21/#cll*bnf-4)4, [BNF rule #2](/chapter21/#cll*bnf-2)2
+paragraphs
 
-- prenex
+[BNF rule #4](/chapter21/#cll*bnf-4)4, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #11](/chapter21/#cll*bnf-11)11, [BNF rule #41](/chapter21/#cll*bnf-41)41
+prenex
 
-- quantifier
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #11](/chapter21/#cll*bnf-11)11, [BNF rule #41](/chapter21/#cll*bnf-41)41
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #112](/chapter21/#cll*bnf-112)112
+quantifier
 
-- relative-clause
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #112](/chapter21/#cll*bnf-112)112
 
-  [BNF rule #121](/chapter21/#cll*bnf-121) 121
+relative-clause
 
-- relative-clauses
+[BNF rule #121](/chapter21/#cll*bnf-121) 121
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #111](/chapter21/#cll*bnf-111)111, [BNF rule #90](/chapter21/#cll*bnf-90)90
+relative-clauses
 
-- rp-expression
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #111](/chapter21/#cll*bnf-111)111, [BNF rule #90](/chapter21/#cll*bnf-90)90
 
-  [BNF rule #310](/chapter21/#cll*bnf-310)310, [BNF rule #332](/chapter21/#cll*bnf-332)332
+rp-expression
 
-- rp-operand
+[BNF rule #310](/chapter21/#cll*bnf-310)310, [BNF rule #332](/chapter21/#cll*bnf-332)332
 
-  [BNF rule #330](/chapter21/#cll*bnf-330) 330
+rp-operand
 
-- selbri
+[BNF rule #330](/chapter21/#cll*bnf-330) 330
 
-  [BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #815](/chapter21/#cll*bnf-815)815
+selbri
 
-- selbri-1
+[BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #374](/chapter21/#cll*bnf-374)374, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #136](/chapter21/#cll*bnf-136)136, [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #815](/chapter21/#cll*bnf-815)815
 
-  [BNF rule #130](/chapter21/#cll*bnf-130) 130
+selbri-1
 
-- selbri-2
+[BNF rule #130](/chapter21/#cll*bnf-130) 130
 
-  [BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #132](/chapter21/#cll*bnf-132)132
+selbri-2
 
-- selbri-3
+[BNF rule #131](/chapter21/#cll*bnf-131)131, [BNF rule #132](/chapter21/#cll*bnf-132)132
 
-  [BNF rule #132](/chapter21/#cll*bnf-132)132, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #152](/chapter21/#cll*bnf-152)152
+selbri-3
 
-- selbri-4
+[BNF rule #132](/chapter21/#cll*bnf-132)132, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #133](/chapter21/#cll*bnf-133) 133
+selbri-4
 
-- selbri-5
+[BNF rule #133](/chapter21/#cll*bnf-133) 133
 
-  [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135
+selbri-5
 
-- selbri-6
+[BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135
 
-  [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #136](/chapter21/#cll*bnf-136)136
+selbri-6
 
-- sentence
+[BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #136](/chapter21/#cll*bnf-136)136
 
-  [BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #41](/chapter21/#cll*bnf-41)41
+sentence
 
-- simple-tense-modal
+[BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #41](/chapter21/#cll*bnf-41)41
 
-  [BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #815](/chapter21/#cll*bnf-815)815
+simple-tense-modal
 
-- space
+[BNF rule #971](/chapter21/#cll*bnf-971)971, [BNF rule #815](/chapter21/#cll*bnf-815)815
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+space
 
-- space-int-props
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
+space-int-props
 
-- space-interval
+[BNF rule #1046](/chapter21/#cll*bnf-1046) 1046
 
-  [BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
+space-interval
 
-- space-offset
+[BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
 
-  [BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
+space-offset
 
-- stag
+[BNF rule #1040](/chapter21/#cll*bnf-1040) 1040
 
-  [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #2](/chapter21/#cll*bnf-2)2
+stag
 
-- statement
+[BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #807](/chapter21/#cll*bnf-807)807, [BNF rule #383](/chapter21/#cll*bnf-383)383, [BNF rule #381](/chapter21/#cll*bnf-381)381, [BNF rule #371](/chapter21/#cll*bnf-371)371, [BNF rule #370](/chapter21/#cll*bnf-370)370, [BNF rule #134](/chapter21/#cll*bnf-134)134, [BNF rule #135](/chapter21/#cll*bnf-135)135, [BNF rule #13](/chapter21/#cll*bnf-13)13, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #2](/chapter21/#cll*bnf-2)2
 
-  [BNF rule #10](/chapter21/#cll*bnf-10)10, [BNF rule #11](/chapter21/#cll*bnf-11)11
+statement
 
-- statement-1
+[BNF rule #10](/chapter21/#cll*bnf-10)10, [BNF rule #11](/chapter21/#cll*bnf-11)11
 
-  [BNF rule #11](/chapter21/#cll*bnf-11) 11
+statement-1
 
-- statement-2
+[BNF rule #11](/chapter21/#cll*bnf-11) 11
 
-  [BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #13](/chapter21/#cll*bnf-13)13
+statement-2
 
-- statement-3
+[BNF rule #12](/chapter21/#cll*bnf-12)12, [BNF rule #13](/chapter21/#cll*bnf-13)13
 
-  [BNF rule #13](/chapter21/#cll*bnf-13) 13
+statement-3
 
-- subsentence
+[BNF rule #13](/chapter21/#cll*bnf-13) 13
 
-  [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #122](/chapter21/#cll*bnf-122)122, [BNF rule #41](/chapter21/#cll*bnf-41)41, [BNF rule #152](/chapter21/#cll*bnf-152)152
+subsentence
 
-- sumti
+[BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #122](/chapter21/#cll*bnf-122)122, [BNF rule #41](/chapter21/#cll*bnf-41)41, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #83](/chapter21/#cll*bnf-83)83
+sumti
 
-- sumti-1
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #385](/chapter21/#cll*bnf-385)385, [BNF rule #91](/chapter21/#cll*bnf-91)91, [BNF rule #94](/chapter21/#cll*bnf-94)94, [BNF rule #97](/chapter21/#cll*bnf-97)97, [BNF rule #112](/chapter21/#cll*bnf-112)112, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #83](/chapter21/#cll*bnf-83)83
 
-  [BNF rule #90](/chapter21/#cll*bnf-90) 90
+sumti-1
 
-- sumti-2
+[BNF rule #90](/chapter21/#cll*bnf-90) 90
 
-  [BNF rule #91](/chapter21/#cll*bnf-91) 91
+sumti-2
 
-- sumti-3
+[BNF rule #91](/chapter21/#cll*bnf-91) 91
 
-  [BNF rule #92](/chapter21/#cll*bnf-92)92, [BNF rule #93](/chapter21/#cll*bnf-93)93
+sumti-3
 
-- sumti-4
+[BNF rule #92](/chapter21/#cll*bnf-92)92, [BNF rule #93](/chapter21/#cll*bnf-93)93
 
-  [BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #94](/chapter21/#cll*bnf-94)94
+sumti-4
 
-- sumti-5
+[BNF rule #93](/chapter21/#cll*bnf-93)93, [BNF rule #94](/chapter21/#cll*bnf-94)94
 
-  [BNF rule #94](/chapter21/#cll*bnf-94) 94
+sumti-5
 
-- sumti-6
+[BNF rule #94](/chapter21/#cll*bnf-94) 94
 
-  [BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #111](/chapter21/#cll*bnf-111)111
+sumti-6
 
-- sumti-tail
+[BNF rule #95](/chapter21/#cll*bnf-95)95, [BNF rule #111](/chapter21/#cll*bnf-111)111
 
-  [BNF rule #97](/chapter21/#cll*bnf-97) 97
+sumti-tail
 
-- sumti-tail-1
+[BNF rule #97](/chapter21/#cll*bnf-97) 97
 
-  [BNF rule #111](/chapter21/#cll*bnf-111) 111
+sumti-tail-1
 
-- tag
+[BNF rule #111](/chapter21/#cll*bnf-111) 111
 
-  [BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #130](/chapter21/#cll*bnf-130)130, [BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #83](/chapter21/#cll*bnf-83)83
+tag
 
-- tail-terms
+[BNF rule #54](/chapter21/#cll*bnf-54)54, [BNF rule #130](/chapter21/#cll*bnf-130)130, [BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #152](/chapter21/#cll*bnf-152)152, [BNF rule #83](/chapter21/#cll*bnf-83)83
 
-  [BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54
+tail-terms
 
-- tanru-unit
+[BNF rule #51](/chapter21/#cll*bnf-51)51, [BNF rule #52](/chapter21/#cll*bnf-52)52, [BNF rule #53](/chapter21/#cll*bnf-53)53, [BNF rule #50](/chapter21/#cll*bnf-50)50, [BNF rule #54](/chapter21/#cll*bnf-54)54
 
-  [BNF rule #136](/chapter21/#cll*bnf-136) 136
+tanru-unit
 
-- tanru-unit-1
+[BNF rule #136](/chapter21/#cll*bnf-136) 136
 
-  [BNF rule #150](/chapter21/#cll*bnf-150) 150
+tanru-unit-1
 
-- tanru-unit-2
+[BNF rule #150](/chapter21/#cll*bnf-150) 150
 
-  [BNF rule #151](/chapter21/#cll*bnf-151)151, [BNF rule #152](/chapter21/#cll*bnf-152)152
+tanru-unit-2
 
-- tense-modal
+[BNF rule #151](/chapter21/#cll*bnf-151)151, [BNF rule #152](/chapter21/#cll*bnf-152)152
 
-  [BNF rule #491](/chapter21/#cll*bnf-491) 491
+tense-modal
 
-- term
+[BNF rule #491](/chapter21/#cll*bnf-491) 491
 
-  [BNF rule #160](/chapter21/#cll*bnf-160)160, [BNF rule #161](/chapter21/#cll*bnf-161)161, [BNF rule #122](/chapter21/#cll*bnf-122)122, [BNF rule #82](/chapter21/#cll*bnf-82)82
+term
 
-- terms
+[BNF rule #160](/chapter21/#cll*bnf-160)160, [BNF rule #161](/chapter21/#cll*bnf-161)161, [BNF rule #122](/chapter21/#cll*bnf-122)122, [BNF rule #82](/chapter21/#cll*bnf-82)82
 
-  [BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #30](/chapter21/#cll*bnf-30)30, [BNF rule #40](/chapter21/#cll*bnf-40)40, [BNF rule #71](/chapter21/#cll*bnf-71)71, [BNF rule #85](/chapter21/#cll*bnf-85)85
+terms
 
-- terms-1
+[BNF rule #20](/chapter21/#cll*bnf-20)20, [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #30](/chapter21/#cll*bnf-30)30, [BNF rule #40](/chapter21/#cll*bnf-40)40, [BNF rule #71](/chapter21/#cll*bnf-71)71, [BNF rule #85](/chapter21/#cll*bnf-85)85
 
-  [BNF rule #80](/chapter21/#cll*bnf-80) 80
+terms-1
 
-- terms-2
+[BNF rule #80](/chapter21/#cll*bnf-80) 80
 
-  [BNF rule #81](/chapter21/#cll*bnf-81) 81
+terms-2
 
-- termset
+[BNF rule #81](/chapter21/#cll*bnf-81) 81
 
-  [BNF rule #83](/chapter21/#cll*bnf-83) 83
+termset
 
-- text
+[BNF rule #83](/chapter21/#cll*bnf-83) 83
 
-  [BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #1101](/chapter21/#cll*bnf-1101)1101, [BNF rule #97](/chapter21/#cll*bnf-97)97
+text
 
-- text-1
+[BNF rule #32](/chapter21/#cll*bnf-32)32, [BNF rule #1101](/chapter21/#cll*bnf-1101)1101, [BNF rule #97](/chapter21/#cll*bnf-97)97
 
-  [BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #0](/chapter21/#cll*bnf-0)0
+text-1
 
-- time
+[BNF rule #14](/chapter21/#cll*bnf-14)14, [BNF rule #0](/chapter21/#cll*bnf-0)0
 
-  [BNF rule #972](/chapter21/#cll*bnf-972) 972
+time
 
-- time-offset
+[BNF rule #972](/chapter21/#cll*bnf-972) 972
 
-  [BNF rule #1030](/chapter21/#cll*bnf-1030) 1030
+time-offset
 
-- utterance
+[BNF rule #1030](/chapter21/#cll*bnf-1030) 1030
 
-  [BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
+utterance
 
-- vocative
+[BNF rule #1101](/chapter21/#cll*bnf-1101) 1101
 
-  [BNF rule #32](/chapter21/#cll_bnf-32) 32
+vocative
 
+[BNF rule #32](/chapter21/#cll_bnf-32) 32
+
+</div>
+
+<div class="p-4"></div>

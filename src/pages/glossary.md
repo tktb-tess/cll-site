@@ -3371,7 +3371,7 @@ joins relative clause/phrase to complete complex or logically connected sumti in
 
 ##### vu'u
 
-n-ary mathematical operator: minus; subtraction operator; \[(((a - b) - c) - ...)\].
+n-ary mathematical operator: minus; subtraction operator; $(((a - b) - c) - \dotsb)$.
 
 ##### vukro
 
@@ -3513,7 +3513,7 @@ abstractor: state (event) abstractor; x1 is continuous state of \[bridi\] being 
 
 ##### za'o
 
-interval event contour: continuing too long after natural end of ...; superfective | ---->.
+interval event contour: continuing too long after natural end of ...; superfective | --->.
 
 ##### za'u
 
