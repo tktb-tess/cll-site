@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic'
 ---
 
 ![The picture for chapter 16](../assets/chapter16.gif)
 
-## Contents
+## Table of Contents
 
 ## 16.1. What's wrong with this picture?
 

@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 20. A Catalogue of selma''o'
 ---
 
 ![The picture for chapter 20](../assets/chapter20.gif)
 
-## Contents
+## Table of Contents
 
 ## 20.1. A Catalogue Of selma'o
 

@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System'
 ---
 
 ![The picture for chapter 10](../assets/chapter10.gif)
 
-## Contents
+## Table of Contents
 
 ## 10.1. Introductory
 

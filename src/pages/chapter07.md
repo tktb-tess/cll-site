@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
 ---
 
 ![The picture for chapter 7](../assets/chapter07.gif)
 
-## Contents
+## Table of Contents
 
 ## 7.1. What are pro-sumti and pro-bridi? What are they for?
 

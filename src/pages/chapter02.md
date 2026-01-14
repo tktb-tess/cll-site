@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams'
 ---
 
 ![The picture for chapter 2](../assets/chapter02.gif)
 
-## Contents
+## Table of Contents
 
 ## 2.1. The concept of the bridi
 

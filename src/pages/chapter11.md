@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
 ---
 
 ![The picture for chapter 11](../assets/chapter11.gif)
 
-## Contents
+## Table of Contents
 
 ## 11.1. The syntax of abstraction
 

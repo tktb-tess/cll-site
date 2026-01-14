@@ -1,11 +1,11 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses'
 ---
 
 ![The picture for chapter 17](../assets/chapter17.gif)
 
-## Contents
+## Table of Contents
 
 ## 17.1. What's a letteral, anyway?
 
