@@ -34,11 +34,11 @@ The following cmavo are discussed in this section:
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| pa  | PA  | 1   | -   | xa  | PA  | 6   |
-| re  | PA  | 2   | -   | ze  | PA  | 7   |
-| ci  | PA  | 3   | -   | bi  | PA  | 8   |
-| vo  | PA  | 4   | -   | so  | PA  | 9   |
-| mu  | PA  | 5   | -   | no  | PA  | 0   |
+| pa  | PA  | 1   |     | xa  | PA  | 6   |
+| re  | PA  | 2   |     | ze  | PA  | 7   |
+| ci  | PA  | 3   |     | bi  | PA  | 8   |
+| vo  | PA  | 4   |     | so  | PA  | 9   |
+| mu  | PA  | 5   |     | no  | PA  | 0   |
 
 The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There are cmavo for each of the 10 decimal digits, and numbers greater than 9 are made by stringing together the cmavo. Some examples:
 
@@ -49,9 +49,8 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | re  | ci    |
 | one | two | three |
 
-*123*
-
-*one hundred and twenty three*
+- *123*
+- *one hundred and twenty three*
 
 ##### Example 18.3.
 
@@ -60,9 +59,8 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | no   |
 | one | zero |
 
-*10*
-
-*ten*
+- *10*
+- *ten*
 
 ##### Example 18.4.
 
@@ -71,9 +69,8 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | re  | ci    | vo   | mu   | xa  | ze    | bi    | so   | no   |
 | one | two | three | four | five | six | seven | eight | nine | zero |
 
-*1234567890*
-
-*one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, eight hundred and ninety.*
+- *1234567890*
+- *one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, eight hundred and ninety.*
 
 Therefore, there are no separate cmavo for “ten”, “hundred”, etc.
 
@@ -101,7 +98,8 @@ A number can be given an explicit sign by the use of *[ma'u](/glossary/#mau)* an
 | ------------- | --- |
 | ni'u          | pa  |
 | negative-sign | 1   |
-| -1            |     |
+
+- *\-1*
 
 Grammatically, the signs are part of the number to which they are attached. It is also possible to use *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)* by themselves as numbers; the meaning of these numbers is explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers").
 
@@ -114,7 +112,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | ci    | pi    | pa  | vo   | pa  | mu   |
 | three | point | one | four | one | five |
 
-*3.1415*
+- *3.1415*
 
 (In some cultures, a comma is used instead of a period in the symbolic version of [Example 18.6](/chapter18/#example-186 "Example 18.6."); *[pi](/glossary/#pi)* is still the Lojban representation for the decimal point.)
 
@@ -125,9 +123,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | re  | fi'u     | ze    |
 | two | fraction | seven |
 
-```math
-\frac{2}{7}
-```
+- $\frac{2}{7}$
 
 [Example 18.7](/chapter18/#example-187 "Example 18.7.") is the name of the number two-sevenths; it is not the same as “the result of 2 divided by 7” in Lojban, although numerically these two are equal. If the denominator of the fraction is present but the numerator is not, the numerator is taken to be 1, thus expressing the reciprocal of the following number:
 
@@ -138,9 +134,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | fi'u     | ze    |
 | fraction | seven |
 
-```math
-\frac{1}{7}
-```
+- $\frac{1}{7}$
 
 ##### Example 18.9.
 
@@ -149,7 +143,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | pi    | ci    | mu   | ra'e      | pa  | vo   | re  | bi    | mu   | ze    |
 | point | three | five | repeating | one | four | two | eight | five | seven |
 
-*.35142857142857...*
+- *.35142857142857...*
 
 Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating portion “142857” begins.
 
@@ -160,7 +154,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 | ci    | mu   | ce'i    |
 | three | five | percent |
 
-*35%*
+- *35%*
 
 ##### Example 18.11.
 
@@ -169,7 +163,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 | pa  | ki'o  | re  | ci    | vo   | ki'o  | mu   | xa  | ze    |
 | one | comma | two | three | four | comma | five | six | seven |
 
-*1,234,567*
+- *1,234,567*
 
 (In some cultures, spaces are used in the symbolic representation of [Example 18.11](/chapter18/#example-1811 "Example 18.11."); *[ki'o](/glossary/#kio)* is still the Lojban representation.)
 
@@ -183,6 +177,8 @@ It is also possible to have less than three digits between successive *[ki'o](/g
 | one       | comma | two | three | comma | four |
 | 1,023,004 |       |     |       |       |      |
 
+- *1,023,004*
+
 In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)* to divide fractions into groups of three:
 
 ##### Example 18.13.
@@ -191,27 +187,29 @@ In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)
 | ----- | ----- | --- | --- |
 | pi    | ki'o  | re  | re  |
 | point | comma | two | two |
-| .022  |       |     |     |
+
+- *.022*
 
 ##### Example 18.14.
 
-|            |     |       |     |     |       |     |
-| ---------- | --- | ----- | --- | --- | ----- | --- |
-| pi         | pa  | ki'o  | pa  | re  | ki'o  | pa  |
-| point      | one | comma | one | two | comma | one |
-| .001012001 |     |       |     |     |       |     |
+|       |     |       |     |     |       |     |
+| ----- | --- | ----- | --- | --- | ----- | --- |
+| pi    | pa  | ki'o  | pa  | re  | ki'o  | pa  |
+| point | one | comma | one | two | comma | one |
+
+- *.001012001*
 
 ## 18.4. Special numbers
 
 The following cmavo are discussed in this section:
 
-|      |     |                                                            |
-| ---- | --- | ---------------------------------------------------------- |
-| ci'i | PA  | infinity                                                   |
-| ka'o | PA  | imaginary i, sqrt(-1)                                      |
-| pai  | PA  | π, pi (approx 3.14159...)                                  |
-| te'o | PA  | exponential e (approx 2.71828...)                          |
-| fi'u | PA  | golden ratio, Φ, phi, (1 + sqrt(5))/2 (approx. 1.61803...) |
+|      |     |                                                                        |
+| ---- | --- | ---------------------------------------------------------------------- |
+| ci'i | PA  | infinity, $\infty$                                                     |
+| ka'o | PA  | imaginary $i$, $\sqrt{-1}$                                             |
+| pai  | PA  | pi, $\pi$ (approx 3.14159...)                                          |
+| te'o | PA  | exponential $e$ (approx 2.71828...)                                    |
+| fi'u | PA  | golden ratio, phi, $\phi$, $\frac{1+\sqrt{5}}{2}$ (approx. 1.61803...) |
 
 The last cmavo is the same as the fraction sign cmavo: a fraction sign with neither numerator nor denominator represents the golden ratio.
 
@@ -1832,9 +1830,8 @@ Another use is in constructing Lojbanic versions of so-called “folk quantifier
 | mi  | viska | vei | mo'e | lo'e        | lanzu  | ve'o        | cinfo  |
 | I   | see   | (   |      | the-typical | family | )-number-of | lions. |
 
-|                         |
-| ----------------------- |
-| I see a pride of lions. |
+
+- *I see a pride of lions.*
 
 ## 18.19. Other uses of mekso
 
@@ -1858,7 +1855,8 @@ The cmavo *[me'o](/glossary/#meo)* has the same grammatical use as *[li](/glossa
 | ---------- | --- | ---- | --- | ------ | ---------- | ----- |
 | li         | re  | su'i | re  | du     | li         | vo    |
 | The-number | two | plus | two | equals | the-number | four. |
-| 2 + 2 = 4  |     |      |     |        |            |       |
+
+- $2 + 2 = 4$
 
 but false that:
 
@@ -1869,9 +1867,7 @@ but false that:
 | me'o      | re  | su'i | re  | du     | me'o      | vo    |
 | The-mekso | two | plus | two | equals | the-mekso | four. |
 
-|             |
-| ----------- |
-| “2 + 2”=“4” |
+- “2 + 2” = “4”
 
 since the expressions “2 + 2” and “4” are not the same. The relationship between *[li](/glossary/#li)* and *[me'o](/glossary/#meo)* is related to that between *la djan.*, the person named John, and *zo .djan.*, the name “John”
 
@@ -1886,7 +1882,7 @@ for as many places as may be required. For example:
 |            |        |     |                 |             |            |        |
 | ---------- | ------ | --- | --------------- | ----------- | ---------- | ------ |
 | li         | ni'umu | cu  | nu'a            | va'a        | li         | ma'umu |
-| The-number | -5     |     | is-the-operator | negation-of | the-number | +5.    |
+| The-number | \-5    |     | is-the-operator | negation-of | the-number | +5.    |
 
 uses *[nu'a](/glossary/#nua)* to make the operator *[va'a](/glossary/#vaa)* into a two-place bridi
 
@@ -1903,7 +1899,8 @@ Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it pos
 | ------------- | --- | ------ | ---------- | ----- |
 | mo            | re  | du     | li         | vo    |
 | which-selbri? | two | equals | the-number | four. |
-| 2 ? 2 = 4     |     |        |            |       |
+
+- 2 ? 2 = 4
 
 ##### Example 18.132.
 
@@ -1911,23 +1908,16 @@ Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it pos
 | ---- | ---- |
 | nu'a | su'i |
 
-|      |
-| ---- |
-| plus |
+- *plus*
 
 In [Example 18.131](/chapter18/#example-18131 "Example 18.131."), *na'u mo* is an operator question, because *[mo](/glossary/#mo)* is the selbri question cmavo and *[na'u](/glossary/#nau)* makes the selbri into an operator. [Example 18.132](/chapter18/#example-18132 "Example 18.132.") makes the true answer *[su'i](/glossary/#sui)* into a selbri (which is a legal utterance) with the inverse cmavo *[nu'a](/glossary/#nua)*. Mechanically speaking, inserting [Example 18.132](/chapter18/#example-18132 "Example 18.132.") into [Example 18.131](/chapter18/#example-18131 "Example 18.131.") produces:
 
 ##### Example 18.133.
 
-|            |     |               |            |
-| ---------- | --- | ------------- | ---------- |
-| li         | re  | na'u          | nu'a       |
-| The-number | two | (the-operator | the-selbri |
-
-|       |     |        |            |       |
-| ----- | --- | ------ | ---------- | ----- |
-| su'i  | re  | du     | li         | vo    |
-| plus) | two | equals | the-number | four. |
+|            |     |               |            |       |     |        |            |       |
+| ---------- | --- | ------------- | ---------- | ----- | --- | ------ | ---------- | ----- |
+| li         | re  | na'u          | nu'a       | su'i  | re  | du     | li         | vo    |
+| The-number | two | (the-operator | the-selbri | plus) | two | equals | the-number | four. |
 
 where the *na'u nu'a* cancels out, leaving a truthful bridi
 
@@ -1939,9 +1929,7 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ----- |
 | pamai |
 
-|         |
-| ------- |
-| firstly |
+- *firstly*
 
 ##### Example 18.135.
 
@@ -1949,20 +1937,16 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ----- |
 | remai |
 
-|          |
-| -------- |
-| secondly |
+- *secondly*
 
 ##### Example 18.136.
 
 |        |
 | ------ |
 | romai  |
-| all-ly |
 
-|        |
-| ------ |
-| lastly |
+- *all-ly*
+- *lastly*
 
 ##### Example 18.137.
 
@@ -1970,9 +1954,7 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ------ |
 | ny.mai |
 
-|        |
-| ------ |
-| nth-ly |
+- *nth-ly*
 
 ##### Example 18.138.
 
@@ -1980,10 +1962,8 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | -------- |
 | pasomo'o |
 
-|                             |
-| --------------------------- |
-| nineteenthly (higher order) |
-| Section 19                  |
+- nineteenthly (higher order)
+- Section 19                  
 
 The difference between *[mai](/glossary/#mai)* and *[mo'o](/glossary/#moo)* is that *[mo'o](/glossary/#moo)* enumerates larger subdivisions of a text. Each *[mo'o](/glossary/#moo)* subdivision can then be divided into pieces and internally numbered with *[mai](/glossary/#mai)*. If this chapter were translated into Lojban, each section would be numbered with *[mo'o](/glossary/#moo)*. (See [Section 19.7](/chapter19/#197-utterance-ordinals-mai "19.7. Utterance ordinals: MAI") for more on these words.)
 
@@ -2003,7 +1983,7 @@ In future, we hope to create an improved machine parser that can understand decl
 
 A few other points:
 
-[*se*](/glossary/#se) can be used to convert an operator as if it were a selbri, so that its arguments are exchanged. For example:
+*[se](/glossary/#se)* can be used to convert an operator as if it were a selbri, so that its arguments are exchanged. For example:
 
 ##### Example 18.139.
 
