@@ -919,9 +919,8 @@ Creates a mathematical operator from a selbri. Terminated by [TEhU](/chapter20/#
 | vei | pai | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
 | (   | π   | /    | 2   | )        | =   | the-number | infinity. |
 
-|              |
-| ------------ |
-| tan(π/2) = ∞ |
+
+- $\tan{\frac{\pi}{2}} = \infty$
 
 ##### selma'o NIhE ([Section 18.18](/chapter18/#1818-using-lojban-resources-within-mekso "18.18. Using Lojban resources within mekso"))
 
@@ -1176,9 +1175,7 @@ Elidable terminator for [JOhI](/chapter20/#selmao-johi-section-1815), [MAhO](/ch
 | li         | jo'i   | voboi | xaboi |
 | the-number | array( | four, | six). |
 
-|                       |
-| --------------------- |
-| (1,2) + (3,4) = (4,6) |
+- $(1,2) + (3,4) = (4,6)$
 
 ##### selma'o TO ([Section 19.12](/chapter19/#1912-parenthesis-and-metalinguistic-commentary-to-toi-sei "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI"))
 
@@ -1302,9 +1299,7 @@ Left mathematical parenthesis: groups mathematical operations. Terminated by [VE
 | su'i | re  | bi'e         | pi'i  | ny. | su'i | pa  |
 | plus | two | \[priority\] | times | “n” | plus | 1.  |
 
-|                               |
-| ----------------------------- |
-| (n + 1)(n + 1) = n 2 + 2n + 1 |
+- $(n + 1)(n + 1) = n^{2} + 2n + 1$
 
 ##### selma'o VEhA ([Section 10.5](/chapter10/#105-interval-sizes-veha-and-zeha "10.5. Interval sizes: VEhA and ZEhA"))
 
@@ -1334,9 +1329,8 @@ Elidable terminator for [VEI](/chapter20/#selmao-vei-section-185): right mathema
 | re  | bi'e         | pi'i  | ny. | su'i | pa  |
 | two | \[priority\] | times | “n” | plus | 1.  |
 
-|                               |
-| ----------------------------- |
-| (n + 1)(n + 1) = n 2 + 2n + 1 |
+- $(n + 1)(n + 1) = n^{2} + 2n + 1$
+
 
 ##### selma'o VIhA ([Section 10.7](/chapter10/#107-dimensionality-viha "10.7. Dimensionality: VIhA"))
 
@@ -1378,9 +1372,7 @@ Mathematical operators (e.g. +, −). See [MAhO](/chapter20/#selmao-maho-section
 | li         | mu  | vu'u  | re  | du     | li         | ci  |
 | The-number | 5   | minus | 2   | equals | the-number | 3.  |
 
-|           |
-| --------- |
-| 5 − 2 = 3 |
+- 5 − 2 = 3
 
 ##### selma'o XI ([Section 18.13](/chapter18/#1813-subscripts "18.13. Subscripts"))
 
@@ -1391,9 +1383,7 @@ The subscript marker: the following number or lerfu string is a subscript for wh
 | xy. | xi  | re  |
 | x   | sub | 2   |
 
-|     |
-| --- |
-| x2  |
+- $x\times 2$
 
 ##### selma'o Y ([Section 19.14](/chapter19/#1914-hesitation-y "19.14. Hesitation: Y"))
 
