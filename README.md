@@ -28,3 +28,11 @@ git clone https://github.com/tktb-tess/cll-site.git
 pnpm i --frozen-lockfile
 pnpm run dev
 ```
+## HTML生成
+
+```bash
+pnpm run build
+```
+
+を実行後、dist ディレクトリに生成される。
+

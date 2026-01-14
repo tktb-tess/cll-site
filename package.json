@@ -3,13 +3,18 @@
   "type": "module",
   "private": true,
   "version": "0.0.1",
+  "license": "SEE LICENSE IN https://github.com/tktb-tess/cll-site/blob/main/README.md",
+  "files": [
+    "./dist"
+  ],
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
     "build-preview": "astro build && astro preview",
     "astro": "astro",
-    "script": "tsx mod/script.ts"
+    "script": "tsx mod/script.ts",
+    "generate-pack": "astro build && pnpm pack --pack-destination pkg"
   },
   "dependencies": {
     "@tailwindcss/typography": "^0.5.19",
