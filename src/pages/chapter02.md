@@ -15,19 +15,19 @@ Let us consider John and Sam and three statements about them:
 
 ##### Example 2.1.
 
-- *John is the father of Sam.*
+- John is the father of Sam.
 
 ##### Example 2.2.
 
-- *John hits Sam.*
+- John hits Sam.
 
 ##### Example 2.3.
 
-- *John is taller than Sam.*
+- John is taller than Sam.
 
 These examples all describe relationships between John and Sam. However, in English, we use the noun “father” to describe a static relationship in [Example 2.1](/chapter02/#example-21 "Example 2.1."), the verb “hits” to describe an active relationship in [Example 2.2](/chapter02/#example-22 "Example 2.2."), and the adjective “taller” to describe an attributive relationship in [Example 2.3](/chapter02/#example-23 "Example 2.3."). In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a “predication”; in Lojban it is called a *[bridi](/glossary/#bridi)*, and the central part of speech is the *[selbri](/glossary/#selbri)*. Logicians refer to the things thus related as “arguments”, while Lojbanists call them *[sumti](/glossary/#sumti)*. These Lojban terms will be used for the rest of the book.
 
-<div class="[&_img]:bg-slate-50 [&_img]:dark:bg-slate-200">
+<div class="[&_img]:bg-slate-50 [&_img]:dark:bg-slate-200 m-4">
 
 ![bridi (predicate) \_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | John is the father of Sam |\_\_\_\_| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |\_\_\_| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
 
@@ -37,19 +37,19 @@ In a relationship, there are a definite number of things being related. In Engli
 
 ##### Example 2.4.
 
-- *John gives Sam the book.*
+- John gives Sam the book.
 
 and
 
 ##### Example 2.5.
 
-- *Sam gives John the book.*
+- Sam gives John the book.
 
 mean two different things because the relative positions of “John” and “Sam” have been switched. Further,
 
 ##### Example 2.6.
 
-- *The book gives John Sam.*
+- The book gives John Sam.
 
 seems strange to us merely because the places are being filled by unorthodox arguments. The relationship expressed by “give” has not changed.
 

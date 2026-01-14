@@ -7,8 +7,6 @@ title: 'Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book'
 
 ## Table of Contents
 
-test
-
 ## 1.1. What is Lojban?
 
 Lojban (pronounced “LOZH-bahn”) is a constructed language. Previous versions of the language were called “Loglan” by Dr. James Cooke Brown, who founded the Loglan Project and started the development of the language in 1955. The goals for the language were first described in the open literature in the article “Loglan”, published in *Scientific American*, June, 1960. Made well-known by that article and by occasional references in science fiction (most notably in Robert Heinlein's novel *The Moon Is A Harsh Mistress*) and computer publications, Loglan and Lojban have been built over four decades by dozens of workers and hundreds of supporters, led since 1987 by The Logical Language Group (who are the publishers of this book).
@@ -21,7 +19,7 @@ There are thousands of artificial languages (of which Esperanto is the best-know
 - Lojban has an unambiguous yet flexible grammar.
 - Lojban has phonetic spelling, and unambiguously resolves its sounds into words.
 - Lojban is simple compared to natural languages; it is easy to learn.
-- Lojban's 1300 root words can be easily combined to form a vocabulary of millions of words.
+- Lojban’s 1300 root words can be easily combined to form a vocabulary of millions of words.
 - Lojban is regular; the rules of the language are without exceptions.
 - Lojban attempts to remove restrictions on creative and clear thought and communication.
 - Lojban has a variety of uses, ranging from the creative to the scientific, from the theoretical to the practical.
@@ -52,7 +50,7 @@ The reader will notice a certain similarity in the examples used throughout the 
 | mi  | klama | le                         | zarci  |
 | I   | go-to | that-which-I-describe-as-a | store. |
 
-*I go to the store.*
+I go to the store.
 
 will become wearisomely familiar before [Chapter 21](/chapter21/ "Chapter 21. Formal Grammars") is reached. This method is deliberate; I have tried to use simple and (eventually) familiar examples wherever possible, to avoid obscuring new grammatical points with new vocabulary. Of course, this is not the method of a textbook, but this book is not a textbook (although people have learned Lojban from it and its predecessors). Rather, it is intended both for self-learning (of course, at present would-be Lojban teachers must be self-learners) and to serve as a reference in the usual sense, for looking up obscure points about the language.
 

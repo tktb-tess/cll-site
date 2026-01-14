@@ -54,6 +54,16 @@
     :where(h2#table-of-contents) + ul {
       @apply bg-violet-50 dark:bg-violet-950 border border-slate-300 dark:border-slate-600 rounded;
     }
+
+    tr:where(
+        h5[id*='example']
+          + :is(table, div.table-scrollable)
+          tbody
+          > tr:first-child
+      ),
+    li:where(h5[id*='example'] + ul > li) {
+      @apply italic;
+    }
   }
 }
 

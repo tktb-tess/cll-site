@@ -101,33 +101,29 @@ For example:
 ##### Example 4.1.
 
 - .iseci'i
-
 - .i se ci'i
 
 ##### Example 4.2.
 
 - punaijecanai
-
 - pu nai je ca nai
 
 ##### Example 4.3.
 
 - ki'e.u'e
-
 - ki'e .u'e
 
 The cmavo *[u'e](/glossary/#ue)* begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by *.*) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,
 
 ##### Example 4.4.
 
-ki'e'u'e
+- ki'e'u'e
 
 is a single cmavo reserved for experimental purposes: it has four vowels.
 
 ##### Example 4.5.
 
 - cy.ibu.abu
-
 - cy. .ibu .abu
 
 Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
@@ -137,7 +133,6 @@ There is no particular stress required in cmavo or their compounds. Some convent
 ##### Example 4.6.
 
 - .e'o ko ko kurji
-
 - .E'o ko ko KURji
 
 This convention results in a consistent rhythm to the language, since brivla are required to have penultimate stress; some find this esthetically pleasing.
