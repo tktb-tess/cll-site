@@ -49,8 +49,9 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | re  | ci    |
 | one | two | three |
 
-- *123*
-- *one hundred and twenty three*
+123
+
+one hundred and twenty three
 
 ##### Example 18.3.
 
@@ -59,8 +60,9 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | no   |
 | one | zero |
 
-- *10*
-- *ten*
+10
+
+ten
 
 ##### Example 18.4.
 
@@ -69,8 +71,9 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 | pa  | re  | ci    | vo   | mu   | xa  | ze    | bi    | so   | no   |
 | one | two | three | four | five | six | seven | eight | nine | zero |
 
-- *1234567890*
-- *one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, eight hundred and ninety.*
+1234567890
+
+one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, eight hundred and ninety.
 
 Therefore, there are no separate cmavo for “ten”, “hundred”, etc.
 
@@ -99,7 +102,7 @@ A number can be given an explicit sign by the use of *[ma'u](/glossary/#mau)* an
 | ni'u          | pa  |
 | negative-sign | 1   |
 
-- *\-1*
+\-1
 
 Grammatically, the signs are part of the number to which they are attached. It is also possible to use *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)* by themselves as numbers; the meaning of these numbers is explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers").
 
@@ -112,7 +115,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | ci    | pi    | pa  | vo   | pa  | mu   |
 | three | point | one | four | one | five |
 
-- *3.1415*
+3.1415
 
 (In some cultures, a comma is used instead of a period in the symbolic version of [Example 18.6](/chapter18/#example-186 "Example 18.6."); *[pi](/glossary/#pi)* is still the Lojban representation for the decimal point.)
 
@@ -143,7 +146,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 | pi    | ci    | mu   | ra'e      | pa  | vo   | re  | bi    | mu   | ze    |
 | point | three | five | repeating | one | four | two | eight | five | seven |
 
-- *.35142857142857...*
+.35142857142857...
 
 Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating portion “142857” begins.
 
@@ -154,7 +157,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 | ci    | mu   | ce'i    |
 | three | five | percent |
 
-- *35%*
+35%
 
 ##### Example 18.11.
 
@@ -163,7 +166,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 | pa  | ki'o  | re  | ci    | vo   | ki'o  | mu   | xa  | ze    |
 | one | comma | two | three | four | comma | five | six | seven |
 
-- *1,234,567*
+1,234,567
 
 (In some cultures, spaces are used in the symbolic representation of [Example 18.11](/chapter18/#example-1811 "Example 18.11."); *[ki'o](/glossary/#kio)* is still the Lojban representation.)
 
@@ -177,7 +180,7 @@ It is also possible to have less than three digits between successive *[ki'o](/g
 | one       | comma | two | three | comma | four |
 | 1,023,004 |       |     |       |       |      |
 
-- *1,023,004*
+1,023,004
 
 In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)* to divide fractions into groups of three:
 
@@ -188,7 +191,7 @@ In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)
 | pi    | ki'o  | re  | re  |
 | point | comma | two | two |
 
-- *.022*
+.022
 
 ##### Example 18.14.
 
@@ -197,7 +200,7 @@ In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)
 | pi    | pa  | ki'o  | pa  | re  | ki'o  | pa  |
 | point | one | comma | one | two | comma | one |
 
-- *.001012001*
+.001012001
 
 ## 18.4. Special numbers
 
@@ -229,7 +232,7 @@ $+\infty$
 | --- | ---- | --- |
 | ci  | ka'o | re  |
 
-*3i2* (a complex number equivalent to 3 + 2i)
+3i2 (a complex number equivalent to 3 + 2i)
 
 Note that *[ka'o](/glossary/#kao)* is both a special number (meaning “i”) and a number punctuation mark (separating the real and the imaginary parts of a complex number).
 
@@ -324,9 +327,7 @@ The cmavo *[li](/glossary/#li)* is the number article. It is required whenever a
 | --- | --- | ----- |
 | le  | ci  | prenu |
 
-|                   |
-| ----------------- |
-| the three persons |
+the three persons
 
 requires no *[li](/glossary/#li)* article, because the *[ci](/glossary/#ci)* is being used to specify the number of *[prenu](/glossary/#prenu)*. However, the sentence
 
@@ -337,9 +338,7 @@ requires no *[li](/glossary/#li)* article, because the *[ci](/glossary/#ci)* is 
 | levi | sfani | cu  | grake           | li         | ci     |
 | This | fly   |     | masses-in-grams | the-number | three. |
 
-|                                 |
-| ------------------------------- |
-| This fly has a mass of 3 grams. |
+This fly has a mass of 3 grams.
 
 requires *[li](/glossary/#li)* because *[ci](/glossary/#ci)* is being used as a sumti. Note that this is the way in which measurements are stated in Lojban: all the predicates for units of length, mass, temperature, and so on have the measured object as the first place and a number as the second place. Using *[li](/glossary/#li)* for *[le](/glossary/#le)* in [Example 18.23](/chapter18/#example-1823 "Example 18.23.") would produce
 
@@ -437,7 +436,8 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 | ------------------------ | --- | ---- | ----- | --- | ---- | --- |
 | su'i                     | re  | bi'e | pi'i  | ny. | su'i | pa  |
 | plus                     | two |      | times | `n` | plus | 1.  |
-| (n+1)(n+1) = n2 + 2n + 1 |     |      |       |     |      |     |
+
+$(n+1)(n+1) = n^{2} + 2n + 1$
 
 There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/#tea)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/#ny)*, representing the letter “n”. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a × b × c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables “a”, “b”, and “c” multiplied together.)
 
@@ -469,7 +469,8 @@ But there are many operators which do not have two operands, or which have a var
 | -------------- | ---------- | ----- | ----- | --------- | ------ | ---------- | ---- |
 | li             | su'i       | paboi | reboi | ci\[boi\] | du     | li         | xa   |
 | The-number     | the-sum-of | one   | two   | three     | equals | the-number | six. |
-| sum(1,2,3) = 6 |            |       |       |           |        |            |      |
+
+$sum(1,2,3) = 6$
 
 Note that the normally elidable number terminator *[boi](/glossary/#boi)* is required after *[pa](/glossary/#pa)* and *[re](/glossary/#re)* because otherwise the reading would be *pareci*= 123. It is not required after *[ci](/glossary/#ci)* but is inserted here in brackets for the sake of symmetry. The only time *[boi](/glossary/#boi)* is required is, as in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), when there are two consecutive numbers or lerfu strings.
 
@@ -1577,7 +1578,8 @@ In Lojban, RP operators are always parsed with exactly two operands. What about 
 | ---------- | ---------- | ----- | ----- | ----- | ------------ |
 | du         | li         | fu'a  | reboi | tu'o  | va'a         |
 | equals     | the-number | (RP!) | two,  | null, | negative-of. |
-| 3 − 5 = -2 |            |       |       |       |              |
+
+$3 - 5 = {-2}$
 
 ##### Example 18.113.
 
@@ -1709,7 +1711,8 @@ Non-logical connection with JOI and BIhI is also permitted between operands and 
 | ---------- | ---- | ----------- | ------- | ----------- | --- |
 | li         | no   | ga'o        | bi'o    | ke'i        | pa  |
 | the-number | zero | (inclusive) | from-to | (exclusive) | one |
-| \[0,1)     |      |             |         |             |     |
+
+$[0, 1)$
 
 |                                                                    |
 | ------------------------------------------------------------------ |
@@ -1773,11 +1776,12 @@ The cmavo *[na'u](/glossary/#nau)* makes a selbri into an operator. In general, 
 | li         | na'u         | tanjo   | te'u             |
 | The-number | the-operator | tangent | \[end-operator\] |
 
-|              |     |      |     |          |     |            |           |
-| ------------ | --- | ---- | --- | -------- | --- | ---------- | --------- |
-| vei          | pai | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
-| (            | π   | /    | 2   | )        | =   | the-number | infinity. |
-| tan(π/2) = ∞ |     |      |     |          |     |            |           |
+|     |     |      |     |          |     |            |           |
+| --- | --- | ---- | --- | -------- | --- | ---------- | --------- |
+| vei | pai | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
+| (   | π   | /    | 2   | )        | =   | the-number | infinity. |
+
+$\tan{\dfrac{\pi}{2}} = \infty$
 
 *[tanjo](/glossary/#tanjo)* is the gismu for “x1 is the tangent of x2”, and the *[na'u](/glossary/#nau)* here makes it into an operator which is then used in forethought
 
@@ -1831,7 +1835,7 @@ Another use is in constructing Lojbanic versions of so-called “folk quantifier
 | I   | see   | (   |      | the-typical | family | )-number-of | lions. |
 
 
-- *I see a pride of lions.*
+I see a pride of lions.
 
 ## 18.19. Other uses of mekso
 
@@ -1908,7 +1912,7 @@ Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it pos
 | ---- | ---- |
 | nu'a | su'i |
 
-- *plus*
+plus
 
 In [Example 18.131](/chapter18/#example-18131 "Example 18.131."), *na'u mo* is an operator question, because *[mo](/glossary/#mo)* is the selbri question cmavo and *[na'u](/glossary/#nau)* makes the selbri into an operator. [Example 18.132](/chapter18/#example-18132 "Example 18.132.") makes the true answer *[su'i](/glossary/#sui)* into a selbri (which is a legal utterance) with the inverse cmavo *[nu'a](/glossary/#nua)*. Mechanically speaking, inserting [Example 18.132](/chapter18/#example-18132 "Example 18.132.") into [Example 18.131](/chapter18/#example-18131 "Example 18.131.") produces:
 
@@ -1929,7 +1933,7 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ----- |
 | pamai |
 
-- *firstly*
+firstly
 
 ##### Example 18.135.
 
@@ -1937,16 +1941,17 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ----- |
 | remai |
 
-- *secondly*
+secondly
 
 ##### Example 18.136.
 
-|        |
-| ------ |
-| romai  |
+|       |
+| ----- |
+| romai |
 
-- *all-ly*
-- *lastly*
+all-ly
+
+lastly
 
 ##### Example 18.137.
 
@@ -1954,7 +1959,7 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 | ------ |
 | ny.mai |
 
-- *nth-ly*
+nth-ly
 
 ##### Example 18.138.
 
@@ -2174,82 +2179,82 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 
 ## 18.25. Complete table of PA cmavo: digits, punctuation, and other numbers.
 
-- **Table 18.1. Decimal digits**
+**Table 18.1. Decimal digits**
 
-  |     |     |     |
-  | --- | --- | --- |
-  | no  | non | 0   |
-  | pa  | pav | 1   |
-  | re  | rel | 2   |
-  | ci  | cib | 3   |
-  | vo  | von | 4   |
-  | mu  | mum | 5   |
-  | xa  | xav | 6   |
-  | ze  | zel | 7   |
-  | bi  | biv | 8   |
-  | so  | soz | 9   |
+|     |     |     |
+| --- | --- | --- |
+| no  | non | 0   |
+| pa  | pav | 1   |
+| re  | rel | 2   |
+| ci  | cib | 3   |
+| vo  | von | 4   |
+| mu  | mum | 5   |
+| xa  | xav | 6   |
+| ze  | zel | 7   |
+| bi  | biv | 8   |
+| so  | soz | 9   |
 
-- **Table 18.2. Hexadecimal digits**
+**Table 18.2. Hexadecimal digits**
 
-  |     |      |
-  | --- | ---- |
-  | dau | A/10 |
-  | fei | B/11 |
-  | gai | C/12 |
-  | jau | D/13 |
-  | rei | E/14 |
-  | vai | F/15 |
+|     |      |
+| --- | ---- |
+| dau | A/10 |
+| fei | B/11 |
+| gai | C/12 |
+| jau | D/13 |
+| rei | E/14 |
+| vai | F/15 |
 
-- **Table 18.3. Special numbers**
+**Table 18.3. Special numbers**
 
-  |      |               |
-  | ---- | ------------- |
-  | pai  | π             |
-  | ka'o | imaginary i   |
-  | te'o | exponential e |
-  | ci'i | infinity (∞)  |
+|      |               |
+| ---- | ------------- |
+| pai  | π             |
+| ka'o | imaginary i   |
+| te'o | exponential e |
+| ci'i | infinity (∞)  |
 
-- **Table 18.4. Number punctuation**
+**Table 18.4. Number punctuation**
 
-  |      |                                                                                                                             |                         |
-  | ---- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-  | pi   | piz                                                                                                                         | decimal point           |
-  | ce'i | cez                                                                                                                         | percentage              |
-  | fi'u | fi'u (from frinu; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) | fraction (not division) |
-  | pi'e | mixed-base point                                                                                                            |                         |
-  | ma'u | plus sign (not addition)                                                                                                    |                         |
-  | ni'u | minus sign (not subtraction)                                                                                                |                         |
-  | ki'o | thousands comma                                                                                                             |                         |
-  | ra'e | repeating-decimal indicator                                                                                                 |                         |
-  | ji'i | approximation sign                                                                                                          |                         |
-  | ka'o | complex number separator                                                                                                    |                         |
+|      |                                                                                                                             |                         |
+| ---- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| pi   | piz                                                                                                                         | decimal point           |
+| ce'i | cez                                                                                                                         | percentage              |
+| fi'u | fi'u (from frinu; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) | fraction (not division) |
+| pi'e | mixed-base point                                                                                                            |                         |
+| ma'u | plus sign (not addition)                                                                                                    |                         |
+| ni'u | minus sign (not subtraction)                                                                                                |                         |
+| ki'o | thousands comma                                                                                                             |                         |
+| ra'e | repeating-decimal indicator                                                                                                 |                         |
+| ji'i | approximation sign                                                                                                          |                         |
+| ka'o | complex number separator                                                                                                    |                         |
 
-- **Table 18.5. Indefinite numbers**
+**Table 18.5. Indefinite numbers**
 
-  |      |      |            |      |
-  | ---- | ---- | ---------- | ---- |
-  | ro   | all  | rol        |      |
-  | so'a | soj  | almost all |      |
-  | so'e | sop  | most       |      |
-  | so'i | many | sor        | so'i |
-  | so'o | sos  | several    |      |
-  | so'u | sot  | few        |      |
-  | da'a | daz  | all but    |      |
+|      |      |            |      |
+| ---- | ---- | ---------- | ---- |
+| ro   | all  | rol        |      |
+| so'a | soj  | almost all |      |
+| so'e | sop  | most       |      |
+| so'i | many | sor        | so'i |
+| so'o | sos  | several    |      |
+| so'u | sot  | few        |      |
+| da'a | daz  | all but    |      |
 
-- **Table 18.6. Subjective numbers**
+**Table 18.6. Subjective numbers**
 
-  |      |          |
-  | ---- | -------- |
-  | rau  | enough   |
-  | du'e | too few  |
-  | mo'a | too many |
+|      |          |
+| ---- | -------- |
+| rau  | enough   |
+| du'e | too few  |
+| mo'a | too many |
 
-- **Table 18.7. Miscellaneous**
+**Table 18.7. Miscellaneous**
 
-  |      |                 |
-  | ---- | --------------- |
-  | xo   | number question |
-  | tu'o | null operand    |
+|      |                 |
+| ---- | --------------- |
+| xo   | number question |
+| tu'o | null operand    |
 
 ## 18.26. Table of MOI cmavo, with associated rafsi and place structures
 
