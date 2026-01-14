@@ -16,5 +16,6 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [[remarkToc, { heading: 'table of contents', maxDepth: 4 }], remarkMath],
     rehypePlugins: [rehypeKatex],
+    smartypants: false,
   },
 });

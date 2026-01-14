@@ -29,7 +29,7 @@ mds_.sort((a, b) => {
 
 const mds = mds_.map(({ frontmatter, url, getHeadings }) => {
   const sections = getHeadings()
-    .filter(({ depth, text }) => depth === 2 && text !== 'Contents')
+    .filter(({ depth, text }) => depth === 2 && text !== 'Table of Contents')
     .map(({ text, slug }) => {
       return {
         sectionUrl: `${url}#${slug}`,
@@ -46,7 +46,7 @@ const mds = mds_.map(({ frontmatter, url, getHeadings }) => {
 ---
 
 <Layout title='The Complete Lojban Language' url='/'>
-  <h2 id="table-of-contents">Table of Contents</h2>
+  <h2 id='table-of-contents'>Table of Contents</h2>
   <ul>
     {
       mds.map(({ title, url, sections }) => (
