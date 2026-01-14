@@ -19,3 +19,12 @@ For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA
 ## Changes
 
 - changed "@" in E-mail address into "\[at\]" to avoid spam mails.
+- corrected obvious typos
+
+## ローカルで動かす
+
+```bash
+git clone https://github.com/tktb-tess/cll-site.git
+pnpm i --frozen-lockfile
+pnpm run dev
+```
