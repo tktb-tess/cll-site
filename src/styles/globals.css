@@ -36,6 +36,14 @@
 
     table {
       @apply lg:max-w-max lg:me-auto;
+
+      :where(:is(thead, tbody tr)) {
+        @apply border-b-0;
+      }
+
+      :where(tr :is(td, th):not(:last-child)) {
+        @apply border-e border-slate-300;
+      }
     }
 
     li > :where(p) {
