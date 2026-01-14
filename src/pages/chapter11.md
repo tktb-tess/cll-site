@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
 ---
 

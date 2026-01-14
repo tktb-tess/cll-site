@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 4. The Shape Of Words To Come: Lojban Morphology'
 ---
 

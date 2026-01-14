@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 12. Dog House And White House: Determining lujvo Place Structures'
 ---
 

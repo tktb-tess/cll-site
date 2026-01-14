@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
 ---
 

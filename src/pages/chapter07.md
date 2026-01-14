@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
 ---
 

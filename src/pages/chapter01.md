@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book'
 ---
 

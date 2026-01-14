@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators'
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
 ---
 

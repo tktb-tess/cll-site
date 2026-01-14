@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 3. The Hills Are Alive With The Sounds Of Lojban'
 ---
 

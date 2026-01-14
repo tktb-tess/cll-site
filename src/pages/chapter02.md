@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams'
 ---
 

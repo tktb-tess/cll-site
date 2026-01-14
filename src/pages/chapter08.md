@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 8. Relative Clauses, Which Make sumti Even More Complicated'
 ---
 

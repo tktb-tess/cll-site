@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban selbri'
 ---
 

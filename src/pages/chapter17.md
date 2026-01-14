@@ -1,5 +1,5 @@
 ---
-layout: ../layouts/Layout.astro
+layout: ../layouts/MdLayout.astro
 title: 'Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses'
 ---
 
