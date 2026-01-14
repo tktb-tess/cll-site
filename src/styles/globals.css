@@ -24,7 +24,7 @@
     prose-a:hover:opacity-60 prose-a:transition-opacity;
 
     h1:where(#title) {
-      @apply font-serif font-normal text-center my-12;
+      @apply font-extralight text-center my-12;
     }
 
     :is(h2, h3, h4) {
