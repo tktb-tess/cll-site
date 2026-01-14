@@ -5,7 +5,7 @@ title: 'Chapter 15. “No” Problems: On Lojban Negation'
 
 ![The picture for chapter 15](../assets/chapter15.gif)
 
-## Contents
+## Table of Contents
 
 ## 15.1. Introductory
 

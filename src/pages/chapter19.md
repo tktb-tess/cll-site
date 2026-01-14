@@ -5,7 +5,7 @@ title: 'Chapter 19. Putting It All Together: Notes on the Structure of Lojban Te
 
 ![The picture for chapter 19](../assets/chapter19.gif)
 
-## Contents
+## Table of Contents
 
 ## 19.1. Introductory
 

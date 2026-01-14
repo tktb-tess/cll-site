@@ -5,7 +5,7 @@ title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Loj
 
 ![The picture for chapter 11](../assets/chapter11.gif)
 
-## Contents
+## Table of Contents
 
 ## 11.1. The syntax of abstraction
 

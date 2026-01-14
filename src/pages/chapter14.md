@@ -5,7 +5,7 @@ title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
 
 ![The picture for chapter 14](../assets/chapter14.gif)
 
-## Contents
+## Table of Contents
 
 ## 14.1. Logical connection and truth tables
 

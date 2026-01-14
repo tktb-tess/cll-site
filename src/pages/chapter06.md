@@ -5,7 +5,7 @@ title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
 
 ![The picture for chapter 6](../assets/chapter06.gif)
 
-## Contents
+## Table of Contents
 
 ## 6.1. The five kinds of simple sumti
 

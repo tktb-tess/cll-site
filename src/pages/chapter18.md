@@ -5,7 +5,7 @@ title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
 
 ![The picture for chapter 18](../assets/chapter18.gif)
 
-## Contents
+## Table of Contents
 
 ## 18.1. Introductory
 

@@ -1,0 +1,68 @@
+---
+import type { MarkdownHeading } from 'astro';
+import Layout from '../layouts/Layout.astro';
+import { urls } from '../modules/titles';
+interface MdProps {
+  readonly frontmatter: {
+    readonly title: string;
+    readonly description?: string;
+  };
+  readonly url: string;
+  readonly getHeadings: () => MarkdownHeading[];
+}
+
+const mds_: MdProps[] = Object.values(
+  import.meta.glob('./*.md', { eager: true })
+);
+
+mds_.sort((a, b) => {
+  let aIndex = urls.findIndex((s) => s === a.url);
+  let bIndex = urls.findIndex((s) => s === b.url);
+  if (aIndex === -1) {
+    aIndex = Infinity;
+  }
+  if (bIndex === -1) {
+    bIndex = Infinity;
+  }
+  return aIndex - bIndex;
+});
+
+const mds = mds_.map(({ frontmatter, url, getHeadings }) => {
+  const sections = getHeadings()
+    .filter(({ depth, text }) => depth === 2 && text !== 'Contents')
+    .map(({ text, slug }) => {
+      return {
+        sectionUrl: `${url}#${slug}`,
+        sectionTitle: text,
+      };
+    });
+  const title = frontmatter.title;
+  return {
+    title,
+    url,
+    sections,
+  };
+});
+---
+
+<Layout title='The Complete Lojban Language' url='/'>
+  <h2>Table of Contents</h2>
+  <ul>
+    {
+      mds.map(({ title, url, sections }) => (
+        <li>
+          <p>
+            <a href={url}>{title}</a>
+          </p>
+          <ul>
+            {sections.map(({ sectionTitle, sectionUrl }) => (
+              <li>
+                <a href={sectionUrl}>{sectionTitle}</a>
+              </li>
+            ))}
+          </ul>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>

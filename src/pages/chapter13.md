@@ -5,7 +5,7 @@ title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicator
 
 ![The picture for chapter 13](../assets/chapter13.gif)
 
-## Contents
+## Table of Contents
 
 ## 13.1. What are attitudinal indicators?
 

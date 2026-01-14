@@ -5,7 +5,7 @@ title: 'Chapter 4. The Shape Of Words To Come: Lojban Morphology'
 
 ![The picture for chapter 4](../assets/chapter04.gif)
 
-## Contents
+## Table of Contents
 
 ## 4.1. Introductory
 

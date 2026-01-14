@@ -5,7 +5,7 @@ title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban 
 
 ![The picture for chapter 5](../assets/chapter05.gif)
 
-## Contents
+## Table of Contents
 
 ## 5.1. Lojban content words: brivla
 

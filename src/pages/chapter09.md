@@ -5,7 +5,7 @@ title: 'Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land 
 
 ![The picture for chapter 9](../assets/chapter09.gif)
 
-## Contents
+## Table of Contents
 
 ## 9.1. Introductory
 

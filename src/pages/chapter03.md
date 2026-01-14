@@ -5,7 +5,7 @@ title: 'Chapter 3. The Hills Are Alive With The Sounds Of Lojban'
 
 ![The picture for chapter 3](../assets/chapter03.gif)
 
-## Contents
+## Table of Contents
 
 ## 3.1. Orthography
 

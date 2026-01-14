@@ -1,0 +1,20 @@
+---
+import '../styles/globals.css';
+import type { MarkdownLayoutProps } from 'astro';
+import Layout from './Layout.astro';
+
+type Props = MarkdownLayoutProps<{
+  readonly title: string;
+  readonly description?: string;
+}>;
+
+const { frontmatter } = Astro.props;
+const url = (() => {
+  const { url } = Astro.props;
+  return url ? url : '/';
+})();
+---
+
+<Layout title={frontmatter.title} {url}>
+  <slot />
+</Layout>

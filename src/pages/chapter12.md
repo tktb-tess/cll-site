@@ -5,7 +5,7 @@ title: 'Chapter 12. Dog House And White House: Determining lujvo Place Structure
 
 ![The picture for chapter 12](../assets/chapter12.gif)
 
-## Contents
+## Table of Contents
 
 ## 12.1. Why have lujvo?
 

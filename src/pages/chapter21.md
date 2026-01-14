@@ -5,7 +5,7 @@ title: 'Chapter 21. Formal Grammars'
 
 ![The picture for chapter 21](../assets/chapter21.gif)
 
-## Contents
+## Table of Contents
 
 ## 21.1. EBNF Grammar of Lojban
 
