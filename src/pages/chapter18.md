@@ -242,28 +242,20 @@ Note that *[ka'o](/glossary/#kao)* is both a special number (meaning “i”) an
 | ---- | --- |
 | ci'i | no  |
 
-|                                     |
-| ----------------------------------- |
-| infinity zero                       |
+infinity zero
 | $\aleph_0$ (a transfinite cardinal) |
 
 The special numbers *[pai](/glossary/#pai)* and *[te'o](/glossary/#teo)* are mathematically important, which is why they are given their own cmavo:
 
 ##### Example 18.18.
 
-|     |
-| --- |
-| pai |
+pai
 
-|           |
-| --------- |
-| pi, $\pi$ |
+pi, $\pi$
 
 ##### Example 18.19.
 
-|      |
-| ---- |
-| te'o |
+te'o
 
 $e$
 
@@ -275,9 +267,7 @@ However, many combinations are as yet undefined:
 | --- | --- | --- | --- | --- |
 | pa  | pi  | re  | pi  | ci  |
 
-|       |
-| ----- |
-| 1.2.3 |
+1.2.3
 
 ##### Example 18.21.
 
@@ -432,10 +422,10 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 | du     | li         | ny. | \[bi'e\] | te'a         | re  |
 | equals | the-number | n   |          | to-the-power | two |
 
-|                          |     |      |       |     |      |     |
-| ------------------------ | --- | ---- | ----- | --- | ---- | --- |
-| su'i                     | re  | bi'e | pi'i  | ny. | su'i | pa  |
-| plus                     | two |      | times | `n` | plus | 1.  |
+|      |     |      |       |     |      |     |
+| ---- | --- | ---- | ----- | --- | ---- | --- |
+| su'i | re  | bi'e | pi'i  | ny. | su'i | pa  |
+| plus | two |      | times | `n` | plus | 1.  |
 
 $(n+1)(n+1) = n^{2} + 2n + 1$
 
@@ -465,10 +455,10 @@ But there are many operators which do not have two operands, or which have a var
 
 ##### Example 18.32.
 
-|                |            |       |       |           |        |            |      |
-| -------------- | ---------- | ----- | ----- | --------- | ------ | ---------- | ---- |
-| li             | su'i       | paboi | reboi | ci\[boi\] | du     | li         | xa   |
-| The-number     | the-sum-of | one   | two   | three     | equals | the-number | six. |
+|            |            |       |       |           |        |            |      |
+| ---------- | ---------- | ----- | ----- | --------- | ------ | ---------- | ---- |
+| li         | su'i       | paboi | reboi | ci\[boi\] | du     | li         | xa   |
+| The-number | the-sum-of | one   | two   | three     | equals | the-number | six. |
 
 $sum(1,2,3) = 6$
 
@@ -714,9 +704,7 @@ If no number follows *[da'a](/glossary/#daa)*, then *[pa](/glossary/#pa)* is ass
 | ro  | ratcu | ka'e | citka | da'a        | ratcu |
 | All | rats  | can  | eat   | all-but-one | rats. |
 
-|                                  |
-| -------------------------------- |
-| All rats can eat all other rats. |
+All rats can eat all other rats.
 
 (The use of *[da'a](/glossary/#daa)* means that [Example 18.53](/chapter18/#example-1853 "Example 18.53.") does not require that all rats can eat themselves, but does allow it. Each rat has one rat it cannot eat, but that one might be some rat other than itself. Context often dictates that “itself” is, indeed, the “other” rat.)
 
@@ -763,9 +751,7 @@ Another possibility is that of combining definite and indefinite numbers into a 
 | mi  | viska | le  | rore       | gerku |
 | I   | saw   | the | all-of/two | dogs. |
 
-|                  |
-| ---------------- |
-| I saw both dogs. |
+I saw both dogs.
 
 ##### Example 18.59.
 
@@ -774,9 +760,7 @@ Another possibility is that of combining definite and indefinite numbers into a 
 | mi  | speni         | so'ici     | prenu    |
 | I   | am-married-to | many/three | persons. |
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| I am married to three persons (which is “many” in the circumstances). |
+I am married to three persons (which is “many” in the circumstances).
 
 [Example 18.59](/chapter18/#example-1859 "Example 18.59.") assumes a mostly monogamous culture by stating that three is “many”.
 
@@ -801,9 +785,7 @@ The cmavo *[ji'i](/glossary/#jii)* (of selma'o PA) is used in several ways to in
 | ji'i          | vo   | no   |
 | approximation | four | zero |
 
-|                  |
-| ---------------- |
-| approximately 40 |
+approximately 40
 
 If *[ji'i](/glossary/#jii)* appears in the middle of a number, all the digits following it are approximate:
 
@@ -814,9 +796,7 @@ If *[ji'i](/glossary/#jii)* appears in the middle of a number, all the digits fo
 | vo   | no   | ji'i          | mu   | no   |
 | four | zero | approximation | five | zero |
 
-|                                                                                   |
-| --------------------------------------------------------------------------------- |
-| roughly 4050 (where the “four thousand” is exact, but the “fifty” is approximate) |
+roughly 4050 (where the “four thousand” is exact, but the “fifty” is approximate)
 
 If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncation towards positive or negative infinity respectively.
 
@@ -827,9 +807,7 @@ If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncat
 | re  | pi    | ze    | re  | ji'i          |
 | two | point | seven | two | approximation |
 
-|                |
-| -------------- |
-| 2.72 (rounded) |
+2.72 (rounded)
 
 ##### Example 18.63.
 
@@ -838,9 +816,7 @@ If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncat
 | re  | pi    | ze    | re  | ji'i          | ma'u          |
 | two | point | seven | two | approximation | positive-sign |
 
-|                   |
-| ----------------- |
-| 2.72 (rounded up) |
+2.72 (rounded up)
 
 ##### Example 18.64.
 
@@ -849,9 +825,7 @@ If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncat
 | re  | pi    | ze    | pa  | ji'i          | ni'u          |
 | two | point | seven | one | approximation | negative-sign |
 
-|                     |
-| ------------------- |
-| 2.71 (rounded down) |
+2.71 (rounded down)
 
 [Example 18.62](/chapter18/#example-1862 "Example 18.62.") through [Example 18.64](/chapter18/#example-1864 "Example 18.64.") are all approximations to *[te'o](/glossary/#teo)* (exponential e). *[ji'i](/glossary/#jii)* can also appear by itself, in which case it means “approximately the typical value in this context”.
 
@@ -1035,9 +1009,7 @@ Both *[pi](/glossary/#pi)* and *[pi'e](/glossary/#pie)* can be used to express l
 | dei            | jufra                 | panopi'epapamoi |
 | This-utterance | is-a-sentence-type-of | 10;11th-thing.  |
 
-|                         |
-| ----------------------- |
-| This is Sentence 10.11. |
+This is Sentence 10.11.
 
 ## 18.11. Special mekso selbri
 
@@ -1070,9 +1042,7 @@ Some examples:
 | lei                             | mi  | ratcu | cu  | cimei            |
 | Those-I-describe-as-the-mass-of | my  | rats  |     | are-a-threesome. |
 
-|                    |
-| ------------------ |
-| My rats are three. |
+My rats are three.
 | I have three rats. |
 
 Here, the mass of my rats is said to have three components; that is, I have three rats.
@@ -1106,9 +1076,7 @@ An example:
 | cu  | so'umei                       | lo'i       | ratcu |
 |     | are-a-fewsome-with-respect-to | the-set-of | rats. |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| The rats in the park are a small number of all the rats there are. |
+The rats in the park are a small number of all the rats there are.
 
 In [Example 18.83](/chapter18/#example-1883 "Example 18.83."), the x2 and x3 places are vacant, and the x4 place is filled by *lo'i ratcu*, which (because no quantifiers are explicitly given) means “the whole of the set of all those things which are rats”, or simply “the set of all rats.”
 
@@ -1119,9 +1087,7 @@ In [Example 18.83](/chapter18/#example-1883 "Example 18.83."), the x2 and x3 pla
 | le'i       | ratcu | poi       | zvati | le  | panka | cu  | se   | so'imei   |
 | The-set-of | rats  | which-are | in    | the | park  |     | is-a | manysome. |
 
-|                                  |
-| -------------------------------- |
-| There are many rats in the park. |
+There are many rats in the park.
 
 In [Example 18.84](/chapter18/#example-1884 "Example 18.84."), the conversion cmavo *[se](/glossary/#se)* swaps the x1 and the x2 places, so that the new x1 is the set. The x4 set is unspecified, so the implication is that the rats are “many” with respect to some unspecified comparison set.
 
@@ -1140,9 +1106,7 @@ Some examples:
 | ti       | pamoi           | le'i | mi                 | ratcu |
 | This-one | is-the-first-of | the  | associated-with-me | rats. |
 
-|                       |
-| --------------------- |
-| This is my first rat. |
+This is my first rat.
 
 ##### Example 18.86.
 
@@ -1151,9 +1115,7 @@ Some examples:
 | ta   | romoi           | le'i | mi                 | ratcu |
 | That | is-the-allth-of | the  | associated-with-me | rats. |
 
-|                      |
-| -------------------- |
-| That is my last rat. |
+That is my last rat.
 
 ##### Example 18.87.
 
@@ -1162,9 +1124,7 @@ Some examples:
 | mi  | raumoi          | le  | velskina       | porsi    |
 | I   | am-enough-th-in | the | movie-audience | sequence |
 
-|                                   |
-| --------------------------------- |
-| I am enough-th in the movie line. |
+I am enough-th in the movie line.
 
 [Example 18.87](/chapter18/#example-1887 "Example 18.87.") means, in the appropriate context, that my position in line is sufficiently far to the front that I will get a seat for the movie.
 
@@ -1181,9 +1141,7 @@ Some examples:
 | levi      | sanmi | cu  | fi'ucisi'e                  | lei | mi  | djedi | cidja |
 | This-here | meal  |     | is-a-slash-three-portion-of |     | my  | day   | food. |
 
-|                                          |
-| ---------------------------------------- |
-| This meal is one-third of my daily food. |
+This meal is one-third of my daily food.
 
 The cmavo *[cu'o](/glossary/#cuo)* creates probability selbri. The place structure is:
 
@@ -1211,9 +1169,7 @@ If the scale is granular rather than continuous, a form like *cifi'uxa* (3/6) ma
 | levi      | rozgu | cu  | sofi'upanova'e | xunre |
 | This-here | rose  |     | is-8/10-scale  | red.  |
 
-|                                                   |
-| ------------------------------------------------- |
-| This rose is 8 out of 10 on the scale of redness. |
+This rose is 8 out of 10 on the scale of redness.
 | This rose is very red.                            |
 
 When the quantifier preceding any MOI cmavo includes the subjective numbers *[rau](/glossary/#rau)*, *[du'e](/glossary/#due)*, or *[mo'a](/glossary/#moa)* (enough, too many, too few) then an additional place is added for “by standard”. For example:
@@ -1230,9 +1186,7 @@ When the quantifier preceding any MOI cmavo includes the subjective numbers *[ra
 | panka | cu  | du'emei      | fo          | mi  |
 | park  |     | are-too-many | by-standard | me. |
 
-|                                             |
-| ------------------------------------------- |
-| There are too many rats in the park for me. |
+There are too many rats in the park for me.
 
 The extra place (which for *-mei* is the x4 place labeled by *[fo](/glossary/#fo)*) is provided rather than using a BAI tag such as *[ma'i](/glossary/#mai)* because a specification of the standard for judgment is essential to the meaning of subjective words like “enough”.
 
@@ -1247,9 +1201,7 @@ It is also grammatical to substitute a lerfu string for a number:
 | ta   | ny.moi    | le'i       | mi                 | ratcu |
 | That | is-nth-of | the-set-of | associated-with-me | rats. |
 
-|                     |
-| ------------------- |
-| That is my nth rat. |
+That is my nth rat.
 
 More complex mekso cannot be placed directly in front of MOI, due to the resulting grammatical ambiguities. Instead, a somewhat artificial form of expression is required.
 
@@ -1267,9 +1219,7 @@ The cmavo *[me](/glossary/#me)* (of selma'o ME) has the function of making a sum
 | le'i       | mi                 | ratcu |
 | the-set-of | associated-with-me | rats. |
 
-|                          |
-| ------------------------ |
-| That is my (n+1)-th rat. |
+That is my (n+1)-th rat.
 
 Here the mekso *ny. su'i pa* is made into a sumti (with *[li](/glossary/#li)*) and then changed into a mekso selbri with *[me](/glossary/#me)* and *me'u moi*. The elidable terminator *[me'u](/glossary/#meu)* is required here in order to keep the *[pa](/glossary/#pa)* and the *[moi](/glossary/#moi)* separate; otherwise, the parser will combine them into the compound *[pamoi](/glossary/#pamoi)* and reject the sentence as ungrammatical.
 
@@ -1287,9 +1237,7 @@ It is perfectly possible to use non-numerical sumti after *[me](/glossary/#me)* 
 | le'e                  | snime | bolci        | be  | vi  | la  | xel. | cu'o         |
 | has-the-stereotypical | snow  | type-of-ball |     | at  |     | Hell | probability. |
 
-|                                                   |
-| ------------------------------------------------- |
-| I have a snowball's chance in Hell of being king. |
+I have a snowball's chance in Hell of being king.
 
 Note: the elidable terminator *[boi](/glossary/#boi)* is not used between a number and a member of MOI. As a result, the *[me'u](/glossary/#meu)* in [Example 18.93](/chapter18/#example-1893 "Example 18.93.") could also be replaced by a *[boi](/glossary/#boi)*, which would serve the same function of preventing the *[pa](/glossary/#pa)* and *[moi](/glossary/#moi)* from joining into a compound.
 
@@ -1310,9 +1258,7 @@ The cmavo *[xo](/glossary/#xo)*, a member of selma'o PA, is used to ask question
 | li         | re  | su'i | re  | du     | li         | xo    |
 | The-number | 2   | plus | 2   | equals | the-number | what? |
 
-|                |
-| -------------- |
-| What is 2 + 2? |
+What is 2 + 2?
 
 ##### Example 18.96.
 
@@ -1321,9 +1267,7 @@ The cmavo *[xo](/glossary/#xo)*, a member of selma'o PA, is used to ask question
 | le  | xomoi          | prenu  | cu  | darxi | do   |
 | The | what-number-th | person |     | hit   | you? |
 
-|                                                 |
-| ----------------------------------------------- |
-| Which person \[as in a police lineup\] hit you? |
+Which person \[as in a police lineup\] hit you?
 
 [*xo*](/glossary/#xo) can also be combined with other digits to ask questions whose answers are already partly specified. This ability could be very useful in writing tests of elementary arithmetical knowledge:
 
@@ -1358,16 +1302,12 @@ Subscripts always begin with the flag *[xi](/glossary/#xi)* (of selma'o XI). *[x
 
 ##### Example 18.99.
 
-|            |
-| ---------- |
-| xy.boixino |
+xy.boixino
 | x0         |
 
 ##### Example 18.100.
 
-|             |
-| ----------- |
-| xy.boixiny. |
+xy.boixiny.
 | xn          |
 
 ##### Example 18.101.
@@ -1574,10 +1514,10 @@ In Lojban, RP operators are always parsed with exactly two operands. What about 
 | li         | fu'a  | ciboi   | muboi | vu'u   |
 | The-number | (RP!) | (three, | five, | minus) |
 
-|            |            |       |       |       |              |
-| ---------- | ---------- | ----- | ----- | ----- | ------------ |
-| du         | li         | fu'a  | reboi | tu'o  | va'a         |
-| equals     | the-number | (RP!) | two,  | null, | negative-of. |
+|        |            |       |       |       |              |
+| ------ | ---------- | ----- | ----- | ----- | ------------ |
+| du     | li         | fu'a  | reboi | tu'o  | va'a         |
+| equals | the-number | (RP!) | two,  | null, | negative-of. |
 
 $3 - 5 = {-2}$
 
@@ -1714,17 +1654,9 @@ Non-logical connection with JOI and BIhI is also permitted between operands and 
 
 $[0, 1)$
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| the numbers from zero to one, including zero but not including one |
+the numbers from zero to one, including zero but not including one
 
-Intervals defined by a midpoint and range rather than beginning and end points can be expressed by *[mi'i\](/glossary/#01                                                   
-
-                                                                    
- ------------------------------------------------------------------ 
- the numbers from zero to one including zero but not including one 
-
-intervals defined by a midpoint and range rather than beginning and end points can be expressed by mii)*:
+Intervals defined by a midpoint and range rather than beginning and end points can be expressed by *[mi'i](/glossary/#mii)*
 
 ##### Example 18.121.
 
@@ -1834,7 +1766,6 @@ Another use is in constructing Lojbanic versions of so-called “folk quantifier
 | mi  | viska | vei | mo'e | lo'e        | lanzu  | ve'o        | cinfo  |
 | I   | see   | (   |      | the-typical | family | )-number-of | lions. |
 
-
 I see a pride of lions.
 
 ## 18.19. Other uses of mekso
@@ -1929,25 +1860,19 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 
 ##### Example 18.134.
 
-|       |
-| ----- |
-| pamai |
+- pamai
 
 firstly
 
 ##### Example 18.135.
 
-|       |
-| ----- |
-| remai |
+- remai
 
 secondly
 
 ##### Example 18.136.
 
-|       |
-| ----- |
-| romai |
+- romai
 
 all-ly
 
@@ -1955,20 +1880,16 @@ lastly
 
 ##### Example 18.137.
 
-|        |
-| ------ |
-| ny.mai |
+- ny.mai
 
 nth-ly
 
 ##### Example 18.138.
 
-|          |
-| -------- |
-| pasomo'o |
+- pasomo'o
 
-- nineteenthly (higher order)
-- Section 19                  
+nineteenthly (higher order)
+Section 19                  
 
 The difference between *[mai](/glossary/#mai)* and *[mo'o](/glossary/#moo)* is that *[mo'o](/glossary/#moo)* enumerates larger subdivisions of a text. Each *[mo'o](/glossary/#moo)* subdivision can then be divided into pieces and internally numbered with *[mai](/glossary/#mai)*. If this chapter were translated into Lojban, each section would be numbered with *[mo'o](/glossary/#moo)*. (See [Section 19.7](/chapter19/#197-utterance-ordinals-mai "19.7. Utterance ordinals: MAI") for more on these words.)
 
@@ -1997,9 +1918,7 @@ A few other points:
 | li         | ci    | se        | vu'u  | vo   | du     | li         | pa   |
 | The-number | three | (inverse) | minus | four | equals | the-number | one. |
 
-|                               |
-| ----------------------------- |
-| 3 subtracted from 4 equals 1. |
+3 subtracted from 4 equals 1.
 
 The other converters of selma'o SE can also be used on operators with more than two operands, and they can be compounded to create (probably unintelligible) operators as needed.
 
@@ -2021,7 +1940,7 @@ Members of selma'o NAhE are also legal on an operator to produce a scalar negati
 
 The sense in which “plus” is the opposite of “minus” is not a mathematical but rather a linguistic one; negated operators are defined only loosely.
 
-[*la'e*](/glossary/#lae) and *[lu'e](/glossary/#lue)* can be used on operands with the usual semantics to get the referent of or a symbol for an operand. Likewise, a member of selma'o NAhE followed by *[bo](/glossary/#bo)* serves to scalar-negate an operand, implying that some other operand would make the bridi true:
+*[la'e](/glossary/#lae)* and *[lu'e](/glossary/#lue)* can be used on operands with the usual semantics to get the referent of or a symbol for an operand. Likewise, a member of selma'o NAhE followed by *[bo](/glossary/#bo)* serves to scalar-negate an operand, implying that some other operand would make the bridi true:
 
 ##### Example 18.142.
 
@@ -2030,9 +1949,7 @@ The sense in which “plus” is the opposite of “minus” is not a mathematic
 | li         | re  | su'i | re  | du     | li         | na'ebo | mu  |
 | The-number | 2   | plus | 2   | equals | the-number | non-   | 5.  |
 
-|                                 |
-| ------------------------------- |
-| 2 + 2 = something other than 5. |
+2 + 2 = something other than 5.
 
 The digits 0-9 have rafsi, and therefore can be used in making lujvo. Additionally, all the rafsi have CVC form and can stand alone or together as names:
 
@@ -2043,9 +1960,7 @@ The digits 0-9 have rafsi, and therefore can be used in making lujvo. Additional
 | la          | zel.    | poi | gunta  | la         | tebes.   | pu       | nanmu    |
 | Those-named | “Seven” | who | attack | that-named | “Thebes” | \[past\] | are-men. |
 
-|                                    |
-| ---------------------------------- |
-| The Seven Against Thebes were men. |
+The Seven Against Thebes were men.
 
 Of course, there is no guarantee that the name *zel.* is connected with the number rafsi: an alternative which cannot be misconstrued is:
 
@@ -2061,15 +1976,15 @@ Of course, there is no guarantee that the name *zel.* is connected with the numb
 | la         | tebes. | pu       | nanmu    |
 | that-named | Thebes | \[past\] | are-men. |
 
-Certain other members of PA also have assigned rafsi: *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/#soi)*, *[so'o](/glossary/#soo)*, *[so'u](/glossary/#sou)*, *[da'a](/glossary/#daa)*, *[ro](/glossary/#ro)*, *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[pi](/glossary/#pi)*, and *[ce'i](/glossary/#cei)*. Furthermore, although the cmavo *[fi'u](/glossary/#fiu)* does not have a rafsi as such, it is closely related to the gismu *[frinu](/glossary/#frinu)*, meaning “fraction”; therefore, in a context of numeric rafsi, you can use any of the rafsi for *[frinu](/glossary/#frinu)* to indicate a fraction slash.
+Certain other members of PA also have assigned rafsi: *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/#soi)*, *[so'o](/glossary/#soo)*, *[so'u](/glossary/#sou)*, *[da'a](/glossary/#daa)*, *[ro](/glossary/#ro)*, *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[pi](/glossary/#pi)*, and *[ce'i](/glossary/#cei)*. Furthermore, although the cmavo *[fi'u](/glossary/#fiu)* does not have a rafsi as such, it is closely related to the gismu [*frinu*](/glossary/#frinu), meaning “fraction”; therefore, in a context of numeric rafsi, you can use any of the rafsi for *[frinu](/glossary/#frinu)* to indicate a fraction slash.
 
-A similar convention is used for the cmavo *[cu'o](/glossary/#cuo)* of selma'o MOI, which is closely related to *[cunso](/glossary/#cunso)* (probability); use a rafsi for *[cunso](/glossary/#cunso)* in order to create lujvo based on *[cu'o](/glossary/#cuo)*. The cmavo *[mei](/glossary/#mei)* and *[moi](/glossary/#moi)* of MOI have their own rafsi, two each in fact: *mem*/ *mei* and *mom*/ *moi* respectively.
+A similar convention is used for the cmavo *[cu'o](/glossary/#cuo)* of selma'o MOI, which is closely related to *[cunso](/glossary/#cunso)* (probability); use a rafsi for *[cunso](/glossary/#cunso)* in order to create lujvo based on *[cu'o](/glossary/#cuo)*. The cmavo *[mei](/glossary/#mei)* and *[moi](/glossary/#moi)* of MOI have their own rafsi, two each in fact: *mem* / *mei* and *mom* / *moi* respectively.
 
 The grammar of mekso as described so far imposes a rigid distinction between operators and operands. Some flavors of mathematics (lambda calculus, algebra of functions) blur this distinction, and Lojban must have a method of doing the same. An operator can be changed into an operand with *ni'enu'a*, which transforms the operator into a matching selbri and then the selbri into an operand.
 
 To change an operand into an operator, we use the cmavo *[ma'o](/glossary/#mao)*, already introduced as a means of changing a lerfu string such as *[fy.](/glossary/#fy)* into an operator. In fact, *[ma'o](/glossary/#mao)* can be followed by any mekso operand, using the elidable terminator *[te'u](/glossary/#teu)* if necessary.
 
-There is a potential semantic ambiguity in *ma'o fy. \[te'u\]* if *[fy.](/glossary/#fy)* is already in use as a variable: it comes to mean “the function whose value is always `f`”. However, mathematicians do not normally use the same lerfu words or strings as both functions and variables, so this case should not arise in practice.
+There is a potential semantic ambiguity in *ma'o fy. \[te'u\]* if *[fy.](/glossary/#fy)* is already in use as a variable: it comes to mean “the function whose value is always $f$”. However, mathematicians do not normally use the same lerfu words or strings as both functions and variables, so this case should not arise in practice.
 
 ## 18.22. Four score and seven: a mekso problem
 
@@ -2081,7 +1996,8 @@ Abraham Lincoln's Gettysburg Address begins with the words “Four score and sev
 | ----- | ----- |
 | li    | bize  |
 | eight | seven |
-| 87    |       |
+
+87
 
 [Example 18.145](/chapter18/#example-18145 "Example 18.145.") is mathematically correct, but sacrifices the spirit of the English words, which are intended to be complex and formal.
 
@@ -2091,21 +2007,21 @@ Abraham Lincoln's Gettysburg Address begins with the words “Four score and sev
 | ---------- | ---- | ----- | ------ | ---- | ----- |
 | li         | vo   | pi'i  | reno   | su'i | ze    |
 | the-number | four | times | twenty | plus | seven |
-| 4 × 20 + 7 |      |       |        |      |       |
+
+$4\times 20+7$
 
 [Example 18.146](/chapter18/#example-18146 "Example 18.146.") is also mathematically correct, but still misses something. “Score” is not a word for 20 in the same way that “ten” is a word for 10: it contains the implication of 20 objects. The original may be taken as short for “Four score years and seven years ago”. Thinking of a score as a twentysome rather than as 20 leads to:
 
 ##### Example 18.147.
 
-|            |                  |       |             |
-| ---------- | ---------------- | ----- | ----------- |
-| li         | mo'e             | voboi | renomei     |
-| the-number | \[sumti-to-mex\] | four  | twentysomes |
+<div class="table-scrollable">
 
-|                      |      |       |
-| -------------------- | ---- | ----- |
-| te'u                 | su'i | ze    |
-| \[end-sumti-to-mex\] | plus | seven |
+|            |                  |       |             |                      |      |       |
+| ---------- | ---------------- | ----- | ----------- | -------------------- | ---- | ----- |
+| li         | mo'e             | voboi | renomei     | te'u                 | su'i | ze    |
+| the-number | \[sumti-to-mex\] | four  | twentysomes | \[end-sumti-to-mex\] | plus | seven |
+
+</div>
 
 In [Example 18.147](/chapter18/#example-18147 "Example 18.147."), *voboi renomei* is a sumti signifying four things each of which are groups of twenty; the *[mo'e](/glossary/#moe)* and *[te'u](/glossary/#teu)* then make this sumti into a number in order to allow it to be the operand of *[su'i](/glossary/#sui)*.
 
@@ -2117,7 +2033,8 @@ Another approach is to think of “score” as setting a representation base. Th
 | ---------- | ---- | ---- | ----- | ---- | ---- |
 | li         | vo   | pi'e | ze    | ju'u | reno |
 | the-number | four | ;    | seven | base | 20   |
-| 4720       |      |      |       |      |      |
+
+4720
 
 Overall, [Example 18.147](/chapter18/#example-18147 "Example 18.147.") probably captures the flavor of the English best. [Example 18.145](/chapter18/#example-18145 "Example 18.145.") and [Example 18.146](/chapter18/#example-18146 "Example 18.146.") are too simple, and [Example 18.148](/chapter18/#example-18148 "Example 18.148.") is too tricky. Nevertheless, all four examples are good Lojban. Pedagogically, these examples illustrate the richness of lojbau mekso: anything that can be said at all, can probably be said in more than one way.
 
@@ -2152,34 +2069,34 @@ Except as noted, each selma'o has only one cmavo.
 
 The operand structures specify what various operands (labeled a, b, c, ...) mean. The implied context is forethought, since only forethought operators can have a variable number of operands; however, the same rules apply to infix and RP uses of VUhU.
 
-|      |                                      |                                                           |
-| ---- | ------------------------------------ | --------------------------------------------------------- |
-| su'i | plus                                 | (((a + b) + c) + ...)                                     |
-| pi'i | times                                | (((a × b) × c) × ...)                                     |
-| vu'u | minus                                | (((a − b) − c) − ...)                                     |
-| fe'i | divided by                           | (((a / b) / c) / ...)                                     |
-| ju'u | number base                          | numeral string `a` interpreted in the base `b`            |
-| pa'i | ratio                                | the ratio of `a` to `b` a:b                               |
-| fa'i | reciprocal of/multiplicative inverse | 1 / a                                                     |
-| gei  | scientific notation                  | b × (c \[default 10\] to the `a` power)                   |
-| ge'a | null operator                        | (no operands)                                             |
-| de'o | logarithm                            | log `a` to base `b` (default 10 or `e` as appropriate)    |
-| te'a | to the power/exponential             | `a` to the `b` power                                      |
-| fe'a | nth root of/inverse power            | bth root of a (default square root: b = 2)                |
-| cu'a | absolute value/norm                  | \| a \|                                                   |
-| ne'o | factorial                            | a!                                                        |
-| pi'a | matrix row vector combiner           | (all operands are row vectors)                            |
-| sa'i | matrix column vector combiner        | (all operands are column vectors)                         |
-| ri'o | integral                             | integral of a with respect to b over range c              |
-| sa'o | derivative                           | derivative of a with respect to b of degree c (default 1) |
-| fu'u | non-specific operator                | (variable)                                                |
-| si'i | sigma (Σ) summation                  | summation of a using variable b over range c              |
-| va'a | negation of/additive inverse         | -a                                                        |
-| re'a | matrix transpose/dual                | a\*                                                       |
+|      |                                      |                                                            |
+| ---- | ------------------------------------ | ---------------------------------------------------------- |
+| su'i | plus                                 | $(((a + b) + c) + \dotsb)$                                 |
+| pi'i | times                                | $(((a \times b) \times c) \times \dotsb)$                  |
+| vu'u | minus                                | $(((a - b) - c) - \dotsb)$                                 |
+| fe'i | divided by                           | $(((a / b) / c) / \dotsb)$                                 |
+| ju'u | number base                          | numeral string $a$ interpreted in the base $b$             |
+| pa'i | ratio                                | the ratio of $a$ to $b$ $a : b$                            |
+| fa'i | reciprocal of/multiplicative inverse | $1 / a$                                                    |
+| gei  | scientific notation                  | $b \times$ ($c$ \[default $10$ \] to the $a$ power)        |
+| ge'a | null operator                        | (no operands)                                              |
+| de'o | logarithm                            | $\log{a}$ to base $b$ (default $10$ or $e$ as appropriate) |
+| te'a | to the power/exponential             | $a$ to the $b$ power                                       |
+| fe'a | nth root of/inverse power            | bth root of $a$ (default square root: $b = 2$)             |
+| cu'a | absolute value/norm                  | $\lvert a \rvert$                                          |
+| ne'o | factorial                            | $a!$                                                       |
+| pi'a | matrix row vector combiner           | (all operands are row vectors)                             |
+| sa'i | matrix column vector combiner        | (all operands are column vectors)                          |
+| ri'o | integral                             | integral of a with respect to b over range c               |
+| sa'o | derivative                           | derivative of a with respect to b of degree c (default 1)  |
+| fu'u | non-specific operator                | (variable)                                                 |
+| si'i | sigma ($\Sigma$) summation           | summation of a using variable b over range c               |
+| va'a | negation of/additive inverse         | $-a$                                                       |
+| re'a | matrix transpose/dual                | $a^{*}$                                                    |
 
 ## 18.25. Complete table of PA cmavo: digits, punctuation, and other numbers.
 
-**Table 18.1. Decimal digits**
+##### Table 18.1. Decimal digits
 
 |     |     |     |
 | --- | --- | --- |
@@ -2194,7 +2111,7 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | bi  | biv | 8   |
 | so  | soz | 9   |
 
-**Table 18.2. Hexadecimal digits**
+##### Table 18.2. Hexadecimal digits
 
 |     |      |
 | --- | ---- |
@@ -2205,16 +2122,16 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | rei | E/14 |
 | vai | F/15 |
 
-**Table 18.3. Special numbers**
+##### Table 18.3. Special numbers
 
-|      |               |
-| ---- | ------------- |
-| pai  | π             |
-| ka'o | imaginary i   |
-| te'o | exponential e |
-| ci'i | infinity (∞)  |
+|      |                     |
+| ---- | ------------------- |
+| pai  | $\pi$               |
+| ka'o | imaginary $i$       |
+| te'o | exponential $e$     |
+| ci'i | infinity ($\infty$) |
 
-**Table 18.4. Number punctuation**
+##### Table 18.4. Number punctuation
 
 |      |                                                                                                                             |                         |
 | ---- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
@@ -2229,7 +2146,7 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | ji'i | approximation sign                                                                                                          |                         |
 | ka'o | complex number separator                                                                                                    |                         |
 
-**Table 18.5. Indefinite numbers**
+##### Table 18.5. Indefinite numbers
 
 |      |      |            |      |
 | ---- | ---- | ---------- | ---- |
@@ -2241,7 +2158,7 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | so'u | sot  | few        |      |
 | da'a | daz  | all but    |      |
 
-**Table 18.6. Subjective numbers**
+##### Table 18.6. Subjective numbers
 
 |      |          |
 | ---- | -------- |
@@ -2249,7 +2166,7 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | du'e | too few  |
 | mo'a | too many |
 
-**Table 18.7. Miscellaneous**
+##### Table 18.7. Miscellaneous
 
 |      |                 |
 | ---- | --------------- |
@@ -2262,39 +2179,29 @@ The operand structures specify what various operands (labeled a, b, c, ...) mean
 | --- | --- | --- |
 | mei | mem | mei |
 
-|                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------- |
-| x1 is a mass formed from a set x2 of n members, one or more of which is/are x3, \[measured relative to the set x4/by standard x4\] |
+x1 is a mass formed from a set x2 of n members, one or more of which is/are x3, \[measured relative to the set x4/by standard x4\]
 
 |     |     |     |
 | --- | --- | --- |
 | moi | mom | moi |
 
-|                                                                             |
-| --------------------------------------------------------------------------- |
-| x1 is the (n)th member of set x2 when ordered by rule x3 \[by standard x4\] |
+x1 is the (n)th member of set x2 when ordered by rule x3 \[by standard x4\]
 
 |      |     |
 | ---- | --- |
 | si'e |     |
 
-|                                                      |
-| ---------------------------------------------------- |
-| x1 is an (n)th portion of mass x2 \[by standard x3\] |
+x1 is an (n)th portion of mass x2 \[by standard x3\]
 
 |      |                                                                                                                                                            |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | cu'o | cu'o (borrowed from *[cunso](/glossary/#cunso)*; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) |
 
-|                                                                                  |
-| -------------------------------------------------------------------------------- |
-| event x1 has probability (n) of occurring under conditions x2 \[by standard x3\] |
+event x1 has probability (n) of occurring under conditions x2 \[by standard x3\]
 
 |      |     |
 | ---- | --- |
 | va'e |     |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| x1 is at scale position (n) on the scale x2 \[by standard x3\] |
+x1 is at scale position (n) on the scale x2 \[by standard x3\]
 

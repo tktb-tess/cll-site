@@ -495,9 +495,7 @@ The word *[cu](/glossary/#cu)* has no meaning, and exists only to mark the begin
 
 ##### Example 2.41.
 
-|                 |
-| --------------- |
-| le sutra tavla  |
+le sutra tavla
 | The fast talker |
 
 ##### Example 2.42.
@@ -509,9 +507,7 @@ The word *[cu](/glossary/#cu)* has no meaning, and exists only to mark the begin
 
 ##### Example 2.43.
 
-|                        |
-| ---------------------- |
-| le sutra se tavla      |
+le sutra se tavla
 | The fast talked-to one |
 
 ##### Example 2.44.
@@ -734,9 +730,7 @@ The listener can reply by simply stating a sumti:
 
 ##### Example 2.65.
 
-|          |
-| -------- |
-| la djan. |
+la djan.
 
 - *John (is talking to you about me).*
 
@@ -840,9 +834,7 @@ or
 
 ##### Example 2.76.
 
-|      |
-| ---- |
-| go'i |
+go'i
 
 - *I am healthy.*
 

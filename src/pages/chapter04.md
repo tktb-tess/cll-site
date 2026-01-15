@@ -221,83 +221,51 @@ Here are a few examples of gismu, with rough English equivalents (not definition
 
 ##### Example 4.11.
 
-|       |
-| ----- |
-| creka |
+creka
 
-|       |
-| ----- |
-| shirt |
+shirt
 
 ##### Example 4.12.
 
-|       |
-| ----- |
-| lijda |
+lijda
 
-|          |
-| -------- |
-| religion |
+religion
 
 ##### Example 4.13.
 
-|       |
-| ----- |
-| blanu |
+blanu
 
-|      |
-| ---- |
-| blue |
+blue
 
 ##### Example 4.14.
 
-|       |
-| ----- |
-| mamta |
+mamta
 
-|        |
-| ------ |
-| mother |
+mother
 
 ##### Example 4.15.
 
-|       |
-| ----- |
-| cukta |
+cukta
 
-|      |
-| ---- |
-| book |
+book
 
 ##### Example 4.16.
 
-|       |
-| ----- |
-| patfu |
+patfu
 
-|        |
-| ------ |
-| father |
+father
 
 ##### Example 4.17.
 
-|       |
-| ----- |
-| nanmu |
+nanmu
 
-|     |
-| --- |
-| man |
+man
 
 ##### Example 4.18.
 
-|       |
-| ----- |
-| ninmu |
+ninmu
 
-|       |
-| ----- |
-| woman |
+woman
 
 A small number of gismu were formed differently; see [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu") for a list.
 
@@ -345,17 +313,13 @@ When a concept expressed in a tanru proves useful, or is frequently expressed, i
 
 ##### Example 4.23.
 
-|        |
-| ------ |
-| sampli |
+sampli
 
 Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
 
 ##### Example 4.24.
 
-|            |
-| ---------- |
-| bralo'i    |
+bralo'i
 | “big-boat” |
 | ship       |
 
@@ -365,9 +329,7 @@ The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chap
 
 ##### Example 4.25.
 
-|         |
-| ------- |
-| mampa'u |
+mampa'u
 
 which refers specifically to the concept “maternal grandfather”. The two gismu that constitute the tanru are represented in *mampa'u* by the rafsi *mam-* and *-pa'u*, respectively; these two rafsi are then concatenated together to form *mampa'u*.
 
@@ -381,9 +343,7 @@ An *r* (in some cases, an *n*) is inserted when a CVV-form rafsi attaches to the
 
 ##### Example 4.26.
 
-|                    |
-| ------------------ |
-| soirsai            |
+soirsai
 | from *sonci sanmi* |
 | “soldier meal”     |
 | field rations      |
@@ -404,42 +364,32 @@ Some examples of unreduced lujvo forms are:
 
 ##### Example 4.27.
 
-|                                           |
-| ----------------------------------------- |
-| mamtypatfu                                |
+mamtypatfu
 | from *mamta patfu*                        |
 | “mother father” or “maternal grandfather” |
 
 ##### Example 4.28.
 
-|                                      |
-| ------------------------------------ |
-| lerfyliste                           |
+lerfyliste
 | from *lerfu liste*                   |
 | “letter list” or a “list of letters” |
 | (letters of the alphabet)            |
 
 ##### Example 4.29.
 
-|                                  |
-| -------------------------------- |
-| nancyprali                       |
+nancyprali
 | from *nanca prali*               |
 | “year profit” or “annual profit” |
 
 ##### Example 4.30.
 
-|                                                 |
-| ----------------------------------------------- |
-| prunyplipe                                      |
+prunyplipe
 | from *pruni plipe*                              |
 | “elastic (springy) leap” or “spring” (the verb) |
 
 ##### Example 4.31.
 
-|                            |
-| -------------------------- |
-| vancysanmi                 |
+vancysanmi
 | from *vanci sanmi*         |
 | “evening meal” or “supper” |
 
@@ -486,33 +436,25 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 
 ##### Example 4.32.
 
-|                       |
-| --------------------- |
-| cumfri                |
+cumfri
 | from *cumki lifri*    |
 | “possible experience” |
 
 ##### Example 4.33.
 
-|                    |
-| ------------------ |
-| klezba             |
+klezba
 | from *klesi zbasu* |
 | “category make”    |
 
 ##### Example 4.34.
 
-|                    |
-| ------------------ |
-| kixta'a            |
+kixta'a
 | from *krixa tavla* |
 | “cry-out talk”     |
 
 ##### Example 4.35.
 
-|                    |
-| ------------------ |
-| sniju'o            |
+sniju'o
 | from *sinxa djuno* |
 | “sign know”        |
 
@@ -520,17 +462,13 @@ In addition, the unreduced forms in [Example 4.27](/chapter04/#example-427 "Exam
 
 ##### Example 4.36.
 
-|                                           |
-| ----------------------------------------- |
-| mampa'u                                   |
+mampa'u
 | from *mamta patfu*                        |
 | “mother father” or “maternal grandfather” |
 
 ##### Example 4.37.
 
-|                                      |
-| ------------------------------------ |
-| lerste                               |
+lerste
 | from *lerfu liste*                   |
 | “letter list” or a “list of letters” |
 
@@ -556,40 +494,30 @@ There is also a different way of building lujvo, or rather phrases which are gra
 
 ##### Example 4.38.
 
-|                 |
-| --------------- |
-| bridi zei valsi |
+bridi zei valsi
 
 is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily the same as the underlying tanru *bridi valsi*, which could have other meanings.) Using *[zei](/glossary/#zei)* is the only way to get a cmavo lacking a rafsi, a cmene, or a fu'ivla into a lujvo:
 
 ##### Example 4.39.
 
-|               |
-| ------------- |
-| xy. zei kantu |
+xy. zei kantu
 | X ray         |
 
 ##### Example 4.40.
 
-|                        |
-| ---------------------- |
-| kulnr,farsi zei lolgai |
+kulnr,farsi zei lolgai
 | “Farsi floor-cover”    |
 | Persian rug            |
 
 ##### Example 4.41.
 
-|                                            |
-| ------------------------------------------ |
-| na'e zei .a zei na'e zei by. livgyterbilma |
+na'e zei .a zei na'e zei by. livgyterbilma
 | “non-A, non-B liver-disease”               |
 | non-A, non-B hepatitis                     |
 
 ##### Example 4.42.
 
-|                       |
-| --------------------- |
-| .cerman. zei jamkarce |
+.cerman. zei jamkarce
 | “Sherman war-car”     |
 | Sherman tank          |
 
@@ -597,9 +525,7 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 
 ##### Example 4.43.
 
-|                                                |
-| ---------------------------------------------- |
-| na'e zei .a zei na'e zei by. zei livgyterbilma |
+na'e zei .a zei na'e zei by. zei livgyterbilma
 | non-A-non-B-hepatitis                          |
 
 the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43.") may be preferable, because its place structure can be built from that of *[bilma](/glossary/#bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
@@ -670,9 +596,7 @@ Here are a few examples:
 
 ##### Example 4.46.
 
-|                                     |
-| ----------------------------------- |
-| spaghetti (from English or Italian) |
+spaghetti (from English or Italian)
 | spageti (Lojbanize)                 |
 | cidj,r,spageti (prefix long rafsi)  |
 | dja,r,spageti (prefix short rafsi)  |
@@ -681,9 +605,7 @@ where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban 
 
 ##### Example 4.47.
 
-|                                                |
-| ---------------------------------------------- |
-| Acer (the scientific name of maple trees)      |
+Acer (the scientific name of maple trees)
 | acer (Lojbanize)                               |
 | xaceru (add initial consonant and final vowel) |
 | tric,r,xaceru (prefix rafsi)                   |
@@ -693,9 +615,7 @@ where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu fo
 
 ##### Example 4.48.
 
-|                           |
-| ------------------------- |
-| brie (from French)        |
+brie (from French)
 | bri (Lojbanize)           |
 | cirl,r,bri (prefix rafsi) |
 
@@ -703,9 +623,7 @@ where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
 
 ##### Example 4.49.
 
-|                             |
-| --------------------------- |
-| cobra                       |
+cobra
 | kobra (Lojbanize)           |
 | sinc,r,kobra (prefix rafsi) |
 
@@ -713,9 +631,7 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 
 ##### Example 4.50.
 
-|                              |
-| ---------------------------- |
-| quark                        |
+quark
 | kuark (Lojbanize)            |
 | kuarka (add final vowel)     |
 | sask,r,kuarka (prefix rafsi) |
@@ -724,9 +640,7 @@ where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the e
 
 ##### Example 4.51.
 
-|                             |
-| --------------------------- |
-| 자모 (from Korean)          |
+자모 (from Korean)
 | djamo (Lojbanize)           |
 | lerf,r,djamo (prefix rafsi) |
 | ler,l,djamo (prefix rafsi)  |
@@ -745,37 +659,27 @@ Here are some fu'ivla representing cultures and related things, shown with more 
 
 ##### Example 4.52.
 
-|                         |
-| ----------------------- |
-| bang,r,blgaria          |
+bang,r,blgaria
 | Bulgarian (in language) |
 
 ##### Example 4.53.
 
-|                        |
-| ---------------------- |
-| kuln,r,blgaria         |
+kuln,r,blgaria
 | Bulgarian (in culture) |
 
 ##### Example 4.54.
 
-|                        |
-| ---------------------- |
-| gugd,r,blgaria         |
+gugd,r,blgaria
 | Bulgaria (the country) |
 
 ##### Example 4.55.
 
-|                       |
-| --------------------- |
-| bang,r,kore,a         |
+bang,r,kore,a
 | Korean (the language) |
 
 ##### Example 4.56.
 
-|                      |
-| -------------------- |
-| kuln,r,kore,a        |
+kuln,r,kore,a
 | Korean (the culture) |
 
 Note the commas in [Example 4.55](/chapter04/#example-455 "Example 4.55.") and [Example 4.56](/chapter04/#example-456 "Example 4.56."), used because *ea* is not a valid diphthong in Lojban. Arguably, some form of the native name “Chosen” should have been used instead of the internationally known “Korea”; this is a recurring problem in all borrowings. In general, it is better to use the native name unless using it will severely impede understanding: “Navajo” is far more widely known than “Dine'e”.
@@ -788,77 +692,57 @@ Because names are often highly personal and individual, Lojban attempts to allow
 
 ##### Example 4.57.
 
-|       |
-| ----- |
-| djim. |
+djim.
 | Jim   |
 
 ##### Example 4.58.
 
-|        |
-| ------ |
-| djein. |
+djein.
 | Jane   |
 
 ##### Example 4.59.
 
-|          |
-| -------- |
-| .arnold. |
+.arnold.
 | Arnold   |
 
 ##### Example 4.60.
 
-|      |
-| ---- |
-| pit. |
+pit.
 | Pete |
 
 ##### Example 4.61.
 
-|           |
-| --------- |
-| katrinas. |
+katrinas.
 | Katrina   |
 
 ##### Example 4.62.
 
-|           |
-| --------- |
-| kat,r,in. |
+kat,r,in.
 | Catherine |
 
 (Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62.") is stressed on the *[ka](/glossary/#ka)*.)
 
 ##### Example 4.63.
 
-|        |
-| ------ |
-| katis. |
+katis.
 | Cathy  |
 
 ##### Example 4.64.
 
-|       |
-| ----- |
-| keit. |
+keit.
 | Kate  |
 
 Names may have almost any form, but always end in a consonant, and are followed by a pause. They are penultimately stressed, unless unusual stress is marked with capitalization. A name may have multiple parts, each ending with a consonant and pause, or the parts may be combined into a single word with no pause. For example,
 
 ##### Example 4.65.
 
-|              |
-| ------------ |
-| djan. braun. |
+djan. braun.
 
 and
 
 ##### Example 4.66.
 
-|            |
-| ---------- |
-| djanbraun. |
+djanbraun.
 
 are both valid Lojbanizations of “John Brown”.
 
@@ -884,49 +768,33 @@ Names meeting these criteria may be invented, Lojbanized from names in other lan
 
 ##### Example 4.67.
 
-|      |
-| ---- |
-| pav. |
+pav.
 
-|         |
-| ------- |
-| the One |
+the One
 
 from the cmavo *[pa](/glossary/#pa)*, with rafsi *pav*, meaning “one”
 
 ##### Example 4.68.
 
-|      |
-| ---- |
-| sol. |
+sol.
 
-|         |
-| ------- |
-| the Sun |
+the Sun
 
 from the gismu *[solri](/glossary/#solri)*, meaning “solar”, or actually “pertaining to the Sun”
 
 ##### Example 4.69.
 
-|       |
-| ----- |
-| ralj. |
+ralj.
 
-|                    |
-| ------------------ |
-| Chief (as a title) |
+Chief (as a title)
 
 from the gismu *[ralju](/glossary/#ralju)*, meaning “principal”.
 
 ##### Example 4.70.
 
-|      |
-| ---- |
-| nol. |
+nol.
 
-|           |
-| --------- |
-| Lord/Lady |
+Lord/Lady
 
 from the gismu *[nobli](/glossary/#nobli)*, with rafsi *nol*, meaning “noble”.
 
@@ -1125,33 +993,25 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 
 ##### Example 4.71.
 
-|                                                               |
-| ------------------------------------------------------------- |
-| zbasai                                                        |
+zbasai
 | *zba + sai*                                                   |
 | (1000 \* 6) - (500 \* 0) + (100 \* 0) - (10 \* 15) - 3 = 5847 |
 
 ##### Example 4.72.
 
-|                                                               |
-| ------------------------------------------------------------- |
-| nunynau                                                       |
+nunynau
 | *nun + y + nau*                                               |
 | (1000 \* 7) - (500 \* 0) + (100 \* 1) - (10 \* 13) - 3 = 6967 |
 
 ##### Example 4.73.
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| sairzbata'u                                                     |
+sairzbata'u
 | *sai + r + zba + ta'u*                                          |
 | (1000 \* 11) - (500 \* 1) + (100 \* 1) - (10 \* 21) - 5 = 10385 |
 
 ##### Example 4.74.
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| zbazbasysarji                                                   |
+zbazbasysarji
 | *zba + zbas + y + sarji*                                        |
 | (1000 \* 13) - (500 \* 0) + (100 \* 1) - (10 \* 12) - 4 = 12976 |
 
@@ -1173,9 +1033,7 @@ The rafsi for *[zdani](/glossary/#zdani)* are:
 
 Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as possible rafsi for *[gerku](/glossary/#gerku)*; Step 2 directs us to use *-zda-* and *-zdani* as possible rafsi for *[zdani](/glossary/#zdani)*. The six possible forms of the lujvo are then:
 
-|                 |
-| --------------- |
-| *ger* *-zda*    |
+*ger* *-zda*
 | *ger* *-zdani*  |
 | *ge'u* *-zda*   |
 | *ge'u* *-zdani* |
@@ -1528,13 +1386,9 @@ The first part of the proposal is uncontroversial and involves no change to the 
 
 ##### Example 4.75.
 
-|         |
-| ------- |
-| tci'ile |
+tci'ile
 
-|         |
-| ------- |
-| Chilean |
+Chilean
 
 is of the appropriate form, and passes all tests required of a Stage 4 fu'ivla. No two fu'ivla of this form would be allowed to coexist if they differed only in the final vowel; this rule was applied to gismu, but does not apply to other fu'ivla or to lujvo.
 
@@ -1547,9 +1401,7 @@ The second, and fully experimental, part of the proposal is to allow rafsi to be
 | tci'ile | ke        | canre | tutra      |
 | Chilean | type-of-( | sand  | territory) |
 
-|                |
-| -------------- |
-| Chilean desert |
+Chilean desert
 
 could be represented by the lujvo
 

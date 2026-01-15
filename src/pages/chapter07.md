@@ -64,9 +64,7 @@ The referents of *[mi](/glossary/#mi)* and *[do](/glossary/#do)* are usually obv
 | mi'e | .djan. | doi | frank. | mi  | cusku   | lu        | mi  | bajra | li'u        |     | do  |
 | I-am | John,  | O   | Frank, | I   | express | \[quote\] | I   | run   | \[unquote\] | to  | you |
 
-|                                       |
-| ------------------------------------- |
-| I am John, Frank; I tell you “I run”. |
+I am John, Frank; I tell you “I run”.
 
 The cmavo *[mi'o](/glossary/#mio)*, *[mi'a](/glossary/#mia)*, *[ma'a](/glossary/#maa)*, and *[do'o](/glossary/#doo)* express various combinations of the speaker and/or the listener and/or other people:
 
@@ -106,9 +104,7 @@ becomes:
 | ko                 | klama | le  | zarci  |
 | You \[imperative\] | go-to | the | store. |
 
-|                                  |
-| -------------------------------- |
-| Make “you go to the store” true! |
+Make “you go to the store” true!
 | Go to the store!                 |
 
 In English, the subject of a command is omitted, but in Lojban, the word *[ko](/glossary/#ko)* must be used. However, *[ko](/glossary/#ko)* does not have to appear in the x1 place:
@@ -120,9 +116,7 @@ In English, the subject of a command is omitted, but in Lojban, the word *[ko](/
 | mi  | viska | ko                 |
 | I   | see   | you-\[imperative\] |
 
-|                        |
-| ---------------------- |
-| Make “I see you” true! |
+Make “I see you” true!
 | Be seen by me!         |
 
 In [Example 7.9](/chapter07/#example-79 "Example 7.9."), it is necessary to make the verb passive in English in order to convey the effect of *[ko](/glossary/#ko)* in the x2 place. Indeed, *[ko](/glossary/#ko)* does not even have to be a sumti of the main bridi:
@@ -134,9 +128,7 @@ In [Example 7.9](/chapter07/#example-79 "Example 7.9."), it is necessary to make
 | mi  | viska | le  | prenu  | poi  | prami | ko                 |
 | I   | see   | the | person | that | loves | you-\[imperative\] |
 
-|                                                      |
-| ---------------------------------------------------- |
-| Make “I see the person that loves you” true!         |
+Make “I see the person that loves you” true!
 | Be such that the person who loves you is seen by me! |
 | Show me the person who loves you!                    |
 
@@ -176,9 +168,7 @@ does not mean “this boat” but rather “this one's boat”, “the boat asso
 | le  | vi   | bloti |
 | the | here | boat  |
 
-|                 |
-| --------------- |
-| the nearby boat |
+the nearby boat
 
 using a spatial tense before the selbri *[bloti](/glossary/#bloti)* to express that the boat is near the speaker. (Tenses are explained in full in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").) Another correct translation would be:
 
@@ -241,9 +231,7 @@ Most references in speech are to the past (what has already been said), so *[di'
 | la         | saimn. | cusku     | di'e                     |
 | That-named | Simon  | expresses | the-following-utterance. |
 
-|             |
-| ----------- |
-| Simon says: |
+Simon says:
 
 [Example 7.16](/chapter07/#example-716 "Example 7.16.") would typically be followed by a quotation. Note that although presumably the quotation is of something Simon has said in the past, the quotation utterance itself would appear after [Example 7.16](/chapter07/#example-716 "Example 7.16."), and so *[di'e](/glossary/#die)* is appropriate.
 
@@ -256,9 +244,7 @@ The remaining two cmavo, *[dei](/glossary/#dei)* and *[do'i](/glossary/#doi)*, r
 | dei            | jetnu     | jufra     |
 | This-utterance | is-a-true | sentence. |
 
-|                                            |
-| ------------------------------------------ |
-| What I am saying (at this moment) is true. |
+What I am saying (at this moment) is true.
 
 ##### Example 7.18.
 
@@ -267,9 +253,7 @@ The remaining two cmavo, *[dei](/glossary/#dei)* and *[do'i](/glossary/#doi)*, r
 | do'i           | jetnu     | jufra     |
 | Some-utterance | is-a-true | sentence. |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| That's true (where “that” is not necessarily what was just said). |
+That's true (where “that” is not necessarily what was just said).
 
 The cmavo of the di'u-series have a meaning that is relative to the context. The referent of *[dei](/glossary/#dei)* in the current utterance is the same as the referent of *[di'u](/glossary/#diu)* in the next utterance. The term “utterance” is used rather than “sentence” because the amount of speech or written text referred to by any of these words is vague. Often, a single bridi is intended, but longer utterances may be thus referred to.
 
@@ -282,9 +266,7 @@ Note one very common construction with *[di'u](/glossary/#diu)* and the cmavo *[
 | mi  | prami | la         | djein. | .i  | mi  | nelci | la'e            | di'u                |
 | I   | love  | that-named | Jane.  | And | I   | like  | the-referent-of | the-last-utterance. |
 
-|                               |
-| ----------------------------- |
-| I love Jane, and I like that. |
+I love Jane, and I like that.
 
 The effect of *la'e di'u* in [Example 7.19](/chapter07/#example-719 "Example 7.19.") is that the speaker likes, not the previous sentence, but rather the state of affairs referred to by the previous sentence, namely his loving Jane. This cmavo compound is often written as a single word: *[la'edi'u](/glossary/#laediu)*. It is important not to mix up *[di'u](/glossary/#diu)* and *[la'edi'u](/glossary/#laediu)*, or the wrong meaning will generally result:
 
@@ -381,13 +363,9 @@ Just as the ko'a-series of pro-sumti allows a substitute for a sumti which is lo
 
 ##### Example 7.25.
 
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu |
+ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu
 
-|                                                                                                        |
-| ------------------------------------------------------------------------------------------------------ |
-| These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small. |
+These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small.
 
 The pro-bridi *[broda](/glossary/#broda)* has as its antecedent the selbri *slasi je mlatu bo cidja lante gacri*. The cmavo *[cei](/glossary/#cei)* performs the role of *[goi](/glossary/#goi)* in assigning *[broda](/glossary/#broda)* to this long phrase, and *[broda](/glossary/#broda)* can then be used just like any other brivla. (In fact, *[broda](/glossary/#broda)* and its relatives actually *are* brivla: they are gismu in morphology, although they behave exactly like the members of selma'o GOhA. The reasons for using gismu rather than cmavo are buried in the Loglan Project's history.)
 
@@ -400,9 +378,7 @@ Note that pro-bridi are so called because, even though they have the grammar of 
 | mi  | klama | cei       | brode    | le  | zarci | .i  | do  | brode    |
 | I   | go-to | (which-is | claim-1) | the | store | .   | You | claim-1. |
 
-|                              |
-| ---------------------------- |
-| I go to the store. You, too. |
+I go to the store. You, too.
 
 In the second bridi, *do brode* means *do klama le zarci*, because *[brode](/glossary/#brode)* carries the x2 sumti of *mi klama le zarci* along with it. It also potentially carries the x1 sumti as well, but the explicit x1 sumti *[do](/glossary/#do)* overrides the *[mi](/glossary/#mi)* of the antecedent bridi. Similarly, any tense or negation that is present in the antecedent is also carried, and can be overridden by explicit tense or negation cmavo on the pro-bridi. These rules hold for all pro-bridi that have antecedents.
 
@@ -437,9 +413,7 @@ Furthermore, *[goi](/glossary/#goi)* can even be used to assign a name:
 | le  | ninmu | goi           | la         | sam. | cu  | klama   | le  | zarci  |
 | The | woman | also-known-as | that-named | Sam  |     | goes-to | the | store. |
 
-|                                                   |
-| ------------------------------------------------- |
-| The woman, whom I'll call Sam, goes to the store. |
+The woman, whom I'll call Sam, goes to the store.
 
 This usage does not imply that the woman's name is Sam, or even that the speaker usually calls the woman “Sam”. “Sam” is simply a name chosen, as if at random, for use in the current context only.
 
@@ -472,9 +446,7 @@ The cmavo *[ri](/glossary/#ri)* is the simplest of these; it has the same refere
 | la         | .alis. | sipna  | ne'i | le  |     | ri                    | kumfa |
 | That-named | Alice  | sleeps | in   | the | of- | \[repeat-last-sumti\] | room. |
 
-|                           |
-| ------------------------- |
-| Alice sleeps in her room. |
+Alice sleeps in her room.
 
 The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-730 "Example 7.30.") is equivalent to repeating the last sumti, which is *la .alis.*, so [Example 7.30](/chapter07/#example-730 "Example 7.30.") is equivalent to:
 
@@ -485,9 +457,7 @@ The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-730 "Example 7.3
 | la         | .alis. | sipna  | ne'i | le  |     | la         | .alis. | kumfa |
 | That-named | Alice  | sleeps | in   | the | of- | that-named | Alice  | room. |
 
-|                               |
-| ----------------------------- |
-| Alice sleeps in Alice's room. |
+Alice sleeps in Alice's room.
 
 Note that *[ri](/glossary/#ri)* does not repeat *le ri kumfa*, because that sumti is not yet complete when *[ri](/glossary/#ri)* appears. This prevents *[ri](/glossary/#ri)* from getting entangled in paradoxes of self-reference. (There are plenty of other ways to do that!) Note also that sumti within other sumti, as in quotations, abstractions, and the like, are counted in the order of their beginnings; thus a lower level sumti like *la alis.* in [Example 7.31](/chapter07/#example-731 "Example 7.31.") is considered to be more recent than a higher level sumti that contains it.
 
@@ -500,9 +470,7 @@ Certain sumti are ignored by *[ri](/glossary/#ri)*; specifically, most of the ot
 | mi  | prami | mi  |
 | I   | love  | me. |
 
-|                |
-| -------------- |
-| I love myself. |
+I love myself.
 
 However, the cmavo of the ti-series can be picked up by *[ri](/glossary/#ri)*, because you might have changed what you are pointing at, so repeating *[ti](/glossary/#ti)* may not be effective. Likewise, *[ri](/glossary/#ri)* itself (or rather its antecedent) can be repeated by a later *[ri](/glossary/#ri)*; in fact, a string of *[ri](/glossary/#ri)* cmavo with no other intervening sumti always all repeat the same sumti:
 
@@ -518,9 +486,7 @@ However, the cmavo of the ti-series can be picked up by *[ri](/glossary/#ri)*, b
 | ri              | se jadni      | le  |     | ri              | jimca   |
 | \[repeat-last\] | is-adorned-by | the | of- | \[repeat-last\] | branch. |
 
-|                                                    |
-| -------------------------------------------------- |
-| John sees the tree. It is adorned by its branches. |
+John sees the tree. It is adorned by its branches.
 
 Here the second *[ri](/glossary/#ri)* has as antecedent the first *[ri](/glossary/#ri)*, which has as antecedent *le tricu*. All three refer to the same thing: a tree.
 
@@ -581,9 +547,7 @@ The cmavo *[go'i](/glossary/#goi)*, *[go'a](/glossary/#goa)*, and *[go'u](/gloss
 | xu              | zo       | .djan. | cmene          | do   | .i  | go'i                   |
 | \[True-false?\] | The-word | “John” | is-the-name-of | you? |     | \[repeat last bridi\]. |
 
-|                         |
-| ----------------------- |
-| Is John your name? Yes. |
+Is John your name? Yes.
 
 ##### Example 7.38.
 
@@ -592,9 +556,7 @@ The cmavo *[go'i](/glossary/#goi)*, *[go'a](/glossary/#goa)*, and *[go'u](/gloss
 | mi  | klama | le  | zarci | .i  | do  | go'i                   |
 | I   | go-to | the | store | .   | You | \[repeat last bridi\]. |
 
-|                               |
-| ----------------------------- |
-| I go to the store . You, too. |
+I go to the store . You, too.
 
 Note that [Example 7.38](/chapter07/#example-738 "Example 7.38.") means the same as [Example 7.26](/chapter07/#example-726 "Example 7.26."), but without the bother of assigning an actual broda-series word to the first bridi. For long-term reference, use *go'i cei broda* or the like, analogously to *ri goi ko'a* in [Example 7.36](/chapter07/#example-736 "Example 7.36.").
 
@@ -607,27 +569,21 @@ The remaining four cmavo of the go'i-series are provided for convenience or for 
 | A:  | mi  | ba         | klama | le  | zarci  |
 | A:  | I   | \[future\] | go-to | the | store. |
 
-|                             |
-| --------------------------- |
-| A: I am going to the store. |
+A: I am going to the store.
 
 |     |     |       |     |            |     |                        |
 | --- | --- | ----- | --- | ---------- | --- | ---------------------- |
 | B:  | mi  | nelci | le  | si'o       | mi  | go'i                   |
 | B:  | I   | like  | the | concept-of | I   | \[repeat-last-bridi\]. |
 
-|                                 |
-| ------------------------------- |
-| B: I like the idea of my going. |
+B: I like the idea of my going.
 
 |     |     |                                |
 | --- | --- | ------------------------------ |
 | A:  | do  | go'e                           |
 | A:  | You | \[repeat-last-bridi-but-one\]. |
 
-|                    |
-| ------------------ |
-| A: You'll go, too. |
+A: You'll go, too.
 
 Here B's sentence repeats A's within an abstraction (explained in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction")): *le si'o mi go'i* means *le si'o mi klama le zarci*. Why must B use the word *[mi](/glossary/#mi)* explicitly to replace the x1 of *mi klama le zarci*, even though it looks like *[mi](/glossary/#mi)* is replacing *[mi](/glossary/#mi)*? Because B's *[mi](/glossary/#mi)* refers to B, whereas A's *[mi](/glossary/#mi)* refers to A. If B said:
 
@@ -655,9 +611,7 @@ Descriptions based on go'i-series cmavo can be very useful for repeating specifi
 | go'i                  | cu  | cadzu    | le  | bisli |
 | \[repeat-last-bridi\] |     | walks-on | the | ice.  |
 
-|                                                       |
-| ----------------------------------------------------- |
-| The black cat goes to the store. It walks on the ice. |
+The black cat goes to the store. It walks on the ice.
 
 Here the *[go'i](/glossary/#goi)* repeats *le xekri mlatu cu klama le zarci*, and since *[le](/glossary/#le)* makes the x1 place into a description, and the x1 place of this bridi is *le xekri mlatu*, *le go'i* means *le xekri mlatu*.
 
@@ -680,9 +634,7 @@ The cmavo *[go'o](/glossary/#goo)*, *[nei](/glossary/#nei)*, and *[no'a](/glossa
 | .i  | ba         | dunda | le  | zdani |     | le  | tixnu    |
 |     | \[Future\] | give  | the | house | to  | the | daughter |
 
-|                                                                                         |
-| --------------------------------------------------------------------------------------- |
-| I promise to do the following: Give the money to my son. Give the house to my daughter. |
+I promise to do the following: Give the money to my son. Give the house to my daughter.
 
 (Note: The Lojban does not contain an equivalent of the *[my](/glossary/#my)* in the colloquial English; it leaves the fact that it is the speaker's son and daughter that are referred to implicit. To make the fact explicit, use *tixnu be mi*.)
 
@@ -700,9 +652,7 @@ For good examples of *[nei](/glossary/#nei)* and *[no'a](/glossary/#noa)*, we ne
 | nei            | kei | pu     | le  | nu        | do   | zukte    |
 | \[main-bridi\] | )   | before | the | (event-of | your | acting). |
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| I am pleased that you thought about whether I would be pleased (about ...) before you acted. |
+I am pleased that you thought about whether I would be pleased (about ...) before you acted.
 
 ##### Example 7.44.
 
@@ -711,45 +661,31 @@ For good examples of *[nei](/glossary/#nei)* and *[no'a](/glossary/#noa)*, we ne
 | mi  | ba         | klama | ca          | le  | nu       | do  | no'a                    |
 | I   | \[future\] | go    | \[present\] | the | event-of | you | \[repeats outer bridi\] |
 
-|                        |
-| ---------------------- |
-| I will go when you do. |
+I will go when you do.
 
 Finally, *[ra'o](/glossary/#rao)* is a cmavo that can be appended to any go'i-series cmavo, or indeed any cmavo of selma'o GOhA, to signal that pro-sumti or pro-bridi cmavo in the antecedent are to be repeated literally and reinterpreted in their new context. Normally, any pro-sumti used within the antecedent of the pro-bridi keep their meanings intact. In the presence of *[ra'o](/glossary/#rao)*, however, their meanings must be reinterpreted with reference to the new environment. If someone says to you:
 
 ##### Example 7.45.
 
-|                         |
-| ----------------------- |
-| mi ba lumci le mi karce |
+mi ba lumci le mi karce
 
-|                     |
-| ------------------- |
-| I will wash my car. |
+I will wash my car.
 
 you might reply either:
 
 ##### Example 7.46.
 
-|         |
-| ------- |
-| mi go'i |
+mi go'i
 
-|                       |
-| --------------------- |
-| I will wash your car. |
+I will wash your car.
 
 or:
 
 ##### Example 7.47.
 
-|              |
-| ------------ |
-| mi go'i ra'o |
+mi go'i ra'o
 
-|                     |
-| ------------------- |
-| I will wash my car. |
+I will wash my car.
 
 The *[ra'o](/glossary/#rao)* forces the second *[mi](/glossary/#mi)* from the original bridi to mean the new speaker rather than the former speaker. This means that *go'e ra'o* would be an acceptable alternative to *do go'e* in B's statement in [Example 7.39](/chapter07/#example-739 "Example 7.39.").
 
@@ -769,9 +705,7 @@ However, a *ri-*&#x73;eries or *go'a-*&#x73;eries reference within a quotation c
 | .i  | la         | .alis. | cusku | lu        | mi  | go'i       | li'u         |
 |     | That-named | Alice  | says  | \[quote\] | I   | \[repeat\] | \[unquote\]. |
 
-|                                                             |
-| ----------------------------------------------------------- |
-| John says, “I am going to the store.” Alice says, “Me too.” |
+John says, “I am going to the store.” Alice says, “Me too.”
 
 Of course, there is no problem with narrative material referring to something within a quotation: people who quote, unlike people who are quoted, are aware of what they are doing.
 
@@ -844,9 +778,7 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 | mi  | zbasu | le  | dinju    |      | loi                 | mudri |
 | I   | make  | the | building | from | some-of-the-mass-of | wood. |
 
-|                                  |
-| -------------------------------- |
-| I make the building out of wood. |
+I make the building out of wood.
 
 ##### Example 7.53.
 
@@ -855,9 +787,7 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 | zi'o              | zbasu | le  | dinju    |      | loi                 | mudri |
 | \[without-maker\] | makes | the | building | from | some-of-the-mass-of | wood. |
 
-|                                   |
-| --------------------------------- |
-| The building is made out of wood. |
+The building is made out of wood.
 
 ##### Example 7.54.
 
@@ -866,9 +796,7 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 | mi  | zbasu | zi'o                   |      | loi                 | mudri |
 | I   | make  | \[without-thing-made\] | from | some-of-the-mass-of | wood. |
 
-|                     |
-| ------------------- |
-| I build using wood. |
+I build using wood.
 
 ##### Example 7.55.
 
@@ -877,9 +805,7 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 | mi  | zbasu | le  | dinju    | zi'o                  |
 | I   | make  | the | building | \[without-material\]. |
 
-|                      |
-| -------------------- |
-| I make the building. |
+I make the building.
 
 If [Example 7.52](/chapter07/#example-752 "Example 7.52.") is true, then [Example 7.53](/chapter07/#example-753 "Example 7.53.") through [Example 7.55](/chapter07/#example-755 "Example 7.55.") must be true also. However, [Example 7.51](/chapter07/#example-751 "Example 7.51.") does not correspond to any sentence with three regular (non- *[zi'o](/glossary/#zio)*) sumti.
 
@@ -892,9 +818,7 @@ The pro-bridi *[co'e](/glossary/#coe)* (which by itself constitutes the co'e-ser
 | mi  | troci | le  | nu       | mi  | co'e                         | le     | vorme |
 | I   | try   | the | event-of | my  | \[doing-the-obvious-action\] | to-the | door. |
 
-|                 |
-| --------------- |
-| I try the door. |
+I try the door.
 
 The English version means, and the Lojban version probably means, that I try to open the door, but the relationship of opening is not actually specified; the Lojbanic listener must guess it from context. Lojban, unlike English, makes it clear that there is an implicit action that is not being expressed.
 
@@ -920,23 +844,15 @@ The cmavo of the vo'a-series are pro-sumti anaphora, like those of the ri-series
 
 ##### Example 7.57.
 
-|               |
-| ------------- |
-| mi lumci vo'a |
+mi lumci vo'a
 
-|               |
-| ------------- |
-| I wash myself |
+I wash myself
 
 ##### Example 7.58.
 
-|                        |
-| ---------------------- |
-| mi klama le zarci vo'e |
+mi klama le zarci vo'e
 
-|                                                              |
-| ------------------------------------------------------------ |
-| I go to the store from itself \[by some route unspecified\]. |
+I go to the store from itself \[by some route unspecified\].
 
 To refer to places of neighboring bridi, constructions like *le se go'i ku* do the job: this refers to the 2nd place of the previous main bridi, as explained in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
@@ -949,9 +865,7 @@ The cmavo of the vo'a-series are also used with *[soi](/glossary/#soi)* (of selm
 | mi  | prami | do  | soi             | vo'a                 | vo'e                  |
 | I   | love  | you | \[reciprocity\] | \[x1 of this bridi\] | \[x2 of this bridi\]. |
 
-|                                                     |
-| --------------------------------------------------- |
-| I love you and vice versa (swapping “I” and “you”). |
+I love you and vice versa (swapping “I” and “you”).
 
 The significance of *soi vo'a vo'e* is that the bridi is still true even if the x1 (specified by *[vo'a](/glossary/#voa)*) and the x2 (specified by *[vo'e](/glossary/#voe)*) places are interchanged. If only a single sumti follows *[soi](/glossary/#soi)*, then the sumti immediately preceding *[soi](/glossary/#soi)* is understood to be one of those involved:
 
@@ -968,15 +882,11 @@ Of course, other places can be involved, and other sumti may be used in place of
 
 ##### Example 7.61.
 
-|                                |
-| ------------------------------ |
-| mi bajykla ti ta soi vo'e -    |
+mi bajykla ti ta soi vo'e -
 | mi bajykla ti ta soi vo'e vo'i |
 | soi vo'e vo'i mi bajykla ti ta |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| I runningly-go to this from that and vice versa (to that from this). |
+I runningly-go to this from that and vice versa (to that from this).
 
 The elidable terminator for *[soi](/glossary/#soi)* is *[se'u](/glossary/#seu)* (selma'o SEhU), which is normally needed only if there is just one sumti after the *[soi](/glossary/#soi)*, and the *[soi](/glossary/#soi)* construction is not at the end of the bridi. Constructions using *[soi](/glossary/#soi)* are free modifiers, and as such can go almost anywhere. Here is an example where *[se'u](/glossary/#seu)* is required:
 
@@ -987,9 +897,7 @@ The elidable terminator for *[soi](/glossary/#soi)* is *[se'u](/glossary/#seu)* 
 | mi  | bajykla         | ti   | soi             | vo'i                 | se'u |      | ta   |
 | I   | runningly-go-to | this | \[reciprocity\] | \[x3 of this bridi\] |      | from | that |
 
-|                                                  |
-| ------------------------------------------------ |
-| I runningly-go to this from that and vice versa. |
+I runningly-go to this from that and vice versa.
 
 ## 7.9. sumti and bridi questions: *ma* and *mo*
 
@@ -1009,21 +917,15 @@ Lojban questions are more fully explained in [Section 19.5](/chapter19/#195-ques
 | do  | klama | ma    |
 | You | go-to | what? |
 
-|                      |
-| -------------------- |
-| Where are you going? |
+Where are you going?
 
 The cmavo *[mo](/glossary/#mo)*, on the other hand, asks for a selbri which makes the question bridi true. If the answer is a full bridi, then the arguments of the answer override the arguments in the question, in the same manner as the go'i-series cmavo. A simple example is:
 
 ##### Example 7.64.
 
-|       |
-| ----- |
-| do mo |
+do mo
 
-|                                           |
-| ----------------------------------------- |
-| What predicate is true as applied to you? |
+What predicate is true as applied to you?
 | How are you?                              |
 | What are you doing?                       |
 | What are you?                             |
@@ -1039,9 +941,7 @@ The cmavo *[mo](/glossary/#mo)*, on the other hand, asks for a selbri which make
 | ma         | cmene          | do   |
 | What-sumti | is-the-name-of | you? |
 
-|                    |
-| ------------------ |
-| What is your name? |
+What is your name?
 
 or even
 
@@ -1063,9 +963,7 @@ A further example of *[mo](/glossary/#mo)*:
 | lo  | mo               |         | prenu  | cu  | darxi | do   | .i  | barda        |
 | A   | \[what selbri?\] | type-of | person |     | hit   | you? |     | A big thing. |
 
-|                                    |
-| ---------------------------------- |
-| Which person hit you? The big one. |
+Which person hit you? The big one.
 
 When *[ma](/glossary/#ma)* or *[mo](/glossary/#mo)* is repeated, multiple questions are being asked simultaneously:
 
@@ -1076,9 +974,7 @@ When *[ma](/glossary/#ma)* or *[mo](/glossary/#mo)* is repeated, multiple questi
 | ma             | djuno | ma              |
 | \[What-sumti\] | knows | \[what-sumti\]? |
 
-|                 |
-| --------------- |
-| Who knows what? |
+Who knows what?
 
 ## 7.10. Relativized pro-sumti: *ke'a*
 
@@ -1102,9 +998,7 @@ This pro-sumti is used in relative clauses (explained in [Chapter 8](/chapter08/
 | zbasu | ke'a                                    |      | lei          | slasi    |
 | makes | the-thing-being-relativized-\[the-cat\] | from | some-mass-of | plastic. |
 
-|                              |
-| ---------------------------- |
-| I see a cat made of plastic. |
+I see a cat made of plastic.
 
 If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example-769 "Example 7.69."), it might be confused with:
 
@@ -1120,9 +1014,7 @@ If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example
 | \[ke'a\]                                | zbasu | lei       | slasi   |
 | the-thing-being-relativized-\[the-cat\] | makes | a-mass-of | plastic |
 
-|                                 |
-| ------------------------------- |
-| I see a cat that makes plastic. |
+I see a cat that makes plastic.
 
 The anaphora cmavo *[ri](/glossary/#ri)* cannot be used in place of *[ke'a](/glossary/#kea)* in [Example 7.69](/chapter07/#example-769 "Example 7.69.") and [Example 7.70](/chapter07/#example-770 "Example 7.70."), because the relativized sumti is not yet complete when the *[ke'a](/glossary/#kea)* appears.
 
@@ -1147,9 +1039,7 @@ In brief: Every property abstraction specifies a property of one of the sumti in
 | le  | ka          | ce'u | gleki        |
 | the | property-of | (X   | being-happy) |
 
-|                             |
-| --------------------------- |
-| the property of being happy |
+the property of being happy
 | happiness                   |
 
 and
@@ -1161,9 +1051,7 @@ and
 | le  | ka          | gleki              | ce'u |
 | the | property-of | (being-happy-about | X)   |
 
-|                                                         |
-| ------------------------------------------------------- |
-| the property of being that which someone is happy about |
+the property of being that which someone is happy about
 
 ## 7.12. Bound variable pro-sumti and pro-bridi: the da-series and the bu'a-series
 
@@ -1192,9 +1080,7 @@ Bound variables belong to the predicate-logic part of Lojban, and are listed her
 | grana      | ku'o | gi'e | desygau   | da           |
 | is-a-stick |      | and  | shake-did | something-1. |
 
-|                                      |
-| ------------------------------------ |
-| John picked up a stick and shook it. |
+John picked up a stick and shook it.
 
 ## 7.13. Pro-sumti and pro-bridi cancelling
 

@@ -54,9 +54,7 @@ The placement of a tense construct within a Lojban bridi is easy: right before t
 | mi  |     | pu          | klama | le  | zarci   |
 | I   |     | in-the-past | go-to | the | market. |
 
-|                       |
-| --------------------- |
-| I went to the market. |
+I went to the market.
 
 It is also possible to put the tense somewhere else in the bridi by adding *[ku](/glossary/#ku)* after it. This *[ku](/glossary/#ku)* is an elidable terminator, but it's almost never possible to actually elide it except at the end of the bridi:
 
@@ -67,9 +65,7 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 | puku        | mi  | klama | le  | zarci   |
 | In-the-past | I   | go-to | the | market. |
 
-|                                |
-| ------------------------------ |
-| Earlier, I went to the market. |
+Earlier, I went to the market.
 
 ##### Example 10.4.
 
@@ -78,9 +74,7 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 | mi  | klama | puku        | le  | zarci   |
 | I   | go-to | in-the-past | the | market. |
 
-|                               |
-| ----------------------------- |
-| I went earlier to the market. |
+I went earlier to the market.
 
 ##### Example 10.5.
 
@@ -89,9 +83,7 @@ It is also possible to put the tense somewhere else in the bridi by adding *[ku]
 | mi  | klama | le  | zarci  | pu           | \[ku\] |
 | I   | go-to | the | market | in-the-past. |        |
 
-|                               |
-| ----------------------------- |
-| I went to the market earlier. |
+I went to the market earlier.
 
 [Example 10.2](/chapter10/#example-102 "Example 10.2.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") are different only in emphasis. Abnormal order, such as [Example 10.3](/chapter10/#example-103 "Example 10.3.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") exhibit, adds emphasis to the words that have been moved; in this case, the tense cmavo *[pu](/glossary/#pu)*. Words at either end of the sentence tend to be more noticeable.
 
@@ -127,9 +119,7 @@ Lojban specifies the spatial tense of a bridi (the place at which it occurs) by 
 | le  | nanmu | va                  | batci | le  | gerku |
 | The | man   | \[medium-distance\] | bites | the | dog.  |
 
-|                                       |
-| ------------------------------------- |
-| Over there the man is biting the dog. |
+Over there the man is biting the dog.
 
 What is at a medium distance? The event referred to by the bridi: the man biting the dog. What is this event at a medium distance from? The speaker's location. We can understand the *[va](/glossary/#va)* as saying: “If you want to get from the speaker's location to the location of the bridi, journey for a medium distance (in some direction unspecified).” This “imaginary journey” can be used to understand not only [Example 10.6](/chapter10/#example-106 "Example 10.6."), but also every other spatial tense construct.
 
@@ -159,9 +149,7 @@ What about specifying both a direction and a distance? The rule here is that the
 | le  | nanmu | zu'avi                  | batci | le  | gerku |
 | The | man   | \[left-short-distance\] | bites | the | dog.  |
 
-|                                             |
-| ------------------------------------------- |
-| Slightly to my left, the man bites the dog. |
+Slightly to my left, the man bites the dog.
 
 As explained in [Section 10.1](/chapter10/#101-introductory "10.1. Introductory"), it would be perfectly correct to use *[ku](/glossary/#ku)* to move this tense to the beginning or the end of the sentence to emphasize it:
 
@@ -172,9 +160,7 @@ As explained in [Section 10.1](/chapter10/#101-introductory "10.1. Introductory"
 | zu'aviku                | le  | nanmu | cu  | batci | le  | gerku |
 | \[Left-short-distance\] | the | man   |     | bites | the | dog.  |
 
-|                                             |
-| ------------------------------------------- |
-| Slightly to my left, the man bites the dog. |
+Slightly to my left, the man bites the dog.
 
 ## 10.3. Compound spatial tenses
 
@@ -204,9 +190,7 @@ The opposite order also makes sense:
 | le  | nanmu | zu'a     | ga'u   | batci | le  | gerku |
 | The | man   | \[left\] | \[up\] | bites | the | dog.  |
 
-|                                                         |
-| ------------------------------------------------------- |
-| Above a place to the left of me, the man bites the dog. |
+Above a place to the left of me, the man bites the dog.
 
 In ordinary space, the result of going up and then to the left is the same as that of going left and then up, but such a simple relationship does not apply in all environments or to all directions: going south, then east, then north may return one to the starting point, if that point is the North Pole.
 
@@ -219,9 +203,7 @@ Each direction can have a distance following:
 | le  | nanmu | zu'avi                  | ga'u   | vu                | batci | le  | gerku |
 | The | man   | \[left-short-distance\] | \[up\] | \[long-distance\] | bites | the | dog.  |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| Far above a place slightly to the left of me, the man bites the dog. |
+Far above a place slightly to the left of me, the man bites the dog.
 
 A distance can also come at the beginning of the tense construct, without any specified direction. ([Example 10.6](/chapter10/#example-106 "Example 10.6."), with VA alone, is really a special case of this rule when no directions at all follow.)
 
@@ -232,9 +214,7 @@ A distance can also come at the beginning of the tense construct, without any sp
 | le  | nanmu | vi                 | zu'a     | batci | le  | gerku |
 | The | man   | \[short-distance\] | \[left\] | bites | the | dog.  |
 
-|                                                 |
-| ----------------------------------------------- |
-| Left of a place near me, the man bites the dog. |
+Left of a place near me, the man bites the dog.
 
 Any number of directions may be used in a compound tense, with or without specified distances for each:
 
@@ -247,9 +227,7 @@ Any number of directions may be used in a compound tense, with or without specif
 | ne'i       | batci | le        | gerku     |          |            |           |          |
 | \[within\] | bites | the       | dog.      |          |            |           |          |
 
-|                                                                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Within a place a long distance to the right of a place which is a medium distance downward from a place a short distance in front of me, the man bites the dog. |
+Within a place a long distance to the right of a place which is a medium distance downward from a place a short distance in front of me, the man bites the dog.
 
 Whew! It's a good thing tense constructs are optional: having to say all that could certainly be painful. Note, however, how much shorter the Lojban version of [Example 10.14](/chapter10/#example-1014 "Example 10.14.") is than the English version.
 
@@ -275,9 +253,7 @@ Now that the reader understands spatial tenses, there are only two main facts to
 | le  | nanmu | pu       | batci | le  | gerku |
 | The | man   | \[past\] | bites | the | dog.  |
 
-|                      |
-| -------------------- |
-| The man bit the dog. |
+The man bit the dog.
 
 means that to reach the dog-biting, you must take an imaginary journey through time, moving towards the past an unspecified distance. (Of course, this journey is even more imaginary than the ones talked about in the previous sections, since time-travel is not an available option.)
 
@@ -296,9 +272,7 @@ Here are some examples of temporal tenses:
 | le  | nanmu | puzi                    | batci | le  | gerku |
 | The | man   | \[past-short-distance\] | bites | the | dog.  |
 
-|                                        |
-| -------------------------------------- |
-| A short time ago, the man bit the dog. |
+A short time ago, the man bit the dog.
 
 ##### Example 10.17.
 
@@ -307,9 +281,7 @@ Here are some examples of temporal tenses:
 | le  | nanmu | pu       | pu       | batci | le  | gerku |
 | The | man   | \[past\] | \[past\] | bites | the | dog.  |
 
-|                                                             |
-| ----------------------------------------------------------- |
-| Earlier than an earlier time than now, the man bit the dog. |
+Earlier than an earlier time than now, the man bit the dog.
 | The man had bitten the dog.                                 |
 | The man had been biting the dog.                            |
 
@@ -320,9 +292,7 @@ Here are some examples of temporal tenses:
 | le  | nanmu | ba         | puzi           | batci | le  | gerku |
 | The | man   | \[future\] | \[past-short\] | bites | the | dog.  |
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| Shortly earlier than some time later than now, the man will bite the dog. |
+Shortly earlier than some time later than now, the man will bite the dog.
 | Soon before then, the man will have bitten the dog.                       |
 | The man will have just bitten the dog.                                    |
 | The man will just have been biting the dog.                               |
@@ -336,9 +306,7 @@ What about the analogue of an initial VA without a direction? Lojban does allow 
 | le  | nanmu | zi        | pu       | batci | le  | gerku |
 | The | man   | \[short\] | \[past\] | bites | the | dog.  |
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| Before a short time from or before now, the man bit or will bite the dog. |
+Before a short time from or before now, the man bit or will bite the dog.
 
 ##### Example 10.20.
 
@@ -347,9 +315,7 @@ What about the analogue of an initial VA without a direction? Lojban does allow 
 | le  | nanmu | zu       | batci | le  | gerku |
 | The | man   | \[long\] | bites | the | dog.  |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| A long time from or before now, the man will bite or bit the dog. |
+A long time from or before now, the man will bite or bit the dog.
 
 [Example 10.19](/chapter10/#example-1019 "Example 10.19.") and [Example 10.20](/chapter10/#example-1020 "Example 10.20.") are perfectly legitimate, but may not be very much used: *[zi](/glossary/#zi)* by itself signals an event that happens at a time close to the present, but without saying whether it is in the past or the future. A rough translation might be “about now, but not exactly now”.
 
@@ -364,9 +330,7 @@ Finally, here are examples which combine temporal and spatial tense:
 | le  | nanmu | puzu               | vu             | batci | le  | gerku |
 | The | man   | \[past-long-time\] | \[long-space\] | bites | the | dog.  |
 
-|                                             |
-| ------------------------------------------- |
-| Long ago and far away, the man bit the dog. |
+Long ago and far away, the man bit the dog.
 
 Alternatively,
 
@@ -377,9 +341,7 @@ Alternatively,
 | le  | nanmu | cu  | batci | le  | gerku | puzuvuku                       |
 | The | man   |     | bites | the | dog   | \[past-long-time-long-space\]. |
 
-|                                            |
-| ------------------------------------------ |
-| The man bit the dog long ago and far away. |
+The man bit the dog long ago and far away.
 
 ## 10.5. Interval sizes: VEhA and ZEhA
 
@@ -403,9 +365,7 @@ So far, we have considered only events that are usually thought of as happening 
 | le  | verba | ve'i                     | cadzu    | le  | bisli |
 | The | child | \[small-space-interval\] | walks-on | the | ice.  |
 
-|                                                |
-| ---------------------------------------------- |
-| In a small space, the child walks on the ice.  |
+In a small space, the child walks on the ice.
 | The child walks about a small area of the ice. |
 
 means that her walking was done in a small area. Like the distances, the interval sizes are classified only roughly as “small, medium, large”, and are relative to the context: a small part of a room might be a large part of a table in that room.
@@ -419,9 +379,7 @@ Here is an example using a time interval:
 | le  | verba | ze'a                     | cadzu    | le  | bisli |
 | The | child | \[medium-time-interval\] | walks-on | the | ice.  |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| For a medium time, the child walks/walked/will walk on the ice. |
+For a medium time, the child walks/walked/will walk on the ice.
 
 Note that with no time direction word, [Example 10.24](/chapter10/#example-1024 "Example 10.24.") does not say when the walking happened: that would be determined by context. It is possible to specify both directions or distances and an interval, in which case the interval always comes afterward:
 
@@ -432,9 +390,7 @@ Note that with no time direction word, [Example 10.24](/chapter10/#example-1024 
 | le  | verba | pu       | ze'a                     | cadzu    | le  | bisli |
 | The | child | \[past\] | \[medium-time-interval\] | walks-on | the | ice.  |
 
-|                                                 |
-| ----------------------------------------------- |
-| For a medium time, the child walked on the ice. |
+For a medium time, the child walked on the ice.
 | The child walked on the ice for a while.        |
 
 In [Example 10.25](/chapter10/#example-1025 "Example 10.25."), the relationship of the interval to the specified point in time or space is indeterminate. Does the interval start at the point, end at the point, or is it centered on the point? By adding an additional direction cmavo after the interval, this question can be conclusively answered:
@@ -446,9 +402,7 @@ In [Example 10.25](/chapter10/#example-1025 "Example 10.25."), the relationship 
 | mi  | ca          | ze'ica                          | cusku   | dei             |
 | I   | \[present\] | \[short-time-interval-present\] | express | this-utterance. |
 
-|                                |
-| ------------------------------ |
-| I am now saying this sentence. |
+I am now saying this sentence.
 
 means that for an interval starting a short time in the past and extending to a short time in the future, I am expressing the utterance which is [Example 10.26](/chapter10/#example-1026 "Example 10.26."). Of course, “short” is relative, as always in tenses. Even a long sentence takes up only a short part of a whole day; in a geological context, the era of *Homo sapiens* would only be a *[ze'i](/glossary/#zei)* interval.
 
@@ -461,9 +415,7 @@ By contrast,
 | mi  | ca          | ze'ipu                       | cusku   | dei             |
 | I   | \[present\] | \[short-time-interval-past\] | express | this-utterance. |
 
-|                                        |
-| -------------------------------------- |
-| I have just been saying this sentence. |
+I have just been saying this sentence.
 
 means that for a short time interval extending from the past to the present I have been expressing [Example 10.27](/chapter10/#example-1027 "Example 10.27."). Here the imaginary journey starts at the present, lays down one end point of the interval, moves into the past, and lays down the other endpoint. Another example:
 
@@ -474,9 +426,7 @@ means that for a short time interval extending from the past to the present I ha
 | mi  | pu       | ze'aba                          | citka | le  | mi    | sanmi |
 | I   | \[past\] | \[medium-time-interval-future\] | eat   | the | of-me | meal. |
 
-|                                             |
-| ------------------------------------------- |
-| For a medium time afterward, I ate my meal. |
+For a medium time afterward, I ate my meal.
 | I ate my meal for a while.                  |
 
 With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/chapter10/#example-1028 "Example 10.28.") becomes [Example 10.29](/chapter10/#example-1029 "Example 10.29."),
@@ -488,9 +438,7 @@ With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/ch
 | mi  | pu       | ze'aca                           | citka | le  | mi    | sanmi |
 | I   | \[past\] | \[medium-time-interval-present\] | eat   | the | of-me | meal. |
 
-|                                                        |
-| ------------------------------------------------------ |
-| For a medium time before and afterward, I ate my meal. |
+For a medium time before and afterward, I ate my meal.
 | I ate my meal for a while.                             |
 
 because the interval would then be centered on the past moment rather than oriented toward the future of that moment. The colloquial English translations are the same – English is not well-suited to representing this distinction.
@@ -504,9 +452,7 @@ Here are some examples of the use of space intervals with and without specified 
 | ta         | ri'u      | ve'i                     | finpe      |
 | That-there | \[right\] | \[short-space-interval\] | is-a-fish. |
 
-|                                   |
-| --------------------------------- |
-| That thing on my right is a fish. |
+That thing on my right is a fish.
 
 In [Example 10.30](/chapter10/#example-1030 "Example 10.30."), there is no equivalent in the colloquial English translation of the “small interval” which the fish occupies. Neither the Lojban nor the English expresses the orientation of the fish. Compare [Example 10.31](/chapter10/#example-1031 "Example 10.31."):
 
@@ -517,9 +463,7 @@ In [Example 10.30](/chapter10/#example-1030 "Example 10.30."), there is no equiv
 | ta         | ri'u      | ve'ica'u                       | finpe      |
 | That-there | \[right\] | \[short-space-interval-front\] | is-a-fish. |
 
-|                                                      |
-| ---------------------------------------------------- |
-| That thing on my right extending forwards is a fish. |
+That thing on my right extending forwards is a fish.
 
 Here the space interval occupied by the fish extends from a point on my right to another point in front of the first point.
 
@@ -551,9 +495,7 @@ This property of a past tense is sometimes called “aorist”, in reference to 
 | le  | tricu | ba         | crino     |
 | The | tree  | \[future\] | is-green. |
 
-|                         |
-| ----------------------- |
-| The tree will be green. |
+The tree will be green.
 
 does not imply (as the colloquial English translation does) that the tree is not green now. The vague interval throughout which the tree is, in fact, green may have already started.
 
@@ -581,9 +523,7 @@ What about the child walking on the ice in [Example 10.23](/chapter10/#example-1
 | le  | verba | ve'a                      | vi'a              | cadzu    | le  | bisli |
 | The | child | \[medium-space-interval\] | \[2-dimensional\] | walks-on | the | ice.  |
 
-|                                                     |
-| --------------------------------------------------- |
-| In a medium-sized area, the child walks on the ice. |
+In a medium-sized area, the child walks on the ice.
 
 Space intervals can contain either VEhA or VIhA or both, but if both, VEhA must come first, as [Example 10.34](/chapter10/#example-1034 "Example 10.34.") shows.
 
@@ -608,9 +548,7 @@ All the information carried by the tense constructs so far presented has been pr
 | le  | verba | mo'i         | ri'u      | cadzu    | le  | bisli |
 | The | child | \[movement\] | \[right\] | walks-on | the | ice.  |
 
-|                                             |
-| ------------------------------------------- |
-| The child walks toward my right on the ice. |
+The child walks toward my right on the ice.
 
 This is quite different from:
 
@@ -621,9 +559,7 @@ This is quite different from:
 | le  | verba | ri'u      | cadzu    | le  | bisli |
 | The | child | \[right\] | walks-on | the | ice.  |
 
-|                                                 |
-| ----------------------------------------------- |
-| To the right of me, the child walks on the ice. |
+To the right of me, the child walks on the ice.
 
 In either case, however, the reference frame for defining “right” and “left” is the speaker's, not the child's. This can be changed thus:
 
@@ -639,9 +575,7 @@ In either case, however, the reference frame for defining “right” and “lef
 | ma'i               | vo'a          |
 | in-reference-frame | the-x1-place. |
 
-|                                              |
-| -------------------------------------------- |
-| The child walks toward her right on the ice. |
+The child walks toward her right on the ice.
 
 [Example 10.37](/chapter10/#example-1037 "Example 10.37.") is analogous to [Example 10.35](/chapter10/#example-1035 "Example 10.35."). The cmavo *[ma'i](/glossary/#mai)* belongs to selma'o BAI (explained in [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")), and allows specifying a reference frame.
 
@@ -654,9 +588,7 @@ Both a regular and a *[mo'i](/glossary/#moi)*-flagged spatial tense can be combi
 | le  | verba | zu'avu        | mo'i         | ri'uvi          | cadzu    | le  | bisli |
 | The | child | \[left-long\] | \[movement\] | \[right-short\] | walks-on | the | ice.  |
 
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| Far to the left of me, the child walks a short distance toward my right on the ice. |
+Far to the left of me, the child walks a short distance toward my right on the ice.
 
 It is not grammatical to use multiple directions like *zu'a ca'u* after *[mo'i](/glossary/#moi)*, but complex movements can be expressed in a separate bridi.
 
@@ -669,9 +601,7 @@ Here is an example of a movement tense on a bridi not inherently involving movem
 | mi  | mo'i         | ca'uvu         | citka | le  | mi                 | sanmi |
 | I   | \[movement\] | \[front-long\] | eat   | the | associated-with-me | meal. |
 
-|                                                 |
-| ----------------------------------------------- |
-| While moving a long way forward, I eat my meal. |
+While moving a long way forward, I eat my meal.
 
 (Perhaps I am eating in an airplane.)
 
@@ -705,9 +635,7 @@ Consider Lojban bridi which express events taking place in time. Whether a very 
 | mi  | puzu                   | ze'u              | velckule                      |
 | I   | \[past-long-distance\] | \[long-interval\] | am-a-school-attendee (pupil). |
 
-|                                             |
-| ------------------------------------------- |
-| Long ago I attended school for a long time. |
+Long ago I attended school for a long time.
 
 probably does not mean that I attended school continuously throughout the whole of that long-ago interval. Actually, I attended school every day, except for school holidays. More explicitly,
 
@@ -718,9 +646,7 @@ probably does not mean that I attended school continuously throughout the whole 
 | mi  | puzu                   | ze'u              | di'i          | velckule    |
 | I   | \[past-long-distance\] | \[long-interval\] | \[regularly\] | am-a-pupil. |
 
-|                                                       |
-| ----------------------------------------------------- |
-| Long ago I regularly attended school for a long time. |
+Long ago I regularly attended school for a long time.
 
 The four TAhE cmavo are differentiated as follows: *[ru'i](/glossary/#rui)* covers the entirety of the interval, *[di'i](/glossary/#dii)* covers the parts of the interval which are systematically spaced subintervals; *[na'o](/glossary/#nao)* covers part of the interval, but exactly which part is determined by context; *[ta'e](/glossary/#tae)* covers part of the interval, selected with reference to the behavior of the actor (who often, but not always, appears in the x1 place of the bridi).
 
@@ -734,9 +660,7 @@ Using TAhE does not require being so specific. Either the time direction or the 
 | I   | \[future\] | \[habitually\] | go-to | the | market. |
 | I   | will       | habitually     | go to | the | market. |
 
-|                                             |
-| ------------------------------------------- |
-| I will make a habit of going to the market. |
+I will make a habit of going to the market.
 
 specifies the future, but the duration of the interval is indefinite. Similarly,
 
@@ -747,9 +671,7 @@ specifies the future, but the duration of the interval is indefinite. Similarly,
 | mi  | na'o          | klama | le  | zarci   |
 | I   | \[typically\] | go-to | the | market. |
 
-|                                            |
-| ------------------------------------------ |
-| I typically go/went/will go to the market. |
+I typically go/went/will go to the market.
 
 illustrates an interval property in isolation. There are no distance or direction cmavo, so the point of time is vague; likewise, there is no interval cmavo, so the length of the interval during which these goings-to-the-market take place is also vague. As always, context will determine these vague values.
 
@@ -762,9 +684,7 @@ illustrates an interval property in isolation. There are no distance or directio
 | le  | verba | ru'inai              | cadzu    | le  | bisli |
 | The | child | \[continuously-not\] | walks-on | the | ice.  |
 
-|                                            |
-| ------------------------------------------ |
-| The child intermittently walks on the ice. |
+The child intermittently walks on the ice.
 
 As shown in the cmavo table above, all the cmavo of TAhE may be negated with *-nai*; *[ru'inai](/glossary/#ruinai)* and *[di'inai](/glossary/#diinai)* are probably the most useful.
 
@@ -777,9 +697,7 @@ An intermittent event can also be specified by counting the number of times duri
 | mi  | paroi        | klama | le  | zarci   |
 | I   | \[one-time\] | go-to | the | market. |
 
-|                          |
-| ------------------------ |
-| I go to the market once. |
+I go to the market once.
 
 ##### Example 10.46.
 
@@ -788,9 +706,7 @@ An intermittent event can also be specified by counting the number of times duri
 | mi  | du'eroi            | klama | le  | zarci   |
 | I   | \[too-many-times\] | go-to | the | market. |
 
-|                               |
-| ----------------------------- |
-| I go to the market too often. |
+I go to the market too often.
 
 With the quantified tense alone, we don't know whether the past, the present, or the future is intended, but of course the quantified tense need not stand alone:
 
@@ -801,9 +717,7 @@ With the quantified tense alone, we don't know whether the past, the present, or
 | mi  | pu       | reroi         | klama | le  | zarci   |
 | I   | \[past\] | \[two-times\] | go-to | the | market. |
 
-|                             |
-| --------------------------- |
-| I went to the market twice. |
+I went to the market twice.
 
 The English is slightly over-specific here: it entails that both goings-to-the-market were in the past, which may or may not be true in the Lojban sentence, since the implied interval is vague. Therefore, the interval may start in the past but extend into the present or even the future.
 
@@ -816,9 +730,7 @@ Adding *-nai* to *[roi](/glossary/#roi)* is also permitted, and has the meaning 
 | le  | ratcu | reroinai      | citka | le  | cirla   |
 | The | rat   | \[twice-not\] | eats  | the | cheese. |
 
-|                                           |
-| ----------------------------------------- |
-| The rat eats the cheese other than twice. |
+The rat eats the cheese other than twice.
 
 This may mean that the rat eats the cheese fewer times, or more times, or not at all.
 
@@ -842,9 +754,7 @@ A PU cmavo following *[ze'e](/glossary/#zee)* has a slightly different meaning f
 | mi  | ze'epu                  | noroi     | klama | le  | zarci   |
 | I   | \[whole-interval-past\] | \[never\] | go-to | the | market. |
 
-|                                  |
-| -------------------------------- |
-| I have never gone to the market. |
+I have never gone to the market.
 
 says nothing about whether I might go in future.
 
@@ -883,9 +793,7 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 | mi  | pu'o           | damba  |
 | I   | \[inchoative\] | fight. |
 
-|                               |
-| ----------------------------- |
-| I'm on the verge of fighting. |
+I'm on the verge of fighting.
 
 ##### Example 10.52.
 
@@ -894,9 +802,7 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 | la         | stiv. | ca'o             | bacru   |
 | That-named | Steve | \[continuitive\] | utters. |
 
-|                          |
-| ------------------------ |
-| Steve continues to talk. |
+Steve continues to talk.
 
 ##### Example 10.53.
 
@@ -905,9 +811,7 @@ The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/gloss
 | le  | verba | ba'o           | cadzu    | le  | bisli |
 | The | child | \[perfective\] | walks-on | the | ice.  |
 
-|                                           |
-| ----------------------------------------- |
-| The child is finished walking on the ice. |
+The child is finished walking on the ice.
 
 As discussed in [Section 10.6](/chapter10/#106-vague-intervals-and-non-specific-tenses "10.6. Vague intervals and non-specific tenses"), the simple PU cmavo make no assumptions about whether the scope of a past, present, or future event extends into one of the other tenses as well. [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through [Example 10.53](/chapter10/#example-1053 "Example 10.53.") illustrate that these ZAhO cmavo do make such assumptions possible: the event in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") has not yet begun, definitively; likewise, the event in [Example 10.53](/chapter10/#example-1053 "Example 10.53.") is definitely over.
 
@@ -922,9 +826,7 @@ The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through 
 | mi  | ba         | co'a           | citka | le  | mi                 | sanmi |
 | I   | \[future\] | \[initiative\] | eat   | the | associated-with-me | meal. |
 
-|                              |
-| ---------------------------- |
-| I will begin to eat my meal. |
+I will begin to eat my meal.
 
 ##### Example 10.55.
 
@@ -933,9 +835,7 @@ The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through 
 | mi  | pu       | co'u          | citka | le  | mi                 | sanmi |
 | I   | \[past\] | \[cessitive\] | eat   | the | associated-with-me | meal. |
 
-|                          |
-| ------------------------ |
-| I ceased eating my meal. |
+I ceased eating my meal.
 
 Compare [Example 10.54](/chapter10/#example-1054 "Example 10.54.") with:
 
@@ -946,9 +846,7 @@ Compare [Example 10.54](/chapter10/#example-1054 "Example 10.54.") with:
 | mi  | ba         | di'i          | co'a           | bajra |
 | I   | \[future\] | \[regularly\] | \[initiative\] | run.  |
 
-|                                |
-| ------------------------------ |
-| I will regularly begin to run. |
+I will regularly begin to run.
 
 which illustrates the combination of a TAhE with a ZAhO.
 
@@ -961,9 +859,7 @@ A process can have two end points, one reflecting the “natural end” (when th
 | mi  | pu       | mo'u             | citka | le  | mi                 | sanmi |
 | I   | \[past\] | \[completitive\] | eat   | the | associated-with-me | meal. |
 
-|                            |
-| -------------------------- |
-| I finished eating my meal. |
+I finished eating my meal.
 
 In [Example 10.57](/chapter10/#example-1057 "Example 10.57."), the meal has reached its natural end; in [Example 10.55](/chapter10/#example-1055 "Example 10.55."), the meal has merely ceased, without necessarily reaching its natural end.
 
@@ -976,9 +872,7 @@ A process such as eating a meal does not necessarily proceed uninterrupted. If i
 | mi  | pu       | de'a          | citka | le  | mi                 | sanmi |
 | I   | \[past\] | \[pausative\] | eat   | the | associated-with-me | meal. |
 
-|                                                            |
-| ---------------------------------------------------------- |
-| I stopped eating my meal (with the intention of resuming). |
+I stopped eating my meal (with the intention of resuming).
 
 ##### Example 10.59.
 
@@ -987,9 +881,7 @@ A process such as eating a meal does not necessarily proceed uninterrupted. If i
 | mi  | ba         | di'a           | citka | le  | mi                 | sanmi |
 | I   | \[future\] | \[resumptive\] | eat   | the | associated-with-me | meal. |
 
-|                               |
-| ----------------------------- |
-| I will resume eating my meal. |
+I will resume eating my meal.
 
 In addition, it is possible for a process to continue beyond its natural end. The span of time between the natural and the actual end points is represented by *[za'o](/glossary/#zao)*:
 
@@ -1005,9 +897,7 @@ In addition, it is possible for a process to continue beyond its natural end. Th
 | le  | cmaci       | seldanfu | le     | tadgri         |
 | the | mathematics | problem  | to-the | student-group. |
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| The teacher kept on explaining the mathematics problem to the class too long. |
+The teacher kept on explaining the mathematics problem to the class too long.
 
 That is, the teacher went on explaining after the class already understood the problem.
 
@@ -1020,9 +910,7 @@ An entire event can be treated as a single moment using the cmavo *[co'i](/gloss
 | la         | djan. | pu       | co'i            | catra | la         | djim |
 | That-named | John  | \[past\] | \[achievative\] | kills | that-named | Jim. |
 
-|                                                    |
-| -------------------------------------------------- |
-| John was at the point in time where he killed Jim. |
+John was at the point in time where he killed Jim.
 
 Finally, since an activity is cyclical, an individual cycle can be referred to using a number followed by *[re'u](/glossary/#reu)*, which is the other cmavo of selma'o ROI:
 
@@ -1033,9 +921,7 @@ Finally, since an activity is cyclical, an individual cycle can be referred to u
 | mi  | pare'u         | klama | le  | zarci  |
 | I   | \[first-time\] | go-to | the | store. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| I go to the store for the first time (within a vague interval). |
+I go to the store for the first time (within a vague interval).
 
 Note the difference between:
 
@@ -1046,9 +932,7 @@ Note the difference between:
 | mi  | pare'u         | paroi        | klama | le  | zarci  |
 | I   | \[first-time\] | \[one-time\] | go-to | the | store. |
 
-|                                             |
-| ------------------------------------------- |
-| For the first time, I go to the store once. |
+For the first time, I go to the store once.
 
 and
 
@@ -1059,9 +943,7 @@ and
 | mi  | paroi        | pare'u         | klama | le  | zarci  |
 | I   | \[one-time\] | \[first-time\] | go-to | the | store. |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| There is one occasion on which I go to the store for the first time. |
+There is one occasion on which I go to the store for the first time.
 
 ## 10.11. Space interval modifiers: FEhE
 
@@ -1080,9 +962,7 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 | ko             | vi'i              | fe'e       | di'i          | sombo | le  | gurni  |
 | You-imperative | \[1-dimensional\] | \[space:\] | \[regularly\] | sow   | the | grain. |
 
-|                                     |
-| ----------------------------------- |
-| Sow the grain in a line and evenly! |
+Sow the grain in a line and evenly!
 
 ##### Example 10.66.
 
@@ -1091,9 +971,7 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 | mi  | fe'e       | ciroi            | tervecnu | lo              | selsalta           |
 | I   | \[space:\] | \[three-places\] | buy      | those-which-are | salad-ingredients. |
 
-|                                             |
-| ------------------------------------------- |
-| I buy salad ingredients in three locations. |
+I buy salad ingredients in three locations.
 
 ##### Example 10.67.
 
@@ -1107,9 +985,7 @@ Like time intervals, space intervals can also be continuous, discontinuous, or r
 | li         | re  | su'i | re  | du  | li         | vo  |
 | The-number | 2   | +    | 2   | =   | the-number | 4.  |
 
-|                                              |
-| -------------------------------------------- |
-| Always and everywhere, two plus two is four. |
+Always and everywhere, two plus two is four.
 
 As shown in [Example 10.67](/chapter10/#example-1067 "Example 10.67."), when a tense comes first in a bridi, rather than in its normal position before the selbri (in this case *[du](/glossary/#du)*), it is emphasized.
 
@@ -1122,9 +998,7 @@ The *[fe'e](/glossary/#fee)* marker can also be used for the same purpose before
 | tu          | ve'abe'a                        | fe'e      | co'a           | rokci      |
 | That-yonder | \[medium-space-interval-north\] | \[space\] | \[initiative\] | is-a-rock. |
 
-|                                                        |
-| ------------------------------------------------------ |
-| That is the beginning of a rock extending to my north. |
+That is the beginning of a rock extending to my north.
 | That is the south face of a rock.                      |
 
 Here the notion of a “beginning point” represented by the cmavo *[co'a](/glossary/#coa)* is transferred from “beginning in time” to “beginning in space” under the influence of the *[fe'e](/glossary/#fee)* flag. Space is not inherently oriented, unlike time, which flows from past to future: therefore, some indication of orientation is necessary, and the *ve'abe'a* provides an orientation in which the south face is the “beginning” and the north face is the “end”, since the rock extends from south (near me) to north (away from me).
@@ -1149,9 +1023,7 @@ So far, we have seen tenses only just before the selbri, or (equivalently in mea
 | le  | zdani  |
 | the | house. |
 
-|                                              |
-| -------------------------------------------- |
-| I go to the market when you go to the house. |
+I go to the market when you go to the house.
 
 Here *[ca](/glossary/#ca)* does not appear before the selbri, nor with *[ku](/glossary/#ku)*; instead, it governs the following sumti, the *le nu* construct. What [Example 10.69](/chapter10/#example-1069 "Example 10.69.") asserts is that the action of the main bridi is happening at the same time as the event mentioned by that sumti. So *[ca](/glossary/#ca)*, which means “now” when used with a selbri, means “simultaneously-with” when used with a sumti. Consider another example:
 
@@ -1182,9 +1054,7 @@ All of our imaginary journeys so far have started at the speaker's location in s
 | le  | ratcu | cu  | citka | le  | cirla  | vi                      | le  | panka |
 | The | rat   |     | eats  | the | cheese | \[short-time-distance\] | the | park. |
 
-|                                        |
-| -------------------------------------- |
-| The rat eats the cheese near the park. |
+The rat eats the cheese near the park.
 
 ##### Example 10.72.
 
@@ -1193,9 +1063,7 @@ All of our imaginary journeys so far have started at the speaker's location in s
 | le  | ratcu | cu  | citka | le  | cirla  | vi                 | le  | vu                | panka |
 | The | rat   |     | eats  | the | cheese | \[short-distance\] | the | \[long-distance\] | park  |
 
-|                                                |
-| ---------------------------------------------- |
-| The rat eats the cheese near the faraway park. |
+The rat eats the cheese near the faraway park.
 
 ##### Example 10.73.
 
@@ -1204,9 +1072,7 @@ All of our imaginary journeys so far have started at the speaker's location in s
 | le  | ratcu | cu  | citka | le  | cirla  | vu                | le  | vi                 | panka |
 | The | rat   |     | eats  | the | cheese | \[long-distance\] | the | \[short-distance\] | park  |
 
-|                                                        |
-| ------------------------------------------------------ |
-| The rat eats the cheese far away from the nearby park. |
+The rat eats the cheese far away from the nearby park.
 
 The event contours of selma'o ZAhO (and their space equivalents, prefixed with *[fe'e](/glossary/#fee)*) are also useful as sumti tcita. The interpretation of ZAhO tcita differs from that of FAhA, VA, PU, and ZI tcita, however. The event described in the sumti is viewed as a process, and the action of the main bridi occurs at the phase of the process which the ZAhO specifies, or at least some part of that phase. The action of the main bridi itself is seen as a point event, so that there is no issue about which phase of the main bridi is intended. For example:
 
@@ -1217,9 +1083,7 @@ The event contours of selma'o ZAhO (and their space equivalents, prefixed with *
 | mi  | morsi   | ba'o           | le  | nu       | mi  | jmive |
 | I   | am-dead | \[perfective\] | the | event-of | I   | live. |
 
-|                                      |
-| ------------------------------------ |
-| I die in the aftermath of my living. |
+I die in the aftermath of my living.
 
 Here the (point-)event of my being dead is the portion of my living-process which occurs after the process is complete. Contrast [Example 10.74](/chapter10/#example-1074 "Example 10.74.") with:
 
@@ -1266,9 +1130,7 @@ Here is an example which mixes temporal ZAhO (as a tense) and spatial ZAhO (as a
 | fe'e      | ba'o           | le  | lalxu |
 | \[space\] | \[perfective\] | the | lake. |
 
-|                                                   |
-| ------------------------------------------------- |
-| The boat sailed for too long and beyond the lake. |
+The boat sailed for too long and beyond the lake.
 
 Probably it sailed up onto the dock. One point of clarification: although *xelklama* appears to mean simply “is-a-mode-of-transport”, it does not – the bridi of [Example 10.78](/chapter10/#example-1078 "Example 10.78.") has four omitted arguments, and thus has the (physical) journey which goes on too long as part of its meaning.
 
@@ -1281,9 +1143,7 @@ The remaining tense cmavo, which have to do with interval size, dimension, and c
 | mi  | klama | le  | zarci  | reroi     | le  | ca          | djedi |
 | I   | go-to | the | market | \[twice\] | the | \[present\] | day.  |
 
-|                                              |
-| -------------------------------------------- |
-| I go/went/will go to the market twice today. |
+I go/went/will go to the market twice today.
 
 Be careful not to confuse a tense used as a sumti tcita with a tense used within a seltcita sumti:
 
@@ -1299,9 +1159,7 @@ Be careful not to confuse a tense used as a sumti tcita with a tense used within
 | ze'u                   | le  | ca          | dunra   |
 | \[long-time-interval\] | the | \[present\] | winter. |
 
-|                                |
-| ------------------------------ |
-| Snow falls during this winter. |
+Snow falls during this winter.
 
 claims that the interval specified by “this winter” is long, as events of snowfall go, whereas
 
@@ -1312,9 +1170,7 @@ claims that the interval specified by “this winter” is long, as events of sn
 | loi                 | snime | cu  | carvi | ca          | le  | ze'u          | dunra   |
 | Some-of-the-mass-of | snow  |     | rains | \[present\] | the | \[long-time\] | winter. |
 
-|                                |
-| ------------------------------ |
-| Snow falls in the long winter. |
+Snow falls in the long winter.
 
 claims that during some part of the winter, which is long as winters go, snow falls.
 
@@ -1342,9 +1198,7 @@ To make a tense sticky, suffix *[ki](/glossary/#ki)* to it:
 | .i  | le  | nanmu | cu  | batci | le  | gerku |
 |     | The | man   |     | bites | the | dog.  |
 
-|                                            |
-| ------------------------------------------ |
-| I went to the market. The man bit the dog. |
+I went to the market. The man bit the dog.
 
 Here the use of *puki* rather than just *[pu](/glossary/#pu)* ensures that the tense will affect the next sentence as well. Otherwise, since the second sentence is tenseless, there would be no way of determining its tense; the event of the second sentence might happen before, after, or simultaneously with that of the first sentence.
 
@@ -1393,9 +1247,7 @@ The point has not been discussed so far, but it is perfectly grammatical to have
 | puku     | mi  | ba         | klama | le  | zarci   |
 | \[past\] | I   | \[future\] | go-to | the | market. |
 
-|                                           |
-| ----------------------------------------- |
-| Earlier, I was going to go to the market. |
+Earlier, I was going to go to the market.
 
 Here there are two tenses in the same bridi, the first floating free and specified by *puku*, the second in the usual place and specified by *[ba](/glossary/#ba)*. They are considered cumulative in the same way as the two tenses in separate sentences of [Example 10.85](/chapter10/#example-1085 "Example 10.85."). [Example 10.86](/chapter10/#example-1086 "Example 10.86.") is therefore equivalent in meaning, except for emphasis, to:
 
@@ -1406,9 +1258,7 @@ Here there are two tenses in the same bridi, the first floating free and specifi
 | mi  | puba            | klama | le  | zarci   |
 | I   | \[past-future\] | go-to | the | market. |
 
-|                                  |
-| -------------------------------- |
-| I was going to go to the market. |
+I was going to go to the market.
 
 Compare [Example 10.88](/chapter10/#example-1088 "Example 10.88.") and [Example 10.89](/chapter10/#example-1089 "Example 10.89."), which have a different meaning from [Example 10.86](/chapter10/#example-1086 "Example 10.86.") and [Example 10.87](/chapter10/#example-1087 "Example 10.87."):
 
@@ -1419,9 +1269,7 @@ Compare [Example 10.88](/chapter10/#example-1088 "Example 10.88.") and [Example 
 | mi  | ba         | klama | le  | zarci  | puku      |
 | I   | \[future\] | go-to | the | market | \[past\]. |
 
-|                                         |
-| --------------------------------------- |
-| I will have gone to the market earlier. |
+I will have gone to the market earlier.
 
 ##### Example 10.89.
 
@@ -1430,9 +1278,7 @@ Compare [Example 10.88](/chapter10/#example-1088 "Example 10.88.") and [Example 
 | mi  | bapu            | klama | le  | zarci   |
 | I   | \[future-past\] | go-to | the | market. |
 
-|                                 |
-| ------------------------------- |
-| I will have gone to the market. |
+I will have gone to the market.
 
 So when multiple tense constructs in a single bridi are involved, order counts – the tenses cannot be shifted around as freely as if there were only one tense to worry about.
 
@@ -1463,9 +1309,7 @@ Lojban has several ways of embedding a bridi within another bridi: descriptions,
 | mi  | pu       | klama | le  | ba'o           | zarci  |
 | I   | \[past\] | go-to | the | \[perfective\] | market |
 
-|                              |
-| ---------------------------- |
-| I went to the former market. |
+I went to the former market.
 
 The significance of the *[ba'o](/glossary/#bao)* in [Example 10.91](/chapter10/#example-1091 "Example 10.91.") is that the speaker's destination is described as being “in the aftermath of being a market”; that is, it is a market no longer. In particular, the time at which it was no longer a market is in the speaker's past, because the *[ba'o](/glossary/#bao)* is interpreted relative to the *[pu](/glossary/#pu)* tense of the main bridi.
 
@@ -1478,9 +1322,7 @@ Here is an example involving an abstraction bridi:
 | mi  | ca  | jinvi | le  | du'u      | mi  | ba      | morsi |
 | I   | now | opine | the | fact-that | I   | will-be | dead. |
 
-|                                    |
-| ---------------------------------- |
-| I now believe that I will be dead. |
+I now believe that I will be dead.
 
 Here the event of being dead is said to be in the future with respect to the opinion, which is in the present.
 
@@ -1508,9 +1350,7 @@ The following mini-story illustrates the important features of story time. A sen
 | le  | ninmu | goi        | ko'a  | zutse  | le  | rokci |
 | the | woman | defined-as | she-1 | sat-on | the | rock  |
 
-|                                             |
-| ------------------------------------------- |
-| Long ago, in a cave, a woman sat on a rock. |
+Long ago, in a cave, a woman sat on a rock.
 
 ##### Example 10.94.
 
@@ -1519,9 +1359,7 @@ The following mini-story illustrates the important features of story time. A sen
 | .i  | ko'a  | citka           | loi                 | kanba | rectu  |
 |     | She-1 | eat-(tenseless) | some-of-the-mass-of | goat  | flesh. |
 
-|                             |
-| --------------------------- |
-| She was eating goat's meat. |
+She was eating goat's meat.
 
 ##### Example 10.95.
 
@@ -1530,9 +1368,7 @@ The following mini-story illustrates the important features of story time. A sen
 | .i  | ko'a | pu       | jukpa | ri                 | le            | mudyfagri  |
 |     | She  | \[past\] | cook  | the-last-mentioned | by-method-the | wood-fire. |
 
-|                                           |
-| ----------------------------------------- |
-| She had cooked the meat over a wood fire. |
+She had cooked the meat over a wood fire.
 
 ##### Example 10.96.
 
@@ -1541,9 +1377,7 @@ The following mini-story illustrates the important features of story time. A sen
 | .i  | lei         | rectu | cu  | zanglare             |
 |     | The-mass-of | flesh |     | is-(favorable)-warm. |
 
-|                               |
-| ----------------------------- |
-| The meat was pleasantly warm. |
+The meat was pleasantly warm.
 
 ##### Example 10.97.
 
@@ -1557,9 +1391,7 @@ The following mini-story illustrates the important features of story time. A sen
 | ba         | za         | ki         | nenri  | klama | le     | kevna |
 | \[future\] | \[medium\] | \[sticky\] | within | came  | to-the | cave. |
 
-|                                           |
-| ----------------------------------------- |
-| A while later, a wolf came into the cave. |
+A while later, a wolf came into the cave.
 
 ##### Example 10.98.
 
@@ -1568,9 +1400,7 @@ The following mini-story illustrates the important features of story time. A sen
 | .i  | ko'e | lebna             | lei         | rectu | ko'a        |
 |     | It-2 | takes-(tenseless) | the-mass-of | flesh | from-her-1. |
 
-|                            |
-| -------------------------- |
-| It took the meat from her. |
+It took the meat from her.
 
 ##### Example 10.99.
 
@@ -1579,9 +1409,7 @@ The following mini-story illustrates the important features of story time. A sen
 | .i  | ko'e | bartu | klama |
 |     | It-2 | out   | ran   |
 
-|             |
-| ----------- |
-| It ran out. |
+It ran out.
 
 [Example 10.93](/chapter10/#example-1093 "Example 10.93.") sets both the time (long ago) and the place (in a cave) using *[ki](/glossary/#ki)*, just like the sentence sequences in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI"). No further space cmavo are used in the rest of the story, so the place is assumed to remain unchanged. The English translation of [Example 10.93](/chapter10/#example-1093 "Example 10.93.") is marked for past tense also, as the conventions of English storytelling require: consequently, all other English translation sentences are also in the past tense. (We don't notice how strange this is; even stories about the future are written in past tense!) This conventional use of past tense is not used in Lojban narratives.
 
@@ -1696,9 +1524,7 @@ There is a special cmavo *[nau](/glossary/#nau)* (of selma'o CUhE) which can be 
 | la         | maris. | nau     | klama   | le  | zarci   |
 | That-named | Mary   | \[now\] | goes-to | the | market. |
 
-|                                                                                                  |
-| ------------------------------------------------------------------------------------------------ |
-| John said that Alice had said that George had earlier said that Mary is now going to the market. |
+John said that Alice had said that George had earlier said that Mary is now going to the market.
 
 The use of *[nau](/glossary/#nau)* does not affect sticky tenses.
 
@@ -1718,9 +1544,7 @@ The sumti tcita method, explained in [Section 10.12](/chapter10/#1012-tenses-as-
 | zu'a     | le  | nu       | le  | nanmu | cu  | batci | le  | gerku |
 | \[left\] | the | event-of | the | man   |     | bites | the | dog.  |
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| The child walks on the ice to the left of where the man bites the dog. |
+The child walks on the ice to the left of where the man bites the dog.
 
 which specifies an imaginary journey leftward from the man biting the dog to the child walking on the ice, claims only that the child walks on the ice. By the nature of *le nu*, the man's biting the dog is merely referred to without being claimed. If it seems desirable to claim both, each event can be expressed as a main sentence bridi, with a special form of *[i](/glossary/#i)* connecting them:
 
@@ -1736,9 +1560,7 @@ which specifies an imaginary journey leftward from the man biting the dog to the
 | .izu'abo | le  | verba | cu  | cadzu    | le  | bisli |
 | \[Left\] | the | child |     | walks-on | the | ice.  |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| The man bites the dog. To the left, the child walks on the ice. |
+The man bites the dog. To the left, the child walks on the ice.
 
 *.izu'abo* is a compound cmavo: the *[i](/glossary/#i)* separates the sentences and the *[zu'a](/glossary/#zua)* is the tense. The *[bo](/glossary/#bo)* is required to prevent the *[zu'a](/glossary/#zua)* from gobbling up the following sumti, namely *le verba*.
 
@@ -1758,9 +1580,7 @@ Note that the bridi in [Example 10.110](/chapter10/#example-10110 "Example 10.11
 | le  | verba | cu  | cadzu    | le  | bisli |
 | the | child |     | walks-on | the | ice.  |
 
-|                                                                                   |
-| --------------------------------------------------------------------------------- |
-| The man bites the dog. Left of what I just mentioned, the child walks on the ice. |
+The man bites the dog. Left of what I just mentioned, the child walks on the ice.
 
 If the *[bo](/glossary/#bo)* is omitted in [Example 10.110](/chapter10/#example-10110 "Example 10.110."), the meaning changes:
 
@@ -1776,9 +1596,7 @@ If the *[bo](/glossary/#bo)* is omitted in [Example 10.110](/chapter10/#example-
 | .i  | zu'a     | le  | verba | cu  |               | cadzu    | le  | bisli |
 |     | \[Left\] | the | child |     | \[something\] | walks-on | the | ice.  |
 
-|                                                                              |
-| ---------------------------------------------------------------------------- |
-| The man bites the dog. To the left of the child, something walks on the ice. |
+The man bites the dog. To the left of the child, something walks on the ice.
 
 Here the first place of the second sentence is unspecified, because *[zu'a](/glossary/#zua)* has absorbed the sumti *le verba*.
 
@@ -1796,9 +1614,7 @@ Do not confuse either [Example 10.110](/chapter10/#example-10110 "Example 10.110
 | .i  | zu'aku   | le  | verba | cu  | cadzu    | le  | bisli |
 |     | \[Left\] | the | child |     | walks-on | the | ice.  |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| The man bites the dog. Left of me, the child walks on the ice. |
+The man bites the dog. Left of me, the child walks on the ice.
 
 In [Example 10.113](/chapter10/#example-10113 "Example 10.113."), the origin point is the speaker, as is usual with *zu'aku*. [Example 10.110](/chapter10/#example-10110 "Example 10.110.") makes the origin point of the tense the event described by the first sentence.
 
@@ -1813,9 +1629,7 @@ The origin sentence is placed first, preceded by a tense plus *[gi](/glossary/#g
 | pugi     | mi  | klama | le  | zarci  | gi   | mi  | klama | le  | zdani  |
 | \[past\] | I   | go-to | the | market | \[,] | I   | go-to | the | house. |
 
-|                                               |
-| --------------------------------------------- |
-| Before I go to the market, I go to the house. |
+Before I go to the market, I go to the house.
 
 A parallel construction can be used to express a tense relationship between sumti:
 
@@ -1837,9 +1651,7 @@ Finally, a third forethought construction expresses a tense relationship between
 | mi  | pugi     | klama | le  | zarci  | gi   | klama | le  | zdani  |
 | I   | \[past\] | go-to | the | market | \[,] | go-to | the | house. |
 
-|                                                 |
-| ----------------------------------------------- |
-| I, before going to the market, go to the house. |
+I, before going to the market, go to the house.
 
 In both [Example 10.115](/chapter10/#example-10115 "Example 10.115.") and [Example 10.116](/chapter10/#example-10116 "Example 10.116."), the underlying sentences *mi klama le zarci* and *mi klama le zdani* are not claimed; only the relationship in time between them is claimed.
 
@@ -1861,9 +1673,7 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 | --- | ------ | ----- | --- | ----- | ---- | --- | ------ | ----- | --- | ----- |
 | la  | teris. | satre | le  | mlatu | .ije | la  | teris. | satre | le  | ractu |
 
-|                                                      |
-| ---------------------------------------------------- |
-| Terry strokes the cat. And Terry strokes the rabbit. |
+Terry strokes the cat. And Terry strokes the rabbit.
 
 ##### Example 10.118.
 
@@ -1871,9 +1681,7 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 | --- | ------ | ----- | --- | ----- | ---- | ----- | --- | ----- |
 | la  | teris. | satre | le  | mlatu | gi'e | satre | le  | ractu |
 
-|                                               |
-| --------------------------------------------- |
-| Terry strokes the cat and strokes the rabbit. |
+Terry strokes the cat and strokes the rabbit.
 
 ##### Example 10.119.
 
@@ -1881,9 +1689,7 @@ The Lojban tense system interacts with the Lojban logical connective system. Tha
 | --- | ------ | ----- | --- | ----- | --- | --- | ----- |
 | la  | teris. | satre | le  | mlatu | .e  | le  | ractu |
 
-|                                       |
-| ------------------------------------- |
-| Terry strokes the cat and the rabbit. |
+Terry strokes the cat and the rabbit.
 
 Suppose we wish to add a tense relationship to the logical connective “and”? To say that Terry strokes the cat and later strokes the rabbit, we can combine a logical connective with a tense connective by placing the logical connective first, then the tense, and then the cmavo *[bo](/glossary/#bo)*, thus:
 
@@ -1893,9 +1699,7 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 | --- | ------ | ----- | --- | ----- | -------- | --- | ------ | ----- | --- | ----- |
 | la  | teris. | satre | le  | mlatu | .ijebabo | la  | teris. | satre | le  | ractu |
 
-|                                                           |
-| --------------------------------------------------------- |
-| Terry strokes the cat. And then Terry strokes the rabbit. |
+Terry strokes the cat. And then Terry strokes the rabbit.
 
 ##### Example 10.121.
 
@@ -1903,9 +1707,7 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 | --- | ------ | ----- | --- | ----- | -------- | ----- | --- | ----- |
 | la  | teris. | satre | le  | mlatu | gi'ebabo | satre | le  | ractu |
 
-|                                                     |
-| --------------------------------------------------- |
-| Terry strokes the cat, and then strokes the rabbit. |
+Terry strokes the cat, and then strokes the rabbit.
 
 ##### Example 10.122.
 
@@ -1913,9 +1715,7 @@ Suppose we wish to add a tense relationship to the logical connective “and”?
 | --- | ------ | ----- | --- | ----- | ------ | --- | ----- |
 | la  | teris. | satre | le  | mlatu | .ebabo | le  | ractu |
 
-|                                            |
-| ------------------------------------------ |
-| Terry strokes the cat and then the rabbit. |
+Terry strokes the cat and then the rabbit.
 
 [Example 10.120](/chapter10/#example-10120 "Example 10.120.") through [Example 10.122](/chapter10/#example-10122 "Example 10.122.") are equivalent in meaning. They are also analogous to [Example 10.117](/chapter10/#example-10117 "Example 10.117.") through [Example 10.119](/chapter10/#example-10119 "Example 10.119.") respectively. The *[bo](/glossary/#bo)* is required for the same reason as in [Example 10.110](/chapter10/#example-10110 "Example 10.110."): to prevent the *[ba](/glossary/#ba)* from functioning as a sumti tcita for the following sumti (or, in [Example 10.121](/chapter10/#example-10121 "Example 10.121."), from being attached to the following selbri).
 
@@ -1933,9 +1733,7 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 | .ija   | mi  | bevri | le  | mlatu | tu'u |
 | And/or | I   | carry | the | cat   | ).   |
 
-|                                                                             |
-| --------------------------------------------------------------------------- |
-| I carry the sack. And I carry the dog, or I carry the cat, or I carry both. |
+I carry the sack. And I carry the dog, or I carry the cat, or I carry both.
 
 ##### Example 10.124.
 
@@ -1949,9 +1747,7 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 | le  | mlatu |
 | the | cat). |
 
-|                                                                          |
-| ------------------------------------------------------------------------ |
-| I carry the sack, and also carry the dog or carry the cat or carry both. |
+I carry the sack, and also carry the dog or carry the cat or carry both.
 
 ##### Example 10.125.
 
@@ -1960,9 +1756,7 @@ In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapt
 | mi  | bevri | le  | dakli | .eke | le   | gerku | .a  | le  | mlatu |
 | I   | carry | the | sack  | and  | (the | dog   | or  | the | cat). |
 
-|                                                       |
-| ----------------------------------------------------- |
-| I carry the sack and also the dog or the cat or both. |
+I carry the sack and also the dog or the cat or both.
 
 Note the uniformity of the Lojban, as contrasted with the variety of ways in which the English provides for the correct grouping. In all cases, the meaning is that I carry the sack in any case, and either the cat or the dog or both.
 
@@ -1980,9 +1774,7 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 | .ija   | cabo        | mi  | bevri | le  | mlatu | tu'u |
 | And/or | \[present\] | I   | carry | the | cat.  | )    |
 
-|                                                                                                       |
-| ----------------------------------------------------------------------------------------------------- |
-| I carry the sack. And then I will carry the dog or I will carry the cat or I will carry both at once. |
+I carry the sack. And then I will carry the dog or I will carry the cat or I will carry both at once.
 
 ##### Example 10.127.
 
@@ -1996,9 +1788,7 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 | gi'a   | cabo        | bevri | le  | mlatu |
 | and/or | \[present\] | carry | the | cat). |
 
-|                                                                                      |
-| ------------------------------------------------------------------------------------ |
-| I carry the sack and then will carry the dog or carry the cat or carry both at once. |
+I carry the sack and then will carry the dog or carry the cat or carry both at once.
 
 ##### Example 10.128.
 
@@ -2012,9 +1802,7 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 | .a     | cabo        | le  | mlatu |
 | and/or | \[present\] | the | cat). |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| I carry the sack, and then the dog or the cat or both at once. |
+I carry the sack, and then the dog or the cat or both at once.
 
 [Example 10.126](/chapter10/#example-10126 "Example 10.126.") through [Example 10.128](/chapter10/#example-10128 "Example 10.128.") are equivalent in meaning to each other, and correspond to the tenseless [Example 10.123](/chapter10/#example-10123 "Example 10.123.") through [Example 10.125](/chapter10/#example-10125 "Example 10.125.") respectively.
 
@@ -2029,9 +1817,7 @@ Any bridi which involves tenses of selma'o PU, FAhA, or ZAhO can be contradicted
 | mi  | punai        | klama | le  | zarci   |
 | I   | \[past-not\] | go-to | the | market. |
 
-|                            |
-| -------------------------- |
-| I didn't go to the market. |
+I didn't go to the market.
 
 As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example 10.129.") implies that the bridi as a whole is false without saying anything about what is true. When the negated tense is a sumti tcita, *-nai* negation indicates that the stated relationship does not hold:
 
@@ -2047,9 +1833,7 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 | le  | nu       | do  | klama | le  | zdani  |
 | the | event-of | you | go-to | the | house. |
 
-|                                                                                       |
-| ------------------------------------------------------------------------------------- |
-| It is not true that I went to the market at the same time that you went to the house. |
+It is not true that I went to the market at the same time that you went to the house.
 
 ##### Example 10.131.
 
@@ -2058,9 +1842,7 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 | le  | nanmu | cu  | batci | le  | gerku | ne'inai        | le  | kumfa |
 | The | man   |     | bites | the | dog   | \[within-not\] | the | room. |
 
-|                                              |
-| -------------------------------------------- |
-| The man didn't bite the dog inside the room. |
+The man didn't bite the dog inside the room.
 
 ##### Example 10.132.
 
@@ -2069,9 +1851,7 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 | mi  | morsi   | ca'onai                  | le  | nu       | mi  | jmive |
 | I   | am-dead | \[continuitive-negated\] | the | event-of | I   | live. |
 
-|                                            |
-| ------------------------------------------ |
-| It is false that I am dead during my life. |
+It is false that I am dead during my life.
 
 It is also possible to perform scalar negation of whole tense constructs by placing a member of NAhE before them. Unlike contradictory negation, scalar negation asserts a truth: that the bridi is true with some tense other than that specified. The following examples are scalar negation analogues of [Example 10.129](/chapter10/#example-10129 "Example 10.129.") to [Example 10.131](/chapter10/#example-10131 "Example 10.131."):
 
@@ -2082,9 +1862,7 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 | mi  | na'e     | pu       | klama | le  | zarci   |
 | I   | \[non-\] | \[past\] | go-to | the | market. |
 
-|                                            |
-| ------------------------------------------ |
-| I go to the market other than in the past. |
+I go to the market other than in the past.
 
 ##### Example 10.134.
 
@@ -2093,9 +1871,7 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 | le  | nanmu | cu  | batci | le  | gerku | to'e            | ne'i       | le  | kumfa |
 | The | man   |     | bites | the | dog   | \[opposite-of\] | \[within\] | the | room. |
 
-|                                         |
-| --------------------------------------- |
-| The man bites the dog outside the room. |
+The man bites the dog outside the room.
 
 ##### Example 10.135.
 
@@ -2109,9 +1885,7 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 | do  | klama | le  | zdani  |
 | you | go-to | the | house. |
 
-|                                                                                    |
-| ---------------------------------------------------------------------------------- |
-| I went to the market at a time other than the time at which you went to the house. |
+I went to the market at a time other than the time at which you went to the house.
 
 ##### Example 10.136.
 
@@ -2120,9 +1894,7 @@ It is also possible to perform scalar negation of whole tense constructs by plac
 | mi  | morsi   | na'e     | ca'o             | le  | nu       | mi  | jmive |
 | I   | am-dead | \[non-\] | \[continuitive\] | the | event-of | I   | live. |
 
-|                                      |
-| ------------------------------------ |
-| I am dead other than during my life. |
+I am dead other than during my life.
 
 Unlike *-nai* contradictory negation, scalar negation of tenses is not limited to PU and FAhA:
 
@@ -2133,9 +1905,7 @@ Unlike *-nai* contradictory negation, scalar negation of tenses is not limited t
 | le  | verba | na'e     | ri'u      | cadzu    | le  | bisli |
 | The | child | \[non-\] | \[right\] | walks-on | the | ice   |
 
-|                                                    |
-| -------------------------------------------------- |
-| The child walks on the ice other than to my right. |
+The child walks on the ice other than to my right.
 
 The use of *-nai* on cmavo of TAhE and ROI has already been discussed in [Section 10.9](/chapter10/#109-interval-properties-tahe-and-roi "10.9. Interval properties: TAhE and roi"); this use is also a scalar negation.
 
@@ -2159,9 +1929,7 @@ Lojban bridi without tense markers may not necessarily refer to actual events: t
 | ro  | datka | cu  | flulimna            |
 | All | ducks |     | are-float-swimmers. |
 
-|                             |
-| --------------------------- |
-| All ducks swim by floating. |
+All ducks swim by floating.
 
 is a Lojban truth, even though the colloquial English translation is false or at best ambiguous. This is because the tenseless Lojban bridi doesn't necessarily claim that every duck is swimming or floating now or even at a specific time or place. Even if we add a tense marker to [Example 10.138](/chapter10/#example-10138 "Example 10.138."),
 
@@ -2172,9 +1940,7 @@ is a Lojban truth, even though the colloquial English translation is false or at
 | ro  | datka | ca          | flulimna            |
 | All | ducks | \[present\] | are-float-swimmers. |
 
-|                                         |
-| --------------------------------------- |
-| All ducks are now swimming by floating. |
+All ducks are now swimming by floating.
 
 the resulting [Example 10.139](/chapter10/#example-10139 "Example 10.139.") might still be considered a truth, even though the colloquial English seems even more likely to be false. All ducks have the potential of swimming even if they are not exercising that potential at present. To get the full flavor of “All ducks are now swimming”, we must append a marker from selma'o CAhA to the tense, and say:
 
@@ -2185,9 +1951,7 @@ the resulting [Example 10.139](/chapter10/#example-10139 "Example 10.139.") migh
 | ro  | datka | ca          | ca'a       | flulimna            |
 | All | ducks | \[present\] | \[actual\] | are-float-swimmers. |
 
-|                                                  |
-| ------------------------------------------------ |
-| All ducks are now actually swimming by floating. |
+All ducks are now actually swimming by floating.
 
 A CAhA cmavo is always placed after any other tense cmavo, whether for time or for space. However, a CAhA cmavo comes before *[ki](/glossary/#ki)*, so that a CAhA condition can be made sticky.
 
@@ -2202,9 +1966,7 @@ Furthermore, some ducks are dead (and therefore sink); some ducks have just hatc
 | ro  | datka | ka'e        | flulimna            |
 | All | ducks | \[capable\] | are-float-swimmers. |
 
-|                                             |
-| ------------------------------------------- |
-| All ducks are innately capable of swimming. |
+All ducks are innately capable of swimming.
 
 Under some epistemologies, innate capability can be extended in order to apply the innate properties of a mass to which certain individuals belong to the individuals themselves, even if those individuals are themselves not capable of fulfilling the claim of the bridi. For example:
 
@@ -2215,9 +1977,7 @@ Under some epistemologies, innate capability can be extended in order to apply t
 | la         | djan. | ka'e        | viska |
 | That-named | John  | \[capable\] | sees. |
 
-|                                     |
-| ----------------------------------- |
-| John is innately capable of seeing. |
+John is innately capable of seeing.
 | John can see.                       |
 
 might be true about a human being named John, even though he has been blind since birth, because the ability to see is innately built into his nature as a human being. It is theoretically possible that conditions might occur that would enable John to see (a great medical discovery, for example). On the other hand,
@@ -2229,9 +1989,7 @@ might be true about a human being named John, even though he has been blind sinc
 | le  | cukta | ka'e        | viska |
 | The | book  | \[capable\] | sees. |
 
-|                   |
-| ----------------- |
-| The book can see. |
+The book can see.
 
 is not true in most epistemologies, since the ability to see is not part of the innate nature of a book.
 
@@ -2244,9 +2002,7 @@ Consider once again the newly hatched ducks mentioned earlier. They have the pot
 | ro  | cifydatka    | nu'o                | flulimna            |
 | All | infant-ducks | \[can-but-has-not\] | are-float-swimmers. |
 
-|                                                                             |
-| --------------------------------------------------------------------------- |
-| All infant ducks have an undemonstrated potential for swimming by floating. |
+All infant ducks have an undemonstrated potential for swimming by floating.
 | Baby ducks can swim but haven't yet.                                        |
 
 Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is appropriate:
@@ -2258,9 +2014,7 @@ Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is
 | la         | frank. | pu'i            | viska |
 | That-named | Frank  | \[can-and-has\] | sees. |
 
-|                                                |
-| ---------------------------------------------- |
-| Frank has demonstrated a potential for seeing. |
+Frank has demonstrated a potential for seeing.
 | Frank can see and has seen.                    |
 
 Note that the glosses given at the beginning of this section for *[ca'a](/glossary/#caa)*, *[nu'o](/glossary/#nuo)*, and *[pu'i](/glossary/#pui)* incorporate *[ca](/glossary/#ca)* into their meaning, and are really correct for *ca ca'a*, *ca nu'o*, and *ca pu'i*. However, the CAhA cmavo are perfectly meaningful with other tenses than the present:
@@ -2272,9 +2026,7 @@ Note that the glosses given at the beginning of this section for *[ca'a](/glossa
 | mi  | pu       | ca'a       | klama | le  | zarci  |
 | I   | \[past\] | \[actual\] | go-to | the | store. |
 
-|                               |
-| ----------------------------- |
-| I actually went to the store. |
+I actually went to the store.
 
 ##### Example 10.147.
 
@@ -2283,9 +2035,7 @@ Note that the glosses given at the beginning of this section for *[ca'a](/glossa
 | la         | frank. | ba         | nu'o                | klama   | le  | zdani  |
 | That-named | Frank  | \[future\] | \[can-but-has-not\] | goes-to | the | store. |
 
-|                                                                                                   |
-| ------------------------------------------------------------------------------------------------- |
-| Frank could have, but will not have, gone to the store (at some understood moment in the future). |
+Frank could have, but will not have, gone to the store (at some understood moment in the future).
 
 As always in Lojban tenses, a missing CAhA can have an indeterminate meaning, or the context can be enough to disambiguate it. Saying
 
@@ -2305,9 +2055,7 @@ with no CAhA specified can translate the two very different English sentences �
 | ta   | ca          | ca'a       | jelca  |
 | That | \[present\] | \[actual\] | burns. |
 
-|                  |
-| ---------------- |
-| That is on fire. |
+That is on fire.
 
 and
 
@@ -2318,22 +2066,16 @@ and
 | ta   | ka'e        | jelca  |
 | That | \[capable\] | burns. |
 
-|                             |
-| --------------------------- |
-| That is capable of burning. |
+That is capable of burning.
 | That is inflammable.        |
 
 When no indication is given, as in the simple observative
 
 ##### Example 10.151.
 
-|       |
-| ----- |
-| jelca |
+jelca
 
-|           |
-| --------- |
-| It burns! |
+It burns!
 
 the prudent Lojbanist will assume the meaning “Fire!”
 
@@ -2350,9 +2092,7 @@ The appropriate logical connectives belong to selma'o JA. A logical connective b
 | mi  | pu       | je  | ba         | klama | le  | zarci   |
 | I   | \[past\] | and | \[future\] | go-to | the | market. |
 
-|                                   |
-| --------------------------------- |
-| I went and will go to the market. |
+I went and will go to the market.
 
 means the same as:
 
@@ -2368,9 +2108,7 @@ means the same as:
 | .ije | mi  | ba         | klama | le  | zarci   |
 | And  | I   | \[future\] | go-to | the | market. |
 
-|                                                    |
-| -------------------------------------------------- |
-| I went to the market, and I will go to the market. |
+I went to the market, and I will go to the market.
 
 Tense connection and tense negation are combined in:
 
@@ -2381,9 +2119,7 @@ Tense connection and tense negation are combined in:
 | mi  | punai        | je  | canai           | je  | ba         | klama | le  | zarci   |
 | I   | \[past-not\] | and | \[present-not\] | and | \[future\] | go-to | the | market. |
 
-|                                                         |
-| ------------------------------------------------------- |
-| I haven't yet gone to the market, but I will in future. |
+I haven't yet gone to the market, but I will in future.
 
 [Example 10.154](/chapter10/#example-10154 "Example 10.154.") is far more specific than
 
@@ -2405,9 +2141,7 @@ Tense negation can often be removed in favor of negation in the logical connecti
 | mi  | mo'izu'anai         | je  | mo'iri'u         | cadzu |
 | I   | \[motion-left-not\] | and | \[motion-right\] | walk. |
 
-|                                    |
-| ---------------------------------- |
-| I walk not leftward but rightward. |
+I walk not leftward but rightward.
 
 ##### Example 10.157.
 
@@ -2416,9 +2150,7 @@ Tense negation can often be removed in favor of negation in the logical connecti
 | mi  | mo'izu'a        | naje    | mo'iri'u         | cadzu |
 | I   | \[motion-left\] | not-and | \[motion-right\] | walk. |
 
-|                                    |
-| ---------------------------------- |
-| I walk not leftward but rightward. |
+I walk not leftward but rightward.
 
 There are no forethought logical connections between tenses allowed by the grammar, to keep tenses simpler. Nor is there any way to override simple left-grouping of the connectives, the Lojban default.
 
@@ -2431,9 +2163,7 @@ There are no forethought logical connections between tenses allowed by the gramm
 | mi  | puza            | bi'o    | bazu            | vasxu    |
 | I   | \[past-medium\] | from…to | \[future-long\] | breathe. |
 
-|                                                            |
-| ---------------------------------------------------------- |
-| I breathe from a medium time ago till a long time to come. |
+I breathe from a medium time ago till a long time to come.
 
 (It is to be hoped that I have a long life ahead of me.)
 
@@ -2455,9 +2185,7 @@ Another application of non-logical tense connection is to talk about sub-events 
 | le  | seldanti             |
 | the | projectile-launcher. |
 
-|                                             |
-| ------------------------------------------- |
-| On two occasions, I fire the gun six times. |
+On two occasions, I fire the gun six times.
 
 It would be confusing, though grammatical, to run the *[reroi](/glossary/#reroi)* and the *xaroi* directly together. However, the non-logical connective *[pi'u](/glossary/#piu)* expresses a Cartesian product (also known as a cross product) of two sets. In this case, there is a set of two firings each of which is represented by a set of six shots, for twelve shots in all (hence the name “product”: the product of 2 and 6 is 12). Its use specifies very precisely what occurs.
 
@@ -2470,9 +2198,7 @@ In fact, you can specify strings of interval properties and event contours withi
 | la         | djordj. | ca'o             | co'a           | ciska   |
 | That-named | George  | \[continuitive\] | \[initiative\] | writes. |
 
-|                                     |
-| ----------------------------------- |
-| George continues to start to write. |
+George continues to start to write.
 
 ##### Example 10.161.
 
@@ -2481,9 +2207,7 @@ In fact, you can specify strings of interval properties and event contours withi
 | mi  | reroi     | ca'o             | xaroi         | darxi | le  | damri |
 | I   | \[twice\] | \[continuitive\] | \[six-times\] | hit   | the | drum. |
 
-|                                                          |
-| -------------------------------------------------------- |
-| On two occasions, I continue to beat the drum six times. |
+On two occasions, I continue to beat the drum six times.
 
 ## 10.22. Conversion of sumti tcita: JAI
 
@@ -2519,9 +2243,7 @@ It is also possible to bring a place that is specified by a sumti tcita (for the
 | le  | ratcu | cu  | citka | le  | cirla  | vi                 | le  | panka |
 | The | rat   |     | eats  | the | cheese | \[short-distance\] | the | park. |
 
-|                                      |
-| ------------------------------------ |
-| The rat eats the cheese in the park. |
+The rat eats the cheese in the park.
 
 ##### Example 10.165.
 
@@ -2530,9 +2252,7 @@ It is also possible to bring a place that is specified by a sumti tcita (for the
 | le  | panka | cu  | jai vi          | citka  | le  | cirla  | fai | le  | ratcu |
 | The | park  |     | is-the-place-of | eating | the | cheese | by  | the | rat.  |
 
-|                                            |
-| ------------------------------------------ |
-| The park is where the rat eats the cheese. |
+The park is where the rat eats the cheese.
 
 In [Example 10.165](/chapter10/#example-10165 "Example 10.165."), the construction JAI+tense converts the location sumti into the first place. The previous first place has nowhere to go, since the location sumti is not a numbered place; however, it can be inserted back into the bridi with *[fai](/glossary/#fai)*, the indefinite member of selma'o FA.
 
@@ -2576,9 +2296,7 @@ Of course, temporal tenses are also usable with JAI:
 | mi  | djuno | fi    | le  | jai | ca          | morsi   | be  | fai | la         | djan.  |     |
 | I   | know  | about | the |     | \[present\] | is-dead |     | of  | that-named | “John” | .   |
 
-|                                  |
-| -------------------------------- |
-| I know the time of John's death. |
+I know the time of John's death.
 | I know when John died.           |
 
 ## 10.23. Tenses versus modals
@@ -2594,9 +2312,7 @@ The core distinction is that whereas the modal bridi
 | mi  | nelci | do  | mu'i            | le  | nu       | do  | nelci | mi  |
 | I   | like  | you | with-motivation | the | event-of | you | like  | me. |
 
-|                                 |
-| ------------------------------- |
-| I like you because you like me. |
+I like you because you like me.
 
 places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/#mukti)* (which underlies the modal *[mu'i](/glossary/#mui)*), namely the motivating event, the tensed bridi
 
@@ -2607,9 +2323,7 @@ places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/#mukti)
 | mi  | nelci | do  | ba    | le  | nu       | do  | nelci | mi  |
 | I   | like  | you | after | the | event-of | you | like  | me. |
 
-|                               |
-| ----------------------------- |
-| I like you after you like me. |
+I like you after you like me.
 
 places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/#balvi)* (which underlies the tense *[ba](/glossary/#ba)*), namely the point of reference for the future tense. Paraphrases of [Example 10.171](/chapter10/#example-10171 "Example 10.171.") and [Example 10.172](/chapter10/#example-10172 "Example 10.172."), employing the brivla *[mukti](/glossary/#mukti)* and *[balvi](/glossary/#balvi)* explicitly, would be:
 
@@ -2625,9 +2339,7 @@ places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/#balvi)
 | mi  | nelci | do   |
 | I   | like  | you. |
 
-|                                                 |
-| ----------------------------------------------- |
-| Your liking me is the motive for my liking you. |
+Your liking me is the motive for my liking you.
 
 and
 
@@ -2643,9 +2355,7 @@ and
 | do  | nelci | mi  |
 | you | like  | me. |
 
-|                                                 |
-| ----------------------------------------------- |
-| My liking you follows (in time) your liking me. |
+My liking you follows (in time) your liking me.
 
 (Note that the paraphrase is not perfect due to the difference in what is claimed; [Example 10.173](/chapter10/#example-10173 "Example 10.173.") and [Example 10.174](/chapter10/#example-10174 "Example 10.174.") claim only the causal and temporal relationships between the events, not the existence of the events themselves.)
 
@@ -2689,17 +2399,13 @@ respectively.
 
 The following modal sentence schemata (where X and Y represent sentences) all have the same meaning:
 
-|               |
-| ------------- |
-| X .i BAI bo Y |
+X .i BAI bo Y
 | BAI gi Y gi X |
 | X BAI le nu Y |
 
 whereas the following tensed sentence schemata also have the same meaning:
 
-|                 |
-| --------------- |
-| X .i TENSE bo Y |
+X .i TENSE bo Y
 | TENSE gi X gi Y |
 | Y TENSE le nu X |
 
@@ -2723,9 +2429,7 @@ There are two main ways to ask questions about tense. The main English tense que
 | You | go-to | the | house | \[present\] | \[what-sumti?\]. |
 | You | go-to | the | house | at          | what-time?       |
 
-|                              |
-| ---------------------------- |
-| When do you go to the house? |
+When do you go to the house?
 
 ##### Example 10.180.
 
@@ -2735,9 +2439,7 @@ There are two main ways to ask questions about tense. The main English tense que
 | The | child | \[short-space\] | \[what-sumti?\] | \[past\] | walks-on  | the | ice.  |
 | The | child | at/near         | what-place      |          | walked-on | the | ice?  |
 
-|                                      |
-| ------------------------------------ |
-| Where did the child walk on the ice? |
+Where did the child walk on the ice?
 
 There is also a non-specific tense and modal question, *[cu'e](/glossary/#cue)*, belonging to selma'o CUhE. This can be used wherever a tense or modal construct can be used.
 
@@ -2748,33 +2450,23 @@ There is also a non-specific tense and modal question, *[cu'e](/glossary/#cue)*,
 | le  | nanmu | cu'e            | batci | le  | gerku |
 | The | man   | \[what-tense?\] | bites | the | dog.  |
 
-|                                           |
-| ----------------------------------------- |
-| When/Where/How does the man bite the dog? |
+When/Where/How does the man bite the dog?
 
 Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181.") might be:
 
 ##### Example 10.182.
 
-|                   |
-| ----------------- |
-| va                |
+va
 | \[medium-space\]. |
 
-|                      |
-| -------------------- |
-| Some ways from here. |
+Some ways from here.
 
 ##### Example 10.183.
 
-|                         |
-| ----------------------- |
-| puzu                    |
+puzu
 | \[past\]-\[long-time\]. |
 
-|                  |
-| ---------------- |
-| A long time ago. |
+A long time ago.
 
 ##### Example 10.184.
 
@@ -2783,20 +2475,14 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181."
 | vi              | le  | lunra |
 | \[short-space\] | The | moon. |
 
-|              |
-| ------------ |
-| On the moon. |
+On the moon.
 
 ##### Example 10.185.
 
-|                |
-| -------------- |
-| pu'o           |
+pu'o
 | \[inchoative\] |
 
-|                        |
-| ---------------------- |
-| He hasn't yet done so. |
+He hasn't yet done so.
 
 or even the modal reply (from selma'o BAI; see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")):
 
@@ -2816,9 +2502,7 @@ The only way to combine *[cu'e](/glossary/#cue)* with other tense cmavo is throu
 | do  | puzi           | je  | cu'e      | sombo | le  | gurni  |
 | You | \[past-short\] | and | \[when?\] | sow   | the | grain? |
 
-|                                                                  |
-| ---------------------------------------------------------------- |
-| You sowed the grain a little while ago; when else do you sow it? |
+You sowed the grain a little while ago; when else do you sow it?
 
 Additionally, the logical connective itself can be replaced by a question word:
 
@@ -2829,9 +2513,7 @@ Additionally, the logical connective itself can be replaced by a question word:
 | la         | .artr. | pu       | je'i       | ba         | nolraitru |
 | That-named | Arthur | \[past\] | \[which?\] | \[future\] | is-a-king |
 
-|                                  |
-| -------------------------------- |
-| Was Arthur a king or will he be? |
+Was Arthur a king or will he be?
 
 Answers to [Example 10.188](/chapter10/#example-10188 "Example 10.188.") would be logical connectives such as *[je](/glossary/#je)*, meaning “both”, *naje* meaning “the latter”, or *[jenai](/glossary/#jenai)* meaning “the former”.
 
@@ -2851,9 +2533,7 @@ It is a limitation of the VA and ZI system of specifying magnitudes that they ca
 | la'u         | lo  | mitre                     | be  | li         | mu  | \[nu'u\]         |
 | \[quantity\] | a   | thing-measuring-in-meters |     | the-number | 5   | \[end-termset\]. |
 
-|                                                      |
-| ---------------------------------------------------- |
-| Frank is standing five meters to the left of George. |
+Frank is standing five meters to the left of George.
 
 Here the termset extends from the *[nu'i](/glossary/#nui)* to the implicit *[nu'u](/glossary/#nuu)* at the end of the sentence, and includes the terms *la djordj.*, which is the unmarked origin point, and the tagged sumti *lo mitre be li mu*, which the cmavo *[la'u](/glossary/#lau)* (of selma'o BAI, and meaning “with quantity”; see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")) marks as a quantity. Both terms are governed by the tag *[zu'a](/glossary/#zua)*
 
@@ -2871,9 +2551,7 @@ It is not necessary to have both an origin point and an explicit magnitude: a te
 | lo  | mitre                     | be  | li         | mu  |
 | a   | thing-measuring-in-meters |     | the-number | 5.  |
 
-|                                       |
-| ------------------------------------- |
-| Frank stands five meters to the left. |
+Frank stands five meters to the left.
 
 ## 10.26. Finally (an exercise for the much-tried reader)
 

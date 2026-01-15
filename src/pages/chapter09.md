@@ -119,9 +119,7 @@ The general rule, then, is that the selbri may occur anywhere in the bridi as lo
 | using-the | car.  |
 | using-the | car.  |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| Look: a goer to Boston from Atlanta via the road using the car! |
+Look: a goer to Boston from Atlanta via the road using the car!
 
 Here the x1 place is empty: the listener must guess from context who is going to Boston. In [Example 9.4](/chapter09/#example-94 "Example 9.4."), *[klama](/glossary/#klama)* is glossed “a goer” rather than “go” because “Go” at the beginning of an English sentence would suggest a command: “Go to Boston!”. [Example 9.4](/chapter09/#example-94 "Example 9.4.") is not a command, simply a normal statement with the x1 place unspecified, causing the emphasis to fall on the selbri *[klama](/glossary/#klama)* . Such a bridi, with empty x1, is called an “observative”, because it usually calls on the listener to observe something in the environment which would belong in the x1 place. The third translation above shows this observative nature. Sometimes it is the relationship itself which the listener is asked to observe.
 
@@ -135,9 +133,7 @@ Suppose the speaker desires to omit a place other than the x1 place? (Presumably
 | --- | ----- | --- | ------ | --- | ---------- |
 | mi  | klama | la  | bastn. | la  | .atlantas. |
 
-|                                                                                     |
-| ----------------------------------------------------------------------------------- |
-| I go to-Boston from-Atlanta (via an unspecified route, using an unspecified means). |
+I go to-Boston from-Atlanta (via an unspecified route, using an unspecified means).
 
 [Example 9.5](/chapter09/#example-95 "Example 9.5.") has empty x4 and x5 places: the speaker does not specify the route or the means of transport. However, simple omission will not work for a place when the places around it are to be specified: in
 
@@ -195,9 +191,7 @@ In sentences like [Example 9.1](/chapter09/#example-91 "Example 9.1."), it is ea
 | fo  | le  | dargu | fu  | le  | karce |
 | x4= | the | road  | x5= | the | car.  |
 
-|                                                         |
-| ------------------------------------------------------- |
-| I go to Boston from Atlanta via the road using the car. |
+I go to Boston from Atlanta via the road using the car.
 
 In [Example 9.8](/chapter09/#example-98 "Example 9.8."), the tag *[fu](/glossary/#fu)* before *le karce* clarifies that *le karce* occupies the x5 place of *[klama](/glossary/#klama)* . The use of *[fu](/glossary/#fu)* tells us nothing about the purpose or meaning of the x5 place; it simply says that *le karce* occupies it.
 
@@ -241,9 +235,7 @@ Of course, once the sumti have been tagged, the order in which they are specifie
 | fe  | la         | bastn. | fo  | le  | dargu |
 | x2= | that-named | Boston | x4= | the | road. |
 
-|                                                         |
-| ------------------------------------------------------- |
-| Go I from Atlanta using the car to Boston via the road. |
+Go I from Atlanta using the car to Boston via the road.
 
 Note that no *[cu](/glossary/#cu)* is permitted before the selbri in [Example 9.10](/chapter09/#example-910 "Example 9.10."), because *[cu](/glossary/#cu)* separates the selbri from any preceding sumti, and [Example 9.10](/chapter09/#example-910 "Example 9.10.") has no such sumti.
 
@@ -259,9 +251,7 @@ Note that no *[cu](/glossary/#cu)* is permitted before the selbri in [Example 9.
 | fe  | la         | bastn. | cu  | klama | fa  | mi  |
 | x2= | that-named | Boston |     | go    | x1= | I   |
 
-|                                                           |
-| --------------------------------------------------------- |
-| Using the car, via the road, from Atlanta to Boston go I. |
+Using the car, via the road, from Atlanta to Boston go I.
 
 [Example 9.11](/chapter09/#example-911 "Example 9.11.") exhibits the reverse of the standard bridi form seen in [Example 9.1](/chapter09/#example-91 "Example 9.1.") and [Example 9.8](/chapter09/#example-98 "Example 9.8."), but still means exactly the same thing. If the FA tags were left out, however, producing:
 
@@ -277,9 +267,7 @@ Note that no *[cu](/glossary/#cu)* is permitted before the selbri in [Example 9.
 | la             | bastn. | cu  | klama | mi        |
 | via-that-named | Boston |     | goes  | using-me. |
 
-|                                                                                                    |
-| -------------------------------------------------------------------------------------------------- |
-| The car goes to the road from Atlanta, with Boston as the route, using me as a means of transport. |
+The car goes to the road from Atlanta, with Boston as the route, using me as a means of transport.
 
 the meaning would be wholly changed, and in fact nonsensical.
 
@@ -297,9 +285,7 @@ Tagging places with FA cmavo makes it easy not only to reorder the places but al
 | fu  | le  | karce |
 | x5= | the | car.  |
 
-|                                              |
-| -------------------------------------------- |
-| A goer from Atlanta to Boston using the car. |
+A goer from Atlanta to Boston using the car.
 
 Here the x1 and x4 places are empty, and so no sumti are tagged with *[fa](/glossary/#fa)* or *[fo](/glossary/#fo)* ; in addition, the x2 and x3 places appear in reverse order.
 
@@ -317,9 +303,7 @@ What if some sumti have FA tags and others do not? The rule is that after a FA-t
 | le     | dargu | le     | karce |
 | x4=the | road  | x5=the | car.  |
 
-|                                                         |
-| ------------------------------------------------------- |
-| Go I to Boston from Atlanta via the road using the car. |
+Go I to Boston from Atlanta via the road using the car.
 
 In [Example 9.14](/chapter09/#example-914 "Example 9.14."), the *[fa](/glossary/#fa)* causes *[mi](/glossary/#mi)* to occupy the x1 place, and then the following untagged sumti occupy in order the x2 through x5 places. This is the mechanism by which Lojban allows placing the selbri first while specifying a sumti for the x1 place.
 
@@ -337,9 +321,7 @@ Here is a more complex (and more confusing) example:
 | fe  | la         | bastn.  | le  | karce |
 | x2= | that-named | Boston, | the | car.  |
 
-|                                                         |
-| ------------------------------------------------------- |
-| I go from Atlanta via the road to Boston using the car. |
+I go from Atlanta via the road to Boston using the car.
 
 In [Example 9.15](/chapter09/#example-915 "Example 9.15."), *[mi](/glossary/#mi)* occupies the x1 place because it is the first sumti in the sentence (and is before the selbri). The second sumti, *la .atlantas.*, occupies the x3 place by virtue of the tag *[fi](/glossary/#fi)* , and *le dargu* occupies the x4 place as a result of following *la .atlantas.*. Finally, *la bastn.* occupies the x2 place because of its tag *[fe](/glossary/#fe)* , and *le karce* skips over the already-occupied x3 and x4 places to land in the x5 place.
 
@@ -370,9 +352,7 @@ The cmavo *[fi'a](/glossary/#fia)* also belongs to selma'o FA, and allows Lojban
 | fi'a           | do  | dunda | \[f\] | le  | vi     | rozgu |
 | \[what-plac\]? | you | give  | x2=   | the | nearby | rose  |
 
-|                                                          |
-| -------------------------------------------------------- |
-| In what way are you involved in the giving of this rose? |
+In what way are you involved in the giving of this rose?
 | Are you the giver or the receiver of this rose?          |
 
 In [Example 9.17](/chapter09/#example-917 "Example 9.17."), the speaker uses the selbri *[dunda](/glossary/#dunda)* , whose place structure is:
@@ -427,9 +407,7 @@ Consider the following pair of examples:
 | la         | bastn. | cu  | se klama           | mi     |
 | That-named | Boston |     | is-the-destination | of-me. |
 
-|                           |
-| ------------------------- |
-| Boston is my destination. |
+Boston is my destination.
 | Boston is gone to by me.  |
 
 ##### Example 9.19.
@@ -439,9 +417,7 @@ Consider the following pair of examples:
 | fe  | la         | bastn. | cu  | klama | fa  | mi  |
 | x2= | that-named | Boston |     | go    | x1= | I.  |
 
-|                 |
-| --------------- |
-| To Boston go I. |
+To Boston go I.
 
 [Example 9.18](/chapter09/#example-918 "Example 9.18.") and [Example 9.19](/chapter09/#example-919 "Example 9.19.") mean the same thing, in the sense that there is a relationship of going with the speaker as the agent and Boston as the destination (and with unspecified origin, route, and means). Structurally, however, they are quite different. [Example 9.18](/chapter09/#example-918 "Example 9.18.") has *la bastn.* in the x1 place and *[mi](/glossary/#mi)* in the x2 place of the selbri *se klama*, and uses standard bridi order; [Example 9.19](/chapter09/#example-919 "Example 9.19.") has *[mi](/glossary/#mi)* in the x1 place and *la bastn.* in the x2 place of the selbri *[klama](/glossary/#klama)* , and uses a non-standard order.
 
@@ -453,9 +429,7 @@ The most important use of conversion is in the construction of descriptions. A d
 | --- | ----- |
 | le  | klama |
 
-|                             |
-| --------------------------- |
-| the go-er, the one who goes |
+the go-er, the one who goes
 
 In every case, the description is about something which fits into the x1 place of the selbri. In order to get a description of a destination (that is, something fitting the x2 place of *[klama](/glossary/#klama)* ), we must convert the selbri to *se klama*, whose x1 place is a destination. The result is
 
@@ -465,9 +439,7 @@ In every case, the description is about something which fits into the x1 place o
 | --- | --- | ----- |
 | le  | se  | klama |
 
-|                                    |
-| ---------------------------------- |
-| the destination gone to by someone |
+the destination gone to by someone
 
 Likewise, we can create three more converted descriptions:
 
@@ -477,9 +449,7 @@ Likewise, we can create three more converted descriptions:
 | --- | --- | ----- |
 | le  | te  | klama |
 
-|                               |
-| ----------------------------- |
-| the origin of someone's going |
+the origin of someone's going
 
 ##### Example 9.23.
 
@@ -487,9 +457,7 @@ Likewise, we can create three more converted descriptions:
 | --- | --- | ----- |
 | le  | ve  | klama |
 
-|                              |
-| ---------------------------- |
-| the route of someone's going |
+the route of someone's going
 
 ##### Example 9.24.
 
@@ -497,9 +465,7 @@ Likewise, we can create three more converted descriptions:
 | --- | --- | ----- |
 | le  | xe  | klama |
 
-|                                 |
-| ------------------------------- |
-| the means by which someone goes |
+the means by which someone goes
 
 [Example 9.23](/chapter09/#example-923 "Example 9.23.") does not mean “the route” plain and simple: that is *le pluta*, using a different selbri. It means a route that is used by someone for an act of *[klama](/glossary/#klama)* ; that is, a journey with origin and destination. A “road” on Mars, on which no one has traveled or is ever likely to, may be called *le pluta*, but it cannot be *le ve klama*, since there exists no one for whom it is *le ve klama be fo da* (the route taken in an actual journey by someone \[d\]).
 
@@ -562,9 +528,7 @@ Suppose, however, that you are blind in one eye and are talking to someone who d
 | mi  | viska | do  | fi'o     | kanla | \[fe'\] | le  | zunle      |
 | I   | see   | you | \[moda\] | eye:  |         | the | left-thing |
 
-|                              |
-| ---------------------------- |
-| I see you with the left eye. |
+I see you with the left eye.
 
 The three-place relation *[viska](/glossary/#viska)* has now acquired a fourth place specifying the eye used for seeing. The combination of the cmavo *[fi'o](/glossary/#fio)* (of selma'o FIhO) followed by a selbri, in this case the gismu *[kanla](/glossary/#kanla)* , forms a tag which is prefixed to the sumti filling the new place, namely *le zunle*. The semantics of *fi'o kanla le zunle* is that *le zunle* fills the x1 place of *[kanla](/glossary/#kanla)* , whose place structure is
 
@@ -587,9 +551,7 @@ and we can rewrite [Example 9.26](/chapter09/#example-926 "Example 9.26.") as
 | mi  | viska | do  | fi'o     | se            | pilno | le  | zunle | kanla |
 | I   | see   | you | \[moda\] | \[conversio\] | use:  | the | left  | eye.  |
 
-|                              |
-| ---------------------------- |
-| I see you using my left eye. |
+I see you using my left eye.
 
 Here the selbri belonging to the modal is *se pilno*. The conversion of *[pilno](/glossary/#pilno)* is necessary in order to get the “tool” place into x1, since only x1 can be the modal sumti. The “tool user” place is the x2 of *se pilno* (because it is the x1 of *[pilno](/glossary/#pilno)* ) and remains unspecified. The tag *fi'o pilno* would mean “with tool user”, leaving the tool unspecified.
 
@@ -610,9 +572,7 @@ Here *[se](/glossary/#se)* is used before a cmavo, namely *[pi'o](/glossary/#pio
 | mi  | viska | do  | sepi'o     | le  | zunle | kanla |
 | I   | see   | you | with-tool: | the | left  | eye   |
 
-|                              |
-| ---------------------------- |
-| I see you using my left eye. |
+I see you using my left eye.
 
 The compound cmavo *[sepi'o](/glossary/#sepio)* is much shorter than *fi'o se pilno \[fe'\]* and can be thought of as a single word meaning “with-tool”. The modal tag *[pi'o](/glossary/#pio)* , with no *[se](/glossary/#se)* , similarly means “with-tool-user”, probably a less useful concept. Nevertheless, the parallelism with the place structure of *[pilno](/glossary/#pilno)* makes the additional syllable worthwhile.
 
@@ -635,9 +595,7 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 | la         | .eivn. | cu  | vecnu | loi       | flira | cinta | ka'a      | mi  |
 | That-named | Avon   |     | sells | a-mass-of | face  | paint | with-goer | me. |
 
-|                                                  |
-| ------------------------------------------------ |
-| I am a traveling cosmetics salesperson for Avon. |
+I am a traveling cosmetics salesperson for Avon.
 
 ([Example 9.29](/chapter09/#example-929 "Example 9.29.") may seem a bit strained, but it illustrates the way in which an existing selbri, *[vecnu](/glossary/#vecnu)* in this case, may have a place added to it which might otherwise seem utterly unrelated.)
 
@@ -648,9 +606,7 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 | mi  | cadzu | seka'a           | la         | bratfyd.  |
 | I   | walk  | with-destination | that-named | Bradford. |
 
-|                           |
-| ------------------------- |
-| I am walking to Bradford. |
+I am walking to Bradford.
 
 ##### Example 9.31.
 
@@ -659,9 +615,7 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 | bloti                     | teka'a      | la         | nu,IORK. |
 | \[Observative\]-is-a-boat | with-origin | that-named | New-York |
 
-|                       |
-| --------------------- |
-| A boat from New York! |
+A boat from New York!
 
 ##### Example 9.32.
 
@@ -670,9 +624,7 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 | do  | bajra | veka'a     | lo  | djine   |
 | You | run   | with-route | a   | circle. |
 
-|                             |
-| --------------------------- |
-| You are running in circles. |
+You are running in circles.
 
 ##### Example 9.33.
 
@@ -681,9 +633,7 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 | mi  | citka | xeka'a                  | le  | vinji     |
 | I   | eat   | with-means-of-transport | the | airplane. |
 
-|                        |
-| ---------------------- |
-| I eat in the airplane. |
+I eat in the airplane.
 
 There are sixty-odd cmavo of selma'o BAI, based on selected gismu that seemed useful in a variety of settings. The list is somewhat biased toward English, because many of the cmavo were selected on the basis of corresponding English prepositions and preposition compounds such as “with”, “without”, and “by means of”. The BAI cmavo, however, are far more precise than English prepositions, because their meanings are fixed by the place structures of the corresponding gismu.
 
@@ -698,9 +648,7 @@ There is one additional BAI cmavo that is not derived from a gismu: *[do'e](/glo
 | lo   | nanmu | be do'e       | le  | berti | cu  | klama | le     | tcadu |
 | Some | man   | \[related-t\] | the | north |     | came  | to-the | city. |
 
-|                                      |
-| ------------------------------------ |
-| A man of the north came to the city. |
+A man of the north came to the city.
 
 Here *le berti* is provided as a modal place of the selbri *[nanmu](/glossary/#nanmu)* , but its exact significance is vague, and is paralleled in the colloquial translation by the vague English preposition “of”. [Example 9.34](/chapter09/#example-934 "Example 9.34.") also illustrates a modal place bound into a selbri with *[be](/glossary/#be)* . This construction is useful when the selbri of a description requires a modal place; this and other uses of *[be](/glossary/#be)* are more fully explained in [Section 5.7](/chapter05/#57-linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o").
 
@@ -740,9 +688,7 @@ Each of these gismu has a related modal: *[ri'a](/glossary/#ria)* , *[ki'u](/glo
 | do  | djacu | dunda | fi  | le  | spati  |
 | you | water | give  | to  | the | plant. |
 
-|                                       |
-| ------------------------------------- |
-| The plant grows because you water it. |
+The plant grows because you water it.
 
 ##### Example 9.36.
 
@@ -756,9 +702,7 @@ Each of these gismu has a related modal: *[ri'a](/glossary/#ria)* , *[ki'u](/glo
 | ki'u               | le  | nu       | la         | djan. | jinga |
 | with-justification | the | event-of | that-named | John  | wins. |
 
-|                                          |
-| ---------------------------------------- |
-| John got the first prize because he won. |
+John got the first prize because he won.
 
 ##### Example 9.37.
 
@@ -772,9 +716,7 @@ Each of these gismu has a related modal: *[ri'a](/glossary/#ria)* , *[ki'u](/glo
 | le  | nu       | mi  | viska | le  | cukta |
 | the | event-of | I   | saw   | the | book. |
 
-|                                   |
-| --------------------------------- |
-| I took the book because I saw it. |
+I took the book because I saw it.
 
 ##### Example 9.38.
 
@@ -788,9 +730,7 @@ Each of these gismu has a related modal: *[ri'a](/glossary/#ria)* , *[ki'u](/glo
 | le  | nu       | la         | sokrates. | remna     |
 | the | event-of | that-named | Socrates  | is-human. |
 
-|                                          |
-| ---------------------------------------- |
-| Socrates died because Socrates is human. |
+Socrates died because Socrates is human.
 
 In [Example 9.35](/chapter09/#example-935 "Example 9.35.") through [Example 9.38](/chapter09/#example-938 "Example 9.38."), the same English word “because” is used to translate all four modals, but the types of cause being expressed are quite different. Let us now focus on [Example 9.35](/chapter09/#example-935 "Example 9.35."), and explore some variations on it.
 
@@ -808,9 +748,7 @@ As written, [Example 9.35](/chapter09/#example-935 "Example 9.35.") claims that 
 | seri'a               | le  | nu       | ri  | banro  |
 | with-physical-effect | the | event-of | it  | grows. |
 
-|                                           |
-| ----------------------------------------- |
-| You water the plant; therefore, it grows. |
+You water the plant; therefore, it grows.
 
 with the *[ri'a](/glossary/#ria)* changed to *[seri'a](/glossary/#seria)* . In addition, there are also symmetrical forms:
 
@@ -826,9 +764,7 @@ with the *[ri'a](/glossary/#ria)* changed to *[seri'a](/glossary/#seria)* . In a
 | rinka  | le  | nu       | le   | spati | cu  | banro   |
 | causes | the | event-of | (the | plant |     | grows). |
 
-|                                            |
-| ------------------------------------------ |
-| Your watering the plant causes its growth. |
+Your watering the plant causes its growth.
 | If you water the plant, then it grows.     |
 
 does not claim either event, but asserts only the causal relationship between them. So in [Example 9.40](/chapter09/#example-940 "Example 9.40."), I am not saying that the plant grows nor that you have in fact watered it. The second colloquial translation shows a form of “if-then” in English quite distinct from the logical connective “if-then” explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System").
@@ -847,9 +783,7 @@ Suppose we wish to claim both events as well as their causal relationship? We ca
 | djacu | dunda | fi  | le  | spati  |
 | water | give  | to  | the | plant. |
 
-|                                       |
-| ------------------------------------- |
-| The plant grows because you water it. |
+The plant grows because you water it.
 
 ##### Example 9.42.
 
@@ -863,9 +797,7 @@ Suppose we wish to claim both events as well as their causal relationship? We ca
 | .iseri'abo | le  | spati | cu  | banro  |
 | Therefore  | the | plant |     | grows. |
 
-|                                           |
-| ----------------------------------------- |
-| You water the plant; therefore, it grows. |
+You water the plant; therefore, it grows.
 
 The compound cmavo *.iri'abo* and *.iseri'abo* serve to connect two bridi, as the initial *[i](/glossary/#i)* indicates. The final *[bo](/glossary/#bo)* is necessary to prevent the modal from “taking over” the following sumti. If the *[bo](/glossary/#bo)* were omitted from [Example 9.41](/chapter09/#example-941 "Example 9.41.") we would have:
 
@@ -881,9 +813,7 @@ The compound cmavo *.iri'abo* and *.iseri'abo* serve to connect two bridi, as th
 |              | djacu | dunda | fi  | le  | spati  |
 | \[somethin\] | water | gives | to  | the | plant. |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| The plant grows. Because of you, water is given to the plant. |
+The plant grows. Because of you, water is given to the plant.
 
 Because *ri'a do* is a modal sumti in [Example 9.43](/chapter09/#example-943 "Example 9.43."), there is no longer an explicit sumti in the x1 place of *djacu dunda*, and the translation must be changed.
 
@@ -907,9 +837,7 @@ Like many Lojban grammatical constructions, sentence modal connection has both f
 | .iri'abo            | mi  | jgari | le  | kabri |
 | with-physical-cause | I   | grasp | the | cup.  |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| Causing the mass of water to be grasped by me, I grasped the cup. |
+Causing the mass of water to be grasped by me, I grasped the cup.
 | I grasp the water because I grasp the cup.                        |
 
 An afterthought connection is one that is signaled only by a cmavo (or a compound cmavo, in this case) between the two constructs being connected. Forethought connection uses a signal both before the first construct and between the two: the use of “both” and “and” in the first half of this sentence represents a forethought connection (though not a modal one).
@@ -928,9 +856,7 @@ To make forethought modal sentence connections in Lojban, place the modal plus *
 | mi  | jgari | lei         | djacu  |
 | I   | grasp | the-mass-of | water. |
 
-|                                             |
-| ------------------------------------------- |
-| Because I grasp the cup, I grasp the water. |
+Because I grasp the cup, I grasp the water.
 
 Note that the cause, the x1 of *[rinka](/glossary/#rinka)* is now placed first. To keep the two bridi in the original order of [Example 9.44](/chapter09/#example-944 "Example 9.44."), we could say:
 
@@ -975,9 +901,7 @@ If the two connected bridi are different in more than one sumti, then a termset 
 | .imu'ibo     | la         | djan. | dunda | lei         | jdini | mi     |
 | Motivated-by | that-named | John  | gave  | the-mass-of | money | to-me. |
 
-|                                                         |
-| ------------------------------------------------------- |
-| I gave the book to John, because John gave money to me. |
+I gave the book to John, because John gave money to me.
 
 means the same as:
 
@@ -1040,9 +964,7 @@ Finally, mathematical operands can be modally connected.
 | .ini'ibo    | li         | ny. | du  | li         | re  | su'i | re  |
 | Entailed-by | the-number | n   | =   | the-number | 2   | +    | 2.  |
 
-|                          |
-| ------------------------ |
-| n = 4 because n = 2 + 2. |
+n = 4 because n = 2 + 2.
 
 can be reduced to:
 
@@ -1058,9 +980,7 @@ can be reduced to:
 | ni'igi  | vei | re  | su'i | re  | \[ve'\] | gi        | vo  |
 | because | (   | 2   | +    | 2   | )       | therefore | 4.  |
 
-|                            |
-| -------------------------- |
-| n is 2 + 2, and is thus 4. |
+n is 2 + 2, and is thus 4.
 
 The cmavo *[vei](/glossary/#vei)* and *[ve'o](/glossary/#veo)* represent mathematical parentheses, and are required so that *ni'igi* affects more than just the immediately following operand, namely the first *[re](/glossary/#re)* . (The right parenthesis, *[ve'o](/glossary/#veo)* , is an elidable terminator.) As usual, no English translation does [Example 9.54](/chapter09/#example-954 "Example 9.54.") justice.
 
@@ -1082,9 +1002,7 @@ Consider the example:
 | bai            | tu'a        | la         | frank. |
 | with-compeller | some-act-by | that-named | Frank. |
 
-|                                               |
-| --------------------------------------------- |
-| I speak in Lojban, under compulsion by Frank. |
+I speak in Lojban, under compulsion by Frank.
 
 [Example 9.55](/chapter09/#example-955 "Example 9.55.") has two modal sumti, using the modals *[bau](/glossary/#bau)* and *[bai](/glossary/#bai)* . Suppose we wanted to specify the language explicitly but be vague about who's doing the compelling. We can simplify [Example 9.55](/chapter09/#example-955 "Example 9.55.") to:
 
@@ -1147,9 +1065,7 @@ If the modal preceding a selbri is constructed using *[fi'o](/glossary/#fio)* , 
 | mi  | fi'o | kanla | fe'u | viska | do   |
 | I   | with | eye   |      | see   | you. |
 
-|                           |
-| ------------------------- |
-| I see you with my eye(s). |
+I see you with my eye(s).
 
 There are two other uses of modals. A modal can be attached to a pair of bridi-tails that have already been connected by a logical, non-logical, or modal connection (see [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System") for more on logical and non-logical connections):
 
@@ -1165,9 +1081,7 @@ There are two other uses of modals. A modal can be attached to a pair of bridi-t
 | gi  | cadzu | le     | bisli | \[ke'\] |
 | and | walk  | on-the | ice   | ).      |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| Under compulsion, I both go to the market and walk on the ice. |
+Under compulsion, I both go to the market and walk on the ice.
 
 Here the *[bai](/glossary/#bai)* is spread over both *klama le zarci* and *cadzu le bisli*, and the *ge ... gi* represents the logical connection “both-and” between the two.
 
@@ -1297,9 +1211,7 @@ Here are some examples:
 | ne       | semau     | la         | meiris. |
 | which-is | more-than | that-named | Mary.   |
 
-|                                              |
-| -------------------------------------------- |
-| Frank likes Betty more than (he likes) Mary. |
+Frank likes Betty more than (he likes) Mary.
 
 [Example 9.70](/chapter09/#example-970 "Example 9.70.") requires that Frank likes Betty, but adds the information that his liking for Betty exceeds his liking for Mary. The modal appears in the form *[semau](/glossary/#semau)* because the x2 place of *[zmadu](/glossary/#zmadu)* is the basis for comparison: in this case, Frank's liking for Mary.
 
@@ -1315,9 +1227,7 @@ Here are some examples:
 | ne       | seme'a    | la         | betis. |
 | which-is | less-than | that-named | Betty. |
 
-|                                              |
-| -------------------------------------------- |
-| Frank likes Mary less than (he likes) Betty. |
+Frank likes Mary less than (he likes) Betty.
 
 Here we are told that Frank likes Mary less than he likes Betty; the information about the comparison is the same. It would be possible to rephrase [Example 9.70](/chapter09/#example-970 "Example 9.70.") using *[me'a](/glossary/#mea)* rather than *[semau](/glossary/#semau)* , and [Example 9.71](/chapter09/#example-971 "Example 9.71.") using *[mau](/glossary/#mau)* rather than *[seme'a](/glossary/#semea)* , but such usage would be unnecessarily confusing. Like many BAI cmavo, *[mau](/glossary/#mau)* and *[me'a](/glossary/#mea)* are more useful when converted with *[se](/glossary/#se)* .
 
@@ -1330,9 +1240,7 @@ If the *[ne](/glossary/#ne)* were omitted in [Example 9.70](/chapter09/#example-
 | la         | frank. | nelci | la         | meiris. | seme'a       | la         | betis. |
 | That-named | Frank  | likes | that-named | Mary    | is-less-than | that-named | Betty. |
 
-|                                         |
-| --------------------------------------- |
-| Frank's liking Mary is less than Betty. |
+Frank's liking Mary is less than Betty.
 
 which compares a liking with a person, and is therefore nonsense.
 
@@ -1434,9 +1342,7 @@ The following three complex examples all mean the same thing.
 | .ijadu'ibo      | mi  | bevri | le  | mlatu | \[tu'\] |
 | And/or-\[equa\] | I   | carry | the | cat.  | )       |
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| I carry the sack. As a result I carry the dog or I carry the cat, equally. |
+I carry the sack. As a result I carry the dog or I carry the cat, equally.
 
 ##### Example 9.80.
 
@@ -1455,9 +1361,7 @@ The following three complex examples all mean the same thing.
 | gi'adu'ibo      | bevri | le  | mlatu | \[ke'\] |
 | and/or-\[equa\] | carry | the | cat)  |         |
 
-|                                                                          |
-| ------------------------------------------------------------------------ |
-| I carry the sack and as a result carry the dog or carry the cat equally. |
+I carry the sack and as a result carry the dog or carry the cat equally.
 
 ##### Example 9.81.
 
@@ -1476,9 +1380,7 @@ The following three complex examples all mean the same thing.
 | .adu'ibo        | le  | mlatu | \[ke'\] |
 | and/or-\[equa\] | the | cat)  |         |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| I carry the sack, and as a result the cat or the dog equally. |
+I carry the sack, and as a result the cat or the dog equally.
 
 In [Example 9.79](/chapter09/#example-979 "Example 9.79."), the *[tu'e](/glossary/#tue)* … *[tu'u](/glossary/#tuu)* brackets are the equivalent of the *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* brackets in [Example 9.80](/chapter09/#example-980 "Example 9.80.") and [Example 9.81](/chapter09/#example-981 "Example 9.81."), because *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* cannot extend across more than one sentence. It would also be possible to change the *.ijeseri'abo* to *.ije seri'a*, which would show that the *[tu'e](/glossary/#tue)* … *[tu'u](/glossary/#tuu)* portion was an effect, but would not pin down the *mi bevri le dakli* portion as the cause. It is legal for a modal (or a tense; see [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System")) to modify the whole of a *[tu'e](/glossary/#tue)* … *[tu'u](/glossary/#tuu)* construct.
 
@@ -1531,9 +1433,7 @@ In addition, it is grammatical to use *[jai](/glossary/#jai)* without a followin
 | le  | nu       | mi  | viska | le  | cukta  |
 | the | event-of | (I  | see   | the | book). |
 
-|                                                  |
-| ------------------------------------------------ |
-| My taking the book is justified by my seeing it. |
+My taking the book is justified by my seeing it.
 
 ##### Example 9.85.
 
@@ -1547,9 +1447,7 @@ In addition, it is grammatical to use *[jai](/glossary/#jai)* without a followin
 | \[fai     | le  | nu       | mi  | lebna | le  | cukt\]  |
 | \[namely, | the | event-of | (I  | take  | the | book)\] |
 
-|                                                       |
-| ----------------------------------------------------- |
-| I am justified in taking the book by seeing the book. |
+I am justified in taking the book by seeing the book.
 
 [Example 9.85](/chapter09/#example-985 "Example 9.85."), with the bracketed part omitted, allows us to say that “I am justified” whereas in fact it is my action that is justified. This construction is vague, but useful in representing natural-language methods of expression.
 
@@ -1567,9 +1465,7 @@ Contradictory negation involving BAI cmavo is performed by appending *-nai* (of 
 | --- | ----- | --- | ------- | --- | --- | --- | ----- | --- |
 | mi  | nelci | do  | mu'inai | le  | nu  | do  | nelci | mi  |
 
-|                                          |
-| ---------------------------------------- |
-| I like you, but not because you like me. |
+I like you, but not because you like me.
 
 [Example 9.86](/chapter09/#example-986 "Example 9.86.") denies that the relationship between my liking you (which is asserted) and your liking me (which is not asserted) is one of motivation. Nothing is said about whether you like me or not, merely that that hypothetical liking is not the motivation for my liking you.
 
@@ -1652,9 +1548,7 @@ To cancel stickiness, use the form *BAI ki ku*, which stops any modal value for 
 | --- | --- | ----- |
 | mi  | ki  | tavla |
 
-|                                                        |
-| ------------------------------------------------------ |
-| I speak (no implication about language or compulsion). |
+I speak (no implication about language or compulsion).
 
 Note: Modals made with *[fi'o](/glossary/#fio)* -plus-selbri cannot be made sticky. This is an unfortunate, but unavoidable, restriction.
 
@@ -1674,9 +1568,7 @@ Logical and non-logical connectives are explained in detail in [Chapter 14](/cha
 | .ije | la         | frank. | bajra | teka'a      | le  | zdani  |
 | And  | that-named | Frank  | runs  | with-origin | the | house. |
 
-|                                                         |
-| ------------------------------------------------------- |
-| Frank runs to the house, and Frank runs from the house. |
+Frank runs to the house, and Frank runs from the house.
 
 ##### Example 9.92.
 
@@ -1690,9 +1582,7 @@ Logical and non-logical connectives are explained in detail in [Chapter 14](/cha
 | je  | teka'a      | le  | zdani  |
 | and | with-origin | the | house. |
 
-|                                   |
-| --------------------------------- |
-| Frank runs to and from the house. |
+Frank runs to and from the house.
 
 Neither example implies whether a single act, or two acts, of running is referred to. To compel the sentence to refer to a single act of running, you can use the form:
 

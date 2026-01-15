@@ -41,9 +41,7 @@ In between the *[poi](/glossary/#poi)* and the *[ku'o](/glossary/#kuo)* appears 
 | ti         | poi         | ke'a | prenu       | ku'o | cu  | barda     |
 | This-thing | such-that-( | IT   | is-a-person | )    |     | is-large. |
 
-|                                      |
-| ------------------------------------ |
-| This thing which is a person is big. |
+This thing which is a person is big.
 | This person is big.                  |
 
 ##### Example 8.3.
@@ -53,9 +51,7 @@ In between the *[poi](/glossary/#poi)* and the *[ku'o](/glossary/#kuo)* appears 
 | ti         | poi         | ke'a | nazbi     | ku'o | cu  | barda     |
 | This-thing | such-that-( | IT   | is-a-nose | )    |     | is-large. |
 
-|                                    |
-| ---------------------------------- |
-| This thing which is a nose is big. |
+This thing which is a nose is big.
 | This nose is big.                  |
 
 ##### Example 8.4.
@@ -65,9 +61,7 @@ In between the *[poi](/glossary/#poi)* and the *[ku'o](/glossary/#kuo)* appears 
 | ti         | poi         | ke'a | nazbi     |         | kapkevna  | ku'o | cu  | barda   |
 | This-thing | such-that-( | IT   | is-a-nose | type-of | skin-hole | )    |     | is-big. |
 
-|                                            |
-| ------------------------------------------ |
-| These things which are nose-pores are big. |
+These things which are nose-pores are big.
 | These nose-pores are big.                  |
 
 In the literal translations throughout this chapter, the word “IT”, capitalized, is used to represent the cmavo *[ke'a](/glossary/#kea)*. In each case, it serves to represent the sumti (in [Example 8.2](/chapter08/#example-82 "Example 8.2.") through [Example 8.4](/chapter08/#example-84 "Example 8.4."), the cmavo *[ti](/glossary/#ti)*) to which the relative clause is attached.
@@ -81,9 +75,7 @@ Of course, there is no reason why *[ke'a](/glossary/#kea)* needs to appear in th
 | tu                 | poi         | le  | mlatu | pu       | lacpu | ke'a | ku'o | cu  | ratcu     |
 | That-distant-thing | such-that-( | the | cat   | \[past\] | drags | IT   | )    |     | is-a-rat. |
 
-|                                            |
-| ------------------------------------------ |
-| That thing which the cat dragged is a rat. |
+That thing which the cat dragged is a rat.
 | What the cat dragged is a rat.             |
 
 ##### Example 8.6.
@@ -98,9 +90,7 @@ Of course, there is no reason why *[ke'a](/glossary/#kea)* needs to appear in th
 | mi  | ponse | ke'a | \[kei\] | ku'o | cu  | bloti      |
 | I   | own   | IT   | )       | )    |     | is-a-boat. |
 
-|                                          |
-| ---------------------------------------- |
-| That thing that I want to own is a boat. |
+That thing that I want to own is a boat.
 
 In [Example 8.6](/chapter08/#example-86 "Example 8.6."), *[ke'a](/glossary/#kea)* appears in an abstraction clause (abstractions are explained in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction")) within a relative clause.
 
@@ -133,9 +123,7 @@ As stated before, *[ku'o](/glossary/#kuo)* is an elidable terminator, and in fac
 | ti   | poi   | prenu       | cu  | barda   |
 | That | which | is-a-person |     | is-big. |
 
-|                     |
-| ------------------- |
-| That person is big. |
+That person is big.
 
 without any change in meaning. Note that *[poi](/glossary/#poi)* is translated “which” rather than “such-that” when *[ke'a](/glossary/#kea)* has been omitted from the x1 place of the relative clause bridi. The word “which” is used in English to introduce English relative clauses: other words that can be used are “who” and “that”, as in:
 
@@ -170,9 +158,7 @@ Consider the following examples:
 | le  | gerku | poi   | blanu   | cu  | barda     |
 | The | dog   | which | is-blue |     | is-large. |
 
-|                                 |
-| ------------------------------- |
-| The dog which is blue is large. |
+The dog which is blue is large.
 
 ##### Example 8.13.
 
@@ -181,9 +167,7 @@ Consider the following examples:
 | le  | gerku | noi                | blanu   | cu  | barda     |
 | The | dog   | incidentally-which | is-blue |     | is-large. |
 
-|                                   |
-| --------------------------------- |
-| The dog, which is blue, is large. |
+The dog, which is blue, is large.
 
 In [Example 8.12](/chapter08/#example-812 "Example 8.12."), the information conveyed by *poi blanu* is essential to identifying the dog in question: it restricts the possible referents from dogs in general to dogs that are blue. This is why *[poi](/glossary/#poi)* relative clauses are called restrictive. In [Example 8.13](/chapter08/#example-813 "Example 8.13."), on the other hand, the dog which is referred to has presumably already been identified clearly, and the relative clause *noi blanu* just provides additional information about it. (If in fact the dog hasn't been identified clearly, then the relative clause does not help identify it further.)
 
@@ -198,9 +182,7 @@ Here are more examples of incidental relative clauses:
 | mi  | noi              | pajni      | cu  | zvati |                 |
 | I   | who-incidentally | am-a-judge |     | am-at | \[some-place\]. |
 
-|                         |
-| ----------------------- |
-| I, a judge, am present. |
+I, a judge, am present.
 
 In this example, *[mi](/glossary/#mi)* is already sufficiently restricted, and the additional information that I am a judge is being provided solely for the listener's edification.
 
@@ -211,9 +193,7 @@ In this example, *[mi](/glossary/#mi)* is already sufficiently restricted, and t
 | xu        | do  | viska | le  | mi  | karce | noi                | blabi     |
 | \[True?\] | You | see   |     | my  | car   | incidentally-which | is-white. |
 
-|                                    |
-| ---------------------------------- |
-| Do you see my car, which is white? |
+Do you see my car, which is white?
 
 In [Example 8.15](/chapter08/#example-815 "Example 8.15."), the speaker is presumed to have only one car, and is providing incidental information that it is white. (Alternatively, he or she might have more than one car, since *le karce* can be plural, in which case the incidental information is that each of them is white.) Contrast [Example 8.16](/chapter08/#example-816 "Example 8.16.") with a restrictive relative clause:
 
@@ -224,9 +204,7 @@ In [Example 8.15](/chapter08/#example-815 "Example 8.15."), the speaker is presu
 | xu        | do  | viska | le  | mi  | karce | poi   | blabi     |
 | \[True?\] | You | see   |     | my  | car   | which | is-white. |
 
-|                                  |
-| -------------------------------- |
-| Do you see my car that is white? |
+Do you see my car that is white?
 | Do you see my white car?         |
 
 Here the speaker probably has several cars, and is restricting the referent of the sumti *le mi karce* (and thereby the listener's attention) to the white one only. [Example 8.16](/chapter08/#example-816 "Example 8.16.") means much the same as [Example 8.17](/chapter08/#example-817 "Example 8.17."), which does not use a relative clause:
@@ -238,9 +216,7 @@ Here the speaker probably has several cars, and is restricting the referent of t
 | xu        | do  | viska | le  | mi  | blabi | karce |
 | \[True?\] | You | see   |     | my  | white | car.  |
 
-|                                   |
-| --------------------------------- |
-| Do you see my car, the white one? |
+Do you see my car, the white one?
 
 So a restrictive relative clause attached to a description can often mean the same as a description involving a tanru. However, *blabi karce*, like all tanru, is somewhat vague: in principle, it might refer to a car which carries white things, or even express some more complicated concept involving whiteness and car-ness; the restrictive relative clause of [Example 8.16](/chapter08/#example-816 "Example 8.16.") can only refer to a car which is white, not to any more complex or extended concept.
 
@@ -269,9 +245,7 @@ Here is an example of *[pe](/glossary/#pe)*, plus an equivalent sentence using a
 | le  | stizu | pe              | mi  | cu  | blanu    |
 | The | chair | associated-with | me  |     | is-blue. |
 
-|                   |
-| ----------------- |
-| My chair is blue. |
+My chair is blue.
 
 ##### Example 8.19.
 
@@ -382,9 +356,7 @@ The facts of the case are the same, but the listener's knowledge about the situa
 | --- | ----- | ---- | ---------- |
 | le  | tcadu | po'u | la nu,iork |
 
-|                                            |
-| ------------------------------------------ |
-| The city of New--York \[not another city\] |
+The city of New--York \[not another city\]
 
 ##### Example 8.30.
 
@@ -392,9 +364,7 @@ The facts of the case are the same, but the listener's knowledge about the situa
 | ---------- | ---- | --- | ----- |
 | la nu,iork | po'u | le  | tcadu |
 
-|                                                              |
-| ------------------------------------------------------------ |
-| New--York -- the city (not the state or some other New York) |
+New--York -- the city (not the state or some other New York)
 
 The principle that the possessor and the possessed may change places applies to all the GOI cmavo, and allows for the possibility of odd effects:
 
@@ -405,9 +375,7 @@ The principle that the possessor and the possessed may change places applies to 
 | le  | kabri | pe              | le  | mi  | pendo  | cu  | cmalu     |
 | The | cup   | associated-with |     | my  | friend |     | is-small. |
 
-|                          |
-| ------------------------ |
-| My friend's cup is small |
+My friend's cup is small
 
 ##### Example 8.32.
 
@@ -416,9 +384,7 @@ The principle that the possessor and the possessed may change places applies to 
 | le  | mi  | pendo  | pe              | le  | kabri | cu  | cmalu     |
 |     | My  | friend | associated-with | the | cup   |     | is-small. |
 
-|                                            |
-| ------------------------------------------ |
-| My friend, the one with the cup, is small. |
+My friend, the one with the cup, is small.
 
 [Example 8.31](/chapter08/#example-831 "Example 8.31.") is useful in a context which is about my friend, and states that his or her cup is small, whereas [Example 8.32](/chapter08/#example-832 "Example 8.32.") is useful in a context that is primarily about a certain cup, and makes a claim about “my friend of the cup”, as opposed to some other friend of mine. Here the cup appears to “possess” the person! English can't even express this relationship with a possessive – “the cup's friend of mine” looks like nonsense – but Lojban has no trouble doing so.
 
@@ -431,9 +397,7 @@ Finally, the cmavo *[ne](/glossary/#ne)* and *[no'u](/glossary/#nou)* stand to *
 | le  | blabi | gerku | ne                           | mi  | cu  | batci | do   |
 | The | white | dog,  | incidentally-associated-with | me  | ,   | bites | you. |
 
-|                                          |
-| ---------------------------------------- |
-| The white dog, which is mine, bites you. |
+The white dog, which is mine, bites you.
 
 In [Example 8.33](/chapter08/#example-833 "Example 8.33."), the white dog is already fully identified (after all, presumably the listener knows which dog bit him or her!). The fact that it is yours is merely incidental to the main bridi claim.
 
@@ -446,9 +410,7 @@ Distinguishing between *[po'u](/glossary/#pou)* and *[no'u](/glossary/#nou)* can
 | le  | nanmu | no'u                | la         | djim. | cu  | terpemci   |
 | The | man,  | incidentally-who-is | that-named | Jim   | ,   | is-a-poet. |
 
-|                          |
-| ------------------------ |
-| The man, Jim, is a poet. |
+The man, Jim, is a poet.
 
 Here I am saying that one of the men is a poet, and incidentally telling you that he is Jim. But if you do know the names, then
 
@@ -459,9 +421,7 @@ Here I am saying that one of the men is a poet, and incidentally telling you tha
 | le  | nanmu | po'u   | la         | djim. | cu  | terpemci   |
 | The | man   | who-is | that-named | Jim   |     | is-a-poet. |
 
-|                        |
-| ---------------------- |
-| The man Jim is a poet. |
+The man Jim is a poet.
 
 is appropriate. Now I am using the fact that the man I am speaking of is Jim in order to pick out which man I mean.
 
@@ -498,9 +458,7 @@ Sometimes it is necessary or useful to attach more than one relative clause to a
 | --- | ----- | --- | ----- | ---- | --- | ----- | --- | ----- | --- | ----- |
 | le  | gerku | poi | blabi | zi'e | poi | batci | le  | nanmu | cu  | klama |
 
-|                                                      |
-| ---------------------------------------------------- |
-| The dog which is white and which bites the man goes. |
+The dog which is white and which bites the man goes.
 
 The most usual translation of *[zi'e](/glossary/#zie)* in English is “and”, but *[zi'e](/glossary/#zie)* is not really a logical connective: unlike most of the true logical connectives (which are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System")), it cannot be converted into a logical connection between sentences.
 
@@ -518,9 +476,7 @@ It is perfectly correct to use *[zi'e](/glossary/#zie)* to connect relative clau
 | le  | mi  | pendo  | cu  | ponse | ke'a | cu  | klama |
 | (-  | my  | friend |     | owns  | IT   | )   | goes. |
 
-|                                                        |
-| ------------------------------------------------------ |
-| The dog that is white, which my friend owns, is going. |
+The dog that is white, which my friend owns, is going.
 
 In [Example 8.39](/chapter08/#example-839 "Example 8.39."), the restrictive clause *poi blabi* specifies which dog is referred to, but the incidental clause *noi le mi pendo cu ponse* is mere incidental information: the listener is supposed to already have identified the dog from the *poi blabi*. Of course, the meaning (though not necessarily the emphasis) is the same if the incidental clause appears first.
 
@@ -533,9 +489,7 @@ It is also possible to connect relative phrases with *[zi'e](/glossary/#zie)*, o
 | le  | botpi  | po          | mi  | zi'e | poi      | blanu | cu  | spofu      |
 | The | bottle | specific-to | me  | and  | which-is | blue  |     | is-broken. |
 
-|                           |
-| ------------------------- |
-| My blue bottle is broken. |
+My blue bottle is broken.
 
 Note that if the colloquial translation of [Example 8.40](/chapter08/#example-840 "Example 8.40.") were “My bottle, which is blue, is broken”, then *[noi](/glossary/#noi)* rather than *[poi](/glossary/#poi)* would have been correct in the Lojban version, since that version of the English implies that you do not need to know the bottle is blue. As written, [Example 8.40](/chapter08/#example-840 "Example 8.40.") suggests that I probably have more than one bottle, and the one in question needs to be picked out as the blue one.
 
@@ -551,9 +505,7 @@ Note that if the colloquial translation of [Example 8.40](/chapter08/#example-84
 | mi  | zi'e | po          | do  | zi'e | poi   | xunre   |
 | me  | and  | specific-to | you | and  | which | is-red. |
 
-|                                                     |
-| --------------------------------------------------- |
-| I will sit in my chair (really yours), the red one. |
+I will sit in my chair (really yours), the red one.
 
 [Example 8.41](/chapter08/#example-841 "Example 8.41.") illustrates that more than two relative phrases or clauses can be connected with *[zi'e](/glossary/#zie)*. It almost defies colloquial translation because of the very un-English contrast between *pe mi*, implying that the chair is temporarily connected with me, and *po do*, implying that the chair has a more permanent association with you. (Perhaps I am a guest in your house, in which case the chair would naturally be your property.)
 
@@ -571,9 +523,7 @@ Here is another example, mixing a relative phrase and two relative clauses, a re
 | le  | mi  | palta | zi'e | noi                | do  | dunda | ke'a |     | mi  |
 |     | my  | plate | and  | which-incidentally | you | gave  | IT   | to  | me. |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| I'll eat my beans that are on my plate, the ones you gave me. |
+I'll eat my beans that are on my plate, the ones you gave me.
 
 ## 8.5. Non-veridical relative clauses: *voi*
 
@@ -610,9 +560,7 @@ As a result, the following two sentences
 | le                       | nanmu | cu  | ninmu       |
 | That-which-I-describe-as | a-man |     | is-a-woman. |
 
-|                              |
-| ---------------------------- |
-| The “guy” is actually a gal. |
+The “guy” is actually a gal.
 
 ##### Example 8.46.
 
@@ -636,9 +584,7 @@ There are actually three places where a relative clause can be attached to a des
 | le  | gerku | poi   | blabi     | ku'o | ku  | cu  | klama | vau |
 | The | (dog  | which | (is-white | )    | )   |     | goes  | .   |
 
-|                                  |
-| -------------------------------- |
-| The dog which is white is going. |
+The dog which is white is going.
 
 Here *[ku'o](/glossary/#kuo)* is the terminator paired with *[poi](/glossary/#poi)* and *[ku](/glossary/#ku)* with *[le](/glossary/#le)*, and *[vau](/glossary/#vau)* is the terminator of the whole bridi.
 
@@ -669,9 +615,7 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 | re  |     | le  | mu   | prenu   | cu  | klama | le  | zarci   |
 | Two | of  | the | five | persons |     | go-to | the | market. |
 
-|                                                                         |
-| ----------------------------------------------------------------------- |
-| Two of the five people \[that I have in mind\] are going to the market. |
+Two of the five people \[that I have in mind\] are going to the market.
 
 *[mu](/glossary/#mu)* is the inner quantifier and *[re](/glossary/#re)* is the outer quantifier. Now what is meant by attaching a relative clause to the sumti *re le mu prenu*? Suppose the relative clause is *poi ninmu* (meaning “who are women”). Now the three possible attachment points discussed previously take on significance.
 
@@ -687,9 +631,7 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 | mu   | prenu   | cu  | klama | le  | zarci   |
 | five | persons |     | go-to | the | market. |
 
-|                                                     |
-| --------------------------------------------------- |
-| Two women out of the five persons go to the market. |
+Two women out of the five persons go to the market.
 
 ##### Example 8.52.
 
@@ -698,9 +640,7 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 | re  |     | le  | mu    | prenu   | poi     | ninmu      | \[ku\] | cu  | klama | le  | zarci   |
 | Two | of  | the | (five | persons | which-( | are-women) | )      |     | go-to | the | market. |
 
-|                                         |
-| --------------------------------------- |
-| Two of the five women go to the market. |
+Two of the five women go to the market.
 
 ##### Example 8.53.
 
@@ -709,9 +649,7 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 | re   |     | le  | mu   | prenu   | ku  | poi     | ninmu     | cu  | klama | le  | zarci   |
 | (Two | of  | the | five | persons | )   | which-( | are-women | )   | go-to | the | market. |
 
-|                                                     |
-| --------------------------------------------------- |
-| Two women out of the five persons go to the market. |
+Two women out of the five persons go to the market.
 
 As the parentheses show, [Example 8.52](/chapter08/#example-852 "Example 8.52.") means that all five of the persons are women, whereas [Example 8.53](/chapter08/#example-853 "Example 8.53.") means that the two who are going to the market are women. How do we remember which is which? If the relative clause comes after the explicit *[ku](/glossary/#ku)*, as in [Example 8.53](/chapter08/#example-853 "Example 8.53."), then the sumti as a whole is qualified by the relative clause. If there is no *[ku](/glossary/#ku)*, or if the relative clause comes before an explicit *[ku](/glossary/#ku)*, then the relative clause is understood to apply to everything which the underlying selbri applies to.
 
@@ -726,9 +664,7 @@ When *[le](/glossary/#le)* is the descriptor being used, and the sumti has no ex
 | lo    | prenu   | ku  | noi                  | blabi     | cu  | klama | le  | zarci   |
 | (Some | persons | )   | incidentally-which-( | are-white | )   | go-to | the | market. |
 
-|                                               |
-| --------------------------------------------- |
-| Some people, who are white, go to the market. |
+Some people, who are white, go to the market.
 
 ##### Example 8.55.
 
@@ -737,9 +673,7 @@ When *[le](/glossary/#le)* is the descriptor being used, and the sumti has no ex
 | lo   | prenu    | noi                | blabi     | \[ku\] | cu  | klama | le     | zarci   |
 | Some | (persons | incidentally-which | are-white | )      |     | go    | to-the | market. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| Some of the people, who by the way are white, go to the market. |
+Some of the people, who by the way are white, go to the market.
 
 Both [Example 8.54](/chapter08/#example-854 "Example 8.54.") and [Example 8.55](/chapter08/#example-855 "Example 8.55.") tell us that one or more persons are going to the market. However, they make very different incidental claims. Now, what does *lo prenu noi blabi* mean? Well, the default inner quantifier is *[ro](/glossary/#ro)* (meaning “all”), and the default outer quantifier is *[su'o](/glossary/#suo)* (meaning “at least one”). Therefore, we must first take all persons, then choose at least one of them. That one or more people will be going.
 
@@ -756,9 +690,7 @@ When the descriptor is *[la](/glossary/#la)*, indicating that what follows is a 
 | mi  | viska | la           | nanmu | poi   | terpa | le  | ke'a  | xirma | \[ku\] |
 | I   | see   | that-named-( | man   | which | fears | the | of-IT | horse | ).     |
 
-|                                |
-| ------------------------------ |
-| I see Man Afraid Of His Horse. |
+I see Man Afraid Of His Horse.
 
 says that the speaker sees a person with a particular name, who does not necessarily fear any horses, whereas
 
@@ -769,9 +701,7 @@ says that the speaker sees a person with a particular name, who does not necessa
 | mi  | viska | la           | nanmu | ku  | poi   | terpa | le  | ke'a  | xirma. |
 | I   | see   | that-named-( | Man   | )   | which | fears | the | of-IT | horse. |
 
-|                                                          |
-| -------------------------------------------------------- |
-| I see the person named “Man” who is afraid of his horse. |
+I see the person named “Man” who is afraid of his horse.
 
 refers to one (or more) of those named “Man”, namely the one(s) who are afraid of their horses.
 
@@ -830,9 +760,7 @@ Here is an example of a description used in a possessive sumti:
 | le  |                  | le  | nanmu | ku  | karce | cu  | blanu    |
 | The | (associated-with | the | man   | )   | car   |     | is-blue. |
 
-|                        |
-| ---------------------- |
-| The man's car is blue. |
+The man's car is blue.
 
 Note the explicit *[ku](/glossary/#ku)* at the end of the possessor sumti, which prevents the selbri of the possessor sumti from merging with the selbri of the main description sumti. Because of the need for this *[ku](/glossary/#ku)*, the most common kind of possessor sumti are pro-sumti, especially personal pro-sumti, which require no elidable terminator. Descriptions are more likely to be attached with relative phrases.
 
@@ -845,9 +773,7 @@ And here is a number used as a possessor sumti:
 | le  | li            | mu   | jdice   | se bende    |
 | The | of-the-number | five | judging | team-member |
 
-|                |
-| -------------- |
-| Juror number 5 |
+Juror number 5
 
 which is not quite the same as “the fifth juror”; it simply indicates a weak association between the particular juror and the number 5.
 
@@ -888,9 +814,7 @@ Normally, relative clauses attach only to simple sumti or parts of sumti: pro-su
 | li         | pai | noi                | na'e      | frinu    | namcu  |
 | The-number | pi, | incidentally-which | is-a-non- | fraction | number |
 
-|                          |
-| ------------------------ |
-| The irrational number pi |
+The irrational number pi
 
 And here is an incidental relative clause attached to a quotation:
 
@@ -906,9 +830,7 @@ And here is an incidental relative clause attached to a quotation:
 | noi                  | mi  | cusku   | ke'a | cu  | jufra          |
 | incidentally-which-( | I   | express | IT   | )   | is-a-sentence. |
 
-|                                                           |
-| --------------------------------------------------------- |
-| “I'm going to the market”, which I'd said, is a sentence. |
+“I'm going to the market”, which I'd said, is a sentence.
 
 which may serve to identify the author of the quotation or some other relevant, but subsidiary, fact about it. All such relative clauses appear only after the simple sumti, never before it.
 
@@ -926,9 +848,7 @@ In addition, sumti with attached sumti qualifiers of selma'o LAhE or NAhE+BO (wh
 | cmaxirma    | li'u        | cu  | zvati | le  | vu               | kumfa |
 | Small-horse | \[unquote\] |     | is-at | the | \[far-distance\] | room. |
 
-|                                           |
-| ----------------------------------------- |
-| An old “The Red Pony” is in the far room. |
+An old “The Red Pony” is in the far room.
 
 [Example 8.68](/chapter08/#example-868 "Example 8.68.") is a bit complex, and may need some picking apart. The quotation *lu le xunre cmaxirma li'u* means the string of words “The Red Pony”. If the *[la'e](/glossary/#lae)* at the beginning of the sentence were omitted, [Example 8.68](/chapter08/#example-868 "Example 8.68.") would claim that a certain string of words is in a room distant from the speaker. But obviously a string of words can't be in a room! The effect of the *[la'e](/glossary/#lae)* is to modify the sumti so that it refers not to the words themselves, but to the referent of those words, a novel by John Steinbeck (presumably in Lojban translation). The particular copy of “The Red Pony” is identified by the restrictive relative clause. [Example 8.68](/chapter08/#example-868 "Example 8.68.") means exactly the same as:
 
@@ -960,9 +880,7 @@ Sometimes, however, it is important to make a relative clause apply to the whole
 | nanmu    | cu  | klama | le  | zdani  |
 | is-a-man |     | go-to | the | house. |
 
-|                                                  |
-| ------------------------------------------------ |
-| Frank and George, who is a man, go to the house. |
+Frank and George, who is a man, go to the house.
 
 The incidental claim in [Example 8.70](/chapter08/#example-870 "Example 8.70.") is not that Frank and George are men, but only that George is a man, because the incidental relative clause attaches only to *la djordj*, the immediately preceding simple sumti.
 
@@ -980,9 +898,7 @@ To make a relative clause attach to both parts of the logically connected sumti 
 | noi              | nanmu   | cu  | klama | le     | zdani  |
 | incidentally-who | are-men |     | go    | to-the | house. |
 
-|                                                 |
-| ----------------------------------------------- |
-| Frank and George, who are men, go to the house. |
+Frank and George, who are men, go to the house.
 
 The presence of *[vu'o](/glossary/#vuo)* here means that the relative clause *noi nanmu* extends to the entire logically connected sumti *la frank. .e la djordj.*; in other words, both Frank and George are claimed to be men, as the colloquial translation shows.
 
@@ -1000,9 +916,7 @@ English is able to resolve the distinction correctly in the case of [Example 8.7
 | pu       | bajra | cu  | klama | le  | zdani  |
 | \[past\] | runs) |     | go-to | the | house. |
 
-|                                             |
-| ------------------------------------------- |
-| Frank and George, who ran, go to the house. |
+Frank and George, who ran, go to the house.
 
 ##### Example 8.73.
 
@@ -1016,9 +930,7 @@ English is able to resolve the distinction correctly in the case of [Example 8.7
 | noi | pu       | bajra | cu  | klama | le  | zdani  |
 | who | \[past\] | run   |     | go-to | the | house. |
 
-|                                             |
-| ------------------------------------------- |
-| Frank and George, who ran, go to the house. |
+Frank and George, who ran, go to the house.
 
 In spoken English, tone of voice would serve; in written English, one or both sentences would need rewriting.
 
@@ -1028,33 +940,21 @@ Vocative phrases are explained in more detail in [Section 6.11](/chapter06/#611-
 
 ##### Example 8.74.
 
-|             |
-| ----------- |
-| coi. frank. |
+coi. frank.
 
-|               |
-| ------------- |
-| Hello, Frank. |
+Hello, Frank.
 
 ##### Example 8.75.
 
-|            |
-| ---------- |
-| co'o xirma |
+co'o xirma
 
-|                 |
-| --------------- |
-| Goodbye, horse. |
+Goodbye, horse.
 
 ##### Example 8.76.
 
-|                              |
-| ---------------------------- |
-| fi'i la frank. .e la djordj. |
+fi'i la frank. .e la djordj.
 
-|                            |
-| -------------------------- |
-| Welcome, Frank and George! |
+Welcome, Frank and George!
 
 Note that [Example 8.75](/chapter08/#example-875 "Example 8.75.") says farewell to something which doesn't really have to be a horse, something that the speaker simply thinks of as being a horse, or even might be something (a person, for example) who is named “Horse”. In a sense, [Example 8.75](/chapter08/#example-875 "Example 8.75.") is ambiguous between *co'o le xirma* and *co'o la xirma*, a relatively safe semantic ambiguity, since names are ambiguous in general: saying “George” doesn't distinguish between the possible Georges.
 
@@ -1078,9 +978,7 @@ As can be seen, the form of vocative phrases is similar to that of sumti, and as
 | coi.   | frank. | poi | xunre    | se bende    |
 | Hello, | Frank  | who | is-a-red | team-member |
 
-|                                 |
-| ------------------------------- |
-| Hello, Frank from the Red Team! |
+Hello, Frank from the Red Team!
 
 The restrictive relative clause in [Example 8.78](/chapter08/#example-878 "Example 8.78.") suggests that there is some other Frank (perhaps on the Green Team) from whom this Frank, the one the speaker is greeting, must be distinguished.
 
@@ -1093,9 +991,7 @@ A vocative phrase containing a selbri can have relative clauses either before or
 | co'o     | poi         | mi  | zvati | ke'a | ku'o | xirma |
 | Goodbye, | such-that-( | I   | am-at | IT   | )    | horse |
 
-|                            |
-| -------------------------- |
-| Goodbye, horse where I am! |
+Goodbye, horse where I am!
 
 ##### Example 8.80.
 
@@ -1126,9 +1022,7 @@ However, an ambiguity can exist if *[ke'a](/glossary/#kea)* is used in a relativ
 | le  | prenu  | poi | zvati | le  | kumfa | poi   | ke'axire | zbasu | ke'a | cu  | masno    |
 | The | person | who | is-in | the | room  | which | IT-sub-2 | built | IT   |     | is-slow. |
 
-|                                                       |
-| ----------------------------------------------------- |
-| The person who is in the room which he built is slow. |
+The person who is in the room which he built is slow.
 
 Here, the meaning of “IT-sub-2” is that sumti attached to the second relative clause, counting from the innermost, is used. Therefore, *ke'axipa* (IT-sub-1) means the same as plain *[ke'a](/glossary/#kea)*.
 

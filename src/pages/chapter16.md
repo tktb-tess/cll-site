@@ -48,9 +48,7 @@ Although Lojban is called a logical language, not every feature of it is “logi
 | mi  | viska | le                        | nanmu |
 | I   | see   | the-one-I-refer-to-as-the | man.  |
 
-|                    |
-| ------------------ |
-| I see the man/men. |
+I see the man/men.
 
 that there really is a man; the only thing you can conclude is that there is one thing (or more) that I choose to refer to as a man. You cannot even tell which man is meant for sure without asking me (although communication is served if you already know from the context).
 
@@ -97,9 +95,7 @@ Here is an example of a prenex with two variables:
 | da            | de           | zo'u | da   | prami | de    |     |
 | There-is-an-X | there-is-a-Y | such | that | X     | loves | Y.  |
 
-|                          |
-| ------------------------ |
-| Somebody loves somebody. |
+Somebody loves somebody.
 
 In [Example 16.10](/chapter16/#example-1610 "Example 16.10."), the literal interpretation of the two variables *[da](/glossary/#da)* and *[de](/glossary/#de)* as “there-is-an-X” and “there-is-a-Y” tells us that there are two things which stand in the relationship that one loves the other. It might be the case that the supposed two things are really just a single thing that loves itself; nothing in the Lojban version of [Example 16.10](/chapter16/#example-1610 "Example 16.10.") rules out that interpretation, which is why the colloquial translation does not say “Somebody loves somebody else.” The things referred to by different variables may be different or the same. (We use “somebody” here rather than “something” for naturalness; lovers and beloveds are usually persons, though the Lojban does not say so.)
 
@@ -112,9 +108,7 @@ It is perfectly all right for the variables to appear more than once in the main
 | da            | zo'u      | da  | prami | da  |
 | There-is-an-X | such-that | X   | loves | X   |
 
-|                                 |
-| ------------------------------- |
-| Somebody loves himself/herself. |
+Somebody loves himself/herself.
 
 What [Example 16.11](/chapter16/#example-1611 "Example 16.11.") claims is fundamentally different from what [Example 16.10](/chapter16/#example-1610 "Example 16.10.") claims, because *da prami da* is not structurally the same as *da prami de*. However,
 
@@ -136,9 +130,7 @@ It is not necessary for a variable to be a sumti of the main bridi directly:
 | da            | zo'u      | le  | da   | gerku | cu  | viska | mi  |
 | There-is-an-X | such-that | the | of-X | dog   |     | sees  | me  |
 
-|                        |
-| ---------------------- |
-| Somebody's dog sees me |
+Somebody's dog sees me
 
 is perfectly correct even though the *[da](/glossary/#da)* is used only in a possessive construction. (Possessives are explained in [Section 8.7](/chapter08/#87-possessive-sumti "8.7. Possessive sumti").)
 
@@ -151,9 +143,7 @@ It is very peculiar, however, even if technically grammatical, for the variable 
 | da            | zo'u      | la         | ralf. | gerku    |
 | There-is-an-X | such-that | that-named | Ralph | is-a-dog |
 
-|                                              |
-| -------------------------------------------- |
-| There is something such that Ralph is a dog. |
+There is something such that Ralph is a dog.
 
 has a variable bound in a prenex whose relevance to the claim of the following bridi is completely unspecified.
 
@@ -187,9 +177,7 @@ Here is a universal claim with two variables:
 | ro        | da  | ro        | de  | zo'u | da  | prami | de  |
 | For-every | X,  | for-every | Y   | :    | X   | loves | Y.  |
 
-|                              |
-| ---------------------------- |
-| Everything loves everything. |
+Everything loves everything.
 
 Again, X and Y can represent the same thing, so [Example 16.17](/chapter16/#example-1617 "Example 16.17.") does not mean “Everything loves everything else.” Furthermore, because the claim is universal, it is about every thing, not merely every person, so we cannot use “everyone” or “everybody” in the translation.
 
@@ -202,9 +190,7 @@ Note that *[ro](/glossary/#ro)* appears before both *[da](/glossary/#da)* and *[
 | ro        | da  | de           | zo'u | da  | viska | de  |
 | For-every | X,  | there-is-a-Y | :    | X   | sees  | Y.  |
 
-|                            |
-| -------------------------- |
-| Everything sees something. |
+Everything sees something.
 
 ##### Example 16.19.
 
@@ -213,9 +199,7 @@ Note that *[ro](/glossary/#ro)* appears before both *[da](/glossary/#da)* and *[
 | da            | ro                  | de  | zo'u | da  | viska | de  |
 | There-is-an-X | such-that-for-every | Y   | :    | X   | sees  | Y.  |
 
-|                            |
-| -------------------------- |
-| Something sees everything. |
+Something sees everything.
 
 [Example 16.18](/chapter16/#example-1618 "Example 16.18.") and [Example 16.19](/chapter16/#example-1619 "Example 16.19.") mean completely different things. [Example 16.18](/chapter16/#example-1618 "Example 16.18.") says that for everything, there is something which it sees, not necessarily the same thing seen for every seer. [Example 16.19](/chapter16/#example-1619 "Example 16.19."), on the other hand, says that there is a particular thing which can see everything that there is (including itself). Both of these are fairly silly, but they are different kinds of silliness.
 
@@ -234,9 +218,7 @@ In Lojban, a variable *[da](/glossary/#da)*, *[de](/glossary/#de)*, or *[di](/gl
 | da            | zo'u | da  | viska | la         | djim. |
 | There-is-an-X | :    | X   | sees  | that-named | Jim.  |
 
-|                     |
-| ------------------- |
-| Something sees Jim. |
+Something sees Jim.
 
 and
 
@@ -247,9 +229,7 @@ and
 | da            | poi   | prenu       | zo'u | da  | viska | la         | djim. |
 | There-is-an-X | which | is-a-person | :    | X   | sees  | that-named | Jim.  |
 
-|                   |
-| ----------------- |
-| Someone sees Jim. |
+Someone sees Jim.
 
 In [Example 16.20](/chapter16/#example-1620 "Example 16.20."), the variable *[da](/glossary/#da)* can refer to any object whatever; there are no restrictions on it. In [Example 16.21](/chapter16/#example-1621 "Example 16.21."), *[da](/glossary/#da)* is restricted by the *poi prenu* relative clause to persons only, and so *da poi prenu* translates as “someone.” (The difference between “someone” and “somebody” is a matter of English style, with no real counterpart in Lojban.) If [Example 16.21](/chapter16/#example-1621 "Example 16.21.") is true, then [Example 16.20](/chapter16/#example-1620 "Example 16.20.") must be true, but not necessarily vice versa.
 
@@ -262,9 +242,7 @@ Universal claims benefit even more from the existence of relative clauses. Consi
 | ro        | da  | zo'u | da  | vasxu    |
 | For-every | X   | :    | X   | breathes |
 
-|                     |
-| ------------------- |
-| Everything breathes |
+Everything breathes
 
 and
 
@@ -275,9 +253,7 @@ and
 | ro        | da  | poi   | gerku    | zo'u | da  | vasxu     |
 | For-every | X   | which | is-a-dog | :    | X   | breathes. |
 
-|                     |
-| ------------------- |
-| Every dog breathes. |
+Every dog breathes.
 | Each dog breathes.  |
 | All dogs breathe.   |
 
@@ -292,9 +268,7 @@ If we make an existential claim about dogs rather than a universal one, we get:
 | da            | poi   | gerku    | zo'u | da  | vasxu     |
 | There-is-an-X | which | is-a-dog | :    | X   | breathes. |
 
-|                    |
-| ------------------ |
-| Some dog breathes. |
+Some dog breathes.
 
 ## 16.5. Dropping the prenex
 
@@ -307,9 +281,7 @@ It isn't really necessary for every Lojban bridi involving variables to have a p
 | da                  | viska | mi  |
 | There-is-an-X-which | sees  | me. |
 
-|                    |
-| ------------------ |
-| Something sees me. |
+Something sees me.
 
 and [Example 16.23](/chapter16/#example-1623 "Example 16.23.") becomes:
 
@@ -320,9 +292,7 @@ and [Example 16.23](/chapter16/#example-1623 "Example 16.23.") becomes:
 | ro        | da  | poi   | gerku     | cu  | vasxu        |
 | For-every | X   | which | is-a-dog, |     | it-breathes. |
 
-|                     |
-| ------------------- |
-| Every dog breathes. |
+Every dog breathes.
 
 You might well suppose, then, that the purpose of the prenex is to allow the variables in it to appear in a different order than the bridi order, and that would be correct. Consider
 
@@ -353,9 +323,7 @@ If we tried to omit the prenex and move the *[ro](/glossary/#ro)* and the relati
 | de           | poi   | gerku    | cu  | batci       | ro    | da  | poi   | prenu       |
 | There-is-a-Y | which | is-a-dog |     | which-bites | every | X   | which | is-a-person |
 
-|                          |
-| ------------------------ |
-| Some dog bites everyone. |
+Some dog bites everyone.
 
 which has the structure of [Example 16.19](/chapter16/#example-1619 "Example 16.19."): it says that there is a dog (call him Fido) who bites, has bitten, or will bite every person that has ever existed! We can safely rule out Fido's existence, and say that [Example 16.29](/chapter16/#example-1629 "Example 16.29.") is false, while agreeing to [Example 16.27](/chapter16/#example-1627 "Example 16.27.").
 
@@ -386,9 +354,7 @@ If a variable occurs more than once, then any *[ro](/glossary/#ro)* or *[poi](/g
 | ti         | xarci       | di                | di   |
 | this-thing | is-a-weapon | for-use-against-Z | by-Z |
 
-|                                                              |
-| ------------------------------------------------------------ |
-| This is a weapon for someone to use against himself/herself. |
+This is a weapon for someone to use against himself/herself.
 
 (in which *[di](/glossary/#di)* is used rather than *[da](/glossary/#da)* just for variety) loses its prenex as follows:
 
@@ -412,9 +378,7 @@ So far, we have seen variables with either nothing in front, or with the cmavo *
 | su'o             | da  | zo'u | da  | viska | mi  |
 | For-at-least-one | X   | :    | X   | sees  | me. |
 
-|                    |
-| ------------------ |
-| Something sees me. |
+Something sees me.
 
 From this version of [Example 16.9](/chapter16/#example-169 "Example 16.9."), we understand the speaker's claim to be that of all the things that there are, at least one of them sees him or her. The corresponding universal claim, [Example 16.16](/chapter16/#example-1616 "Example 16.16."), says that of all the things that exist, every one of them can see the speaker.
 
@@ -427,9 +391,7 @@ Any other number can be used instead of *[ro](/glossary/#ro)* or *[su'o](/glossa
 | re      | da  | zo'u | da  | viska | mi  |
 | For-two | Xes | :    | X   | sees  | me. |
 
-|                    |
-| ------------------ |
-| Two things see me. |
+Two things see me.
 
 This means that exactly two things, no more or less, saw the speaker on the relevant occasion. In English, we might take “Two things see me” to mean that at least two things see the speaker, but there might be more; in Lojban, though, that claim would have to be made as:
 
@@ -583,9 +545,7 @@ Using the facilities already discussed, a plausible translation might be
 | ro  | da  | poi          | klama   | le  | zarci | cu  | cadzu    | le  | foldi  |
 | All | X   | such-that-it | goes-to | the | store |     | walks-on | the | field. |
 
-|                                                        |
-| ------------------------------------------------------ |
-| Everyone who goes to the store walks across the field. |
+Everyone who goes to the store walks across the field.
 
 But there is a subtle difference between [Example 16.47](/chapter16/#example-1647 "Example 16.47.") and [Example 16.48](/chapter16/#example-1648 "Example 16.48."). [Example 16.48](/chapter16/#example-1648 "Example 16.48.") tells us that, in fact, there are people who go to the store, and that they walk across the field. A sumti of the type *ro da poi klama* requires that there are things which *[klama](/glossary/#klama)*: Lojban universal claims always imply the corresponding existential claims as well. [Example 16.47](/chapter16/#example-1647 "Example 16.47."), on the other hand, does not require that there are any people who go to the store: it simply states, conditionally, that if there is anyone who goes to the store, he or she walks across the field as well. This conditional form mirrors the true Lojban translation of [Example 16.47](/chapter16/#example-1647 "Example 16.47."):
 
@@ -695,9 +655,7 @@ As explained in [Section 15.2](/chapter15/#152-bridi-negation "15.2. bridi negat
 | mi  | na        | klama | le  | zarci  |
 | I   | \[false\] | go-to | the | store. |
 
-|                                     |
-| ----------------------------------- |
-| It is false that I go to the store. |
+It is false that I go to the store.
 | I don't go to the store.            |
 
 The other form of bridi negation is expressed by using the compound cmavo *naku* in the prenex, which is identified and compounded by the lexer before looking at the sentence grammar. In Lojban grammar, *naku* is then treated like a sumti. In a prenex, *naku* means precisely the same thing as the logician's “it is not the case that” in a similar English context. (Outside of a prenex, *naku* is also grammatically treated as a single entity – the equivalent of a sumti – but does not have this exact meaning; we'll discuss these other situations in [Section 16.11](/chapter16/#1611-using-naku-outside-a-prenex "16.11. Using naku outside a prenex").)
@@ -711,9 +669,7 @@ To represent a bridi negation using a prenex, remove the *[na](/glossary/#na)* f
 | naku                    | zo'u | la         | djan. | klama  |
 | It-is-not-the-case-that | :    | that-named | John  | comes. |
 
-|                               |
-| ----------------------------- |
-| It is false that: John comes. |
+It is false that: John comes.
 
 However, *naku* can appear at other points in the prenex as well. Compare
 
@@ -725,9 +681,7 @@ However, *naku* can appear at other points in the prenex as well. Compare
 | It-is-not-the-case-that: | for-some-Y         | :    | Y   | sits. |
 | It-is-false-that:        | for-at-least-one-Y | :    | Y   | sits. |
 
-|                                  |
-| -------------------------------- |
-| It is false that something sits. |
+It is false that something sits.
 | Nothing sits.                    |
 
 with
@@ -739,9 +693,7 @@ with
 | su'ode              | naku             | zo'u | de  | zutse |
 | For-at-least-one-Y, | it-is-false-that | :    | Y   | sits. |
 
-|                                      |
-| ------------------------------------ |
-| There is something that doesn't sit. |
+There is something that doesn't sit.
 
 The relative position of negation and quantification terms within a prenex has a drastic effect on meaning. Starting without a negation, we can have:
 
@@ -752,9 +704,7 @@ The relative position of negation and quantification terms within a prenex has a
 | roda         | su'ode        | zo'u      | da  | prami | de  |
 | For-every-X, | there-is-a-Y, | such-that | X   | loves | Y.  |
 
-|                                                                            |
-| -------------------------------------------------------------------------- |
-| Everybody loves at least one thing (each, not necessarily the same thing). |
+Everybody loves at least one thing (each, not necessarily the same thing).
 
 or:
 
@@ -765,9 +715,7 @@ or:
 | su'ode        | roda                 | zo'u | da  | prami | de  |
 | There-is-a-Y, | such-that-for-each-X | :    | X   | loves | Y.  |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| There is at least one particular thing that is loved by everybody. |
+There is at least one particular thing that is loved by everybody.
 
 The simplest form of bridi negation to interpret is one where the negation term is at the beginning of the prenex:
 
@@ -778,9 +726,7 @@ The simplest form of bridi negation to interpret is one where the negation term 
 | naku              | roda         | su'ode        | zo'u       | da  | prami | de  |
 | It-is-false-that: | for-every-X, | there-is-a-Y, | such-that: | X   | loves | Y.  |
 
-|                                                       |
-| ----------------------------------------------------- |
-| It is false that: everybody loves at least one thing. |
+It is false that: everybody loves at least one thing.
 | (At least) someone doesn't love anything.             |
 
 the negation of [Example 16.61](/chapter16/#example-1661 "Example 16.61."), and
@@ -792,9 +738,7 @@ the negation of [Example 16.61](/chapter16/#example-1661 "Example 16.61."), and
 | naku              | su'ode       | roda      | zo'u       | da  | prami | de    |     |
 | It-is-false-that: | there-is-a-Y | such-that | for-each-X | :   | X     | loves | Y.  |
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| It is false that: there is at least one thing that is loved by everybody. |
+It is false that: there is at least one thing that is loved by everybody.
 | There isn't any one thing that everybody loves.                           |
 
 the negation of [Example 16.62](/chapter16/#example-1662 "Example 16.62.").
@@ -808,9 +752,7 @@ The rules of formal logic require that, to move a negation boundary within a pre
 | su'oda      | naku              | su'ode       | zo'u       | da  | prami | de  |
 | For-some-X, | it-is-false-that: | there-is-a-Y | such-that: | X   | loves | Y.  |
 
-|                                              |
-| -------------------------------------------- |
-| There is somebody who doesn't love anything. |
+There is somebody who doesn't love anything.
 
 and:
 
@@ -821,9 +763,7 @@ and:
 | rode         | naku              | roda        | zo'u | da  | prami | de  |
 | For-every-Y, | it-is-false-that: | for-every-X | :    | X   | loves | Y.  |
 
-|                                                         |
-| ------------------------------------------------------- |
-| For each thing, it is not true that everybody loves it. |
+For each thing, it is not true that everybody loves it.
 
 Another movement of the negation boundary produces:
 
@@ -834,9 +774,7 @@ Another movement of the negation boundary produces:
 | su'oda        | rode                   | naku             | zo'u | da  | prami | de  |
 | There-is-an-X | such-that-for-every-Y, | it-is-false-that | :    | X   | loves | Y.  |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| There is someone who, for each thing, doesn't love that thing. |
+There is someone who, for each thing, doesn't love that thing.
 
 and
 
@@ -847,9 +785,7 @@ and
 | rode         | su'oda         | naku                       | zo'u | da  | prami | de  |
 | For-every-Y, | there-is-an-X, | such-that-it-is-false-that | :    | X   | loves | Y.  |
 
-|                                                      |
-| ---------------------------------------------------- |
-| For each thing there is someone who doesn't love it. |
+For each thing there is someone who doesn't love it.
 
 Investigation will show that, indeed, each transformation preserves the meanings of [Example 16.63](/chapter16/#example-1663 "Example 16.63.") and [Example 16.64](/chapter16/#example-1664 "Example 16.64.").
 
@@ -862,9 +798,7 @@ The quantifier *[no](/glossary/#no)* (meaning “zero of”) also involves a neg
 | noda           | rode         | zo'u      | da  | prami | de  |
 | There-is-no-X, | for-every-Y, | such-that | X   | loves | Y.  |
 
-|                          |
-| ------------------------ |
-| Nobody loves everything. |
+Nobody loves everything.
 
 which is negated by:
 
@@ -875,9 +809,7 @@ which is negated by:
 | naku              | noda                | rode        | zo'u | da  | prami | de  |
 | It-is-false-that: | there-is-no-X-that, | for-every-Y | :    | X   | loves | Y.  |
 
-|                                                        |
-| ------------------------------------------------------ |
-| It is false that there is nobody who loves everything. |
+It is false that there is nobody who loves everything.
 
 We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by transforming the prenex. To move the negation phrase within the prenex, we must first expand the *[no](/glossary/#no)* quantifier. Thus “for no x” means the same thing as “it is false for some x”, and the corresponding Lojban *[noda](/glossary/#noda)* can be replaced by *naku su'oda*. Making this substitution, we get:
 
@@ -893,9 +825,7 @@ We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by tr
 | …rode       | zo'u | da  | prami | de  |
 | for-every-X | :    | X   | loves | Y   |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| It is false that it is false that: for an X, for every Y: X loves Y. |
+It is false that it is false that: for an X, for every Y: X loves Y.
 
 Adjacent pairs of negation boundaries in the prenex can be dropped, so this means the same as:
 
@@ -906,9 +836,7 @@ Adjacent pairs of negation boundaries in the prenex can be dropped, so this mean
 | su'oda                   | rode        | zo'u | da  | prami | de  |
 | There-is-an-X-such-that, | for-every-Y | :    | X   | loves | Y.  |
 
-|                                       |
-| ------------------------------------- |
-| At least one person loves everything. |
+At least one person loves everything.
 
 which is clearly the desired contradiction of [Example 16.69](/chapter16/#example-1669 "Example 16.69.").
 
@@ -939,9 +867,7 @@ Whenever a logical connective occurs in a sentence, that sentence can be expande
 | mi  | .e  | do  | klama   | ti        |
 | I   | and | you | come-to | this-here |
 
-|                      |
-| -------------------- |
-| I and you come here. |
+I and you come here.
 
 can be expanded to:
 
@@ -952,9 +878,7 @@ can be expanded to:
 | mi  | klama   | ti        | .ije | do  | klama   | ti        |
 | I   | come-to | this-here | and  | you | come-to | this-here |
 
-|                                  |
-| -------------------------------- |
-| I come here, and, you come here. |
+I come here, and, you come here.
 
 The same type of expansion can be performed for any logical connective, with any valid combination of *[na](/glossary/#na)* or *[nai](/glossary/#nai)* attached. No change in meaning occurs under such a transformation.
 
@@ -969,9 +893,7 @@ The mystery is easily solved. A negation in a logical expression is identical to
 | mi  | .enai   | do  | prami | roda       |
 | I   | and-not | you | love  | everything |
 
-|                                  |
-| -------------------------------- |
-| I, and not you, love everything. |
+I, and not you, love everything.
 
 expands to:
 
@@ -996,9 +918,7 @@ and then into prenex form as:
 | naku             | zo'u | do  | prami | da             |
 | it-is-false-that | :    | you | love  | (the-same)-it. |
 
-|                                                                         |
-| ----------------------------------------------------------------------- |
-| For each thing: I love it, and it is false that you love (the same) it. |
+For each thing: I love it, and it is false that you love (the same) it.
 
 By the rules of predicate logic, the *[ro](/glossary/#ro)* quantifier on *[da](/glossary/#da)* has scope over both sentences. That is, once you've picked a value for *[da](/glossary/#da)* for the first sentence, it stays the same for both sentences. (The *[da](/glossary/#da)* continues with the same fixed value until a new paragraph or a new prenex resets the meaning.)
 
@@ -1016,9 +936,7 @@ Thus the following example has the indicated translation:
 | .ije | naku             | zo'u | do  | prami | da                 |
 | And  | it-is-false-that | :    | you | love  | that-(same)-thing. |
 
-|                                                |
-| ---------------------------------------------- |
-| There is something that I love that you don't. |
+There is something that I love that you don't.
 
 If you remember only two rules for prenex manipulation of negations, you won't go wrong:
 
@@ -1062,9 +980,7 @@ when converted to the external negation form produces:
 | klama | su'ode     | poi | ckule    |
 | go-to | some-which | are | schools. |
 
-|                                                                |
-| -------------------------------------------------------------- |
-| All children don't go to some school (not just some children). |
+All children don't go to some school (not just some children).
 
 Lojban provides a negation form which more closely emulates natural language negation. This involves putting *naku* before the selbri, instead of a *[na](/glossary/#na)*. *naku* is clearly a contradictory negation, given its parallel with prenex bridi negation. Using *naku*, [Example 16.79](/chapter16/#example-1679 "Example 16.79.") can be expressed as:
 
@@ -1075,9 +991,7 @@ Lojban provides a negation form which more closely emulates natural language neg
 | su'oda | poi       | verba    | naku  | klama | su'ode | poi       | ckule    |
 | Some   | which-are | children | don't | go-to | some   | which-are | schools. |
 
-|                                     |
-| ----------------------------------- |
-| Some children don't go to a school. |
+Some children don't go to a school.
 
 Although it is not technically a sumti, *naku* can be used in most of the places where a sumti may appear. We'll see what this means in a moment.
 
@@ -1089,9 +1003,7 @@ When you use *naku* within a bridi, you are explicitly creating a negation bound
 | ------ | --- | ----- | --- | ----- | ---- | --- | ----- | ---- |
 | su'oda | poi | verba | cu  | klama | rode | poi | ckule | naku |
 
-|                                                           |
-| --------------------------------------------------------- |
-| For some children, for every school, they don't go to it. |
+For some children, for every school, they don't go to it.
 
 ##### Example 16.84.
 
@@ -1099,9 +1011,7 @@ When you use *naku* within a bridi, you are explicitly creating a negation bound
 | ------ | --- | ----- | --- | ----- | ---- | ------ | --- | ----- |
 | su'oda | poi | verba | cu  | klama | naku | su'ode | poi | ckule |
 
-|                                             |
-| ------------------------------------------- |
-| Some children don't go to (some) school(s). |
+Some children don't go to (some) school(s).
 
 ##### Example 16.85.
 
@@ -1109,9 +1019,7 @@ When you use *naku* within a bridi, you are explicitly creating a negation bound
 | ---- | ---- | --- | ----- | --- | ----- | ------ | --- | ----- |
 | naku | roda | poi | verba | cu  | klama | su'ode | poi | ckule |
 
-|                                                     |
-| --------------------------------------------------- |
-| It is false that all children go to some school(s). |
+It is false that all children go to some school(s).
 
 In [Example 16.83](/chapter16/#example-1683 "Example 16.83."), we moved the negation boundary rightward across the quantifier of *[de](/glossary/#de)*, forcing us to invert it. In [Example 16.85](/chapter16/#example-1685 "Example 16.85.") we moved the negation boundary across the quantifier of *[da](/glossary/#da)*, forcing us to invert it instead. [Example 16.84](/chapter16/#example-1684 "Example 16.84.") merely switched the selbri and the negation boundary, with no effect on the quantifiers.
 
@@ -1123,9 +1031,7 @@ The same rules apply if you rearrange the sentence so that the quantifier crosse
 | ------ | --- | ----- | ---- | ---- | --- | ----- | ---- | --- | ----- |
 | su'ode | poi | ckule | ku'o | naku | se  | klama | roda | poi | verba |
 
-|                                             |
-| ------------------------------------------- |
-| Some schools aren't gone-to-by every child. |
+Some schools aren't gone-to-by every child.
 
 or rather, [Example 16.86](/chapter16/#example-1686 "Example 16.86.") means something completely different from [Example 16.82](/chapter16/#example-1682 "Example 16.82."). Conversion with *[se](/glossary/#se)* under *naku* negation is not symmetric; not all sumti are treated identically, and some sumti are not invariant under conversion. Thus, internal negation with *naku* is considered an advanced technique, used to achieve stylistic compatibility with natural languages.
 
@@ -1176,9 +1082,7 @@ from which we can restore the quantified variables to the sentence, giving:
 | ---- | ---- | ---- | --- | ----- | --- | ----- | ------ | --- | ----- |
 | naku | zo'u | roda | poi | verba | cu  | klama | su'ode | poi | ckule |
 
-|                                                         |
-| ------------------------------------------------------- |
-| It is not the case that all children go to some school. |
+It is not the case that all children go to some school.
 
 or more briefly
 
@@ -1348,9 +1252,7 @@ which is the same as
 | ginai           | la         | djein. | le     | zarci  | cu  | bajrykla |
 | then-(\[false\] | that-named | Jane   | to-the | market |     | runs).   |
 
-|                                                    |
-| -------------------------------------------------- |
-| If Jane walks to the market, then she doesn't run. |
+If Jane walks to the market, then she doesn't run.
 
 which then condenses down to [Example 16.98](/chapter16/#example-1698 "Example 16.98.").
 
@@ -1398,9 +1300,7 @@ In addition to the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *
 | bu'a                     | la            | djan. |
 | stands-in-relationship-F | to-that-named | John. |
 
-|                                                 |
-| ----------------------------------------------- |
-| There's some relationship between Jim and John. |
+There's some relationship between Jim and John.
 
 The translations of [Example 16.105](/chapter16/#example-16105 "Example 16.105.") show how unidiomatic selbri variables are in English; Lojban sentences like [Example 16.105](/chapter16/#example-16105 "Example 16.105.") need to be totally reworded in English. Furthermore, when a selbri variable appears in the prenex, it is necessary to precede it with a quantifier such as *[su'o](/glossary/#suo)*; it is ungrammatical to just say *bu'a zo'u*. This rule is necessary because only sumti can appear in the prenex, and *su'o bu'a* is technically a sumti – in fact, it is an indefinite description like *re nanmu*, since *[bu'a](/glossary/#bua)* is grammatically equivalent to a brivla like *[nanmu](/glossary/#nanmu)*. However, indefinite descriptions involving the bu'a-series cannot be imported from the prenex.
 
@@ -1427,9 +1327,7 @@ As a result, if the number before the variable is anything but *[su'o](/glossary
 | bu'a                     | la            | djan. |
 | stands-in-relationship-F | to-that-named | John. |
 
-|                                                 |
-| ----------------------------------------------- |
-| Every relationship exists between Jim and John. |
+Every relationship exists between Jim and John.
 
 [Example 16.105](/chapter16/#example-16105 "Example 16.105.") and [Example 16.106](/chapter16/#example-16106 "Example 16.106.") are almost certainly true: Jim and John might be brothers, or might live in the same city, or at least have the property of being jointly human. [Example 16.107](/chapter16/#example-16107 "Example 16.107.") is palpably false, however; if Jim and John were related by every possible relationship, then they would have to be both brothers and father-and-son, which is impossible.
 
@@ -1459,9 +1357,7 @@ A quantifier can be prefixed to a variable that has already been bound either in
 | ci    | da  | poi   | prenu       | cu  | se ralju   | pa     | da  |
 | Three | Xs  | which | are-persons |     | are-led-by | one-of | X   |
 
-|                                      |
-| ------------------------------------ |
-| Three people are led by one of them. |
+Three people are led by one of them.
 
 The *pa da* in [Example 16.109](/chapter16/#example-16109 "Example 16.109.") does not specify the number of things to which *[da](/glossary/#da)* refers, as the preceding *ci da* does. Instead, it selects one of them for use in this sumti only. The number of referents of *[da](/glossary/#da)* remains three, but a single one (there is no way of knowing which one) is selected to be the leader.
 

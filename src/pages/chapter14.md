@@ -36,9 +36,7 @@ This table means that if the first sentence stated is true, and the second sente
 
 Suppose that “John is a man” is true (and “John is not a man” is false), and that “James is a woman” is false (and “James is not a woman” is true). Then the truth table tells us that
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| “John is a man, or James is not a woman” (true true ) is true       |
+“John is a man, or James is not a woman” (true true ) is true
 | “John is a man, or James is a woman” (true , false) is true         |
 | “John is not a man, or James is not a woman” (false, true ) is true |
 | “John is not a man, or James is a woman” (false, false) is false    |
@@ -81,9 +79,7 @@ Lojban regards four of these 16 truth functions as fundamental, and assigns them
 
 More precisely:
 
-|                                                                                               |
-| --------------------------------------------------------------------------------------------- |
-| A is true if either or both sentences are true                                                |
+A is true if either or both sentences are true
 | E is true if both sentences are true, but not otherwise                                       |
 | O is true if the sentences are both true or both false                                        |
 | U is true if the first sentence is true, regardless of the truth value of the second sentence |
@@ -202,9 +198,7 @@ Here is another example:
 | la         | djan. | nanmu    | .ijanai | la         | djeimyz. | ninmu           |
 | That-named | John  | is-a-man | or      | that-named | James    | is-not-a-woman. |
 
-|                                    |
-| ---------------------------------- |
-| John is a man if James is a woman. |
+John is a man if James is a woman.
 
 How's that again? Are those two English sentences in [Example 14.10](/chapter14/#example-1410 "Example 14.10.") really equivalent? In English, no. The Lojban TTFT truth function can be glossed “A if B”, but the “if” does not quite have its English sense. [Example 14.10](/chapter14/#example-1410 "Example 14.10.") is true so long as John is a man, even if James is not a woman; likewise, it is true just because James is not a woman, regardless of John's gender. This kind of “if-then” is technically known as a “material conditional”.
 
@@ -228,9 +222,7 @@ This can be thought of as a principle of consistency, and may be paraphrased as 
 | la         | djan. | nanmu        | .inaja | la         | djeimyz. | ninmu       |
 | That-named | John  | is-not-a-man | or     | that-named | James    | is-a-woman. |
 
-|                                          |
-| ---------------------------------------- |
-| John is a man only if James is a woman.  |
+John is a man only if James is a woman.
 | If John is a man, then James is a woman. |
 
 The following example illustrates the use of *[se](/glossary/#se)* to, in effect, exchange the two sentences. The normal use of *[se](/glossary/#se)* is to (in effect) transpose places of a bridi, as explained in [Section 5.11](/chapter05/#511-conversion-of-simple-selbri "5.11. Conversion of simple selbri").
@@ -241,9 +233,7 @@ The following example illustrates the use of *[se](/glossary/#se)* to, in effect
 | --- | ----- | ----- | ------ | --- | -------- | ----- |
 | la  | djan. | nanmu | .iseju | la  | djeimyz. | ninmu |
 
-|                                                 |
-| ----------------------------------------------- |
-| Whether or not John is a man, James is a woman. |
+Whether or not John is a man, James is a woman.
 
 If both *[na](/glossary/#na)* and *[se](/glossary/#se)* are present, which is legal but never necessary, *[na](/glossary/#na)* would come before *[se](/glossary/#se)*.
 
@@ -269,9 +259,7 @@ is a complete bridi, and adding an afterthought connection to make
 | --- | ----- | ----- | ---- | --- | -------- | ----- |
 | la  | djan. | nanmu | .ija | la  | djeimyz. | ninmu |
 
-|                                             |
-| ------------------------------------------- |
-| John is a man or James is a woman (or both) |
+John is a man or James is a woman (or both)
 
 provides additional information without requiring any change in the form of what has come before; changes which may not be possible or practical, especially in speaking. (The meaning, however, may be changed by the use of a negating connective.) Afterthought connectives make it possible to construct all the important truth-functional relationships in a variety of ways.
 
@@ -283,9 +271,7 @@ In forethought style the speaker decides in advance, before expressing the first
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
 | ga  | la  | djan. | nanmu | gi  | la  | djeimyz. | ninmu |
 
-|                                                     |
-| --------------------------------------------------- |
-| Either John is a man or James is a woman (or both). |
+Either John is a man or James is a woman (or both).
 
 *[ga](/glossary/#ga)* is the cmavo which represents the A truth function in selma'o GA. The word *[gi](/glossary/#gi)* does not belong to GA at all, but constitutes its own selma'o: it serves only to separate the two bridi without having any content of its own. The English translation of *[gi](/glossary/#gi)* is “either ... or”, but in the English form the truth function is specified both by the word “either” and by the word “or”: not so in Lojban.
 
@@ -299,9 +285,7 @@ Some more examples of forethought bridi connection are:
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
 | ge  | la  | djan. | nanmu | gi  | la  | djeimyz. | ninmu |
 
-|                                                            |
-| ---------------------------------------------------------- |
-| (It is true that) both John is a man and James is a woman. |
+(It is true that) both John is a man and James is a woman.
 
 ##### Example 14.18.
 
@@ -309,9 +293,7 @@ Some more examples of forethought bridi connection are:
 | --- | --- | ----- | ----- | --- | --- | -------- | ----- |
 | gu  | la  | djan. | nanmu | gi  | la  | djeimyz. | ninmu |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| It is true that John is a man, whether or not James is a woman. |
+It is true that John is a man, whether or not James is a woman.
 
 It is worth emphasizing that [Example 14.18](/chapter14/#example-1418 "Example 14.18.") does not assert that James is (or is not) a woman. The *[gu](/glossary/#gu)* which indicates that *la djeimyz. ninmu* may be true or false is unfortunately rather remote from the bridi thus affected.
 
@@ -324,9 +306,7 @@ Perhaps the most important of the truth functions commonly expressed in forethou
 | ganai  | la         | djan. | nanmu         | gi  | la         | djeimyz. | ninmu       |
 | Either | that-named | John  | is-not-a-man, | or  | that-named | James    | is-a-woman. |
 
-|                                          |
-| ---------------------------------------- |
-| If John is a man, then James is a woman. |
+If John is a man, then James is a woman.
 
 Note the placement of the *[nai](/glossary/#nai)* in [Example 14.19](/chapter14/#example-1419 "Example 14.19."). When added to afterthought selma'o such as JA, a following *[nai](/glossary/#nai)* negates the second bridi, to which it is adjacent. Since GA cmavo precede the first bridi, a following *[nai](/glossary/#nai)* negates the first bridi instead.
 
@@ -356,9 +336,7 @@ Causality is discussed in far more detail in [Section 9.7](/chapter09/#97-modal-
 | ----- | --- | ----- | ----- | --- | --- | -------- | ----- |
 | gonai | la  | djan. | nanmu | gi  | la  | djeimyz. | ninmu |
 
-|                                                        |
-| ------------------------------------------------------ |
-| John is not a man if and only if James is a woman.     |
+John is not a man if and only if James is a woman.
 | Either John is a man or James is a woman but not both. |
 
 How can the second bridi be negated? By adding *-nai* to the *[gi](/glossary/#gi)*.
@@ -369,9 +347,7 @@ How can the second bridi be negated? By adding *-nai* to the *[gi](/glossary/#gi
 | --- | --- | ----- | ----- | ----- | --- | -------- | ----- |
 | go  | la  | djan. | nanmu | ginai | la  | djeimyz. | ninmu |
 
-|                                                        |
-| ------------------------------------------------------ |
-| John is a man if and only if James is not a woman.     |
+John is a man if and only if James is not a woman.
 | Either John is a man or James is a woman but not both. |
 
 A compound cmavo based on *[gi](/glossary/#gi)* is called a gik; the only giks are *[gi](/glossary/#gi)* itself and *[nai](/glossary/#nai)*.
@@ -384,9 +360,7 @@ Further examples:
 | --- | --- | ----- | ----- | ----- | --- | -------- | ----- |
 | ge  | la  | djan. | nanmu | ginai | la  | djeimyz. | ninmu |
 
-|                                         |
-| --------------------------------------- |
-| John is a man and James is not a woman. |
+John is a man and James is not a woman.
 
 ##### Example 14.24.
 
@@ -394,9 +368,7 @@ Further examples:
 | ----- | --- | ----- | ----- | ----- | --- | -------- | ----- |
 | ganai | la  | djan. | nanmu | ginai | la  | djeimyz. | ninmu |
 
-|                                            |
-| ------------------------------------------ |
-| John is not a man or James is not a woman. |
+John is not a man or James is not a woman.
 
 The syntax of geks is:
 
@@ -416,9 +388,7 @@ Geks and ijeks are sufficient to state every possible logical connection between
 | --- | ----- | ----- | --- | ----- | ---- | --- | ------ | ----- | --- | ----- |
 | la  | djan. | klama | le  | zarci | .ije | la  | .alis. | klama | le  | zarci |
 
-|                                                        |
-| ------------------------------------------------------ |
-| John goes to the market, and Alice goes to the market. |
+John goes to the market, and Alice goes to the market.
 
 Here only a single sumti differs between the two bridi. Lojban does not require that both bridi be expressed in full. Instead, a single bridi can be given which contains both of the different sumti and uses a logical connective from a different selma'o to combine the two sumti:
 
@@ -456,9 +426,7 @@ Any ek may be used between sumti, even if there is no direct English equivalent:
 | la         | djan. | .o             | la         | .alis. | klama   | le  | zarci   |
 | That-named | John  | if-and-only-if | that-named | Alice  | goes-to | the | market. |
 
-|                                                      |
-| ---------------------------------------------------- |
-| John goes to the market if, and only if, Alice does. |
+John goes to the market if, and only if, Alice does.
 
 The second line of [Example 14.27](/chapter14/#example-1427 "Example 14.27.") is highly stilted English, but the first line (of which it is a literal translation) is excellent Lojban.
 
@@ -470,9 +438,7 @@ What about forethought sumti connection? As is the case for bridi connection, ge
 | --- | --- | ----- | --- | --- | ------ | ----- | --- | ----- |
 | ga  | la  | djan. | gi  | la  | .alis. | klama | le  | zarci |
 
-|                                                    |
-| -------------------------------------------------- |
-| Either John or Alice (or both) goes to the market. |
+Either John or Alice (or both) goes to the market.
 
 Of course, eks include all the same patterns of compound cmavo that ijeks do. When *[na](/glossary/#na)* or *[se](/glossary/#se)* is part of an ek, a special writing convention is invoked, as in the following example:
 
@@ -483,9 +449,7 @@ Of course, eks include all the same patterns of compound cmavo that ijeks do. Wh
 | la         | djan. | na.a    | la         | .alis. | klama   | le  | zarci   |
 | That-named | John  | only-if | that-named | Alice  | goes-to | the | market. |
 
-|                                             |
-| ------------------------------------------- |
-| John goes to the market only if Alice does. |
+John goes to the market only if Alice does.
 
 Note the period in *[.a](/glossary/#a)*. The cmavo of A begin with vowels, and therefore must always be preceded by a pause. It is conventional to write all connective compounds as single words (with no spaces), but this pause must still be marked in writing as in speech; otherwise, the *[na](/glossary/#na)* and *[a](/glossary/#a)* would tend to run together.
 
@@ -871,9 +835,7 @@ Giheks can be combined with *[bo](/glossary/#bo)* in the same way as eks:
 | --- | ----- | --- | ----- | ---- | ----- | --- | ------- | ------ | ----- | --- | ------ |
 | mi  | nelci | la  | djan. | gi'e | nelci | la  | martas. | gi'abo | nelci | la  | meris. |
 
-|                                               |
-| --------------------------------------------- |
-| I like John and ( like Martha or like Mary ). |
+I like John and ( like Martha or like Mary ).
 
 is equivalent in meaning to [Example 14.39](/chapter14/#example-1439 "Example 14.39.") and [Example 14.40](/chapter14/#example-1440 "Example 14.40."). Likewise, *[ke'e](/glossary/#kee)* grouping can be used after giheks:
 
@@ -1014,9 +976,7 @@ Finally, here is an example of gek-connected sentences with both shared and unsh
 | mi  | gonai               | le     | zarci  | cu  | klama | gi  | le     | bisli | cu  | dansu  |
 | I   | either-but-not-both | to-the | office |     | go    | or  | on-the | ice   |     | dance. |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| I either go to the office or dance on the ice (but not both). |
+I either go to the office or dance on the ice (but not both).
 
 ## 14.11. Termset logical connection
 
@@ -1280,25 +1240,17 @@ A truth question can be answered “yes” or “no”, depending on the truth o
 
 ##### Example 14.94.
 
-|      |
-| ---- |
-| go'i |
+go'i
 
-|                |
-| -------------- |
-| Fido is a dog. |
+Fido is a dog.
 
 and
 
 ##### Example 14.95.
 
-|        |
-| ------ |
-| nago'i |
+nago'i
 
-|                    |
-| ------------------ |
-| Fido is not a dog. |
+Fido is not a dog.
 
 Some English questions seemingly have the same form as the truth questions so far discussed. Consider
 
@@ -1350,44 +1302,28 @@ Here are some plausible answers:
 
 ##### Example 14.100.
 
-|        |
-| ------ |
-| nagi'e |
+nagi'e
 
-|                                  |
-| -------------------------------- |
-| Alice is not a dog and is a cat. |
+Alice is not a dog and is a cat.
 
 ##### Example 14.101.
 
-|         |
-| ------- |
-| gi'enai |
+gi'enai
 
-|                                  |
-| -------------------------------- |
-| Alice is a dog and is not a cat. |
+Alice is a dog and is not a cat.
 
 ##### Example 14.102.
 
-|           |
-| --------- |
-| nagi'enai |
+nagi'enai
 
-|                                      |
-| ------------------------------------ |
-| Alice is not a dog and is not a cat. |
+Alice is not a dog and is not a cat.
 
 ##### Example 14.103.
 
-|         |
-| ------- |
-| nagi'o  |
+nagi'o
 | gi'onai |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| Alice is a dog or is a cat but not both (I'm not saying which). |
+Alice is a dog or is a cat but not both (I'm not saying which).
 
 [Example 14.103](/chapter14/#example-14103 "Example 14.103.") is correct but uncooperative.
 
@@ -1407,9 +1343,7 @@ The answer *[gi'e](/glossary/#gie)*, meaning that Alice is a dog and is a cat, i
 | ji                  | loi       | tcati |
 | \[truth-function?\] | a-mass-of | tea?  |
 
-|                            |
-| -------------------------- |
-| Do you want coffee or tea? |
+Do you want coffee or tea?
 
 the answer *[e](/glossary/#e)*, meaning that I want both, is perfectly plausible, if not necessarily polite.
 
@@ -1433,9 +1367,7 @@ There are natural languages, notably Chinese, which employ the Lojbanic form of 
 
 ##### Example 14.106.
 
-|                         |
-| ----------------------- |
-| *ni3 zou3 hai2shi pao3* |
+*ni3 zou3 hai2shi pao3*
 | You walk \[or?\] run?   |
 
 means “Do you walk or run?”, and is exactly parallel to the Lojban:
@@ -1463,9 +1395,7 @@ Truth questions may be used in bridi connection. This form of sentence is perfec
 | .ije | ganai | ti   | tcati  | gi   | ko       | bevri | loi       | ckafi  | mi     |
 | and  | if    | this | is-tea | then | \[you!\] | bring | a-mass-of | coffee | to-me. |
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| If this is coffee, bring me tea; but if this is tea, bring me coffee. |
+If this is coffee, bring me tea; but if this is tea, bring me coffee.
 
 In logical terms, however, “but” is the same as “and”; the difference is that the sentence after a “but” is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo *[ku'i](/glossary/#kui)* (of selma'o UI), which is explained in [Section 13.12](/chapter13/#1312-discursives "13.12. Discursives"), to the logical *[je](/glossary/#je)*.)
 
@@ -1516,9 +1446,7 @@ In tanru, *[joi](/glossary/#joi)* has the connotation “mixed with”, as in th
 | ti   | blanu      | joi        | xunre | bolci |
 | This | is-a-(blue | mixed-with | red)  | ball. |
 
-|                              |
-| ---------------------------- |
-| This is a blue and red ball. |
+This is a blue and red ball.
 
 Here the ball is neither wholly blue nor wholly red, but partly blue and partly red. Its blue/redness is a mass property. (Just how blue something has to be to count as “wholly blue” is an unsettled question, though. A *blanu zdani* may be so even though not every part of it is blue.)
 
@@ -1552,9 +1480,7 @@ The cmavo *[se](/glossary/#se)* is grammatical before any JOI cmavo, but only us
 | ce         | la         | .alis. | ce         | la         | djeimyz. |
 | and-member | that-named | Alice  | and-member | that-named | James.   |
 
-|                                                    |
-| -------------------------------------------------- |
-| I choose Alice from among Frank, Alice, and James. |
+I choose Alice from among Frank, Alice, and James.
 
 The x3 place of *[cuxna](/glossary/#cuxna)* is a set from which the choice is being made. A set is an abstract object which is determined by specifying its members. Unlike those of a mass, the properties of a set are unrelated to its members' properties: the set of all rats is large (since many rats exist), but the rats themselves are small. This chapter does not attempt to explain set theory (the mathematical study of sets) in detail: explaining propositional logic is quite enough for one chapter!
 
@@ -1567,9 +1493,7 @@ In [Example 14.114](/chapter14/#example-14114 "Example 14.114.") we specify that
 | ti   | liste        | mi  | ce'o         | do  | ce'o         | la         | djan. |
 | This | is-a-list-of | me  | and-sequence | you | and-sequence | that-named | John. |
 
-|                                      |
-| ------------------------------------ |
-| This is a list of you, me, and John. |
+This is a list of you, me, and John.
 
 The x2 place of *[liste](/glossary/#liste)* is a sequence of the things which are mentioned in the list. (It is worth pointing out that *lo liste* means a physical object such as a grocery list: a purely abstract list is *lo porsi*, a sequence.) Here the three sumti connected by *[ce'o](/glossary/#ceo)* are in a definite order, not just lumped together in a set or a mass.
 
@@ -1635,9 +1559,7 @@ Likewise, *[fa'u](/glossary/#fau)* can be used to put two individuals together w
 | prami | la         | meris. | fa'u                  | la         | martas. |
 | loves | that-named | Mary   | jointly-in-order-with | that-named | Martha. |
 
-|                                                      |
-| ---------------------------------------------------- |
-| James and George love Mary and Martha, respectively. |
+James and George love Mary and Martha, respectively.
 
 Here the information carried by the English adverb “respectively”, namely that James loves Mary and George loves Martha, is divided between the two occurrences of *[fa'u](/glossary/#fau)*. If both uses of *[fa'u](/glossary/#fau)* were to be changed to *[e](/glossary/#e)*, we would get:
 
@@ -1813,9 +1735,7 @@ Non-logical forethought termsets are also useful when the things to be non-logic
 | tu'a            | la         | djordj. | \[nu'u\] |
 | something-about | that-named | George. |          |
 
-|                                                                             |
-| --------------------------------------------------------------------------- |
-| John and Frank speak in Lojban and under George's compulsion, respectively. |
+John and Frank speak in Lojban and under George's compulsion, respectively.
 
 [Example 14.133](/chapter14/#example-14133 "Example 14.133.") associates speaking in Lojban with John, and speaking under George's compulsion with Frank. We do not know what language Frank uses, or whether John speaks under anyone's compulsion.
 
@@ -1838,9 +1758,7 @@ Joiks may be prefixed with *[i](/glossary/#i)* to produce ijoiks, which serve to
 | .ice'o   | dzukansa            | le  | gerku | tu'u |
 | And-then | walkingly-accompany | the | dog.  | )    |
 
-|                                                         |
-| ------------------------------------------------------- |
-| List of things to do: Figure taxes. Wash car. Walk dog. |
+List of things to do: Figure taxes. Wash car. Walk dog.
 
 [Example 14.134](/chapter14/#example-14134 "Example 14.134.") represents a list of things to be done in priority order. The order is important, hence the need for a sequence connective, but does not necessarily represent a time order (the dog may end up getting walked first). Note the use of *[tu'e](/glossary/#tue)* and *[tu'u](/glossary/#tuu)* as general brackets around the whole list. This is related to, but distinct from, their use in [Section 14.8](/chapter14/#148-grouping-of-afterthought-connectives "14.8. Grouping of afterthought connectives"), because there is no logical connective between the introductory phrase *mi ba gasnu la'edi'e* and the rest. The brackets effectively show how large an utterance the word *[di'e](/glossary/#die)*, which means “the following utterance”, refers to.
 
@@ -1871,20 +1789,14 @@ There is no joik question cmavo as such; however, joiks and ijoiks may be uttere
 | ji                   | loi       | tcati |
 | \[what-connective?\] | a-mass-of | tea?  |
 
-|                            |
-| -------------------------- |
-| Do you want coffee or tea? |
+Do you want coffee or tea?
 
 ##### Example 14.137.
 
-|                 |
-| --------------- |
-| joi             |
+joi
 | Mixed-mass-and. |
 
-|                                       |
-| ------------------------------------- |
-| Both as a mass (i.e, mixed together). |
+Both as a mass (i.e, mixed together).
 
 Ugh. (Or in Lojban: *[ro'o](/glossary/#roo)*.)
 
@@ -1906,9 +1818,7 @@ An example of *[bi'i](/glossary/#bii)* in sumti connection:
 | la         | drezdn. | bi'i         | la         | frankfurt. |
 | that-named | Dresden | \[interval\] | that-named | Frankfurt. |
 
-|                                              |
-| -------------------------------------------- |
-| I am standing between Dresden and Frankfurt. |
+I am standing between Dresden and Frankfurt.
 
 In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), it is all the same whether I am standing between Dresden and Frankfurt or between Frankfurt and Dresden, so *[bi'i](/glossary/#bii)* is the appropriate interval connective. The sumti *la drezdn. bi'i la frankfurt.* falls into the x2 place of *[sanli](/glossary/#sanli)*, which is the surface I stand on; the interval specifies that surface by its limits. (Obviously, I am not standing on the whole of the interval; the x2 place of *[sanli](/glossary/#sanli)* specifies a surface which is typically larger in extent than just the size of the stander's feet.)
 
@@ -1924,9 +1834,7 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), it is all the 
 | bi'o                 | la  | recac.       |
 | \[ordered-interval\] |     | Second-hour. |
 
-|                                         |
-| --------------------------------------- |
-| I walk from one o'clock to two o'clock. |
+I walk from one o'clock to two o'clock.
 
 In [Example 14.139](/chapter14/#example-14139 "Example 14.139."), on the other hand, it is essential that *la pacac.* comes before *la recac.*; otherwise we have an 11-hour (or 23-hour) interval rather than a one-hour interval. In this use of an interval, the whole interval is probably intended, or at least most of it.
 
@@ -1960,9 +1868,7 @@ The third cmavo of selma'o BIhI, namely *[mi'i](/glossary/#mii)*, expresses an i
 | mi'i       | lo      | minli             | be  | li  | muno |
 | \[center\] | what-is | measured-in-miles |     | by  | 50.  |
 
-|                                                       |
-| ----------------------------------------------------- |
-| The bomb destroyed Washington and fifty miles around. |
+The bomb destroyed Washington and fifty miles around.
 
 Here we have an interval whose center is Washington and whose distance, or radius, is fifty miles.
 
@@ -1980,9 +1886,7 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), is it possible
 | bi'i         | ga'o          | la         | frankfurt. |
 | \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| I am standing between Dresden and Frankfurt, inclusive of both. |
+I am standing between Dresden and Frankfurt, inclusive of both.
 
 ##### Example 14.143.
 
@@ -1996,9 +1900,7 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), is it possible
 | bi'i         | ke'i          | la         | frankfurt. |
 | \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| I am standing between Dresden (inclusive) and Frankfurt (exclusive). |
+I am standing between Dresden (inclusive) and Frankfurt (exclusive).
 
 ##### Example 14.144.
 
@@ -2012,9 +1914,7 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), is it possible
 | bi'i         | ga'o          | la         | frankfurt. |
 | \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| I am standing between Dresden (exclusive) and Frankfurt (inclusive). |
+I am standing between Dresden (exclusive) and Frankfurt (inclusive).
 
 ##### Example 14.145.
 
@@ -2028,9 +1928,7 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), is it possible
 | bi'i         | ke'i          | la         | frankfurt. |
 | \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| I am standing between Dresden and Frankfurt, exclusive of both. |
+I am standing between Dresden and Frankfurt, exclusive of both.
 
 As these examples should make clear, the GAhO cmavo that applies to a given endpoint is the one that stands physically adjacent to it: the left-hand endpoint is referred to by the first GAhO, and the right-hand endpoint by the second GAhO. It is ungrammatical to have just one GAhO.
 
@@ -2052,9 +1950,7 @@ Negated intervals, marked with a *-nai* following the BIhI cmavo, indicate an in
 | bi'onai         | la         | gaicac. |
 | not-from-...-to | that-named | 12      |
 
-|                                          |
-| ---------------------------------------- |
-| You can contact me except from 10 to 12. |
+You can contact me except from 10 to 12.
 
 The complete syntax of joiks is:
 
@@ -2099,9 +1995,7 @@ The first *[gi](/glossary/#gi)* is part of the joigik; the second *[gi](/glossar
 | ga'o          | gi  | la         | drezdn. | gi  | la         | frankfurt. |
 | \[inclusive\] | and | that-named | Dresden | and | that-named | Frankfurt. |
 
-|                                                                      |
-| -------------------------------------------------------------------- |
-| I am standing between Dresden (exclusive) and Frankfurt (inclusive). |
+I am standing between Dresden (exclusive) and Frankfurt (inclusive).
 
 In forethought, unfortunately, the GAhOs become physically separated from the endpoints, but the same rule applies: the first GAhO refers to the first endpoint.
 
@@ -2144,9 +2038,7 @@ Simple examples of logical connection between operators are hard to come by. A c
 | li         | re  | su'i | je  | pi'i  | re  | du     | li         | vo  |
 | The-number | 2   | plus | and | times | 2   | equals | the-number | 4.  |
 
-|                          |
-| ------------------------ |
-| 2 + 2 = 4 and 2 x 2 = 4. |
+2 + 2 = 4 and 2 x 2 = 4.
 
 The forethought form of [Example 14.151](/chapter14/#example-14151 "Example 14.151.") is:
 
@@ -2157,9 +2049,7 @@ The forethought form of [Example 14.151](/chapter14/#example-14151 "Example 14.1
 | li         | re  | ge   | su'i | gi  | pi'i  | re  | du     | li         | vo    |
 | The-number | two | both | plus | and | times | two | equals | the-number | four. |
 
-|                               |
-| ----------------------------- |
-| Both 2 + 2 = 4 and 2 x 2 = 4. |
+Both 2 + 2 = 4 and 2 x 2 = 4.
 
 Non-logical connection with joiks or joigiks is also permitted between operands and between operators. One use for this construct is to connect operands with *[bi'i](/glossary/#bii)* to create mathematical intervals:
 
@@ -2171,9 +2061,7 @@ Non-logical connection with joiks or joigiks is also permitted between operands 
 | the-number | zero | (inclusive) | from-to | (exclusive) | one |
 | \[0,1)     |      |             |         |             |     |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| the numbers from zero to one, including zero but not including one |
+the numbers from zero to one, including zero but not including one
 
 You can also combine two operands with *[ce'o\](/glossary/#01                                                   
 
@@ -2211,9 +2099,7 @@ The two types of interaction between tenses and logical connectives are logicall
 | .ije | la         | .artr. | ba         | nolraitru              |
 | And  | that-named | Arthur | \[future\] | is-a-noblest-governor. |
 
-|                                               |
-| --------------------------------------------- |
-| Arthur was a king, and Arthur will be a king. |
+Arthur was a king, and Arthur will be a king.
 
 can be reduced to:
 
@@ -2224,9 +2110,7 @@ can be reduced to:
 | la         | .artr. | pu       | je  | ba         | nolraitru              |
 | That-named | Arthur | \[past\] | and | \[future\] | is-a-noblest-governor. |
 
-|                              |
-| ---------------------------- |
-| Arthur was and will be king. |
+Arthur was and will be king.
 
 [Example 14.155](/chapter14/#example-14155 "Example 14.155.") and [Example 14.156](/chapter14/#example-14156 "Example 14.156.") are equivalent in meaning; neither says anything about whether Arthur is king now.
 
@@ -2239,9 +2123,7 @@ Non-logical connection with joiks is also possible between tenses:
 | mi  | pu       | bi'o        | ba         | vasxu    |
 | I   | \[past\] | from-...-to | \[future\] | breathe. |
 
-|                                                 |
-| ----------------------------------------------- |
-| I breathe from a past time until a future time. |
+I breathe from a past time until a future time.
 
 The full tense system makes more interesting tense intervals expressible, such as “from a medium time ago until a long time from now”.
 
@@ -2289,9 +2171,7 @@ Between an ek (or joik) and *[bo](/glossary/#bo)*, as in:
 | la         | .djan | .e  | cabo             | la         | .alis. | klama | le  | zarci   |
 | That-named | John  | and | \[simultaneous\] | that-named | Alice  | go-to | the | market. |
 
-|                                                 |
-| ----------------------------------------------- |
-| John and Alice go to the market simultaneously. |
+John and Alice go to the market simultaneously.
 
 Between an ek (or joik) and *[ke](/glossary/#ke)*, as in:
 
@@ -2307,9 +2187,7 @@ Between an ek (or joik) and *[ke](/glossary/#ke)*, as in:
 | ke  | le  | zdani | .a  | le  | ckule  | \[ke'e\] |
 | (   | the | house | or  | the | school | ).       |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| I walk to the market and, before that, to the house or the school. |
+I walk to the market and, before that, to the house or the school.
 
 Between a gihek and *[bo](/glossary/#bo)*, as in:
 
@@ -2325,9 +2203,7 @@ Between a gihek and *[bo](/glossary/#bo)*, as in:
 | lebna | lo   | rupnu          | vau | do           |
 | take  | some | currency-units |     | from/to-you. |
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| I give you the book and then take some dollars (pounds, yen) from you. |
+I give you the book and then take some dollars (pounds, yen) from you.
 
 Between a gihek and *[ke](/glossary/#ke)*, as in:
 
@@ -2343,9 +2219,7 @@ Between a gihek and *[ke](/glossary/#ke)*, as in:
 | ke  | cusku   | zo'e      | la            | djan. | \[ke'e\] |
 | (   | express | something | to-that-named | John. | )        |
 
-|                                                         |
-| ------------------------------------------------------- |
-| I walk to the market and at the same time talk to John. |
+I walk to the market and at the same time talk to John.
 
 Between an ijek (or ijoik) and *[bo](/glossary/#bo)*, as in:
 
@@ -2356,9 +2230,7 @@ Between an ijek (or ijoik) and *[bo](/glossary/#bo)*, as in:
 | mi  | viska | pa  | nanmu | .ije | babo      | mi  | viska | pa  | ninmu  |
 | I   | see   | a   | man.  | And  | \[later\] | I   | see   | a   | woman. |
 
-|                                      |
-| ------------------------------------ |
-| I see a man, and then I see a woman. |
+I see a man, and then I see a woman.
 
 Between an ijek (or ijoik) and *[tu'e](/glossary/#tue)*, as in:
 
@@ -2369,9 +2241,7 @@ Between an ijek (or ijoik) and *[tu'e](/glossary/#tue)*, as in:
 | mi  | viska | pa  | nanmu | .ije | batu'e    | mi  | viska | pa  | ninmu  | \[tu'u\] |
 | I   | see   | a   | man.  | And  | \[later\] | I   | see   | a   | woman. |          |
 
-|                                      |
-| ------------------------------------ |
-| I see a man, and then I see a woman. |
+I see a man, and then I see a woman.
 
 And finally, between a jek (or joik) and *[bo](/glossary/#bo)*, as in:
 
@@ -2382,9 +2252,7 @@ And finally, between a jek (or joik) and *[bo](/glossary/#bo)*, as in:
 | mi  | mikce       | jebabo        | ricfu |
 | I   | am-a-doctor | and-\[later\] | rich  |
 
-|                                       |
-| ------------------------------------- |
-| I am a doctor and future rich person. |
+I am a doctor and future rich person.
 
 As can be seen from [Example 14.165](/chapter14/#example-14165 "Example 14.165.") and [Example 14.166](/chapter14/#example-14166 "Example 14.166."), the choice between *[bo](/glossary/#bo)* and *[ke](/glossary/#ke)* (or *[tu'e](/glossary/#tue)*) is arbitrary when there are only two things to be connected. If there were no tense information to include, of course neither would be required; it is only the rule that tense information must always be sandwiched between the logical connective and a following *[bo](/glossary/#bo)*, *[ke](/glossary/#ke)*, or *[tu'e](/glossary/#tue)* that requires the use of one of these grouping cmavo in [Example 14.161](/chapter14/#example-14161 "Example 14.161.") and [Example 14.163](/chapter14/#example-14163 "Example 14.163.") through [Example 14.167](/chapter14/#example-14167 "Example 14.167.").
 
@@ -2397,9 +2265,7 @@ Non-logical connectives with *[bo](/glossary/#bo)* and *[ke](/glossary/#ke)* can
 | vei | ci  | .ebabo         | vo  | \[ve'o\] | tadni    | cu  | zvati  | le  | kumfa |
 | (   | 3   | and-\[future\] | 4   | )        | students |     | are-at | the | room. |
 
-|                                                   |
-| ------------------------------------------------- |
-| Three and, later, four students were in the room. |
+Three and, later, four students were in the room.
 
 is a simple example. There is a special grammatical rule for use when a tense applies to both of the selbri in a forethought bridi-tail connection: the entire forethought construction can just be preceded by a tense. For example:
 
@@ -2410,9 +2276,7 @@ is a simple example. There is a special grammatical rule for use when a tense ap
 | mi  | pu       | ge   | klama | le  | zarci  | gi  | tervecnu | lo   | cidja |
 | I   | \[past\] | both | go-to | the | market | and | buy      | some | food  |
 
-|                                            |
-| ------------------------------------------ |
-| I went to the market and bought some food. |
+I went to the market and bought some food.
 
 [Example 14.169](/chapter14/#example-14169 "Example 14.169.") is similar to [Example 14.159](/chapter14/#example-14159 "Example 14.159."). There is no time relationship specified between the going and the buying; both are simply set in the past.
 
@@ -2455,9 +2319,7 @@ Logical connectives and abstraction are related in another way as well, though. 
 | cu  | zvati  | gi'onai | na     | zvati | vau | la         | .iupiter. |
 |     | (is-at | or-else | is-not | at)   |     | that-named | Jupiter.  |
 
-|                                                     |
-| --------------------------------------------------- |
-| I believe there either is or isn't life on Jupiter. |
+I believe there either is or isn't life on Jupiter.
 
 is true, since the embedded sentence is a tautology, but:
 

@@ -16,15 +16,11 @@
     "script": "tsx mod/script.ts",
     "generate-pack": "astro build && pnpm pack --pack-destination pkg"
   },
-  "dependencies": {
+  "devDependencies": {
     "@tailwindcss/typography": "^0.5.19",
     "@tailwindcss/vite": "^4.1.18",
-    "astro": "^5.16.6",
-    "sharp": "^0.34.5",
-    "tailwindcss": "^4.1.18"
-  },
-  "devDependencies": {
     "@types/node": "^25.0.3",
+    "astro": "^5.16.6",
     "katex": "^0.16.27",
     "rehype-katex": "^7.0.1",
     "rehype-parse": "^9.0.1",
@@ -34,6 +30,8 @@
     "remark-math": "^6.0.0",
     "remark-stringify": "^11.0.0",
     "remark-toc": "^9.0.0",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^4.1.18",
     "tsx": "^4.21.0",
     "typescript": "~5.9.3",
     "unified": "^11.0.5"
