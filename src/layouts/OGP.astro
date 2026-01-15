@@ -1,0 +1,19 @@
+---
+interface Props {
+  readonly title: string;
+  readonly description?: string;
+}
+const { title, description = title } = Astro.props;
+const linkCardUrl = 'https://cll.tktb-tess.dev/link_card.png';
+---
+
+<meta name='description' content={description} />
+<meta property='og:title' content={title} />
+<meta property='og:description' content={description} />
+<meta property='og:url' content='https://cll.tktb-tess.dev' />
+<meta property='og:site_name' content={title} />
+<meta property='og:image' content={linkCardUrl} />
+<meta name='twitter:card' content='summary' />
+<meta name='twitter:title' content={title} />
+<meta name='twitter:description' content={description} />
+<meta name='twitter:image' content={linkCardUrl} />

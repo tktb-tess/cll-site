@@ -4,6 +4,7 @@ import 'katex/dist/katex.min.css';
 import Preloads from './Preloads.astro';
 import XNavigator from '../components/XNavigator.astro';
 import { linkTitles } from '../modules/titles';
+import OGP from './OGP.astro';
 
 interface Props {
   readonly title: string;
@@ -43,6 +44,7 @@ const next =
     />
 
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
+    <OGP title='The Complete Lojban Language' />
     <title>{title}</title>
   </head>
   <body>
