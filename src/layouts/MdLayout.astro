@@ -17,18 +17,16 @@ const url = (() => {
   return url ? url : '/';
 })();
 
-const gifs = import.meta.glob('../assets/*.gif', { eager: true }) as Record<
-  string,
-  ImageMetadata | undefined
->;
-
-const gif = gifs[`../assets/${url.slice(1, -1)}.gif`];
-const alt = (() => {
-  const numS = url.match(/\d+/)?.[0];
-  if (!numS) return;
-  const num = Number.parseInt(numS);
+const imgData = await (async () => {
+  const s = url.slice(1, -1);
+  const isChapter = s.includes('chapter');
+  if (!isChapter) return;
+  const gif: ImageMetadata = (await import(`../assets/${s}.gif`)).default;
+  const str = s.match(/\d+/)?.[0];
+  if (!str) return;
+  const num = Number.parseInt(str);
   if (!Number.isFinite(num)) return;
-  return `The picture for chapter ${num}`;
+  return { gif, alt: `The picture for chapter ${num}` };
 })();
 
 const contents: H2Content[] = [];
@@ -91,7 +89,7 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Layout title={frontmatter.title} {url}>
-  {gif && <Image src={gif} alt={alt ?? 'no data'} />}
+  {imgData && <Image src={imgData.gif} alt={imgData.alt} />}
   <Toc {contents} />
   <slot />
 </Layout>
