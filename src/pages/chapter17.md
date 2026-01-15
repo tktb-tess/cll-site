@@ -5,8 +5,6 @@ title: 'Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses'
 
 ![The picture for chapter 17](../assets/chapter17.gif)
 
-## Table of Contents
-
 ## 17.1. What's a letteral, anyway?
 
 James Cooke Brown, the founder of the Loglan Project, coined the word “letteral” (by analogy with “numeral”) to mean a letter of the alphabet, such as “f” or “z”. A typical example of its use might be

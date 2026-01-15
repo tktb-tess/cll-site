@@ -5,8 +5,6 @@ title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban 
 
 ![The picture for chapter 5](../assets/chapter05.gif)
 
-## Table of Contents
-
 ## 5.1. Lojban content words: brivla
 
 At the center, logically and often physically, of every Lojban bridi is one or more words which constitute the selbri. A bridi expresses a relationship between things: the selbri specifies which relationship is referred to. The difference between:
@@ -1561,7 +1559,6 @@ It is also possible to have more than one *[na](/glossary/#na)*, in which case p
 |     |     |     |       |     |       |
 | --- | --- | --- | ----- | --- | ----- |
 | mi  | na  | na  | klama | le  | zarci |
-
 
 It is false that it is false that I go to the market.  
 I go to the market.

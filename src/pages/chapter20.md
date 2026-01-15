@@ -5,8 +5,6 @@ title: 'Chapter 20. A Catalogue of selma''o'
 
 ![The picture for chapter 20](../assets/chapter20.gif)
 
-## Table of Contents
-
 ## 20.1. A Catalogue Of selma'o
 
 The following paragraphs list all the selma'o of Lojban, with a brief explanation of what each one is about, and reference to the chapter number where each is explained more fully. As usual, all selma'o names are given in capital letters (with “h” serving as the capital of “'”) and are the names of a representative cmavo, often the most important or the first in alphabetical order. One example is given of each selma'o: for selma'o which have several uses, the most common use is shown.
@@ -805,7 +803,6 @@ Creates a mathematical operator from a selbri. Terminated by [TEhU](/chapter20/#
 | vei | pai | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
 | (   | π   | /    | 2   | )        | =   | the-number | infinity. |
 
-
 - $\tan{\frac{\pi}{2}} = \infty$
 
 ##### selma'o NIhE ([Section 18.18](/chapter18/#1818-using-lojban-resources-within-mekso "18.18. Using Lojban resources within mekso"))
@@ -1192,7 +1189,6 @@ Elidable terminator for [VEI](/chapter20/#selmao-vei-section-185): right mathema
 | two | \[priority\] | times | “n” | plus | 1.  |
 
 - $(n + 1)(n + 1) = n^{2} + 2n + 1$
-
 
 ##### selma'o VIhA ([Section 10.7](/chapter10/#107-dimensionality-viha "10.7. Dimensionality: VIhA"))
 

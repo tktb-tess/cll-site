@@ -5,8 +5,6 @@ title: 'Chapter 6. To Speak Of Many Things: The Lojban sumti'
 
 ![The picture for chapter 6](../assets/chapter06.gif)
 
-## Table of Contents
-
 ## 6.1. The five kinds of simple sumti
 
 If you understand anything about Lojban, you know what a sumti is by now, right? An argument, one of those things that fills the places of simple Lojban sentences like:

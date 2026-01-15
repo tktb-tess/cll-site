@@ -5,8 +5,6 @@ title: 'Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic
 
 ![The picture for chapter 16](../assets/chapter16.gif)
 
-## Table of Contents
-
 ## 16.1. What's wrong with this picture?
 
 The following brief dialogue is from *Chapter 7* of *Through The Looking Glass* by Lewis Carroll.

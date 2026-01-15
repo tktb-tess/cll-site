@@ -14,6 +14,7 @@
     "build-preview": "astro build && astro preview",
     "astro": "astro",
     "script": "tsx mod/script.ts",
+    "move": "mv .arc/out/* -t src/pages/",
     "generate-pack": "astro build && pnpm pack --pack-destination pkg"
   },
   "devDependencies": {
