@@ -75,8 +75,8 @@
       @apply my-6;
     }
 
-    :where(blockquote p:first-of-type):before {
-      content: '';
+    :where(blockquote p:first-of-type):is(::before, ::after) {
+      content: none;
     }
   }
 }

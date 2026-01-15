@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
 ---
 
-![The picture for chapter 18](../assets/chapter18.gif)
-
 ## 18.1. Introductory
 
 lojbau mekso (“Lojbanic mathematical-expression”) is the part of the Lojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:
@@ -1501,7 +1499,6 @@ Here is a more complex example:
 | ---------- | ----- | ----- | ------ | ------- | ------ | ----- | ------- | ---- | ------ | ---------- | ------- |
 | li         | fu'a  | reboi | ci     | pi'i    | voboi  | mu    | pi'i    | su'i | du     | li         | rexa    |
 | the-number | (RP!) | (two, | three, | times), | (four, | five, | times), | plus | equals | the-number | two-six |
-
 
 Here the operands of the first *[pi'i](/glossary/#pii)* are *[re](/glossary/#re)* and *[ci](/glossary/#ci)*; the operands of the second *[pi'i](/glossary/#pii)* are *[vo](/glossary/#vo)* and *[mu](/glossary/#mu)* (with *[boi](/glossary/#boi)* inserted where needed), and the operands of the *[su'i](/glossary/#sui)* are *reboi ci pi'i*, or 6, and *voboi mu pi'i*, or 20. As you can see, it is easy to get lost in the world of reverse Polish notation; on the other hand, it is especially easy for a mechanical listener (who has a deep mental stack and doesn't get lost) to comprehend.
 

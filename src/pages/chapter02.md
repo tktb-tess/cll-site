@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 2. A Quick Tour of Lojban Grammar, With Diagrams'
 ---
 
-![The picture for chapter 2](../assets/chapter02.gif)
-
 ## 2.1. The concept of the bridi
 
 This chapter gives diagrammed examples of basic Lojban sentence structures. The most general pattern is covered first, followed by successive variations on the basic components of the Lojban sentence. There are many more capabilities not covered in this chapter, but covered in detail in later chapters, so this chapter is a “quick tour” of the material later covered more slowly throughout the book. It also introduces most of the Lojban words used to discuss Lojban grammar.

@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators'
 ---
 
-![The picture for chapter 13](../assets/chapter13.gif)
-
 ## 13.1. What are attitudinal indicators?
 
 This chapter explains the various words that Lojban provides for expressing attitude and related notions. In natural languages, attitudes are usually expressed by the tone of voice when speaking, and (very imperfectly) by punctuation when writing. For example, the bare words

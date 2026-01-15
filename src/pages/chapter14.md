@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 14. If Wishes Were Horses: The Lojban Connective System'
 ---
 
-![The picture for chapter 14](../assets/chapter14.gif)
-
 ## 14.1. Logical connection and truth tables
 
 Lojban is a logical language: the name of the language itself means “logical language”. The fundamentals of ordinary logic (there are variant logics, which aren't addressed in this book) include the notions of a “sentence” (sometimes called a “statement” or “proposition”), which asserts a truth or falsehood, and a small set of “truth functions”, which combine two sentences to create a new sentence. The truth functions have the special characteristic that the truth value (that is, the truth or falsehood) of the results depends only on the truth value of the component sentences. For example,

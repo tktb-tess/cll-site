@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
-import remarkToc from 'remark-toc';
 
 export default defineConfig({
   vite: {
@@ -14,7 +13,7 @@ export default defineConfig({
   },
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [[remarkToc, { heading: 'table of contents', maxDepth: 4 }], remarkMath],
+    remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex],
     smartypants: false,
   },

@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 5. “Pretty Little Girls’ School”: The Structure Of Lojban selbri'
 ---
 
-![The picture for chapter 5](../assets/chapter05.gif)
-
 ## 5.1. Lojban content words: brivla
 
 At the center, logically and often physically, of every Lojban bridi is one or more words which constitute the selbri. A bridi expresses a relationship between things: the selbri specifies which relationship is referred to. The difference between:
@@ -31,7 +29,7 @@ You are my father.
 
 lies in the different selbri.
 
-The simplest kind of selbri is a single Lojban content word: a brivla. There are three different varieties of brivla: those which are built into the language (the gismu), those which are derived from combinations of the gismu (the lujvo), and those which are taken (usually in a modified form) from other languages (the fu'ivla). In addition, there are a few cmavo that can act like brivla; these are mentioned in [Section 5.9](/chapter05/#59-other-kinds-of-simple-selbri "5.9. Other kinds of simple selbri"), and discussed in full in [Chapter 7](chapter-anaphoric-cmavo.html "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").
+The simplest kind of selbri is a single Lojban content word: a brivla. There are three different varieties of brivla: those which are built into the language (the gismu), those which are derived from combinations of the gismu (the lujvo), and those which are taken (usually in a modified form) from other languages (the fu'ivla). In addition, there are a few cmavo that can act like brivla; these are mentioned in [Section 5.9](/chapter05/#59-other-kinds-of-simple-selbri "5.9. Other kinds of simple selbri"), and discussed in full in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").
 
 For the purposes of this chapter, however, all brivla are alike. For example,
 
@@ -681,7 +679,7 @@ The following cmavo are discussed in this section:
 | bei  | BEI  | linked sumti separator  |
 | be'o | BEhO | linked sumti terminator |
 
-The question of the place structures of selbri has been glossed over so far. This chapter does not attempt to treat place structure issues in detail; they are discussed in [Chapter 9](chapter-sumti-tcita.html "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"). One grammatical structure related to places belongs here, however. In simple sentences such as [Example 5.1](/chapter05/#example-51 "Example 5.1."), the place structure of the selbri is simply the defined place structure of the gismu *[mamta](/glossary/#mamta)* . What about more complex selbri?
+The question of the place structures of selbri has been glossed over so far. This chapter does not attempt to treat place structure issues in detail; they are discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"). One grammatical structure related to places belongs here, however. In simple sentences such as [Example 5.1](/chapter05/#example-51 "Example 5.1."), the place structure of the selbri is simply the defined place structure of the gismu *[mamta](/glossary/#mamta)* . What about more complex selbri?
 
 For tanru, the place structure rule is simple: the place structure of a tanru is always the place structure of its tertau. Thus, the place structure of *blanu zdani* is that of *[zdani](/glossary/#zdani)* : the x1 place is a house or nest, and the x2 place is its occupants.
 
@@ -830,7 +828,7 @@ The meaning of [Example 5.71](/chapter05/#example-571 "Example 5.71.") is slight
 
 That is a blue house, as I see it.
 
-See discussions in [Chapter 9](chapter-sumti-tcita.html "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals") of modals and in [Chapter 10](chapter-tenses.html "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System") of tenses for more explanations.
+See discussions in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals") of modals and in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System") of tenses for more explanations.
 
 The terminator *[be'o](/glossary/#beo)* is almost always elidable: however, if the selbri belongs to a description, then a relative clause following it will attach to the last linked sumti unless *[be'o](/glossary/#beo)* is used, in which case it will attach to the outer description:
 
@@ -848,7 +846,7 @@ The terminator *[be'o](/glossary/#beo)* is almost always elidable: however, if t
 | le  | xamgu       | be  | do  | be'o | noi    | barda     | cu  | zdani      |
 | The | (good-thing | for | you | )    | (which | is-large) |     | is-a-house |
 
-(Relative clauses are explained in [Chapter 8](chapter-relative-clauses.html "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated").)
+(Relative clauses are explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated").)
 
 In other cases, however, *[be'o](/glossary/#beo)* cannot be elided if *[ku](/glossary/#ku)* has also been elided:
 
@@ -917,7 +915,7 @@ Note that in Lojban “trying to go” is expressed using *[troci](/glossary/#tr
 
 Any sumti which precede a selbri with an inverted tanru fill the places of the selbri (i.e., the places of the tertau) in the ordinary way. In [Example 5.79](/chapter05/#example-579 "Example 5.79."), *[mi](/glossary/#mi)* fills the x1 place of *troci co klama*, which is the x1 place of *[troci](/glossary/#troci)* . The other places of the selbri remain unfilled. The trailing sumti *le zarci* and *le zdani* do not occupy selbri places, despite appearances.
 
-As a result, the regular mechanisms (involving selma'o VOhA and GOhI, explained in [Chapter 7](chapter-anaphoric-cmavo.html "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi")) for referring to individual sumti of a bridi cannot refer to any of the trailing places of [Example 5.79](/chapter05/#example-579 "Example 5.79."), because they are not really “sumti of the bridi” at all.
+As a result, the regular mechanisms (involving selma'o VOhA and GOhI, explained in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi")) for referring to individual sumti of a bridi cannot refer to any of the trailing places of [Example 5.79](/chapter05/#example-579 "Example 5.79."), because they are not really “sumti of the bridi” at all.
 
 When inverting a more complex tanru, it is possible to invert it only at the most general modifier-modified pair. The only possible inversion of [Example 5.19](/chapter05/#example-519 "Example 5.19."), for instance, is:
 
@@ -1026,7 +1024,7 @@ The following cmavo are discussed in this section:
 | nu   | NU   | event abstraction                 |
 | kei  | KEI  | terminator for NU                 |
 
-So far we have only discussed brivla and tanru built up from brivla as possible selbri. In fact, there are a few other constructions in Lojban which are grammatically equivalent to brivla: they can be used either directly as selbri, or as components in tanru. Some of these types of simple selbri are discussed at length in [Chapter 7](chapter-anaphoric-cmavo.html "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"), [Chapter 11](chapter-abstractions.html "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"), and [Chapter 18](chapter-mekso.html "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"); but for completeness these types are mentioned here with a brief explanation and an example of their use in selbri.
+So far we have only discussed brivla and tanru built up from brivla as possible selbri. In fact, there are a few other constructions in Lojban which are grammatically equivalent to brivla: they can be used either directly as selbri, or as components in tanru. Some of these types of simple selbri are discussed at length in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"), [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"), and [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"); but for completeness these types are mentioned here with a brief explanation and an example of their use in selbri.
 
 The cmavo of selma'o GOhA (with one exception) serve as pro-bridi, providing a reference to the content of other bridi; none of them has a fixed meaning. The most commonly used member of GOhA is probably *[go'i](/glossary/#goi)* , which amounts to a repetition of the previous bridi, or part of it. If I say:
 
@@ -1063,7 +1061,7 @@ The exceptional member of GOhA is *[du](/glossary/#du)* , which represents the r
 
 > x1 is identical with x2, x3, ...
 
-for as many places as are given. More information on selma'o GOhA is available in [Chapter 7](chapter-anaphoric-cmavo.html "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").
+for as many places as are given. More information on selma'o GOhA is available in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").
 
 Lojban mathematical expressions (mekso) can be incorporated into selbri in two different ways. Mathematical operators such as *[su'i](/glossary/#sui)* , meaning “plus”, can be transformed into selbri by prefixing them with *[nu'a](/glossary/#nua)* (of selma'o NUhA). The resulting place structure is:
 
@@ -1114,7 +1112,7 @@ Preem Palver is the first speaker.
 
 Anyi and Asun are two brothers.
 
-Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator *[kei](/glossary/#kei)* of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Lojban whose full ramifications are documented in [Chapter 11](chapter-abstractions.html "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"). A few examples:
+Finally, an important type of simple selbri which is not a brivla is the abstraction. Grammatically, abstractions are simple: a cmavo of selma'o NU, followed by a bridi, followed by the elidable terminator *[kei](/glossary/#kei)* of selma'o KEI. Semantically, abstractions are an extremely subtle and powerful feature of Lojban whose full ramifications are documented in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction"). A few examples:
 
 ##### Example 5.96.
 
@@ -1224,7 +1222,7 @@ It is common to use *[me](/glossary/#me)* selbri, especially those based on name
 
 That is a Chrysler car.
 
-The elidable terminator *[me'u](/glossary/#meu)* can usually be omitted. It is absolutely required only if the *[me](/glossary/#me)* selbri is being used in an indefinite description (a type of sumti explained in [Section 6.8](/chapter06/#68-indefinite-descriptions "6.8. Indefinite descriptions")), and if the indefinite description is followed by a relative clause (explained in [Chapter 8](chapter-relative-clauses.html "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated")) or a sumti logical connective (explained in [Section 14.6](/chapter14/#146-sumti-connection "14.6. sumti connection")). Without a *[me'u](/glossary/#meu)* , the relative clause or logical connective would appear to belong to the sumti embedded in the *[me](/glossary/#me)* expression. Here is a contrasting pair of sentences:
+The elidable terminator *[me'u](/glossary/#meu)* can usually be omitted. It is absolutely required only if the *[me](/glossary/#me)* selbri is being used in an indefinite description (a type of sumti explained in [Section 6.8](/chapter06/#68-indefinite-descriptions "6.8. Indefinite descriptions")), and if the indefinite description is followed by a relative clause (explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated")) or a sumti logical connective (explained in [Section 14.6](/chapter14/#146-sumti-connection "14.6. sumti connection")). Without a *[me'u](/glossary/#meu)* , the relative clause or logical connective would appear to belong to the sumti embedded in the *[me](/glossary/#me)* expression. Here is a contrasting pair of sentences:
 
 ##### Example 5.105.
 
@@ -1361,7 +1359,7 @@ There is an alternative type of conversion, using the cmavo *[jai](/glossary/#ja
 
 ## 5.12. Scalar negation of selbri
 
-Negation is too large and complex a topic to explain fully in this chapter; see [Chapter 15](chapter-negation.html "Chapter 15. “No” Problems: On Lojban Negation"). In brief, there are two main types of negation in Lojban. This section is concerned with so-called “scalar negation”, which is used to state that a true relation between the sumti is something other than what the selbri specifies. Scalar negation is expressed by cmavo of selma'o NAhE:
+Negation is too large and complex a topic to explain fully in this chapter; see [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). In brief, there are two main types of negation in Lojban. This section is concerned with so-called “scalar negation”, which is used to state that a true relation between the sumti is something other than what the selbri specifies. Scalar negation is expressed by cmavo of selma'o NAhE:
 
 ##### Example 5.116.
 
@@ -1536,7 +1534,7 @@ A bridi can have cmavo associated with it which specify the time, place, or mode
 
 I went to the market.
 
-the cmavo *[pu](/glossary/#pu)* specifies that the action of the speaker going to the market takes place in the past. Tenses are explained in full detail in [Chapter 10](chapter-tenses.html "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System"). Tense is semantically a property of the entire bridi; however, the usual syntax for tenses attaches them at the front of the selbri, as in [Example 5.127](/chapter05/#example-5127 "Example 5.127."). There are alternative ways of expressing tense information as well. Modals, which are explained in [Chapter 9](chapter-sumti-tcita.html "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"), behave in the same way as tenses.
+the cmavo *[pu](/glossary/#pu)* specifies that the action of the speaker going to the market takes place in the past. Tenses are explained in full detail in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System"). Tense is semantically a property of the entire bridi; however, the usual syntax for tenses attaches them at the front of the selbri, as in [Example 5.127](/chapter05/#example-5127 "Example 5.127."). There are alternative ways of expressing tense information as well. Modals, which are explained in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals"), behave in the same way as tenses.
 
 Similarly, a bridi may have the particle *[na](/glossary/#na)* (of selma'o NA) attached to the beginning of the selbri to negate the bridi. A negated bridi expresses what is false without saying anything about what is true. Do not confuse this usage with the scalar negation of [Section 5.12](/chapter05/#512-scalar-negation-of-selbri "5.12. Scalar negation of selbri"). For example:
 
@@ -1550,7 +1548,7 @@ Similarly, a bridi may have the particle *[na](/glossary/#na)* (of selma'o NA) a
 It is not true that Jones is the first speaker.
 | Jones isn't the first speaker. |
 
-Jones may be the second speaker, or not a speaker at all; [Example 5.128](/chapter05/#example-5128 "Example 5.128.") doesn't say. There are other ways of expressing bridi negation as well; the topic is explained fully in [Chapter 15](chapter-negation.html "Chapter 15. “No” Problems: On Lojban Negation").
+Jones may be the second speaker, or not a speaker at all; [Example 5.128](/chapter05/#example-5128 "Example 5.128.") doesn't say. There are other ways of expressing bridi negation as well; the topic is explained fully in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation").
 
 Various combinations of tense and bridi negation cmavo are permitted. If both are expressed, either order is permissible with no change in meaning:
 
@@ -1574,7 +1572,7 @@ It is also possible to have more than one *[na](/glossary/#na)* , in which case 
 It is false that it is false that I go to the market.
 | I go to the market. |
 
-It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](chapter-tenses.html "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
+It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
 
 ##### Example 5.131.
 
@@ -2581,5 +2579,4 @@ thing which is beautiful and is a small school and a girls' school
 | pretty | and | ((  | little | and | girl) | and | school | )        |
 
 thing which is beautiful, small, a girl, and a school
-
 

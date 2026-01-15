@@ -1,9 +1,10 @@
 ---
 import '../styles/globals.css';
-import type { MarkdownLayoutProps } from 'astro';
+import type { ImageMetadata, MarkdownLayoutProps } from 'astro';
 import Layout from './Layout.astro';
 import Toc from '../components/Toc.astro';
-import type { H2Content, H3Content, H4Content } from '../components/Toc.astro';
+import type { H2Content } from '../components/Toc.astro';
+import { Image } from 'astro:assets';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -14,6 +15,18 @@ const { frontmatter, headings } = Astro.props;
 const url = (() => {
   const { url } = Astro.props;
   return url ? url : '/';
+})();
+
+const imgData = await (async () => {
+  const s = url.slice(1, -1);
+  const isChapter = s.includes('chapter');
+  if (!isChapter) return;
+  const gif: ImageMetadata = (await import(`../assets/${s}.gif`)).default;
+  const str = s.match(/\d+/)?.[0];
+  if (!str) return;
+  const num = Number.parseInt(str);
+  if (!Number.isFinite(num)) return;
+  return { gif, alt: `The picture for chapter ${num}` };
 })();
 
 const contents: H2Content[] = [];
@@ -76,6 +89,7 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Layout title={frontmatter.title} {url}>
+  {imgData && <Image src={imgData.gif} alt={imgData.alt} />}
   <Toc {contents} />
   <slot />
 </Layout>
