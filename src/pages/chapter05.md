@@ -2491,7 +2491,7 @@ beautiful school for small girls
 |        |         |          |     |       |         |        |          |
 | ------ | ------- | -------- | --- | ----- | ------- | ------ | -------- |
 | melbi  | ke      | cmalu    | je  | nixli |         | ckule  | \[ke'e\] |
-| pretty | type-of | ((little | and | girl) | type-of | school |          |
+| pretty | type-of | ((little | and | girl) | type-of | school | )        |
 
 beautiful school for things which are small and are girls
 
@@ -2552,4 +2552,3 @@ thing which is beautiful and is a small school and a girls' school
 | pretty | and | ((  | little | and | girl) | and | school | )        |
 
 thing which is beautiful, small, a girl, and a school
-
