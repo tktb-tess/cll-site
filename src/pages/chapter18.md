@@ -1,7 +1,7 @@
-----
+---
 layout: ../layouts/MdLayout.astro
 title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
-----
+---
 
 ![The picture for chapter 18](../assets/chapter18.gif)
 
