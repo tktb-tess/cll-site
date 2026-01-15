@@ -20,14 +20,21 @@ export type { H2Content, H3Content, H4Content };
 
 interface Props {
   readonly contents: H2Content[];
+  readonly open?: boolean;
 }
 
-const { contents } = Astro.props;
+const { contents, open = false } = Astro.props;
 ---
 
 <h2>Table of Contents</h2>
-<details class="border border-slate-300 dark:border-slate-500 bg-violet-50 dark:bg-violet-950 rounded px-3 py-0.5">
-  <summary class="cursor-pointer user-select-none">Open</summary>
+<details
+  id='toc-details'
+  {open}
+  class='border border-slate-300 dark:border-slate-500 bg-violet-50 dark:bg-violet-950 rounded px-3 py-0.5'
+>
+  <summary class='cursor-pointer user-select-none'>
+    {open ? 'collapse' : 'show'}
+  </summary>
   <ul>
     {
       contents.map((content) => (
@@ -60,3 +67,19 @@ const { contents } = Astro.props;
     }
   </ul>
 </details>
+
+<script>
+  const details = document.getElementById('toc-details') as HTMLDetailsElement;
+  const summary = details.querySelector('summary') as HTMLElement;
+  summary.addEventListener('click', (ev) => {
+    ev.preventDefault();
+    const isOpen = details.open;
+    if (isOpen) {
+      details.open = false;
+      summary.textContent = 'show';
+    } else {
+      details.open = true;
+      summary.textContent = 'collapse';
+    }
+  });
+</script>
