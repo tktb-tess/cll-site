@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction'
 ---
 
-![The picture for chapter 11](../assets/chapter11.gif)
-
 ## 11.1. The syntax of abstraction
 
 The purpose of the feature of Lojban known as “abstraction” is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until [Section 11.2](/chapter11/#112-event-abstraction "11.2. Event abstraction").

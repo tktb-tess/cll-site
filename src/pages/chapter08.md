@@ -3,8 +3,6 @@ layout: ../layouts/MdLayout.astro
 title: 'Chapter 8. Relative Clauses, Which Make sumti Even More Complicated'
 ---
 
-![The picture for chapter 8](../assets/chapter08.gif)
-
 ## 8.1. What are you pointing at?
 
 The following cmavo are discussed in this section:
