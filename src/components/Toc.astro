@@ -7,14 +7,16 @@ interface H4Content {
 interface H3Content {
   readonly text: string;
   readonly url: string;
-  readonly h4?: H4Content[];
+  readonly h4: H4Content[];
 }
 
 interface H2Content {
   readonly text: string;
   readonly url: string;
-  readonly h3?: H3Content[];
+  readonly h3: H3Content[];
 }
+
+export type { H2Content, H3Content, H4Content };
 
 interface Props {
   readonly contents: H2Content[];
@@ -24,8 +26,8 @@ const { contents } = Astro.props;
 ---
 
 <h2>Table of Contents</h2>
-<details>
-  <summary>Open</summary>
+<details class="border border-slate-300 dark:border-slate-500 bg-violet-50 dark:bg-violet-950 rounded px-3 py-0.5">
+  <summary class="cursor-pointer user-select-none">Open</summary>
   <ul>
     {
       contents.map((content) => (
@@ -33,14 +35,14 @@ const { contents } = Astro.props;
           <p>
             <a href={content.url}>{content.text}</a>
           </p>
-          {content.h3 && (
+          {content.h3.length > 0 && (
             <ul>
               {content.h3.map((h3) => (
                 <li>
                   <p>
                     <a href={h3.url}>{h3.text}</a>
                   </p>
-                  {h3.h4 && (
+                  {h3.h4.length > 0 && (
                     <ul>
                       {h3.h4.map((h4) => (
                         <li>
@@ -58,9 +60,3 @@ const { contents } = Astro.props;
     }
   </ul>
 </details>
-
-<style lang="postcss">
-  details {
-    @apply border border-slate-300 dark:border-slate-500 bg-violet-50 dark:bg-violet-950 rounded;
-  }
-</style>
