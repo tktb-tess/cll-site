@@ -5,8 +5,6 @@ title: 'Chapter 19. Putting It All Together: Notes on the Structure of Lojban Te
 
 ![The picture for chapter 19](../assets/chapter19.gif)
 
-## Table of Contents
-
 ## 19.1. Introductory
 
 This chapter is incurably miscellaneous. It describes the cmavo that specify the structure of Lojban texts, from the largest scale (paragraphs) to the smallest (single words). There are fewer examples than are found in other chapters of this book, since the linguistic mechanisms described are generally made use of in conversation or else in long documents.

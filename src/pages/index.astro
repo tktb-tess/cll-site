@@ -2,6 +2,7 @@
 import type { MarkdownHeading } from 'astro';
 import Layout from '../layouts/Layout.astro';
 import { urls } from '../modules/titles';
+import Toc, { type H2Content } from '../components/Toc.astro';
 interface MdProps {
   readonly frontmatter: {
     readonly title: string;
@@ -27,42 +28,25 @@ mds_.sort((a, b) => {
   return aIndex - bIndex;
 });
 
-const mds = mds_.map(({ frontmatter, url, getHeadings }) => {
-  const sections = getHeadings()
-    .filter(({ depth, text }) => depth === 2 && text !== 'Table of Contents')
+const mds: H2Content[] = mds_.map(({ frontmatter, url, getHeadings }) => {
+  const h3 = getHeadings()
+    .filter(({ depth }) => depth === 2)
     .map(({ text, slug }) => {
       return {
-        sectionUrl: `${url}#${slug}`,
-        sectionTitle: text,
+        text,
+        url: `${url}#${slug}`,
+        h4: [],
       };
     });
-  const title = frontmatter.title;
+  const text = frontmatter.title;
   return {
-    title,
+    text,
     url,
-    sections,
+    h3,
   };
 });
 ---
 
 <Layout title='The Complete Lojban Language' url='/'>
-  <h2 id='table-of-contents'>Table of Contents</h2>
-  <ul>
-    {
-      mds.map(({ title, url, sections }) => (
-        <li>
-          <p>
-            <a href={url}>{title}</a>
-          </p>
-          <ul>
-            {sections.map(({ sectionTitle, sectionUrl }) => (
-              <li>
-                <a href={sectionUrl}>{sectionTitle}</a>
-              </li>
-            ))}
-          </ul>
-        </li>
-      ))
-    }
-  </ul>
+  <Toc contents={mds} />
 </Layout>

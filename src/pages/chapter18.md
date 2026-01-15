@@ -5,8 +5,6 @@ title: 'Chapter 18. lojbau mekso: Mathematical Expressions in Lojban'
 
 ![The picture for chapter 18](../assets/chapter18.gif)
 
-## Table of Contents
-
 ## 18.1. Introductory
 
 lojbau mekso (“Lojbanic mathematical-expression”) is the part of the Lojban language that is tailored for expressing statements of a mathematical character, or for adding numerical information to non-mathematical statements. Its formal design goals include:

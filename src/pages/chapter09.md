@@ -5,8 +5,6 @@ title: 'Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land 
 
 ![The picture for chapter 9](../assets/chapter09.gif)
 
-## Table of Contents
-
 ## 9.1. Introductory
 
 The basic type of Lojban sentence is the bridi: a claim by the speaker that certain objects are related in a certain way. The objects are expressed by Lojban grammatical forms called *[sumti](/glossary/#sumti)* ; the relationship is expressed by the Lojban grammatical form called a *[selbri](/glossary/#selbri)* .

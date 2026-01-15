@@ -5,8 +5,6 @@ title: 'Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi'
 
 ![The picture for chapter 7](../assets/chapter07.gif)
 
-## Table of Contents
-
 ## 7.1. What are pro-sumti and pro-bridi? What are they for?
 
 Speakers of Lojban, like speakers of other languages, require mechanisms of abbreviation. If every time we referred to something, we had to express a complete description of it, life would be too short to say what we have to say. In English, we have words called “pronouns” which allow us to replace nouns or noun phrases with shorter terms. An English with no pronouns might look something like this:

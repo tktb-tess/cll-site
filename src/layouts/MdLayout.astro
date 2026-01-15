@@ -2,19 +2,80 @@
 import '../styles/globals.css';
 import type { MarkdownLayoutProps } from 'astro';
 import Layout from './Layout.astro';
+import Toc from '../components/Toc.astro';
+import type { H2Content, H3Content, H4Content } from '../components/Toc.astro';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
   readonly description?: string;
 }>;
 
-const { frontmatter } = Astro.props;
+const { frontmatter, headings } = Astro.props;
 const url = (() => {
   const { url } = Astro.props;
   return url ? url : '/';
 })();
+
+const contents: H2Content[] = [];
+const filtered = headings.filter(({ depth }) => depth < 5);
+
+for (const { depth, text, slug } of filtered) {
+  switch (depth) {
+    case 2: {
+      contents.push({
+        text: text,
+        url: `${url}#${slug}`,
+        h3: [],
+      });
+      break;
+    }
+    case 3: {
+      if (contents.length === 0) {
+        contents.push({
+          text: '',
+          url: '',
+          h3: [],
+        });
+      }
+      const last = contents.at(-1)!;
+      last.h3.push({
+        text: text,
+        url: `${url}#${slug}`,
+        h4: [],
+      });
+      break;
+    }
+    case 4: {
+      if (contents.length === 0) {
+        contents.push({
+          text: '',
+          url: '',
+          h3: [],
+        });
+      }
+      const h2last = contents.at(-1)!;
+      if (h2last.h3.length === 0) {
+        h2last.h3.push({
+          text: '',
+          url: '',
+          h4: [],
+        });
+      }
+      const last = h2last.h3.at(-1)!;
+      last.h4.push({
+        text,
+        url: `${url}#${slug}`,
+      });
+      break;
+    }
+    default: {
+      throw Error('Unexpected heading', { cause: { depth, text, slug } });
+    }
+  }
+}
 ---
 
 <Layout title={frontmatter.title} {url}>
+  <Toc {contents} />
   <slot />
 </Layout>

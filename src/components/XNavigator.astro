@@ -1,0 +1,33 @@
+---
+interface Props {
+  readonly prev: readonly [string, string] | undefined;
+  readonly next: readonly [string, string] | undefined;
+}
+const { prev, next } = Astro.props;
+---
+
+<p class='text-center text-lg font-light'>The Complete Lojban Language</p>
+<div
+  class='flex max-lg:flex-col max-lg:items-center lg:flex-row lg:justify-center lg:gap-4'
+>
+  {
+    prev && (
+      <a class='max-lg:pe-8' href={prev[0]}>
+        &lt;- {prev[1]}
+      </a>
+    )
+  }
+  {
+    next && (
+      <a class='max-lg:ps-8' href={next[0]}>
+        {next[1]} -&gt;
+      </a>
+    )
+  }
+</div>
+<p class='text-center'><a href='/'>Table of Contents</a></p>
+<p class='text-center'>
+  <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
+    Book Info Page
+  </a>
+</p>

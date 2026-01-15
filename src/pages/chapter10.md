@@ -5,8 +5,6 @@ title: 'Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System'
 
 ![The picture for chapter 10](../assets/chapter10.gif)
 
-## Table of Contents
-
 ## 10.1. Introductory
 
 This chapter attempts to document and explain the space/time tense system of Lojban. It does not attempt to answer all questions of the form “How do I say such-and-such (an English tense) in Lojban?” Instead, it explores the Lojban tense system from the inside, attempting to educate the reader into a Lojbanic viewpoint. Once the overall system is understood and the resources that it makes available are familiar, the reader should have some hope of using appropriate tense constructs and being correctly understood.

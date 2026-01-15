@@ -5,8 +5,6 @@ title: 'Chapter 3. The Hills Are Alive With The Sounds Of Lojban'
 
 ![The picture for chapter 3](../assets/chapter03.gif)
 
-## Table of Contents
-
 ## 3.1. Orthography
 
 Lojban is designed so that any properly spoken Lojban utterance can be uniquely transcribed in writing, and any properly written Lojban can be spoken so as to be uniquely reproduced by another person. As a consequence, the standard Lojban orthography must assign to each distinct sound, or phoneme, a unique letter or symbol. Each letter or symbol has only one sound or, more accurately, a limited range of sounds that are permitted pronunciations for that phoneme. Some symbols indicate stress (speech emphasis) and pause, which are also essential to Lojban word recognition. In addition, everything that is represented in other languages by punctuation (when written) or by tone of voice (when spoken) is represented in Lojban by words. These two properties together are known technically as “audio-visual isomorphism”.

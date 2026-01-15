@@ -2,12 +2,13 @@
 import '../styles/globals.css';
 import 'katex/dist/katex.min.css';
 import Preloads from './Preloads.astro';
+import XNavigator from '../components/XNavigator.astro';
 import { linkTitles } from '../modules/titles';
 
 interface Props {
-  title: string;
-  url: string;
-  description?: string;
+  readonly title: string;
+  readonly url: string;
+  readonly description?: string;
 }
 
 const { title, url } = Astro.props;
@@ -47,33 +48,7 @@ const next =
   <body>
     <div id='md-root'>
       <header class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
-        <p class='text-center text-lg font-light'>
-          The Complete Lojban Language
-        </p>
-        <div
-          class='flex max-lg:flex-col max-lg:items-center lg:flex-row lg:justify-center lg:gap-4'
-        >
-          {
-            prev && (
-              <a class='max-lg:pe-8' href={prev[0]}>
-                &lt;- {prev[1]}
-              </a>
-            )
-          }
-          {
-            next && (
-              <a class='max-lg:ps-8' href={next[0]}>
-                {next[1]} -&gt;
-              </a>
-            )
-          }
-        </div>
-        <p class='text-center'><a href='/'>Table of Contents</a></p>
-        <p class='text-center'>
-          <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
-            Book Info Page
-          </a>
-        </p>
+        <XNavigator {prev} {next} />
       </header>
       <hr />
       <main>
@@ -84,33 +59,7 @@ const next =
       </main>
       <hr />
       <footer class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
-        <p class='text-center text-lg font-light'>
-          The Complete Lojban Language
-        </p>
-        <div
-          class='flex max-lg:flex-col max-lg:items-center lg:flex-row lg:justify-center lg:gap-4'
-        >
-          {
-            prev && (
-              <a class='max-lg:pe-8' href={prev[0]}>
-                &lt;- {prev[1]}
-              </a>
-            )
-          }
-          {
-            next && (
-              <a class='max-lg:ps-8' href={next[0]}>
-                {next[1]} -&gt;
-              </a>
-            )
-          }
-        </div>
-        <p class='text-center'><a href='/'>Table of Contents</a></p>
-        <p class='text-center'>
-          <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
-            Book Info Page
-          </a>
-        </p>
+        <XNavigator {prev} {next} />
       </footer>
     </div>
   </body>

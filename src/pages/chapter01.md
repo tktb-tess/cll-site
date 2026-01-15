@@ -5,8 +5,6 @@ title: 'Chapter 1. Lojban As We Mangle It In Lojbanistan: About This Book'
 
 ![The picture for chapter 1](../assets/chapter01.gif)
 
-## Table of Contents
-
 ## 1.1. What is Lojban?
 
 Lojban (pronounced “LOZH-bahn”) is a constructed language. Previous versions of the language were called “Loglan” by Dr. James Cooke Brown, who founded the Loglan Project and started the development of the language in 1955. The goals for the language were first described in the open literature in the article “Loglan”, published in *Scientific American*, June, 1960. Made well-known by that article and by occasional references in science fiction (most notably in Robert Heinlein's novel *The Moon Is A Harsh Mistress*) and computer publications, Loglan and Lojban have been built over four decades by dozens of workers and hundreds of supporters, led since 1987 by The Logical Language Group (who are the publishers of this book).

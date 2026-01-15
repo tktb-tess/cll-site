@@ -5,8 +5,6 @@ title: 'Chapter 15. “No” Problems: On Lojban Negation'
 
 ![The picture for chapter 15](../assets/chapter15.gif)
 
-## Table of Contents
-
 ## 15.1. Introductory
 
 The grammatical expression of negation is a critical part of Lojban's claim to being logical. The problem of negation, simply put, is to come up with a complete definition of the word “not”. For Lojban's unambiguous grammar, this means further that meanings of “not” with different grammatical effect must be different words, and even different grammatical structures.
