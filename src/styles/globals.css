@@ -13,6 +13,7 @@
   html {
     -webkit-tap-highlight-color: revert;
   }
+
   body {
     @apply bg-slate-50 dark:bg-slate-950;
   }
@@ -68,6 +69,10 @@
       ),
     li:where(h5[id*='example'] + ul > li) {
       @apply italic;
+    }
+
+    hr {
+      @apply my-6;
     }
   }
 }

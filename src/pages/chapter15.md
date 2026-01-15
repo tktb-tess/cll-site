@@ -128,9 +128,7 @@ Because of the ambiguity of English “not”, we will use “\[false\]” in th
 | mi  | \[cu\] | na        | ca  | klama         | le  | zarci   |
 | I   |        | \[false\] | now | am-a-go-er-to | the | market. |
 
-|                                   |
-| --------------------------------- |
-| I am not going to the market now. |
+I am not going to the market now.
 
 ##### Example 15.16.
 
@@ -144,9 +142,7 @@ Because of the ambiguity of English “not”, we will use “\[false\]” in th
 | le  | fasygu'e       | cu  | na        | krecau           |
 | the | French-country |     | \[false\] | is-hair-without. |
 
-|                                        |
-| -------------------------------------- |
-| The current king of France isn't bald. |
+The current king of France isn't bald.
 
 ##### Example 15.17.
 
@@ -155,9 +151,7 @@ Because of the ambiguity of English “not”, we will use “\[false\]” in th
 | ti   | na        | barda    | prenu  | co      | melbi         | mi   |
 | This | \[false\] | is-a-big | person | of-type | (beautiful-to | me). |
 
-|                                                 |
-| ----------------------------------------------- |
-| This isn't a big person who is beautiful to me. |
+This isn't a big person who is beautiful to me.
 
 Although there is this fundamental difference between Lojban's internal bridi negation and English negation, we note that in many cases, especially when there are no existential or quantified variables (the cmavo *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* of selma'o KOhA, explained in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")) in the bridi, you can indeed translate Lojban *[na](/glossary/#na)* as “not” (or “isn't” or “doesn't”, as appropriate).
 
@@ -177,9 +171,7 @@ In Lojban, there are several structures that implicitly contain bridi, so that L
 | na         | klama    | le  | nu       | dansu     |
 | (\[false\] | going-to | the | event-of | dancing). |
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| It is not the case that I am happy about it not being the case that I am going to the dance. |
+It is not the case that I am happy about it not being the case that I am going to the dance.
 | I am not happy about not going to the dance.                                                 |
 
 In the previous example, we used internal negations in abstraction bridi; bridi negation may also be found in descriptions within sumti. For example:
@@ -191,9 +183,7 @@ In the previous example, we used internal negations in abstraction bridi; bridi 
 | mi  | nelci      | le                   | na         | melbi       |
 | I   | am-fond-of | the-one-described-as | (\[false\] | beautiful). |
 
-|                                           |
-| ----------------------------------------- |
-| I am fond of the one who isn't beautiful. |
+I am fond of the one who isn't beautiful.
 
 A more extreme (and more indefinite) example is:
 
@@ -209,9 +199,7 @@ A more extreme (and more indefinite) example is:
 | ca          | nolraitru | be  | le  | frasygu'e        |
 | the-current | king      | of  | the | French-country). |
 
-|                                                        |
-| ------------------------------------------------------ |
-| I am fond of one who isn't the current king of France. |
+I am fond of one who isn't the current king of France.
 
 The claim of [Example 15.20](/chapter15/#example-1520 "Example 15.20.") could apply to anyone except a person who is fond of no one at all, since the relation within the description is false for everyone. You cannot readily express these situations in colloquial English.
 
@@ -268,9 +256,7 @@ as:
 | lenu         | le  | karce | cu  | spofu      |
 | the-event-of | the | car   |     | is-broken. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| It is false that: I go to the market because the car is broken. |
+It is false that: I go to the market because the car is broken.
 
 you end up negating too much.
 
@@ -288,9 +274,7 @@ Such mistranslations result from the ambiguity of English compounded by the mess
 | le  | nu       | le   | karce | cu  | spofu          |
 | the | event-of | (the | car   |     | being-broken). |
 
-|                                                          |
-| -------------------------------------------------------- |
-| My not going to the market is because the car is broken. |
+My not going to the market is because the car is broken.
 
 In [Example 15.26](/chapter15/#example-1526 "Example 15.26."), the negation is clearly confined to the event abstraction in the x1 sumti, and does not extend to the whole sentence. The English could also have been expressed by two separate sentences joined by a causal connective (which we'll not go into here).
 
@@ -612,9 +596,7 @@ Consider the following highly problematic sentence:
 | be  | le  | fasygu'e       | cu  | krecau           |
 | of  | the | French-country |     | is-hair-without. |
 
-|                                     |
-| ----------------------------------- |
-| The current King of France is bald. |
+The current King of France is bald.
 
 The selbri *[krecau](/glossary/#krecau)* negates with *[na'e](/glossary/#nae)* as:
 
@@ -630,9 +612,7 @@ The selbri *[krecau](/glossary/#krecau)* negates with *[na'e](/glossary/#nae)* a
 | be  | le  | fasygu'e       | cu  | na'e          | krecau        |
 | of  | the | French-country |     | is-other-than | hair-without. |
 
-|                                                |
-| ---------------------------------------------- |
-| The current King of France is other-than-bald. |
+The current King of France is other-than-bald.
 
 or, as a lujvo:
 
@@ -648,9 +628,7 @@ or, as a lujvo:
 | be  | le  | fasygu'e       | cu  | nalkrecau            |
 | of  | the | French-country |     | is-non-hair-without. |
 
-|                                               |
-| --------------------------------------------- |
-| The current King of France is a non-bald-one. |
+The current King of France is a non-bald-one.
 
 [Example 15.59](/chapter15/#example-1559 "Example 15.59.") and [Example 15.60](/chapter15/#example-1560 "Example 15.60.") express the predicate negation forms using a negation word (*[na'e](/glossary/#nae)*) or rafsi (*-nal-*); yet they make positive assertions about the current King of France; ie., that he is other-than-bald or non-bald. This follows from the close binding of *[na'e](/glossary/#nae)* to the brivla. The lujvo form makes this overt by absorbing the negative marker into the word.
 
@@ -668,9 +646,7 @@ Since there is no current King of France, it is false to say that he is bald, or
 | be  | le  | fasygu'e       | cu  | na        | krecau           |
 | of  | the | French-country |     | \[false\] | is-hair-without. |
 
-|                                                      |
-| ---------------------------------------------------- |
-| It is false that the current King of France is bald. |
+It is false that the current King of France is bald.
 
 Note: *[lo](/glossary/#lo)* is used in these sentences because negation relates to truth conditions. To meaningfully talk about truth conditions in sentences carrying a description, it must be clear that the description actually applies to the referent. A sentence using *[le](/glossary/#le)* instead of *[lo](/glossary/#lo)* can be true even if there is no current king of France, as long as the speaker and the listener agree to describe something as the current king of France. (See the explanations of *[le](/glossary/#le)* in [Section 6.2](/chapter06/#62-the-three-basic-description-types "6.2. The three basic description types").)
 
@@ -783,9 +759,7 @@ Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/gloss
 | ta   | na'e          | melbi      |
 | That | is-other-than | beautiful. |
 
-|                                |
-| ------------------------------ |
-| That is ugly \[in one sense\]. |
+That is ugly \[in one sense\].
 
 ##### Example 15.72.
 
@@ -794,9 +768,7 @@ Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/gloss
 | ta   | no'e         | melbi      |
 | That | is-neutrally | beautiful. |
 
-|                                                              |
-| ------------------------------------------------------------ |
-| That is plain/ordinary-looking (neither ugly nor beautiful). |
+That is plain/ordinary-looking (neither ugly nor beautiful).
 
 ##### Example 15.73.
 
@@ -805,9 +777,7 @@ Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/gloss
 | ta   | to'e           | melbi      |
 | That | is-opposite-of | beautiful. |
 
-|                                   |
-| --------------------------------- |
-| That is ugly/very ugly/repulsive. |
+That is ugly/very ugly/repulsive.
 
 The cmavo *[to'e](/glossary/#toe)* has the assigned rafsi *-tol-* and *-to'e-*; the cmavo *[no'e](/glossary/#noe)* has the assigned rafsi *-nor-* and *-no'e-*. The selbri in [Example 15.71](/chapter15/#example-1571 "Example 15.71.") through [Example 15.73](/chapter15/#example-1573 "Example 15.73.") could be replaced by the lujvo *nalmle*, *normle*, and *[tolmle](/glossary/#tolmle)* respectively.
 
@@ -833,9 +803,7 @@ Let us show examples of each.
 | le  | fasygu'e       | cu  | krecau            |
 | the | French-country |     | are-hair-without. |
 
-|                                    |
-| ---------------------------------- |
-| No current king of France is bald. |
+No current king of France is bald.
 
 Is [Example 15.74](/chapter15/#example-1574 "Example 15.74.") true? Yes, because it merely claims that of the current Kings of France, however many there may be, none are bald, which is plainly true, since there are no such current Kings of France.
 
@@ -853,9 +821,7 @@ Now let us look at the same sentence using *na'ebo* negation:
 | be  | le  | fasygu'e        | cu  | krecau           |
 | of  | the | French-country) |     | is-hair-without. |
 
-|                                                          |
-| -------------------------------------------------------- |
-| Something other than the current King of France is bald. |
+Something other than the current King of France is bald.
 
 [Example 15.75](/chapter15/#example-1575 "Example 15.75.") is true provided that something reasonably describable as “other than a current King of France”, such as the King of Saudi Arabia, or a former King of France, is in fact bald.
 
@@ -868,9 +834,7 @@ In place of *na'ebo*, you may also use *no'ebo* and *to'ebo*, to be more specifi
 | mi  | klama | to'ebo          | la         | bastn.  |
 | I   | go-to | the-opposite-of | that-named | Boston. |
 
-|                |
-| -------------- |
-| I go to Perth. |
+I go to Perth.
 
 (Boston and Perth are nearly, but not quite, antipodal cities. In a purely United States context, San Francisco might be a better “opposite”.) Coming up with good examples is difficult, because attaching *to'ebo* to a description sumti is usually the same as attaching *[to'e](/glossary/#toe)* to the selbri of the description.
 
@@ -893,9 +857,7 @@ When attached to tenses and modals (see [Section 9.13](/chapter09/#913-modal-neg
 | mi  | na        | pu       | klama | le  | zarci  |
 | I   | \[false\] | \[past\] | go-to | the | store. |
 
-|                           |
-| ------------------------- |
-| I didn't go to the store. |
+I didn't go to the store.
 
 and
 
@@ -906,9 +868,7 @@ and
 | mi  | punai        | klama | le  | zarci  |
 | I   | \[past-not\] | go-to | the | store. |
 
-|                           |
-| ------------------------- |
-| I didn't go to the store. |
+I didn't go to the store.
 
 mean exactly the same thing, although there may be a difference of emphasis.
 
@@ -964,9 +924,7 @@ The straightforward negative answer is grammatically equivalent to the expanded 
 | na        | go'i                |
 | \[false\] | \[repeat-previous\] |
 
-|     |
-| --- |
-| No. |
+No.
 
 which means
 
@@ -982,9 +940,7 @@ which means
 | la         | paris. | .e  | la         | rom.  |
 | that-named | Paris  | and | that-named | Rome. |
 
-|                                                 |
-| ----------------------------------------------- |
-| It's not true that John went to Paris and Rome. |
+It's not true that John went to Paris and Rome.
 
 The respondent can change the tense, putting the *[na](/glossary/#na)* in either before or after the new tense:
 
@@ -1009,9 +965,7 @@ meaning
 | la         | paris. | .e  | la         | rom.  |
 | that-named | Paris  | and | that-named | Rome. |
 
-|                                                  |
-| ------------------------------------------------ |
-| It is false that John will go to Paris and Rome. |
+It is false that John will go to Paris and Rome.
 
 or alternatively
 
@@ -1092,13 +1046,9 @@ The obvious, but incorrect, positive response to this negative question is:
 
 ##### Example 15.91.
 
-|      |
-| ---- |
-| go'i |
+go'i
 
-|                     |
-| ------------------- |
-| \[repeat-previous\] |
+\[repeat-previous\]
 
 A plain *[go'i](/glossary/#goi)* does not mean “Yes it is”; it merely abbreviates repeating the previous statement unmodified, including any negators present; and [Example 15.91](/chapter15/#example-1591 "Example 15.91.") actually states that it is false that John went to both Paris and Rome.
 
@@ -1124,9 +1074,7 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 | ja'a     | go'i                |
 | \[true\] | \[repeat-previous\] |
 
-|                                |
-| ------------------------------ |
-| John did go to Paris and Rome. |
+John did go to Paris and Rome.
 
 *[ja'a](/glossary/#jaa)* can replace *[na](/glossary/#na)* in a similar manner wherever the latter is used:
 
@@ -1137,9 +1085,7 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 | mi  | ja'a     | klama | le  | zarci |
 | I   | \[true\] | go-to | the | store |
 
-|                           |
-| ------------------------- |
-| I indeed go to the store. |
+I indeed go to the store.
 
 *[je'a](/glossary/#jea)* can replace *[na'e](/glossary/#nae)* in exactly the same way, stating that scalar negation does not apply, and that the relation indeed holds as stated. In the absence of a negation context, it emphasizes the positive:
 
@@ -1288,9 +1234,7 @@ Note that metalinguistic negation gives us another kind of legitimate negative a
 | do  | rapydarxi      | ledo | fetspe         |
 | you | repeat-hitting | your | female-spouse? |
 
-|                                     |
-| ----------------------------------- |
-| Have you stopped beating your wife? |
+Have you stopped beating your wife?
 
 Responses could include:
 
@@ -1301,9 +1245,7 @@ Responses could include:
 | na'i                        | go'i                |
 | \[metalinguistic-negation\] | \[repeat-previous\] |
 
-|                                                    |
-| -------------------------------------------------- |
-| The bridi as a whole is inappropriate in some way. |
+The bridi as a whole is inappropriate in some way.
 
 ##### Example 15.112.
 
@@ -1312,9 +1254,7 @@ Responses could include:
 | go'i                | na'i                        |
 | \[repeat-previous\] | \[metalinguistic-negation\] |
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| The selbri (*[sisti](/glossary/#sisti)*) is inappropriate in some way. |
+The selbri (*[sisti](/glossary/#sisti)*) is inappropriate in some way.
 
 One can also specifically qualify the metalinguistic negation, by explicitly repeating the erroneous portion of the bridi to be metalinguistically negated, or adding on of the selma'o BAI qualifiers mentioned above:
 
@@ -1325,9 +1265,7 @@ One can also specifically qualify the metalinguistic negation, by explicitly rep
 | go'i                | ji'una'iku               |
 | \[repeat-previous\] | \[presupposition-wrong\] |
 
-|                                                       |
-| ----------------------------------------------------- |
-| Some presupposition is wrong with the previous bridi. |
+Some presupposition is wrong with the previous bridi.
 
 Finally, one may metalinguistically affirm a bridi with *[jo'a](/glossary/#joa)*, another cmavo of selma'o UI. A common use for *[jo'a](/glossary/#joa)* might be to affirm that a particular construction, though unusual or counterintuitive, is in fact correct; another usage would be to disagree with – by overriding – a respondent's metalinguistic negation.
 

@@ -77,22 +77,16 @@ Note that the lerfu words ending in *y* were written (in [Example 17.2](/chapter
 | mi  | cy.       | claxu   |
 | I   | lerfu-“c” | without |
 
-|                                                           |
-| --------------------------------------------------------- |
-| I am without (whatever is referred to by) the letter “c”. |
+I am without (whatever is referred to by) the letter “c”.
 
 without a pause after *[cy](/glossary/#cy)* would be interpreted as:
 
 ##### Example 17.5.
 
-|                               |
-| ----------------------------- |
-| micyclaxu                     |
+micyclaxu
 | (Observative:)-doctor-without |
 
-|                                            |
-| ------------------------------------------ |
-| Something unspecified is without a doctor. |
+Something unspecified is without a doctor.
 
 A safe guideline is to pause after any cmavo ending in *y* unless the next word is also a cmavo ending in *y*. The safest and easiest guideline is to pause after all of them.
 
@@ -102,13 +96,9 @@ Lojban doesn't use lower-case (small) letters and upper-case (capital) letters i
 
 ##### Example 17.6.
 
-|        |
-| ------ |
-| .iVAN. |
+.iVAN.
 
-|                                                  |
-| ------------------------------------------------ |
-| the name “Ivan” in Russian/Slavic pronunciation. |
+the name “Ivan” in Russian/Slavic pronunciation.
 
 It would require far too many cmavo to assign one for each upper-case and one for each lower-case lerfu, so instead we have two special cmavo *[ga'e](/glossary/#gae)* and *[to'a](/glossary/#toa)* representing upper case and lower case respectively. They belong to the same selma'o as the basic lerfu words, namely BY, and they may be freely interspersed with them.
 
@@ -136,9 +126,7 @@ A likely use of *[tau](/glossary/#tau)* is in the internationally standardized s
 | tau              | sy. |
 | \[single-shift\] | S   |
 
-|                                |
-| ------------------------------ |
-| S (chemical symbol for sulfur) |
+S (chemical symbol for sulfur)
 
 ##### Example 17.9.
 
@@ -147,9 +135,7 @@ A likely use of *[tau](/glossary/#tau)* is in the internationally standardized s
 | tau              | sy. | .ibu |
 | \[single-shift\] | S   | i    |
 
-|                                  |
-| -------------------------------- |
-| Si (chemical symbol for silicon) |
+Si (chemical symbol for silicon)
 
 If a shift to upper-case is in effect when *[tau](/glossary/#tau)* appears, it shifts the next lerfu word only to lower case, reversing its usual effect.
 
@@ -166,9 +152,7 @@ Formally, *[bu](/glossary/#bu)* may be attached to any single Lojban word. Compo
 | zo       | bu   |
 | the-word | “bu” |
 
-|               |
-| ------------- |
-| the word “bu” |
+the word “bu”
 
 is needed when discussing *[bu](/glossary/#bu)* in Lojban. It is also illegal to attach *[bu](/glossary/#bu)* to itself, but more than one *[bu](/glossary/#bu)* may be attached to a word; thus *.abubu* is legal, if ugly. (Its meaning is not defined, but it is presumably different from *[.abu](/glossary/#abu)*.) It does not matter if the word is a cmavo, a cmene, or a brivla. All such words suffixed by *[bu](/glossary/#bu)* are treated grammatically as if they were cmavo belonging to selma'o BY. However, if the word is a cmene it is always necessary to precede and follow it by a pause, because otherwise the cmene may absorb preceding or following words.
 
@@ -232,33 +216,21 @@ The cmavo *[zai](/glossary/#zai)* (of selma'o LAU) is used to create shift words
 
 ##### Example 17.12.
 
-|                    |
-| ------------------ |
-| zai .devanagar. bu |
+zai .devanagar. bu
 
-|                             |
-| --------------------------- |
-| Devanagari (Hindi) alphabet |
+Devanagari (Hindi) alphabet
 
 ##### Example 17.13.
 
-|                  |
-| ---------------- |
-| zai .katakan. bu |
+zai .katakan. bu
 
-|                             |
-| --------------------------- |
-| Japanese katakana syllabary |
+Japanese katakana syllabary
 
 ##### Example 17.14.
 
-|                  |
-| ---------------- |
-| zai .xiragan. bu |
+zai .xiragan. bu
 
-|                             |
-| --------------------------- |
-| Japanese hiragana syllabary |
+Japanese hiragana syllabary
 
 Unlike the cmavo above, these shift words have not been standardized and probably will not be until someone actually has a need for them. (Note the *.* characters marking leading and following pauses.)
 
@@ -266,33 +238,21 @@ In addition, there may be multiple visible representations within a single alpha
 
 ##### Example 17.15.
 
-|                      |
-| -------------------- |
-| ce'a .xelveticas. bu |
+ce'a .xelveticas. bu
 
-|                |
-| -------------- |
-| Helvetica font |
+Helvetica font
 
 ##### Example 17.16.
 
-|                   |
-| ----------------- |
-| ce'a .xancisk. bu |
+ce'a .xancisk. bu
 
-|             |
-| ----------- |
-| handwriting |
+handwriting
 
 ##### Example 17.17.
 
-|                  |
-| ---------------- |
-| ce'a .pavrel. bu |
+ce'a .pavrel. bu
 
-|                    |
-| ------------------ |
-| 12-point font size |
+12-point font size
 
 The cmavo *[na'a](/glossary/#naa)* (of selma'o BY) is a universal shift-word cancel: it returns the interpretation of lerfu words to the default of lower-case Lojban with no specific font. It is more general than *[lo'a](/glossary/#loa)*, which changes the alphabet only, potentially leaving font and case shifts in place.
 
@@ -367,13 +327,9 @@ A lerfu string may be used as a pro-sumti (a sumti which refers to some previous
 
 ##### Example 17.21.
 
-|                |
-| -------------- |
-| .abu prami by. |
+.abu prami by.
 
-|           |
-| --------- |
-| A loves B |
+A loves B
 
 In [Example 17.21](/chapter17/#example-1721 "Example 17.21."), *[.abu](/glossary/#abu)* and *[by.](/glossary/#by)* represent specific sumti, but which sumti they represent must be inferred from context.
 
@@ -381,25 +337,17 @@ Alternatively, lerfu strings may be assigned by *[goi](/glossary/#goi)*, the reg
 
 ##### Example 17.22.
 
-|                                                 |
-| ----------------------------------------------- |
-| le gerku goi gy. cu xekri .i gy. klama le zdani |
+le gerku goi gy. cu xekri .i gy. klama le zdani
 
-|                                               |
-| --------------------------------------------- |
-| The dog, or G, is black. G goes to the house. |
+The dog, or G, is black. G goes to the house.
 
 There is a special rule that sometimes makes lerfu strings more advantageous than the regular pro-sumti cmavo. If no assignment can be found for a lerfu string (especially a single lerfu word), it can be assumed to refer to the most recent sumti whose name or description begins in Lojban with that lerfu. So [Example 17.22](/chapter17/#example-1722 "Example 17.22.") can be rephrased:
 
 ##### Example 17.23.
 
-|                                          |
-| ---------------------------------------- |
-| le gerku cu xekri. .i gy. klama le zdani |
+le gerku cu xekri. .i gy. klama le zdani
 
-|                                        |
-| -------------------------------------- |
-| The dog is black. G goes to the house. |
+The dog is black. G goes to the house.
 
 (A less literal English translation would use “D” for “dog” instead.)
 
@@ -437,13 +385,9 @@ Does this mean that A gives B to C? No. *by. cy.* is a single lerfu string, alth
 
 ##### Example 17.26.
 
-|                                        |
-| -------------------------------------- |
-| .abu \[boi\] dunda by. boi cy. \[boi\] |
+.abu \[boi\] dunda by. boi cy. \[boi\]
 
-|                |
-| -------------- |
-| A gives B to C |
+A gives B to C
 
 where the two occurrences of *[boi](/glossary/#boi)* in brackets are elidable, but the remaining occurrence is not. Likewise:
 
@@ -454,9 +398,7 @@ where the two occurrences of *[boi](/glossary/#boi)* in brackets are elidable, b
 | xy. | boi | ro  | \[boi\] | prenu   | cu  | prami  |
 | X   |     | all |         | persons |     | loves. |
 
-|                    |
-| ------------------ |
-| X loves everybody. |
+X loves everybody.
 
 requires the first *[boi](/glossary/#boi)* to separate the lerfu string *[xy.](/glossary/#xy)* from the digit string *[ro](/glossary/#ro)*.
 
@@ -479,9 +421,7 @@ the hearer would try to find what previous sumti *[.abu](/glossary/#abu)* refers
 | ---- | ---- | --- | ----- |
 | me'o | .abu | cu  | lerfu |
 
-|                                   |
-| --------------------------------- |
-| The-expression “a” is-a-letteral. |
+The-expression “a” is-a-letteral.
 
 Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1.") into Lojban:
 
@@ -492,9 +432,7 @@ Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1.") int
 | dei           | vasru    | vo   | lerfu     | po'u      | me'o           | .ebu |
 | this-sentence | contains | four | letterals | which-are | the-expression | “e”  |
 
-|                                    |
-| ---------------------------------- |
-| This sentence contains four “e” s. |
+This sentence contains four “e” s.
 
 Since the Lojban sentence has only four *e* lerfu rather than fourteen, the translation is not a literal one – but [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is a Lojban truth just as [Example 17.1](/chapter17/#example-171 "Example 17.1.") is an English truth. Coincidentally, the colloquial English translation of [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is also true!
 
@@ -537,9 +475,7 @@ This chapter is not about Lojban mathematics, which is explained in [Chapter 18]
 | li         | .abu | du     | li         | by. | su'i | cy. |
 | the-number | a    | equals | the-number | b   | plus | c   |
 
-|           |
-| --------- |
-| a = b + c |
+a = b + c
 
 - A lerfu string as function name (preceded by *[ma'o](/glossary/#mao)* of selma'o MAhO):
 
@@ -562,21 +498,15 @@ Note the *[boi](/glossary/#boi)* here to separate the lerfu strings *[fy](/gloss
 | le  | vi   | ratcu | ny.moi    | le'i       | mi  | ratcu |
 | the | here | rat   | is-nth-of | the-set-of | my  | rats  |
 
-|                         |
-| ----------------------- |
-| This rat is my Nth rat. |
+This rat is my Nth rat.
 
 - A lerfu string as utterance ordinal (followed by a cmavo of selma'o MAI):
 
 ##### Example 17.37.
 
-|        |
-| ------ |
-| ny.mai |
+ny.mai
 
-|       |
-| ----- |
-| Nthly |
+Nthly
 
 - A lerfu string as subscript (preceded by *[xi](/glossary/#xi)* of selma'o XI):
 
@@ -610,21 +540,13 @@ In Lojban, a name can be almost any sequence of sounds that ends in a consonant 
 
 ##### Example 17.40.
 
-|                                                       |
-| ----------------------------------------------------- |
-| la dyny'abub. .i la ny'abuty'obub. .i la cy'ibu'abub. |
+la dyny'abub. .i la ny'abuty'obub. .i la cy'ibu'abub.
 
-|                 |
-| --------------- |
-| DNA. NATO. CIA. |
+DNA. NATO. CIA.
 
-|                                                      |
-| ---------------------------------------------------- |
-| … .i la sykybulyl. .i la .ibubymym. .i la ny'ybucyc. |
+… .i la sykybulyl. .i la .ibubymym. .i la ny'ybucyc.
 
-|                  |
-| ---------------- |
-| … SQL. IBM. NYC. |
+… SQL. IBM. NYC.
 
 There is no fixed convention for assigning the final consonant. In [Example 17.40](/chapter17/#example-1740 "Example 17.40."), the last consonant of the lerfu string has been replicated into final position.
 
@@ -632,21 +554,13 @@ Some compression can be done by leaving out *[bu](/glossary/#bu)* after vowel le
 
 ##### Example 17.41.
 
-|                                             |
-| ------------------------------------------- |
-| la dyny'am. .i la ny'aty'om. .i la cy'i'am. |
+la dyny'am. .i la ny'aty'om. .i la cy'i'am.
 
-|                 |
-| --------------- |
-| DNA. NATO. CIA. |
+DNA. NATO. CIA.
 
-|                                                    |
-| -------------------------------------------------- |
-| … .i la sykybulym. .i la .ibymym. .i la ny'ybucym. |
+… .i la sykybulym. .i la .ibymym. .i la ny'ybucym.
 
-|                  |
-| ---------------- |
-| … SQL. IBM. NYC. |
+… SQL. IBM. NYC.
 
 In [Example 17.41](/chapter17/#example-1741 "Example 17.41."), the final consonant *m* stands for *[merko](/glossary/#merko)*, indicating the source culture of these acronyms.
 
@@ -654,21 +568,13 @@ Another approach, which some may find easier to say and which is compatible with
 
 ##### Example 17.42.
 
-|                                             |
-| ------------------------------------------- |
-| la dynyzaz. .i la nyzatyzoz. .i la cyzizaz. |
+la dynyzaz. .i la nyzatyzoz. .i la cyzizaz.
 
-|                 |
-| --------------- |
-| DNA. NATO. CIA. |
+DNA. NATO. CIA.
 
-|                                                    |
-| -------------------------------------------------- |
-| … .i la sykybulyz. .i la .ibymyz. .i la nyzybucyz. |
+… .i la sykybulyz. .i la .ibymyz. .i la nyzybucyz.
 
-|                  |
-| ---------------- |
-| … SQL. IBM. NYC. |
+… SQL. IBM. NYC.
 
 One more alternative to these lengthy names is to use the lerfu string itself prefixed with *[me](/glossary/#me)*, the cmavo that makes sumti into selbri:
 
@@ -688,9 +594,7 @@ This works because *[la](/glossary/#la)*, the cmavo that normally introduces nam
 | la         | cribe  | cu  | ciska   |
 | That-named | “Bear” |     | writes. |
 
-|                   |
-| ----------------- |
-| Bear is a writer. |
+Bear is a writer.
 
 [Example 17.44](/chapter17/#example-1744 "Example 17.44.") does not of course refer to a bear (*le cribe* or *lo cribe*) but to something else, probably a person, named “Bear”. Similarly, *me dy ny. .abu* is a predicate which can be used as a name, producing a kind of acronym which can have pauses between the individual lerfu words.
 
@@ -710,9 +614,7 @@ Since the first application of computers to non-numerical information, character
 | loi             | merko    | rupnu           |
 | for-the-mass-of | American | currency-units. |
 
-|                                                             |
-| ----------------------------------------------------------- |
-| The character code 36 in ASCII represents American dollars. |
+The character code 36 in ASCII represents American dollars.
 | “$” represents American dollars.                            |
 
 Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45.") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/#see)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.

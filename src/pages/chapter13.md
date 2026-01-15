@@ -100,9 +100,7 @@ Here are some typical uses of the *u* attitudinals:
 | .ua         | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Eureka!\] | I   | found-out | about | the | of-me | hat.  |
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| \[Eureka!\] I found my hat! \[emphasizes the discovery of the hat\] |
+\[Eureka!\] I found my hat! \[emphasizes the discovery of the hat\]
 
 ##### Example 13.8.
 
@@ -111,9 +109,7 @@ Here are some typical uses of the *u* attitudinals:
 | .u'a      | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Gain!\] | I   | found-out | about | the | of-me | hat.  |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| \[Gain!\] I found my hat! \[emphasizes the obtaining of the hat\] |
+\[Gain!\] I found my hat! \[emphasizes the obtaining of the hat\]
 
 ##### Example 13.9.
 
@@ -122,9 +118,7 @@ Here are some typical uses of the *u* attitudinals:
 | .ui      | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Yay!\] | I   | found-out | about | the | of-me | hat.  |
 
-|                                                                  |
-| ---------------------------------------------------------------- |
-| \[Yay!\] I found my hat! \[emphasizes the feeling of happiness\] |
+\[Yay!\] I found my hat! \[emphasizes the feeling of happiness\]
 
 ##### Example 13.10.
 
@@ -133,9 +127,7 @@ Here are some typical uses of the *u* attitudinals:
 | .uo          | mi  | facki     | fi    | le  | mi    | mapku |
 | \[At-last!\] | I   | found-out | about | the | of-me | hat.  |
 
-|                                                                          |
-| ------------------------------------------------------------------------ |
-| \[At last!\] I found my hat! \[emphasizes that the finding is complete\] |
+\[At last!\] I found my hat! \[emphasizes that the finding is complete\]
 
 ##### Example 13.11.
 
@@ -144,9 +136,7 @@ Here are some typical uses of the *u* attitudinals:
 | .uu       | do  | cortu      |
 | \[Pity!\] | you | feel-pain. |
 
-|                                                           |
-| --------------------------------------------------------- |
-| \[Pity!\] you feel pain. \[expresses speaker's sympathy\] |
+\[Pity!\] you feel pain. \[expresses speaker's sympathy\]
 
 ##### Example 13.12.
 
@@ -155,9 +145,7 @@ Here are some typical uses of the *u* attitudinals:
 | .u'u            | do  | cortu      |
 | \[Repentance!\] | you | feel-pain. |
 
-|                                                                        |
-| ---------------------------------------------------------------------- |
-| \[Repentance!\] you feel pain. \[expresses that speaker feels guilty\] |
+\[Repentance!\] you feel pain. \[expresses that speaker feels guilty\]
 
 In [Example 13.10](/chapter13/#example-1310 "Example 13.10."), note that the attitudinal *[.uo](/glossary/#uo)* is translated by an English non-attitudinal phrase: “At last!” It is common for the English equivalents of Lojban attitudinals to be short phrases of this sort, with more or less normal grammar, but actually expressions of emotion.
 
@@ -266,9 +254,7 @@ Here are some examples:
 | .ii       | smacu                     |
 | \[Fear!\] | \[Observative:\]-a-mouse! |
 
-|               |
-| ------------- |
-| Eek! A mouse! |
+Eek! A mouse!
 
 ##### Example 13.22.
 
@@ -330,9 +316,7 @@ Some examples (of a parental kind):
 | .a'a          | do  | zgana   | le  | veltivni             |
 | \[attentive\] | you | observe | the | television-receiver. |
 
-|                                            |
-| ------------------------------------------ |
-| I'm noticing that you are watching the TV. |
+I'm noticing that you are watching the TV.
 
 ##### Example 13.26.
 
@@ -341,9 +325,7 @@ Some examples (of a parental kind):
 | .a'enai        | do  | ranji        | bacru  |
 | \[exhaustion\] | you | continuously | utter. |
 
-|                                          |
-| ---------------------------------------- |
-| I'm worn out by your continuous talking. |
+I'm worn out by your continuous talking.
 
 ##### Example 13.27.
 
@@ -352,9 +334,7 @@ Some examples (of a parental kind):
 | .ai        | mi  | benji    | do  | le     | ckana |
 | \[intent\] | I   | transfer | you | to-the | bed.  |
 
-|                         |
-| ----------------------- |
-| I'm putting you to bed. |
+I'm putting you to bed.
 
 ##### Example 13.28.
 
@@ -363,9 +343,7 @@ Some examples (of a parental kind):
 | .a'i       | mi  | ba         | gasnu           | le  | nu       | do  | cikna    | binxo   |
 | \[effort\] | I   | \[future\] | am-the-actor-in | the | event-of | you | awake-ly | become. |
 
-|                                      |
-| ------------------------------------ |
-| It'll be hard for me to wake you up. |
+It'll be hard for me to wake you up.
 
 ##### Example 13.29.
 
@@ -374,9 +352,7 @@ Some examples (of a parental kind):
 | .a'o     | mi  | kanryze'a           | ca      | le  | bavlamdei            |
 | \[hope\] | I   | am-health-increased | at-time | the | future-adjacent-day. |
 
-|                                |
-| ------------------------------ |
-| I hope I feel better tomorrow! |
+I hope I feel better tomorrow!
 
 ##### Example 13.30.
 
@@ -385,9 +361,7 @@ Some examples (of a parental kind):
 | .au        | mi  | sipna  |
 | \[desire\] | I   | sleep. |
 
-|                  |
-| ---------------- |
-| I want to sleep. |
+I want to sleep.
 
 ##### Example 13.31.
 
@@ -396,9 +370,7 @@ Some examples (of a parental kind):
 | .a'ucu'i        | do  | pante     |
 | \[no-interest\] | you | complain. |
 
-|                                        |
-| -------------------------------------- |
-| I have no interest in your complaints. |
+I have no interest in your complaints.
 
 (In a real-life situation, [Example 13.25](/chapter13/#example-1325 "Example 13.25.") through [Example 13.31](/chapter13/#example-1331 "Example 13.31.") would also be decorated by various pure emotion indicators, certainly including *.oicai*, but probably also *.iucai*.)
 
@@ -424,9 +396,7 @@ More examples (after a good night's sleep):
 | .e'a           | do  | sazri | le  | karce |
 | \[permission\] | you | drive | the | car.  |
 
-|                              |
-| ---------------------------- |
-| Sure, you can drive the car. |
+Sure, you can drive the car.
 
 ##### Example 13.33.
 
@@ -435,9 +405,7 @@ More examples (after a good night's sleep):
 | .e'e           | mi  | lifri      | tu'a                 | do   |
 | \[competence\] | I   | experience | something-related-to | you. |
 
-|                                |
-| ------------------------------ |
-| I feel up to dealing with you. |
+I feel up to dealing with you.
 
 ##### Example 13.34.
 
@@ -446,9 +414,7 @@ More examples (after a good night's sleep):
 | .ei            | mi  | tisygau | le  | karce       | ctilyvau             |
 | \[obligation\] | I   | fill    | the | car-type-of | petroleum-container. |
 
-|                                   |
-| --------------------------------- |
-| I should fill the car's gas tank. |
+I should fill the car's gas tank.
 
 ##### Example 13.35.
 
@@ -457,9 +423,7 @@ More examples (after a good night's sleep):
 | .e'o        | ko             | ko                | kurji      |
 | \[request\] | you-imperative | of-you-imperative | take-care. |
 
-|                               |
-| ----------------------------- |
-| Please take care of yourself! |
+Please take care of yourself!
 
 ##### Example 13.36.
 
@@ -468,9 +432,7 @@ More examples (after a good night's sleep):
 | .e'u           | do  | klama | le     | panka |
 | \[suggestion\] | you | go    | to-the | park. |
 
-|                              |
-| ---------------------------- |
-| I suggest going to the park. |
+I suggest going to the park.
 
 Finally, the propositional attitude indicators beginning with *i*, which are the overflow from the other sets:
 
@@ -490,9 +452,7 @@ Still more examples (much, much later):
 | .ianai        | do  | pu       | pensi | le  | nu       | tcica     | mi  |
 | \[disbelief\] | you | \[past\] | think | the | event-of | deceiving | me. |
 
-|                                                |
-| ---------------------------------------------- |
-| I can't believe you thought you could fool me. |
+I can't believe you thought you could fool me.
 
 ##### Example 13.38.
 
@@ -501,9 +461,7 @@ Still more examples (much, much later):
 | do  | .i'anai   | na      | xruti  | do  | le     | zdani  |
 | You | \[blame\] | did-not | return | you | to-the | house. |
 
-|                                  |
-| -------------------------------- |
-| I blame you for not coming home. |
+I blame you for not coming home.
 
 ##### Example 13.39.
 
@@ -517,9 +475,7 @@ Still more examples (much, much later):
 | le  | tcika       | be  | le  | nu       | xruti   |
 | the | time-of-day | of  | the | event-of | return. |
 
-|                                                |
-| ---------------------------------------------- |
-| It's true I didn't tell you when to come back. |
+It's true I didn't tell you when to come back.
 
 ##### Example 13.40.
 
@@ -528,9 +484,7 @@ Still more examples (much, much later):
 | .i'enai         | do  | .i'e         | zukte |
 | \[disapproval\] | you | \[approval\] | act.  |
 
-|                                                        |
-| ------------------------------------------------------ |
-| I don't approve of what you did, but I approve of you. |
+I don't approve of what you did, but I approve of you.
 
 [Example 13.40](/chapter13/#example-1340 "Example 13.40.") illustrates the use of a propositional attitude indicator, *[i'e](/glossary/#ie)*, in both the usual sense (at the beginning of the bridi) and as a pure emotion (attached to *[do](/glossary/#do)*). The event expressed by the main bridi is disapproved of by the speaker, but the referent of the sumti in the x1 place (namely the listener) is approved of.
 
@@ -543,9 +497,7 @@ To indicate that an attitudinal discussed in this section is not meant to indica
 | do  | sazri | le  | karce | .i  | .e'a            |
 | You | drive | the | car.  |     | \[Permission\]. |
 
-|                                                          |
-| -------------------------------------------------------- |
-| You're driving (or will drive) the car, and that's fine. |
+You're driving (or will drive) the car, and that's fine.
 
 ## 13.4. Attitudes as scales
 
@@ -567,74 +519,50 @@ The following shows the variations resulting from intensity variation:
 
 ##### Example 13.42.
 
-|                |
-| -------------- |
-| .ei            |
+.ei
 | \[obligation\] |
 
-|                             |
-| --------------------------- |
-| I ought to                  |
+I ought to
 | (a non-specific obligation) |
 
 ##### Example 13.43.
 
-|                        |
-| ---------------------- |
-| .eicai                 |
+.eicai
 | \[obligation-maximal\] |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| I shall/must                                                  |
+I shall/must
 | (an intense obligation or requirement, possibly a formal one) |
 
 ##### Example 13.44.
 
-|                       |
-| --------------------- |
-| .eisai                |
+.eisai
 | \[obligation-strong\] |
 
-|                                                                                    |
-| ---------------------------------------------------------------------------------- |
-| I should                                                                           |
+I should
 | (a strong obligation or necessity, possibly an implied but not formal requirement) |
 
 ##### Example 13.45.
 
-|                     |
-| ------------------- |
-| .eiru'e             |
+.eiru'e
 | \[obligation-weak\] |
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| I might                                                               |
+I might
 | (a weak obligation in English often mixed with permission and desire) |
 
 ##### Example 13.46.
 
-|                        |
-| ---------------------- |
-| .eicu'i                |
+.eicu'i
 | \[obligation-neutral\] |
 
-|                            |
-| -------------------------- |
-| No matter                  |
+No matter
 | (no particular obligation) |
 
 ##### Example 13.47.
 
-|                    |
-| ------------------ |
-| .einai             |
+.einai
 | \[obligation-not\] |
 
-|                    |
-| ------------------ |
-| I need not         |
+I need not
 | (a non-obligation) |
 
 You can also utter a scale indicator without a specific emotion. This is often used in the language: in order to emphasize a point about which you feel strongly, you mark what you are saying with the scale indicator *[cai](/glossary/#cai)*. You could also indicate that you don't care using *[cu'i](/glossary/#cui)* by itself.
@@ -717,9 +645,7 @@ The cmavo *[ga'i](/glossary/#gai)* expresses the scale used to indicate condesce
 | ko             | ga'inai       | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[low-rank!\] | enter-type-of | come-to | the | of-me | house. |
 
-|                                                     |
-| --------------------------------------------------- |
-| I would be honored if you would enter my residence. |
+I would be honored if you would enter my residence.
 
 Note that imperatives in Lojban need not be imperious! Corresponding examples with *[ga'icu'i](/glossary/#gaicui)* and *[ga'i](/glossary/#gai)*:
 
@@ -730,9 +656,7 @@ Note that imperatives in Lojban need not be imperious! Corresponding examples wi
 | ko             | ga'icu'i        | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[equal-rank!\] | enter-type-of | come-to | the | of-me | house. |
 
-|                         |
-| ----------------------- |
-| Come on in to my place. |
+Come on in to my place.
 
 ##### Example 13.50.
 
@@ -741,9 +665,7 @@ Note that imperatives in Lojban need not be imperious! Corresponding examples wi
 | ko             | ga'i           | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[high-rank!\] | enter-type-of | come-to | the | of-me | house. |
 
-|                  |
-| ---------------- |
-| You! Get inside! |
+You! Get inside!
 
 Since *[ga'i](/glossary/#gai)* expresses the relative rank of the speaker and the referent, it does not make much sense to attach it to *[mi](/glossary/#mi)*, unless the speaker is using *[mi](/glossary/#mi)* to refer to a group (as in English “we”), or a past or future version of himself with a different rank.
 
@@ -756,9 +678,7 @@ It is also possible to attach *[ga'i](/glossary/#gai)* to a whole bridi, in whic
 | ga'i           | le  | xarju | pu       | citka |
 | \[High-rank!\] | the | pig   | \[past\] | eats. |
 
-|                                                    |
-| -------------------------------------------------- |
-| The pig ate (which is an event beneath my notice). |
+The pig ate (which is an event beneath my notice).
 
 When used without being attached to any bridi, *[ga'i](/glossary/#gai)* expresses the speaker's superiority to things in general, which may represent an absolute social rank: *ga'icai* is an appropriate opening word for an emperor's address from the throne.
 
@@ -770,25 +690,17 @@ The cmavo *[se'i](/glossary/#sei)* expresses the difference between selfishness 
 
 ##### Example 13.52.
 
-|                 |
-| --------------- |
-| .ause'i         |
+.ause'i
 | \[desire-self\] |
 
-|            |
-| ---------- |
-| I want it! |
+I want it!
 
 ##### Example 13.53.
 
-|                  |
-| ---------------- |
-| .ause'inai       |
+.ause'inai
 | \[desire-other\] |
 
-|                        |
-| ---------------------- |
-| I want you to have it! |
+I want you to have it!
 
 In both cases, the English “it” is vague, reflecting the absence of a bridi. [Example 13.52](/chapter13/#example-1352 "Example 13.52.") and [Example 13.53](/chapter13/#example-1353 "Example 13.53.") are pure expressions of attitude. Analogously, *.uuse'i* is self-pity, whereas *.uuse'inai* is pity for someone else.
 
@@ -809,9 +721,7 @@ The cmavo *[be'u](/glossary/#beu)* expresses, roughly speaking, whether the emot
 
 ##### Example 13.55.
 
-|                          |
-| ------------------------ |
-| .uiro'obe'unai           |
+.uiro'obe'unai
 | \[Yay-physical-enough!\] |
 
 might be something you say after a large meal which you enjoyed.
@@ -825,61 +735,43 @@ Like all modifiers, *[be'u](/glossary/#beu)* can be used alone:
 | le  | cukta | be'u        | cu  | zvati          | ma              |
 | The | book  | \[Needed!\] |     | is-at-location | \[what-sumti?\] |
 
-|                              |
-| ---------------------------- |
-| Where's the book? I need it! |
+Where's the book? I need it!
 
 Lastly, the modifier *[se'a](/glossary/#sea)* shows whether the feeling is associated with self-sufficiency or with dependence on others.
 
 ##### Example 13.57.
 
-|                            |
-| -------------------------- |
-| .e'ese'a                   |
+.e'ese'a
 | \[I-can-self-sufficient!\] |
 
-|                            |
-| -------------------------- |
-| I can do it all by myself! |
+I can do it all by myself!
 
 is something a Lojban-speaking child might say. On the other hand,
 
 ##### Example 13.58.
 
-|                     |
-| ------------------- |
-| .e'ese'anai         |
+.e'ese'anai
 | \[I-can-dependent\] |
 
-|                             |
-| --------------------------- |
-| I can do it if you help me. |
+I can do it if you help me.
 
 from the same child would indicate a (hopefully temporary) loss of self-confidence. It is also possible to negate the *[e'e](/glossary/#ee)* in [Example 13.54](/chapter13/#example-1354 "Example 13.54.") and [Example 13.55](/chapter13/#example-1355 "Example 13.55."), leading to:
 
 ##### Example 13.59.
 
-|                             |
-| --------------------------- |
-| .e'enaise'a                 |
+.e'enaise'a
 | \[I-can't-self-sufficient\] |
 
-|                                              |
-| -------------------------------------------- |
-| I can't do it if you insist on “helping” me! |
+I can't do it if you insist on “helping” me!
 
 and
 
 ##### Example 13.60.
 
-|                       |
-| --------------------- |
-| .e'enaise'anai        |
+.e'enaise'anai
 | \[I-can't-dependent\] |
 
-|                          |
-| ------------------------ |
-| I can't do it by myself! |
+I can't do it by myself!
 
 Some of the emotional expressions may seem too complicated to use. They might be for most circumstances. It is likely that most combinations will never get used. But if one person uses one of these expressions, another person can understand (as unambiguously as the expresser intends) what emotion is being expressed. Most probably as the system becomes well-known and internalized by Lojban-speakers, particular attitudinal combinations will come to be standard expressions (if not cliches) of emotion.
 
@@ -968,106 +860,72 @@ Most often, however, the asker will use *[pei](/glossary/#pei)* as a place holde
 
 ##### Example 13.64.
 
-|                        |
-| ---------------------- |
-| .iepei                 |
+.iepei
 | \[agreement-question\] |
 
-|               |
-| ------------- |
-| Do you agree? |
+Do you agree?
 
 ##### Example 13.65.
 
-|                               |
-| ----------------------------- |
-| .iare'epei                    |
+.iare'epei
 | \[belief-spiritual-question\] |
 
-|                     |
-| ------------------- |
-| Are you a Believer? |
+Are you a Believer?
 
 ##### Example 13.66.
 
-|                        |
-| ---------------------- |
-| .aipei                 |
+.aipei
 | \[intention-question\] |
 
-|                         |
-| ----------------------- |
-| Are you going to do it? |
+Are you going to do it?
 
 [Example 13.66](/chapter13/#example-1366 "Example 13.66.") might appear at the end of a command, to which the response
 
 ##### Example 13.67.
 
-|                       |
-| --------------------- |
-| .aicai                |
+.aicai
 | \[intention-maximal\] |
 
 corresponds to “Aye! Aye!” (hence the choice of cmavo).
 
 ##### Example 13.68.
 
-|                         |
-| ----------------------- |
-| .e'apei                 |
+.e'apei
 | \[permission-question\] |
 
-|                        |
-| ---------------------- |
-| Please, Mommy! Can I?? |
+Please, Mommy! Can I??
 
 Additionally, when *[pei](/glossary/#pei)* is used at the beginning of an indicator construct, it asks specifically if that construct reflects the attitude of the respondent, as in (asked of someone who has been ill or in pain):
 
 ##### Example 13.69.
 
-|                      |
-| -------------------- |
-| pei.o'u              |
+pei.o'u
 | \[question-comfort\] |
 
-|                      |
-| -------------------- |
-| Are you comfortable? |
+Are you comfortable?
 
 ##### Example 13.70.
 
-|                              |
-| ---------------------------- |
-| pei.o'ucu'i                  |
+pei.o'ucu'i
 | \[question-comfort-neutral\] |
 
-|                            |
-| -------------------------- |
-| Are you no longer in pain? |
+Are you no longer in pain?
 
 ##### Example 13.71.
 
-|                             |
-| --------------------------- |
-| pei.o'usai                  |
+pei.o'usai
 | \[question-comfort-strong\] |
 
-|                        |
-| ---------------------- |
-| Are you again healthy? |
+Are you again healthy?
 
 Empathy, which is not really an emotion, is expressed by the indicator *[dai](/glossary/#dai)*. (Don't confuse empathy with sympathy, which is *.uuse'inai*.) Sometimes, as when telling a story, you want to attribute emotion to someone else. You can of course make a bridi claim that so-and-so felt such-and-such an emotion, but you can also make use of the attitudinal system by adding the indicator *[dai](/glossary/#dai)*, which attributes the preceding attitudinal to someone else – exactly whom, must be determined from context. You can also use *[dai](/glossary/#dai)* conversationally when you empathize, or feel someone else's emotion as if it were your own:
 
 ##### Example 13.72.
 
-|                           |
-| ------------------------- |
-| .oiro'odai                |
+.oiro'odai
 | \[Pain-physical-empathy\] |
 
-|                            |
-| -------------------------- |
-| Ouch, that must have hurt! |
+Ouch, that must have hurt!
 
 It is even possible to “empathize” with a non-living object:
 
@@ -1078,9 +936,7 @@ It is even possible to “empathize” with a non-living object:
 | le  | bloti | .iidai           | .uu       | pu       | klama   | le  | xasloi       |
 | The | ship  | \[fear-empathy\] | \[pity!\] | \[past\] | goes-to | the | ocean-floor. |
 
-|                                       |
-| ------------------------------------- |
-| Fearfully the ship, poor thing, sank. |
+Fearfully the ship, poor thing, sank.
 
 suggesting that the ship felt fear at its impending destruction, and simultaneously reporting the speaker's pity for it.
 
@@ -1097,9 +953,7 @@ When attached to an attitudinal, *[bu'o](/glossary/#buo)* means that you are sta
 | .o'onai    | bu'o              |
 | \[Anger!\] | \[start-emotion\] |
 
-|                    |
-| ------------------ |
-| I'm getting angry! |
+I'm getting angry!
 
 ##### Example 13.75.
 
@@ -1108,9 +962,7 @@ When attached to an attitudinal, *[bu'o](/glossary/#buo)* means that you are sta
 | .iu       | bu'onai         | .uinai           |
 | \[Love!\] | \[end-emotion\] | \[unhappiness!\] |
 
-|                                     |
-| ----------------------------------- |
-| I don't love you any more; I'm sad. |
+I don't love you any more; I'm sad.
 
 Note the difference in effect between [Example 13.75](/chapter13/#example-1375 "Example 13.75.") and:
 
@@ -1121,9 +973,7 @@ Note the difference in effect between [Example 13.75](/chapter13/#example-1375 "
 | mi  | ca          | ba'o          | prami | do  | ja'e        | le  | nu       | mi  | badri    |
 | I   | \[present\] | \[cessitive\] | love  | you | with-result | the | event-of | (I  | am-sad). |
 
-|                                            |
-| ------------------------------------------ |
-| I no longer love you; therefore, I am sad. |
+I no longer love you; therefore, I am sad.
 
 which is a straightforward bridi claim. [Example 13.76](/chapter13/#example-1376 "Example 13.76.") states that you have (or have had) certain emotions; [Example 13.75](/chapter13/#example-1375 "Example 13.75.") expresses those emotions directly.
 
@@ -1175,9 +1025,7 @@ The three scale positions of *[ba'a](/glossary/#baa)*, when attached to a bridi,
 | ba'acu'i          | le  | tuple | be  | mi  | cu  | se cortu              |
 | \[I-experience!\] | the | leg   | of  | me  |     | is-the-locus-of-pain. |
 
-|               |
-| ------------- |
-| My leg hurts. |
+My leg hurts.
 
 A bridi marked by *[su'a](/glossary/#sua)* is a generalization by the speaker based on other (stated or unstated) information or ideas. The difference between *[su'a](/glossary/#sua)* and *[ja'o](/glossary/#jao)* is that *[ja'o](/glossary/#jao)* suggests some sort of reasoning or deduction (not necessarily rigorous), whereas *[su'a](/glossary/#sua)* suggests some sort of induction or pattern recognition from existing examples (not necessarily rigorous).
 
@@ -1194,9 +1042,7 @@ A bridi marked by *[ti'e](/glossary/#tie)* is relayed information from some sour
 | ti'e        | la    | .uengas | cu                  | zergau |
 | \[I-hear!\] | Wenga |         | is-a-criminal-doer. |        |
 
-|                               |
-| ----------------------------- |
-| I hear that Wenga is a crook. |
+I hear that Wenga is a crook.
 
 A bridi marked by *[ka'u](/glossary/#kau)* is one held to be true in the speaker's cultural context, as a matter of myth or custom, for example. Such statements should be agreed on by a community of people – you cannot just make up your own cultural context – although “objectivity” in the sense of actual correspondence with the facts is certainly not required.
 
@@ -1211,9 +1057,7 @@ A bridi marked by *[za'a](/glossary/#zaa)* is based on perception or direct obse
 | za'a           | do  | tatpi      |
 | \[I-observe!\] | you | are-tired. |
 
-|                      |
-| -------------------- |
-| I see you are tired. |
+I see you are tired.
 
 A bridi marked by *[pe'i](/glossary/#pei)* is the opinion of the speaker. The form *pe'ipei* is common, meaning “Is this your opinion?”. (Strictly, this should be *peipe'i*, in accordance with the distinction explained in [Example 13.69](/chapter13/#example-1369 "Example 13.69.") through [Example 13.71](/chapter13/#example-1371 "Example 13.71."), but since *[pe'i](/glossary/#pei)* is not really a scale, there is no real difference between the two orders.)
 
@@ -1224,9 +1068,7 @@ A bridi marked by *[pe'i](/glossary/#pei)* is the opinion of the speaker. The fo
 | pe'i         | la         | kartagos. | .ei            | se daspo      |
 | \[I-opine!\] | that-named | Carthage  | \[obligation\] | is-destroyed. |
 
-|                                              |
-| -------------------------------------------- |
-| In my opinion, Carthage should be destroyed. |
+In my opinion, Carthage should be destroyed.
 
 A bridi marked by *[ru'a](/glossary/#rua)* is an assumption made by the speaker. This is similar to one possible use of *[e'u](/glossary/#eu)*.
 
@@ -1237,9 +1079,7 @@ A bridi marked by *[ru'a](/glossary/#rua)* is an assumption made by the speaker.
 | ru'a          | doi | livinston.   |
 | \[I-presume\] | o   | Livingstone. |
 
-|                                                                               |
-| ----------------------------------------------------------------------------- |
-| Dr. Livingstone, I presume? (A rhetorical question: Stanley knew who he was.) |
+Dr. Livingstone, I presume? (A rhetorical question: Stanley knew who he was.)
 
 Finally, the evidential *[ju'a](/glossary/#jua)* is used to avoid stating a specific basis for a statement. It can also be used when the basis for the speaker's statement is not covered by any other evidential. For the most part, using *[ju'a](/glossary/#jua)* is equivalent to using no evidential at all, but in question form it can be useful: *ju'apei* means “What is the basis for your statement?” and serves as an evidential, as distinct from emotional, question.
 
@@ -1272,9 +1112,7 @@ Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case,
 | mi  | po'o     | darxi | le  | mi    | tamne  | fo       | le  | nazbi |
 | I   | \[only\] | hit   | the | of-me | cousin | at-locus | the | nose. |
 
-|                                                 |
-| ----------------------------------------------- |
-| Only I (nobody else) hit my cousin on his nose. |
+Only I (nobody else) hit my cousin on his nose.
 
 ##### Example 13.84.
 
@@ -1283,9 +1121,7 @@ Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case,
 | mi  | darxi | po'o     | le  | mi    | tamne  | fo       | le  | nazbi |
 | I   | hit   | \[only\] | the | of-me | cousin | at-locus | the | nose. |
 
-|                                                               |
-| ------------------------------------------------------------- |
-| I only hit my cousin on his nose (I did nothing else to him). |
+I only hit my cousin on his nose (I did nothing else to him).
 
 ##### Example 13.85.
 
@@ -1294,9 +1130,7 @@ Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case,
 | mi  | darxi | le  | mi    | tamne  | po'o     | fo       | le  | nazbi |
 | I   | hit   | the | of-me | cousin | \[only\] | at-locus | the | nose. |
 
-|                                                 |
-| ----------------------------------------------- |
-| I hit only my cousin on his nose (no one else). |
+I hit only my cousin on his nose (no one else).
 
 ##### Example 13.86.
 
@@ -1305,9 +1139,7 @@ Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case,
 | mi  | darxi | le  | mi    | tamne  | fo       | le  | nazbi | po'o      |
 | I   | hit   | the | of-me | cousin | at-locus | the | nose  | \[only\]. |
 
-|                                                  |
-| ------------------------------------------------ |
-| I hit my cousin only on his nose (nowhere else). |
+I hit my cousin only on his nose (nowhere else).
 
 Note that “only” can go before or after what it modifies in English, but *[po'o](/glossary/#poo)*, as an indicator, always comes afterward.
 
@@ -1388,9 +1220,7 @@ The discursive *[da'i](/glossary/#dai)* marks the discourse as possibly taking a
 | gi   | ju'o        | do  | djuno | le  | du'u           | ri  | pazvau       |
 | then | \[certain\] | you | know  | the | predication-of | she | is-pregnant. |
 
-|                                                                                 |
-| ------------------------------------------------------------------------------- |
-| If you were to see my younger sister, you would certainly know she is pregnant. |
+If you were to see my younger sister, you would certainly know she is pregnant.
 
 and:
 
@@ -1406,9 +1236,7 @@ and:
 | gi   | ju'o          | do  | djuno | le  | du'u           | ri  | pazvau       |
 | then | \[certainty\] | you | know  | the | predication-of | she | is-pregnant. |
 
-|                                                                         |
-| ----------------------------------------------------------------------- |
-| If you saw my younger sister, you would certainly know she is pregnant. |
+If you saw my younger sister, you would certainly know she is pregnant.
 
 It is also perfectly correct to omit the discursive altogether, and leave the context to indicate which significance is meant. (Chinese always leaves this distinction to the context: the Chinese sentence
 
@@ -1451,9 +1279,7 @@ The cmavo *[ki'a](/glossary/#kia)* is one of the most common of the miscellaneou
 | .i  | le  | ki'a  | ctuca    |
 |     | The | which | teacher? |
 
-|                |
-| -------------- |
-| Which teacher? |
+Which teacher?
 
 Here, the second speaker does not understand the referent of the sumti *le ctuca*, and so echoes back the sumti with the confusion marker.
 
@@ -1482,9 +1308,7 @@ The cmavo *[pe'a](/glossary/#pea)* is the indicator of figurative speech, indica
 | mi  | viska | le  | blanu | pe'a           | zdani  |
 | I   | see   | the | blue  | \[figurative\] | house. |
 
-|                         |
-| ----------------------- |
-| I see the “blue” house. |
+I see the “blue” house.
 
 Here the house is not blue in the sense of color, but in some other sense, whose meaning is entirely culturally dependent. The use of *[pe'a](/glossary/#pea)* unambiguously marks a cultural reference: *[blanu](/glossary/#blanu)* in [Example 13.91](/chapter13/#example-1391 "Example 13.91.") could mean “sad” (as in English) or something completely different.
 
@@ -1521,9 +1345,7 @@ This cmavo is explained in detail in [Section 11.8](/chapter11/#118-indirect-que
 | mi  | djuno | le  | du'u           | dakau                  | klama | le     | zarci  |
 | I   | know  | the | predication-of | somebody-\[indirect?\] | goes  | to-the | store. |
 
-|                               |
-| ----------------------------- |
-| I know who goes to the store. |
+I know who goes to the store.
 
 ## 13.14. Vocative scales
 
@@ -1547,129 +1369,97 @@ All members of selma'o COI require a pause when used immediately before a name, 
 | --- | --------- |
 | coi | greetings |
 
-|                                                                   |
-| ----------------------------------------------------------------- |
-| “Hello, X”; “Greetings, X”; indicates a greeting to the listener. |
+“Hello, X”; “Greetings, X”; indicates a greeting to the listener.
 
 |      |          |
 | ---- | -------- |
 | co'o | partings |
 
-|                                                                                                                                                            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Good-bye, X”; indicates parting from immediate company by either the speaker or the listener. *[coico'o](/glossary/#coicoo)* means “greeting in passing”. |
+“Good-bye, X”; indicates parting from immediate company by either the speaker or the listener. *[coico'o](/glossary/#coicoo)* means “greeting in passing”.
 
 |      |           |           |         |              |
 | ---- | --------- | --------- | ------- | ------------ |
 | ju'i | \[jundi\] | attention | at ease | ignore me/us |
 
-|                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------- |
-| “Attention/Lo/Hark/Behold/Hey!/Listen, X”; indicates an important communication that the listener should listen to. |
+“Attention/Lo/Hark/Behold/Hey!/Listen, X”; indicates an important communication that the listener should listen to.
 
 |      |           |         |                 |             |
 | ---- | --------- | ------- | --------------- | ----------- |
 | nu'e | \[nupre\] | promise | release promise | non-promise |
 
-|                                                                                                                                                         |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “I promise, X”; indicates a promise to the listener. In some contexts, *[nu'e](/glossary/#nue)* may be prefixed to an oath or other formal declaration. |
+“I promise, X”; indicates a promise to the listener. In some contexts, *[nu'e](/glossary/#nue)* may be prefixed to an oath or other formal declaration.
 
 |      |           |              |
 | ---- | --------- | ------------ |
 | ta'a | \[tavla\] | interruption |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “I interrupt, X”, “I desire the floor, X”; a vocative expression to (possibly) interrupt and claim the floor to make a statement or expression. This can be used for both rude and polite interruptions, although rude interruptions will probably tend not to use a vocative at all. An appropriate response to an interruption might be *[re'i](/glossary/#rei)* (or *[re'inai](/glossary/#reinai)* to ignore the interruption). |
+“I interrupt, X”, “I desire the floor, X”; a vocative expression to (possibly) interrupt and claim the floor to make a statement or expression. This can be used for both rude and polite interruptions, although rude interruptions will probably tend not to use a vocative at all. An appropriate response to an interruption might be *[re'i](/glossary/#rei)* (or *[re'inai](/glossary/#reinai)* to ignore the interruption).
 
 |      |           |         |
 | ---- | --------- | ------- |
 | pe'u | \[cpedu\] | request |
 
-|                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| “Please, X”; indicates a request to the listener. It is a formal, non-attitudinal, equivalent of *[e'o](/glossary/#eo)* with a specific recipient being addressed. On the other hand, *[e'o](/glossary/#eo)* may be used when there is no specific listener, but merely a “sense of petition floating in the air”, as it were. |
+“Please, X”; indicates a request to the listener. It is a formal, non-attitudinal, equivalent of *[e'o](/glossary/#eo)* with a specific recipient being addressed. On the other hand, *[e'o](/glossary/#eo)* may be used when there is no specific listener, but merely a “sense of petition floating in the air”, as it were.
 
 |      |           |                         |                              |
 | ---- | --------- | ----------------------- | ---------------------------- |
 | ki'e | \[ckire\] | appreciation; gratitude | disappreciation; ingratitude |
 
-|                                                                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Thank you, X”; indicates appreciation or gratitude toward the listener. The usual response is *[je'e](/glossary/#jee)*, but *[fi'i](/glossary/#fii)* is appropriate on rare occasions: see the explanation of *[fi'i](/glossary/#fii)*. |
+“Thank you, X”; indicates appreciation or gratitude toward the listener. The usual response is *[je'e](/glossary/#jee)*, but *[fi'i](/glossary/#fii)* is appropriate on rare occasions: see the explanation of *[fi'i](/glossary/#fii)*.
 
 |      |           |                   |                          |
 | ---- | --------- | ----------------- | ------------------------ |
 | fi'i | \[friti\] | welcome; offering | unwelcome; inhospitality |
 
-|                                                                                                                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “At your service, X”; “Make yourself at home, X”; offers hospitality (possibly in response to thanks, but not necessarily) to the listener. Note that *[fi'i](/glossary/#fii)* is *not* the equivalent of American English “You're welcome” as a mechanical response to “Thank you”; that is *[je'e](/glossary/#jee)*, as noted below. |
+“At your service, X”; “Make yourself at home, X”; offers hospitality (possibly in response to thanks, but not necessarily) to the listener. Note that *[fi'i](/glossary/#fii)* is *not* the equivalent of American English “You're welcome” as a mechanical response to “Thank you”; that is *[je'e](/glossary/#jee)*, as noted below.
 
 |      |           |                 |
 | ---- | --------- | --------------- |
 | be'e | \[benji\] | request to send |
 
-|                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Request to send to X”; indicates that the speaker wishes to express something, and wishes to ensure that the listener is listening. In a telephone conversation, can be used to request the desired conversant(s). A more colloquial equivalent is “Hello? Can I speak to X?”. |
+“Request to send to X”; indicates that the speaker wishes to express something, and wishes to ensure that the listener is listening. In a telephone conversation, can be used to request the desired conversant(s). A more colloquial equivalent is “Hello? Can I speak to X?”.
 
 |      |           |                  |           |
 | ---- | --------- | ---------------- | --------- |
 | re'i | \[bredi\] | ready to receive | not ready |
 
-|                                                                                                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Ready to receive, X”; indicates that the speaker is attentive and awaiting communication from the listener. It can be used instead of *[mi'e](/glossary/#mie)* to respond when called to the telephone. The negative form can be used to prevent the listener from continuing to talk when the speaker is unable to pay attention: it can be translated “Hold on!” or “Just a minute”. |
+“Ready to receive, X”; indicates that the speaker is attentive and awaiting communication from the listener. It can be used instead of *[mi'e](/glossary/#mie)* to respond when called to the telephone. The negative form can be used to prevent the listener from continuing to talk when the speaker is unable to pay attention: it can be translated “Hold on!” or “Just a minute”.
 
 |      |           |                         |                |
 | ---- | --------- | ----------------------- | -------------- |
 | mu'o | \[mulno\] | completion of utterance | more to follow |
 
-|                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Over, X”; indicates that the speaker has completed the current utterance and is ready to hear a response from the listener. The negative form signals that the pause or non-linguistic sound which follows does not represent the end of the current utterance: more colloquially, “I'm not done talking!” |
+“Over, X”; indicates that the speaker has completed the current utterance and is ready to hear a response from the listener. The negative form signals that the pause or non-linguistic sound which follows does not represent the end of the current utterance: more colloquially, “I'm not done talking!”
 
 |      |           |                    |                      |
 | ---- | --------- | ------------------ | -------------------- |
 | je'e | \[jimpe\] | successful receipt | unsuccessful receipt |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Roger, X!”, “I understand”; acknowledges the successful receipt of a communication from the listener. The negative form indicates failure to receive correctly, and is usually followed by *[ke'o](/glossary/#keo)*. The colloquial English equivalents of *[je'e](/glossary/#jee)* and *[je'enai](/glossary/#jeenai)* are the grunt typically written “uh-huh” and “What?/Excuse me?”. *[je'e](/glossary/#jee)* is also used to mean “You're welcome” when that is a response to “Thank you”. |
+“Roger, X!”, “I understand”; acknowledges the successful receipt of a communication from the listener. The negative form indicates failure to receive correctly, and is usually followed by *[ke'o](/glossary/#keo)*. The colloquial English equivalents of *[je'e](/glossary/#jee)* and *[je'enai](/glossary/#jeenai)* are the grunt typically written “uh-huh” and “What?/Excuse me?”. *[je'e](/glossary/#jee)* is also used to mean “You're welcome” when that is a response to “Thank you”.
 
 |      |     |             |                 |
 | ---- | --- | ----------- | --------------- |
 | vi'o |     | will comply | will not comply |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Wilco, X”, “I understand and will comply”. Similar to *[je'e](/glossary/#jee)* but signals an intention (similar to *[.ai](/glossary/#ai)*) to comply with the other speaker's request. This cmavo is the main way of saying “OK” in Lojban, in the usual sense of “Agreed!”, although *[.ie](/glossary/#ie)* carries some of the same meaning. The negative form indicates that the message was received but that you will not comply: a very colloquial version is “No way!”. |
+“Wilco, X”, “I understand and will comply”. Similar to *[je'e](/glossary/#jee)* but signals an intention (similar to *[.ai](/glossary/#ai)*) to comply with the other speaker's request. This cmavo is the main way of saying “OK” in Lojban, in the usual sense of “Agreed!”, although *[.ie](/glossary/#ie)* carries some of the same meaning. The negative form indicates that the message was received but that you will not comply: a very colloquial version is “No way!”.
 
 |      |           |               |                  |
 | ---- | --------- | ------------- | ---------------- |
 | ke'o | \[krefu\] | please repeat | no repeat needed |
 
-|                                                                                                                                                                                                                                                                                                    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “What did you say, X?”; a request for repetition or clarification due to unsuccessful receipt or understanding. This is the vocative equivalent of *[ki'a](/glossary/#kia)*, and is related to *[je'enai](/glossary/#jeenai)*. The negative form may be rendered “Okay, already; I get the point!” |
+“What did you say, X?”; a request for repetition or clarification due to unsuccessful receipt or understanding. This is the vocative equivalent of *[ki'a](/glossary/#kia)*, and is related to *[je'enai](/glossary/#jeenai)*. The negative form may be rendered “Okay, already; I get the point!”
 
 |      |           |                      |          |
 | ---- | --------- | -------------------- | -------- |
 | fe'o | \[fanmo\] | end of communication | not done |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “Over and out, X”; indicates completion of statement(s) and communication directed at the identified person(s). Used to terminate a letter if a signature is not required because the sender has already been identified (as in memos). The negative form means “Wait, hold it, we're not done!” and differs from *[mu'onai](/glossary/#muonai)* in that it means more exchanges are to follow, rather than that the current exchange is incomplete. Do not confuse *[fe'o](/glossary/#feo)* with *[fa'o](/glossary/#fao)* (selma'o FAhO) which is a mechanical, extra-grammatical signal that a text is complete. One may say *[fe'o](/glossary/#feo)* to one participant of a multi-way conversation and then go on speaking to the others. |
+“Over and out, X”; indicates completion of statement(s) and communication directed at the identified person(s). Used to terminate a letter if a signature is not required because the sender has already been identified (as in memos). The negative form means “Wait, hold it, we're not done!” and differs from *[mu'onai](/glossary/#muonai)* in that it means more exchanges are to follow, rather than that the current exchange is incomplete. Do not confuse *[fe'o](/glossary/#feo)* with *[fa'o](/glossary/#fao)* (selma'o FAhO) which is a mechanical, extra-grammatical signal that a text is complete. One may say *[fe'o](/glossary/#feo)* to one participant of a multi-way conversation and then go on speaking to the others.
 
 |      |               |                     |                    |
 | ---- | ------------- | ------------------- | ------------------ |
 | mi'e | \[cmavo: mi\] | self-identification | non-identification |
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| “And I am X”; a generalized self-vocative. Although grammatically just like the other members of selma'o COI, *[mi'e](/glossary/#mie)* is quite different semantically. In particular, rather than specifying the listener, the person whose name (or description) follows *[mi'e](/glossary/#mie)* is taken to be the speaker. Therefore, using *[mi'e](/glossary/#mie)* specifies the meaning of the pro-sumti *[mi](/glossary/#mi)*. It can be used to introduce oneself, to close letters, or to identify oneself on the telephone. |
+“And I am X”; a generalized self-vocative. Although grammatically just like the other members of selma'o COI, *[mi'e](/glossary/#mie)* is quite different semantically. In particular, rather than specifying the listener, the person whose name (or description) follows *[mi'e](/glossary/#mie)* is taken to be the speaker. Therefore, using *[mi'e](/glossary/#mie)* specifies the meaning of the pro-sumti *[mi](/glossary/#mi)*. It can be used to introduce oneself, to close letters, or to identify oneself on the telephone.
 
 This cmavo is often combined with other members of COI: *fe'omi'e* would be an appropriate closing at the end of a letter; *re'imi'e* would be a self-vocative used in delayed responses, as when called to the phone, or possibly in a roll-call. As long as the *[mi'e](/glossary/#mie)* comes last, the following name is that of the speaker; if another COI cmavo is last, the following name is that of the listener. It is not possible to name both speaker and listener in a single vocative expression, but this fact is of no importance, because wherever one vocative expression is grammatical, any number of consecutive ones may appear.
 
@@ -1686,9 +1476,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | la        | rik. | .e  | la         | .alis. | nerkla | le     | kafybarja   |
 | That-name | Rick | and | that-named | Alice  | in-go  | to-the | coffee-bar. |
 
-|                                        |
-| -------------------------------------- |
-| Rick and Alice go into the coffee bar. |
+Rick and Alice go into the coffee bar.
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1705,9 +1493,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | mi  | ba         | za         | speni        | ti       | .iu       |
 | I   | \[future\] | \[medium\] | am-spouse-to | this-one | \[love\]. |
 
-|                                                                                             |
-| ------------------------------------------------------------------------------------------- |
-| Rick said, “Sorry to break in, everybody. Pretty soon I'm getting married to my love here.” |
+Rick said, “Sorry to break in, everybody. Pretty soon I'm getting married to my love here.”
 
 |     |             |            |         |       |                 |
 | --- | ----------- | ---------- | ------- | ----- | --------------- |
@@ -1719,9 +1505,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | .a'o     | ko                 | gleki      | doi | ma       |
 | \[Hope\] | \[You-imperative\] | are-happy, | O   | \[who?\] |
 
-|                                                 |
-| ----------------------------------------------- |
-| George said, “I hope you'll be happy, um, ...?” |
+George said, “I hope you'll be happy, um, ...?”
 
 |     |             |            |      |       |                 |            |        |
 | --- | ----------- | ---------- | ---- | ----- | --------------- | ---------- | ------ |
@@ -1733,9 +1517,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | xu              | mi  | ba         | terfriti         | le  | nunspenybi'o              |
 | \[Is-it-true?\] | I   | \[future\] | receive-offer-of | the | event-of-spouse-becoming? |
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| Pam said, “Please, Alice, am I going to be invited to the wedding?” |
+Pam said, “Please, Alice, am I going to be invited to the wedding?”
 
 |     |             |            |       |       |                 |
 | --- | ----------- | ---------- | ----- | ----- | --------------- |
@@ -1752,9 +1534,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | a'o      | le  | re  | do     | lifri      | le  | ka          | gleki        |
 | \[Hope\] | the | two | of-you | experience | the | property-of | being-happy. |
 
-|                                                                           |
-| ------------------------------------------------------------------------- |
-| Mark said, “Hello, spouses-to-be. I hope both of you will be very happy.” |
+Mark said, “Hello, spouses-to-be. I hope both of you will be very happy.”
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1766,9 +1546,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | mi'e     | .rik. | doi | terpreti     |
 | \[I-am\] | Rick, | O   | questioners. |
 
-|                                                                  |
-| ---------------------------------------------------------------- |
-| Rick said, “My name is Rick, for those of you who want to know.” |
+Rick said, “My name is Rick, for those of you who want to know.”
 
 |     |             |            |        |       |                 |
 | --- | ----------- | ---------- | ------ | ----- | --------------- |
@@ -1780,9 +1558,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | nu'e           | .pam. | .o'e          | ro'i          | do  | ba         | zvati   |
 | \[Promise-to\] | Pam,  | \[closeness\] | \[emotional\] | you | \[future\] | are-at. |
 
-|                                                     |
-| --------------------------------------------------- |
-| Alice said, “I promise you'll be there, Pam honey.” |
+Alice said, “I promise you'll be there, Pam honey.”
 
 |     |             |            |       |       |                 |
 | --- | ----------- | ---------- | ----- | ----- | --------------- |
@@ -1799,18 +1575,14 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | prami | la         | .alis. | fe'o                | .rik. |
 | love  | that-named | Alice. | \[Over-and-out-to\] | Rick. |
 
-|                                                                    |
-| ------------------------------------------------------------------ |
-| “I love Alice too,” said Fred miserably. “Have a nice life, Rick.” |
+“I love Alice too,” said Fred miserably. “Have a nice life, Rick.”
 
 |     |            |       |         |
 | --- | ---------- | ----- | ------- |
 | .i  | la         | fred. | cliva   |
 |     | that-named | Fred  | leaves. |
 
-|              |
-| ------------ |
-| And he left. |
+And he left.
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1827,9 +1599,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | ko                 | pinxe | pa  | ckafi  | fi'o | pleji | mi  |
 | \[You-imperative\] | drink | one | coffee | with | payer | me. |
 
-|                                                                       |
-| --------------------------------------------------------------------- |
-| Rick said, raising his voice, “A cup of coffee for the house, on me.” |
+Rick said, raising his voice, “A cup of coffee for the house, on me.”
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1841,18 +1611,14 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | be'e                    | selfu   |
 | \[Request-to-speak-to\] | server. |
 
-|                     |
-| ------------------- |
-| Pam said, “Waiter!” |
+Pam said, “Waiter!”
 
 |     |             |     |        |     |       |                 |                       |
 | --- | ----------- | --- | ------ | --- | ----- | --------------- | --------------------- |
 | .i  | sei         | le  | selfu  | cu  | cusku | se'u            | re'i                  |
 |     | \[Comment\] | the | server |     | says, | \[end-comment\] | \[Ready-to-receive\]. |
 
-|                                       |
-| ------------------------------------- |
-| The waiter replied, “May I help you?” |
+The waiter replied, “May I help you?”
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1869,36 +1635,28 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | le     | ba         | za         | speni  | fi'o | pleji | mi  |
 | to-the | \[future\] | \[medium\] | spouse | with | payer | me. |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| Pam said, “One Jamaica Blue for the lovebirds here, on my tab.” |
+Pam said, “One Jamaica Blue for the lovebirds here, on my tab.”
 
 |     |             |     |        |     |       |                 |                 |
 | --- | ----------- | --- | ------ | --- | ----- | --------------- | --------------- |
 | .i  | sei         | le  | selfu  | cu  | cusku | se'u            | vi'o            |
 |     | \[Comment\] | the | server |     | says, | \[end-comment\] | \[Will-comply\] |
 
-|                            |
-| -------------------------- |
-| “Gotcha”, said the waiter. |
+“Gotcha”, said the waiter.
 
 |     |             |            |      |       |                 |            |       |
 | --- | ----------- | ---------- | ---- | ----- | --------------- | ---------- | ----- |
 | .i  | sei         | la         | rik. | cusku | se'u            | ki'e       | .pam. |
 |     | \[Comment\] | that-named | Rick | says, | \[end-comment\] | \[Thanks\] | Pam.  |
 
-|                           |
-| ------------------------- |
-| “Thanks, Pam”, said Rick. |
+“Thanks, Pam”, said Rick.
 
 |     |             |            |      |       |                 |                  |
 | --- | ----------- | ---------- | ---- | ----- | --------------- | ---------------- |
 | .i  | sei         | la         | pam. | cusku | se'u            | je'e             |
 |     | \[Comment\] | that-named | Pam  | says, | \[end-comment\] | \[Acknowledge\]. |
 
-|                   |
-| ----------------- |
-| “Sure”, said Pam. |
+“Sure”, said Pam.
 
 |     |             |            |       |       |                 |
 | --- | ----------- | ---------- | ----- | ----- | --------------- |
@@ -1915,9 +1673,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | si        | .y.    | ba         | speni  | .y.    | .y.    | su            | .yyyyyy. | mu'o     |
 | \[erase\] | \[uh\] | \[future\] | spouse | \[uh\] | \[uh\] | \[erase-all\] | \[uh\]   | \[over\] |
 
-|                                                                                              |
-| -------------------------------------------------------------------------------------------- |
-| John said, “I, er, a lotta, uh, marriage, upcoming marriage, .... Oh, forget it. Er, later.” |
+John said, “I, er, a lotta, uh, marriage, upcoming marriage, .... Oh, forget it. Er, later.”
 
 |     |             |            |         |       |                 |
 | --- | ----------- | ---------- | ------- | ----- | --------------- |
@@ -1929,9 +1685,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | ke'o         | .djan. | zo'o       |
 | \[Repeat-O\] | John   | \[humor\]. |
 
-|                                        |
-| -------------------------------------- |
-| “How's that again, John?” said George. |
+“How's that again, John?” said George.
 
 |     |             |            |      |       |                 |
 | --- | ----------- | ---------- | ---- | ----- | --------------- |
@@ -1943,18 +1697,14 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | ju'i          | .djordj. | .e'unai     | le  | kabri | ba         | zi        | farlu  |
 | \[Attention\] | George,  | \[Warning\] | the | cup   | \[future\] | \[short\] | falls. |
 
-|                                                     |
-| --------------------------------------------------- |
-| “George, watch out!” said Pam. “The cup's falling!” |
+“George, watch out!” said Pam. “The cup's falling!”
 
 |     |     |       |     |        |        |
 | --- | --- | ----- | --- | ------ | ------ |
 | .i  | le  | kabri | cu  | je'a   | farlu  |
 |     | The | cup   |     | indeed | falls. |
 
-|               |
-| ------------- |
-| The cup fell. |
+The cup fell.
 
 |     |             |            |       |       |                 |
 | --- | ----------- | ---------- | ----- | ----- | --------------- |
@@ -1966,9 +1716,7 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | e'o          | doi | djordj. | zo'o      | rapygau       |
 | \[Petition\] | o   | George  | \[humor\] | repeat-cause. |
 
-|                                      |
-| ------------------------------------ |
-| John said, “Try that again, George!” |
+John said, “Try that again, George!”
 
 |     |             |            |         |       |                 |
 | --- | ----------- | ---------- | ------- | ----- | --------------- |
@@ -1980,18 +1728,14 @@ The following dialogue in Lojban illustrates the uses of attitudinals and protoc
 | co'o         | ro  | zvati    | pe        | secau   | la         | djan. | ga'i            |
 | \[Partings\] | all | at-place | which-are | without | that-named | John  | \[superiority\] |
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| “Goodbye to all of you,” said George sneeringly, “except John.” |
+“Goodbye to all of you,” said George sneeringly, “except John.”
 
 |     |            |         |         |
 | --- | ---------- | ------- | ------- |
 | .i  | la         | djordj. | cliva   |
 |     | that-named | George  | leaves. |
 
-|              |
-| ------------ |
-| George left. |
+George left.
 
 ## 13.16. Tentative conclusion
 

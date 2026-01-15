@@ -533,9 +533,7 @@ On the other hand, the lujvo *[zernerkla](/glossary/#zernerkla)*, meaning “to 
 | zekri | ke | nenri  | klama | \[ke'e\] |
 | crime | (  | inside | go    | )       |
 
-|                          |
-| ------------------------ |
-| to go within, criminally |
+to go within, criminally
 
 because the alternative,
 
@@ -642,9 +640,7 @@ There is also a rafsi for the cmavo *[jai](/glossary/#jai)*, namely *jax*, which
 | mi | jai                | rinka   | le  | nu       | do   | morsi  |
 | I  | am-associated-with | causing | the | event-of | your | death. |
 
-|                     |
-| ------------------- |
-| I cause your death. |
+I cause your death.
 
 explained in [Section 11.10](/chapter11/#1110-lojban-sumti-raising "11.10. Lojban sumti raising"), to be rendered with lujvo:
 
@@ -858,9 +854,7 @@ The comparative concept “younger” can be expressed by the lujvo *[citmau](/g
 | mi | citmau          | do  | lo | nanca    | be            | li         | xa   |
 | I  | am-younger-than | you | by | one-year | multiplied-by | the-number | six. |
 
-|                                  |
-| -------------------------------- |
-| I am six years younger than you. |
+I am six years younger than you.
 
 The place structure for *[citmau](/glossary/#citmau)* is
 
@@ -877,9 +871,7 @@ Similarly, in Lojban you can say:
 | do  | citme'a             | mi | lo | nanca    | be            | li         | xa   |
 | You | are-less-young-than | me | by | one-year | multiplied-by | the-number | six. |
 
-|                                       |
-| ------------------------------------- |
-| You are six years less young than me. |
+You are six years less young than me.
 
 In English, “more” comparatives are easier to make and use than “less” comparatives, but in Lojban the two forms are equally easy.
 
@@ -920,9 +912,7 @@ which implies that I'm currently stronger than somebody else (the elided occupan
 | -- | -- | ------- |
 | mi | ca | tsaze'a |
 
-|                         |
-| ----------------------- |
-| I increase in strength. |
+I increase in strength.
 
 Finally, lujvo with a tertau of *[traji](/glossary/#traji)* are used to build superlatives. The place structure of *[traji](/glossary/#traji)* is
 
@@ -958,9 +948,7 @@ But the set against which the t1 place of *[traji](/glossary/#traji)* is compare
 | -- | ------- | -- | ------ | ---- | ------- |
 | la | djudis. | cu | citrai | lo'i | lobypli |
 
-|                                         |
-| --------------------------------------- |
-| Judy is the youngest of all Lojbanists. |
+Judy is the youngest of all Lojbanists.
 
 ##### Example 12.99.
 
@@ -968,9 +956,7 @@ But the set against which the t1 place of *[traji](/glossary/#traji)* is compare
 | -- | ---------- | -- | ------ | ---- | -------- |
 | la | .ainctain. | cu | balrai | lo'i | skegunka |
 
-|                                              |
-| -------------------------------------------- |
-| Einstein was the greatest of all scientists. |
+Einstein was the greatest of all scientists.
 
 ## 12.15. Notes on gismu place structures
 
