@@ -18,15 +18,18 @@ const url = (() => {
 })();
 
 const imgData = await (async () => {
+  if (url === '/') {
+    
+    return;
+  }
   const s = url.slice(1, -1);
   const isChapter = s.includes('chapter');
   if (!isChapter) return;
   const gif: ImageMetadata = (await import(`../assets/${s}.gif`)).default;
-  const str = s.match(/\d+/)?.[0];
-  if (!str) return;
+  const str = s.match(/\d+/)?.[0] ?? '';
   const num = Number.parseInt(str);
   if (!Number.isFinite(num)) return;
-  return { gif, alt: `The picture for chapter ${num}` };
+  return { gif, alt: `The picture for chapter ${num}` } as const;
 })();
 
 const contents: H2Content[] = [];
