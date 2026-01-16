@@ -3,8 +3,8 @@ import '../styles/globals.css';
 import 'katex/dist/katex.min.css';
 import Preloads from './Preloads.astro';
 import XNavigator from '../components/XNavigator.astro';
-import { linkTitles } from '../modules/titles';
 import OGP from './OGP.astro';
+import { linkTitles } from '../modules/titles';
 
 interface Props {
   readonly title: string;
@@ -12,7 +12,7 @@ interface Props {
   readonly description?: string;
 }
 
-const { title, url } = Astro.props;
+const { title, url, description } = Astro.props;
 const index = linkTitles.findIndex(([k]) => k === url);
 const prev = index > 0 ? linkTitles.at(index - 1) : undefined;
 const next =
@@ -44,7 +44,7 @@ const next =
     />
 
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP title='The Complete Lojban Language' />
+    <OGP title='The Complete Lojban Language' {url} {description} />
     <title>{title}</title>
   </head>
   <body>

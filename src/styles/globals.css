@@ -66,8 +66,7 @@
           + :is(table, div.table-scrollable)
           tbody
           > tr:first-child
-      ),
-    li:where(h5[id*='example'] + ul > li) {
+      ) {
       @apply italic;
     }
 
