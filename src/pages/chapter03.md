@@ -28,12 +28,12 @@ Lojban pronunciations are defined using the International Phonetic Alphabet, or 
 
 The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except *r* the first IPA symbol shown represents the preferred pronunciation; for *r*, all of the variations (and any other rhotic sound) are equally acceptable.
 
-<div class="[&_:where(td:nth-child(2))]:font-ipa">
+<div class="[&_:where(td:nth-child(2))]:font-ipa table-scrollable">
 
 | Letter | IPA                                                    | X-SAMPA                                                            | Description                                      |
 | ------ | ------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------ |
 | *'*    | \[h\]                                                  | \[h\]                                                              | an unvoiced glottal spirant                      |
-| *,*    | -                                                      | -                                                                  | the syllable separator                           |
+| *,*    | \-                                                     | \-                                                                 | the syllable separator                           |
 | *.*    | \[ʔ\]                                                  | \[?\]                                                              | a glottal stop or a pause                        |
 | *a*    | \[a\], \[ɑ\]                                           | \[a\], \[A\]                                                       | an open vowel                                    |
 | *b*    | \[b\]                                                  | \[b\]                                                              | a voiced bilabial stop                           |
@@ -77,7 +77,7 @@ The apostrophe represents a phoneme similar to a short, breathy English “h”,
 
 The apostrophe is included in Lojban only to enable a smooth transition between vowels, while joining the vowels within a single word. In fact, one way to think of the apostrophe is as representing an unvoiced vowel glide.
 
-As a permitted variant, any unvoiced fricative other than those already used in Lojban may be used to render the apostrophe: IPA <span class="font-ipa">\[θ\]</span> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for \[h\].
+As a permitted variant, any unvoiced fricative other than those already used in Lojban may be used to render the apostrophe: IPA <span class="font-ipa">\[θ\]</span> is one possibility. The convenience of the listener should be regarded as paramount in deciding to use a substitute for <span class="font-ipa">\[h\]</span>.
 
 The period represents a mandatory pause, with no specified length; a glottal stop (IPA <span class="font-ipa">\[ʔ\]</span>) is considered a pause of shortest length. A pause (or glottal stop) may appear between any two words, and in certain cases – explained in detail in [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses") – must occur. In particular, a word beginning with a vowel is always preceded by a pause, and a word ending in a consonant is always followed by a pause.
 
@@ -93,9 +93,11 @@ Here is a somewhat artificial example of the difference in pronunciation between
 
 ##### Example 3.1.
 
-- .i.ai.i.ai.o
-- <span class="font-ipa">\[ʔi ʔaj ʔi ʔaj ʔo\]</span>
-- Ee! Eye! Ee! Eye! Oh!
+|                                                    |
+| -------------------------------------------------- |
+| .i.ai.i.ai.o                                       |
+| <span class="font-ipa">\[ʔi ʔaj ʔi ʔaj ʔo\]</span> |
+| Ee! Eye! Ee! Eye! Oh!                              |
 
 However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although [Example 3.1](/chapter03/#example-31 "Example 3.1.") is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
 
@@ -103,8 +105,10 @@ If commas were used instead of periods, we could represent the English string as
 
 ##### Example 3.2.
 
-- .i,ai,i,ai,on.
-- <span class="font-ipa">\[ʔi jaj ji jaj jonʔ\]</span>
+|                                                      |
+| ---------------------------------------------------- |
+| .i,ai,i,ai,on.                                       |
+| <span class="font-ipa">\[ʔi jaj ji jaj jonʔ\]</span> |
 
 The commas represent new syllable breaks, but prohibit the use of pauses or glottal stop. The pronunciation shown is just one possibility, but closely parallels the intended English pronunciation.
 
@@ -112,7 +116,9 @@ However, the use of commas in this way is risky to unambiguous interpretation, s
 
 ##### Example 3.3.
 
-- .i,iai,ii,iai,ion.
+|                    |
+| ------------------ |
+| .i,iai,ii,iai,ion. |
 
 which is technically a different Lojban name. Since the intent with Lojbanized names is to allow them to be pronounced more like their native counterparts, the comma is allowed to represent vowel glides or some non-Lojbanic sound. Such an exception affects only spelling accuracy and the ability of a reader to replicate the desired pronunciation exactly; it will not affect the recognition of word boundaries.
 
@@ -122,8 +128,10 @@ If apostrophes were used instead of commas in [Example 3.2](/chapter03/#example-
 
 ##### Example 3.4.
 
-- .i'ai'i'ai'on.
-- <span class="font-ipa">\[ʔi hai hi hai honʔ\]</span>
+|                                                      |
+| ---------------------------------------------------- |
+| .i'ai'i'ai'on.                                       |
+| <span class="font-ipa">\[ʔi hai hi hai honʔ\]</span> |
 
 which preserves the rhythm and length, if not the exact sounds, of the original English.
 
@@ -135,9 +143,9 @@ For Lojban purposes, a vowel sound is a relatively long speech-sound that forms 
 
 The six Lojban vowels are *a*, *e*, *i*, *o*, *u*, and *y*. The first five vowels appear freely in all kinds of Lojban words. The vowel *y* has a limited distribution: it appears only in Lojbanized names, in the Lojban names of the letters of the alphabet, as a glue vowel in compound words, and standing alone as a space-filler word (like English “uh” or “er”).
 
-The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: *ai* may be pronounced \[ɑj\], for example.)
+The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: *ai* may be pronounced <span class="font-ipa">\[ɑj\]</span>, for example.)
 
-<div class="[&_:where(td:nth-child(2))]:font-ipa">
+<div class="[&_:where(td:nth-child(2))]:font-ipa table-scrollable">
 
 | Letters | IPA    | Description                               |
 | ------- | ------ | ----------------------------------------- |
@@ -168,12 +176,15 @@ The syllabic consonants of Lojban, <span class="font-ipa">\[l̩\]</span>, <span 
 
 ##### Example 3.5.
 
-- *brlgan.*
-- <span class="font-ipa">\[br̩l gan\]</span>
+|         |
+| ------- |
+| brlgan. |
+
+<span class="font-ipa">\[br̩l gan\]</span>
 
 or
 
-- <span class="font-ipa">\[brl̩ gan\]</span>
+<span class="font-ipa">\[brl̩ gan\]</span>
 
 is a hypothetical Lojbanized name with more than one valid pronunciation; however it is pronounced, it remains the same word.
 
@@ -204,14 +215,18 @@ When more than two vowels occur together in Lojban, the normal pronunciation pai
 
 ##### Example 3.6.
 
-- meiin.
-- mei,in.
+|           |
+| --------- |
+| meiin.    |
+| *mei,in.* |
 
 [Example 3.6](/chapter03/#example-36 "Example 3.6.") contains the diphthong *ei* followed by the vowel *i*. In order to indicate a different grouping, the comma must always be used, leading to:
 
 ##### Example 3.7.
 
-- me,iin.
+|         |
+| ------- |
+| me,iin. |
 
 which contains the vowel *e* followed by the diphthong *ii*. In rough English representation, [Example 3.6](/chapter03/#example-36 "Example 3.6.") is “May Een”, whereas [Example 3.7](/chapter03/#example-37 "Example 3.7.") is “Meh Yeen”.
 
@@ -250,13 +265,13 @@ These rules apply to all kinds of words, even Lojbanized names. If a name would 
 
 ##### Example 3.8.
 
-- djeimyz.
+|                                             |
+| ------------------------------------------- |
+| djeimyz.                                    |
+| <span class="font-ipa">\[dʒɛj məzʔ\]</span> |
+| James                                       |
 
-- <span class="font-ipa">\[dʒɛj məzʔ\]</span>
-
-- James
-
-The regular English pronunciation of “James”, which is \[dʒɛjmz\], would Lojbanize as *djeimz.*, which contains a forbidden consonant pair.
+The regular English pronunciation of “James”, which is <span class="font-ipa">\[dʒɛjmz\]</span>, would Lojbanize as *djeimz.*, which contains a forbidden consonant pair.
 
 ## 3.7. Initial Consonant Pairs
 
@@ -310,21 +325,25 @@ Lojbanized names can begin or end with any permissible consonant pair, not just 
 
 ## 3.8. Buffering Of Consonant Clusters
 
-Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Lojban set. As a result, the Lojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Lojbanic vowel which is clearly separable by the listener from the Lojban vowels. Some possibilities are IPA \[ɪ\], \[ɨ\], \[ʊ\], or even \[ʏ\], but there probably is no universally acceptable buffer sound. When using a consonant buffer, the sound should be made as short as possible. Two examples showing such buffering (we will use <span class="font-ipa">\[ɪ\]</span> in this chapter) are:
+Many languages do not have consonant clusters at all, and even those languages that do have them often allow only a subset of the full Lojban set. As a result, the Lojban design allows the use of a buffer sound between consonant combinations which a speaker finds unpronounceable. This sound may be any non-Lojbanic vowel which is clearly separable by the listener from the Lojban vowels. Some possibilities are IPA <span class="font-ipa">\[ɪ\]</span>, <span class="font-ipa">\[ɨ\]</span>, <span class="font-ipa">\[ʊ\]</span>, or even <span class="font-ipa">\[ʏ\]</span>, but there probably is no universally acceptable buffer sound. When using a consonant buffer, the sound should be made as short as possible. Two examples showing such buffering (we will use <span class="font-ipa">\[ɪ\]</span> in this chapter) are:
 
 ##### Example 3.9.
 
-- vrusi
-- <span class="font-ipa">\[ˈvru si\]</span>
-- or
-- <span class="font-ipa">\[vɪ ˈru si\]</span>
+|                                             |
+| ------------------------------------------- |
+| vrusi                                       |
+| <span class="font-ipa">\[ˈvru si\]</span>   |
+| or                                          |
+| <span class="font-ipa">\[vɪ ˈru si\]</span> |
 
 ##### Example 3.10.
 
-- .AMsterdam.
-- <span class="font-ipa">\[ʔam ster damʔ\]</span>
-- or
-- <span class="font-ipa">\[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ\]</span>
+|                                                          |
+| -------------------------------------------------------- |
+| .AMsterdam.                                              |
+| <span class="font-ipa">\[ʔam ster damʔ\]</span>          |
+| or                                                       |
+| <span class="font-ipa">\[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ\]</span> |
 
 When a buffer vowel is used, it splits each buffered consonant into its own syllable. However, the buffering syllables are never stressed, and are not counted in determining stress. They are, in effect, not really syllables to a Lojban listener, and thus their impact is ignored.
 
@@ -332,43 +351,53 @@ Here are more examples of unbuffered and buffered pronunciations:
 
 ##### Example 3.11.
 
-- klama
-- <span class="font-ipa">\[ˈkla ma\]</span>
-- <span class="font-ipa">\[kɪ ˈla ma\]</span>
+|                                             |
+| ------------------------------------------- |
+| klama                                       |
+| <span class="font-ipa">\[ˈkla ma\]</span>   |
+| <span class="font-ipa">\[kɪ ˈla ma\]</span> |
 
 ##### Example 3.12.
 
-- xapcke
-- <span class="font-ipa">\[ˈxap ʃkɛ\]</span>
-- <span class="font-ipa">\[ˈxa pɪ ʃkɛ\]</span>
-- <span class="font-ipa">\[ˈxa pɪ ʃɪ kɛ\]</span>
+|                                                |
+| ---------------------------------------------- |
+| xapcke                                         |
+| <span class="font-ipa">\[ˈxap ʃkɛ\]</span>     |
+| <span class="font-ipa">\[ˈxa pɪ ʃkɛ\]</span>   |
+| <span class="font-ipa">\[ˈxa pɪ ʃɪ kɛ\]</span> |
 
 In [Example 3.12](/chapter03/#example-312 "Example 3.12."), we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the *pc* consonant pair but not the *ck*. The third pronunciation buffers both.
 
 ##### Example 3.13.
 
-- ponyni'u
-- <span class="font-ipa">\[po nə ˈni hu\]</span>
+|                                                |
+| ---------------------------------------------- |
+| ponyni'u                                       |
+| <span class="font-ipa">\[po nə ˈni hu\]</span> |
 
 [Example 3.13](/chapter03/#example-313 "Example 3.13.") cannot contain any buffering vowel. It is important not to confuse the vowel *y*, which is pronounced <span class="font-ipa">\[ə\]</span>, with the buffer, which has a variety of possible pronunciations and is never written. Consider the contrast between
 
 ##### Example 3.14.
 
-- bongynanba
-- <span class="font-ipa">\[boŋ ɡə ˈnan ba\]</span>
+|                                                  |
+| ------------------------------------------------ |
+| bongynanba                                       |
+| <span class="font-ipa">\[boŋ ɡə ˈnan ba\]</span> |
 
 an unlikely Lojban compound word meaning “bone bread” (note the use of <span class="font-ipa">\[ŋ\]</span> as a representative of *n* before *g*) and
 
 ##### Example 3.15.
 
-- bongnanba
-- <span class="font-ipa">\[boŋ ˈɡnan ba\]</span>
+|                                                |
+| ---------------------------------------------- |
+| bongnanba                                      |
+| <span class="font-ipa">\[boŋ ˈɡnan ba\]</span> |
 
 a possible borrowing from another language (Lojban borrowings can only take a limited form). If [Example 3.15](/chapter03/#example-315 "Example 3.15.") were pronounced with buffering, as
 
 ##### Example 3.16.
 
-- <span class="font-ipa">\[boŋ ɡɪ ˈnan ba\]</span>
+<span class="font-ipa">\[boŋ ɡɪ ˈnan ba\]</span>
 
 it would be very similar to [Example 3.14](/chapter03/#example-314 "Example 3.14."). Only a clear distinction between *y* and any buffering vowel would keep the two words distinct.
 
@@ -376,7 +405,7 @@ Since buffering is done for the benefit of the speaker in order to aid pronounce
 
 ##### Example 3.17.
 
-- <span class="font-ipa">\[boːŋ ɡɪ ˈnaːn baː\]</span>
+<span class="font-ipa">\[boːŋ ɡɪ ˈnaːn baː\]</span>
 
 with lengthened vowels.
 
@@ -392,38 +421,48 @@ Here are some examples of Lojban syllabication:
 
 ##### Example 3.18.
 
-- pujenaicajeba
-- pu,je,nai,ca,je,ba
+|                      |
+| -------------------- |
+| pujenaicajeba        |
+| *pu,je,nai,ca,je,ba* |
 
 This word has no consonant pairs and is therefore syllabified before each medial consonant.
 
 ##### Example 3.19.
 
-- ninmu
-- nin,mu
+|          |
+| -------- |
+| ninmu    |
+| *nin,mu* |
 
 This word is split at a consonant pair.
 
 ##### Example 3.20.
 
-- fitpri
-- fit,pri
+|           |
+| --------- |
+| fitpri    |
+| *fit,pri* |
 
 This word is split at a consonant triple, between the first two consonants of the triple.
 
 ##### Example 3.21.
 
-- sairgoi
-- sair,goi
-- sai,r,goi
+|             |
+| ----------- |
+| sairgoi     |
+| *sair,goi*  |
+| *sai,r,goi* |
 
 This word contains the consonant pair *rg*; the *r* may be pronounced syllabically or not.
 
 ##### Example 3.22.
 
-- klezba
-- klez,ba
-- kle,zba
+|           |
+| --------- |
+| klezba    |
+| *klez,ba* |
+| *kle,zba* |
 
 This word contains the permissible initial pair *zb*, and so may be syllabicated either between *z* and *b* or before *zb*.
 
@@ -441,21 +480,25 @@ The following are Lojban words with stress explicitly shown:
 
 ##### Example 3.23.
 
-- dikyjvo
-- DI,ky,jvo
+|             |
+| ----------- |
+| dikyjvo     |
+| *DI,ky,jvo* |
 
 (In a fully-buffered dialect, the pronunciation would be: \['di kə ʒɪ vo\].) Note that the syllable *[ky](/glossary/#ky)* is not counted in determining stress. The vowel *y* is never stressed in a normal Lojban context.
 
 ##### Example 3.24.
 
-- .armstrong.
-- .ARM,strong.
+|                |
+| -------------- |
+| .armstrong.    |
+| *.ARM,strong.* |
 
 This is a Lojbanized version of the name “Armstrong”. The final *g* must be explicitly pronounced. With full buffering, the name would be pronounced:
 
 ##### Example 3.25.
 
-- <span class="font-ipa">\[ˈʔa rɪ mɪ sɪ tɪ ro nɪ ɡɪʔ\]</span>
+<span class="font-ipa">\[ˈʔa rɪ mɪ sɪ tɪ ro nɪ ɡɪʔ\]</span>
 
 However, there is no need to insert a buffer in every possible place just because it is inserted in one place: partial buffering is also acceptable. In every case, however, the stress remains in the same place: on the first syllable.
 
@@ -463,17 +506,23 @@ The English pronunciation of “Armstrong”, as spelled in English, is not corr
 
 ##### Example 3.26.
 
-- <span class="font-ipa">\[ˈʔarm stron ɡɪʔ\]</span>
-- or
-- <span class="font-ipa">\[ˈʔarm stroŋ ɡɪʔ\]</span>
-- or even
-- <span class="font-ipa">\[ˈʔarm stro nɪɡʔ\]</span>
+<div class="hidden"></div>
+
+|                                                   |
+| ------------------------------------------------- |
+| <span class="font-ipa">\[ˈʔarm stron ɡɪʔ\]</span> |
+| or                                                |
+| <span class="font-ipa">\[ˈʔarm stroŋ ɡɪʔ\]</span> |
+| or even                                           |
+| <span class="font-ipa">\[ˈʔarm stro nɪɡʔ\]</span> |
 
 The normal English pronunciation of the name “Armstrong” could be Lojbanized as:
 
 ##### Example 3.27.
 
-- .ARMstron.
+|            |
+| ---------- |
+| .ARMstron. |
 
 since Lojban *n* is allowed to be pronounced as the velar nasal <span class="font-ipa">\[ŋ\]</span>.
 
@@ -481,38 +530,48 @@ Here is another example showing the use of *y*:
 
 ##### Example 3.28.
 
-- bisydja
-- BI,sy,dja
-- BI,syd,ja
+|             |
+| ----------- |
+| bisydja     |
+| *BI,sy,dja* |
+| *BI,syd,ja* |
 
 This word is a compound word, or lujvo, built from the two affixes *bis* and *dja*. When they are joined, an impermissible consonant pair results: *sd*. In accordance with the algorithm for making lujvo, explained in [Section 4.11](/chapter04/#411-the-lujvo-making-algorithm "4.11. The lujvo-making algorithm"), a *y* is inserted to separate the impermissible consonant pair; the *y* is not counted as a syllable for purposes of stress determination.
 
 ##### Example 3.29.
 
-- da'udja
-- da'UD,ja
-- da'U,dja
+|            |
+| ---------- |
+| da'udja    |
+| *da'UD,ja* |
+| *da'U,dja* |
 
 These two syllabications sound the same to a Lojban listener – the association of unbuffered consonants in syllables is of no import in recognizing the word.
 
 ##### Example 3.30.
 
-- e'u bridi
-- e'u BRI,di
-- E'u BRI,di
-- e'U.BRI,di
+|              |
+| ------------ |
+| e'u bridi    |
+| *e'u BRI,di* |
+| *E'u BRI,di* |
+| *e'U.BRI,di* |
 
 In [Example 3.30](/chapter03/#example-330 "Example 3.30."), *[e'u](/glossary/#eu)* is a cmavo and *[bridi](/glossary/#bridi)* is a brivla. Either of the first two pronunciations is permitted: no primary stress on either syllable of *[e'u](/glossary/#eu)*, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that – since the following word is a brivla – the two words must be separated by a pause. Consider the following two cases:
 
 ##### Example 3.31.
 
-- le re nobli prenu
-- le re NObli PREnu
+|                     |
+| ------------------- |
+| le re nobli prenu   |
+| *le re NObli PREnu* |
 
 ##### Example 3.32.
 
-- le re no bliprenu
-- le re no bliPREnu
+|                     |
+| ------------------- |
+| le re no bliprenu   |
+| *le re no bliPREnu* |
 
 If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Example 3.32.") were to be stressed, the phrase would sound exactly like the given pronunciation of [Example 3.31](/chapter03/#example-331 "Example 3.31."), which is unacceptable in Lojban: a single pronunciation cannot represent both.
 
@@ -520,15 +579,15 @@ If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Ex
 
 There are many dialects of English, thus making it difficult to define the standardized symbols of the IPA in terms useful to every reader. All the symbols used in this chapter are repeated here, in more or less alphabetical order, with examples drawn from General American. In addition, some attention is given to the Received Pronunciation of (British) English. These two dialects are referred to as GA and RP respectively. Speakers of other dialects should consult a book on phonetics or their local television sets.
 
-<div class="[&_:where(td:first-child)]:font-ipa">
+<div class="[&_:where(td:first-child)]:font-ipa [&_:where(td:first-child)]:text-nowrap">
 
 |                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ˈ\]                      | An IPA indicator of primary stress; the syllable which follows <span class="font-ipa">\[ˈ\]</span> receives primary stress.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-| \[ʔ\]                      | An allowed variant of Lojban *.*. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of “t”: “bottle” <span class="font-ipa">\[boʔl̩\]</span>. The English interjection “uh-oh!” almost always has it between the syllables.                                                                                                                                                                                                                                           |
+| \[ʔ\]                      | An allowed variant of Lojban *.*. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. <br /> In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of “t”: “bottle” <span class="font-ipa">\[boʔl̩\]</span>. The English interjection “uh-oh!” almost always has it between the syllables.                                                                                                                                                                                                                                           |
 | \[ː\]                      | A symbol indicating that the previous vowel is to be spoken for a longer time than usual. Lojban vowels can be pronounced long in order to make a greater contrast with buffer vowels.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | \[a\]                      | The preferred pronunciation of Lojban *a*. This sound doesn't occur in GA, but sounds somewhat like the “ar” of “park”, as spoken in RP or New England American. It is pronounced further forward in the mouth than \[ɑ\].                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[ɑ\]                      | An allowed variant of Lojban *a*. The “a” of GA “father”. The sound <span class="font-ipa">\[a\]</span> is preferred because GA speakers often relax an unstressed <span class="font-ipa">\[ɑ\]</span> into a schwa <span class="font-ipa">\[ə\]</span>, as in the usual pronunciations of “about” and “sofa”. Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use <span class="font-ipa">\[a\]</span> instead: the Lojban word for “sofa” is *[sfofa](/glossary/#sfofa)*, pronounced <span class="font-ipa">\[sfofa\]</span> or <span class="font-ipa">\[sfofɑ\]</span> but never <span class="font-ipa">\[sfofə\]</span> which would be the non-word *sfofy*. |
+| \[ɑ\]                      | An allowed variant of Lojban *a*. The “a” of GA “father”. The sound <span class="font-ipa">\[a\]</span> is preferred because GA speakers often relax an unstressed <span class="font-ipa">\[ɑ\]</span> into a schwa <span class="font-ipa">\[ə\]</span>, as in the usual pronunciations of “about” and “sofa”. <br /> Because schwa is a distinct vowel in Lojban, English speakers must either learn to avoid this shift or to use <span class="font-ipa">\[a\]</span> instead: the Lojban word for “sofa” is *[sfofa](/glossary/#sfofa)*, pronounced <span class="font-ipa">\[sfofa\]</span> or <span class="font-ipa">\[sfofɑ\]</span> but never <span class="font-ipa">\[sfofə\]</span> which would be the non-word *sfofy*. |
 | \[æ\]                      | Not a Lojban sound. The “a” of English “cat”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | \[b\]                      | The preferred pronunciation of Lojban *b*. As in English “boy”, “sober”, or “job”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | \[β\]                      | An allowed variant of Lojban *v*. Not an English sound; the Spanish “b” or “v” between vowels. This sound should not be used for Lojban *b*.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
@@ -553,7 +612,7 @@ There are many dialects of English, thus making it difficult to define the stand
 | \[n̩\]                      | The syllabic version of Lojban *n*. As in English “button”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | \[ŋ\]                      | An allowed variant of Lojban *n*, especially in Lojbanized names and before *g* or *k*. As in English “sing” or “singer” (but not “finger” or “danger”).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | \[ŋ̍\]                      | An allowed variant of Lojban syllabic *n*, especially in Lojbanized names.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| \[o\]                      | The preferred pronunciation of Lojban *o*. As in the French « haute (cuisine) » or Spanish “como”. There is no exact English equivalent of this sound. The nearest GA equivalent is the “o” of “dough” or “joke”, but it is essential that the off-glide (a \[w\]-like sound) at the end of the vowel is not pronounced when speaking Lojban. The RP sound in these words is <span class="font-ipa">\[əw\]</span> in IPA terms, and has no <span class="font-ipa">\[o\]</span> in it at all; unless you can speak with a Scots, Irish, or American accent, you may have trouble with this sound.                                                                                                                          |
+| \[o\]                      | The preferred pronunciation of Lojban *o*. As in the French « haute (cuisine) » or Spanish “como”. There is no exact English equivalent of this sound. The nearest GA equivalent is the “o” of “dough” or “joke”, but it is essential that the off-glide (a \[w\]-like sound) at the end of the vowel is not pronounced when speaking Lojban. <br /> The RP sound in these words is <span class="font-ipa">\[əw\]</span> in IPA terms, and has no <span class="font-ipa">\[o\]</span> in it at all; unless you can speak with a Scots, Irish, or American accent, you may have trouble with this sound.                                                                                                                          |
 | \[ɔ\]                      | An allowed variant of Lojban *o*, especially before *r*. This sound is a shortened form of the “aw” in GA “dawn” (for those people who don't pronounce “dawn” and “Don” alike; if you do, you may have trouble with this sound). In RP, but not GA, it is the “o” of “hot”.                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | \[p\]                      | The preferred pronunciation of Lojban *p*. As in English “pay”, “super”, or “up”.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | \[r\]                      | One version of Lojban *r*. Not an English sound. The Spanish “rr” and the Scots “r”, a tongue-tip trill.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
@@ -632,7 +691,7 @@ Finally, an orthography using the Tengwar of Féanor, a fictional orthography in
 | formen <br /> *f* | hwesta <br /> *x* | ampa <br /> *v*  | unque <br /> -   |
 | malta <br /> *m*  | nwalme <br /> -   | vala <br /> *u*  | vilya <br /> -   |
 
-The letters “vala” and “anna” are used for *u* and *i* only when those letters are used to represent glides. Of the additional letters, *r*, *l*, *s*, and *z* are written with “rómen”, “lambe”, “silme”, and “áre”/ “esse” respectively; the inverted forms are used as free variants.
+The letters “vala” and “anna” are used for *u* and *i* only when those letters are used to represent glides. Of the additional letters, *r*, *l*, *s*, and *z* are written with “rómen”, “lambe”, “silme”, and “áre” / “esse” respectively; the inverted forms are used as free variants.
 
 Lojban, like Quenya, is a vowel-last language, so tehtar are read as following the tengwar on which they are placed. The conventional tehtar are used for the five regular vowels, and the dot below for *y*. The Lojban apostrophe is represented by “halla”. There is no equivalent of the Lojban comma or period.
 
