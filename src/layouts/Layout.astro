@@ -4,6 +4,7 @@ import 'katex/dist/katex.min.css';
 import Loads from './Loads.astro';
 import XNavigator from '../components/XNavigator.astro';
 import OGP from './OGP.astro';
+import ToTopBtn from '../components/ToTopBtn.astro';
 import { linkTitles } from '../modules/titles';
 
 interface Props {
@@ -51,6 +52,7 @@ const fullTitle = siteName === title ? title : `${title} | CLL`;
       <footer class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
         <XNavigator {prev} {next} />
       </footer>
+      <ToTopBtn />
     </div>
   </body>
 </html>

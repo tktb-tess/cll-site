@@ -1,0 +1,49 @@
+---
+interface Props {}
+---
+
+<button id='to-top-btn'>
+  <svg
+    xmlns='http://www.w3.org/2000/svg'
+    viewBox='0 0 24 24'
+    fill='currentColor'
+    class='inline-block align-baseline'
+  >
+    <path
+      d='M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z'
+    >
+    </path>
+  </svg>
+</button>
+
+<script>
+  const btn = document.getElementById(`to-top-btn`) as HTMLButtonElement;
+
+  btn.addEventListener('click', () => {
+    window.scroll({ top: 0, behavior: 'smooth' });
+  });
+
+  window.addEventListener('scroll', async () => {
+    if (window.scrollY > 600) {
+      btn.dataset.visible = '';
+    } else {
+      delete btn.dataset.visible;
+    }
+  });
+</script>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  
+  #to-top-btn {
+    @apply block invisible fixed right-10 bottom-10
+    p-0.5 rounded-[50%] border border-slate-600
+    bg-transparent hover:bg-slate-600 hover:text-white
+    transition-[color,background-color,opacity]
+    opacity-0 size-10;
+
+    &[data-visible] {
+      @apply opacity-100 visible;
+    }
+  }
+</style>
