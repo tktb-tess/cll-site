@@ -18,21 +18,23 @@ For information, contact: The Logical Language Group, 2904 Beau Lane, Fairfax VA
 
 ## Changes
 
-- changed "@" in E-mail address into "\[at\]" to avoid spam mails.
-- corrected obvious typos
+- Changed "@" in E-mail address into "\[at\]" to avoid spam mails
+- Corrected obvious typos
+- Chapter 4: added notation using the characters used in the original language
+- Improved the look of formulas using KaTeX
 
-## ローカルで動かす
+## Run dev-server
 
 ```bash
 git clone https://github.com/tktb-tess/cll-site.git
 pnpm i --frozen-lockfile
 pnpm run dev
 ```
-## HTML生成
+## Generate HTML
 
 ```bash
 pnpm run build
 ```
 
-を実行後、dist ディレクトリに生成される。
+After executing above commands, it will be generated in the `./dist` directory.
 

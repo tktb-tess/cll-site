@@ -28,10 +28,10 @@ Here are a few examples of each kind of sumti:
 
 ##### Example 6.2.
 
-|                  |                    |         |            |         |
-| ---------------- | ------------------ | ------- | ---------- | ------- |
-| e'osai           | ko                 | sarji   | la         | lojban. |
-| \[request\] \[!] | You \[imperative\] | support | that-named | Lojban. |
+|                   |                    |         |            |         |
+| ----------------- | ------------------ | ------- | ---------- | ------- |
+| e'osai            | ko                 | sarji   | la         | lojban. |
+| \[request\] \[!\] | You \[imperative\] | support | that-named | Lojban. |
 
 Please support Lojban!
 
@@ -96,8 +96,8 @@ The specific purpose of *[le](/glossary/#le)* is twofold. First, it indicates th
 | le                                              | zarci     | cu  | barda       |
 | One-or-more-specific-things-which-I-describe-as | “markets” |     | is/are-big. |
 
-The market is big.
-| The markets are big. |
+The market is big.  
+The markets are big.
 
 Note that English-speakers must state whether a reference to markets is to just one (“the market”) or to more than one (“the markets”). Lojban requires no such forced choice, so both colloquial translations of [Example 6.6](/chapter06/#example-66 "Example 6.6.") are valid. Only the context can specify which is meant. (This rule does not mean that Lojban has no way of specifying the number of markets in such a case: that mechanism is explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions").)
 
@@ -110,8 +110,8 @@ Now consider the following strange-looking example:
 | le                                              | nanmu | cu  | ninmu         |
 | One-or-more-specific-things-which-I-describe-as | “men” |     | is/are-women. |
 
-The man is a woman.
-| The men are women.  |
+The man is a woman.  
+The men are women.
 
 [Example 6.7](/chapter06/#example-67 "Example 6.7.") is not self-contradictory in Lojban, because *le nanmu* merely means something or other which, for my present purposes, I choose to describe as a man, whether or not it really is a man. A plausible instance would be: someone we had assumed to be a man at a distance turned out to be actually a woman on closer observation. [Example 6.7](/chapter06/#example-67 "Example 6.7.") is what I would say to point out my observation to you.
 
@@ -126,8 +126,8 @@ The second descriptor dealt with in this section is *[lo](/glossary/#lo)*. Unlik
 | lo                                         | zarci       |
 | one-or-more-of-all-the-things-which-really | are-markets |
 
-a market
-| some markets |
+a market  
+some markets
 
 Again, there are two colloquial English translations. The effect of using *[lo](/glossary/#lo)* in [Example 6.8](/chapter06/#example-68 "Example 6.8.") is to refer generally to one or more markets, without being specific about which. Unlike *le zarci*, *lo zarci* must refer to something which actually is a market (that is, which can appear in the x1 place of a truthful bridi whose selbri is *[zarci](/glossary/#zarci)*). Thus
 
@@ -138,8 +138,8 @@ Again, there are two colloquial English translations. The effect of using *[lo](
 | lo                   | nanmu | cu  | ninmu       |
 | That-which-really-is | a-man |     | is-a-woman. |
 
-Some man is a woman.
-| Some men are women.  |
+Some man is a woman.  
+Some men are women.
 
 must be false in Lojban, given that there are no objects in the real world which are both men and women. Pointing at some specific men or women would not make [Example 6.9](/chapter06/#example-69 "Example 6.9.") true, because those specific individuals are no more both-men-and-women than any others. In general, *[lo](/glossary/#lo)* refers to whatever individuals meet its description.
 
@@ -183,8 +183,8 @@ The bear(s) wrote the story.
 | lo                                     | cribe     | pu       | finti   | le  | lisri  |
 | One-or-more-of-the-things-which-really | are-bears | \[past\] | creates | the | story. |
 
-A bear wrote the story.
-| Some bears wrote the story. |
+A bear wrote the story.  
+Some bears wrote the story. 
 
 [Example 6.12](/chapter06/#example-612 "Example 6.12.") is about a specific bear or bearlike thing(s), or thing(s) which the speaker (perhaps whimsically or metaphorically) describes as a bear (or more than one); [Example 6.13](/chapter06/#example-613 "Example 6.13.") is about one or more of the really existing, objectively defined bears. In either case, though, each of them must have contributed to the writing of the story, if more than one bear (or “bear”) is meant.
 
@@ -210,8 +210,8 @@ The human being(s) wrote the story.
 | lo                   | remna   | pu       | finti  | le                | lisri    |
 | That-which-really-is | a-human | \[past\] | writes | that-described-as | a-story. |
 
-A human being wrote the story.
-| Some human beings wrote the story. |
+A human being wrote the story.  
+Some human beings wrote the story. 
 
 [Example 6.14](/chapter06/#example-614 "Example 6.14.") says who the author of the story is: one or more particular human beings that the speaker has in mind. If the topic of conversation is the story, then [Example 6.14](/chapter06/#example-614 "Example 6.14.") identifies the author as someone who can be pointed out or who has been previously mentioned; whereas if the topic is a person, then *le remna* is in effect a shorthand reference to that person. [Example 6.15](/chapter06/#example-615 "Example 6.15.") merely says that the author is human.
 
@@ -264,22 +264,18 @@ The descriptors *[loi](/glossary/#loi)* and *[lai](/glossary/#lai)* are analogou
 | loi                                    | cinfo     | cu  | xabju    | le  | fi'ortu'a     |
 | Part-of-the-mass-of-those-which-really | are-lions |     | dwell-in | the | African-land. |
 
-The lion dwells in Africa.
-| Lions dwell in Africa.     |
+The lion dwells in Africa.  
+Lions dwell in Africa.
 
 The difference between *[lei](/glossary/#lei)* and *[loi](/glossary/#loi)* is that *lei cinfo* refers to a mass of specific individuals which the speaker calls lions, whereas *loi cinfo* refers to some part of the mass of all those individuals which actually are lions. The restriction to “some part of the mass” allows statements like [Example 6.18](/chapter06/#example-618 "Example 6.18.") to be true even though some lions do not dwell in Africa – they live in various zoos around the world. On the other hand, [Example 6.18](/chapter06/#example-618 "Example 6.18.") doesn't actually say that most lions live in Africa: equally true is
 
 ##### Example 6.19.
 
-|                                        |                     |
-| -------------------------------------- | ------------------- |
-| loi                                    | glipre              |
-| Part-of-the-mass-of-those-which-really | are-English-persons |
+|                                        |                     |     |          |     |               |
+| -------------------------------------- | ------------------- | --- | -------- | --- | ------------- |
+| loi                                    | glipre              | cu  | xabju    | le  | fi'ortu'a     |
+| Part-of-the-mass-of-those-which-really | are-English-persons |     | dwell-in | the | African-land. |
 
-|     |          |     |               |
-| --- | -------- | --- | ------------- |
-| cu  | xabju    | le  | fi'ortu'a     |
-|     | dwell-in | the | African-land. |
 
 The English dwell in Africa.
 
@@ -395,15 +391,11 @@ What is this “typical lion”? Surely it is not any particular lion, because n
 
 ##### Example 6.27.
 
-|             |                |     |           |
-| ----------- | -------------- | --- | --------- |
-| lo'e        | glipre         | cu  | xabju     |
-| The-typical | English-person |     | dwells-in |
+|             |                |     |           |     |              |            |     |                  |
+| ----------- | -------------- | --- | --------- | --- | ------------ | ---------- | --- | ---------------- |
+| lo'e        | glipre         | cu  | xabju     | le  | fi'ortu'a    | na.e       | le  | gligugde         |
+| The-typical | English-person |     | dwells-in | the | African-land | (Not!) and | the | English-country. |
 
-|     |              |            |     |                  |
-| --- | ------------ | ---------- | --- | ---------------- |
-| le  | fi'ortu'a    | na.e       | le  | gligugde         |
-| the | African-land | (Not!) and | the | English-country. |
 
 The typical English person dwells not in Africa but in England.
 
@@ -515,8 +507,8 @@ The Lojban cmavo meaning “at least” is *[su'o](/glossary/#suo)*, and if no o
 | mi  | cusku   | su'o            | lu        | do  | cadzu   | le  | bisli | li'u         |
 | I   | express | at-least-one-of | \[quote\] | you | walk-on | the | ice   | \[unquote\]. |
 
-I say one or more instances of “You walk on the ice”.
-| I say “You walk on the ice”.                          |
+I say one or more instances of “You walk on the ice”.  
+I say “You walk on the ice”.
 
 If an explicit ordinary number such as *[re](/glossary/#re)* were to appear, it would have to convey an exact expression, so
 
@@ -601,7 +593,7 @@ Understanding the implicit outer quantifier requires rules of greater subtlety. 
 
 (Pedantically, it is possible that the mass of water molecules composing an ice cube might be thought of as different from the same mass of water molecules in liquid form, in which case we might talk about *re lei djacu*, two masses of the water-bits I have in mind.)
 
-Why “*[pi](/glossary/#pi)*-”? It is the Lojban cmavo for the decimal point. Just as *pimu* means “.5”, and when used as a quantifier specifies a portion consisting of five tenths of a thing, *[piro](/glossary/#piro)* means a portion consisting of the all-ness – the entirety – of a thing. Similarly, *[pisu'o](/glossary/#pisuo)* specifies a portion consisting of at least one part of a thing, i.e. some of it.
+Why “*[pi](/glossary/#pi)*\-”? It is the Lojban cmavo for the decimal point. Just as *pimu* means “.5”, and when used as a quantifier specifies a portion consisting of five tenths of a thing, *[piro](/glossary/#piro)* means a portion consisting of the all-ness – the entirety – of a thing. Similarly, *[pisu'o](/glossary/#pisuo)* specifies a portion consisting of at least one part of a thing, i.e. some of it.
 
 Smaller quantifiers are possible for sets, and refer to subsets. Thus *pimu le'i nanmu* is a subset of the set of men I have in mind; we don't know precisely which elements make up this subset, but it must have half the size of the full set. This is the best way to say “half of the men”; saying *pimu le nanmu* would give us a half-portion of one of them instead! Of course, the result of *pimu le'i nanmu* is still a set; if you need to refer to the individuals of the subset, you must say so (see *[lu'a](/glossary/#lua)* in [Section 6.10](/chapter06/#610-sumti-qualifiers "6.10. sumti qualifiers")).
 
@@ -806,7 +798,7 @@ The equivalent form not using a sumti qualifier would be:
 | mi  | pu       | cusku   | le  | sinxa      | be  | le  | vi     | cukta |
 | I   | \[past\] | express | the | symbol-for |     | the | nearby | book. |
 
-\
+
 which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), but longer.The other sumti qualifiers follow the same rules. The cmavo *[tu'a](/glossary/#tua)* is used in forming abstractions, and is explained more fully in [Section 11.11](/chapter11/#1111-event-type-abstractors-and-event-contour-tenses "11.11. Event-type abstractors and event contour tenses"). The triplet *[lu'a](/glossary/#lua)*, *[lu'i](/glossary/#lui)*, and *[lu'o](/glossary/#luo)* convert between individuals, sets, and masses; *[vu'i](/glossary/#vui)* belongs to this group as well, but creates a sequence, which is similar to a set but has a definite order. (The set of John and Charles is the same as the set of Charles and John, but the sequences are different.) Here are some examples:
 
 ##### Example 6.56.
@@ -818,7 +810,7 @@ which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), 
 
 I try (to open) the door.
 
-\
+
 [Example 6.56](/chapter06/#example-656 "Example 6.56.") might mean that I try to do something else involving the door; the form is deliberately vague.Most of the following examples make use of the cmavo *[ri](/glossary/#ri)*, belonging to selma'o KOhA. This cmavo means “the thing last mentioned”; it is equivalent to repeating the immediately previous sumti (but in its original context). It is explained in more detail in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
 ##### Example 6.57.
@@ -851,16 +843,16 @@ Some rats are small, but the set of rats is large.
 | mi  | ce            | do  | girzu      |
 | I   | in-a-set-with | you | are-a-set. |
 
-|     |                 |                   |               |
-| --- | --------------- | ----------------- | ------------- |
-| .i  | lu'o            | ri                | gunma         |
-|     | The-mass-of     | it-last-mentioned | is-a-mass.    |
-| .i  | vu'i            | ri                | porsi         |
-|     | The-sequence-of | it-last-mentioned | is-a-sequence |
+|      |                 |                   |               |
+| ---- | --------------- | ----------------- | ------------- |
+| *.i* | *lu'o*          | *ri*              | *gunma*       |
+|      | The-mass-of     | it-last-mentioned | is-a-mass.    |
+| *.i* | *vu'i*          | *ri*              | *porsi*       |
+|      | The-sequence-of | it-last-mentioned | is-a-sequence |
 
 The set of you and me is a set. The mass of you and me is a mass. The sequence of you and me is a sequence.
 
-\
+
 (Yes, I know these examples are a bit silly. This set was introduced for completeness, and practical examples are as yet hard to come by.)Finally, the four sumti qualifiers formed from a cmavo of NAhE and *[bo](/glossary/#bo)* are all concerned with negation, which is discussed in detail in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). Here are a few examples of negation sumti qualifiers:
 
 ##### Example 6.60.
@@ -898,18 +890,22 @@ I like hot food, and you like cold food, and Jane likes lukewarm food.
 
 ##### Example 6.62.
 
-coi
+|               |
+| ------------- |
+| coi           |
 | \[greetings\] |
 
 Hello.
 
 ##### Example 6.63.
 
-je'e
+|                     |
+| ------------------- |
+| je'e                |
 | \[acknowledgement\] |
 
-Uh-huh.
-| Roger!  |
+Uh-huh.  
+Roger!  
 
 In these cases, the person being addressed is obvious from the context. However, a vocative word (more precisely, one or more cmavo of COI, possibly followed by *[doi](/glossary/#doi)*, or else just *[doi](/glossary/#doi)* by itself) can be followed by one of several kinds of phrases, all of which are intended to indicate the addressee. The most common case is a name:
 

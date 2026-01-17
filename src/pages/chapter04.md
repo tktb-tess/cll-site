@@ -444,7 +444,7 @@ There are at most one CVC-form, one CCV-form, and one CVV-form rafsi per gismu. 
 
 The intention was to use the available “rafsi space” \- the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
 
-[*sakli*](/glossary/#sakli). The digits in the second column represent the gismu letters used to form the rafsi.
+*[sakli](/glossary/#sakli)*. The digits in the second column represent the gismu letters used to form the rafsi.
 
 |     |      |          |
 | --- | ---- | -------- |
@@ -659,9 +659,10 @@ Here are a few examples:
 
 ##### Example 4.46.
 
+<div class="hidden"></div>
+
 |                                      |
 | ------------------------------------ |
-|                                      |
 | spaghetti (from English or Italian)  |
 | *spageti* (Lojbanize)                |
 | *cidj,r,spageti* (prefix long rafsi) |
@@ -671,9 +672,10 @@ where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban 
 
 ##### Example 4.47.
 
+<div class="hidden"></div>
+
 |                                                  |
 | ------------------------------------------------ |
-|                                                  |
 | Acer (the scientific name of maple trees)        |
 | *acer* (Lojbanize)                               |
 | *xaceru* (add initial consonant and final vowel) |
@@ -684,9 +686,10 @@ where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu fo
 
 ##### Example 4.48.
 
+<div class="hidden"></div>
+
 |                             |
 | --------------------------- |
-|                             |
 | brie (from French)          |
 | *bri* (Lojbanize)           |
 | *cirl,r,bri* (prefix rafsi) |
@@ -695,9 +698,10 @@ where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
 
 ##### Example 4.49.
 
+<div class="hidden"></div>
+
 |                               |
 | ----------------------------- |
-|                               |
 | cobra                         |
 | *kobra* (Lojbanize)           |
 | *sinc,r,kobra* (prefix rafsi) |
@@ -706,9 +710,10 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 
 ##### Example 4.50.
 
+<div class="hidden"></div>
+
 |                                |
 | ------------------------------ |
-|                                |
 | quark                          |
 | *kuark* (Lojbanize)            |
 | *kuarka* (add final vowel)     |
@@ -717,6 +722,8 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the extra vowel *a* added to the end of the word, and the diphthong *ua*, which never appears in gismu or lujvo, but may appear in fu'ivla.
 
 ##### Example 4.51.
+
+<div class="hidden"></div>
 
 |                               |
 | ----------------------------- |
@@ -955,29 +962,29 @@ There are some additional rules for Lojbanizing the scientific names (technicall
 
 Some further examples of Lojbanized names are:
 
-|          |               |                                                                                        |
-| -------- | ------------- | -------------------------------------------------------------------------------------- |
-| English  | “Mary”        | *meris.* or *meiris.*                                                                  |
-| English  | “Smith”       | *smit.*                                                                                |
-| English  | “Jones”       | *djonz.*                                                                               |
-| English  | “John”        | *djan.* or *jan.* (American) or *djon.* or *jon.* (British)                            |
-| English  | “Alice”       | *.alis.*                                                                               |
-| English  | “Elise”       | *.eLIS.*                                                                               |
-| English  | “Johnson”     | *djansn.*                                                                              |
-| English  | “William”     | *.uiliam.* or *.uil,iam.*                                                              |
-| English  | “Brown”       | *braun.*                                                                               |
-| English  | “Charles”     | *tcarlz.*                                                                              |
-| French   | “Charles”     | *carl.*                                                                                |
-| French   | “De Gaulle”   | *dyGOL.*                                                                               |
-| German   | “Heinrich”    | *xainrix.*                                                                             |
-| Spanish  | “Joaquin”     | *xuaKIN.*                                                                              |
-| Russian  | “Svetlana”    | *sfietlanys.*                                                                          |
-| Russian  | “Khrushchev”  | *xrucTCOF.*                                                                            |
-| Hindi    | “Krishna”     | *kricnas.*                                                                             |
-| Polish   | “Lech Walesa” | *lex. va,uensas.*                                                                      |
-| Spanish  | “Don Quixote” | *don. kicotes.* or modern Spanish: *don. kixotes.* or Mexican dialect: *don. ki'otes.* |
-| Chinese  | “Mao Zedong”  | *maudzydyn.*                                                                           |
-| Japanese | “Fujiko”      | *fudjikos.* or *fujikos.*                                                              |
+|          |                       |                                                                                        |
+| -------- | --------------------- | -------------------------------------------------------------------------------------- |
+| English  | “Mary”                | *meris.* or *meiris.*                                                                  |
+| English  | “Smith”               | *smit.*                                                                                |
+| English  | “Jones”               | *djonz.*                                                                               |
+| English  | “John”                | *djan.* or *jan.* (American) or *djon.* or *jon.* (British)                            |
+| English  | “Alice”               | *.alis.*                                                                               |
+| English  | “Elise”               | *.eLIS.*                                                                               |
+| English  | “Johnson”             | *djansn.*                                                                              |
+| English  | “William”             | *.uiliam.* or *.uil,iam.*                                                              |
+| English  | “Brown”               | *braun.*                                                                               |
+| English  | “Charles”             | *tcarlz.*                                                                              |
+| French   | “Charles”             | *carl.*                                                                                |
+| French   | “De Gaulle”           | *dyGOL.*                                                                               |
+| German   | “Heinrich”            | *xainrix.*                                                                             |
+| Spanish  | “Joaquin”             | *xuaKIN.*                                                                              |
+| Russian  | “Светлана” (Svetlana) | *sfietlanys.*                                                                          |
+| Russian  | “Хрущёв” (Khrushchev) | *xrucTCOF.*                                                                            |
+| Hindi    | “कृष्ण” (Krishna)       | *kricnas.*                                                                             |
+| Polish   | “Lech Wałęsa”         | *lex. va,uensas.*                                                                      |
+| Spanish  | “Don Quixote”         | *don. kicotes.* or modern Spanish: *don. kixotes.* or Mexican dialect: *don. ki'otes.* |
+| Chinese  | “毛泽东” (Mao Zedong) | *maudzydyn.*                                                                           |
+| Japanese | “ふじこ” (Fujiko)     | *fudjikos.* or *fujikos.*                                                              |
 
 ## 4.9. Rules for inserting pauses
 
@@ -1038,7 +1045,7 @@ Given a tanru that is to be made into a lujvo:
 
    1. Examine all the C/C consonant pairs up to the first y-hyphen, or up to the end of the word in case there are no y-hyphens.
 
-      These consonant pairs are called "joints”.
+      These consonant pairs are called “joints”.
 
    2. If all of those joints are permissible initials, then the trial word will break up into a cmavo and a shorter brivla. If not, the word will not break up, and no further hyphens are needed.
    3. Install a y-hyphen at the first such joint.
@@ -1136,7 +1143,7 @@ Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as poss
 
 We must then insert appropriate hyphens in each case. The first two forms need no hyphenation: *[ge](/glossary/#ge)* cannot fall off the front, because the following word would begin with *rz*, which is not a permissible initial consonant pair. So the lujvo forms are *[gerzda](/glossary/#gerzda)* and *gerzdani*.
 
-The third form, *ge'u**-zda*, needs no hyphen, because even though the first rafsi is CVV, the second one is CCV, so there is a consonant cluster in the first five letters. So *ge'uzda* is this form of the lujvo.
+The third form, *ge'u -zda*, needs no hyphen, because even though the first rafsi is CVV, the second one is CCV, so there is a consonant cluster in the first five letters. So *ge'uzda* is this form of the lujvo.
 
 The fourth form, *ge'u-zdani*, however, requires an r-hyphen; otherwise, the *ge'u-* part would fall off as a cmavo. So this form of the lujvo is *ge'urzdani*.
 
@@ -1234,27 +1241,27 @@ The gismu were created through the following process:
 
 4. Any gismu forms that conflicted with existing gismu were removed. Obviously, being identical with an existing gismu constitutes a conflict. In addition, a proposed gismu that was identical to an existing gismu except for the final vowel was considered a conflict, since two such gismu would have identical 4-letter rafsi.
 
-   More subtly: If the proposed gismu was identical to an existing gismu except for a single consonant, and the consonant was "too similar” based on the following table, then the proposed gismu was rejected.
+   More subtly: If the proposed gismu was identical to an existing gismu except for a single consonant, and the consonant was “too similar” based on the following table, then the proposed gismu was rejected.
 
    | proposed gismu | existing gismu |
    | -------------- | -------------- |
-   | *b*            | *p*, *v*       |
-   | *c*            | *j*, *s*       |
+   | *b*            | *p, v*         |
+   | *c*            | *j, s*         |
    | *d*            | *t*            |
-   | *f*            | *p*, *v*       |
-   | *g*            | *k*, *x*       |
-   | *j*            | *c*, *z*       |
-   | *k*            | *g*, *x*       |
+   | *f*            | *p, v*         |
+   | *g*            | *k, x*         |
+   | *j*            | *c, z*         |
+   | *k*            | *g, x*         |
    | *l*            | *r*            |
    | *m*            | *n*            |
    | *n*            | *m*            |
-   | *p*            | *b*, *f*       |
+   | *p*            | *b, f*         |
    | *r*            | *l*            |
-   | *s*            | *c*, *z*       |
+   | *s*            | *c, z*         |
    | *t*            | *d*            |
-   | *v*            | *b*, *f*       |
-   | *x*            | *g*, *k*       |
-   | *z*            | *j*, *s*       |
+   | *v*            | *b, f*         |
+   | *x*            | *g, k*         |
+   | *z*            | *j, s*         |
 
    See [Section 4.4](/chapter04/#44-gismu "4.4. gismu") for an example.
 
@@ -1310,46 +1317,46 @@ The following three groups of gismu represent concepts drawn from the internatio
 
 Small metric prefixes (values less than 1):
 
-|                             |       |       |
-| --------------------------- | ----- | ----- |
-| *[decti](/glossary/#decti)* | .1    | deci  |
-| *[centi](/glossary/#centi)* | .01   | centi |
-| *[milti](/glossary/#milti)* | .001  | milli |
-| *[mikri](/glossary/#mikri)* | 10-6  | micro |
-| *[nanvi](/glossary/#nanvi)* | 10-9  | nano  |
-| *[picti](/glossary/#picti)* | 10-12 | pico  |
-| *[femti](/glossary/#femti)* | 10-15 | femto |
-| *[xatsi](/glossary/#xatsi)* | 10-18 | atto  |
-| *[zepti](/glossary/#zepti)* | 10-21 | zepto |
-| *[gocti](/glossary/#gocti)* | 10-24 | yocto |
+|                             |            |           |
+| --------------------------- | ---------- | --------- |
+| *[decti](/glossary/#decti)* | $.1$       | deci (d)  |
+| *[centi](/glossary/#centi)* | $.01$      | centi (c) |
+| *[milti](/glossary/#milti)* | $.001$     | milli (m) |
+| *[mikri](/glossary/#mikri)* | $10^{-6}$  | micro (μ) |
+| *[nanvi](/glossary/#nanvi)* | $10^{-9}$  | nano (n)  |
+| *[picti](/glossary/#picti)* | $10^{-12}$ | pico (p)  |
+| *[femti](/glossary/#femti)* | $10^{-15}$ | femto (f) |
+| *[xatsi](/glossary/#xatsi)* | $10^{-18}$ | atto (a)  |
+| *[zepti](/glossary/#zepti)* | $10^{-21}$ | zepto (z) |
+| *[gocti](/glossary/#gocti)* | $10^{-24}$ | yocto (y) |
 
 Large metric prefixes (values greater than 1):
 
-|                             |      |       |
-| --------------------------- | ---- | ----- |
-| *[dekto](/glossary/#dekto)* | 10   | deka  |
-| *[xecto](/glossary/#xecto)* | 100  | hecto |
-| *[kilto](/glossary/#kilto)* | 1000 | kilo  |
-| *[megdo](/glossary/#megdo)* | 106  | mega  |
-| *[gigdo](/glossary/#gigdo)* | 109  | giga  |
-| *[terto](/glossary/#terto)* | 1012 | tera  |
-| *[petso](/glossary/#petso)* | 1015 | peta  |
-| *[xexso](/glossary/#xexso)* | 1018 | exa   |
-| *[zetro](/glossary/#zetro)* | 1021 | zetta |
-| *[gotro](/glossary/#gotro)* | 1024 | yotta |
+|                             |           |           |
+| --------------------------- | --------- | --------- |
+| *[dekto](/glossary/#dekto)* | $10$      | deka (da) |
+| *[xecto](/glossary/#xecto)* | $100$     | hecto (h) |
+| *[kilto](/glossary/#kilto)* | $1000$    | kilo (k)  |
+| *[megdo](/glossary/#megdo)* | $10^6$    | mega (M)  |
+| *[gigdo](/glossary/#gigdo)* | $10^9$    | giga (G)  |
+| *[terto](/glossary/#terto)* | $10^{12}$ | tera (T)  |
+| *[petso](/glossary/#petso)* | $10^{15}$ | peta (P)  |
+| *[xexso](/glossary/#xexso)* | $10^{18}$ | exa (E)   |
+| *[zetro](/glossary/#zetro)* | $10^{21}$ | zetta (Z) |
+| *[gotro](/glossary/#gotro)* | $10^{24}$ | yotta (Y) |
 
 Other scientific or mathematical terms:
 
-|                             |           |
-| --------------------------- | --------- |
-| *[delno](/glossary/#delno)* | candela   |
-| *[kelvo](/glossary/#kelvo)* | kelvin    |
-| *[molro](/glossary/#molro)* | mole      |
-| *[radno](/glossary/#radno)* | radian    |
-| *[sinso](/glossary/#sinso)* | sine      |
-| *[stero](/glossary/#stero)* | steradian |
-| *[tanjo](/glossary/#tanjo)* | tangent   |
-| *[xampo](/glossary/#xampo)* | ampere    |
+|                             |                |
+| --------------------------- | -------------- |
+| *[delno](/glossary/#delno)* | candela (Cd)   |
+| *[kelvo](/glossary/#kelvo)* | kelvin (K)     |
+| *[molro](/glossary/#molro)* | mole (mol)     |
+| *[radno](/glossary/#radno)* | radian (rad)   |
+| *[sinso](/glossary/#sinso)* | sine (sin)     |
+| *[stero](/glossary/#stero)* | steradian (sr) |
+| *[tanjo](/glossary/#tanjo)* | tangent (tan)  |
+| *[xampo](/glossary/#xampo)* | ampere (A)     |
 
 The gismu *[sinso](/glossary/#sinso)* and *[tanjo](/glossary/#tanjo)* were only made non-algorithmically because they were identical (having been borrowed from a common source) in all the dictionaries that had translations. The other terms in this group are units in the international metric system; some metric units, however, were made by the ordinary process (usually because they are different in Chinese).
 
@@ -1357,26 +1364,26 @@ Finally, there are the cultural gismu, which are also borrowed, but by modifying
 
 The six Lojban source languages:
 
-|                             |                                |
-| --------------------------- | ------------------------------ |
-| *[jungo](/glossary/#jungo)* | Chinese (from “Zhong 1 guo 2”) |
-| *[glico](/glossary/#glico)* | English                        |
-| *[xindo](/glossary/#xindo)* | Hindi                          |
-| *[spano](/glossary/#spano)* | Spanish                        |
-| *[rusko](/glossary/#rusko)* | Russian                        |
-| *[xrabo](/glossary/#xrabo)* | Arabic                         |
+|                             |                                     |
+| --------------------------- | ----------------------------------- |
+| *[jungo](/glossary/#jungo)* | Chinese (from “中国 (Zhong1 guo2)”) |
+| *[glico](/glossary/#glico)* | English                             |
+| *[xindo](/glossary/#xindo)* | Hindi                               |
+| *[spano](/glossary/#spano)* | Spanish                             |
+| *[rusko](/glossary/#rusko)* | Russian                             |
+| *[xrabo](/glossary/#xrabo)* | Arabic                              |
 
 Seven other widely spoken languages that were on the list of candidates for gismu-making, but weren't used:
 
-|                             |                                |
-| --------------------------- | ------------------------------ |
-| *[bengo](/glossary/#bengo)* | Bengali                        |
-| *[porto](/glossary/#porto)* | Portuguese                     |
-| *[baxso](/glossary/#baxso)* | Bahasa Melayu/Bahasa Indonesia |
-| *[ponjo](/glossary/#ponjo)* | Japanese (from “Nippon”)       |
-| *[dotco](/glossary/#dotco)* | German (from „Deutsch“)        |
-| *[fraso](/glossary/#fraso)* | French (from « Français »)     |
-| *[xurdo](/glossary/#xurdo)* | Urdu                           |
+|                             |                                 |
+| --------------------------- | ------------------------------- |
+| *[bengo](/glossary/#bengo)* | Bengali                         |
+| *[porto](/glossary/#porto)* | Portuguese                      |
+| *[baxso](/glossary/#baxso)* | Bahasa Melayu/Bahasa Indonesia  |
+| *[ponjo](/glossary/#ponjo)* | Japanese (from “日本 (Nippon)”) |
+| *[dotco](/glossary/#dotco)* | German (from „Deutsch“)         |
+| *[fraso](/glossary/#fraso)* | French (from « Français »)      |
+| *[xurdo](/glossary/#xurdo)* | Urdu                            |
 
 (Urdu and Hindi began as the same language with different writing systems, but have now become somewhat different, principally in borrowed vocabulary. Urdu-speakers were counted along with Hindi-speakers when weights were assigned for gismu-making purposes.)
 
@@ -1403,19 +1410,19 @@ Countries with a large number of speakers of any of the above languages (where t
 | *[softo](/glossary/#softo)* | Soviet/USSR |
 | *[vukro](/glossary/#vukro)* | Ukrainian   |
 
-|                             |                           |
-| --------------------------- | ------------------------- |
-| Arabic:                     |                           |
-| *[filso](/glossary/#filso)* | Palestinian               |
-| *[jerxo](/glossary/#jerxo)* | Algerian                  |
-| *[jordo](/glossary/#jordo)* | Jordanian                 |
-| *[libjo](/glossary/#libjo)* | Libyan                    |
-| *[lubno](/glossary/#lubno)* | Lebanese                  |
-| *[misro](/glossary/#misro)* | Egyptian (from “Mizraim”) |
-| *[morko](/glossary/#morko)* | Moroccan                  |
-| *[rakso](/glossary/#rakso)* | Iraqi                     |
-| *[sadjo](/glossary/#sadjo)* | Saudi                     |
-| *[sirxo](/glossary/#sirxo)* | Syrian                    |
+|                             |                                   |
+| --------------------------- | --------------------------------- |
+| Arabic:                     |                                   |
+| *[filso](/glossary/#filso)* | Palestinian                       |
+| *[jerxo](/glossary/#jerxo)* | Algerian                          |
+| *[jordo](/glossary/#jordo)* | Jordanian                         |
+| *[libjo](/glossary/#libjo)* | Libyan                            |
+| *[lubno](/glossary/#lubno)* | Lebanese                          |
+| *[misro](/glossary/#misro)* | Egyptian (from “מצרים (Mizraim)”) |
+| *[morko](/glossary/#morko)* | Moroccan                          |
+| *[rakso](/glossary/#rakso)* | Iraqi                             |
+| *[sadjo](/glossary/#sadjo)* | Saudi                             |
+| *[sirxo](/glossary/#sirxo)* | Syrian                            |
 
 |                                 |            |
 | ------------------------------- | ---------- |
@@ -1447,12 +1454,12 @@ The continents (and oceanic regions) of the Earth:
 
 A few smaller but historically important cultures:
 
-|                             |                       |
-| --------------------------- | --------------------- |
-| *[latmo](/glossary/#latmo)* | Latin/Roman           |
-| *[srito](/glossary/#srito)* | Sanskrit              |
-| *[xebro](/glossary/#xebro)* | Hebrew/Israeli/Jewish |
-| *[xelso](/glossary/#xelso)* | Greek (from «Hellas») |
+|                             |                               |
+| --------------------------- | ----------------------------- |
+| *[latmo](/glossary/#latmo)* | Latin/Roman                   |
+| *[srito](/glossary/#srito)* | Sanskrit                      |
+| *[xebro](/glossary/#xebro)* | Hebrew/Israeli/Jewish         |
+| *[xelso](/glossary/#xelso)* | Greek (from «Ἑλλάς (Hellas)») |
 
 Major world religions:
 

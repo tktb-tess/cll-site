@@ -419,13 +419,13 @@ and in many other different forms as well.
 
 The following cmavo are discussed in this section:
 
-|      |      |                                  |
-| ---- | ---- | -------------------------------- |
-| je   | JA   | tanru logical “and”              |
-| ja   | JA   | tanru logical “or”               |
-| joi  | JOI  | mixed mass “and”                 |
-| gu'e | GUhA | tanru forethought logical “and”  |
-| gi   | GI   | forethought connection separator |
+|        |      |                                  |
+| ------ | ---- | -------------------------------- |
+| *je*   | JA   | tanru logical “and”              |
+| *ja*   | JA   | tanru logical “or”               |
+| *joi*  | JOI  | mixed mass “and”                 |
+| *gu'e* | GUhA | tanru forethought logical “and”  |
+| *gi*   | GI   | forethought connection separator |
 
 Consider the English phrase “big red dog”. How shall this be rendered as a Lojban tanru? The naive attempt:
 
@@ -711,45 +711,14 @@ Grammatically, a brivla with sumti linked to it in this fashion plays the same r
 
 ##### Example 5.65.
 
-|      |            |               |     |             |        |
-| ---- | ---------- | ------------- | --- | ----------- | ------ |
-| ti   | cmalu      | be            | le  | ka          | canlu  |
-| This | is-a-small | (in-dimension | the | property-of | volume |
+<div class="table-scrollable">
 
-|             |             |         |      |
-| ----------- | ----------- | ------- | ---- |
-| bei         | lo'e        | ckule   | be'o |
-| by-standard | the-typical | school) |      |
+|      |            |               |     |             |        |             |             |         |      |       |           |            |      |             |      |                 |      |     |         |               |          |              |       |                  |                  |          |         |                   |        |
+| ---- | ---------- | ------------- | --- | ----------- | ------ | ----------- | ----------- | ------- | ---- | ----- | --------- | ---------- | ---- | ----------- | ---- | --------------- | ---- | --- | ------- | ------------- | -------- | ------------ | ----- | ---------------- | ---------------- | -------- | ------- | ----------------- | ------ |
+| ti   | cmalu      | be            | le  | ka          | canlu  | bei         | lo'e        | ckule   | be'o | nixli | be        | li         | mu   | bei         | lo   | merko           | be'o | bo  | ckule   | la            | bryklyn. | loi          | pemci | le               | mela             | nu,IORK. | prenu   | le                | jecta  |
+| This | is-a-small | (in-dimension | the | property-of | volume | by-standard | the-typical | school) |      | (girl | (of-years | the-number | five | by-standard | some | American-thing) |      |     | school) | in-that-named | Brooklyn | with-subject | poems | for-audience-the | among-that-named | New-York | persons | with-operator-the | state. |
 
-|       |           |            |      |
-| ----- | --------- | ---------- | ---- |
-| nixli | be        | li         | mu   |
-| (girl | (of-years | the-number | five |
-
-|             |      |                 |      |     |         |
-| ----------- | ---- | --------------- | ---- | --- | ------- |
-| bei         | lo   | merko           | be'o | bo  | ckule   |
-| by-standard | some | American-thing) |      |     | school) |
-
-|               |          |
-| ------------- | -------- |
-| la            | bryklyn. |
-| in-that-named | Brooklyn |
-
-|              |       |
-| ------------ | ----- |
-| loi          | pemci |
-| with-subject | poems |
-
-|                  |                  |          |         |
-| ---------------- | ---------------- | -------- | ------- |
-| le               | mela             | nu,IORK. | prenu   |
-| for-audience-the | among-that-named | New-York | persons |
-
-|                   |        |
-| ----------------- | ------ |
-| le                | jecta  |
-| with-operator-the | state. |
+</div>
 
 This is a school, small in volume compared to the typical school, pertaining to five-year-old girls (by American standards), in Brooklyn, teaching poetry to the New York community and operated by the state.
 
