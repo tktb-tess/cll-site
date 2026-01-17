@@ -1,14 +1,15 @@
 ---
 interface Props {
   readonly title: string;
+  readonly url: string;
   readonly description?: string;
-  readonly url?: string;
 }
 
-const { title, description = title, url = '/' } = Astro.props;
+const { title, description = title, url } = Astro.props;
 const baseUrl = `https://cll.tktb-tess.dev`;
 const linkCardUrl = new URL('/link_card.png', baseUrl).href;
 const pageUrl = new URL(url, baseUrl).href;
+const siteName = 'The Complete Lojban Language';
 ---
 
 <meta name='description' content={description} />
@@ -16,7 +17,7 @@ const pageUrl = new URL(url, baseUrl).href;
 <meta property='og:description' content={description} />
 <meta property='og:type' content='website' />
 <meta property='og:url' content={pageUrl} />
-<meta property='og:site_name' content={title} />
+<meta property='og:site_name' content={siteName} />
 <meta property='og:image' content={linkCardUrl} />
 <meta name='twitter:card' content='summary' />
 <meta name='twitter:title' content={title} />

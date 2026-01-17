@@ -3,7 +3,7 @@ import type { MarkdownHeading } from 'astro';
 import Layout from '../layouts/Layout.astro';
 import { urls } from '../modules/titles';
 import Toc, { type H2Content, type H3Content } from '../components/Toc.astro';
-import jboLogo from '../assets/jbo_logo.svg';
+import JboLogo from '../assets/jbo_logo.svg';
 
 interface MdProps {
   readonly frontmatter: {
@@ -15,7 +15,7 @@ interface MdProps {
 }
 
 const mds_ = Object.values(
-  import.meta.glob<MdProps>('./*.md', { eager: true })
+  import.meta.glob<MdProps>('./*.md', { eager: true }),
 );
 
 mds_.sort((a, b) => {
@@ -50,6 +50,6 @@ const mds = mds_.map(({ frontmatter, url, getHeadings }): H2Content => {
 ---
 
 <Layout title='The Complete Lojban Language' url='/'>
-  <img src={jboLogo.src} class='w-80' />
-  <Toc contents={mds} open={true} />
+  <JboLogo class='w-90 mx-auto' />
+  <Toc contents={mds} open />
 </Layout>

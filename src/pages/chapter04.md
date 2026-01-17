@@ -11,8 +11,9 @@ However, Lojban does have what is called “derivational morphology”: the capa
 
 A stream of Lojban sounds can be uniquely broken up into its component words according to specific rules. These so-called “morphology rules” are summarized in this chapter. (However, a detailed algorithm for breaking sounds into words has not yet been fully debugged, and so is not presented in this book.) First, here are some conventions used to talk about groups of Lojban letters, including vowels and consonants.
 
-1. V represents any single Lojban vowel except *y*; that is, it represents *a*, *e*, *i*, *o*, or *u*.
+<div class="table-scrollable">
 
+1. V represents any single Lojban vowel except *y*; that is, it represents *a*, *e*, *i*, *o*, or *u*.
 2. VV represents either a diphthong, one of the following:
 
    |      |      |      |      |
@@ -30,7 +31,6 @@ A stream of Lojban sounds can be uniquely broken up into its component words acc
    | *u'a* | *u'e* | *u'i* | *u'o* | *u'u* |
 
 3. C represents a single Lojban consonant, not including the apostrophe, one of *b*, *c*, *d*, *f*, *g*, *j*, *k*, *l*, *m*, *n*, *p*, *r*, *s*, *t*, *v*, *x*, or *z* . Syllabic *l*, *m*, *n*, and *r* always count as consonants for the purposes of this chapter.
-
 4. CC represents two adjacent consonants of type C which constitute one of the 48 permissible initial consonant pairs:
 
    |      |      |     |     |      |      |      |      |     |     |      |      |
@@ -49,8 +49,9 @@ A stream of Lojban sounds can be uniquely broken up into its component words acc
    | *ml* | *mr* |     |     |      |      |      |      |     |     | *xl* | *xr* |
 
 5. C/C represents two adjacent consonants which constitute one of the permissible consonant pairs (not necessarily a permissible initial consonant pair). The permissible consonant pairs are explained in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters"). In brief, any consonant pair is permissible unless it: contains two identical letters, contains both a voiced (excluding *r*, *l*, *m*, *n*) and an unvoiced consonant, or is one of certain specified forbidden pairs.
-
 6. C/CC represents a consonant triple. The first two consonants must constitute a permissible consonant pair; the last two consonants must constitute a permissible initial consonant pair.
+
+</div>
 
 Lojban has three basic word classes – parts of speech – in contrast to the eight that are traditional in English. These three classes are called cmavo, brivla, and cmene. Each of these classes has uniquely identifying properties – an arrangement of letters that allows the word to be uniquely and unambiguously recognized as a separate word in a string of Lojban, upon either reading or hearing, and as belonging to a specific word-class.
 
@@ -89,38 +90,47 @@ Compound cmavo are sequences of cmavo attached together to form a single written
 Compound cmavo, while not visually short like their components, can be readily identified by two characteristics:
 
 1. They have no consonant pairs or clusters, and
-
 2. They end in a vowel.
 
 For example:
 
 ##### Example 4.1.
 
-- .iseci'i
-- .i se ci'i
+|              |
+| ------------ |
+| .iseci'i     |
+| *.i se ci'i* |
 
 ##### Example 4.2.
 
-- punaijecanai
-- pu nai je ca nai
+|                    |
+| ------------------ |
+| punaijecanai       |
+| *pu nai je ca nai* |
 
 ##### Example 4.3.
 
-- ki'e.u'e
-- ki'e .u'e
+|             |
+| ----------- |
+| ki'e.u'e    |
+| *ki'e .u'e* |
 
 The cmavo *[u'e](/glossary/#ue)* begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by *.*) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,
 
 ##### Example 4.4.
 
-- ki'e'u'e
+|            |
+| ---------- |
+| *ki'e'u'e* |
 
 is a single cmavo reserved for experimental purposes: it has four vowels.
 
 ##### Example 4.5.
 
-- cy.ibu.abu
-- cy. .ibu .abu
+|                 |
+| --------------- |
+| cy.ibu.abu      |
+| *cy. .ibu .abu* |
 
 Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
 
@@ -128,8 +138,10 @@ There is no particular stress required in cmavo or their compounds. Some convent
 
 ##### Example 4.6.
 
-- .e'o ko ko kurji
-- .E'o ko ko KURji
+|                    |
+| ------------------ |
+| .e'o ko ko kurji   |
+| *.E'o ko ko KURji* |
 
 This convention results in a consistent rhythm to the language, since brivla are required to have penultimate stress; some find this esthetically pleasing.
 
@@ -137,19 +149,25 @@ If the final syllable of one word is stressed, and the first syllable of the nex
 
 ##### Example 4.7.
 
-- le re nanmu
+|             |
+| ----------- |
+| le re nanmu |
 
 can be optionally pronounced
 
 ##### Example 4.8.
 
-- le RE. NANmu
+|              |
+| ------------ |
+| le RE. NANmu |
 
 since there are no rules forcing stress on either of the first two words; the stress on *[re](/glossary/#re)*, though, demands that a pause separate *[re](/glossary/#re)* from the following syllable *nan* to ensure that the stress on *nan* is properly heard as a stressed syllable. The alternative pronunciation
 
 ##### Example 4.9.
 
-- LE re NANmu
+|             |
+| ----------- |
+| LE re NANmu |
 
 is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/#le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8."), the secondary stress on *[re](/glossary/#re)* would be similar to that in the English phrase “the TWO men”.
 
@@ -157,7 +175,9 @@ Both cmavo may also be left unstressed, thus:
 
 ##### Example 4.10.
 
-- le re NANmu
+|             |
+| ----------- |
+| le re NANmu |
 
 This would probably be the most common usage.
 
@@ -210,51 +230,59 @@ Here are a few examples of gismu, with rough English equivalents (not definition
 
 ##### Example 4.11.
 
-- creka
-
-shirt
+|       |
+| ----- |
+| creka |
+| shirt |
 
 ##### Example 4.12.
 
-- lijda
-
-religion
+|          |
+| -------- |
+| lijda    |
+| religion |
 
 ##### Example 4.13.
 
-- blanu
-
-blue
+|       |
+| ----- |
+| blanu |
+| blue  |
 
 ##### Example 4.14.
 
-- mamta
-
-mother
+|        |
+| ------ |
+| mamta  |
+| mother |
 
 ##### Example 4.15.
 
-- cukta
-
-book
+|       |
+| ----- |
+| cukta |
+| book  |
 
 ##### Example 4.16.
 
-- patfu
-
-father
+|        |
+| ------ |
+| patfu  |
+| father |
 
 ##### Example 4.17.
 
-- nanmu
-
-man
+|       |
+| ----- |
+| nanmu |
+| man   |
 
 ##### Example 4.18.
 
-- ninmu
-
-woman
+|       |
+| ----- |
+| ninmu |
+| woman |
 
 A small number of gismu were formed differently; see [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu") for a list.
 
@@ -264,7 +292,9 @@ When specifying a concept that is not found among the gismu (or, more specifical
 
 ##### Example 4.19.
 
-- skami pilno
+|             |
+| ----------- |
+| skami pilno |
 
 is the tanru which expresses the concept of “computer user”.
 
@@ -278,7 +308,9 @@ To express a simple tanru, simply say the component gismu together. Thus the bin
 
 ##### Example 4.20.
 
-- barda bloti
+|             |
+| ----------- |
+| barda bloti |
 
 representing roughly the same concept as the English word “ship”.
 
@@ -286,13 +318,17 @@ The binary metaphor “father mother” can refer to a paternal grandmother (“
 
 ##### Example 4.21.
 
-- patfu mamta
+|             |
+| ----------- |
+| patfu mamta |
 
 and
 
 ##### Example 4.22.
 
-- mamta patfu
+|             |
+| ----------- |
+| mamta patfu |
 
 respectively.
 
@@ -302,7 +338,9 @@ When a concept expressed in a tanru proves useful, or is frequently expressed, i
 
 ##### Example 4.23.
 
-- sampli
+|        |
+| ------ |
+| sampli |
 
 Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
 
@@ -320,7 +358,9 @@ The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chap
 
 ##### Example 4.25.
 
-- mampa'u
+|         |
+| ------- |
+| mampa'u |
 
 which refers specifically to the concept “maternal grandfather”. The two gismu that constitute the tanru are represented in *mampa'u* by the rafsi *mam-* and *-pa'u*, respectively; these two rafsi are then concatenated together to form *mampa'u*.
 
@@ -402,7 +442,7 @@ For example, *[zmadu](/glossary/#zmadu)* (“more than”) has the two short raf
 
 There are at most one CVC-form, one CCV-form, and one CVV-form rafsi per gismu. In fact, only a tiny handful of gismu have both a CCV-form and a CVV-form rafsi assigned, and still fewer have all three forms of short rafsi. However, gismu with both a CVC-form and another short rafsi are fairly common, partly because more possible CVC-form rafsi exist. Yet CVC-form rafsi, even though they are fairly easy to remember, cannot be used at the end of a lujvo (because lujvo must end in vowels), so justifying the assignment of an additional short rafsi to many gismu.
 
-The intention was to use the available “rafsi space”- the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
+The intention was to use the available “rafsi space” \- the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
 
 [*sakli*](/glossary/#sakli). The digits in the second column represent the gismu letters used to form the rafsi.
 
@@ -509,7 +549,9 @@ There is also a different way of building lujvo, or rather phrases which are gra
 
 ##### Example 4.38.
 
-bridi zei valsi
+|                 |
+| --------------- |
+| bridi zei valsi |
 
 is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily the same as the underlying tanru *bridi valsi*, which could have other meanings.) Using *[zei](/glossary/#zei)* is the only way to get a cmavo lacking a rafsi, a cmene, or a fu'ivla into a lujvo:
 
@@ -565,7 +607,9 @@ There are four stages of borrowing in Lojban, as words become more and more modi
 
 ##### Example 4.44.
 
-- me la'o ly. spaghetti .ly.
+|                            |
+| -------------------------- |
+| me la'o ly. spaghetti .ly. |
 
 is a predicate with the place structure “x1 is a quantity of spaghetti”.
 
@@ -573,7 +617,9 @@ Stage 2 involves changing the foreign name to a Lojbanized name, as explained in
 
 ##### Example 4.45.
 
-- me la spagetis.
+|                 |
+| --------------- |
+| me la spagetis. |
 
 One of these expedients is often quite sufficient when you need a word quickly in conversation. (This can make it easier to get by when you do not yet have full command of the Lojban vocabulary, provided you are talking to someone who will recognize the borrowing.)
 
@@ -797,13 +843,17 @@ Names may have almost any form, but always end in a consonant, and are followed 
 
 ##### Example 4.65.
 
-- djan. braun.
+|              |
+| ------------ |
+| djan. braun. |
 
 and
 
 ##### Example 4.66.
 
-- djanbraun.
+|            |
+| ---------- |
+| djanbraun. |
 
 are both valid Lojbanizations of “John Brown”.
 
@@ -826,66 +876,58 @@ Names meeting these criteria may be invented, Lojbanized from names in other lan
 
 ##### Example 4.67.
 
-- pav.
-
-the One
+|         |
+| ------- |
+| pav.    |
+| the One |
 
 from the cmavo *[pa](/glossary/#pa)*, with rafsi *pav*, meaning “one”
 
 ##### Example 4.68.
 
-- sol.
-
-the Sun
+|         |
+| ------- |
+| sol.    |
+| the Sun |
 
 from the gismu *[solri](/glossary/#solri)*, meaning “solar”, or actually “pertaining to the Sun”
 
 ##### Example 4.69.
 
-- ralj.
-
-Chief (as a title)
+|                    |
+| ------------------ |
+| ralj.              |
+| Chief (as a title) |
 
 from the gismu *[ralju](/glossary/#ralju)*, meaning “principal”.
 
 ##### Example 4.70.
 
-- nol.
-
-Lord/Lady
+|           |
+| --------- |
+| nol.      |
+| Lord/Lady |
 
 from the gismu *[nobli](/glossary/#nobli)*, with rafsi *nol*, meaning “noble”.
 
 To Lojbanize a name from the various natural languages, apply the following rules:
 
 1. Eliminate double consonants and silent letters.
-
 2. Add a final *s* or *n* (or some other consonant that sounds good) if the name ends in a vowel.
-
 3. Convert all sounds to their closest Lojban equivalents.
-
 4. If possible and acceptable, shift the stress to the penultimate (next-to-the-last) syllable. Use commas and capitalization in written Lojban when it is necessary to preserve non-standard syllabication or stress. Do not capitalize names otherwise.
-
 5. If the name contains an impermissible consonant pair, insert a vowel between the consonants: *y* is recommended.
-
 6. No cmene may have the syllables *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[doi](/glossary/#doi)* in them, unless immediately preceded by a consonant. If these combinations are present, they must be converted to something else. Possible substitutions include *[ly](/glossary/#ly)*, *ly'i*, and *[dai](/glossary/#dai)* or *[do'i](/glossary/#doi)*, respectively.
 
 There are some additional rules for Lojbanizing the scientific names (technically known as “Linnaean binomials” after their inventor) which are internationally applied to each species of animal or plant. Where precision is essential, these names need not be Lojbanized, but can be directly inserted into Lojban text using the cmavo *[la'o](/glossary/#lao)*, explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Using this cmavo makes the already lengthy Latinized names at least four syllables longer, however, and leaves the pronunciation in doubt. The following suggestions, though incomplete, will assist in converting Linnaean binomals to valid Lojban names. They can also help to create fu'ivla based on Linnaean binomials or other words of the international scientific vocabulary. The term “back vowel” in the following list refers to any of the letters *a*, *o*, or *u*; the term “front vowel” correspondingly refers to any of the letters *e*, *i*, or *y*.
 
 1. Change double consonants other than *cc* to single consonants.
-
 2. Change *cc* before a front vowel to *kc*, but otherwise to *k*.
-
 3. Change *c* before a back vowel and final *c* to *k*.
-
 4. Change *ng* before a consonant (other than *h*) and final *ng* to *n*.
-
 5. Change *x* to *z* initially, but otherwise to *ks*.
-
 6. Change *pn* to *n* initially.
-
 7. Change final *ie* and *ii* to *i*.
-
 8. Make the following idiosyncratic substitutions:
 
    |      |     |
@@ -909,7 +951,6 @@ There are some additional rules for Lojbanizing the scientific names (technicall
    However, the diphthong substitutions should not be done if the two vowels are in two different syllables.
 
 9. Change “h” between two vowels to *'* , but otherwise remove it completely. If preservation of the “h” seems essential, change it to *x* instead.
-
 10. Place *'* between any remaining vowel pairs that do not form Lojban diphthongs.
 
 Some further examples of Lojbanized names are:
@@ -1008,10 +1049,10 @@ Note that the “tosmabru test” implies that the algorithm will be more effici
 
 This algorithm was devised by Bob and Nora LeChevalier in 1989. It is not the only possible algorithm, but it usually gives a choice that people find preferable. The algorithm may be changed in the future. The lowest-scoring variant will usually be the dictionary form of the lujvo. (In previous versions, it was the highest-scoring variant.)
 
-1. Count the total number of letters, including hyphens and apostrophes; call it `L`.
-2. Count the number of apostrophes; call it `A`.
-3. Count the number of *y-*, *r-*, and n-hyphens; call it `H`.
-4. For each rafsi, find the value in the following table. Sum this value over all rafsi; call it `R`:
+1. Count the total number of letters, including hyphens and apostrophes; call it $L$.
+2. Count the number of apostrophes; call it $A$.
+3. Count the number of *y-*, *r-*, and n-hyphens; call it $H$.
+4. For each rafsi, find the value in the following table. Sum this value over all rafsi; call it $R$:
 
    |                        |            |     |
    | ---------------------- | ---------- | --- |
@@ -1024,11 +1065,11 @@ This algorithm was devised by Bob and Nora LeChevalier in 1989. It is not the on
    | CCV                    | (*-zba-*)  | 7   |
    | CVV with no apostrophe | (*-sai-*)  | 8   |
 
-5. Count the number of vowels, not including *y*; call it `V`.
+5. Count the number of vowels, not including *y*; call it $V$.
 
 The score is then:
 
-(1000 \* L) - (500 \* A) + (100 \* H) - (10 \* R) - V
+$(1000 \times L) - (500 \times A) + (100 \times H) - (10 \times R) - V$
 
 In case of ties, there is no preference. This should be rare. Note that the algorithm essentially encodes a hierarchy of priorities: short words are preferred (counting apostrophes as half a letter), then words with fewer hyphens, words with more pleasing rafsi (this judgment is subjective), and finally words with more vowels are chosen. Each decision principle is applied in turn if the ones before it have failed to choose; it is possible that a lower-ranked principle might dominate a higher-ranked one if it is ten times better than the alternative.
 
@@ -1036,35 +1077,35 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 
 ##### Example 4.71.
 
-|                                                               |
-| ------------------------------------------------------------- |
-| zbasai                                                        |
-| *zba + sai*                                                   |
-| (1000 \* 6) - (500 \* 0) + (100 \* 0) - (10 \* 15) - 3 = 5847 |
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| zbasai                                                                          |
+| *zba + sai*                                                                     |
+| $(1000 \times 6) - (500 \times 0) + (100 \times 0) - (10 \times 15) - 3 = 5847$ |
 
 ##### Example 4.72.
 
-|                                                               |
-| ------------------------------------------------------------- |
-| nunynau                                                       |
-| *nun + y + nau*                                               |
-| (1000 \* 7) - (500 \* 0) + (100 \* 1) - (10 \* 13) - 3 = 6967 |
+|                                                                                 |
+| ------------------------------------------------------------------------------- |
+| nunynau                                                                         |
+| *nun + y + nau*                                                                 |
+| $(1000 \times 7) - (500 \times 0) + (100 \times 1) - (10 \times 13) - 3 = 6967$ |
 
 ##### Example 4.73.
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| sairzbata'u                                                     |
-| *sai + r + zba + ta'u*                                          |
-| (1000 \* 11) - (500 \* 1) + (100 \* 1) - (10 \* 21) - 5 = 10385 |
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| sairzbata'u                                                                       |
+| *sai + r + zba + ta'u*                                                            |
+| $(1000 \times 11) - (500 \times 1) + (100 \times 1) - (10 \times 21) - 5 = 10385$ |
 
 ##### Example 4.74.
 
-|                                                                 |
-| --------------------------------------------------------------- |
-| zbazbasysarji                                                   |
-| *zba + zbas + y + sarji*                                        |
-| (1000 \* 13) - (500 \* 0) + (100 \* 1) - (10 \* 12) - 4 = 12976 |
+|                                                                                   |
+| --------------------------------------------------------------------------------- |
+| zbazbasysarji                                                                     |
+| *zba + zbas + y + sarji*                                                          |
+| $(1000 \times 13) - (500 \times 0) + (100 \times 1) - (10 \times 12) - 4 = 12976$ |
 
 ## 4.13. lujvo-making examples
 
@@ -1084,14 +1125,14 @@ The rafsi for *[zdani](/glossary/#zdani)* are:
 
 Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as possible rafsi for *[gerku](/glossary/#gerku)*; Step 2 directs us to use *-zda-* and *-zdani* as possible rafsi for *[zdani](/glossary/#zdani)*. The six possible forms of the lujvo are then:
 
-|                 |
-| --------------- |
-| *ger* *-zda*    |
-| *ger* *-zdani*  |
-| *ge'u* *-zda*   |
-| *ge'u* *-zdani* |
-| *gerk* *-zda*   |
-| *gerk* *-zdani* |
+|               |
+| ------------- |
+| *ger -zda*    |
+| *ger -zdani*  |
+| *ge'u -zda*   |
+| *ge'u -zdani* |
+| *gerk -zda*   |
+| *gerk -zdani* |
 
 We must then insert appropriate hyphens in each case. The first two forms need no hyphenation: *[ge](/glossary/#ge)* cannot fall off the front, because the following word would begin with *rz*, which is not a permissible initial consonant pair. So the lujvo forms are *[gerzda](/glossary/#gerzda)* and *gerzdani*.
 
@@ -1101,7 +1142,7 @@ The fourth form, *ge'u-zdani*, however, requires an r-hyphen; otherwise, the *ge
 
 The last two forms require y-hyphens, as all 4-letter rafsi do, and so are *gerkyzda* and *gerkyzdani* respectively.
 
-The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that *[gerzda](/glossary/#gerzda)* would win. Its `L` score is 6, its `A` score is 0, its `H` score is 0, its `R` score is 12, and its `V` score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form *[gerzda](/glossary/#gerzda)*.
+The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that *[gerzda](/glossary/#gerzda)* would win. Its $L$ score is 6, its $A$ score is 0, its $H$ score is 0, its $R$ score is 12, and its $V$ score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form *[gerzda](/glossary/#gerzda)*.
 
 For the next example, we will use the tanru *bloti klesi* (“boat class”) presumably referring to the category (rowboat, motorboat, cruise liner) into which a boat falls. We will omit the long rafsi from the process, since lujvo containing long rafsi are almost never preferred by the scoring algorithm when there are short rafsi available.
 
@@ -1129,21 +1170,21 @@ Our third example will result in forming both a lujvo and a name from the tanru 
 
 The available rafsi are *-loj-* and *-logj-*; *-ban-*, *-bau-*, and *-bang-*; and *-gri-* and *-girzu*, and (for name purposes only) *-gir-* and *-girz-*. The resulting 12 lujvo possibilities are:
 
-|                        |                        |                         |
-| ---------------------- | ---------------------- | ----------------------- |
-| *loj* *-ban* *-gri*    | *loj* *-bau* *-gri*    | *loj* *-bang* *-gri*    |
-| *logj* *-ban* *-gri*   | *logj* *-bau* *-gri*   | *logj* *-bang* *-gri*   |
-| *loj* *-ban* *-girzu*  | *loj* *-bau* *-girzu*  | *loj* *-bang* *-girzu*  |
-| *logj* *-ban* *-girzu* | *logj* *-bau* *-girzu* | *logj* *-bang* *-girzu* |
+|                    |                    |                     |
+| ------------------ | ------------------ | ------------------- |
+| *loj -ban -gri*    | *loj -bau -gri*    | *loj -bang -gri*    |
+| *logj -ban -gri*   | *logj -bau -gri*   | *logj -bang -gri*   |
+| *loj -ban -girzu*  | *loj -bau -girzu*  | *loj -bang -girzu*  |
+| *logj -ban -girzu* | *logj -bau -girzu* | *logj -bang -girzu* |
 
 and the 12 name possibilities are:
 
-|                       |                       |                        |
-| --------------------- | --------------------- | ---------------------- |
-| *loj* *-ban* *-gir*   | *loj* *-bau* *-gir*   | *loj* *-bang* *-gir*   |
-| *logj* *-ban* *-gir*  | *logj* *-bau* *-gir*  | *logj* *-bang* *-gir*  |
-| *loj* *-ban* *-girz*  | *loj* *-bau* *-girz*  | *loj* *-bang* *-girz*  |
-| *logj* *-ban* *-girz* | *logj* *-bau* *-girz* | *logj* *-bang* *-girz* |
+|                   |                   |                    |
+| ----------------- | ----------------- | ------------------ |
+| *loj -ban -gir*   | *loj -bau -gir*   | *loj -bang -gir*   |
+| *logj -ban -gir*  | *logj -bau -gir*  | *logj -bang -gir*  |
+| *loj -ban -girz*  | *loj -bau -girz*  | *loj -bang -girz*  |
+| *logj -ban -girz* | *logj -bau -girz* | *logj -bang -girz* |
 
 After hyphenation, we have:
 
@@ -1162,16 +1203,16 @@ The only fully reduced lujvo forms are *lojbangri* and *[lojbaugri](/glossary/#l
 
 Finally, here is a four-part lujvo with a cmavo in it, based on the tanru *nakni ke cinse ctuca* or “male (sexual teacher)”. The *[ke](/glossary/#ke)* cmavo ensures the interpretation “teacher of sexuality who is male”, rather than “teacher of male sexuality”. Here are the possible forms of the lujvo, both before and after hyphenation:
 
-|                                |                                             |
-| ------------------------------ | ------------------------------------------- |
-| *nak* *-kem* *-cin* *-ctu*     | *[nakykemcinctu](/glossary/#nakykemcinctu)* |
-| *nak* *-kem* *-cin* *-ctuca*   | *nakykemcinctuca*                           |
-| *nak* *-kem* *-cins* *-ctu*    | *nakykemcinsyctu*                           |
-| *nak* *-kem* *-cins* *-ctuca*  | *nakykemcinsyctuca*                         |
-| *nakn* *-kem* *-cin* *-ctu*    | *naknykemcinctu*                            |
-| *nakn* *-kem* *-cin* *-ctuca*  | *naknykemcinctuca*                          |
-| *nakn* *-kem* *-cins* *-ctu*   | *naknykemcinsyctu*                          |
-| *nakn* *-kem* *-cins* *-ctuca* | *naknykemcinsyctuca*                        |
+|                          |                                             |
+| ------------------------ | ------------------------------------------- |
+| *nak -kem -cin -ctu*     | *[nakykemcinctu](/glossary/#nakykemcinctu)* |
+| *nak -kem -cin -ctuca*   | *nakykemcinctuca*                           |
+| *nak -kem -cins -ctu*    | *nakykemcinsyctu*                           |
+| *nak -kem -cins -ctuca*  | *nakykemcinsyctuca*                         |
+| *nakn -kem -cin -ctu*    | *naknykemcinctu*                            |
+| *nakn -kem -cin -ctuca*  | *naknykemcinctuca*                          |
+| *nakn -kem -cins -ctu*   | *naknykemcinsyctu*                          |
+| *nakn -kem -cins -ctuca* | *naknykemcinsyctuca*                        |
 
 Of these forms, *[nakykemcinctu](/glossary/#nakykemcinctu)* is the shortest and is preferred by the scoring algorithm. On the whole, however, it might be better to just make a lujvo for *cinse ctuca* (which would be *cinctu*) since the sex of the teacher is rarely important. If there was a reason to specify “male”, then the simpler tanru *nakni cinctu* (“male sexual-teacher”) would be appropriate. This tanru is actually shorter than the four-part lujvo, since the *[ke](/glossary/#ke)* required for grouping need not be expressed.
 
@@ -1461,7 +1502,9 @@ could be represented by the lujvo
 
 ##### Example 4.77.
 
-- tci'ilykemcantutra
+|                    |
+| ------------------ |
+| tci'ilykemcantutra |
 
 which is an illegal word in standard Lojban, but a valid lujvo under this proposal. There would be no short rafsi or 5-letter rafsi assigned to any fu'ivla, so no fu'ivla could appear as the last element of a lujvo.
 
