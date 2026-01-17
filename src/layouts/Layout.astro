@@ -1,7 +1,7 @@
 ---
 import '../styles/globals.css';
 import 'katex/dist/katex.min.css';
-import Preloads from './Preloads.astro';
+import Loads from './Loads.astro';
 import XNavigator from '../components/XNavigator.astro';
 import OGP from './OGP.astro';
 import { linkTitles } from '../modules/titles';
@@ -29,22 +29,10 @@ const next =
     <meta name='generator' content={Astro.generator} />
 
     <!-- preloads -->
-    <Preloads />
-
-    <!-- font-face -->
-    <link
-      rel='stylesheet'
-      href='https://api.tktb-tess.dev/fonts/Inter/font-face.css'
-      crossorigin='anonymous'
-    />
-    <link
-      rel='stylesheet'
-      href='https://api.tktb-tess.dev/fonts/Charis/font-face.css'
-      crossorigin='anonymous'
-    />
+    <Loads />
 
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP title='The Complete Lojban Language' {url} {description} />
+    <OGP {title} {url} {description} />
     <title>{title}</title>
   </head>
   <body>
