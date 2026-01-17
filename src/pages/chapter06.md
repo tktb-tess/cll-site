@@ -852,7 +852,7 @@ Some rats are small, but the set of rats is large.
 
 The set of you and me is a set. The mass of you and me is a mass. The sequence of you and me is a sequence.
 
-\
+
 (Yes, I know these examples are a bit silly. This set was introduced for completeness, and practical examples are as yet hard to come by.)Finally, the four sumti qualifiers formed from a cmavo of NAhE and *[bo](/glossary/#bo)* are all concerned with negation, which is discussed in detail in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). Here are a few examples of negation sumti qualifiers:
 
 ##### Example 6.60.

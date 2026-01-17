@@ -444,7 +444,7 @@ There are at most one CVC-form, one CCV-form, and one CVV-form rafsi per gismu. 
 
 The intention was to use the available “rafsi space” \- the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
 
-[*sakli*](/glossary/#sakli). The digits in the second column represent the gismu letters used to form the rafsi.
+*[sakli](/glossary/#sakli)*. The digits in the second column represent the gismu letters used to form the rafsi.
 
 |     |      |          |
 | --- | ---- | -------- |
@@ -659,9 +659,10 @@ Here are a few examples:
 
 ##### Example 4.46.
 
+<div class="hidden"></div>
+
 |                                      |
 | ------------------------------------ |
-|                                      |
 | spaghetti (from English or Italian)  |
 | *spageti* (Lojbanize)                |
 | *cidj,r,spageti* (prefix long rafsi) |
@@ -671,9 +672,10 @@ where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban 
 
 ##### Example 4.47.
 
+<div class="hidden"></div>
+
 |                                                  |
 | ------------------------------------------------ |
-|                                                  |
 | Acer (the scientific name of maple trees)        |
 | *acer* (Lojbanize)                               |
 | *xaceru* (add initial consonant and final vowel) |
@@ -684,9 +686,10 @@ where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu fo
 
 ##### Example 4.48.
 
+<div class="hidden"></div>
+
 |                             |
 | --------------------------- |
-|                             |
 | brie (from French)          |
 | *bri* (Lojbanize)           |
 | *cirl,r,bri* (prefix rafsi) |
@@ -695,9 +698,10 @@ where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
 
 ##### Example 4.49.
 
+<div class="hidden"></div>
+
 |                               |
 | ----------------------------- |
-|                               |
 | cobra                         |
 | *kobra* (Lojbanize)           |
 | *sinc,r,kobra* (prefix rafsi) |
@@ -706,9 +710,10 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 
 ##### Example 4.50.
 
+<div class="hidden"></div>
+
 |                                |
 | ------------------------------ |
-|                                |
 | quark                          |
 | *kuark* (Lojbanize)            |
 | *kuarka* (add final vowel)     |
@@ -717,6 +722,8 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the extra vowel *a* added to the end of the word, and the diphthong *ua*, which never appears in gismu or lujvo, but may appear in fu'ivla.
 
 ##### Example 4.51.
+
+<div class="hidden"></div>
 
 |                               |
 | ----------------------------- |
@@ -1310,46 +1317,46 @@ The following three groups of gismu represent concepts drawn from the internatio
 
 Small metric prefixes (values less than 1):
 
-|                             |            |       |
-| --------------------------- | ---------- | ----- |
-| *[decti](/glossary/#decti)* | $.1$       | deci  |
-| *[centi](/glossary/#centi)* | $.01$      | centi |
-| *[milti](/glossary/#milti)* | $.001$     | milli |
-| *[mikri](/glossary/#mikri)* | $10^{-6}$  | micro |
-| *[nanvi](/glossary/#nanvi)* | $10^{-9}$  | nano  |
-| *[picti](/glossary/#picti)* | $10^{-12}$ | pico  |
-| *[femti](/glossary/#femti)* | $10^{-15}$ | femto |
-| *[xatsi](/glossary/#xatsi)* | $10^{-18}$ | atto  |
-| *[zepti](/glossary/#zepti)* | $10^{-21}$ | zepto |
-| *[gocti](/glossary/#gocti)* | $10^{-24}$ | yocto |
+|                             |            |           |
+| --------------------------- | ---------- | --------- |
+| *[decti](/glossary/#decti)* | $.1$       | deci (d)  |
+| *[centi](/glossary/#centi)* | $.01$      | centi (c) |
+| *[milti](/glossary/#milti)* | $.001$     | milli (m) |
+| *[mikri](/glossary/#mikri)* | $10^{-6}$  | micro (μ) |
+| *[nanvi](/glossary/#nanvi)* | $10^{-9}$  | nano (n)  |
+| *[picti](/glossary/#picti)* | $10^{-12}$ | pico (p)  |
+| *[femti](/glossary/#femti)* | $10^{-15}$ | femto (f) |
+| *[xatsi](/glossary/#xatsi)* | $10^{-18}$ | atto (a)  |
+| *[zepti](/glossary/#zepti)* | $10^{-21}$ | zepto (z) |
+| *[gocti](/glossary/#gocti)* | $10^{-24}$ | yocto (y) |
 
 Large metric prefixes (values greater than 1):
 
-|                             |           |       |
-| --------------------------- | --------- | ----- |
-| *[dekto](/glossary/#dekto)* | $10$      | deka  |
-| *[xecto](/glossary/#xecto)* | $100$     | hecto |
-| *[kilto](/glossary/#kilto)* | $1000$    | kilo  |
-| *[megdo](/glossary/#megdo)* | $10^6$    | mega  |
-| *[gigdo](/glossary/#gigdo)* | $10^9$    | giga  |
-| *[terto](/glossary/#terto)* | $10^{12}$ | tera  |
-| *[petso](/glossary/#petso)* | $10^{15}$ | peta  |
-| *[xexso](/glossary/#xexso)* | $10^{18}$ | exa   |
-| *[zetro](/glossary/#zetro)* | $10^{21}$ | zetta |
-| *[gotro](/glossary/#gotro)* | $10^{24}$ | yotta |
+|                             |           |           |
+| --------------------------- | --------- | --------- |
+| *[dekto](/glossary/#dekto)* | $10$      | deka (da) |
+| *[xecto](/glossary/#xecto)* | $100$     | hecto (h) |
+| *[kilto](/glossary/#kilto)* | $1000$    | kilo (k)  |
+| *[megdo](/glossary/#megdo)* | $10^6$    | mega (M)  |
+| *[gigdo](/glossary/#gigdo)* | $10^9$    | giga (G)  |
+| *[terto](/glossary/#terto)* | $10^{12}$ | tera (T)  |
+| *[petso](/glossary/#petso)* | $10^{15}$ | peta (P)  |
+| *[xexso](/glossary/#xexso)* | $10^{18}$ | exa (E)   |
+| *[zetro](/glossary/#zetro)* | $10^{21}$ | zetta (Z) |
+| *[gotro](/glossary/#gotro)* | $10^{24}$ | yotta (Y) |
 
 Other scientific or mathematical terms:
 
-|                             |           |
-| --------------------------- | --------- |
-| *[delno](/glossary/#delno)* | candela   |
-| *[kelvo](/glossary/#kelvo)* | kelvin    |
-| *[molro](/glossary/#molro)* | mole      |
-| *[radno](/glossary/#radno)* | radian    |
-| *[sinso](/glossary/#sinso)* | sine      |
-| *[stero](/glossary/#stero)* | steradian |
-| *[tanjo](/glossary/#tanjo)* | tangent   |
-| *[xampo](/glossary/#xampo)* | ampere    |
+|                             |                |
+| --------------------------- | -------------- |
+| *[delno](/glossary/#delno)* | candela (Cd)   |
+| *[kelvo](/glossary/#kelvo)* | kelvin (K)     |
+| *[molro](/glossary/#molro)* | mole (mol)     |
+| *[radno](/glossary/#radno)* | radian (rad)   |
+| *[sinso](/glossary/#sinso)* | sine (sin)     |
+| *[stero](/glossary/#stero)* | steradian (sr) |
+| *[tanjo](/glossary/#tanjo)* | tangent (tan)  |
+| *[xampo](/glossary/#xampo)* | ampere (A)     |
 
 The gismu *[sinso](/glossary/#sinso)* and *[tanjo](/glossary/#tanjo)* were only made non-algorithmically because they were identical (having been borrowed from a common source) in all the dictionaries that had translations. The other terms in this group are units in the international metric system; some metric units, however, were made by the ordinary process (usually because they are different in Chinese).
 
@@ -1411,7 +1418,7 @@ Countries with a large number of speakers of any of the above languages (where t
 | *[jordo](/glossary/#jordo)* | Jordanian                         |
 | *[libjo](/glossary/#libjo)* | Libyan                            |
 | *[lubno](/glossary/#lubno)* | Lebanese                          |
-| *[misro](/glossary/#misro)* | Egyptian (from “מִצְרַיִם (Mizraim)”) |
+| *[misro](/glossary/#misro)* | Egyptian (from “מצרים (Mizraim)”) |
 | *[morko](/glossary/#morko)* | Moroccan                          |
 | *[rakso](/glossary/#rakso)* | Iraqi                             |
 | *[sadjo](/glossary/#sadjo)* | Saudi                             |

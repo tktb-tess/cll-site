@@ -2,7 +2,7 @@
 interface Props {}
 ---
 
-<button id='to-top-btn'>
+<button id='to-top-btn' type='button'>
   <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'>
     <path
       d='M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z'
@@ -35,7 +35,7 @@ interface Props {}
     p-0.5 rounded-[50%] border border-slate-600
     bg-transparent hover:bg-slate-600 hover:text-white
     transition-[color,background-color,opacity]
-    opacity-0 size-10;
+    opacity-0 size-10 cursor-pointer;
 
     &[data-visible] {
       @apply opacity-100 visible;
