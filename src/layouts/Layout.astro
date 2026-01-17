@@ -19,6 +19,9 @@ const next =
   index >= 0 && index < linkTitles.length - 1
     ? linkTitles.at(index + 1)
     : undefined;
+
+const siteName = 'The Complete Lojban Language';
+const fullTitle = siteName === title ? title : `${title} | CLL`;
 ---
 
 <!doctype html>
@@ -27,13 +30,10 @@ const next =
     <meta charset='utf-8' />
     <meta name='viewport' content='width=device-width,initial-scale=1' />
     <meta name='generator' content={Astro.generator} />
-
-    <!-- preloads -->
     <Loads />
-
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP {title} {url} {description} />
-    <title>{title}</title>
+    <OGP title={fullTitle} {url} {description} />
+    <title>{fullTitle}</title>
   </head>
   <body>
     <div id='md-root'>

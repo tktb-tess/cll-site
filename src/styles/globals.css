@@ -50,6 +50,10 @@
       :where(tr :is(td, th):not(:last-child)) {
         @apply border-e border-slate-300;
       }
+
+      :where(td,th) {
+        @apply text-base py-1.25;
+      }
     }
 
     li > :where(p) {
@@ -84,7 +88,11 @@
 }
 
 @utility table-scrollable {
-  @apply overflow-auto max-w-full text-nowrap;
+  @apply overflow-x-auto max-w-full;
+
+  :where(td, th) {
+    @apply text-nowrap;
+  }
 }
 
 @utility user-select-* {

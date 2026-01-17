@@ -10,17 +10,16 @@ const baseUrl = `https://cll.tktb-tess.dev`;
 const linkCardUrl = new URL('/link_card.png', baseUrl).href;
 const pageUrl = new URL(url, baseUrl).href;
 const siteName = 'The Complete Lojban Language';
-const fullTitle = `${siteName} | ${title}`;
 ---
 
 <meta name='description' content={description} />
-<meta property='og:title' content={fullTitle} />
+<meta property='og:title' content={title} />
 <meta property='og:description' content={description} />
 <meta property='og:type' content='website' />
 <meta property='og:url' content={pageUrl} />
 <meta property='og:site_name' content={siteName} />
 <meta property='og:image' content={linkCardUrl} />
 <meta name='twitter:card' content='summary' />
-<meta name='twitter:title' content={fullTitle} />
+<meta name='twitter:title' content={title} />
 <meta name='twitter:description' content={description} />
 <meta name='twitter:image' content={linkCardUrl} />
