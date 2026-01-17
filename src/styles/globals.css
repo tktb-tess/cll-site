@@ -2,10 +2,12 @@
 @plugin '@tailwindcss/typography';
 
 @theme inline {
-  --font-sans: 'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
-    sans-serif, system-ui;
-  --font-serif: 'Charis-Web', 'Times New Roman', 'Noto Serif JP', serif,
-    system-ui;
+  --font-sans:
+    'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP', 'Noto Sans SC',
+    'Segoe UI', sans-serif, system-ui;
+  --font-serif:
+    'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif SC',
+    'Segoe UI', serif, system-ui;
   --font-ipa: 'Charis-Web', serif, system-ui;
 }
 
@@ -51,7 +53,7 @@
         @apply border-e border-slate-300;
       }
 
-      :where(td,th) {
+      :where(td, th) {
         @apply text-base py-1.25;
       }
     }
@@ -66,11 +68,11 @@
     }
 
     tr:where(
-        h5[id*='example']
-          + :is(table, div.table-scrollable)
-          tbody
-          > tr:first-child
-      ) {
+      h5[id*='example']
+        + :is(table, div.table-scrollable)
+        tbody
+        > tr:first-child
+    ) {
       @apply italic;
     }
 
