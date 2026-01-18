@@ -95,7 +95,7 @@ Names may also be used as sumti, provided they are preceded with the word *[la](
 | *la meris.* | the one/ones named Mary |
 | *la djan.*  | the one/ones named John |
 
-Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#612-lojban-names "6.12. Lojban names") for more information.
+Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#612-number-summary "6.12. Number summary") for more information.
 
 ## 2.4. Some words used to indicate selbri relations
 
