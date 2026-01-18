@@ -100,18 +100,3 @@
 @utility user-select-* {
   user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
 }
-
-@utility table-auto-wrap {
-  :where(table) {
-    @apply grid;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-
-    :where(thead, tbody, tfoot) {
-      @apply contents;
-    }
-
-    :where(td, th) {
-      @apply block;
-    }
-  }
-}
