@@ -11,20 +11,28 @@ There is a close relationship between lujvo and tanru. In fact, lujvo are conden
 
 ##### Example 12.1.
 
+:::jbomupli
+
 |      |    |       |        |
 | ---- | -- | ----- | ------ |
 | ti   |    | fagri | festi  |
 | That | is | fire  | waste. |
 
+:::
+
 contains a tanru which can be reduced to the lujvo in:
 F
 ##### Example 12.2.
+
+:::jbomupli
 
 |      |                |
 | ---- | -------------- |
 | ti   | fagyfesti      |
 | That | is-fire-waste. |
 | That | is-ashes.      |
+
+:::
 
 Although the lujvo *[fagyfesti](/glossary/#fagyfesti)* is derived from the tanru *fagri festi*, it is not equivalent in meaning to it. In particular, *[fagyfesti](/glossary/#fagyfesti)* has a distinct place structure of its own, not the same as that of *[festi](/glossary/#festi)*. (In contrast, the tanru does have the same place structure as *[festi](/glossary/#festi)*.) The lujvo needs to take account of the places of *[fagri](/glossary/#fagri)* as well. When a tanru is made into a lujvo, there is no equivalent of *[be'o](/glossary/#beo)* (described in [Section 5.7](/chapter05/#57-linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o")) to incorporate sumti into the middle of the lujvo.
 
@@ -70,10 +78,14 @@ As we have seen, no less than five elements are involved in the definition of *g
 
 ##### Example 12.5.
 
+:::jbomupli
+
 |            |       |       |    |          |    |        |            |       |
 | ---------- | ----- | ----- | -- | -------- | -- | ------ | ---------- | ----- |
 | la         | blabi | zdani | cu | gerku    | be | fa     | la         | spot. |
 | That-named | White | House |    | is-a-dog | (  | namely | that-named | Spot  |
+
+:::
 
 |          |            |        |          |      |
 | -------- | ---------- | ------ | -------- | ---- |
@@ -233,28 +245,40 @@ Informally put, the reason this has happened – and it happens a lot with selta
 
 ##### Example 12.21.
 
+:::jbomupli
+
 |            |      |        |                  |            |       |
 | ---------- | ---- | ------ | ---------------- | ---------- | ----- |
 | la         | mon. | rePOS. | gerzda           | la         | spat. |
 | That-named | Mon  | Repos  | is-a-doghouse-of | that-named | Spot. |
 
+:::
+
 really means
 
 ##### Example 12.22.
+
+:::jbomupli
 
 |            |      |        |               |            |       |     |           |
 | ---------- | ---- | ------ | ------------- | ---------- | ----- | --- | --------- |
 | la         | mon. | rePOS. | zdani         | la         | spat. | noi | gerku     |
 | That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, | who | is-a-dog. |
 
+:::
+
 since that is the interpretation we have given *[gerzda](/glossary/#gerzda)* But that in turn means
 
 ##### Example 12.23.
+
+:::jbomupli
 
 |            |      |        |               |            |       |
 | ---------- | ---- | ------ | ------------- | ---------- | ----- |
 | la         | mon. | rePOS. | zdani         | la         | spat  |
 | That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, |
+
+:::
 
 |          |          |                       |
 | -------- | -------- | --------------------- |
@@ -265,10 +289,14 @@ Specifically,
 
 ##### Example 12.24.
 
+:::jbomupli
+
 |            |      |        |               |            |       |
 | ---------- | ---- | ------ | ------------- | ---------- | ----- |
 | la         | mon. | rePOS. | zdani         | la         | spat. |
 | That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, |
+
+:::
 
 |          |                   |            |        |          |
 | -------- | ----------------- | ---------- | ------ | -------- |
@@ -279,10 +307,14 @@ and in that case, it makes little sense to say
 
 ##### Example 12.25.
 
+:::jbomupli
+
 |            |      |        |                  |            |       |          |          |
 | ---------- | ---- | ------ | ---------------- | ---------- | ----- | -------- | -------- |
 | la         | mon. | rePOS. | gerzda           | la         | spat. | noi ke'a | gerku    |
 | That-named | Mon  | Repos  | is-a-doghouse-of | that-named | Spot, | who      | is-a-dog |
+
+:::
 
 |          |            |        |          |      |
 | -------- | ---------- | ------ | -------- | ---- |
@@ -331,10 +363,14 @@ If we aim to make understandable lujvo, then, we should make the order of places
 
 ##### Example 12.29.
 
+:::jbomupli
+
 |                |             |                    |            |       |
 | -------------- | ----------- | ------------------ | ---------- | ----- |
 | di'e           | jdaselsku   |                    | la         | dong. |
 | This-utterance | is-a-prayer | somehow-related-to | that-named | Dong. |
+
+:::
 
 we must be able to know if Dong is the person making the prayer, giving the meaning
 
@@ -362,19 +398,27 @@ The motivation for this rule is the parallelism between the lujvo bridi-schema
 
 ##### Example 12.33.
 
+:::jbomupli
+
 |    |                    |            |                |                |
 | -- | ------------------ | ---------- | -------------- | -------------- |
 | b1 | balsoi             | s2         | b2             | b3             |
 | b1 | is-a-great-soldier | of-army-s2 | in-property-b2 | by-standard-b3 |
 
+:::
+
 and the more or less equivalent bridi-schema
 
 ##### Example 12.34.
+
+:::jbomupli
 
 |    |              |            |      |          |                |                |
 | -- | ------------ | ---------- | ---- | -------- | -------------- | -------------- |
 | b1 | sonci        | s2         | gi'e | banli    | b2             | b3             |
 | b1 | is-a-soldier | of-army-s2 | and  | is-great | in-property-b2 | by-standard-b3 |
+
+:::
 
 where *[gi'e](/glossary/#gie)* is the Lojban word for “and” when placed between two partial bridi, as explained in [Section 14.9](/chapter14/#149-compound-bridi "14.9. Compound bridi").
 
@@ -472,19 +516,27 @@ Now consider how we would translate the word “blue-eyed”. Let's tentatively 
 
 ##### Example 12.46.
 
+:::jbomupli
+
 |            |       |               |
 | ---------- | ----- | ------------- |
 | la         | djak. | cu blakanla   |
 | That-named | Jack  | is-a-blue-eye |
 
+:::
+
 because Jack is not an eye, *[kanla](/glossary/#kanla)*, but someone with an eye, *se kanla*. At best we can say
 
 ##### Example 12.47.
+
+:::jbomupli
 
 |            |       |    |                            |
 | ---------- | ----- | -- | -------------------------- |
 | la         | djak. | cu | se blakanla                |
 | That-named | Jack  |    | is-the-bearer-of-blue-eyes |
+
+:::
 
 But look now at the place structure of *[blakanla](/glossary/#blakanla)*: it is a symmetrical lujvo, so the place structure is:
 
@@ -506,28 +558,40 @@ For example, in *[bakrecpa'o](/glossary/#bakrecpao)*, meaning “beefsteak”, t
 
 ##### Example 12.49.
 
+:::jbomupli
+
 |       |        |       |         |       |
 | ----- | ------ | ----- | ------- | ----- |
 | \[ke\] | bakni  | rectu | \[ke'e\] | panlo |
 | (     | bovine | meat  | )       | slice |
 
+:::
+
 because of the usual Lojban left-grouping rule. But there doesn't seem to be much difference between that veljvo and
 
 ##### Example 12.50.
+
+:::jbomupli
 
 |        |    |       |       |         |
 | ------ | -- | ----- | ----- | ------- |
 | bakni  | ke | rectu | panlo | \[ke'e\] |
 | bovine | (  | meat  | slice | )       |
 
+:::
+
 On the other hand, the lujvo *[zernerkla](/glossary/#zernerkla)*, meaning “to sneak in”, almost certainly was formed from the veljvo
 
 ##### Example 12.51.
+
+:::jbomupli
 
 |       |    |        |       |         |
 | ----- | -- | ------ | ----- | ------- |
 | zekri | ke | nenri  | klama | \[ke'e\] |
 | crime | (  | inside | go    | )       |
+
+:::
 
 to go within, criminally
 
@@ -535,28 +599,40 @@ because the alternative,
 
 ##### Example 12.52.
 
+:::jbomupli
+
 |       |       |        |         |       |
 | ----- | ----- | ------ | ------- | ----- |
 | \[ke\] | zekri | nenri  | \[ke'e\] | klama |
 | (     | crime | inside | )       | go    |
 
+:::
+
 doesn't make much sense. (To go to the inside of a crime? To go into a place where it is criminal to be inside – an interpretation almost identical with [Example 12.51](/chapter12/#example-1251 "Example 12.51.") anyway?)There are cases, however, where omitting a KE or KEhE rafsi can produce another lujvo, equally useful. For example, *xaskemcakcurnu* means “oceanic shellfish”, and has the veljvo
 
 ##### Example 12.53.
+
+:::jbomupli
 
 |       |         |    |       |       |   |
 | ----- | ------- | -- | ----- | ----- | - |
 | xamsi |         | ke | calku | curnu |   |
 | ocean | type-of | (  | shell | worm  | ) |
 
+:::
+
 (“worm” in Lojban refers to any invertebrate), but *xasycakcurnu* has the veljvo
 
 ##### Example 12.54.
+
+:::jbomupli
 
 |       |       |       |         |         |       |
 | ----- | ----- | ----- | ------- | ------- | ----- |
 | \[ke\] | xamsi | calku | \[ke'e\] |         | curnu |
 | (     | ocean | shell | )       | type-of | worm  |
+
+:::
 
 and might refer to the parasitic worms that infest clamshells.
 
@@ -602,10 +678,14 @@ It is not uncommon for abstractors to participate in the making of more complex 
 
 ##### Example 12.59.
 
+:::jbomupli
+
 |          |                 |     |         |
 | -------- | --------------- | --- | ------- |
 | nu       | sonci           | kei | djica   |
 | event-of | being-a-soldier |     | desirer |
+
+:::
 
 has the place structure
 
@@ -631,10 +711,14 @@ There is also a rafsi for the cmavo *[jai](/glossary/#jai)*, namely *jax*, which
 
 ##### Example 12.62.
 
+:::jbomupli
+
 |    |                    |         |     |          |      |        |
 | -- | ------------------ | ------- | --- | -------- | ---- | ------ |
 | mi | jai                | rinka   | le  | nu       | do   | morsi  |
 | I  | am-associated-with | causing | the | event-of | your | death. |
+
+:::
 
 I cause your death.
 
@@ -642,10 +726,14 @@ explained in [Section 11.10](/chapter11/#1110-lojban-sumti-raising "11.10. Lojba
 
 ##### Example 12.63.
 
+:::jbomupli
+
 |    |                         |     |          |      |        |
 | -- | ----------------------- | --- | -------- | ---- | ------ |
 | mi | jaxri'a                 | le  | nu       | do   | morsi  |
 | I  | am-part-of-the-cause-of | the | event-of | your | dying. |
+
+:::
 
 In making a lujvo that contains *jax-* for a selbri that contains *[jai](/glossary/#jai)*, the rule is to leave the *[fai](/glossary/#fai)* place as a *[fai](/glossary/#fai)* place of the lujvo; it does not participate in the regular lujvo place structure. (The use of *[fai](/glossary/#fai)* is explained in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#1022-conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI").)
 
@@ -799,26 +887,38 @@ Some possible three-part veljvo are (depending on how strictly you want to const
 
 ##### Example 12.83.
 
+:::jbomupli
+
 |       |       |       |         |         |           |
 | ----- | ----- | ----- | ------- | ------- | --------- |
 | \[ke\] | xance | pilno | \[ke'e\] |         | minde     |
 | (     | hand  | user  | )       | type-of | commander |
 
+:::
+
 ##### Example 12.84.
+
+:::jbomupli
 
 |       |           |       |         |         |       |
 | ----- | --------- | ----- | ------- | ------- | ----- |
 | \[ke\] | minde     | xance | \[ke'e\] |         | pilno |
 | (     | commander | hand  | )       | type-of | user  |
 
+:::
+
 or even
 
 ##### Example 12.85.
+
+:::jbomupli
 
 |           |         |    |       |       |         |
 | --------- | ------- | -- | ----- | ----- | ------- |
 | minde     |         | ke | xance | pilno | \[ke'e\] |
 | commander | type-of | (  | hand  | user  | )       |
+
+:::
 
 which lead to the three different lujvo *xanplimi'e*, *mi'erxanpli*, and *minkemxanpli* respectively.
 
@@ -845,10 +945,14 @@ The comparative concept “younger” can be expressed by the lujvo *[citmau](/g
 
 ##### Example 12.88.
 
+:::jbomupli
+
 |    |                 |     |    |          |               |            |      |
 | -- | --------------- | --- | -- | -------- | ------------- | ---------- | ---- |
 | mi | citmau          | do  | lo | nanca    | be            | li         | xa   |
 | I  | am-younger-than | you | by | one-year | multiplied-by | the-number | six. |
+
+:::
 
 I am six years younger than you.
 
@@ -862,10 +966,14 @@ Similarly, in Lojban you can say:
 
 ##### Example 12.90.
 
+:::jbomupli
+
 |     |                     |    |    |          |               |            |      |
 | --- | ------------------- | -- | -- | -------- | ------------- | ---------- | ---- |
 | do  | citme'a             | mi | lo | nanca    | be            | li         | xa   |
 | You | are-less-young-than | me | by | one-year | multiplied-by | the-number | six. |
+
+:::
 
 You are six years less young than me.
 
@@ -895,18 +1003,26 @@ In such cases, it is best not to use *[zmadu](/glossary/#zmadu)* and leave the c
 
 ##### Example 12.92.
 
+:::jbomupli
+
 |    |     |              |
 | -- | --- | ------------ |
 | mi | ca  | tsamau       |
 | I  | now | am-stronger. |
 
+:::
+
 which implies that I'm currently stronger than somebody else (the elided occupant of the second or z2 place), but as
 
 ##### Example 12.93.
 
+:::jbomupli
+
 |    |    |         |
 | -- | -- | ------- |
 | mi | ca | tsaze'a |
+
+:::
 
 I increase in strength.
 
@@ -940,17 +1056,25 @@ But the set against which the t1 place of *[traji](/glossary/#traji)* is compare
 
 ##### Example 12.98.
 
+:::jbomupli
+
 |    |         |    |        |      |         |
 | -- | ------- | -- | ------ | ---- | ------- |
 | la | djudis. | cu | citrai | lo'i | lobypli |
+
+:::
 
 Judy is the youngest of all Lojbanists.
 
 ##### Example 12.99.
 
+:::jbomupli
+
 |    |            |    |        |      |          |
 | -- | ---------- | -- | ------ | ---- | -------- |
 | la | .ainctain. | cu | balrai | lo'i | skegunka |
+
+:::
 
 Einstein was the greatest of all scientists.
 

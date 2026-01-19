@@ -96,41 +96,61 @@ For example:
 
 ##### Example 4.1.
 
+:::jbomupli
+
 |              |
 | ------------ |
 | .iseci'i     |
 | *.i se ci'i* |
 
+:::
+
 ##### Example 4.2.
+
+:::jbomupli
 
 |                    |
 | ------------------ |
 | punaijecanai       |
 | *pu nai je ca nai* |
 
+:::
+
 ##### Example 4.3.
+
+:::jbomupli
 
 |             |
 | ----------- |
 | ki'e.u'e    |
 | *ki'e .u'e* |
 
+:::
+
 The cmavo *[u'e](/glossary/#ue)* begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by *.*) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,
 
 ##### Example 4.4.
+
+:::jbomupli
 
 |            |
 | ---------- |
 | *ki'e'u'e* |
 
+:::
+
 is a single cmavo reserved for experimental purposes: it has four vowels.
 
 ##### Example 4.5.
+
+:::jbomupli
 
 |                 |
 | --------------- |
 | cy.ibu.abu      |
 | *cy. .ibu .abu* |
+
+:::
 
 Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
 
@@ -138,10 +158,14 @@ There is no particular stress required in cmavo or their compounds. Some convent
 
 ##### Example 4.6.
 
+:::jbomupli
+
 |                    |
 | ------------------ |
 | .e'o ko ko kurji   |
 | *.E'o ko ko KURji* |
+
+:::
 
 This convention results in a consistent rhythm to the language, since brivla are required to have penultimate stress; some find this esthetically pleasing.
 
@@ -149,25 +173,37 @@ If the final syllable of one word is stressed, and the first syllable of the nex
 
 ##### Example 4.7.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | le re nanmu |
+
+:::
 
 can be optionally pronounced
 
 ##### Example 4.8.
 
+:::jbomupli
+
 |              |
 | ------------ |
 | le RE. NANmu |
+
+:::
 
 since there are no rules forcing stress on either of the first two words; the stress on *[re](/glossary/#re)*, though, demands that a pause separate *[re](/glossary/#re)* from the following syllable *nan* to ensure that the stress on *nan* is properly heard as a stressed syllable. The alternative pronunciation
 
 ##### Example 4.9.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | LE re NANmu |
+
+:::
 
 is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/#le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8."), the secondary stress on *[re](/glossary/#re)* would be similar to that in the English phrase “the TWO men”.
 
@@ -175,9 +211,13 @@ Both cmavo may also be left unstressed, thus:
 
 ##### Example 4.10.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | le re NANmu |
+
+:::
 
 This would probably be the most common usage.
 
@@ -230,59 +270,91 @@ Here are a few examples of gismu, with rough English equivalents (not definition
 
 ##### Example 4.11.
 
+:::jbomupli
+
 |       |
 | ----- |
 | creka |
 | shirt |
 
+:::
+
 ##### Example 4.12.
+
+:::jbomupli
 
 |          |
 | -------- |
 | lijda    |
 | religion |
 
+:::
+
 ##### Example 4.13.
+
+:::jbomupli
 
 |       |
 | ----- |
 | blanu |
 | blue  |
 
+:::
+
 ##### Example 4.14.
+
+:::jbomupli
 
 |        |
 | ------ |
 | mamta  |
 | mother |
 
+:::
+
 ##### Example 4.15.
+
+:::jbomupli
 
 |       |
 | ----- |
 | cukta |
 | book  |
 
+:::
+
 ##### Example 4.16.
+
+:::jbomupli
 
 |        |
 | ------ |
 | patfu  |
 | father |
 
+:::
+
 ##### Example 4.17.
+
+:::jbomupli
 
 |       |
 | ----- |
 | nanmu |
 | man   |
 
+:::
+
 ##### Example 4.18.
+
+:::jbomupli
 
 |       |
 | ----- |
 | ninmu |
 | woman |
+
+:::
 
 A small number of gismu were formed differently; see [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu") for a list.
 
@@ -292,9 +364,13 @@ When specifying a concept that is not found among the gismu (or, more specifical
 
 ##### Example 4.19.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | skami pilno |
+
+:::
 
 is the tanru which expresses the concept of “computer user”.
 
@@ -308,9 +384,13 @@ To express a simple tanru, simply say the component gismu together. Thus the bin
 
 ##### Example 4.20.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | barda bloti |
+
+:::
 
 representing roughly the same concept as the English word “ship”.
 
@@ -318,17 +398,25 @@ The binary metaphor “father mother” can refer to a paternal grandmother (“
 
 ##### Example 4.21.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | patfu mamta |
+
+:::
 
 and
 
 ##### Example 4.22.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | mamta patfu |
+
+:::
 
 respectively.
 
@@ -338,13 +426,19 @@ When a concept expressed in a tanru proves useful, or is frequently expressed, i
 
 ##### Example 4.23.
 
+:::jbomupli
+
 |        |
 | ------ |
 | sampli |
 
+:::
+
 Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
 
 ##### Example 4.24.
+
+:::jbomupli
 
 |            |
 | ---------- |
@@ -352,15 +446,21 @@ Such a brivla, built from the rafsi which represent its component words, is call
 | “big-boat” |
 | ship       |
 
+:::
+
 The lujvo representing a given tanru is built from units representing the component gismu. These units are called *[rafsi](/glossary/#rafsi)* in Lojban. Each rafsi represents only one gismu. The rafsi are attached together in the order of the words in the tanru, occasionally inserting so-called “hyphen” letters to ensure that the pieces stick together as a single word and cannot accidentally be broken apart into cmavo, gismu, or other word forms. As a result, each lujvo can be readily and accurately recognized, allowing a listener to pick out the word from a string of spoken Lojban, and if necessary, unambiguously decompose the word to a unique source tanru, thus providing a strong clue to its meaning.
 
 The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chapter04/#example-422 "Example 4.22.") is
 
 ##### Example 4.25.
 
+:::jbomupli
+
 |         |
 | ------- |
 | mampa'u |
+
+:::
 
 which refers specifically to the concept “maternal grandfather”. The two gismu that constitute the tanru are represented in *mampa'u* by the rafsi *mam-* and *-pa'u*, respectively; these two rafsi are then concatenated together to form *mampa'u*.
 
@@ -374,12 +474,16 @@ An *r* (in some cases, an *n*) is inserted when a CVV-form rafsi attaches to the
 
 ##### Example 4.26.
 
+:::jbomupli
+
 |                    |
 | ------------------ |
 | soirsai            |
 | from *sonci sanmi* |
 | “soldier meal”     |
 | field rations      |
+
+:::
 
 the rafsi *soi-* and *-sai* are joined, with the additional *r* making up the *rs* consonant pair needed to make the word a brivla. Without the *r*, the word would break up into *soi sai*, two cmavo. The pair of cmavo have no relation to their rafsi lookalikes; they will either be ungrammatical (as in this case), or will express a different meaning from what was intended.
 
@@ -397,13 +501,19 @@ Some examples of unreduced lujvo forms are:
 
 ##### Example 4.27.
 
+:::jbomupli
+
 |                                           |
 | ----------------------------------------- |
 | mamtypatfu                                |
 | from *mamta patfu*                        |
 | “mother father” or “maternal grandfather” |
 
+:::
+
 ##### Example 4.28.
+
+:::jbomupli
 
 |                                      |
 | ------------------------------------ |
@@ -412,7 +522,11 @@ Some examples of unreduced lujvo forms are:
 | “letter list” or a “list of letters” |
 | (letters of the alphabet)            |
 
+:::
+
 ##### Example 4.29.
+
+:::jbomupli
 
 |                                  |
 | -------------------------------- |
@@ -420,7 +534,11 @@ Some examples of unreduced lujvo forms are:
 | from *nanca prali*               |
 | “year profit” or “annual profit” |
 
+:::
+
 ##### Example 4.30.
+
+:::jbomupli
 
 |                                                 |
 | ----------------------------------------------- |
@@ -428,13 +546,19 @@ Some examples of unreduced lujvo forms are:
 | from *pruni plipe*                              |
 | “elastic (springy) leap” or “spring” (the verb) |
 
+:::
+
 ##### Example 4.31.
+
+:::jbomupli
 
 |                            |
 | -------------------------- |
 | vancysanmi                 |
 | from *vanci sanmi*         |
 | “evening meal” or “supper” |
+
+:::
 
 In addition to these two forms, each gismu may have up to three additional short rafsi, three letters long. All short rafsi have one of the forms CVC, CCV, or CVV. The total number of rafsi forms that are assigned to a gismu depends on how useful the gismu is, or is presumed to be, in making lujvo, when compared to other gismu that could be assigned the rafsi.
 
@@ -479,13 +603,19 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 
 ##### Example 4.32.
 
+:::jbomupli
+
 |                       |
 | --------------------- |
 | cumfri                |
 | from *cumki lifri*    |
 | “possible experience” |
 
+:::
+
 ##### Example 4.33.
+
+:::jbomupli
 
 |                    |
 | ------------------ |
@@ -493,7 +623,11 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 | from *klesi zbasu* |
 | “category make”    |
 
+:::
+
 ##### Example 4.34.
+
+:::jbomupli
 
 |                    |
 | ------------------ |
@@ -501,7 +635,11 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 | from *krixa tavla* |
 | “cry-out talk”     |
 
+:::
+
 ##### Example 4.35.
+
+:::jbomupli
 
 |                    |
 | ------------------ |
@@ -509,9 +647,13 @@ The term for a lujvo made up solely of short rafsi is “fully reduced lujvo”.
 | from *sinxa djuno* |
 | “sign know”        |
 
+:::
+
 In addition, the unreduced forms in [Example 4.27](/chapter04/#example-427 "Example 4.27.") and [Example 4.28](/chapter04/#example-428 "Example 4.28.") may be fully reduced to:
 
 ##### Example 4.36.
+
+:::jbomupli
 
 |                                           |
 | ----------------------------------------- |
@@ -519,13 +661,19 @@ In addition, the unreduced forms in [Example 4.27](/chapter04/#example-427 "Exam
 | from *mamta patfu*                        |
 | “mother father” or “maternal grandfather” |
 
+:::
+
 ##### Example 4.37.
+
+:::jbomupli
 
 |                                      |
 | ------------------------------------ |
 | lerste                               |
 | from *lerfu liste*                   |
 | “letter list” or a “list of letters” |
+
+:::
 
 As noted above, CVC-form rafsi cannot appear as the final rafsi in a lujvo, because all lujvo must end with one or two vowels. As a brivla, a lujvo must also contain a consonant cluster within the first five letters – this ensures that they cannot be mistaken for compound cmavo. Of course, all lujvo have at least six letters since they have two or more rafsi, each at least three letters long; hence they cannot be confused with gismu.
 
@@ -549,20 +697,30 @@ There is also a different way of building lujvo, or rather phrases which are gra
 
 ##### Example 4.38.
 
+:::jbomupli
+
 |                 |
 | --------------- |
 | bridi zei valsi |
 
+:::
+
 is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily the same as the underlying tanru *bridi valsi*, which could have other meanings.) Using *[zei](/glossary/#zei)* is the only way to get a cmavo lacking a rafsi, a cmene, or a fu'ivla into a lujvo:
 
 ##### Example 4.39.
+
+:::jbomupli
 
 |               |
 | ------------- |
 | xy. zei kantu |
 | X ray         |
 
+:::
+
 ##### Example 4.40.
+
+:::jbomupli
 
 |                        |
 | ---------------------- |
@@ -570,7 +728,11 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 | “Farsi floor-cover”    |
 | Persian rug            |
 
+:::
+
 ##### Example 4.41.
+
+:::jbomupli
 
 |                                            |
 | ------------------------------------------ |
@@ -578,7 +740,11 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 | “non-A, non-B liver-disease”               |
 | non-A, non-B hepatitis                     |
 
+:::
+
 ##### Example 4.42.
+
+:::jbomupli
 
 |                       |
 | --------------------- |
@@ -586,14 +752,20 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 | “Sherman war-car”     |
 | Sherman tank          |
 
+:::
+
 [Example 4.41](/chapter04/#example-441 "Example 4.41.") is particularly noteworthy because the phrase that would be produced by removing the *[zei](/glossary/#zei)*&#x73; from it doesn't end with a brivla, and in fact is not even grammatical. As written, the example is a tanru with two components, but by adding a *[zei](/glossary/#zei)* between *[by.](/glossary/#by)* and *livgyterbilma* to produce
 
 ##### Example 4.43.
+
+:::jbomupli
 
 |                                                |
 | ---------------------------------------------- |
 | na'e zei .a zei na'e zei by. zei livgyterbilma |
 | non-A-non-B-hepatitis                          |
+
+:::
 
 the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43.") may be preferable, because its place structure can be built from that of *[bilma](/glossary/#bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
 
@@ -607,9 +779,13 @@ There are four stages of borrowing in Lojban, as words become more and more modi
 
 ##### Example 4.44.
 
+:::jbomupli
+
 |                            |
 | -------------------------- |
 | me la'o ly. spaghetti .ly. |
+
+:::
 
 is a predicate with the place structure “x1 is a quantity of spaghetti”.
 
@@ -617,9 +793,13 @@ Stage 2 involves changing the foreign name to a Lojbanized name, as explained in
 
 ##### Example 4.45.
 
+:::jbomupli
+
 |                 |
 | --------------- |
 | me la spagetis. |
+
+:::
 
 One of these expedients is often quite sufficient when you need a word quickly in conversation. (This can make it easier to get by when you do not yet have full command of the Lojban vocabulary, provided you are talking to someone who will recognize the borrowing.)
 
@@ -747,38 +927,58 @@ Here are some fu'ivla representing cultures and related things, shown with more 
 
 ##### Example 4.52.
 
+:::jbomupli
+
 |                         |
 | ----------------------- |
 | bang,r,blgaria          |
 | Bulgarian (in language) |
 
+:::
+
 ##### Example 4.53.
+
+:::jbomupli
 
 |                        |
 | ---------------------- |
 | kuln,r,blgaria         |
 | Bulgarian (in culture) |
 
+:::
+
 ##### Example 4.54.
+
+:::jbomupli
 
 |                        |
 | ---------------------- |
 | gugd,r,blgaria         |
 | Bulgaria (the country) |
 
+:::
+
 ##### Example 4.55.
+
+:::jbomupli
 
 |                       |
 | --------------------- |
 | bang,r,kore,a         |
 | Korean (the language) |
 
+:::
+
 ##### Example 4.56.
+
+:::jbomupli
 
 |                      |
 | -------------------- |
 | kuln,r,kore,a        |
 | Korean (the culture) |
+
+:::
 
 Note the commas in [Example 4.55](/chapter04/#example-455 "Example 4.55.") and [Example 4.56](/chapter04/#example-456 "Example 4.56."), used because *ea* is not a valid diphthong in Lojban. Arguably, some form of the native name “Chosen” should have been used instead of the internationally known “Korea”; this is a recurring problem in all borrowings. In general, it is better to use the native name unless using it will severely impede understanding: “Navajo” is far more widely known than “Dine'e”.
 
@@ -790,77 +990,117 @@ Because names are often highly personal and individual, Lojban attempts to allow
 
 ##### Example 4.57.
 
+:::jbomupli
+
 |       |
 | ----- |
 | djim. |
 | Jim   |
 
+:::
+
 ##### Example 4.58.
+
+:::jbomupli
 
 |        |
 | ------ |
 | djein. |
 | Jane   |
 
+:::
+
 ##### Example 4.59.
+
+:::jbomupli
 
 |          |
 | -------- |
 | .arnold. |
 | Arnold   |
 
+:::
+
 ##### Example 4.60.
+
+:::jbomupli
 
 |      |
 | ---- |
 | pit. |
 | Pete |
 
+:::
+
 ##### Example 4.61.
+
+:::jbomupli
 
 |           |
 | --------- |
 | katrinas. |
 | Katrina   |
 
+:::
+
 ##### Example 4.62.
+
+:::jbomupli
 
 |           |
 | --------- |
 | kat,r,in. |
 | Catherine |
 
+:::
+
 (Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62.") is stressed on the *[ka](/glossary/#ka)*.)
 
 ##### Example 4.63.
+
+:::jbomupli
 
 |        |
 | ------ |
 | katis. |
 | Cathy  |
 
+:::
+
 ##### Example 4.64.
+
+:::jbomupli
 
 |       |
 | ----- |
 | keit. |
 | Kate  |
 
+:::
+
 Names may have almost any form, but always end in a consonant, and are followed by a pause. They are penultimately stressed, unless unusual stress is marked with capitalization. A name may have multiple parts, each ending with a consonant and pause, or the parts may be combined into a single word with no pause. For example,
 
 ##### Example 4.65.
+
+:::jbomupli
 
 |              |
 | ------------ |
 | djan. braun. |
 
+:::
+
 and
 
 ##### Example 4.66.
 
+:::jbomupli
+
 |            |
 | ---------- |
 | djanbraun. |
+
+:::
 
 are both valid Lojbanizations of “John Brown”.
 
@@ -883,37 +1123,53 @@ Names meeting these criteria may be invented, Lojbanized from names in other lan
 
 ##### Example 4.67.
 
+:::jbomupli
+
 |         |
 | ------- |
 | pav.    |
 | the One |
 
+:::
+
 from the cmavo *[pa](/glossary/#pa)*, with rafsi *pav*, meaning “one”
 
 ##### Example 4.68.
+
+:::jbomupli
 
 |         |
 | ------- |
 | sol.    |
 | the Sun |
 
+:::
+
 from the gismu *[solri](/glossary/#solri)*, meaning “solar”, or actually “pertaining to the Sun”
 
 ##### Example 4.69.
+
+:::jbomupli
 
 |                    |
 | ------------------ |
 | ralj.              |
 | Chief (as a title) |
 
+:::
+
 from the gismu *[ralju](/glossary/#ralju)*, meaning “principal”.
 
 ##### Example 4.70.
+
+:::jbomupli
 
 |           |
 | --------- |
 | nol.      |
 | Lord/Lady |
+
+:::
 
 from the gismu *[nobli](/glossary/#nobli)*, with rafsi *nol*, meaning “noble”.
 
@@ -1084,13 +1340,19 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 
 ##### Example 4.71.
 
+:::jbomupli
+
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
 | zbasai                                                                          |
 | *zba + sai*                                                                     |
 | $(1000 \times 6) - (500 \times 0) + (100 \times 0) - (10 \times 15) - 3 = 5847$ |
 
+:::
+
 ##### Example 4.72.
+
+:::jbomupli
 
 |                                                                                 |
 | ------------------------------------------------------------------------------- |
@@ -1098,7 +1360,11 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 | *nun + y + nau*                                                                 |
 | $(1000 \times 7) - (500 \times 0) + (100 \times 1) - (10 \times 13) - 3 = 6967$ |
 
+:::
+
 ##### Example 4.73.
+
+:::jbomupli
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
@@ -1106,13 +1372,19 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 | *sai + r + zba + ta'u*                                                            |
 | $(1000 \times 11) - (500 \times 1) + (100 \times 1) - (10 \times 21) - 5 = 10385$ |
 
+:::
+
 ##### Example 4.74.
+
+:::jbomupli
 
 |                                                                                   |
 | --------------------------------------------------------------------------------- |
 | zbazbasysarji                                                                     |
 | *zba + zbas + y + sarji*                                                          |
 | $(1000 \times 13) - (500 \times 0) + (100 \times 1) - (10 \times 12) - 4 = 12976$ |
+
+:::
 
 ## 4.13. lujvo-making examples
 
@@ -1487,10 +1759,14 @@ The first part of the proposal is uncontroversial and involves no change to the 
 
 ##### Example 4.75.
 
+:::jbomupli
+
 |         |
 | ------- |
 | tci'ile |
 | Chilean |
+
+:::
 
 is of the appropriate form, and passes all tests required of a Stage 4 fu'ivla. No two fu'ivla of this form would be allowed to coexist if they differed only in the final vowel; this rule was applied to gismu, but does not apply to other fu'ivla or to lujvo.
 
@@ -1498,10 +1774,14 @@ The second, and fully experimental, part of the proposal is to allow rafsi to be
 
 ##### Example 4.76.
 
+:::jbomupli
+
 |         |           |       |            |
 | ------- | --------- | ----- | ---------- |
 | tci'ile | ke        | canre | tutra      |
 | Chilean | type-of-( | sand  | territory) |
+
+:::
 
 Chilean desert
 
@@ -1509,9 +1789,13 @@ could be represented by the lujvo
 
 ##### Example 4.77.
 
+:::jbomupli
+
 |                    |
 | ------------------ |
 | tci'ilykemcantutra |
+
+:::
 
 which is an illegal word in standard Lojban, but a valid lujvo under this proposal. There would be no short rafsi or 5-letter rafsi assigned to any fu'ivla, so no fu'ivla could appear as the last element of a lujvo.
 

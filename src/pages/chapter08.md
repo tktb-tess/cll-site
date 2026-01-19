@@ -19,10 +19,14 @@ However, even with the assistance of a pointing finger, or pointing lips, or wha
 
 ##### Example 8.1.
 
+:::jbomupli
+
 |          |     |         |
 | -------- | --- | ------- |
 | ti       | cu  | barda   |
 | This-one |     | is-big. |
+
+:::
 
 What is the referent of *[ti](/glossary/#ti)*? Is it the person? Or perhaps it is the person's nose? Or even (for *[ti](/glossary/#ti)* can be plural as well as singular, and mean “these ones” as well as “this one”) the pores on the person's nose?
 
@@ -32,30 +36,42 @@ In between the *[poi](/glossary/#poi)* and the *[ku'o](/glossary/#kuo)* appears 
 
 ##### Example 8.2.
 
+:::jbomupli
+
 |            |             |      |             |      |     |           |
 | ---------- | ----------- | ---- | ----------- | ---- | --- | --------- |
 | ti         | poi         | ke'a | prenu       | ku'o | cu  | barda     |
 | This-thing | such-that-( | IT   | is-a-person | )    |     | is-large. |
+
+:::
 
 This thing which is a person is big.
 | This person is big.                  |
 
 ##### Example 8.3.
 
+:::jbomupli
+
 |            |             |      |           |      |     |           |
 | ---------- | ----------- | ---- | --------- | ---- | --- | --------- |
 | ti         | poi         | ke'a | nazbi     | ku'o | cu  | barda     |
 | This-thing | such-that-( | IT   | is-a-nose | )    |     | is-large. |
+
+:::
 
 This thing which is a nose is big.
 | This nose is big.                  |
 
 ##### Example 8.4.
 
+:::jbomupli
+
 |            |             |      |           |         |           |      |     |         |
 | ---------- | ----------- | ---- | --------- | ------- | --------- | ---- | --- | ------- |
 | ti         | poi         | ke'a | nazbi     |         | kapkevna  | ku'o | cu  | barda   |
 | This-thing | such-that-( | IT   | is-a-nose | type-of | skin-hole | )    |     | is-big. |
+
+:::
 
 These things which are nose-pores are big.
 | These nose-pores are big.                  |
@@ -66,20 +82,28 @@ Of course, there is no reason why *[ke'a](/glossary/#kea)* needs to appear in th
 
 ##### Example 8.5.
 
+:::jbomupli
+
 |                    |             |     |       |          |       |      |      |     |           |
 | ------------------ | ----------- | --- | ----- | -------- | ----- | ---- | ---- | --- | --------- |
 | tu                 | poi         | le  | mlatu | pu       | lacpu | ke'a | ku'o | cu  | ratcu     |
 | That-distant-thing | such-that-( | the | cat   | \[past\] | drags | IT   | )    |     | is-a-rat. |
+
+:::
 
 That thing which the cat dragged is a rat.
 | What the cat dragged is a rat.             |
 
 ##### Example 8.6.
 
+:::jbomupli
+
 |            |             |     |        |     |           |
 | ---------- | ----------- | --- | ------ | --- | --------- |
 | ta         | poi         | mi  | djica  | le  | nu        |
 | That-thing | such-that-( | I   | desire | the | event-of( |
+
+:::
 
 |     |       |      |         |      |     |            |
 | --- | ----- | ---- | ------- | ---- | --- | ---------- |
@@ -94,19 +118,27 @@ Like any sumti, *[ke'a](/glossary/#kea)* can be omitted. The usual presumption i
 
 ##### Example 8.7.
 
+:::jbomupli
+
 |            |       |           |     |         |
 | ---------- | ----- | --------- | --- | ------- |
 | ti         | poi   | nazbi     | cu  | barda   |
 | This-thing | which | is-a-nose |     | is-big. |
 
+:::
+
 almost certainly means the same thing as [Example 8.3](/chapter08/#example-83 "Example 8.3."). However, *[ke'a](/glossary/#kea)* can be omitted if it is clear to the listener that it belongs in some place other than x1:
 
 ##### Example 8.8.
+
+:::jbomupli
 
 |                    |       |     |       |          |       |     |          |
 | ------------------ | ----- | --- | ----- | -------- | ----- | --- | -------- |
 | tu                 | poi   | le  | mlatu | pu       | lacpu | cu  | ratcu    |
 | That-distant-thing | which | the | cat   | \[past\] | drags |     | is-a-rat |
+
+:::
 
 is equivalent to [Example 8.4](/chapter08/#example-84 "Example 8.4.").
 
@@ -114,10 +146,14 @@ As stated before, *[ku'o](/glossary/#kuo)* is an elidable terminator, and in fac
 
 ##### Example 8.9.
 
+:::jbomupli
+
 |      |       |             |     |         |
 | ---- | ----- | ----------- | --- | ------- |
 | ti   | poi   | prenu       | cu  | barda   |
 | That | which | is-a-person |     | is-big. |
+
+:::
 
 That person is big.
 
@@ -149,19 +185,27 @@ Consider the following examples:
 
 ##### Example 8.12.
 
+:::jbomupli
+
 |     |       |       |         |     |           |
 | --- | ----- | ----- | ------- | --- | --------- |
 | le  | gerku | poi   | blanu   | cu  | barda     |
 | The | dog   | which | is-blue |     | is-large. |
 
+:::
+
 The dog which is blue is large.
 
 ##### Example 8.13.
+
+:::jbomupli
 
 |     |       |                    |         |     |           |
 | --- | ----- | ------------------ | ------- | --- | --------- |
 | le  | gerku | noi                | blanu   | cu  | barda     |
 | The | dog   | incidentally-which | is-blue |     | is-large. |
+
+:::
 
 The dog, which is blue, is large.
 
@@ -173,10 +217,14 @@ Here are more examples of incidental relative clauses:
 
 ##### Example 8.14.
 
+:::jbomupli
+
 |     |                  |            |     |       |                 |
 | --- | ---------------- | ---------- | --- | ----- | --------------- |
 | mi  | noi              | pajni      | cu  | zvati |                 |
 | I   | who-incidentally | am-a-judge |     | am-at | \[some-place\]. |
+
+:::
 
 I, a judge, am present.
 
@@ -184,10 +232,14 @@ In this example, *[mi](/glossary/#mi)* is already sufficiently restricted, and t
 
 ##### Example 8.15.
 
+:::jbomupli
+
 |           |     |       |     |     |       |                    |           |
 | --------- | --- | ----- | --- | --- | ----- | ------------------ | --------- |
 | xu        | do  | viska | le  | mi  | karce | noi                | blabi     |
 | \[True?\] | You | see   |     | my  | car   | incidentally-which | is-white. |
+
+:::
 
 Do you see my car, which is white?
 
@@ -195,10 +247,14 @@ In [Example 8.15](/chapter08/#example-815 "Example 8.15."), the speaker is presu
 
 ##### Example 8.16.
 
+:::jbomupli
+
 |           |     |       |     |     |       |       |           |
 | --------- | --- | ----- | --- | --- | ----- | ----- | --------- |
 | xu        | do  | viska | le  | mi  | karce | poi   | blabi     |
 | \[True?\] | You | see   |     | my  | car   | which | is-white. |
+
+:::
 
 Do you see my car that is white?
 | Do you see my white car?         |
@@ -207,10 +263,14 @@ Here the speaker probably has several cars, and is restricting the referent of t
 
 ##### Example 8.17.
 
+:::jbomupli
+
 |           |     |       |     |     |       |       |
 | --------- | --- | ----- | --- | --- | ----- | ----- |
 | xu        | do  | viska | le  | mi  | blabi | karce |
 | \[True?\] | You | see   |     | my  | white | car.  |
+
+:::
 
 Do you see my car, the white one?
 
@@ -236,19 +296,27 @@ Here is an example of *[pe](/glossary/#pe)*, plus an equivalent sentence using a
 
 ##### Example 8.18.
 
+:::jbomupli
+
 |     |       |                 |     |     |          |
 | --- | ----- | --------------- | --- | --- | -------- |
 | le  | stizu | pe              | mi  | cu  | blanu    |
 | The | chair | associated-with | me  |     | is-blue. |
 
+:::
+
 My chair is blue.
 
 ##### Example 8.19.
+
+:::jbomupli
 
 |     |       |             |      |                    |     |     |          |
 | --- | ----- | ----------- | ---- | ------------------ | --- | --- | -------- |
 | le  | stizu | poi         | ke'a | srana              | mi  | cu  | blanu    |
 | The | chair | such-that-( | IT   | is-associated-with | me  | )   | is-blue. |
+
+:::
 
 In [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.19](/chapter08/#example-819 "Example 8.19."), the link between the chair and the speaker is of the loosest kind.
 
@@ -256,17 +324,25 @@ Here is an example of *[po](/glossary/#po)*:
 
 ##### Example 8.20.
 
+:::jbomupli
+
 |     |       |             |     |     |         |
 | --- | ----- | ----------- | --- | --- | ------- |
 | le  | stizu | po          | mi  | cu  | xunre   |
 | The | chair | specific-to | me  |     | is-red. |
 
+:::
+
 ##### Example 8.21.
+
+:::jbomupli
 
 |     |       |             |      |                 |                 |     |     |         |
 | --- | ----- | ----------- | ---- | --------------- | --------------- | --- | --- | ------- |
 | le  | stizu | poi         | ke'a | se steci        | srana           | mi  | cu  | xunre   |
 | The | chair | such-that-( | IT   | is-specifically | associated-with | me  | )   | is-red. |
+
+:::
 
 [Example 8.20](/chapter08/#example-820 "Example 8.20.") and [Example 8.21](/chapter08/#example-821 "Example 8.21.") contrast with [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.19](/chapter08/#example-819 "Example 8.19."): the chair is more permanently connected with the speaker. A plausible (though not the only possible) contrast between [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.20](/chapter08/#example-820 "Example 8.20.") is that *pe mi* would be appropriate for a chair the speaker is currently sitting on (whether or not the speaker owned that chair), and *po mi* for a chair owned by the speaker (whether or not he or she was currently occupying it).
 
@@ -276,17 +352,25 @@ Here is an example of *[po'e](/glossary/#poe)*, as well as another example of *[
 
 ##### Example 8.22.
 
+:::jbomupli
+
 |     |       |                            |     |     |           |
 | --- | ----- | -------------------------- | --- | --- | --------- |
 | le  | birka | po'e                       | mi  | cu  | spofu     |
 | The | arm   | intrinsically-possessed-by | me  |     | is-broken |
 
+:::
+
 ##### Example 8.23.
+
+:::jbomupli
 
 |     |       |       |                  |     |              |
 | --- | ----- | ----- | ---------------- | --- | ------------ |
 | le  | birka | poi   | jinzi            | ke  | se steci     |
 | The | arm   | which | is-intrinsically | (   | specifically |
+
+:::
 
 |                  |     |     |            |
 | ---------------- | --- | --- | ---------- |
@@ -295,10 +379,14 @@ Here is an example of *[po'e](/glossary/#poe)*, as well as another example of *[
 
 ##### Example 8.24.
 
+:::jbomupli
+
 |     |        |             |     |     |           |
 | --- | ------ | ----------- | --- | --- | --------- |
 | le  | botpi  | po          | mi  | cu  | spofu     |
 | The | bottle | specific-to | me  |     | is-broken |
+
+:::
 
 [Example 8.22](/chapter08/#example-822 "Example 8.22.") and [Example 8.23](/chapter08/#example-823 "Example 8.23.") on the one hand, and [Example 8.24](/chapter08/#example-824 "Example 8.24.") on the other, illustrate the contrast between two types of possession called “intrinsic” and “extrinsic”, or sometimes “inalienable” and “alienable”, respectively. Something is intrinsically (or inalienably) possessed by someone if the possession is part of the possessor, and cannot be changed without changing the possessor. In the case of [Example 8.22](/chapter08/#example-822 "Example 8.22."), people are usually taken to intrinsically possess their arms: even if an arm is cut off, it remains the arm of that person. (If the arm is transplanted to another person, however, it becomes intrinsically possessed by the new user, though, so intrinsic possession is a matter of degree.)
 
@@ -308,10 +396,14 @@ Note that [Example 8.22](/chapter08/#example-822 "Example 8.22.") can also be ex
 
 ##### Example 8.25.
 
+:::jbomupli
+
 |     |       |         |     |     |           |
 | --- | ----- | ------- | --- | --- | --------- |
 | le  | birka | be      | mi  | cu  | spofu     |
 | The | arm   | of-body | me  |     | is-broken |
+
+:::
 
 reflecting the fact that the gismu *[birka](/glossary/#birka)* has an x2 place representing the body to which the arm belongs. Many, but not all, cases of intrinsic possession can be thus covered without using *[po'e](/glossary/#poe)* by placing the possessor into the appropriate place of the description selbri.
 
@@ -319,17 +411,25 @@ Here is an example of *[po'u](/glossary/#pou)*:
 
 ##### Example 8.26.
 
+:::jbomupli
+
 |     |       |          |     |     |        |     |        |     |
 | --- | ----- | -------- | --- | --- | ------ | --- | ------ | --- |
 | le  | gerku | po'u     | le  | mi  | pendo  | cu  | cinba  | mi  |
 | The | dog   | which-is |     | my  | friend |     | kisses | me. |
 
+:::
+
 ##### Example 8.27.
+
+:::jbomupli
 
 |     |       |       |     |     |     |        |     |        |     |
 | --- | ----- | ----- | --- | --- | --- | ------ | --- | ------ | --- |
 | le  | gerku | poi   | du  | le  | mi  | pendo  | cu  | cinba  | mi  |
 | The | dog   | which | =   |     | my  | friend |     | kisses | me. |
+
+:::
 
 The cmavo *[po'u](/glossary/#pou)* does not represent possession at all, but rather identity. (Note that it means *poi du* and its form was chosen to suggest the relationship.)
 
@@ -337,10 +437,14 @@ In [Example 8.26](/chapter08/#example-826 "Example 8.26."), the use of *[po'u](/
 
 ##### Example 8.28.
 
+:::jbomupli
+
 |     |     |        |          |     |       |     |        |     |
 | --- | --- | ------ | -------- | --- | ----- | --- | ------ | --- |
 | le  | mi  | pendo  | po'u     | le  | gerku | cu  | cinba  | mi  |
 |     | My  | friend | which-is | the | dog   |     | kisses | me. |
+
+:::
 
 The facts of the case are the same, but the listener's knowledge about the situation may not be. In [Example 8.26](/chapter08/#example-826 "Example 8.26."), the listener is presumed not to understand which dog is meant by *le gerku*, so the speaker adds a relative phrase clarifying that it is the particular dog which is the speaker's friend.
 
@@ -348,17 +452,25 @@ The facts of the case are the same, but the listener's knowledge about the situa
 
 ##### Example 8.29.
 
+:::jbomupli
+
 |     |       |      |            |
 | --- | ----- | ---- | ---------- |
 | le  | tcadu | po'u | la nu,iork |
+
+:::
 
 The city of New--York \[not another city\]
 
 ##### Example 8.30.
 
+:::jbomupli
+
 |            |      |     |       |
 | ---------- | ---- | --- | ----- |
 | la nu,iork | po'u | le  | tcadu |
+
+:::
 
 New--York -- the city (not the state or some other New York)
 
@@ -366,19 +478,27 @@ The principle that the possessor and the possessed may change places applies to 
 
 ##### Example 8.31.
 
+:::jbomupli
+
 |     |       |                 |     |     |        |     |           |
 | --- | ----- | --------------- | --- | --- | ------ | --- | --------- |
 | le  | kabri | pe              | le  | mi  | pendo  | cu  | cmalu     |
 | The | cup   | associated-with |     | my  | friend |     | is-small. |
 
+:::
+
 My friend's cup is small
 
 ##### Example 8.32.
+
+:::jbomupli
 
 |     |     |        |                 |     |       |     |           |
 | --- | --- | ------ | --------------- | --- | ----- | --- | --------- |
 | le  | mi  | pendo  | pe              | le  | kabri | cu  | cmalu     |
 |     | My  | friend | associated-with | the | cup   |     | is-small. |
+
+:::
 
 My friend, the one with the cup, is small.
 
@@ -388,10 +508,14 @@ Finally, the cmavo *[ne](/glossary/#ne)* and *[no'u](/glossary/#nou)* stand to *
 
 ##### Example 8.33.
 
+:::jbomupli
+
 |     |       |       |                              |     |     |       |      |
 | --- | ----- | ----- | ---------------------------- | --- | --- | ----- | ---- |
 | le  | blabi | gerku | ne                           | mi  | cu  | batci | do   |
 | The | white | dog,  | incidentally-associated-with | me  | ,   | bites | you. |
+
+:::
 
 The white dog, which is mine, bites you.
 
@@ -401,10 +525,14 @@ Distinguishing between *[po'u](/glossary/#pou)* and *[no'u](/glossary/#nou)* can
 
 ##### Example 8.34.
 
+:::jbomupli
+
 |     |       |                     |            |       |     |            |
 | --- | ----- | ------------------- | ---------- | ----- | --- | ---------- |
 | le  | nanmu | no'u                | la         | djim. | cu  | terpemci   |
 | The | man,  | incidentally-who-is | that-named | Jim   | ,   | is-a-poet. |
+
+:::
 
 The man, Jim, is a poet.
 
@@ -412,10 +540,14 @@ Here I am saying that one of the men is a poet, and incidentally telling you tha
 
 ##### Example 8.35.
 
+:::jbomupli
+
 |     |       |        |            |       |     |            |
 | --- | ----- | ------ | ---------- | ----- | --- | ---------- |
 | le  | nanmu | po'u   | la         | djim. | cu  | terpemci   |
 | The | man   | who-is | that-named | Jim   |     | is-a-poet. |
+
+:::
 
 The man Jim is a poet.
 
@@ -431,10 +563,14 @@ seems strange to a French- or German-speaking person: whose pockets would he put
 
 ##### Example 8.37.
 
+:::jbomupli
+
 |     |       |     |       |     |       |          |     |         |
 | --- | ----- | --- | ----- | --- | ----- | -------- | --- | ------- |
 | le  | nanmu | cu  | punji | le  | xance |          | le  | daski   |
 | The | man   |     | puts  | the | hand  | at-locus | the | pocket. |
+
+:::
 
 is very natural. Of course, if the man is in fact putting his hands into another's pockets, or another's hands into his pockets, the fact can be specified.
 
@@ -450,9 +586,13 @@ Sometimes it is necessary or useful to attach more than one relative clause to a
 
 ##### Example 8.38.
 
+:::jbomupli
+
 |     |       |     |       |      |     |       |     |       |     |       |
 | --- | ----- | --- | ----- | ---- | --- | ----- | --- | ----- | --- | ----- |
 | le  | gerku | poi | blabi | zi'e | poi | batci | le  | nanmu | cu  | klama |
+
+:::
 
 The dog which is white and which bites the man goes.
 
@@ -462,10 +602,14 @@ It is perfectly correct to use *[zi'e](/glossary/#zie)* to connect relative clau
 
 ##### Example 8.39.
 
+:::jbomupli
+
 |     |       |         |         |      |                        |
 | --- | ----- | ------- | ------- | ---- | ---------------------- |
 | le  | gerku | poi     | blabi   | zi'e | noi                    |
 | The | dog   | that-is | (white) | and  | incidentally-such-that |
+
+:::
 
 |     |     |        |     |       |      |     |       |
 | --- | --- | ------ | --- | ----- | ---- | --- | ----- |
@@ -480,10 +624,14 @@ It is also possible to connect relative phrases with *[zi'e](/glossary/#zie)*, o
 
 ##### Example 8.40.
 
+:::jbomupli
+
 |     |        |             |     |      |          |       |     |            |
 | --- | ------ | ----------- | --- | ---- | -------- | ----- | --- | ---------- |
 | le  | botpi  | po          | mi  | zi'e | poi      | blanu | cu  | spofu      |
 | The | bottle | specific-to | me  | and  | which-is | blue  |     | is-broken. |
+
+:::
 
 My blue bottle is broken.
 
@@ -491,10 +639,14 @@ Note that if the colloquial translation of [Example 8.40](/chapter08/#example-84
 
 ##### Example 8.41.
 
+:::jbomupli
+
 |     |            |        |     |       |                 |
 | --- | ---------- | ------ | --- | ----- | --------------- |
 | mi  | ba         | zutse  | le  | stizu | pe              |
 | I   | \[future\] | sit-in | the | chair | associated-with |
+
+:::
 
 |     |      |             |     |      |       |         |
 | --- | ---- | ----------- | --- | ---- | ----- | ------- |
@@ -509,10 +661,14 @@ Here is another example, mixing a relative phrase and two relative clauses, a re
 
 ##### Example 8.42.
 
+:::jbomupli
+
 |     |            |       |     |       |                 |     |      |       |          |
 | --- | ---------- | ----- | --- | ----- | --------------- | --- | ---- | ----- | -------- |
 | mi  | ba         | citka | le  | dembi | pe              | mi  | zi'e | poi   | cpana    |
 | I   | \[future\] | eat   | the | beans | associated-with | me  | and  | which | are-upon |
+
+:::
 
 |     |     |       |      |                    |     |       |      |     |     |
 | --- | --- | ----- | ---- | ------------------ | --- | ----- | ---- | --- | --- |
@@ -531,19 +687,27 @@ There is another member of selma'o NOI which serves to introduce a third kind of
 
 ##### Example 8.43.
 
+:::jbomupli
+
 |     |       |       |          |     |       |
 | --- | ----- | ----- | -------- | --- | ----- |
 | le  | gerku | poi   | blabi    | cu  | klama |
 | The | dog   | which | is-white |     | goes. |
 
+:::
+
 it must actually be true that the dog is white, or the sentence constitutes a miscommunication. If there is a white dog and a brown dog, and the speaker uses *le gerku poi blabi* to refer to the brown dog, then the listener will not understand correctly. However,
 
 ##### Example 8.44.
+
+:::jbomupli
 
 |     |       |                     |       |     |       |
 | --- | ----- | ------------------- | ----- | --- | ----- |
 | le  | gerku | voi                 | blabi | cu  | klama |
 | The | dog   | which-I-describe-as | white |     | goes. |
+
+:::
 
 puts the listener on notice that the dog in question may not actually meet objective standards (whatever they are) for being white: only the speaker can say exactly what is meant by the term. In this way, *[voi](/glossary/#voi)* is like *[le](/glossary/#le)*; the speaker's intention determines the meaning.
 
@@ -551,19 +715,27 @@ As a result, the following two sentences
 
 ##### Example 8.45.
 
+:::jbomupli
+
 |                          |       |     |             |
 | ------------------------ | ----- | --- | ----------- |
 | le                       | nanmu | cu  | ninmu       |
 | That-which-I-describe-as | a-man |     | is-a-woman. |
 
+:::
+
 The “guy” is actually a gal.
 
 ##### Example 8.46.
+
+:::jbomupli
 
 |            |                     |       |     |             |
 | ---------- | ------------------- | ----- | --- | ----------- |
 | ti         | voi                 | nanmu | cu  | ninmu       |
 | This-thing | which-I-describe-as | a-man |     | is-a-woman. |
+
+:::
 
 mean essentially the same thing (except that [Example 8.46](/chapter08/#example-846 "Example 8.46.") involves pointing thanks to the use of *[ti](/glossary/#ti)*, whereas [Example 8.45](/chapter08/#example-845 "Example 8.45.") doesn't), and neither one is self-contradictory: it is perfectly all right to describe something as a man (although perhaps confusing to the listener) even if it actually is a woman.
 
@@ -575,10 +747,14 @@ There are actually three places where a relative clause can be attached to a des
 
 ##### Example 8.47.
 
+:::jbomupli
+
 |     |       |       |           |      |     |     |       |     |
 | --- | ----- | ----- | --------- | ---- | --- | --- | ----- | --- |
 | le  | gerku | poi   | blabi     | ku'o | ku  | cu  | klama | vau |
 | The | (dog  | which | (is-white | )    | )   |     | goes  | .   |
+
+:::
 
 The dog which is white is going.
 
@@ -588,17 +764,25 @@ When a simple descriptor using *[le](/glossary/#le)*, like *le gerku*, has a rel
 
 ##### Example 8.48.
 
+:::jbomupli
+
 |     |             |             |      |       |     |       |
 | --- | ----------- | ----------- | ---- | ----- | --- | ----- |
 | le  | poi         | blabi       | ku'o | gerku | cu  | klama |
 | The | such-that-( | it-is-white | )    | dog   |     | goes. |
 
+:::
+
 ##### Example 8.49.
+
+:::jbomupli
 
 |     |       |     |       |          |     |       |
 | --- | ----- | --- | ----- | -------- | --- | ----- |
 | le  | gerku | ku  | poi   | blabi    | cu  | klama |
 | The | (dog  | )   | which | is-white |     | goes. |
+
+:::
 
 [Example 8.47](/chapter08/#example-847 "Example 8.47.") will seem most natural to speakers of languages like English, which always puts relative clauses after the noun phrases they are attached to; [Example 8.48](/chapter08/#example-848 "Example 8.48."), on the other hand, may seem more natural to Finnish or Chinese speakers, who put the relative clause first. Note that in [Example 8.48](/chapter08/#example-848 "Example 8.48."), the elidable terminator *[gerku](/glossary/#gerku)*), resulting in an ungrammatical sentence. The purpose of the form appearing in [Example 8.49](/chapter08/#example-849 "Example 8.49.") will be apparent shortly.
 
@@ -606,10 +790,14 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 
 ##### Example 8.50.
 
+:::jbomupli
+
 |     |     |     |      |         |     |       |     |         |
 | --- | --- | --- | ---- | ------- | --- | ----- | --- | ------- |
 | re  |     | le  | mu   | prenu   | cu  | klama | le  | zarci   |
 | Two | of  | the | five | persons |     | go-to | the | market. |
+
+:::
 
 Two of the five people \[that I have in mind\] are going to the market.
 
@@ -617,10 +805,14 @@ Two of the five people \[that I have in mind\] are going to the market.
 
 ##### Example 8.51.
 
+:::jbomupli
+
 |     |     |     |                    |           |      |
 | --- | --- | --- | ------------------ | --------- | ---- |
 | re  |     | le  | poi                | ninmu     | ku'o |
 | Two | of  | the | such-that(\[they\] | are-women | )    |
+
+:::
 
 |      |         |     |       |     |         |
 | ---- | ------- | --- | ----- | --- | ------- |
@@ -631,19 +823,27 @@ Two women out of the five persons go to the market.
 
 ##### Example 8.52.
 
+:::jbomupli
+
 |     |     |     |       |         |         |            |        |     |       |     |         |
 | --- | --- | --- | ----- | ------- | ------- | ---------- | ------ | --- | ----- | --- | ------- |
 | re  |     | le  | mu    | prenu   | poi     | ninmu      | \[ku\] | cu  | klama | le  | zarci   |
 | Two | of  | the | (five | persons | which-( | are-women) | )      |     | go-to | the | market. |
 
+:::
+
 Two of the five women go to the market.
 
 ##### Example 8.53.
+
+:::jbomupli
 
 |      |     |     |      |         |     |         |           |     |       |     |         |
 | ---- | --- | --- | ---- | ------- | --- | ------- | --------- | --- | ----- | --- | ------- |
 | re   |     | le  | mu   | prenu   | ku  | poi     | ninmu     | cu  | klama | le  | zarci   |
 | (Two | of  | the | five | persons | )   | which-( | are-women | )   | go-to | the | market. |
+
+:::
 
 Two women out of the five persons go to the market.
 
@@ -655,19 +855,27 @@ When *[le](/glossary/#le)* is the descriptor being used, and the sumti has no ex
 
 ##### Example 8.54.
 
+:::jbomupli
+
 |       |         |     |                      |           |     |       |     |         |
 | ----- | ------- | --- | -------------------- | --------- | --- | ----- | --- | ------- |
 | lo    | prenu   | ku  | noi                  | blabi     | cu  | klama | le  | zarci   |
 | (Some | persons | )   | incidentally-which-( | are-white | )   | go-to | the | market. |
 
+:::
+
 Some people, who are white, go to the market.
 
 ##### Example 8.55.
+
+:::jbomupli
 
 |      |          |                    |           |        |     |       |        |         |
 | ---- | -------- | ------------------ | --------- | ------ | --- | ----- | ------ | ------- |
 | lo   | prenu    | noi                | blabi     | \[ku\] | cu  | klama | le     | zarci   |
 | Some | (persons | incidentally-which | are-white | )      |     | go    | to-the | market. |
+
+:::
 
 Some of the people, who by the way are white, go to the market.
 
@@ -681,10 +889,14 @@ When the descriptor is *[la](/glossary/#la)*, indicating that what follows is a 
 
 ##### Example 8.56.
 
+:::jbomupli
+
 |     |       |              |       |       |       |     |       |       |        |
 | --- | ----- | ------------ | ----- | ----- | ----- | --- | ----- | ----- | ------ |
 | mi  | viska | la           | nanmu | poi   | terpa | le  | ke'a  | xirma | \[ku\] |
 | I   | see   | that-named-( | man   | which | fears | the | of-IT | horse | ).     |
+
+:::
 
 I see Man Afraid Of His Horse.
 
@@ -692,10 +904,14 @@ says that the speaker sees a person with a particular name, who does not necessa
 
 ##### Example 8.57.
 
+:::jbomupli
+
 |     |       |              |       |     |       |       |     |       |        |
 | --- | ----- | ------------ | ----- | --- | ----- | ----- | --- | ----- | ------ |
 | mi  | viska | la           | nanmu | ku  | poi   | terpa | le  | ke'a  | xirma. |
 | I   | see   | that-named-( | Man   | )   | which | fears | the | of-IT | horse. |
+
+:::
 
 I see the person named “Man” who is afraid of his horse.
 
@@ -705,10 +921,14 @@ Finally, so-called indefinite sumti like *re karce*, which means almost the same
 
 ##### Example 8.58.
 
+:::jbomupli
+
 |     |         |     |       |        |           |        |
 | --- | ------- | --- | ----- | ------ | --------- | ------ |
 | mi  | ponse   | re  | karce | \[ku\] | poi       | xekri  |
 | I   | possess | two | cars  |        | which-are | black. |
+
+:::
 
 The restrictive relative clause only affects the two cars being affected by the main bridi, not all cars that exist. It is ungrammatical to try to place a relative clause within an indefinite sumti (that is, before an explicitly expressed terminating *[ku](/glossary/#ku)*.) Use an explicit *[lo](/glossary/#lo)* instead.
 
@@ -718,28 +938,40 @@ In [Example 8.15](/chapter08/#example-815 "Example 8.15.") through [Example 8.17
 
 ##### Example 8.59.
 
+:::jbomupli
+
 |     |     |       |     |         |
 | --- | --- | ----- | --- | ------- |
 | le  | mi  | karce | cu  | xunre   |
 |     | My  | car   |     | is-red. |
 
+:::
+
 and
 
 ##### Example 8.60.
+
+:::jbomupli
 
 |     |                  |     |       |     |         |
 | --- | ---------------- | --- | ----- | --- | ------- |
 | le  | pe               | mi  | karce | cu  | xunre   |
 | The | (associated-with | me) | car   |     | is-red. |
 
+:::
+
 mean exactly the same thing. Furthermore, since there are no special considerations of quantifiers here,
 
 ##### Example 8.61.
+
+:::jbomupli
 
 |     |       |                 |     |     |         |
 | --- | ----- | --------------- | --- | --- | ------- |
 | le  | karce | pe              | mi  | cu  | xunre   |
 | The | car   | associated-with | me  |     | is-red. |
+
+:::
 
 means the same thing as well. A sumti like the one in [Example 8.59](/chapter08/#example-859 "Example 8.59.") is called a “possessive sumti”. Of course, it does not really indicate possession in the sense of ownership, but like *[pe](/glossary/#pe)* relative phrases, indicates only weak association; you can say *le mi karce* even if you've only borrowed it for the night. (In English, “my car” usually means *le karce po mi*, but we do not have the same sense of possession in “my seat on the bus”; Lojban simply makes the weaker sense the standard one.) The inner sumti, *[mi](/glossary/#mi)* in [Example 8.59](/chapter08/#example-859 "Example 8.59."), is correspondingly called the “possessor sumti”.
 
@@ -751,10 +983,14 @@ Here is an example of a description used in a possessive sumti:
 
 ##### Example 8.62.
 
+:::jbomupli
+
 |     |                  |     |       |     |       |     |          |
 | --- | ---------------- | --- | ----- | --- | ----- | --- | -------- |
 | le  |                  | le  | nanmu | ku  | karce | cu  | blanu    |
 | The | (associated-with | the | man   | )   | car   |     | is-blue. |
+
+:::
 
 The man's car is blue.
 
@@ -764,10 +1000,14 @@ And here is a number used as a possessor sumti:
 
 ##### Example 8.63.
 
+:::jbomupli
+
 |     |               |      |         |             |
 | --- | ------------- | ---- | ------- | ----------- |
 | le  | li            | mu   | jdice   | se bende    |
 | The | of-the-number | five | judging | team-member |
+
+:::
 
 Juror number 5
 
@@ -777,19 +1017,27 @@ A possessive sumti may also have regular relative clauses attached to it. This w
 
 ##### Example 8.64.
 
+:::jbomupli
+
 |     |       |                      |             |     |       |     |       |        |
 | --- | ----- | -------------------- | ----------- | --- | ----- | --- | ----- | ------ |
 | le  | mi    | noi                  | sipna       | vau | karce | cu  | na    | klama  |
 | The | of-me | incidentally-which-( | is-sleeping | )   | car   |     | isn't | going. |
 
+:::
+
 means that my car isn't going; the incidental claim of *noi sipna* applies to me, not my car, however. If I wanted to say that the car is sleeping (whatever that might mean) I would need:
 
 ##### Example 8.65.
+
+:::jbomupli
 
 |     |       |       |       |        |     |       |        |
 | --- | ----- | ----- | ----- | ------ | --- | ----- | ------ |
 | le  | mi    | karce | poi   | sipna  | cu  | na    | klama  |
 | The | of-me | car   | which | sleeps |     | isn't | going. |
+
+:::
 
 Note that [Example 8.64](/chapter08/#example-864 "Example 8.64.") uses *[vau](/glossary/#vau)* rather than *[ku'o](/glossary/#kuo)* at the end of the relative clause: this terminator ends every simple bridi and is almost always elidable; in this case, though, it is a syllable shorter than the equally valid alternative, *[ku'o](/glossary/#kuo)*.
 
@@ -805,10 +1053,14 @@ Normally, relative clauses attach only to simple sumti or parts of sumti: pro-su
 
 ##### Example 8.66.
 
+:::jbomupli
+
 |            |     |                    |           |          |        |
 | ---------- | --- | ------------------ | --------- | -------- | ------ |
 | li         | pai | noi                | na'e      | frinu    | namcu  |
 | The-number | pi, | incidentally-which | is-a-non- | fraction | number |
+
+:::
 
 The irrational number pi
 
@@ -816,10 +1068,14 @@ And here is an incidental relative clause attached to a quotation:
 
 ##### Example 8.67.
 
+:::jbomupli
+
 |           |     |       |     |        |             |
 | --------- | --- | ----- | --- | ------ | ----------- |
 | lu        | mi  | klama | le  | zarci  | li'u        |
 | \[quote\] | I   | go-to | the | market | \[unquote\] |
+
+:::
 
 |                      |     |         |      |     |                |
 | -------------------- | --- | ------- | ---- | --- | -------------- |
@@ -834,10 +1090,14 @@ In addition, sumti with attached sumti qualifiers of selma'o LAhE or NAhE+BO (wh
 
 ##### Example 8.68.
 
+:::jbomupli
+
 |               |        |          |     |           |     |       |
 | ------------- | ------ | -------- | --- | --------- | --- | ----- |
 | la'e          | poi    | tolcitno | vau | lu        | le  | xunre |
 | A-referent-of | (which | is-old   | )   | \[quote\] | The | Red   |
+
+:::
 
 |             |             |     |       |     |                  |       |
 | ----------- | ----------- | --- | ----- | --- | ---------------- | ----- |
@@ -850,10 +1110,14 @@ An old “The Red Pony” is in the far room.
 
 ##### Example 8.69.
 
+:::jbomupli
+
 |               |            |     |       |             |             |      |
 | ------------- | ---------- | --- | ----- | ----------- | ----------- | ---- |
 | la'e          | lu         | le  | xunre | cmaxirma    | li'u        | lu'u |
 | A-referent-of | (\[quote\] | The | Red   | Small-horse | \[unquote\] | )    |
+
+:::
 
 |       |            |     |       |     |                  |       |
 | ----- | ---------- | --- | ----- | --- | ---------------- | ----- |
@@ -866,10 +1130,14 @@ Sometimes, however, it is important to make a relative clause apply to the whole
 
 ##### Example 8.70.
 
+:::jbomupli
+
 |            |        |     |            |         |                  |
 | ---------- | ------ | --- | ---------- | ------- | ---------------- |
 | la         | frank. | .e  | la         | djordj. | noi              |
 | That-named | Frank  | and | that-named | George  | incidentally-who |
+
+:::
 
 |          |     |       |     |        |
 | -------- | --- | ----- | --- | ------ |
@@ -884,10 +1152,14 @@ To make a relative clause attach to both parts of the logically connected sumti 
 
 ##### Example 8.71.
 
+:::jbomupli
+
 |             |        |     |            |         |      |
 | ----------- | ------ | --- | ---------- | ------- | ---- |
 | la          | frank. | .e  | la         | djordj. | vu'o |
 | (That-named | Frank  | and | that-named | George  | )    |
+
+:::
 
 |                  |         |     |       |        |        |
 | ---------------- | ------- | --- | ----- | ------ | ------ |
@@ -902,10 +1174,14 @@ English is able to resolve the distinction correctly in the case of [Example 8.7
 
 ##### Example 8.72.
 
+:::jbomupli
+
 |            |        |     |             |         |     |
 | ---------- | ------ | --- | ----------- | ------- | --- |
 | la         | frank. | .e  | la          | djordj. | noi |
 | That-named | Frank  | and | (that-named | George  | who |
+
+:::
 
 |          |       |     |       |     |        |
 | -------- | ----- | --- | ----- | --- | ------ |
@@ -916,10 +1192,14 @@ Frank and George, who ran, go to the house.
 
 ##### Example 8.73.
 
+:::jbomupli
+
 |             |        |     |            |         |      |
 | ----------- | ------ | --- | ---------- | ------- | ---- |
 | la          | frank. | .e  | la         | djordj. | vu'o |
 | (That-named | Frank  | and | that-named | George  | )    |
+
+:::
 
 |     |          |       |     |       |     |        |
 | --- | -------- | ----- | --- | ----- | --- | ------ |
@@ -958,10 +1238,14 @@ Similarly, [Example 8.74](/chapter08/#example-874 "Example 8.74.") can be though
 
 ##### Example 8.77.
 
+:::jbomupli
+
 |        |               |         |     |
 | ------ | ------------- | ------- | --- |
 | coi    | la            | frank.  |     |
 | Hello, | the-one-named | “Frank” | .   |
+
+:::
 
 Syntactically, vocative phrases are a kind of free modifier, and can appear in many places in Lojban text, generally at the beginning or end of some complete construct; or, as in [Example 8.74](/chapter08/#example-874 "Example 8.74.") to [Example 8.76](/chapter08/#example-876 "Example 8.76."), as sentences by themselves.
 
@@ -969,10 +1253,14 @@ As can be seen, the form of vocative phrases is similar to that of sumti, and as
 
 ##### Example 8.78.
 
+:::jbomupli
+
 |        |        |     |          |             |
 | ------ | ------ | --- | -------- | ----------- |
 | coi.   | frank. | poi | xunre    | se bende    |
 | Hello, | Frank  | who | is-a-red | team-member |
+
+:::
 
 Hello, Frank from the Red Team!
 
@@ -982,19 +1270,27 @@ A vocative phrase containing a selbri can have relative clauses either before or
 
 ##### Example 8.79.
 
+:::jbomupli
+
 |          |             |     |       |      |      |       |
 | -------- | ----------- | --- | ----- | ---- | ---- | ----- |
 | co'o     | poi         | mi  | zvati | ke'a | ku'o | xirma |
 | Goodbye, | such-that-( | I   | am-at | IT   | )    | horse |
 
+:::
+
 Goodbye, horse where I am!
 
 ##### Example 8.80.
+
+:::jbomupli
 
 |          |       |             |     |            |
 | -------- | ----- | ----------- | --- | ---------- |
 | co'o     | xirma | poi         | mi  | zvati      |
 | Goodbye, | horse | such-that-( | I   | am-at-it). |
+
+:::
 
 [Example 8.79](/chapter08/#example-879 "Example 8.79.") and [Example 8.80](/chapter08/#example-880 "Example 8.80.") mean the same thing. In fact, relative clauses can appear in both places.
 
@@ -1004,19 +1300,27 @@ For the most part, these are straightforward and uncomplicated: a sumti that is 
 
 ##### Example 8.81.
 
+:::jbomupli
+
 |     |        |     |       |     |       |       |         |     |          |
 | --- | ------ | --- | ----- | --- | ----- | ----- | ------- | --- | -------- |
 | le  | prenu  | poi | zvati | le  | kumfa | poi   | blanu   | cu  | masno    |
 | The | person | who | is-in | the | room  | which | is-blue |     | is-slow. |
 
+:::
+
 However, an ambiguity can exist if *[ke'a](/glossary/#kea)* is used in a relative clause within a relative clause: does it refer to the outermost sumti, or to the sumti within the outer relative clause to which the inner relative clause is attached? The latter. To refer to the former, use a subscript on *[ke'a](/glossary/#kea)*:
 
 ##### Example 8.82.
+
+:::jbomupli
 
 |     |        |     |       |     |       |       |          |       |      |     |          |
 | --- | ------ | --- | ----- | --- | ----- | ----- | -------- | ----- | ---- | --- | -------- |
 | le  | prenu  | poi | zvati | le  | kumfa | poi   | ke'axire | zbasu | ke'a | cu  | masno    |
 | The | person | who | is-in | the | room  | which | IT-sub-2 | built | IT   |     | is-slow. |
+
+:::
 
 The person who is in the room which he built is slow.
 
@@ -1026,10 +1330,14 @@ Alternatively, you can use a prenex (explained in full in [Chapter 16](/chapter1
 
 ##### Example 8.83.
 
+:::jbomupli
+
 |     |       |     |      |     |      |      |
 | --- | ----- | --- | ---- | --- | ---- | ---- |
 | le  | prenu | poi | ke'a | goi | ko'a | zo'u |
 | The | man   | who | (IT  | =   | it1  | :    |
+
+:::
 
 |      |       |     |       |       |      |     |      |      |
 | ---- | ----- | --- | ----- | ----- | ---- | --- | ---- | ---- |

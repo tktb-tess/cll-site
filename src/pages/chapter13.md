@@ -19,38 +19,58 @@ The simplest way to use attitudinal indicators is to place them at the beginning
 
 ##### Example 13.2.
 
+:::jbomupli
+
 |           |            |      |            |
 | --------- | ---------- | ---- | ---------- |
 | .ui       | la         | djan | klama      |
 | \[Whee!\] | that-named | John | is-coming! |
 
+:::
+
 ##### Example 13.3.
+
+:::jbomupli
 
 |           |            |      |            |
 | --------- | ---------- | ---- | ---------- |
 | .uu       | la         | djan | klama      |
 | \[Alas!\] | that-named | John | is-coming. |
 
+:::
+
 ##### Example 13.4.
+
+:::jbomupli
 
 |               |            |      |            |
 | ------------- | ---------- | ---- | ---------- |
 | .a'o          | la         | djan | klama      |
 | \[Hopefully\] | that-named | John | is-coming. |
 
+:::
+
 ##### Example 13.5.
+
+:::jbomupli
 
 |          |            |      |            |
 | -------- | ---------- | ---- | ---------- |
 | .ue      | la         | djan | klama      |
 | \[Wow!\] | that-named | John | is-coming! |
 
+:::
+
 ##### Example 13.6.
+
+:::jbomupli
 
 |               |            |      |            |
 | ------------- | ---------- | ---- | ---------- |
 | .ianai        | la         | djan | klama      |
 | \[Nonsense!\] | that-named | John | is-coming. |
+
+:::
 
 *[.ai](/glossary/#ai)*, *[.au](/glossary/#au)*, *[.ei](/glossary/#ei)*, and *[.ia](/glossary/#ia)*, *[.ie](/glossary/#ie)*, *[.ii](/glossary/#ii)*, *[.io](/glossary/#io)*, *[.iu](/glossary/#iu)*, *[.ua](/glossary/#ua)*, *[.ue](/glossary/#ue)*, *[.ui](/glossary/#ui)*, *[.uo](/glossary/#uo)*, and *[.uu](/glossary/#uu)*. Note that each of these cmavo has a period before it, marking the pause that is mandatory before every word beginning with a vowel. Attitudinals, like most of the other kinds of indicators described in this chapter, belong to selma'o UI.
 
@@ -91,55 +111,79 @@ Here are some typical uses of the *u* attitudinals:
 
 ##### Example 13.7.
 
+:::jbomupli
+
 |             |     |           |       |     |       |       |
 | ----------- | --- | --------- | ----- | --- | ----- | ----- |
 | .ua         | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Eureka!\] | I   | found-out | about | the | of-me | hat.  |
 
+:::
+
 \[Eureka!\] I found my hat! \[emphasizes the discovery of the hat\]
 
 ##### Example 13.8.
+
+:::jbomupli
 
 |           |     |           |       |     |       |       |
 | --------- | --- | --------- | ----- | --- | ----- | ----- |
 | .u'a      | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Gain!\] | I   | found-out | about | the | of-me | hat.  |
 
+:::
+
 \[Gain!\] I found my hat! \[emphasizes the obtaining of the hat\]
 
 ##### Example 13.9.
+
+:::jbomupli
 
 |          |     |           |       |     |       |       |
 | -------- | --- | --------- | ----- | --- | ----- | ----- |
 | .ui      | mi  | facki     | fi    | le  | mi    | mapku |
 | \[Yay!\] | I   | found-out | about | the | of-me | hat.  |
 
+:::
+
 \[Yay!\] I found my hat! \[emphasizes the feeling of happiness\]
 
 ##### Example 13.10.
+
+:::jbomupli
 
 |              |     |           |       |     |       |       |
 | ------------ | --- | --------- | ----- | --- | ----- | ----- |
 | .uo          | mi  | facki     | fi    | le  | mi    | mapku |
 | \[At-last!\] | I   | found-out | about | the | of-me | hat.  |
 
+:::
+
 \[At last!\] I found my hat! \[emphasizes that the finding is complete\]
 
 ##### Example 13.11.
+
+:::jbomupli
 
 |           |     |            |
 | --------- | --- | ---------- |
 | .uu       | do  | cortu      |
 | \[Pity!\] | you | feel-pain. |
 
+:::
+
 \[Pity!\] you feel pain. \[expresses speaker's sympathy\]
 
 ##### Example 13.12.
+
+:::jbomupli
 
 |                 |     |            |
 | --------------- | --- | ---------- |
 | .u'u            | do  | cortu      |
 | \[Repentance!\] | you | feel-pain. |
+
+:::
 
 \[Repentance!\] you feel pain. \[expresses that speaker feels guilty\]
 
@@ -153,24 +197,36 @@ The following examples display the effects of *[nai](/glossary/#nai)* and *[cu'i
 
 ##### Example 13.13.
 
+:::jbomupli
+
 |               |            |       |        |
 | ------------- | ---------- | ----- | ------ |
 | .ue           | la         | djan. | klama  |
 | \[Surprise!\] | that-named | John  | comes. |
 
+:::
+
 ##### Example 13.14.
+
+:::jbomupli
 
 |             |            |       |        |
 | ----------- | ---------- | ----- | ------ |
 | .uecu'i     | la         | djan. | klama  |
 | \[Ho-hum.\] | that-named | John  | comes. |
 
+:::
+
 ##### Example 13.15.
+
+:::jbomupli
 
 |               |            |       |        |
 | ------------- | ---------- | ----- | ------ |
 | .uenai        | la         | djan. | klama  |
 | \[Expected!\] | that-named | John  | comes. |
+
+:::
 
 In [Example 13.15](/chapter13/#example-1315 "Example 13.15."), John's coming has been anticipated by the speaker. In [Example 13.13](/chapter13/#example-1313 "Example 13.13.") and [Example 13.14](/chapter13/#example-1314 "Example 13.14."), no such anticipation has been made, but in [Example 13.14](/chapter13/#example-1314 "Example 13.14.") the lack-of-anticipation goes no further – in [Example 13.13](/chapter13/#example-1313 "Example 13.13."), it amounts to actual surprise.
 
@@ -189,44 +245,64 @@ Here are some examples:
 
 ##### Example 13.16.
 
+:::jbomupli
+
 |                |            |       |            |
 | -------------- | ---------- | ----- | ---------- |
 | .oi            | la         | djan. | klama      |
 | \[Complaint!\] | that-named | John  | is-coming. |
 
+:::
+
 Here the speaker is distressed or discomfited over John's coming. The word *[.oi](/glossary/#oi)* is derived from the Yiddish word “oy” of similar meaning. It is the only cmavo with a Yiddish origin.
 
 ##### Example 13.17.
+
+:::jbomupli
 
 |            |            |       |            |
 | ---------- | ---------- | ----- | ---------- |
 | .o'onai    | la         | djan. | klama      |
 | \[Anger!\] | that-named | John  | is-coming! |
 
+:::
+
 Here the speaker feels anger over John's coming.
 
 ##### Example 13.18.
+
+:::jbomupli
 
 |             |            |       |            |
 | ----------- | ---------- | ----- | ---------- |
 | .o'i        | la         | djan. | klama      |
 | \[Beware!\] | that-named | John  | is-coming. |
 
+:::
+
 Here there is a sense of danger in John's arrival.
 
 ##### Example 13.19.
+
+:::jbomupli
 
 |                 |            |       |            |
 | --------------- | ---------- | ----- | ---------- |
 | .o'ecu'i        | la         | djan. | klama      |
 | \[Detachment!\] | that-named | John  | is-coming. |
 
+:::
+
 ##### Example 13.20.
+
+:::jbomupli
 
 |           |            |       |            |
 | --------- | ---------- | ----- | ---------- |
 | .o'u      | la         | djan. | klama      |
 | \[Phew!\] | that-named | John  | is-coming. |
+
+:::
 
 In [Example 13.19](/chapter13/#example-1319 "Example 13.19.") and [Example 13.20](/chapter13/#example-1320 "Example 13.20."), John's arrival is no problem: in the former example, the speaker feels emotional distance from the situation; in the latter example, John's coming is actually a relief of some kind.
 
@@ -245,26 +321,38 @@ Here are some examples:
 
 ##### Example 13.21.
 
+:::jbomupli
+
 |           |                           |
 | --------- | ------------------------- |
 | .ii       | smacu                     |
 | \[Fear!\] | \[Observative:\]-a-mouse! |
 
+:::
+
 Eek! A mouse!
 
 ##### Example 13.22.
+
+:::jbomupli
 
 |            |       |           |            |
 | ---------- | ----- | --------- | ---------- |
 | la         | djan. | .iu       | klama      |
 | That-named | John  | \[love!\] | is-coming. |
 
+:::
+
 ##### Example 13.23.
+
+:::jbomupli
 
 |            |       |                 |            |
 | ---------- | ----- | --------------- | ---------- |
 | la         | djan. | .ionai          | klama      |
 | That-named | John  | \[disrespect!\] | is-coming. |
+
+:::
 
 [Example 13.21](/chapter13/#example-1321 "Example 13.21.") shows an attitude-colored observative; the attitudinal modifies the situation described by the observative, namely the mouse that is causing the emotion. Lojban-speaking toddlers, if there ever are any, will probably use sentences like [Example 13.21](/chapter13/#example-1321 "Example 13.21.") a lot.
 
@@ -272,10 +360,14 @@ Eek! A mouse!
 
 ##### Example 13.24.
 
+:::jbomupli
+
 |            |       |           |           |
 | ---------- | ----- | --------- | --------- |
 | la         | djan. | klama     | .iu       |
 | That-named | John  | is-coming | \[love!\] |
+
+:::
 
 where it is specifically the coming of John that inspires the feeling.
 
@@ -307,64 +399,92 @@ Some examples (of a parental kind):
 
 ##### Example 13.25.
 
+:::jbomupli
+
 |               |     |         |     |                      |
 | ------------- | --- | ------- | --- | -------------------- |
 | .a'a          | do  | zgana   | le  | veltivni             |
 | \[attentive\] | you | observe | the | television-receiver. |
 
+:::
+
 I'm noticing that you are watching the TV.
 
 ##### Example 13.26.
+
+:::jbomupli
 
 |                |     |              |        |
 | -------------- | --- | ------------ | ------ |
 | .a'enai        | do  | ranji        | bacru  |
 | \[exhaustion\] | you | continuously | utter. |
 
+:::
+
 I'm worn out by your continuous talking.
 
 ##### Example 13.27.
+
+:::jbomupli
 
 |            |     |          |     |        |       |
 | ---------- | --- | -------- | --- | ------ | ----- |
 | .ai        | mi  | benji    | do  | le     | ckana |
 | \[intent\] | I   | transfer | you | to-the | bed.  |
 
+:::
+
 I'm putting you to bed.
 
 ##### Example 13.28.
+
+:::jbomupli
 
 |            |     |            |                 |     |          |     |          |         |
 | ---------- | --- | ---------- | --------------- | --- | -------- | --- | -------- | ------- |
 | .a'i       | mi  | ba         | gasnu           | le  | nu       | do  | cikna    | binxo   |
 | \[effort\] | I   | \[future\] | am-the-actor-in | the | event-of | you | awake-ly | become. |
 
+:::
+
 It'll be hard for me to wake you up.
 
 ##### Example 13.29.
+
+:::jbomupli
 
 |          |     |                     |         |     |                      |
 | -------- | --- | ------------------- | ------- | --- | -------------------- |
 | .a'o     | mi  | kanryze'a           | ca      | le  | bavlamdei            |
 | \[hope\] | I   | am-health-increased | at-time | the | future-adjacent-day. |
 
+:::
+
 I hope I feel better tomorrow!
 
 ##### Example 13.30.
+
+:::jbomupli
 
 |            |     |        |
 | ---------- | --- | ------ |
 | .au        | mi  | sipna  |
 | \[desire\] | I   | sleep. |
 
+:::
+
 I want to sleep.
 
 ##### Example 13.31.
+
+:::jbomupli
 
 |                 |     |           |
 | --------------- | --- | --------- |
 | .a'ucu'i        | do  | pante     |
 | \[no-interest\] | you | complain. |
+
+:::
 
 I have no interest in your complaints.
 
@@ -387,46 +507,66 @@ More examples (after a good night's sleep):
 
 ##### Example 13.32.
 
+:::jbomupli
+
 |                |     |       |     |       |
 | -------------- | --- | ----- | --- | ----- |
 | .e'a           | do  | sazri | le  | karce |
 | \[permission\] | you | drive | the | car.  |
 
+:::
+
 Sure, you can drive the car.
 
 ##### Example 13.33.
+
+:::jbomupli
 
 |                |     |            |                      |      |
 | -------------- | --- | ---------- | -------------------- | ---- |
 | .e'e           | mi  | lifri      | tu'a                 | do   |
 | \[competence\] | I   | experience | something-related-to | you. |
 
+:::
+
 I feel up to dealing with you.
 
 ##### Example 13.34.
+
+:::jbomupli
 
 |                |     |         |     |             |                      |
 | -------------- | --- | ------- | --- | ----------- | -------------------- |
 | .ei            | mi  | tisygau | le  | karce       | ctilyvau             |
 | \[obligation\] | I   | fill    | the | car-type-of | petroleum-container. |
 
+:::
+
 I should fill the car's gas tank.
 
 ##### Example 13.35.
+
+:::jbomupli
 
 |             |                |                   |            |
 | ----------- | -------------- | ----------------- | ---------- |
 | .e'o        | ko             | ko                | kurji      |
 | \[request\] | you-imperative | of-you-imperative | take-care. |
 
+:::
+
 Please take care of yourself!
 
 ##### Example 13.36.
+
+:::jbomupli
 
 |                |     |       |        |       |
 | -------------- | --- | ----- | ------ | ----- |
 | .e'u           | do  | klama | le     | panka |
 | \[suggestion\] | you | go    | to-the | park. |
+
+:::
 
 I suggest going to the park.
 
@@ -443,28 +583,40 @@ Still more examples (much, much later):
 
 ##### Example 13.37.
 
+:::jbomupli
+
 |               |     |          |       |     |          |           |     |
 | ------------- | --- | -------- | ----- | --- | -------- | --------- | --- |
 | .ianai        | do  | pu       | pensi | le  | nu       | tcica     | mi  |
 | \[disbelief\] | you | \[past\] | think | the | event-of | deceiving | me. |
 
+:::
+
 I can't believe you thought you could fool me.
 
 ##### Example 13.38.
+
+:::jbomupli
 
 |     |           |         |        |     |        |        |
 | --- | --------- | ------- | ------ | --- | ------ | ------ |
 | do  | .i'anai   | na      | xruti  | do  | le     | zdani  |
 | You | \[blame\] | did-not | return | you | to-the | house. |
 
+:::
+
 I blame you for not coming home.
 
 ##### Example 13.39.
+
+:::jbomupli
 
 |               |     |         |         |              |
 | ------------- | --- | ------- | ------- | ------------ |
 | .ie           | mi  | na      | cusku   | lu'e         |
 | \[agreement\] | I   | did-not | express | a-symbol-for |
+
+:::
 
 |     |             |     |     |          |         |
 | --- | ----------- | --- | --- | -------- | ------- |
@@ -475,10 +627,14 @@ It's true I didn't tell you when to come back.
 
 ##### Example 13.40.
 
+:::jbomupli
+
 |                 |     |              |       |
 | --------------- | --- | ------------ | ----- |
 | .i'enai         | do  | .i'e         | zukte |
 | \[disapproval\] | you | \[approval\] | act.  |
+
+:::
 
 I don't approve of what you did, but I approve of you.
 
@@ -488,10 +644,14 @@ To indicate that an attitudinal discussed in this section is not meant to indica
 
 ##### Example 13.41.
 
+:::jbomupli
+
 |     |       |     |       |     |                 |
 | --- | ----- | --- | ----- | --- | --------------- |
 | do  | sazri | le  | karce | .i  | .e'a            |
 | You | drive | the | car.  |     | \[Permission\]. |
+
+:::
 
 You're driving (or will drive) the car, and that's fine.
 
@@ -636,10 +796,14 @@ The cmavo *[ga'i](/glossary/#gai)* expresses the scale used to indicate condesce
 
 ##### Example 13.48.
 
+:::jbomupli
+
 |                |               |               |         |     |       |        |
 | -------------- | ------------- | ------------- | ------- | --- | ----- | ------ |
 | ko             | ga'inai       | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[low-rank!\] | enter-type-of | come-to | the | of-me | house. |
+
+:::
 
 I would be honored if you would enter my residence.
 
@@ -647,19 +811,27 @@ Note that imperatives in Lojban need not be imperious! Corresponding examples wi
 
 ##### Example 13.49.
 
+:::jbomupli
+
 |                |                 |               |         |     |       |        |
 | -------------- | --------------- | ------------- | ------- | --- | ----- | ------ |
 | ko             | ga'icu'i        | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[equal-rank!\] | enter-type-of | come-to | the | of-me | house. |
 
+:::
+
 Come on in to my place.
 
 ##### Example 13.50.
+
+:::jbomupli
 
 |                |                |               |         |     |       |        |
 | -------------- | -------------- | ------------- | ------- | --- | ----- | ------ |
 | ko             | ga'i           | nenri         | klama   | le  | mi    | zdani  |
 | You-imperative | \[high-rank!\] | enter-type-of | come-to | the | of-me | house. |
+
+:::
 
 You! Get inside!
 
@@ -669,10 +841,14 @@ It is also possible to attach *[ga'i](/glossary/#gai)* to a whole bridi, in whic
 
 ##### Example 13.51.
 
+:::jbomupli
+
 |                |     |       |          |       |
 | -------------- | --- | ----- | -------- | ----- |
 | ga'i           | le  | xarju | pu       | citka |
 | \[High-rank!\] | the | pig   | \[past\] | eats. |
+
+:::
 
 The pig ate (which is an event beneath my notice).
 
@@ -704,10 +880,14 @@ The modifier *[ri'e](/glossary/#rie)* indicates emotional release versus emotion
 
 ##### Example 13.54.
 
+:::jbomupli
+
 |           |             |
 | --------- | ----------- |
 | .o'onai   | ri'enai     |
 | \[anger\] | \[control\] |
+
+:::
 
 On the other hand, *[ri'e](/glossary/#rie)* can be used by itself to signal an emotional outburst.
 
@@ -726,10 +906,14 @@ Like all modifiers, *[be'u](/glossary/#beu)* can be used alone:
 
 ##### Example 13.56.
 
+:::jbomupli
+
 |     |       |             |     |                |                 |
 | --- | ----- | ----------- | --- | -------------- | --------------- |
 | le  | cukta | be'u        | cu  | zvati          | ma              |
 | The | book  | \[Needed!\] |     | is-at-location | \[what-sumti?\] |
+
+:::
 
 Where's the book? I need it!
 
@@ -785,19 +969,27 @@ The cmavo *[nai](/glossary/#nai)* is the most tightly bound modifier in the lang
 
 ##### Example 13.61.
 
+:::jbomupli
+
 |     |     |          |          |      |
 | --- | --- | -------- | -------- | ---- |
 | mi  | .e  | .ui      | nai      | do   |
 | I   | and | \[Yay!\] | \[Not!\] | you. |
 
+:::
+
 means “I and (unfortunately) you”, whereas
 
 ##### Example 13.62.
+
+:::jbomupli
 
 |     |     |          |          |      |
 | --- | --- | -------- | -------- | ---- |
 | mi  | .e  | nai      | .ui      | do   |
 | I   | and | \[Not!\] | \[Yay!\] | you. |
+
+:::
 
 means “I but (fortunately) not you”. Attitudinal *[nai](/glossary/#nai)* expresses a “scalar negation”, a concept explained in [Section 15.3](/chapter15/#153-scalar-negation "15.3. Scalar Negation"); since every attitudinal word implies exactly one scale, the effect of *[nai](/glossary/#nai)* on each should be obvious.
 
@@ -825,10 +1017,14 @@ For example, in cases of multiple indicators expressed together, the combined fo
 
 ##### Example 13.63.
 
+:::jbomupli
+
 |     |          |         |     |           |         |
 | --- | -------- | ------- | --- | --------- | ------- |
 | mi  | pu       | tavla   | do  | .o'onai   | .oi     |
 | I   | \[past\] | talk-to | you | \[Grrr!\] | \[Oy!\] |
+
+:::
 
 can be interpreted as expressing complaint about the anger, in which case it means “Damn, I snapped at you”; or as expressing both anger and complaint about the listener, in which case it means “I told you, you pest!”
 
@@ -927,10 +1123,14 @@ It is even possible to “empathize” with a non-living object:
 
 ##### Example 13.73.
 
+:::jbomupli
+
 |     |       |                  |           |          |         |     |              |
 | --- | ----- | ---------------- | --------- | -------- | ------- | --- | ------------ |
 | le  | bloti | .iidai           | .uu       | pu       | klama   | le  | xasloi       |
 | The | ship  | \[fear-empathy\] | \[pity!\] | \[past\] | goes-to | the | ocean-floor. |
+
+:::
 
 Fearfully the ship, poor thing, sank.
 
@@ -944,19 +1144,27 @@ When attached to an attitudinal, *[bu'o](/glossary/#buo)* means that you are sta
 
 ##### Example 13.74.
 
+:::jbomupli
+
 |            |                   |
 | ---------- | ----------------- |
 | .o'onai    | bu'o              |
 | \[Anger!\] | \[start-emotion\] |
 
+:::
+
 I'm getting angry!
 
 ##### Example 13.75.
+
+:::jbomupli
 
 |           |                 |                  |
 | --------- | --------------- | ---------------- |
 | .iu       | bu'onai         | .uinai           |
 | \[Love!\] | \[end-emotion\] | \[unhappiness!\] |
+
+:::
 
 I don't love you any more; I'm sad.
 
@@ -964,10 +1172,14 @@ Note the difference in effect between [Example 13.75](/chapter13/#example-1375 "
 
 ##### Example 13.76.
 
+:::jbomupli
+
 |     |             |               |       |     |             |     |          |     |          |
 | --- | ----------- | ------------- | ----- | --- | ----------- | --- | -------- | --- | -------- |
 | mi  | ca          | ba'o          | prami | do  | ja'e        | le  | nu       | mi  | badri    |
 | I   | \[present\] | \[cessitive\] | love  | you | with-result | the | event-of | (I  | am-sad). |
+
+:::
 
 I no longer love you; therefore, I am sad.
 
@@ -1007,19 +1219,27 @@ A bridi marked by *[ca'e](/glossary/#cae)* is true because the speaker says so. 
 
 ##### Example 13.77.
 
+:::jbomupli
+
 |               |     |     |        |     |            |          |
 | ------------- | --- | --- | ------ | --- | ---------- | -------- |
 | ca'e          | le  | re  | do     | cu  | simxu      | speni    |
 | \[I-define!\] | the | two | of-you |     | are-mutual | spouses. |
 
+:::
+
 The three scale positions of *[ba'a](/glossary/#baa)*, when attached to a bridi, indicate that it is based on the speaker's view of the real world. Thus *[ba'a](/glossary/#baa)* means that the statement represents a future event as anticipated by the speaker; *[ba'acu'i](/glossary/#baacui)*, a present event as experienced by the speaker; *[ba'anai](/glossary/#baanai)*, a past event as remembered by the speaker. It is accidental that this scale runs from future to past instead of past to future.
 
 ##### Example 13.78.
+
+:::jbomupli
 
 |                   |     |       |     |     |     |                       |
 | ----------------- | --- | ----- | --- | --- | --- | --------------------- |
 | ba'acu'i          | le  | tuple | be  | mi  | cu  | se cortu              |
 | \[I-experience!\] | the | leg   | of  | me  |     | is-the-locus-of-pain. |
+
+:::
 
 My leg hurts.
 
@@ -1033,10 +1253,14 @@ A bridi marked by *[ti'e](/glossary/#tie)* is relayed information from some sour
 
 ##### Example 13.79.
 
+:::jbomupli
+
 |             |       |         |                     |        |
 | ----------- | ----- | ------- | ------------------- | ------ |
 | ti'e        | la    | .uengas | cu                  | zergau |
 | \[I-hear!\] | Wenga |         | is-a-criminal-doer. |        |
+
+:::
 
 I hear that Wenga is a crook.
 
@@ -1048,10 +1272,14 @@ A bridi marked by *[za'a](/glossary/#zaa)* is based on perception or direct obse
 
 ##### Example 13.80.
 
+:::jbomupli
+
 |                |     |            |
 | -------------- | --- | ---------- |
 | za'a           | do  | tatpi      |
 | \[I-observe!\] | you | are-tired. |
+
+:::
 
 I see you are tired.
 
@@ -1059,10 +1287,14 @@ A bridi marked by *[pe'i](/glossary/#pei)* is the opinion of the speaker. The fo
 
 ##### Example 13.81.
 
+:::jbomupli
+
 |              |            |           |                |               |
 | ------------ | ---------- | --------- | -------------- | ------------- |
 | pe'i         | la         | kartagos. | .ei            | se daspo      |
 | \[I-opine!\] | that-named | Carthage  | \[obligation\] | is-destroyed. |
+
+:::
 
 In my opinion, Carthage should be destroyed.
 
@@ -1070,10 +1302,14 @@ A bridi marked by *[ru'a](/glossary/#rua)* is an assumption made by the speaker.
 
 ##### Example 13.82.
 
+:::jbomupli
+
 |               |     |              |
 | ------------- | --- | ------------ |
 | ru'a          | doi | livinston.   |
 | \[I-presume\] | o   | Livingstone. |
+
+:::
 
 Dr. Livingstone, I presume? (A rhetorical question: Stanley knew who he was.)
 
@@ -1103,37 +1339,53 @@ Lastly, *[po'o](/glossary/#poo)* is used when there is no other comparable case,
 
 ##### Example 13.83.
 
+:::jbomupli
+
 |     |          |       |     |       |        |          |     |       |
 | --- | -------- | ----- | --- | ----- | ------ | -------- | --- | ----- |
 | mi  | po'o     | darxi | le  | mi    | tamne  | fo       | le  | nazbi |
 | I   | \[only\] | hit   | the | of-me | cousin | at-locus | the | nose. |
 
+:::
+
 Only I (nobody else) hit my cousin on his nose.
 
 ##### Example 13.84.
+
+:::jbomupli
 
 |     |       |          |     |       |        |          |     |       |
 | --- | ----- | -------- | --- | ----- | ------ | -------- | --- | ----- |
 | mi  | darxi | po'o     | le  | mi    | tamne  | fo       | le  | nazbi |
 | I   | hit   | \[only\] | the | of-me | cousin | at-locus | the | nose. |
 
+:::
+
 I only hit my cousin on his nose (I did nothing else to him).
 
 ##### Example 13.85.
+
+:::jbomupli
 
 |     |       |     |       |        |          |          |     |       |
 | --- | ----- | --- | ----- | ------ | -------- | -------- | --- | ----- |
 | mi  | darxi | le  | mi    | tamne  | po'o     | fo       | le  | nazbi |
 | I   | hit   | the | of-me | cousin | \[only\] | at-locus | the | nose. |
 
+:::
+
 I hit only my cousin on his nose (no one else).
 
 ##### Example 13.86.
+
+:::jbomupli
 
 |     |       |     |       |        |          |     |       |           |
 | --- | ----- | --- | ----- | ------ | -------- | --- | ----- | --------- |
 | mi  | darxi | le  | mi    | tamne  | fo       | le  | nazbi | po'o      |
 | I   | hit   | the | of-me | cousin | at-locus | the | nose  | \[only\]. |
+
+:::
 
 I hit my cousin only on his nose (nowhere else).
 
@@ -1206,10 +1458,14 @@ The discursive *[da'i](/glossary/#dai)* marks the discourse as possibly taking a
 
 ##### Example 13.87.
 
+:::jbomupli
+
 |       |                  |     |       |     |       |       |         |
 | ----- | ---------------- | --- | ----- | --- | ----- | ----- | ------- |
 | ganai | da'i             | do  | viska | le  | mi    | citno | mensi   |
 | If    | \[hypothetical\] | you | see   | the | of-me | young | sister, |
+
+:::
 
 |      |             |     |       |     |                |     |              |
 | ---- | ----------- | --- | ----- | --- | -------------- | --- | ------------ |
@@ -1222,10 +1478,14 @@ and:
 
 ##### Example 13.88.
 
+:::jbomupli
+
 |       |             |     |       |     |       |       |         |
 | ----- | ----------- | --- | ----- | --- | ----- | ----- | ------- |
 | ganai | da'inai     | do  | viska | le  | mi    | citno | mensi   |
 | If    | \[factual\] | you | see   | the | of-me | young | sister, |
+
+:::
 
 |      |               |     |       |     |                |     |              |
 | ---- | ------------- | --- | ----- | --- | -------------- | --- | ------------ |
@@ -1265,10 +1525,14 @@ The cmavo *[ki'a](/glossary/#kia)* is one of the most common of the miscellaneou
 
 ##### Example 13.90.
 
+:::jbomupli
+
 |     |       |     |          |
 | --- | ----- | --- | -------- |
 | mi  | nelci | le  | ctuca    |
 | I   | like  | the | teacher. |
+
+:::
 
 |     |     |       |          |
 | --- | --- | ----- | -------- |
@@ -1299,10 +1563,14 @@ The cmavo *[pe'a](/glossary/#pea)* is the indicator of figurative speech, indica
 
 ##### Example 13.91.
 
+:::jbomupli
+
 |     |       |     |       |                |        |
 | --- | ----- | --- | ----- | -------------- | ------ |
 | mi  | viska | le  | blanu | pe'a           | zdani  |
 | I   | see   | the | blue  | \[figurative\] | house. |
+
+:::
 
 I see the “blue” house.
 
@@ -1336,10 +1604,14 @@ This cmavo is explained in detail in [Section 11.8](/chapter11/#118-indirect-que
 
 ##### Example 13.92.
 
+:::jbomupli
+
 |     |       |     |                |                        |       |        |        |
 | --- | ----- | --- | -------------- | ---------------------- | ----- | ------ | ------ |
 | mi  | djuno | le  | du'u           | dakau                  | klama | le     | zarci  |
 | I   | know  | the | predication-of | somebody-\[indirect?\] | goes  | to-the | store. |
+
+:::
 
 I know who goes to the store.
 

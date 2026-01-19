@@ -50,17 +50,25 @@ Here are some illustrations of common Lojban words spelled out using the alphabe
 
 ##### Example 17.2.
 
+:::jbomupli
+
 |     |      |     |     |      |
 | --- | ---- | --- | --- | ---- |
 | ty. | .abu | ny. | ry. | .ubu |
 | t   | a    | n   | r   | u    |
 
+:::
+
 ##### Example 17.3.
+
+:::jbomupli
 
 |     |      |       |      |
 | --- | ---- | ----- | ---- |
 | ky. | .obu | .y'y. | .abu |
 | k   | o    | '     | a    |
+
+:::
 
 Spelling out words is less useful in Lojban than in English, for two reasons: Lojban spelling is phonemic, so there can be no real dispute about how a word is spelled; and the Lojban lerfu words sound more alike than the English ones do, since they are made up systematically. The English words “fail” and “vale” sound similar, but just hearing the first lerfu word of either, namely “eff” or “vee”, is enough to discriminate easily between them – and even if the first lerfu word were somehow confused, neither “vail” nor “fale” is a word of ordinary English, so the rest of the spelling determines which word is meant. Still, the capability of spelling out words does exist in Lojban.
 
@@ -68,10 +76,14 @@ Note that the lerfu words ending in *y* were written (in [Example 17.2](/chapter
 
 ##### Example 17.4.
 
+:::jbomupli
+
 |     |           |         |
 | --- | --------- | ------- |
 | mi  | cy.       | claxu   |
 | I   | lerfu-“c” | without |
+
+:::
 
 I am without (whatever is referred to by) the letter “c”.
 
@@ -102,10 +114,14 @@ The effect of *[ga'e](/glossary/#gae)* is to change the interpretation of all le
 
 ##### Example 17.7.
 
+:::jbomupli
+
 |      |           |     |      |     |           |
 | ---- | --------- | --- | ---- | --- | --------- |
 | .ibu | ga'e      | vy. | .abu | ny. | to'a      |
 | i    | \[upper\] | V   | A    | N   | \[lower\] |
+
+:::
 
 The cmavo and compound cmavo of this type will be called “shift words”.
 
@@ -117,19 +133,27 @@ A likely use of *[tau](/glossary/#tau)* is in the internationally standardized s
 
 ##### Example 17.8.
 
+:::jbomupli
+
 |                  |     |
 | ---------------- | --- |
 | tau              | sy. |
 | \[single-shift\] | S   |
 
+:::
+
 S (chemical symbol for sulfur)
 
 ##### Example 17.9.
+
+:::jbomupli
 
 |                  |     |      |
 | ---------------- | --- | ---- |
 | tau              | sy. | .ibu |
 | \[single-shift\] | S   | i    |
+
+:::
 
 Si (chemical symbol for silicon)
 
@@ -143,10 +167,14 @@ Formally, *[bu](/glossary/#bu)* may be attached to any single Lojban word. Compo
 
 ##### Example 17.10.
 
+:::jbomupli
+
 |          |      |
 | -------- | ---- |
 | zo       | bu   |
 | the-word | “bu” |
+
+:::
 
 the word “bu”
 
@@ -178,10 +206,14 @@ As an example, the English word “quack” would be spelled in Lojban thus:
 
 ##### Example 17.11.
 
+:::jbomupli
+
 |       |      |      |     |     |
 | ----- | ---- | ---- | --- | --- |
 | ky.bu | .ubu | .abu | cy. | ky. |
 | q     | u    | a    | c   | k   |
+
+:::
 
 Note that the fact that the letter “c” in this word has nothing to do with the sound of the Lojban letter *c* is irrelevant; we are spelling an English word and English rules control the choice of letters, but we are speaking Lojban and Lojban rules control the pronunciations of those letters.
 
@@ -264,10 +296,14 @@ Lojban cannot settle this question by fiat. Either it must be left up to default
 
 ##### Example 17.18.
 
+:::jbomupli
+
 |     |      |          |     |     |     |          |      |     |
 | --- | ---- | -------- | --- | --- | --- | -------- | ---- | --- |
 | tei | .ebu | .akut.bu | foi | ty. | tei | .akut.bu | .ebu | foi |
 | (   | e    | acute    | )   | t   | (   | acute    | e    | )   |
+
+:::
 
 and it does not matter whether *akut. bu* appears before or after *[.ebu](/glossary/#ebu)*; the *[foi](/glossary/#foi)* grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by [Example 17.18](/chapter17/#example-1718 "Example 17.18.") would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
 
@@ -297,10 +333,14 @@ First, both Chinese and Japanese have standard Latin-alphabet representations, k
 
 ##### Example 17.19.
 
+:::jbomupli
+
 |         |      |     |     |     |      |     |
 | ------- | ---- | --- | --- | --- | ---- | --- |
 | .y'y.bu | .abu | ny. | vo  | zy. | .ibu | vo  |
 | h       | a    | n   | 4   | z   | i    | 4   |
+
+:::
 
 The cmavo *[vo](/glossary/#vo)* is the Lojban digit “4”. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in [Section 17.6](/chapter17/#176-accent-marks-and-compound-lerfu-words "17.6. Accent marks and compound lerfu words").
 
@@ -308,10 +348,14 @@ The Japanese company named “Mitsubishi” in English is spelled the same way i
 
 ##### Example 17.20.
 
+:::jbomupli
+
 |     |      |     |     |      |     |      |     |         |      |
 | --- | ---- | --- | --- | ---- | --- | ---- | --- | ------- | ---- |
 | my. | .ibu | ty. | sy. | .ubu | by. | .ibu | sy. | .y'y.bu | .ibu |
 | m   | i    | t   | s   | u    | b   | i    | s   | h       | i    |
+
+:::
 
 Alternatively, a really ambitious Lojbanist could assign lerfu words to the individual strokes used to write Chinese characters (there are about seven or eight of them if you are a flexible human being, or about 40 if you are a rigid computer program), and then represent each character with a *[tei](/glossary/#tei)*, the stroke lerfu words in the order of writing (which is standardized for each character), and a *[foi](/glossary/#foi)*. No one has as yet attempted this project.
 
@@ -351,10 +395,14 @@ Here is an example using two names and longer lerfu strings:
 
 ##### Example 17.24.
 
+:::jbomupli
+
 |     |        |       |        |              |
 | --- | ------ | ----- | ------ | ------------ |
 | la  | stivn. | mark. | djonz. | merko        |
 |     | Steven | Mark  | Jones  | is-American. |
+
+:::
 
 |     |     |             |            |             |             |
 | --- | --- | ----------- | ---------- | ----------- | ----------- |
@@ -372,10 +420,14 @@ What about
 
 ##### Example 17.25.
 
+:::jbomupli
+
 |      |       |     |     |
 | ---- | ----- | --- | --- |
 | .abu | dunda | by. | cy. |
 | A    | gives | B   | C   |
+
+:::
 
 Does this mean that A gives B to C? No. *by. cy.* is a single lerfu string, although written as two words, and represents a single pro-sumti. The true interpretation is that A gives BC to someone unspecified. To solve this problem, we need to introduce the elidable terminator *[boi](/glossary/#boi)* (of selma'o BOI). This cmavo is used to terminate lerfu strings and also strings of numerals; it is required when two of these appear in a row, as here. (The other reason to use *[boi](/glossary/#boi)* is to attach a free modifier – subscript, parenthesis, or what have you – to a lerfu string.) The correct version is:
 
@@ -389,10 +441,14 @@ where the two occurrences of *[boi](/glossary/#boi)* in brackets are elidable, b
 
 ##### Example 17.27.
 
+:::jbomupli
+
 |     |     |     |         |         |     |        |
 | --- | --- | --- | ------- | ------- | --- | ------ |
 | xy. | boi | ro  | \[boi\] | prenu   | cu  | prami  |
 | X   |     | all |         | persons |     | loves. |
+
+:::
 
 X loves everybody.
 
@@ -404,18 +460,26 @@ The rules of [Section 17.9](/chapter17/#179-lerfu-words-as-pro-sumti "17.9. lerf
 
 ##### Example 17.28.
 
+:::jbomupli
+
 |      |     |                |
 | ---- | --- | -------------- |
 | .abu | cu  | lerfu          |
 | A    |     | is-a-letteral. |
 
+:::
+
 the hearer would try to find what previous sumti *[.abu](/glossary/#abu)* refers to. The solution to this problem makes use of the cmavo *[me'o](/glossary/#meo)* of selma'o LI, which makes a lerfu string into a sumti representing that very string of lerfu. This use of *[me'o](/glossary/#meo)* is a special case of its mathematical use, which is to introduce a mathematical expression used literally rather than for its value.
 
 ##### Example 17.29.
 
+:::jbomupli
+
 |      |      |     |       |
 | ---- | ---- | --- | ----- |
 | me'o | .abu | cu  | lerfu |
+
+:::
 
 The-expression “a” is-a-letteral.
 
@@ -423,10 +487,14 @@ Now we can translate [Example 17.1](/chapter17/#example-171 "Example 17.1.") int
 
 ##### Example 17.30.
 
+:::jbomupli
+
 |               |          |      |           |           |                |      |
 | ------------- | -------- | ---- | --------- | --------- | -------------- | ---- |
 | dei           | vasru    | vo   | lerfu     | po'u      | me'o           | .ebu |
 | this-sentence | contains | four | letterals | which-are | the-expression | “e”  |
+
+:::
 
 This sentence contains four “e” s.
 
@@ -436,10 +504,14 @@ The reader might be tempted to use quotation with *[li'u](/glossary/#liu)* inste
 
 ##### Example 17.31.
 
+:::jbomupli
+
 |           |      |             |     |                |
 | --------- | ---- | ----------- | --- | -------------- |
 | lu        | .abu | li'u        | cu  | lerfu          |
 | \[quote\] | .abu | \[unquote\] |     | is-a-letteral. |
+
+:::
 
 (The single-word quote *[zo](/glossary/#zo)* cannot be used, because *[.abu](/glossary/#abu)* is a compound cmavo.) But [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is false, because it says:
 
@@ -451,10 +523,14 @@ which is not the case; rather, the thing symbolized by the word *[.abu](/glossar
 
 ##### Example 17.33.
 
+:::jbomupli
+
 |                 |           |      |             |     |                |
 | --------------- | --------- | ---- | ----------- | --- | -------------- |
 | la'e            | lu        | .abu | li'u        | cu  | lerfu          |
 | The-referent-of | \[quote\] | .abu | \[unquote\] |     | is-a-letteral. |
+
+:::
 
 which is correct.
 
@@ -466,10 +542,14 @@ This chapter is not about Lojban mathematics, which is explained in [Chapter 18]
 
 ##### Example 17.34.
 
+:::jbomupli
+
 |            |      |        |            |     |      |     |
 | ---------- | ---- | ------ | ---------- | --- | ---- | --- |
 | li         | .abu | du     | li         | by. | su'i | cy. |
 | the-number | a    | equals | the-number | b   | plus | c   |
+
+:::
 
 a = b + c
 
@@ -477,11 +557,15 @@ a = b + c
 
 ##### Example 17.35.
 
+:::jbomupli
+
 |            |       |        |            |              |     |     |     |
 | ---------- | ----- | ------ | ---------- | ------------ | --- | --- | --- |
 | li         | .y.bu | du     | li         | ma'o         | fy. | boi | xy. |
 | the-number | y     | equals | the-number | the-function | f   | of  | x   |
 | y = f(x)   |       |        |            |              |     |     |     |
+
+:::
 
 Note the *[boi](/glossary/#boi)* here to separate the lerfu strings *[fy](/glossary/#fy)* and *[xy](/glossary/#xy)*.
 
@@ -489,10 +573,14 @@ Note the *[boi](/glossary/#boi)* here to separate the lerfu strings *[fy](/gloss
 
 ##### Example 17.36.
 
+:::jbomupli
+
 |     |      |       |           |            |     |       |
 | --- | ---- | ----- | --------- | ---------- | --- | ----- |
 | le  | vi   | ratcu | ny.moi    | le'i       | mi  | ratcu |
 | the | here | rat   | is-nth-of | the-set-of | my  | rats  |
+
+:::
 
 This rat is my Nth rat.
 
@@ -508,19 +596,27 @@ Nthly
 
 ##### Example 17.38.
 
+:::jbomupli
+
 |     |     |     |
 | --- | --- | --- |
 | xy. | xi  | ky. |
 | x   | sub | k   |
 
+:::
+
 - A lerfu string as quantifier (enclosed in *[ve'o](/glossary/#veo)* parentheses):
 
 ##### Example 17.39.
+
+:::jbomupli
 
 |     |     |          |          |
 | --- | --- | -------- | -------- |
 | vei | ny. | \[ve'o\] | lo prenu |
 | (   | “n” | )        | persons  |
+
+:::
 
 The parentheses are required because *ny. lo prenu* would be two separate sumti, *[ny.](/glossary/#ny)* and *lo prenu*. In general, any mathematical expression other than a simple number must be in parentheses when used as a quantifier; the right parenthesis mark, the cmavo *[ve'o](/glossary/#veo)*, can usually be elided.
 
@@ -576,19 +672,27 @@ One more alternative to these lengthy names is to use the lerfu string itself pr
 
 ##### Example 17.43.
 
+:::jbomupli
+
 |            |                  |     |     |      |
 | ---------- | ---------------- | --- | --- | ---- |
 | la         | me               | dy  | ny. | .abu |
 | that-named | what-pertains-to | “d” | “n” | “a”  |
 
+:::
+
 This works because *[la](/glossary/#la)*, the cmavo that normally introduces names used as sumti, may also be used before a predicate to indicate that the predicate is a (meaningful) name:
 
 ##### Example 17.44.
+
+:::jbomupli
 
 |            |        |     |         |
 | ---------- | ------ | --- | ------- |
 | la         | cribe  | cu  | ciska   |
 | That-named | “Bear” |     | writes. |
+
+:::
 
 Bear is a writer.
 
@@ -600,10 +704,14 @@ Since the first application of computers to non-numerical information, character
 
 ##### Example 17.45.
 
+:::jbomupli
+
 |                |          |      |     |                      |     |              |
 | -------------- | -------- | ---- | --- | -------------------- | --- | ------------ |
 | me'o           | se'e     | cixa | cu  | lerfu                | la  | .asycy'i'is. |
 | The-expression | \[code\] | 36   |     | is-a-letteral-in-set |     | ASCII        |
+
+:::
 
 |                 |          |                 |
 | --------------- | -------- | --------------- |
@@ -619,10 +727,14 @@ As another example, the Unicode character set (also known as ISO 10646) represen
 
 ##### Example 17.46.
 
+:::jbomupli
+
 |                |          |           |              |     |            |                |
 | -------------- | -------- | --------- | ------------ | --- | ---------- | -------------- |
 | me'o           | se'e     | rexarerei | sinxa        | le  | ka         | panpi          |
 | the-expression | \[code\] | 262E      | is-a-sign-of | the | quality-of | being-at-peace |
+
+:::
 
 When a *[se'e](/glossary/#see)* string appears in running discourse, some metalinguistic convention must specify whether the number is base 10 or some other base, and which character set is in use.
 

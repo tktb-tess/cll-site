@@ -55,10 +55,14 @@ The referents of *[mi](/glossary/#mi)* and *[do](/glossary/#do)* are usually obv
 
 ##### Example 7.5.
 
+:::jbomupli
+
 |      |        |     |        |     |         |           |     |       |             |     |     |
 | ---- | ------ | --- | ------ | --- | ------- | --------- | --- | ----- | ----------- | --- | --- |
 | mi'e | .djan. | doi | frank. | mi  | cusku   | lu        | mi  | bajra | li'u        |     | do  |
 | I-am | John,  | O   | Frank, | I   | express | \[quote\] | I   | run   | \[unquote\] | to  | you |
+
+:::
 
 I am John, Frank; I tell you “I run”.
 
@@ -86,19 +90,27 @@ Finally, the cmavo *[ko](/glossary/#ko)* is logically equivalent to *[do](/gloss
 
 ##### Example 7.7.
 
+:::jbomupli
+
 |     |       |     |        |
 | --- | ----- | --- | ------ |
 | do  | klama | le  | zarci  |
 | You | go-to | the | store. |
 
+:::
+
 becomes:
 
 ##### Example 7.8.
+
+:::jbomupli
 
 |                    |       |     |        |
 | ------------------ | ----- | --- | ------ |
 | ko                 | klama | le  | zarci  |
 | You \[imperative\] | go-to | the | store. |
+
+:::
 
 Make “you go to the store” true!
 | Go to the store!                 |
@@ -107,10 +119,14 @@ In English, the subject of a command is omitted, but in Lojban, the word *[ko](/
 
 ##### Example 7.9.
 
+:::jbomupli
+
 |     |       |                    |
 | --- | ----- | ------------------ |
 | mi  | viska | ko                 |
 | I   | see   | you-\[imperative\] |
+
+:::
 
 Make “I see you” true!
 | Be seen by me!         |
@@ -119,10 +135,14 @@ In [Example 7.9](/chapter07/#example-79 "Example 7.9."), it is necessary to make
 
 ##### Example 7.10.
 
+:::jbomupli
+
 |     |       |     |        |      |       |                    |
 | --- | ----- | --- | ------ | ---- | ----- | ------------------ |
 | mi  | viska | le  | prenu  | poi  | prami | ko                 |
 | I   | see   | the | person | that | loves | you-\[imperative\] |
+
+:::
 
 Make “I see the person that loves you” true!
 | Be such that the person who loves you is seen by me! |
@@ -150,19 +170,27 @@ It is important to distinguish between the English pronoun “this” and the En
 
 ##### Example 7.11.
 
+:::jbomupli
+
 |     |      |       |
 | --- | ---- | ----- |
 | le  | ti   | bloti |
 | the | this | boat  |
 
+:::
+
 does not mean “this boat” but rather “this one's boat”, “the boat associated with this thing”, as explained in [Section 8.7](/chapter08/#87-possessive-sumti "8.7. Possessive sumti"). A correct Lojban translation of [Example 7.11](/chapter07/#example-711 "Example 7.11.") is
 
 ##### Example 7.12.
+
+:::jbomupli
 
 |     |      |       |
 | --- | ---- | ----- |
 | le  | vi   | bloti |
 | the | here | boat  |
+
+:::
 
 the nearby boat
 
@@ -170,10 +198,14 @@ using a spatial tense before the selbri *[bloti](/glossary/#bloti)* to express t
 
 ##### Example 7.13.
 
+:::jbomupli
+
 |            |                    |           |
 | ---------- | ------------------ | --------- |
 | ti         | noi                | bloti     |
 | this-thing | which-incidentally | is-a-boat |
+
+:::
 
 There are no demonstrative pro-bridi to correspond to the ti-series: you can't point to a relationship.
 
@@ -204,10 +236,14 @@ Here “that” does not refer to something that can be pointed to, but to the p
 
 ##### Example 7.15.
 
+:::jbomupli
+
 |     |        |       |             |       |
 | --- | ------ | ----- | ----------- | ----- |
 | do  | na     | nelci | loi         | mlatu |
 | You | (Not!) | like  | the-mass-of | cats  |
+
+:::
 
 |     |                        |            |           |
 | --- | ---------------------- | ---------- | --------- |
@@ -222,10 +258,14 @@ Most references in speech are to the past (what has already been said), so *[di'
 
 ##### Example 7.16.
 
+:::jbomupli
+
 |            |        |           |                          |
 | ---------- | ------ | --------- | ------------------------ |
 | la         | saimn. | cusku     | di'e                     |
 | That-named | Simon  | expresses | the-following-utterance. |
+
+:::
 
 Simon says:
 
@@ -235,19 +275,27 @@ The remaining two cmavo, *[dei](/glossary/#dei)* and *[do'i](/glossary/#doi)*, r
 
 ##### Example 7.17.
 
+:::jbomupli
+
 |                |           |           |
 | -------------- | --------- | --------- |
 | dei            | jetnu     | jufra     |
 | This-utterance | is-a-true | sentence. |
 
+:::
+
 What I am saying (at this moment) is true.
 
 ##### Example 7.18.
+
+:::jbomupli
 
 |                |           |           |
 | -------------- | --------- | --------- |
 | do'i           | jetnu     | jufra     |
 | Some-utterance | is-a-true | sentence. |
+
+:::
 
 That's true (where “that” is not necessarily what was just said).
 
@@ -257,10 +305,14 @@ Note one very common construction with *[di'u](/glossary/#diu)* and the cmavo *[
 
 ##### Example 7.19.
 
+:::jbomupli
+
 |     |       |            |        |     |     |       |                 |                     |
 | --- | ----- | ---------- | ------ | --- | --- | ----- | --------------- | ------------------- |
 | mi  | prami | la         | djein. | .i  | mi  | nelci | la'e            | di'u                |
 | I   | love  | that-named | Jane.  | And | I   | like  | the-referent-of | the-last-utterance. |
+
+:::
 
 I love Jane, and I like that.
 
@@ -268,10 +320,14 @@ The effect of *la'e di'u* in [Example 7.19](/chapter07/#example-719 "Example 7.1
 
 ##### Example 7.20.
 
+:::jbomupli
+
 |     |       |            |        |     |     |       |                     |
 | --- | ----- | ---------- | ------ | --- | --- | ----- | ------------------- |
 | mi  | prami | la         | djein. | .i  | mi  | nelci | di'u                |
 | I   | love  | that-named | Jane.  | And | I   | like  | the-last-utterance. |
+
+:::
 
 says that the speaker likes one of his own sentences.
 
@@ -307,10 +363,14 @@ There are ten cmavo in the ko'a-series, and they may be assigned freely to any s
 
 ##### Example 7.21.
 
+:::jbomupli
+
 |            |        |         |     |       |     |      |          |
 | ---------- | ------ | ------- | --- | ----- | --- | ---- | -------- |
 | la         | .alis. | klama   | le  | zarci | .i  | ko'a | blanu    |
 | That-named | Alice  | goes-to | the | store | .   | It-1 | is-blue. |
+
+:::
 
 The English gloss “it-1”, plus knowledge about the real world, would tend to make English-speakers believe that *[ko'a](/glossary/#koa)* refers to the store; in other words, that its antecedent is *le zarci*. To a Lojbanist, however, *la .alis.* is just as likely an antecedent, in which case [Example 7.21](/chapter07/#example-721 "Example 7.21.") means that Alice, not the store, is blue.
 
@@ -318,10 +378,14 @@ To avoid this pitfall, Lojban employs special syntax, using the cmavo *[goi](/gl
 
 ##### Example 7.22.
 
+:::jbomupli
+
 |            |        |         |     |       |
 | ---------- | ------ | ------- | --- | ----- |
 | la         | .alis. | klama   | le  | zarci |
 | That-named | Alice  | goes-to | the | store |
+
+:::
 
 |     |       |               |            |        |     |          |
 | --- | ----- | ------------- | ---------- | ------ | --- | -------- |
@@ -332,10 +396,14 @@ Syntactically, *goi la .alis.* is a relative phrase (relative phrases are explai
 
 ##### Example 7.23.
 
+:::jbomupli
+
 |            |        |         |     |       |
 | ---------- | ------ | ------- | --- | ----- |
 | la         | .alis. | klama   | le  | zarci |
 | That-named | Alice  | goes-to | the | store |
+
+:::
 
 |     |            |        |               |       |     |          |
 | --- | ---------- | ------ | ------------- | ----- | --- | -------- |
@@ -348,10 +416,14 @@ The afterthought form of *[goi](/glossary/#goi)* shown in [Example 7.22](/chapte
 
 ##### Example 7.24.
 
+:::jbomupli
+
 |            |        |               |       |         |     |       |     |      |     |          |
 | ---------- | ------ | ------------- | ----- | ------- | --- | ----- | --- | ---- | --- | -------- |
 | la         | .alis. | goi           | ko'a  | klama   | le  | zarci | .i  | ko'a | cu  | blanu    |
 | That-named | Alice, | also-known-as | it-1, | goes-to | the | store | .   | It-1 |     | is-blue. |
+
+:::
 
 Again, *ko'a goi la .alis.* would have been entirely acceptable in [Example 7.24](/chapter07/#example-724 "Example 7.24."). This last form is reminiscent of legal jargon: “The party of the first part, hereafter known as Buyer, ...”.
 
@@ -369,10 +441,14 @@ Note that pro-bridi are so called because, even though they have the grammar of 
 
 ##### Example 7.26.
 
+:::jbomupli
+
 |     |       |           |          |     |       |     |     |          |
 | --- | ----- | --------- | -------- | --- | ----- | --- | --- | -------- |
 | mi  | klama | cei       | brode    | le  | zarci | .i  | do  | brode    |
 | I   | go-to | (which-is | claim-1) | the | store | .   | You | claim-1. |
+
+:::
 
 I go to the store. You, too.
 
@@ -382,10 +458,14 @@ Another use of *[broda](/glossary/#broda)* and its relatives, without assignment
 
 ##### Example 7.27.
 
+:::jbomupli
+
 |     |         |         |     |         |         |         |     |
 | --- | ------- | ------- | --- | ------- | ------- | ------- | --- |
 |     | broda   |         | ke  | brode   |         | brodi   |     |
 | a   | thing-1 | type-of | (   | thing-2 | type-of | thing-3 | )   |
+
+:::
 
 represents an abstract pattern, a certain kind of tanru. (Historically, this use was the original one.)
 
@@ -393,10 +473,14 @@ As is explained in [Section 17.9](/chapter17/#179-lerfu-words-as-pro-sumti "17.9
 
 ##### Example 7.28.
 
+:::jbomupli
+
 |     |       |     |       |     |     |           |          |        |     |
 | --- | ----- | --- | ----- | --- | --- | --------- | -------- | ------ | --- |
 | mi  | viska | le  | gerku | .i  | gy. | cusku     | zo       | arf.   |     |
 | I   | see   | the | dog   | .   | D   | expresses | the-word | “Arf!” | .   |
+
+:::
 
 The Lojban word *[gerku](/glossary/#gerku)* begins with *g*, so the antecedent of *[gy.](/glossary/#gy)*, the cmavo for the letter *g*, must be *le gerku*. In the English translation, we use the same principle to refer to the dog as “D”. Of course, in case of ambiguity, *[goi](/glossary/#goi)* can be used to make an explicit assignment.
 
@@ -404,10 +488,14 @@ Furthermore, *[goi](/glossary/#goi)* can even be used to assign a name:
 
 ##### Example 7.29.
 
+:::jbomupli
+
 |     |       |               |            |      |     |         |     |        |
 | --- | ----- | ------------- | ---------- | ---- | --- | ------- | --- | ------ |
 | le  | ninmu | goi           | la         | sam. | cu  | klama   | le  | zarci  |
 | The | woman | also-known-as | that-named | Sam  |     | goes-to | the | store. |
+
+:::
 
 The woman, whom I'll call Sam, goes to the store.
 
@@ -437,10 +525,14 @@ The cmavo *[ri](/glossary/#ri)* is the simplest of these; it has the same refere
 
 ##### Example 7.30.
 
+:::jbomupli
+
 |            |        |        |      |     |     |                       |       |
 | ---------- | ------ | ------ | ---- | --- | --- | --------------------- | ----- |
 | la         | .alis. | sipna  | ne'i | le  |     | ri                    | kumfa |
 | That-named | Alice  | sleeps | in   | the | of- | \[repeat-last-sumti\] | room. |
+
+:::
 
 Alice sleeps in her room.
 
@@ -448,10 +540,14 @@ The *[ri](/glossary/#ri)* in [Example 7.30](/chapter07/#example-730 "Example 7.3
 
 ##### Example 7.31.
 
+:::jbomupli
+
 |            |        |        |      |     |     |            |        |       |
 | ---------- | ------ | ------ | ---- | --- | --- | ---------- | ------ | ----- |
 | la         | .alis. | sipna  | ne'i | le  |     | la         | .alis. | kumfa |
 | That-named | Alice  | sleeps | in   | the | of- | that-named | Alice  | room. |
+
+:::
 
 Alice sleeps in Alice's room.
 
@@ -461,10 +557,14 @@ Certain sumti are ignored by *[ri](/glossary/#ri)*; specifically, most of the ot
 
 ##### Example 7.32.
 
+:::jbomupli
+
 |     |       |     |
 | --- | ----- | --- |
 | mi  | prami | mi  |
 | I   | love  | me. |
+
+:::
 
 I love myself.
 
@@ -472,10 +572,14 @@ However, the cmavo of the ti-series can be picked up by *[ri](/glossary/#ri)*, b
 
 ##### Example 7.33.
 
+:::jbomupli
+
 |            |       |       |     |       |     |
 | ---------- | ----- | ----- | --- | ----- | --- |
 | la         | djan. | viska | le  | tricu | .i  |
 | That-named | John  | sees  | the | tree. |     |
+
+:::
 
 |                 |               |     |     |                 |         |
 | --------------- | ------------- | --- | --- | --------------- | ------- |
@@ -490,10 +594,14 @@ To refer to the next-to-last sumti, the third-from-last sumti, and so on, *[ri](
 
 ##### Example 7.34.
 
+:::jbomupli
+
 |     |        |     |     |       |     |            |      |       |                          |
 | --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ |
 | lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | rixire                   |
 | A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[repeat-next-to-last\]. |
+
+:::
 
 |     |            |        |       |                             |
 | --- | ---------- | ------ | ----- | --------------------------- |
@@ -506,10 +614,14 @@ Therefore, the vaguer *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are also p
 
 ##### Example 7.35.
 
+:::jbomupli
+
 |     |        |     |     |       |     |            |      |       |                          |
 | --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ |
 | lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | ra                       |
 | A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[some-previous-thing\]. |
+
+:::
 
 |     |            |        |       |                             |
 | --- | ---------- | ------ | ----- | --------------------------- |
@@ -522,10 +634,14 @@ The meaning of *[ri](/glossary/#ri)* must be determined every time it is used. S
 
 ##### Example 7.36.
 
+:::jbomupli
+
 |            |        |         |     |       |
 | ---------- | ------ | ------- | --- | ----- |
 | la         | .alis. | klama   | le  | zarci |
 | That-named | Alice  | goes-to | the | store |
+
+:::
 
 |     |                   |               |      |          |
 | --- | ----------------- | ------------- | ---- | -------- |
@@ -538,19 +654,27 @@ The cmavo *[go'i](/glossary/#goi)*, *[go'a](/glossary/#goa)*, and *[go'u](/gloss
 
 ##### Example 7.37.
 
+:::jbomupli
+
 |                 |          |        |                |      |     |                        |
 | --------------- | -------- | ------ | -------------- | ---- | --- | ---------------------- |
 | xu              | zo       | .djan. | cmene          | do   | .i  | go'i                   |
 | \[True-false?\] | The-word | “John” | is-the-name-of | you? |     | \[repeat last bridi\]. |
 
+:::
+
 Is John your name? Yes.
 
 ##### Example 7.38.
+
+:::jbomupli
 
 |     |       |     |       |     |     |                        |
 | --- | ----- | --- | ----- | --- | --- | ---------------------- |
 | mi  | klama | le  | zarci | .i  | do  | go'i                   |
 | I   | go-to | the | store | .   | You | \[repeat last bridi\]. |
+
+:::
 
 I go to the store . You, too.
 
@@ -560,10 +684,14 @@ The remaining four cmavo of the go'i-series are provided for convenience or for 
 
 ##### Example 7.39.
 
+:::jbomupli
+
 |     |     |            |       |     |        |
 | --- | --- | ---------- | ----- | --- | ------ |
 | A:  | mi  | ba         | klama | le  | zarci  |
 | A:  | I   | \[future\] | go-to | the | store. |
+
+:::
 
 A: I am going to the store.
 
@@ -597,10 +725,14 @@ Descriptions based on go'i-series cmavo can be very useful for repeating specifi
 
 ##### Example 7.41.
 
+:::jbomupli
+
 |     |       |       |     |         |     |        |     |                                   |
 | --- | ----- | ----- | --- | ------- | --- | ------ | --- | --------------------------------- |
 | le  | xekri | mlatu | cu  | klama   | le  | zarci  | .i  | le                                |
 | The | black | cat   |     | goes-to | the | store. |     | That-described-as-the-x1-place-of |
+
+:::
 
 |                       |     |          |     |       |
 | --------------------- | --- | -------- | --- | ----- |
@@ -615,10 +747,14 @@ The cmavo *[go'o](/glossary/#goo)*, *[nei](/glossary/#nei)*, and *[no'a](/glossa
 
 ##### Example 7.42.
 
+:::jbomupli
+
 |     |         |     |          |     |                          |
 | --- | ------- | --- | -------- | --- | ------------------------ |
 | mi  | nupre   | le  | nu       | mi  | go'o                     |
 | I   | promise | the | event-of | I   | \[repeat-future-bridi\]. |
+
+:::
 
 |     |            |       |     |       |     |     |       |
 | --- | ---------- | ----- | --- | ----- | --- | --- | ----- |
@@ -638,10 +774,14 @@ For good examples of *[nei](/glossary/#nei)* and *[no'a](/glossary/#noa)*, we ne
 
 ##### Example 7.43.
 
+:::jbomupli
+
 |     |     |               |     |          |      |             |     |           |
 | --- | --- | ------------- | --- | -------- | ---- | ----------- | --- | --------- |
 | mi  | se  | pluka         | le  | nu       | do   | pensi       | le  | nu        |
 | I   |     | am-pleased-by | the | event-of | (you | think-about | the | (event-of |
+
+:::
 
 |                |     |        |     |           |      |          |
 | -------------- | --- | ------ | --- | --------- | ---- | -------- |
@@ -652,10 +792,14 @@ I am pleased that you thought about whether I would be pleased (about ...) befor
 
 ##### Example 7.44.
 
+:::jbomupli
+
 |     |            |       |             |     |          |     |                         |
 | --- | ---------- | ----- | ----------- | --- | -------- | --- | ----------------------- |
 | mi  | ba         | klama | ca          | le  | nu       | do  | no'a                    |
 | I   | \[future\] | go    | \[present\] | the | event-of | you | \[repeats outer bridi\] |
+
+:::
 
 I will go when you do.
 
@@ -691,10 +835,14 @@ However, a *ri-*&#x73;eries or *go'a-*&#x73;eries reference within a quotation c
 
 ##### Example 7.48.
 
+:::jbomupli
+
 |            |       |       |           |     |       |     |       |              |
 | ---------- | ----- | ----- | --------- | --- | ----- | --- | ----- | ------------ |
 | la         | djan. | cusku | lu        | mi  | klama | le  | zarci | li'u         |
 | That-named | John  | says  | \[quote\] | I   | go-to | the | store | \[unquote\]. |
+
+:::
 
 |     |            |        |       |           |     |            |              |
 | --- | ---------- | ------ | ----- | --------- | --- | ---------- | ------------ |
@@ -722,10 +870,14 @@ The cmavo *[zu'i](/glossary/#zui)*, on the other hand, represents the typical va
 
 ##### Example 7.49.
 
+:::jbomupli
+
 |     |       |     |         |     |     |       |      |
 | --- | ----- | --- | ------- | --- | --- | ----- | ---- |
 | mi  | klama | le  | bartu   | be  | le  | zdani |      |
 | I   | go-to | the | outside | of  | the | house | from |
+
+:::
 
 |     |        |     |     |       |                      |                      |
 | --- | ------ | --- | --- | ----- | -------------------- | -------------------- |
@@ -746,19 +898,27 @@ This cannot be correctly expressed as:
 
 ##### Example 7.50.
 
+:::jbomupli
+
 |             |               |     |          |                  |      |             |       |
 | ----------- | ------------- | --- | -------- | ---------------- | ---- | ----------- | ----- |
 | loi         | jmive         | cu  | se zbasu | \[zo'e\]         | fi   | loi         | selci |
 | The-mass-of | living-things |     | is-made  | \[by-something\] | from | the-mass-of | cells |
 
+:::
+
 because the *[zo'e](/glossary/#zoe)*, expressed or understood, in [Example 7.50](/chapter07/#example-750 "Example 7.50.") indicates that there is still a “maker” in this relationship. We do not generally suppose, however, that someone “makes” living things from cells. The best answer is probably to find a different selbri, one which does not imply a “maker”: however, an alternative strategy is to use *[zi'o](/glossary/#zio)* to eliminate the maker place:
 
 ##### Example 7.51.
+
+:::jbomupli
 
 |             |               |     |
 | ----------- | ------------- | --- |
 | loi         | jmive         | cu  |
 | The-mass-of | living-things |     |
+
+:::
 
 |          |                   |      |             |        |
 | -------- | ----------------- | ---- | ----------- | ------ |
@@ -769,37 +929,53 @@ Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of 
 
 ##### Example 7.52.
 
+:::jbomupli
+
 |     |       |     |          |      |                     |       |
 | --- | ----- | --- | -------- | ---- | ------------------- | ----- |
 | mi  | zbasu | le  | dinju    |      | loi                 | mudri |
 | I   | make  | the | building | from | some-of-the-mass-of | wood. |
 
+:::
+
 I make the building out of wood.
 
 ##### Example 7.53.
+
+:::jbomupli
 
 |                   |       |     |          |      |                     |       |
 | ----------------- | ----- | --- | -------- | ---- | ------------------- | ----- |
 | zi'o              | zbasu | le  | dinju    |      | loi                 | mudri |
 | \[without-maker\] | makes | the | building | from | some-of-the-mass-of | wood. |
 
+:::
+
 The building is made out of wood.
 
 ##### Example 7.54.
+
+:::jbomupli
 
 |     |       |                        |      |                     |       |
 | --- | ----- | ---------------------- | ---- | ------------------- | ----- |
 | mi  | zbasu | zi'o                   |      | loi                 | mudri |
 | I   | make  | \[without-thing-made\] | from | some-of-the-mass-of | wood. |
 
+:::
+
 I build using wood.
 
 ##### Example 7.55.
+
+:::jbomupli
 
 |     |       |     |          |                       |
 | --- | ----- | --- | -------- | --------------------- |
 | mi  | zbasu | le  | dinju    | zi'o                  |
 | I   | make  | the | building | \[without-material\]. |
+
+:::
 
 I make the building.
 
@@ -809,10 +985,14 @@ The pro-bridi *[co'e](/glossary/#coe)* (which by itself constitutes the co'e-ser
 
 ##### Example 7.56.
 
+:::jbomupli
+
 |     |       |     |          |     |                              |        |       |
 | --- | ----- | --- | -------- | --- | ---------------------------- | ------ | ----- |
 | mi  | troci | le  | nu       | mi  | co'e                         | le     | vorme |
 | I   | try   | the | event-of | my  | \[doing-the-obvious-action\] | to-the | door. |
+
+:::
 
 I try the door.
 
@@ -856,10 +1036,14 @@ The cmavo of the vo'a-series are also used with *[soi](/glossary/#soi)* (of selm
 
 ##### Example 7.59.
 
+:::jbomupli
+
 |     |       |     |                 |                      |                       |
 | --- | ----- | --- | --------------- | -------------------- | --------------------- |
 | mi  | prami | do  | soi             | vo'a                 | vo'e                  |
 | I   | love  | you | \[reciprocity\] | \[x1 of this bridi\] | \[x2 of this bridi\]. |
+
+:::
 
 I love you and vice versa (swapping “I” and “you”).
 
@@ -867,10 +1051,14 @@ The significance of *soi vo'a vo'e* is that the bridi is still true even if the 
 
 ##### Example 7.60.
 
+:::jbomupli
+
 |     |       |     |                 |                       |
 | --- | ----- | --- | --------------- | --------------------- |
 | mi  | prami | do  | soi             | vo'a                  |
 | I   | love  | you | \[reciprocity\] | \[x1 of this bridi\]. |
+
+:::
 
 again involves the x1 and x2 places.
 
@@ -888,10 +1076,14 @@ The elidable terminator for *[soi](/glossary/#soi)* is *[se'u](/glossary/#seu)* 
 
 ##### Example 7.62.
 
+:::jbomupli
+
 |     |                 |      |                 |                      |      |      |      |
 | --- | --------------- | ---- | --------------- | -------------------- | ---- | ---- | ---- |
 | mi  | bajykla         | ti   | soi             | vo'i                 | se'u |      | ta   |
 | I   | runningly-go-to | this | \[reciprocity\] | \[x3 of this bridi\] |      | from | that |
+
+:::
 
 I runningly-go to this from that and vice versa.
 
@@ -908,10 +1100,14 @@ Lojban questions are more fully explained in [Section 19.5](/chapter19/#195-ques
 
 ##### Example 7.63.
 
+:::jbomupli
+
 |     |       |       |
 | --- | ----- | ----- |
 | do  | klama | ma    |
 | You | go-to | what? |
+
+:::
 
 Where are you going?
 
@@ -932,10 +1128,14 @@ What predicate is true as applied to you?
 
 ##### Example 7.65.
 
+:::jbomupli
+
 |            |                |      |
 | ---------- | -------------- | ---- |
 | ma         | cmene          | do   |
 | What-sumti | is-the-name-of | you? |
+
+:::
 
 What is your name?
 
@@ -943,10 +1143,14 @@ or even
 
 ##### Example 7.66.
 
+:::jbomupli
+
 |     |                 |
 | --- | --------------- |
 | doi | ma              |
 | O   | \[what sumti?\] |
+
+:::
 
 which uses the vocative *[doi](/glossary/#doi)* to address someone, and simultaneously asks who the someone is.)
 
@@ -954,10 +1158,14 @@ A further example of *[mo](/glossary/#mo)*:
 
 ##### Example 7.67.
 
+:::jbomupli
+
 |     |                  |         |        |     |       |      |     |              |
 | --- | ---------------- | ------- | ------ | --- | ----- | ---- | --- | ------------ |
 | lo  | mo               |         | prenu  | cu  | darxi | do   | .i  | barda        |
 | A   | \[what selbri?\] | type-of | person |     | hit   | you? |     | A big thing. |
+
+:::
 
 Which person hit you? The big one.
 
@@ -965,10 +1173,14 @@ When *[ma](/glossary/#ma)* or *[mo](/glossary/#mo)* is repeated, multiple questi
 
 ##### Example 7.68.
 
+:::jbomupli
+
 |                |       |                 |
 | -------------- | ----- | --------------- |
 | ma             | djuno | ma              |
 | \[What-sumti\] | knows | \[what-sumti\]? |
+
+:::
 
 Who knows what?
 
@@ -984,10 +1196,14 @@ This pro-sumti is used in relative clauses (explained in [Chapter 8](/chapter08/
 
 ##### Example 7.69.
 
+:::jbomupli
+
 |     |       |     |       |           |                       |
 | --- | ----- | --- | ----- | --------- | --------------------- |
 | mi  | catlu | lo  | mlatu | poi       | \[zo'e\]              |
 | I   | see   | a   | cat   | such-that | something-unspecified |
+
+:::
 
 |       |                                         |      |              |          |
 | ----- | --------------------------------------- | ---- | ------------ | -------- |
@@ -1000,10 +1216,14 @@ If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example
 
 ##### Example 7.70.
 
+:::jbomupli
+
 |     |       |     |       |           |
 | --- | ----- | --- | ----- | --------- |
 | mi  | catlu | lo  | mlatu | poi       |
 | I   | see   | a   | cat   | such-that |
+
+:::
 
 |                                         |       |           |         |
 | --------------------------------------- | ----- | --------- | ------- |
@@ -1030,10 +1250,14 @@ In brief: Every property abstraction specifies a property of one of the sumti in
 
 ##### Example 7.71.
 
+:::jbomupli
+
 |     |             |      |              |
 | --- | ----------- | ---- | ------------ |
 | le  | ka          | ce'u | gleki        |
 | the | property-of | (X   | being-happy) |
+
+:::
 
 the property of being happy
 | happiness                   |
@@ -1042,10 +1266,14 @@ and
 
 ##### Example 7.72.
 
+:::jbomupli
+
 |     |             |                    |      |
 | --- | ----------- | ------------------ | ---- |
 | le  | ka          | gleki              | ce'u |
 | the | property-of | (being-happy-about | X)   |
+
+:::
 
 the property of being that which someone is happy about
 
@@ -1066,10 +1294,14 @@ Bound variables belong to the predicate-logic part of Lojban, and are listed her
 
 ##### Example 7.73.
 
+:::jbomupli
+
 |            |       |     |        |             |       |
 | ---------- | ----- | --- | ------ | ----------- | ----- |
 | la         | djan. | cu  | lafti  | da          | poi   |
 | That-named | John  |     | raised | something-1 | which |
+
+:::
 
 |            |      |      |           |              |
 | ---------- | ---- | ---- | --------- | ------------ |
@@ -1116,19 +1348,27 @@ The main difference between
 
 ##### Example 7.74.
 
+:::jbomupli
+
 |      |                 |     |       |
 | ---- | --------------- | --- | ----- |
 | ko'a | du              | le  | nanmu |
 | It-1 | is-identical-to | the | man   |
 
+:::
+
 and
 
 ##### Example 7.75.
+
+:::jbomupli
 
 |      |                |     |       |
 | ---- | -------------- | --- | ----- |
 | ko'a | mintu          | le  | nanmu |
 | It-1 | is-the-same-as | the | man   |
+
+:::
 
 is this defining nature. [Example 7.74](/chapter07/#example-774 "Example 7.74.") presumes that the speaker is responding to a request for information about what *[ko'a](/glossary/#koa)* refers to, or that the speaker in some way feels the need to define *[ko'a](/glossary/#koa)* for later reference. A bridi with *[du](/glossary/#du)* is an identity sentence, somewhat metalinguistically saying that all attached sumti are representations for the same referent. There may be any number of sumti associated with *[du](/glossary/#du)*, and all are said to be identical.
 
@@ -1160,10 +1400,14 @@ An anticipated use of rafsi for cmavo in the *[fo'a](/glossary/#foa)* series is 
 
 ##### Example 7.78.
 
+:::jbomupli
+
 |      |            |     |                 |     |     |               |
 | ---- | ---------- | --- | --------------- | --- | --- | ------------- |
 | fo'a | goi        | le  | kulnrsu,omi     | .i  | lo  | fo'arselsanga |
 | x6   | stands-for | the | Finnish-culture | .   | An  | x6-song.      |
+
+:::
 
 Finally, lujvo involving *[zi'o](/glossary/#zio)* are also possible, and are fully discussed in [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures"). In brief, the convention is to use the rafsi for *[zi'o](/glossary/#zio)* as a prefix immediately followed by the rafsi for the number of the place to be deleted. Thus, if we consider a beverage (something drunk without considering who, if anyone, drinks it) as a *se pinxe be zi'o*, the lujvo corresponding to this is *zilrelselpinxe* (deleting the second place of *se pinxe*). Deleting the x1 place in this fashion would move all remaining places up by one. This would mean that *zilpavypinxe* has the same place structure as *zilrelselpinxe*, and *lo zilpavypinxe*, like *lo zilrelselpinxe*, refers to a beverage, and not to a non-existent drinker.
 

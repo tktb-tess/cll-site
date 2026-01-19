@@ -11,19 +11,27 @@ An abstraction selbri is formed by taking a full bridi and preceding it by any c
 
 ##### Example 11.1.
 
+:::jbomupli
+
 |     |       |     |       |
 | --- | ----- | --- | ----- |
 | mi  | klama | le  | zarci |
 | I   | go-to | the | store |
 
+:::
+
 into an abstraction using *[nu](/glossary/#nu)*, one of the members of selma'o NU, we change it into
 
 ##### Example 11.2.
+
+:::jbomupli
 
 |             |     |          |     |       |         |
 | ----------- | --- | -------- | --- | ----- | ------- |
 | nu          | mi  | klama    | le  | zarci | \[kei\] |
 | an-event-of | my  | going-to | the | store |         |
+
+:::
 
 The bridi may be a simple selbri, or it may have associated sumti, as here. It is important to beware of eliding *[kei](/glossary/#kei)* improperly, as many of the common uses of abstraction selbri involve following them with words that would appear to be part of the abstraction if *[kei](/glossary/#kei)* had been elided.
 
@@ -33,10 +41,14 @@ The grammatical uses of an abstraction selbri are exactly the same as those of a
 
 ##### Example 11.3.
 
+:::jbomupli
+
 |            |       |       |     |           |                 |     |         |          |
 | ---------- | ----- | ----- | --- | --------- | --------------- | --- | ------- | -------- |
 | la         | djan. |       | cu  | nu        | sonci           | kei |         | djica    |
 | That-named | John  | is-an |     | (event-of | being-a-soldier | )   | type-of | desirer. |
+
+:::
 
 John wants to be a soldier.
 
@@ -44,10 +56,14 @@ Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary
 
 ##### Example 11.4.
 
+:::jbomupli
+
 |            |       |     |         |     |          |                  |         |
 | ---------- | ----- | --- | ------- | --- | -------- | ---------------- | ------- |
 | la         | djan. | cu  | djica   | le  | nu       | sonci            | \[kei\] |
 | That-named | John  |     | desires | the | event-of | being-a-soldier. |         |
+
+:::
 
 We will most often use descriptions containing abstraction either at the end of a bridi, or just before the main selbri with its *[cu](/glossary/#cu)*; in either of these circumstances, *[kei](/glossary/#kei)* can normally be elided.
 
@@ -67,49 +83,73 @@ The examples in [Section 11.1](/chapter11/#111-the-syntax-of-abstraction "11.1. 
 
 ##### Example 11.5.
 
+:::jbomupli
+
 |     |       |
 | --- | ----- |
 | le  | klama |
+
+:::
 
 the comer, that which comes
 
 ##### Example 11.6.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | se  | klama |
+
+:::
 
 the destination
 
 ##### Example 11.7.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | te  | klama |
+
+:::
 
 the origin
 
 ##### Example 11.8.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | ve  | klama |
+
+:::
 
 the route
 
 ##### Example 11.9.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | xe  | klama |
+
+:::
 
 the means of transportation
 
 ##### Example 11.10.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | nu  | klama |
+
+:::
 
 the event of someone coming to somewhere from somewhere by some route using some means
 
@@ -119,19 +159,27 @@ In Lojban, the term “event” is divorced from its ordinary English sense of s
 
 ##### Example 11.11.
 
+:::jbomupli
+
 |     |          |     |           |
 | --- | -------- | --- | --------- |
 | le  | nu       | mi  | vasxu     |
 | the | event-of | my  | breathing |
 
+:::
+
 is an event which lasts for the whole of my life (under normal circumstances). On the other hand,
 
 ##### Example 11.12.
+
+:::jbomupli
 
 |     |          |            |       |         |            |        |
 | --- | -------- | ---------- | ----- | ------- | ---------- | ------ |
 | le  | nu       | la         | djan. | cinba   | la         | djein. |
 | the | event-of | that-named | John  | kissing | that-named | Jane   |
+
+:::
 
 is relatively brief by comparison (again, under normal circumstances).
 
@@ -139,10 +187,14 @@ We can see from [Example 11.10](/chapter11/#example-1110 "Example 11.10.") throu
 
 ##### Example 11.13.
 
+:::jbomupli
+
 |     |       |     |          |           |
 | --- | ----- | --- | -------- | --------- |
 | mi  | nelci | le  | nu       | limna     |
 | I   | like  | the | event-of | swimming. |
+
+:::
 
 I like swimming.
 
@@ -150,10 +202,14 @@ is elliptical, and most probably means:
 
 ##### Example 11.14.
 
+:::jbomupli
+
 |     |       |     |          |     |       |
 | --- | ----- | --- | -------- | --- | ----- |
 | mi  | nelci | le  | nu       | mi  | limna |
 | I   | like  | the | event-of | I   | swim. |
+
+:::
 
 In the proper context, of course, [Example 11.13](/chapter11/#example-1113 "Example 11.13.") could refer to the event of somebody else swimming. Its English equivalent, “I like swimming”, can't be interpreted as “I like Frank's swimming”; this is a fundamental distinction between English and Lojban. In Lojban, an omitted sumti can mean whatever the context indicates that it should mean.
 
@@ -161,10 +217,14 @@ Note that the lack of an explicit NU cmavo in a sumti can sometimes hide an impl
 
 ##### Example 11.15.
 
+:::jbomupli
+
 |     |             |     |              |
 | --- | ----------- | --- | ------------ |
 | le  | se nelci    | cu  | cafne        |
 | The | liked-thing |     | is-frequent. |
+
+:::
 
 The thing which I like happens often.
 
@@ -176,10 +236,14 @@ Event descriptions with *le nu* are commonly used to fill the “under condition
 
 ##### Example 11.16.
 
+:::jbomupli
+
 |            |         |     |             |     |     |
 | ---------- | ------- | --- | ----------- | --- | --- |
 | la         | lojban. | cu  | frili       |     | mi  |
 | That-named | Lojban  |     | is-easy-for | me  |     |
+
+:::
 
 |                  |     |          |     |       |         |
 | ---------------- | --- | -------- | --- | ----- | ------- |
@@ -211,10 +275,14 @@ An event considered as a point in time is called a “point-event”, or sometim
 
 ##### Example 11.17.
 
+:::jbomupli
+
 |     |                |             |       |       |            |       |     |             |
 | --- | -------------- | ----------- | ----- | ----- | ---------- | ----- | --- | ----------- |
 | le  | mu'e           | la          | djan. | catra | la         | djim. | cu  | zekri       |
 | The | point-event-of | (that-named | John  | kills | that-named | Jim)  |     | is-a-crime. |
+
+:::
 
 John's killing Jim (considered as a point in time) is a crime.
 
@@ -222,10 +290,14 @@ An event considered as extended in time, and structured with a beginning, a midd
 
 ##### Example 11.18.
 
+:::jbomupli
+
 |                  |     |             |     |       |             |     |             |     |
 | ---------------- | --- | ----------- | --- | ----- | ----------- | --- | ----------- | --- |
 | ca'o             | le  | pu'u        | le  | latmo | balje'a     | cu  | porpi       | kei |
 | \[continuitive\] | the | process-of( | the | Latin | great-state |     | breaking-up | )   |
+
+:::
 
 |      |              |     |             |
 | ---- | ------------ | --- | ----------- |
@@ -238,10 +310,14 @@ An event considered as extended in time and cyclic or repetitive is called an �
 
 ##### Example 11.19.
 
+:::jbomupli
+
 |     |          |            |     |             |     |        |
 | --- | -------- | ---------- | --- | ----------- | --- | ------ |
 | mi  | tatpi    | ri'a       | le  | zu'o        | mi  | plipe  |
 | I   | am-tired | because-of | the | activity-of | (I  | jump). |
+
+:::
 
 I am tired because I jump.
 
@@ -249,10 +325,14 @@ An event considered as something that is either happening or not happening, with
 
 ##### Example 11.20.
 
+:::jbomupli
+
 |     |          |     |           |     |                 |      |
 | --- | -------- | --- | --------- | --- | --------------- | ---- |
 | le  | za'i     | mi  | jmive     | cu  | ckape           | do   |
 | The | state-of | (I  | am-alive) |     | is-dangerous-to | you. |
+
+:::
 
 My being alive is dangerous to you.
 
@@ -288,10 +368,14 @@ The things described by *le nu* descriptions (or, to put it another way, the thi
 
 ##### Example 11.21.
 
+:::jbomupli
+
 |            |       |     |              |                        |
 | ---------- | ----- | --- | ------------ | ---------------------- |
 | la         | djan. | cu  | se risna     | zo'e                   |
 | That-named | John  |     | has-as-heart | something-unspecified. |
+
+:::
 
 John has a heart.
 
@@ -299,10 +383,14 @@ has the same truth conditions as
 
 ##### Example 11.22.
 
+:::jbomupli
+
 |            |       |     |                  |
 | ---------- | ----- | --- | ---------------- |
 | la         | djan. | cu  | ckaji            |
 | That-named | John  |     | has-the-property |
+
+:::
 
 |     |             |                 |            |         |
 | --- | ----------- | --------------- | ---------- | ------- |
@@ -315,10 +403,14 @@ John has the property of having a heart.
 
 ##### Example 11.23.
 
+:::jbomupli
+
 |     |         |       |                       |             |            |         |
 | --- | ------- | ----- | --------------------- | ----------- | ---------- | ------- |
 | do  | cnino   | mi    | le                    | ka          | xunre      | \[kei\] |
 | You | are-new | to-me | in-the-quality-of-the | property-of | being-red. |         |
+
+:::
 
 You are new to me in redness.
 
@@ -326,10 +418,14 @@ You are new to me in redness.
 
 ##### Example 11.24.
 
+:::jbomupli
+
 |     |             |      |           |         |     |        |        |
 | --- | ----------- | ---- | --------- | ------- | --- | ------ | ------ |
 | le  | ka          | do   | xunre     | \[kei\] | cu  | cnino  | mi     |
 | The | property-of | your | being-red |         |     | is-new | to me. |
+
+:::
 
 Your redness is new to me.
 
@@ -339,26 +435,38 @@ There are several different properties that can be extracted from a bridi, depen
 
 ##### Example 11.25.
 
+:::jbomupli
+
 |               |     |        |                       |         |
 | ------------- | --- | ------ | --------------------- | ------- |
 | ka            | mi  | prami  | \[zo'e\]              | \[kei\] |
 | a-property-of | me  | loving | something-unspecified |         |
 
+:::
+
 is quite different from##### Example 11.26.
+
+:::jbomupli
 
 |               |                       |        |     |         |
 | ------------- | --------------------- | ------ | --- | ------- |
 | ka            | \[zo'e\]              | prami  | mi  | \[kei\] |
 | a-property-of | something-unspecified | loving | me  |         |
 
+:::
+
 In particular, sentences like [Example 11.27](/chapter11/#example-1127 "Example 11.27.") and [Example 11.28](/chapter11/#example-1128 "Example 11.28.") are quite different in meaning:
 
 ##### Example 11.27.
+
+:::jbomupli
 
 |            |       |     |         |            |         |
 | ---------- | ----- | --- | ------- | ---------- | ------- |
 | la         | djan. | cu  | zmadu   | la         | djordj. |
 | That-named | John  |     | exceeds | that-named | George  |
+
+:::
 
 |        |             |     |       |     |
 | ------ | ----------- | --- | ----- | --- |
@@ -369,10 +477,14 @@ I love John more than I love George.
 
 ##### Example 11.28.
 
+:::jbomupli
+
 |            |       |     |         |            |         |
 | ---------- | ----- | --- | ------- | ---------- | ------- |
 | la         | djan. | cu  | zmadu   | la         | djordj. |
 | That-named | John  |     | exceeds | that-named | George  |
+
+:::
 
 |        |             |     |       |      |
 | ------ | ----------- | --- | ----- | ---- |
@@ -385,10 +497,14 @@ The “X” used in the glosses of [Example 11.27](/chapter11/#example-1127 "Exa
 
 ##### Example 11.29.
 
+:::jbomupli
+
 |            |       |     |         |            |         |
 | ---------- | ----- | --- | ------- | ---------- | ------- |
 | la         | djan. | cu  | zmadu   | la         | djordj. |
 | That-named | John  |     | exceeds | that-named | George  |
+
+:::
 
 |        |             |     |       |      |
 | ------ | ----------- | --- | ----- | ---- |
@@ -399,10 +515,14 @@ and of [Example 11.28](/chapter11/#example-1128 "Example 11.28.") is:
 
 ##### Example 11.30.
 
+:::jbomupli
+
 |            |       |     |         |            |         |
 | ---------- | ----- | --- | ------- | ---------- | ------- |
 | la         | djan. | cu  | zmadu   | la         | djordj. |
 | That-named | John  |     | exceeds | that-named | George  |
+
+:::
 
 |        |             |      |       |      |
 | ------ | ----------- | ---- | ----- | ---- |
@@ -413,17 +533,25 @@ This convention allows disambiguation of cases like:
 
 ##### Example 11.31.
 
+:::jbomupli
+
 |     |             |          |        |     |       |          |         |
 | --- | ----------- | -------- | ------ | --- | ----- | -------- | ------- |
 | le  | ka          | \[zo'e\] | dunda  | le  | xirma | \[zo'e\] | \[kei\] |
 | the | property-of |          | giving | the | horse |          |         |
 
+:::
+
 into##### Example 11.32.
+
+:::jbomupli
 
 |     |             |      |               |     |       |     |                     |         |
 | --- | ----------- | ---- | ------------- | --- | ----- | --- | ------------------- | ------- |
 | le  | ka          | ce'u | dunda         | le  | xirma |     | \[zo'e\]            | \[kei\] |
 | the | property-of | (X   | is-a-giver-of | the | horse | to  | someone-unspecified | )       |
+
+:::
 
 the property of being a giver of the horse
 
@@ -431,10 +559,14 @@ which is the most natural interpretation of [Example 11.31](/chapter11/#example-
 
 ##### Example 11.33.
 
+:::jbomupli
+
 |     |             |                      |               |     |       |     |      |         |
 | --- | ----------- | -------------------- | ------------- | --- | ----- | --- | ---- | ------- |
 | le  | ka          | \[zo'e\]             | dunda         | le  | xirma |     | ce'u | \[kei\] |
 | the | property-of | (someone-unspecified | is-a-giver-of | the | horse | to  | X    | )       |
+
+:::
 
 the property of being one to whom the horse is given
 
@@ -458,10 +590,14 @@ Amount abstractions are far more limited than event or property abstractions. Th
 
 ##### Example 11.34.
 
+:::jbomupli
+
 |     |           |      |         |     |            |         |
 | --- | --------- | ---- | ------- | --- | ---------- | ------- |
 | le  | ni        | le   | pixra   | cu  | blanu      | \[kei\] |
 | the | amount-of | (the | picture |     | being-blue | )       |
+
+:::
 
 the amount of blueness in the picture
 
@@ -469,10 +605,14 @@ because “blueness” could be measured with a colorimeter or a similar device.
 
 ##### Example 11.35.
 
+:::jbomupli
+
 |     |           |             |        |     |                |         |
 | --- | --------- | ----------- | ------ | --- | -------------- | ------- |
 | le  | ni        | la          | djein. | cu  | mamta          | \[kei\] |
 | the | amount-of | (that-named | Jane   |     | being-a-mother | )       |
+
+:::
 
 the amount of Jane's mother-ness (?)
 | the amount of mother-ness in Jane (?) |
@@ -483,10 +623,14 @@ Semantically, a sumti with *le ni* is a number; however, it cannot be treated gr
 
 ##### Example 11.36.
 
+:::jbomupli
+
 |            |     |       |             |     |           |     |
 | ---------- | --- | ----- | ----------- | --- | --------- | --- |
 | li         | pa  | vu'u  | mo'e        | le  | ni        |     |
 | the-number | 1   | minus | the-operand | the | amount-of | (   |
+
+:::
 
 |     |         |     |            |         |
 | --- | ------- | --- | ---------- | ------- |
@@ -501,10 +645,14 @@ There are contexts where either property or amount abstractions make sense, and 
 
 ##### Example 11.37.
 
+:::jbomupli
+
 |     |         |     |        |        |             |      |         |         |
 | --- | ------- | --- | ------ | ------ | ----------- | ---- | ------- | ------- |
 | le  | pixra   | cu  | cenba  | le     | ka          | ce'u | blanu   | \[kei\] |
 | The | picture |     | varies | in-the | property-of | (X   | is blue | ).      |
+
+:::
 
 The picture varies in being blue.
 | The picture varies in blueness.   |
@@ -513,10 +661,14 @@ is not the same as
 
 ##### Example 11.38.
 
+:::jbomupli
+
 |     |         |     |        |        |           |      |         |         |
 | --- | ------- | --- | ------ | ------ | --------- | ---- | ------- | ------- |
 | le  | pixra   | cu  | cenba  | le     | ni        | ce'u | blanu   | \[kei\] |
 | The | picture |     | varies | in-the | amount-of | (X   | is blue | ).      |
+
+:::
 
 The picture varies in how blue it is.
 | The picture varies in blueness.       |
@@ -532,19 +684,27 @@ The “blueness of the picture” discussed in [Section 11.5](/chapter11/#115-am
 
 ##### Example 11.39.
 
+:::jbomupli
+
 |     |                |            |     |      |     |     |            |     |         |
 | --- | -------------- | ---------- | --- | ---- | --- | --- | ---------- | --- | ------- |
 | le  | jei            | li         | re  | su'i | re  | du  | li         | vo  | \[kei\] |
 | the | truth-value-of | the-number | 2   | +    | 2   | =   | the-number | 4   |         |
 
+:::
+
 the truth of 2 + 2 being 4
 
 is equivalent to “truth”, and##### Example 11.40.
+
+:::jbomupli
 
 |     |                |            |     |      |     |     |            |     |         |
 | --- | -------------- | ---------- | --- | ---- | --- | --- | ---------- | --- | ------- |
 | le  | jei            | li         | re  | su'i | re  | du  | li         | mu  | \[kei\] |
 | the | truth-value-of | the-number | 2   | +    | 2   | =   | the-number | 5   |         |
+
+:::
 
 the truth of 2 + 2 being 5
 
@@ -554,10 +714,14 @@ However, not everything in life (or even in Lojban) is simply true or false. The
 
 ##### Example 11.41.
 
+:::jbomupli
+
 |     |            |        |     |                 |            |         |
 | --- | ---------- | ------ | --- | --------------- | ---------- | ------- |
 | mi  | ba         | jdice  | le  | jei             | la         | djordj. |
 | I   | \[future\] | decide | the | (truth-value of | that-named | George  |
+
+:::
 
 |     |                |       |         |
 | --- | -------------- | ----- | ------- |
@@ -590,9 +754,13 @@ How's that in Lojban? Let us try:
 
 ##### Example 11.43.
 
+:::jbomupli
+
 |     |       |     |     |     |        |     |       |         |
 | --- | ----- | --- | --- | --- | ------ | --- | ----- | ------- |
 | mi  | djuno | le  | nu  | la  | frank. | cu  | bebna | \[kei\] |
+
+:::
 
 I know the event of Frank being a fool.
 
@@ -602,9 +770,13 @@ Try again:
 
 ##### Example 11.44.
 
+:::jbomupli
+
 |     |       |     |     |     |        |     |       |         |
 | --- | ----- | --- | --- | --- | ------ | --- | ----- | ------- |
 | mi  | djuno | le  | jei | la  | frank. | cu  | bebna | \[kei\] |
+
+:::
 
 I know the truth-value of Frank being a fool.
 
@@ -612,9 +784,13 @@ Closer. [Example 11.44](/chapter11/#example-1144 "Example 11.44.") says that I k
 
 ##### Example 11.45.
 
+:::jbomupli
+
 |     |       |     |      |     |        |     |       |         |
 | --- | ----- | --- | ---- | --- | ------ | --- | ----- | ------- |
 | mi  | djuno | le  | du'u | la  | frank. | cu  | bebna | \[kei\] |
+
+:::
 
 I know the predication that Frank is a fool.
 
@@ -622,9 +798,13 @@ Now we have it. Note that the implied assertion “Frank is a fool” is not a p
 
 ##### Example 11.46.
 
+:::jbomupli
+
 |     |       |     |      |     |        |     |       |         |
 | --- | ----- | --- | ---- | --- | ------ | --- | ----- | ------- |
 | mi  | kucli | le  | du'u | la  | frank. | cu  | bebna | \[kei\] |
+
+:::
 
 I am curious about whether Frank is a fool.
 
@@ -632,9 +812,13 @@ and here *[du'u](/glossary/#duu)* could probably be replaced by *[jei](/glossary
 
 ##### Example 11.47.
 
+:::jbomupli
+
 |     |       |     |     |     |        |     |       |         |
 | --- | ----- | --- | --- | --- | ------ | --- | ----- | ------- |
 | mi  | kucli | le  | jei | la  | frank. | cu  | bebna | \[kei\] |
+
+:::
 
 I am curious about how true it is that Frank is a fool.
 
@@ -643,10 +827,14 @@ As a matter of convenience rather than logical necessity, *[du'u](/glossary/#duu
 
 ##### Example 11.48.
 
+:::jbomupli
+
 |            |       |           |     |                           |
 | ---------- | ----- | --------- | --- | ------------------------- |
 | la         | djan. | cusku     | le  | se du'u                   |
 | That-named | John  | expresses | the | (sentence-expressing-that |
+
+:::
 
 |            |         |         |     |       |         |
 | ---------- | ------- | ------- | --- | ----- | ------- |
@@ -657,10 +845,14 @@ John says that George goes to the store.
 
 [Example 11.48](/chapter11/#example-1148 "Example 11.48.") differs from##### Example 11.49.
 
+:::jbomupli
+
 |            |      |            |        |
 | ---------- | ---- | ---------- | ------ |
 | la         | djan | cusku      | lu     |
 | That-named | John | expresses, | quote, |
+
+:::
 
 |            |         |       |        |        |          |
 | ---------- | ------- | ----- | ------ | ------ | -------- |
@@ -689,10 +881,14 @@ To express indirect questions in Lojban, we use a *le du'u* abstraction, but rat
 
 ##### Example 11.52.
 
+:::jbomupli
+
 |     |       |     |                |
 | --- | ----- | --- | -------------- |
 | mi  | djuno | le  | du'u           |
 | I   | know  | the | predication-of |
+
+:::
 
 |     |                       |          |          |     |        |
 | --- | --------------------- | -------- | -------- | --- | ------ |
@@ -703,10 +899,14 @@ In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to
 
 ##### Example 11.53.
 
+:::jbomupli
+
 |     |       |     |                          |
 | --- | ----- | --- | ------------------------ |
 | mi  | djuno | le  | du'u                     |
 | I   | know  | the | predication-of/fact-that |
+
+:::
 
 |            |       |                       |          |          |     |        |
 | ---------- | ----- | --------------------- | -------- | -------- | --- | ------ |
@@ -720,10 +920,14 @@ Using one of the indefinite pro-sumti such as *[ma](/glossary/#ma)*, *[zo'e](/gl
 
 Why does Lojban require the *[kau](/glossary/#kau)* marker, rather than using *[ma](/glossary/#ma)* as English and Chinese and many other languages do? Because *[ma](/glossary/#ma)* always signals a direct question, and so##### Example 11.54.
 
+:::jbomupli
+
 |     |       |     |                |                 |          |         |     |       |
 | --- | ----- | --- | -------------- | --------------- | -------- | ------- | --- | ----- |
 | mi  | djuno | le  | du'u           | ma              | pu       | klama   | le  | zarci |
 | I   | know  | the | predication-of | \[what sumti?\] | \[past\] | goes-to | the | store |
+
+:::
 
 means
 
@@ -735,10 +939,14 @@ It is actually not necessary to use *le du'u* and *[kau](/glossary/#kau)* at all
 
 ##### Example 11.56.
 
+:::jbomupli
+
 |     |       |       |     |          |       |     |     |        |
 | --- | ----- | ----- | --- | -------- | ----- | --- | --- | ------ |
 | mi  | djuno | fi    | le  | pu       | klama | be  | le  | zarci  |
 | I   | know  | about | the | \[past\] | goer  | to  | the | store. |
+
+:::
 
 I know something about the one who went to the store (namely, his identity).
 
@@ -746,10 +954,14 @@ because the x3 place of *[djuno](/glossary/#djuno)* is the subject of knowledge,
 
 ##### Example 11.57.
 
+:::jbomupli
+
 |     |            |         |     |                          |            |       |
 | --- | ---------- | ------- | --- | ------------------------ | ---------- | ----- |
 | mi  | ba         | zgana   | le  | du'u                     | la         | djan. |
 | I   | \[future\] | observe | the | predication-of/fact-that | that-named | John  |
+
+:::
 
 |                                  |            |         |     |       |     |       |
 | -------------------------------- | ---------- | ------- | --- | ----- | --- | ----- |
@@ -774,28 +986,40 @@ There are three more abstractors in Lojban, all of them little used so far. The 
 
 ##### Example 11.58.
 
+:::jbomupli
+
 |     |          |     |               |     |                |
 | --- | -------- | --- | ------------- | --- | -------------- |
 | mi  | morji    | le  | li'i          | mi  | verba          |
 | I   | remember | the | experience-of | (my | being-a-child) |
 
+:::
+
 The abstractor *[si'o](/glossary/#sio)* expresses a mental image, a concept, an idea:
 
 ##### Example 11.59.
+
+:::jbomupli
 
 |     |       |     |            |            |         |     |                 |
 | --- | ----- | --- | ---------- | ---------- | ------- | --- | --------------- |
 | mi  | nelci | le  | si'o       | la         | lojban. | cu  | mulno           |
 | I   | enjoy | the | concept-of | that-named | Lojban  |     | being-complete. |
 
+:::
+
 Finally, the abstractor *[su'u](/glossary/#suu)* is a vague abstractor, whose meaning must be grasped from context:
 
 ##### Example 11.60.
+
+:::jbomupli
 
 |                    |         |     |                    |     |       |       |     |         |
 | ------------------ | ------- | --- | ------------------ | --- | ----- | ----- | --- | ------- |
 | ko                 | zgana   | le  | su'u               | le  | ci    | smacu | cu  | bajra   |
 | you \[imperative\] | observe | the | abstract-nature-of | the | three | mice  |     | running |
+
+:::
 
 See how the three mice run!
 
@@ -815,28 +1039,40 @@ The x2 place of *[su'u](/glossary/#suu)* allows it to serve as a substitute for 
 
 ##### Example 11.61.
 
+:::jbomupli
+
 |     |          |     |       |
 | --- | -------- | --- | ----- |
 | le  | nu       | mi  | klama |
 | the | event-of | my  | going |
 
+:::
+
 can be paraphrased as
 
 ##### Example 11.62.
+
+:::jbomupli
 
 |     |                    |     |        |     |         |     |       |
 | --- | ------------------ | --- | ------ | --- | ------- | --- | ----- |
 | le  | su'u               | mi  | klama  | kei | be      | lo  | fasnu |
 | the | abstract-nature-of | (my | going) |     | of-type | an  | event |
 
+:::
+
 and there is a book whose title might be rendered in Lojban as:
 
 ##### Example 11.63.
+
+:::jbomupli
 
 |     |                    |             |          |
 | --- | ------------------ | ----------- | -------- |
 | le  | su'u               | la          | .iecuas. |
 | the | abstract-nature-of | (that-named | Jesus    |
+
+:::
 
 |                       |                    |     |
 | --------------------- | ------------------ | --- |
@@ -874,10 +1110,14 @@ I try to open the door.which in Lojban is:
 
 ##### Example 11.65.
 
+:::jbomupli
+
 |     |       |     |          |        |             |
 | --- | ----- | --- | -------- | ------ | ----------- |
 | mi  | troci | le  | nu       | \[mi\] | gasnu       |
 | I   | try   | the | event-of | (I     | am-agent-in |
+
+:::
 
 |     |          |      |       |     |                 |
 | --- | -------- | ---- | ----- | --- | --------------- |
@@ -892,10 +1132,14 @@ I try the door.where it is understood that what I try is actually not the door i
 
 ##### Example 11.67.
 
+:::jbomupli
+
 |     |       |                        |     |       |
 | --- | ----- | ---------------------- | --- | ----- |
 | mi  | troci | tu'a                   | le  | vorme |
 | I   | try   | some-action-to-do-with | the | door. |
+
+:::
 
 The term “sumti-raising”, as in the title of this section, signifies that a sumti which logically belongs within an abstraction (or even within an abstraction which is itself inside an intermediate abstraction) is “raised” to the main bridi level. This transformation from [Example 11.65](/chapter11/#example-1165 "Example 11.65.") to [Example 11.67](/chapter11/#example-1167 "Example 11.67.") loses information: nothing except convention tells us what the abstraction was.
 
@@ -903,37 +1147,53 @@ Using *[tu'a](/glossary/#tua)* is a kind of laziness: it makes speaking easier a
 
 ##### Example 11.68.
 
+:::jbomupli
+
 |                      |     |       |                |                |
 | -------------------- | --- | ----- | -------------- | -------------- |
 | tu'a                 | le  | vorme | lu'u           | ki'a           |
 | something-to-do-with | the | door  | \[terminator\] | \[confusion!\] |
 
+:::
+
 which indicates that *tu'a le vorme* cannot be understood. (The terminator for *[tu'a](/glossary/#tua)* is *[lu'u](/glossary/#luu)*, and is used in [Example 11.68](/chapter11/#example-1168 "Example 11.68.") to make clear just what is being questioned: the sumti-raising, rather than the word *[vorme](/glossary/#vorme)* as such.) An example of a confusing raised sumti might be:
 
 ##### Example 11.69.
+
+:::jbomupli
 
 |                      |            |       |     |                   |
 | -------------------- | ---------- | ----- | --- | ----------------- |
 | tu'a                 | la         | djan. | cu  | cafne             |
 | something-to-do-with | that-named | John  |     | frequently-occurs |
 
+:::
+
 This must mean that something which John does, or which happens to John, occurs frequently: but without more context there is no way to figure out what. Note that without the *[tu'a](/glossary/#tua)*, [Example 11.69](/chapter11/#example-1169 "Example 11.69.") would mean that John considered as an event frequently occurs – in other words, that John has some sort of on-and-off existence! Normally we do not think of people as events in English, but the x1 place of *[cafne](/glossary/#cafne)* is an event, and if something that does not seem to be an event is put there, the Lojbanic listener will attempt to construe it as one. (Of course, this analysis assumes that *djan.* is the name of a person, and not the name of some event.)Logically, a counterpart of some sort is needed to *[tu'a](/glossary/#tua)* which transposes an abstract sumti into a concrete one. This is achieved at the selbri level by the cmavo *[jai](/glossary/#jai)* (of selma'o JAI). This cmavo has more than one function, discussed in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#1022-conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI"); for the purposes of this chapter, it operates as a conversion of selbri, similarly to the cmavo of selma'o SE. This conversion changes
 
 ##### Example 11.70.
+
+:::jbomupli
 
 |                      |     |        |     |          |     |          |
 | -------------------- | --- | ------ | --- | -------- | --- | -------- |
 | tu'a                 | mi  | rinka  | le  | nu       | do  | morsi    |
 | something-to-do-with | me  | causes | the | event-of | you | are-dead |
 
+:::
+
 My action causes your death.
 
 into##### Example 11.71.
+
+:::jbomupli
 
 |     |                    |         |     |          |      |        |
 | --- | ------------------ | ------- | --- | -------- | ---- | ------ |
 | mi  | jai                | rinka   | le  | nu       | do   | morsi  |
 | I   | am-associated-with | causing | the | event-of | your | death. |
+
+:::
 
 I cause your death.
 
@@ -941,10 +1201,14 @@ In English, the subject of “cause” can either be the actual cause (an event)
 
 ##### Example 11.72.
 
+:::jbomupli
+
 |               |                 |         |     |     |          |      |       |     |
 | ------------- | --------------- | ------- | --- | --- | -------- | ---- | ----- | --- |
 | le            | jai             | rinka   | be  | le  | nu       | do   | morsi |     |
 | that-which-is | associated-with | causing | (   | the | event-of | your | death | )   |
+
+:::
 
 the one who caused your death
 
@@ -954,10 +1218,14 @@ The weakness of *[jai](/glossary/#jai)* used in descriptions in this way is that
 
 ##### Example 11.73.
 
+:::jbomupli
+
 |               |          |         |     |     |          |      |       |     |
 | ------------- | -------- | ------- | --- | --- | -------- | ---- | ----- | --- |
 | le            | jai gau  | rinka   | be  | le  | nu       | do   | morsi |     |
 | that-which-is | agent-in | causing | (   | the | event-of | your | death | )   |
+
+:::
 
 ## 11.9. Event-type abstractors and event contour tenses
 
@@ -987,10 +1255,14 @@ An abstractor may be replaced by two or more abstractors joined by logical or no
 
 ##### Example 11.74.
 
+:::jbomupli
+
 |     |            |            |        |         |     |         |
 | --- | ---------- | ---------- | ------ | ------- | --- | ------- |
 | le  | ka         | la         | frank. | ciska   | cu  | xlali   |
 | The | quality-of | that-named | Frank  | writing |     | is-bad, |
+
+:::
 
 |      |     |             |            |        |         |     |         |
 | ---- | --- | ----------- | ---------- | ------ | ------- | --- | ------- |
@@ -999,9 +1271,13 @@ An abstractor may be replaced by two or more abstractors joined by logical or no
 
 ##### Example 11.75.
 
+:::jbomupli
+
 |     |     |     |     |     |        |       |     |       |
 | --- | --- | --- | --- | --- | ------ | ----- | --- | ----- |
 | le  | ka  | je  | ni  | la  | frank. | ciska | cu  | xlali |
+
+:::
 
 The quality and quantity of Frank's writing is bad.
 

@@ -31,10 +31,14 @@ The most usual way of constructing a bridi from a selbri such as *[klama](/gloss
 
 ##### Example 9.1.
 
+:::jbomupli
+
 |     |     |       |               |        |                 |            |
 | --- | --- | ----- | ------------- | ------ | --------------- | ---------- |
 | mi  | cu  | klama | la            | bastn. | la              | .atlantas. |
 | I   |     | go    | to-that-named | Boston | from-that-named | Atlanta    |
+
+:::
 
 |         |       |           |       |
 | ------- | ----- | --------- | ----- |
@@ -57,10 +61,14 @@ This ordering, with the x1 place before the selbri and all other places in natur
 
 ##### Example 9.2.
 
+:::jbomupli
+
 |     |               |        |                 |            |
 | --- | ------------- | ------ | --------------- | ---------- |
 | mi  | la            | bastn. | la              | .atlantas. |
 | I,  | to-that-named | Boston | from-that-named | Atlanta    |
+
+:::
 
 |         |       |           |       |     |       |
 | ------- | ----- | --------- | ----- | --- | ----- |
@@ -73,10 +81,14 @@ Similarly, we may split up the sumti, putting some before the selbri and others 
 
 ##### Example 9.3.
 
+:::jbomupli
+
 |     |               |        |     |       |                 |            |
 | --- | ------------- | ------ | --- | ----- | --------------- | ---------- |
 | mi  | la            | bastn. | cu  | klama | la              | .atlantas. |
 | I   | to-that-named | Boston |     | go    | from-that-named | Atlanta    |
+
+:::
 
 |         |       |           |       |
 | ------- | ----- | --------- | ----- |
@@ -91,11 +103,15 @@ The general rule, then, is that the selbri may occur anywhere in the bridi as lo
 
 ##### Example 9.4.
 
+:::jbomupli
+
 |        |               |           |
 | ------ | ------------- | --------- |
 | klama  | la            | bastn.    |
 | A-goer | to-that-named | Boston    |
 | Goes   |               | to-Boston |
+
+:::
 
 |                 |              |
 | --------------- | ------------ |
@@ -125,9 +141,13 @@ Suppose the speaker desires to omit a place other than the x1 place? (Presumably
 
 ##### Example 9.5.
 
+:::jbomupli
+
 |     |       |     |        |     |            |
 | --- | ----- | --- | ------ | --- | ---------- |
 | mi  | klama | la  | bastn. | la  | .atlantas. |
+
+:::
 
 I go to-Boston from-Atlanta (via an unspecified route, using an unspecified means).
 
@@ -135,10 +155,14 @@ I go to-Boston from-Atlanta (via an unspecified route, using an unspecified mean
 
 ##### Example 9.6.
 
+:::jbomupli
+
 |     |       |               |        |                 |            |         |       |
 | --- | ----- | ------------- | ------ | --------------- | ---------- | ------- | ----- |
 | mi  | klama | la            | bastn. | la              | .atlantas. | le      | karce |
 | I   | go    | to-that-named | Boston | from-that-named | Atlanta    | via-the | car.  |
+
+:::
 
 *le karce* occupies the x4 place, and therefore [Example 9.6](/chapter09/#example-96 "Example 9.6.") means:
 
@@ -148,10 +172,14 @@ This is nonsense, since a car cannot be a route. What the speaker presumably mea
 
 ##### Example 9.7.
 
+:::jbomupli
+
 |     |       |               |        |                 |            |
 | --- | ----- | ------------- | ------ | --------------- | ---------- |
 | mi  | klama | la            | bastn. | la              | .atlantas. |
 | I   | go    | to-that-named | Boston | from-that-named | Atlanta    |
+
+:::
 
 |                           |           |       |
 | ------------------------- | --------- | ----- |
@@ -177,10 +205,14 @@ In sentences like [Example 9.1](/chapter09/#example-91 "Example 9.1."), it is ea
 
 ##### Example 9.8.
 
+:::jbomupli
+
 |     |     |     |       |     |            |        |     |            |            |
 | --- | --- | --- | ----- | --- | ---------- | ------ | --- | ---------- | ---------- |
 | fa  | mi  | cu  | klama | fe  | la         | bastn. | fi  | la         | .atlantas. |
 | x1= | I   |     | go    | x2= | that-named | Boston | x3= | that-named | Atlanta    |
+
+:::
 
 |     |     |       |     |     |       |
 | --- | --- | ----- | --- | --- | ----- |
@@ -195,10 +227,14 @@ In [Example 9.8](/chapter09/#example-98 "Example 9.8."), the tags are overkill; 
 
 ##### Example 9.9.
 
+:::jbomupli
+
 |     |     |       |     |      |       |     |     |      |       |
 | --- | --- | ----- | --- | ---- | ----- | --- | --- | ---- | ----- |
 | fa  | mi  | klama | fe  | le   | zdani | be  | mi  | be'o | poi   |
 | x1= | I   | go    | x2= | (the | house | of  | me) |      | which |
+
+:::
 
 |          |     |     |            |           |
 | -------- | --- | --- | ---------- | --------- |
@@ -221,10 +257,14 @@ Of course, once the sumti have been tagged, the order in which they are specifie
 
 ##### Example 9.10.
 
+:::jbomupli
+
 |       |     |     |     |            |            |     |     |       |
 | ----- | --- | --- | --- | ---------- | ---------- | --- | --- | ----- |
 | klama | fa  | mi  | fi  | la         | .atlantas. | fu  | le  | karce |
 | go    | x1= | I   | x3= | that-named | Atlanta    | x5= | the | car   |
+
+:::
 
 |     |            |        |     |     |       |
 | --- | ---------- | ------ | --- | --- | ----- |
@@ -237,10 +277,14 @@ Note that no *[cu](/glossary/#cu)* is permitted before the selbri in [Example 9.
 
 ##### Example 9.11.
 
+:::jbomupli
+
 |     |     |       |     |     |       |     |            |            |
 | --- | --- | ----- | --- | --- | ----- | --- | ---------- | ---------- |
 | fu  | le  | karce | fo  | le  | dargu | fi  | la         | .atlantas. |
 | x5= | the | car   | x4= | the | road  | x3= | that-named | Atlanta    |
+
+:::
 
 |     |            |        |     |       |     |     |
 | --- | ---------- | ------ | --- | ----- | --- | --- |
@@ -253,10 +297,14 @@ Using the car, via the road, from Atlanta to Boston go I.
 
 ##### Example 9.12.
 
+:::jbomupli
+
 |     |       |        |       |                 |            |
 | --- | ----- | ------ | ----- | --------------- | ---------- |
 | le  | karce | le     | dargu | la              | .atlantas. |
 | The | car   | to-the | road  | from-that-named | Atlanta    |
+
+:::
 
 |                |        |     |       |           |
 | -------------- | ------ | --- | ----- | --------- |
@@ -271,10 +319,14 @@ Tagging places with FA cmavo makes it easy not only to reorder the places but al
 
 ##### Example 9.13.
 
+:::jbomupli
+
 |        |     |            |            |     |            |        |
 | ------ | --- | ---------- | ---------- | --- | ---------- | ------ |
 | klama  | fi  | la         | .atlantas. | fe  | la         | bastn. |
 | A-goer | x3= | that-named | Atlanta    | x2= | that-named | Boston |
+
+:::
 
 |     |     |       |
 | --- | --- | ----- |
@@ -289,10 +341,14 @@ What if some sumti have FA tags and others do not? The rule is that after a FA-t
 
 ##### Example 9.14.
 
+:::jbomupli
+
 |       |     |     |               |        |               |            |
 | ----- | --- | --- | ------------- | ------ | ------------- | ---------- |
 | klama | fa  | mi  | la            | bastn. | la            | .atlantas. |
 | Go    | x1= | I   | x2=that-named | Boston | x3=that-named | Atlanta    |
+
+:::
 
 |        |       |        |       |
 | ------ | ----- | ------ | ----- |
@@ -307,10 +363,14 @@ Here is a more complex (and more confusing) example:
 
 ##### Example 9.15.
 
+:::jbomupli
+
 |     |       |     |            |            |     |       |
 | --- | ----- | --- | ---------- | ---------- | --- | ----- |
 | mi  | klama | fi  | la         | .atlantas. | le  | dargu |
 | I   | go    | x3= | that-named | Atlanta,   | the | road  |
+
+:::
 
 |     |            |         |     |       |
 | --- | ---------- | ------- | --- | ----- |
@@ -327,10 +387,14 @@ It is grammatically permitted to tag more than one sumti with the same FA cmavo.
 
 ##### Example 9.16.
 
+:::jbomupli
+
 |        |            |      |     |            |        |         |
 | ------ | ---------- | ---- | --- | ---------- | ------ | ------- |
 | \[f\]  | la         | rik. | fa  | la         | djein. | klama   |
 | \[x1\] | that-named | Rick | x1= | that-named | Jane   | goes-to |
+
+:::
 
 |        |     |       |     |     |       |     |     |        |
 | ------ | --- | ----- | --- | --- | ----- | --- | --- | ------ |
@@ -343,10 +407,14 @@ The cmavo *[fi'a](/glossary/#fia)* also belongs to selma'o FA, and allows Lojban
 
 ##### Example 9.17.
 
+:::jbomupli
+
 |                |     |       |       |     |        |       |
 | -------------- | --- | ----- | ----- | --- | ------ | ----- |
 | fi'a           | do  | dunda | \[f\] | le  | vi     | rozgu |
 | \[what-plac\]? | you | give  | x2=   | the | nearby | rose  |
+
+:::
 
 In what way are you involved in the giving of this rose?
 | Are you the giver or the receiver of this rose?          |
@@ -398,20 +466,28 @@ Consider the following pair of examples:
 
 ##### Example 9.18.
 
+:::jbomupli
+
 |            |        |     |                    |        |
 | ---------- | ------ | --- | ------------------ | ------ |
 | la         | bastn. | cu  | se klama           | mi     |
 | That-named | Boston |     | is-the-destination | of-me. |
+
+:::
 
 Boston is my destination.
 | Boston is gone to by me.  |
 
 ##### Example 9.19.
 
+:::jbomupli
+
 |     |            |        |     |       |     |     |
 | --- | ---------- | ------ | --- | ----- | --- | --- |
 | fe  | la         | bastn. | cu  | klama | fa  | mi  |
 | x2= | that-named | Boston |     | go    | x1= | I.  |
+
+:::
 
 To Boston go I.
 
@@ -421,9 +497,13 @@ The most important use of conversion is in the construction of descriptions. A d
 
 ##### Example 9.20.
 
+:::jbomupli
+
 |     |       |
 | --- | ----- |
 | le  | klama |
+
+:::
 
 the go-er, the one who goes
 
@@ -431,9 +511,13 @@ In every case, the description is about something which fits into the x1 place o
 
 ##### Example 9.21.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | se  | klama |
+
+:::
 
 the destination gone to by someone
 
@@ -441,25 +525,37 @@ Likewise, we can create three more converted descriptions:
 
 ##### Example 9.22.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | te  | klama |
+
+:::
 
 the origin of someone's going
 
 ##### Example 9.23.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | ve  | klama |
+
+:::
 
 the route of someone's going
 
 ##### Example 9.24.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | le  | xe  | klama |
+
+:::
 
 the means by which someone goes
 
@@ -469,10 +565,14 @@ When converting selbri that are more complex than a single brivla, it is importa
 
 ##### Example 9.25.
 
+:::jbomupli
+
 |     |                   |     |       |       |         |            |
 | --- | ----------------- | --- | ----- | ----- | ------- | ---------- |
 | mi  | se                | ke  | blanu | zdani | \[ke'\] | ti         |
 | I   | \[2nd-conversio\] | (   | blue  | house | )       | this-thing |
+
+:::
 
 The place structure of *blanu zdani* (blue house) is the same as that of *[zdani](/glossary/#zdani)* , by the rule given in [Section 9.1](/chapter09/#91-introductory "9.1. Introductory"). The place structure of *[zdani](/glossary/#zdani)* is:
 
@@ -519,10 +619,14 @@ Suppose, however, that you are blind in one eye and are talking to someone who d
 
 ##### Example 9.26.
 
+:::jbomupli
+
 |     |       |     |          |       |         |     |            |
 | --- | ----- | --- | -------- | ----- | ------- | --- | ---------- |
 | mi  | viska | do  | fi'o     | kanla | \[fe'\] | le  | zunle      |
 | I   | see   | you | \[moda\] | eye:  |         | the | left-thing |
+
+:::
 
 I see you with the left eye.
 
@@ -542,10 +646,14 @@ and we can rewrite [Example 9.26](/chapter09/#example-926 "Example 9.26.") as
 
 ##### Example 9.27.
 
+:::jbomupli
+
 |     |       |     |          |               |       |     |       |       |
 | --- | ----- | --- | -------- | ------------- | ----- | --- | ----- | ----- |
 | mi  | viska | do  | fi'o     | se            | pilno | le  | zunle | kanla |
 | I   | see   | you | \[moda\] | \[conversio\] | use:  | the | left  | eye.  |
+
+:::
 
 I see you using my left eye.
 
@@ -563,10 +671,14 @@ Here *[se](/glossary/#se)* is used before a cmavo, namely *[pi'o](/glossary/#pio
 
 ##### Example 9.28.
 
+:::jbomupli
+
 |     |       |     |            |     |       |       |
 | --- | ----- | --- | ---------- | --- | ----- | ----- |
 | mi  | viska | do  | sepi'o     | le  | zunle | kanla |
 | I   | see   | you | with-tool: | the | left  | eye   |
+
+:::
 
 I see you using my left eye.
 
@@ -586,10 +698,14 @@ Any of these tags may be used to provide modal places for bridi, as in the follo
 
 ##### Example 9.29.
 
+:::jbomupli
+
 |            |        |     |       |           |       |       |           |     |
 | ---------- | ------ | --- | ----- | --------- | ----- | ----- | --------- | --- |
 | la         | .eivn. | cu  | vecnu | loi       | flira | cinta | ka'a      | mi  |
 | That-named | Avon   |     | sells | a-mass-of | face  | paint | with-goer | me. |
+
+:::
 
 I am a traveling cosmetics salesperson for Avon.
 
@@ -597,37 +713,53 @@ I am a traveling cosmetics salesperson for Avon.
 
 ##### Example 9.30.
 
+:::jbomupli
+
 |     |       |                  |            |           |
 | --- | ----- | ---------------- | ---------- | --------- |
 | mi  | cadzu | seka'a           | la         | bratfyd.  |
 | I   | walk  | with-destination | that-named | Bradford. |
 
+:::
+
 I am walking to Bradford.
 
 ##### Example 9.31.
+
+:::jbomupli
 
 |                           |             |            |          |
 | ------------------------- | ----------- | ---------- | -------- |
 | bloti                     | teka'a      | la         | nu,IORK. |
 | \[Observative\]-is-a-boat | with-origin | that-named | New-York |
 
+:::
+
 A boat from New York!
 
 ##### Example 9.32.
+
+:::jbomupli
 
 |     |       |            |     |         |
 | --- | ----- | ---------- | --- | ------- |
 | do  | bajra | veka'a     | lo  | djine   |
 | You | run   | with-route | a   | circle. |
 
+:::
+
 You are running in circles.
 
 ##### Example 9.33.
+
+:::jbomupli
 
 |     |       |                         |     |           |
 | --- | ----- | ----------------------- | --- | --------- |
 | mi  | citka | xeka'a                  | le  | vinji     |
 | I   | eat   | with-means-of-transport | the | airplane. |
+
+:::
 
 I eat in the airplane.
 
@@ -639,10 +771,14 @@ There is one additional BAI cmavo that is not derived from a gismu: *[do'e](/glo
 
 ##### Example 9.34.
 
+:::jbomupli
+
 |      |       |               |     |       |     |       |        |       |
 | ---- | ----- | ------------- | --- | ----- | --- | ----- | ------ | ----- |
 | lo   | nanmu | be do'e       | le  | berti | cu  | klama | le     | tcadu |
 | Some | man   | \[related-t\] | the | north |     | came  | to-the | city. |
+
+:::
 
 A man of the north came to the city.
 
@@ -674,10 +810,14 @@ Each of these gismu has a related modal: *[ri'a](/glossary/#ria)* , *[ki'u](/glo
 
 ##### Example 9.35.
 
+:::jbomupli
+
 |     |       |     |       |                     |     |          |
 | --- | ----- | --- | ----- | ------------------- | --- | -------- |
 | le  | spati | cu  | banro | ri'a                | le  | nu       |
 | The | plant |     | grows | with-physical-cause | the | event-of |
+
+:::
 
 |     |       |       |     |     |        |
 | --- | ----- | ----- | --- | --- | ------ |
@@ -688,10 +828,14 @@ The plant grows because you water it.
 
 ##### Example 9.36.
 
+:::jbomupli
+
 |     |       |       |     |       |          |
 | --- | ----- | ----- | --- | ----- | -------- |
 | la  | djan. | cpacu | le  | pamoi | se jinga |
 |     | John  | gets  | the | first | prize    |
+
+:::
 
 |                    |     |          |            |       |       |
 | ------------------ | --- | -------- | ---------- | ----- | ----- |
@@ -702,10 +846,14 @@ John got the first prize because he won.
 
 ##### Example 9.37.
 
+:::jbomupli
+
 |     |       |     |       |                 |
 | --- | ----- | --- | ----- | --------------- |
 | mi  | lebna | le  | cukta | mu'i            |
 | I   | took  | the | book  | with-motivation |
+
+:::
 
 |     |          |     |       |     |       |
 | --- | -------- | --- | ----- | --- | ----- |
@@ -716,10 +864,14 @@ I took the book because I saw it.
 
 ##### Example 9.38.
 
+:::jbomupli
+
 |     |           |       |        |                            |
 | --- | --------- | ----- | ------ | -------------------------- |
 | la  | sokrates. | morsi | binxo  | ni'i                       |
 |     | Socrates  | dead  | became | with-logical-justification |
+
+:::
 
 |     |          |            |           |           |
 | --- | -------- | ---------- | --------- | --------- |
@@ -734,10 +886,14 @@ As written, [Example 9.35](/chapter09/#example-935 "Example 9.35.") claims that 
 
 ##### Example 9.39.
 
+:::jbomupli
+
 |     |       |       |     |     |       |
 | --- | ----- | ----- | --- | --- | ----- |
 | do  | djacu | dunda | fi  | le  | spati |
 | You | water | give  | to  | the | plant |
+
+:::
 
 |                      |     |          |     |        |
 | -------------------- | --- | -------- | --- | ------ |
@@ -750,10 +906,14 @@ with the *[ri'a](/glossary/#ria)* changed to *[seri'a](/glossary/#seria)* . In a
 
 ##### Example 9.40.
 
+:::jbomupli
+
 |     |          |      |       |       |     |     |        |     |
 | --- | -------- | ---- | ----- | ----- | --- | --- | ------ | --- |
 | le  | nu       | do   | djacu | dunda | fi  | le  | spati  | cu  |
 | The | event-of | (you | water | give  | to  | the | plant) |     |
+
+:::
 
 |        |     |          |      |       |     |         |
 | ------ | --- | -------- | ---- | ----- | --- | ------- |
@@ -769,10 +929,14 @@ Suppose we wish to claim both events as well as their causal relationship? We ca
 
 ##### Example 9.41.
 
+:::jbomupli
+
 |     |       |     |        |          |     |
 | --- | ----- | --- | ------ | -------- | --- |
 | le  | spati | cu  | banro  | .iri'abo | do  |
 | The | plant |     | grows. | Because  | you |
+
+:::
 
 |       |       |     |     |        |
 | ----- | ----- | --- | --- | ------ |
@@ -783,10 +947,14 @@ The plant grows because you water it.
 
 ##### Example 9.42.
 
+:::jbomupli
+
 |     |       |       |     |     |        |
 | --- | ----- | ----- | --- | --- | ------ |
 | do  | djacu | dunda | fi  | le  | spati  |
 | You | water | give  | to  | the | plant. |
+
+:::
 
 |            |     |       |     |        |
 | ---------- | --- | ----- | --- | ------ |
@@ -799,10 +967,14 @@ The compound cmavo *.iri'abo* and *.iseri'abo* serve to connect two bridi, as th
 
 ##### Example 9.43.
 
+:::jbomupli
+
 |     |       |     |        |     |            |      |
 | --- | ----- | --- | ------ | --- | ---------- | ---- |
 | le  | spati | cu  | banro  | .i  | ri'a       | do   |
 | The | plant |     | grows. |     | Because-of | you, |
+
+:::
 
 |              |       |       |     |     |        |
 | ------------ | ----- | ----- | --- | --- | ------ |
@@ -823,10 +995,14 @@ Like many Lojban grammatical constructions, sentence modal connection has both f
 
 ##### Example 9.44.
 
+:::jbomupli
+
 |     |       |             |       |
 | --- | ----- | ----------- | ----- |
 | mi  | jgari | lei         | djacu |
 | I   | grasp | the-mass-of | water |
+
+:::
 
 |                     |     |       |     |       |
 | ------------------- | --- | ----- | --- | ----- |
@@ -842,10 +1018,14 @@ To make forethought modal sentence connections in Lojban, place the modal plus *
 
 ##### Example 9.45.
 
+:::jbomupli
+
 |                     |     |       |     |       |     |
 | ------------------- | --- | ----- | --- | ----- | --- |
 | ri'agi              | mi  | jgari | le  | kabri | gi  |
 | With-physical-cause | I   | grasp | the | cup   | ,   |
+
+:::
 
 |     |       |             |        |
 | --- | ----- | ----------- | ------ |
@@ -858,10 +1038,14 @@ Note that the cause, the x1 of *[rinka](/glossary/#rinka)* is now placed first. 
 
 ##### Example 9.46.
 
+:::jbomupli
+
 |                      |     |       |             |       |     |
 | -------------------- | --- | ----- | ----------- | ----- | --- |
 | seri'agi             | mi  | jgari | lei         | djacu | gi  |
 | With-physical-effect | I   | grasp | the-mass-of | water | ,   |
+
+:::
 
 |     |       |     |       |
 | --- | ----- | --- | ----- |
@@ -876,10 +1060,14 @@ When the bridi are the same except for a single sumti, as in [Example 9.44](/cha
 
 ##### Example 9.47.
 
+:::jbomupli
+
 |     |       |         |     |       |     |             |        |
 | --- | ----- | ------- | --- | ----- | --- | ----------- | ------ |
 | mi  | jgari | ri'agi  | le  | kabri | gi  | lei         | djacu  |
 | I   | grasp | because | the | cup   | ,   | the-mass-of | water. |
+
+:::
 
 [Example 9.47](/chapter09/#example-947 "Example 9.47.") means exactly the same as [Example 9.44](/chapter09/#example-944 "Example 9.44.") through [Example 9.46](/chapter09/#example-946 "Example 9.46."), but there is no idiomatic English translation that will distinguish it from them.
 
@@ -887,10 +1075,14 @@ If the two connected bridi are different in more than one sumti, then a termset 
 
 ##### Example 9.48.
 
+:::jbomupli
+
 |     |       |     |       |               |       |
 | --- | ----- | --- | ----- | ------------- | ----- |
 | mi  | dunda | le  | cukta | la            | djan. |
 | I   | gave  | the | book  | to-that-named | John. |
+
+:::
 
 |              |            |       |       |             |       |        |
 | ------------ | ---------- | ----- | ----- | ----------- | ----- | ------ |
@@ -903,10 +1095,14 @@ means the same as:
 
 ##### Example 9.49.
 
+:::jbomupli
+
 |          |         |            |       |             |        |     |     |
 | -------- | ------- | ---------- | ----- | ----------- | ------ | --- | --- |
 | nu'i     | mu'igi  | la         | djan. | lei         | jdini  | mi  | gi  |
 | \[star\] | because | that-named | John, | the-mass-of | money, | me  | ;   |
+
+:::
 
 |     |     |       |            |       |        |        |
 | --- | --- | ----- | ---------- | ----- | ------ | ------ |
@@ -919,19 +1115,27 @@ There is no modal connection between selbri as such: bridi which differ only in 
 
 ##### Example 9.50.
 
+:::jbomupli
+
 |     |         |       |     |       |     |       |     |       |
 | --- | ------- | ----- | --- | ----- | --- | ----- | --- | ----- |
 | mi  | mu'igi  | viska | le  | cukta | gi  | lebna | le  | cukta |
 | I,  | because | saw   | the | book, |     | took  | the | book. |
 
+:::
+
 Again, no straightforward English translation exists. It is even possible to shorten [Example 9.50](/chapter09/#example-950 "Example 9.50.") further to:
 
 ##### Example 9.51.
+
+:::jbomupli
 
 |     |         |       |           |       |     |     |       |
 | --- | ------- | ----- | --------- | ----- | --- | --- | ----- |
 | mi  | mu'igi  | viska | gi        | lebna | vau | le  | cukta |
 | I   | because | saw,  | therefore | took, |     | the | book. |
+
+:::
 
 where *le cukta* is set off by the non-elidable *[vau](/glossary/#vau)* and is made to belong to both bridi-tails – see [Section 14.9](/chapter14/#149-compound-bridi "14.9. Compound bridi") for more explanations.
 
@@ -939,10 +1143,14 @@ Since this is a chapter on rearranging sumti, it is worth pointing out that [Exa
 
 ##### Example 9.52.
 
+:::jbomupli
+
 |     |     |       |         |       |           |       |
 | --- | --- | ----- | ------- | ----- | --------- | ----- |
 | mi  | le  | cukta | mu'igi  | viska | gi        | lebna |
 | I,  | the | book, | because | saw,  | therefore | took. |
+
+:::
 
 which doesn't require the extra *[vau](/glossary/#vau)* ; all sumti before a conjunction of bridi-tails are shared.
 
@@ -950,10 +1158,14 @@ Finally, mathematical operands can be modally connected.
 
 ##### Example 9.53.
 
+:::jbomupli
+
 |            |     |     |            |     |
 | ---------- | --- | --- | ---------- | --- |
 | li         | ny. | du  | li         | vo  |
 | the-number | n   | =   | the-number | 4.  |
+
+:::
 
 |             |            |     |     |            |     |      |     |
 | ----------- | ---------- | --- | --- | ---------- | --- | ---- | --- |
@@ -966,10 +1178,14 @@ can be reduced to:
 
 ##### Example 9.54.
 
+:::jbomupli
+
 |            |     |     |            |
 | ---------- | --- | --- | ---------- |
 | li         | ny. | du  | li         |
 | the-number | n   | =   | the-number |
+
+:::
 
 |         |     |     |      |     |         |           |     |
 | ------- | --- | --- | ---- | --- | ------- | --------- | --- |
@@ -988,10 +1204,14 @@ Consider the example:
 
 ##### Example 9.55.
 
+:::jbomupli
+
 |     |       |             |            |         |
 | --- | ----- | ----------- | ---------- | ------- |
 | mi  | tavla | bau         | la         | lojban. |
 | I   | speak | in-language | that-named | Lojban  |
+
+:::
 
 |                |             |            |        |
 | -------------- | ----------- | ---------- | ------ |
@@ -1004,19 +1224,27 @@ I speak in Lojban, under compulsion by Frank.
 
 ##### Example 9.56.
 
+:::jbomupli
+
 |     |       |             |            |         |                  |        |
 | --- | ----- | ----------- | ---------- | ------- | ---------------- | ------ |
 | mi  | tavla | bau         | la         | lojban. | bai              | \[k\]. |
 | I   | speak | in-language | that-named | Lojban  | under-compulsion |        |
 
+:::
+
 In [Example 9.56](/chapter09/#example-956 "Example 9.56."), the elidable terminator *[ku](/glossary/#ku)* has taken the place of the sumti which would normally follow *[bai](/glossary/#bai)* . Alternatively, we could specify the one who compels but keep the language vague:
 
 ##### Example 9.57.
+
+:::jbomupli
 
 |     |       |                  |       |
 | --- | ----- | ---------------- | ----- |
 | mi  | tavla | bau              | \[k\] |
 | I   | speak | in-some-language |       |
+
+:::
 
 |                     |             |            |        |
 | ------------------- | ----------- | ---------- | ------ |
@@ -1027,28 +1255,40 @@ We are also free to move the modal-plus- *[ku](/glossary/#ku)* around the bridi:
 
 ##### Example 9.58.
 
+:::jbomupli
+
 |                  |       |                  |     |     |        |
 | ---------------- | ----- | ---------------- | --- | --- | ------ |
 | bau              | \[k\] | bai              | ku  | mi  | tavla  |
 | In-some-language |       | under-compulsion |     | I   | speak. |
 
+:::
+
 An alternative to using *[ku](/glossary/#ku)* is to place the modal cmavo right before the selbri, following the *[cu](/glossary/#cu)* which often appears there. When a modal is present, the *[cu](/glossary/#cu)* is almost never necessary.
 
 ##### Example 9.59.
+
+:::jbomupli
 
 |     |             |       |             |            |         |
 | --- | ----------- | ----- | ----------- | ---------- | ------- |
 | mi  | bai         | tavla | bau         | la         | lojban. |
 | I   | compelledly | speak | in-language | that-named | Lojban. |
 
+:::
+
 In this use, the modal is like a tanru modifier semantically, although grammatically it is quite distinct. [Example 9.59](/chapter09/#example-959 "Example 9.59.") is very similar in meaning to:
 
 ##### Example 9.60.
+
+:::jbomupli
 
 |     |             |       |             |            |         |
 | --- | ----------- | ----- | ----------- | ---------- | ------- |
 | mi  | se bapli    | tavla | bau         | la         | lojban. |
 | I   | compelledly | speak | in-language | that-named | Lojban. |
+
+:::
 
 The *[se](/glossary/#se)* conversion is needed because *bapli tavla* would be a “compeller type of speaker” rather than a “compelled (by someone) type of speaker”, which is what a *bai tavla* is.
 
@@ -1056,10 +1296,14 @@ If the modal preceding a selbri is constructed using *[fi'o](/glossary/#fio)* , 
 
 ##### Example 9.61.
 
+:::jbomupli
+
 |     |      |       |      |       |      |
 | --- | ---- | ----- | ---- | ----- | ---- |
 | mi  | fi'o | kanla | fe'u | viska | do   |
 | I   | with | eye   |      | see   | you. |
+
+:::
 
 I see you with my eye(s).
 
@@ -1067,10 +1311,14 @@ There are two other uses of modals. A modal can be attached to a pair of bridi-t
 
 ##### Example 9.62.
 
+:::jbomupli
+
 |     |                  |     |      |       |        |        |
 | --- | ---------------- | --- | ---- | ----- | ------ | ------ |
 | mi  | bai              | ke  | ge   | klama | le     | zarci  |
 | I   | under-compulsion | (   | both | go    | to-the | market |
+
+:::
 
 |     |       |        |       |         |
 | --- | ----- | ------ | ----- | ------- |
@@ -1085,10 +1333,14 @@ Similarly, a modal can be attached to multiple sentences that have been combined
 
 ##### Example 9.63.
 
+:::jbomupli
+
 |                  |          |     |       |        |         |
 | ---------------- | -------- | --- | ----- | ------ | ------- |
 | bai              | tu'e     | mi  | klama | le     | zarci   |
 | Under-compulsion | \[star\] | I   | go    | to-the | market. |
+
+:::
 
 |     |     |       |        |       |         |
 | --- | --- | ----- | ------ | ----- | ------- |
@@ -1114,10 +1366,14 @@ Relative phrases and clauses are explained in much more detail in [Chapter 8](/c
 
 ##### Example 9.64.
 
+:::jbomupli
+
 |     |               |       |                 |
 | --- | ------------- | ----- | --------------- |
 | la  | .apasionatas. | poi   | se cusku        |
 | The | Appassionata  | which | is-expressed-by |
+
+:::
 
 |            |        |            |     |             |     |
 | ---------- | ------ | ---------- | --- | ----------- | --- |
@@ -1126,10 +1382,14 @@ Relative phrases and clauses are explained in much more detail in [Chapter 8](/c
 
 ##### Example 9.65.
 
+:::jbomupli
+
 |     |               |       |               |
 | --- | ------------- | ----- | ------------- |
 | la  | .apasionatas. | noi   | se finti      |
 | The | Appassionata, | which | is-created-by |
+
+:::
 
 |            |            |     |             |     |
 | ---------- | ---------- | --- | ----------- | --- |
@@ -1144,17 +1404,25 @@ The cmavo *[pe](/glossary/#pe)* and *[ne](/glossary/#ne)* (of selma'o GOI) are r
 
 ##### Example 9.66.
 
+:::jbomupli
+
 |     |               |     |            |        |            |             |     |
 | --- | ------------- | --- | ---------- | ------ | ---------- | ----------- | --- |
 | la  | .apasionatas. | pe  | la         | .artr. | rubnstain. | se nelci    | mi  |
 | The | Appassionata  | of  | that-named | Arthur | Rubinstein | is-liked-by | me. |
 
+:::
+
 ##### Example 9.67.
+
+:::jbomupli
 
 |     |               |             |            |            |             |     |
 | --- | ------------- | ----------- | ---------- | ---------- | ----------- | --- |
 | la  | .apasionatas. | ne          | la         | betovn.    | se nelci    | mi  |
 | The | Appassionata, | which-is-of | that-named | Beethoven, | is-liked-by | me. |
+
+:::
 
 Here the precise selbri of the relative clauses is lost: all we can tell is that the Appassionata is connected in some way with Rubinstein (in [Example 9.66](/chapter09/#example-966 "Example 9.66.")) and Beethoven (in [Example 9.67](/chapter09/#example-967 "Example 9.67.")), and that the relationships are respectively restrictive and incidental.
 
@@ -1162,10 +1430,14 @@ It happens that both *[cusku](/glossary/#cusku)* and *[finti](/glossary/#finti)*
 
 ##### Example 9.68.
 
+:::jbomupli
+
 |     |              |              |
 | --- | ------------ | ------------ |
 | la  | .apasionatas | pe cu'u      |
 | The | Appassionata | expressed-by |
+
+:::
 
 |            |        |            |     |             |     |
 | ---------- | ------ | ---------- | --- | ----------- | --- |
@@ -1174,10 +1446,14 @@ It happens that both *[cusku](/glossary/#cusku)* and *[finti](/glossary/#finti)*
 
 ##### Example 9.69.
 
+:::jbomupli
+
 |     |               |             |
 | --- | ------------- | ----------- |
 | la  | .apasionatas  | ne fi'e     |
 | The | Appassionata, | invented-by |
+
+:::
 
 |            |            |     |             |     |
 | ---------- | ---------- | --- | ----------- | --- |
@@ -1197,10 +1473,14 @@ Here are some examples:
 
 ##### Example 9.70.
 
+:::jbomupli
+
 |            |        |       |            |        |
 | ---------- | ------ | ----- | ---------- | ------ |
 | la         | frank. | nelci | la         | betis. |
 | That-named | Frank  | likes | that-named | Betty, |
+
+:::
 
 |          |           |            |         |
 | -------- | --------- | ---------- | ------- |
@@ -1213,10 +1493,14 @@ Frank likes Betty more than (he likes) Mary.
 
 ##### Example 9.71.
 
+:::jbomupli
+
 |            |        |       |            |         |
 | ---------- | ------ | ----- | ---------- | ------- |
 | la         | frank. | nelci | la         | meiris. |
 | That-named | Frank  | likes | that-named | Mary,   |
+
+:::
 
 |          |           |            |        |
 | -------- | --------- | ---------- | ------ |
@@ -1231,10 +1515,14 @@ If the *[ne](/glossary/#ne)* were omitted in [Example 9.70](/chapter09/#example-
 
 ##### Example 9.72.
 
+:::jbomupli
+
 |            |        |       |            |         |              |            |        |
 | ---------- | ------ | ----- | ---------- | ------- | ------------ | ---------- | ------ |
 | la         | frank. | nelci | la         | meiris. | seme'a       | la         | betis. |
 | That-named | Frank  | likes | that-named | Mary    | is-less-than | that-named | Betty. |
+
+:::
 
 Frank's liking Mary is less than Betty.
 
@@ -1244,10 +1532,14 @@ Pure comparison, which states only the comparative information but says nothing 
 
 ##### Example 9.73.
 
+:::jbomupli
+
 |     |             |            |         |
 | --- | ----------- | ---------- | ------- |
 | le  | ni          | la         | frank.  |
 | The | quantity-of | that-named | Frank's |
+
+:::
 
 |        |            |        |     |
 | ------ | ---------- | ------ | --- |
@@ -1274,28 +1566,40 @@ It is possible to mix logical connection (explained in [Chapter 14](/chapter14/ 
 
 ##### Example 9.74.
 
+:::jbomupli
+
 |     |       |      |      |     |       |            |        |
 | --- | ----- | ---- | ---- | --- | ----- | ---------- | ------ |
 | mi  | nelci | do   | .ije | mi  | nelci | la         | djein. |
 | I   | like  | you. | And  | I   | like  | that-named | Jane.  |
 
+:::
+
 which is a logical connection, and
 
 ##### Example 9.75.
+
+:::jbomupli
 
 |     |       |      |              |     |       |            |        |
 | --- | ----- | ---- | ------------ | --- | ----- | ---------- | ------ |
 | mi  | nelci | do   | .iki'ubo     | mi  | nelci | la         | djein. |
 | I   | like  | you. | Justified-by | I   | like  | that-named | Jane.  |
 
+:::
+
 The meanings of [Example 9.74](/chapter09/#example-974 "Example 9.74.") and [Example 9.75](/chapter09/#example-975 "Example 9.75.") can be simultaneously expressed by combining the two compound cmavo, thus:
 
 ##### Example 9.76.
+
+:::jbomupli
 
 |     |       |      |                  |     |       |            |        |
 | --- | ----- | ---- | ---------------- | --- | ----- | ---------- | ------ |
 | mi  | nelci | do   | .ijeki'ubo       | mi  | nelci | la         | djein. |
 | I   | like  | you. | And-justified-by | I   | like  | that-named | Jane.  |
+
+:::
 
 Here the two sentences *mi nelci do* and *mi nelci la djein.* are simultaneously asserted, their logical connection is asserted, and their causal relationship is asserted. The logical connective *[je](/glossary/#je)* comes before the modal *[ki'u](/glossary/#kiu)* in all such mixed connections.
 
@@ -1303,10 +1607,14 @@ Since *mi nelci do* and *mi nelci la djein.* differ only in the final sumti, we 
 
 ##### Example 9.77.
 
+:::jbomupli
+
 |     |       |     |             |            |        |
 | --- | ----- | --- | ----------- | ---------- | ------ |
 | mi  | nelci | do  | .eki'ubo    | la         | djein. |
 | I   | like  | you | and/because | that-named | Jane.  |
+
+:::
 
 Note that this connection is an afterthought one. Mixed connectives are always afterthought; forethought connectives must be either logical or modal.
 
@@ -1314,19 +1622,27 @@ There are numerous other afterthought logical and non-logical connectives that c
 
 ##### Example 9.78.
 
+:::jbomupli
+
 |     |       |     |             |       |            |        |
 | --- | ----- | --- | ----------- | ----- | ---------- | ------ |
 | mi  | nelci | do  | gi'eki'ubo  | nelci | la         | djein. |
 | I   | like  | you | and/because | like  | that-named | Jane.  |
 
+:::
+
 The following three complex examples all mean the same thing.
 
 ##### Example 9.79.
+
+:::jbomupli
 
 |     |       |     |       |
 | --- | ----- | --- | ----- |
 | mi  | bevri | le  | dakli |
 | I   | carry | the | sack. |
+
+:::
 
 |               |      |     |       |     |       |
 | ------------- | ---- | --- | ----- | --- | ----- |
@@ -1342,10 +1658,14 @@ I carry the sack. As a result I carry the dog or I carry the cat, equally.
 
 ##### Example 9.80.
 
+:::jbomupli
+
 |     |       |     |       |
 | --- | ----- | --- | ----- |
 | mi  | bevri | le  | dakli |
 | I   | carry | the | sack  |
+
+:::
 
 |               |        |     |       |
 | ------------- | ------ | --- | ----- |
@@ -1361,10 +1681,14 @@ I carry the sack and as a result carry the dog or carry the cat equally.
 
 ##### Example 9.81.
 
+:::jbomupli
+
 |     |       |     |       |
 | --- | ----- | --- | ----- |
 | mi  | bevri | le  | dakli |
 | I   | carry | the | sack  |
+
+:::
 
 |               |      |       |
 | ------------- | ---- | ----- |
@@ -1395,19 +1719,27 @@ So far, conversion of numbered bridi places with SE and the addition of modal pl
 
 ##### Example 9.82.
 
+:::jbomupli
+
 |     |         |              |             |            |         |
 | --- | ------- | ------------ | ----------- | ---------- | ------- |
 | mi  | cusku   |              | bau         | la         | lojban. |
 | I   | express | \[somethin\] | in-language | that-named | Lojban. |
 
+:::
+
 has an explicit x1 place occupied by *[mi](/glossary/#mi)* and an explicit *[bau](/glossary/#bau)* place occupied by *la lojban.* To exchange these two, we use a modal conversion operator consisting of *[jai](/glossary/#jai)* (of selma'o JAI) followed by the modal cmavo. Thus, the modal conversion of [Example 9.82](/chapter09/#example-982 "Example 9.82.") is:
 
 ##### Example 9.83.
+
+:::jbomupli
 
 |            |         |                               |         |     |
 | ---------- | ------- | ----------------------------- | ------- | --- |
 | la         | lojban. | jai bau cusku                 | fai     | mi  |
 | That-named | Lojban  | is-the-language-of-expression | used-by | me. |
+
+:::
 
 In [Example 9.83](/chapter09/#example-983 "Example 9.83."), the modal place *la lojban.* has become the x1 place of the new selbri *jai bau cusku*. What has happened to the old x1 place? There is no numbered place for it to move to, so it moves to a special “unnumbered place” marked by the tag *[fai](/glossary/#fai)* of selma'o FA.
 
@@ -1419,10 +1751,14 @@ In addition, it is grammatical to use *[jai](/glossary/#jai)* without a followin
 
 ##### Example 9.84.
 
+:::jbomupli
+
 |     |          |     |       |     |       |     |                 |
 | --- | -------- | --- | ----- | --- | ----- | --- | --------------- |
 | le  | nu       | mi  | lebna | le  | cukta | cu  | se krinu        |
 | The | event-of | (I  | take  | the | book) |     | is-justified-by |
+
+:::
 
 |     |          |     |       |     |        |
 | --- | -------- | --- | ----- | --- | ------ |
@@ -1433,10 +1769,14 @@ My taking the book is justified by my seeing it.
 
 ##### Example 9.85.
 
+:::jbomupli
+
 |     |                 |     |          |     |       |     |       |     |
 | --- | --------------- | --- | -------- | --- | ----- | --- | ----- | --- |
 | mi  | jai se krinu    | le  | nu       | mi  | viska | le  | cukta | kei |
 | I   | am-justified-by | the | event-of | (I  | see   | the | book) |     |
+
+:::
 
 |           |     |          |     |       |     |         |
 | --------- | --- | -------- | --- | ----- | --- | ------- |
@@ -1457,9 +1797,13 @@ Contradictory negation involving BAI cmavo is performed by appending *-nai* (of 
 
 ##### Example 9.86.
 
+:::jbomupli
+
 |     |       |     |         |     |     |     |       |     |
 | --- | ----- | --- | ------- | --- | --- | --- | ----- | --- |
 | mi  | nelci | do  | mu'inai | le  | nu  | do  | nelci | mi  |
+
+:::
 
 I like you, but not because you like me.
 
@@ -1469,10 +1813,14 @@ Scalar negation is achieved by prefixing *[na'e](/glossary/#nae)* (of selma'o NA
 
 ##### Example 9.87.
 
+:::jbomupli
+
 |     |       |     |       |                         |     |          |
 | --- | ----- | --- | ----- | ----------------------- | --- | -------- |
 | le  | spati | cu  | banro | na'emu'i                | le  | nu       |
 | The | plant |     | grows | other-than-motivated-by | the | event-of |
+
+:::
 
 |     |       |       |     |     |        |
 | --- | ----- | ----- | --- | --- | ------ |
@@ -1495,10 +1843,14 @@ Like tenses, modals can be made persistent from the bridi in which they appear t
 
 ##### Example 9.88.
 
+:::jbomupli
+
 |     |       |             |            |         |              |
 | --- | ----- | ----------- | ---------- | ------- | ------------ |
 | mi  | tavla | bau         | la         | lojban. | bai          |
 | I   | speak | in-language | that-named | Lojban  | compelled-by |
+
+:::
 
 |     |                  |            |        |
 | --- | ---------------- | ---------- | ------ |
@@ -1514,10 +1866,14 @@ means the same as:
 
 ##### Example 9.89.
 
+:::jbomupli
+
 |     |       |             |            |         |              |
 | --- | ----- | ----------- | ---------- | ------- | ------------ |
 | mi  | tavla | bau         | la         | lojban. | bai          |
 | I   | speak | in-language | that-named | Lojban  | compelled-by |
+
+:::
 
 |                  |            |        |
 | ---------------- | ---------- | ------ |
@@ -1540,9 +1896,13 @@ To cancel stickiness, use the form *BAI ki ku*, which stops any modal value for 
 
 ##### Example 9.90.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | mi  | ki  | tavla |
+
+:::
 
 I speak (no implication about language or compulsion).
 
@@ -1554,10 +1914,14 @@ Logical and non-logical connectives are explained in detail in [Chapter 14](/cha
 
 ##### Example 9.91.
 
+:::jbomupli
+
 |            |        |       |                  |     |        |
 | ---------- | ------ | ----- | ---------------- | --- | ------ |
 | la         | frank. | bajra | seka'a           | le  | zdani  |
 | That-named | Frank  | runs  | with-destination | the | house. |
+
+:::
 
 |      |            |        |       |             |     |        |
 | ---- | ---------- | ------ | ----- | ----------- | --- | ------ |
@@ -1568,10 +1932,14 @@ Frank runs to the house, and Frank runs from the house.
 
 ##### Example 9.92.
 
+:::jbomupli
+
 |            |        |       |                  |
 | ---------- | ------ | ----- | ---------------- |
 | la         | frank. | bajra | seka'a           |
 | That-named | Frank  | runs  | with-destination |
+
+:::
 
 |     |             |     |        |
 | --- | ----------- | --- | ------ |
@@ -1584,10 +1952,14 @@ Neither example implies whether a single act, or two acts, of running is referre
 
 ##### Example 9.93.
 
+:::jbomupli
+
 |            |        |       |                  |     |       |
 | ---------- | ------ | ----- | ---------------- | --- | ----- |
 | la         | frank. | bajra | seka'a           | le  | zdani |
 | That-named | Frank  | runs  | with-destination | the | house |
+
+:::
 
 |              |             |     |        |
 | ------------ | ----------- | --- | ------ |
