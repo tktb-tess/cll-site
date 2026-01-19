@@ -3,6 +3,8 @@ import { defineConfig } from 'astro/config';
 import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
+import remarkDirective from 'remark-directive';
+import { remarkJbomupli } from './src/modules/remark_plugin';
 
 export default defineConfig({
   vite: {
@@ -13,7 +15,7 @@ export default defineConfig({
   },
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [remarkMath],
+    remarkPlugins: [remarkMath, remarkDirective, remarkJbomupli],
     rehypePlugins: [rehypeKatex],
     smartypants: false,
   },

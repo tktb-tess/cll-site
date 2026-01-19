@@ -1324,5 +1324,5 @@ and
 
 refer to different pieces of text.
 
-The implicit quantifier for numbers and mathematical expressions is *[su'o](/glossary/#suo)*, because these sumti are analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which actually are numbers or pieces of text. In the case of numbers (with *[li](/glossary/#li)_), this is a distinction without a difference, as there is only one number which is 4; but there are many texts “4”, as many as there are documents in which that numeral appears.
+The implicit quantifier for numbers and mathematical expressions is *[su'o](/glossary/#suo)*, because these sumti are analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which actually are numbers or pieces of text. In the case of numbers (with *[li](/glossary/#li)*), this is a distinction without a difference, as there is only one number which is 4; but there are many texts “4”, as many as there are documents in which that numeral appears.
 

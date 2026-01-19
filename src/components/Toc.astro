@@ -27,15 +27,11 @@ const { contents, open = false } = Astro.props;
 ---
 
 <h2>Table of Contents</h2>
-<details
-  id='toc-details'
-  {open}
-  class='border border-slate-300 dark:border-slate-500 bg-violet-50 dark:bg-violet-950 rounded px-3 py-0.5'
->
-  <summary class='cursor-pointer user-select-none'>
+<details id='toc-details' {open}>
+  <summary>
     {open ? 'hide' : 'show'}
   </summary>
-  <ul class="list-none ps-0">
+  <ul>
     {
       contents.map((content) => (
         <li>
@@ -68,18 +64,29 @@ const { contents, open = false } = Astro.props;
   </ul>
 </details>
 
+<style lang="postcss">
+  @reference '../styles/globals.css';
+
+  details:where(#toc-details) {
+    @apply border border-slate-300 dark:border-slate-500 bg-violet-50
+    dark:bg-violet-950 rounded px-3 py-0.5;
+
+    > summary {
+      @apply cursor-pointer user-select-none;
+    }
+
+    > ul {
+      @apply list-none ps-0;
+    }
+  }
+</style>
+
 <script>
   const details = document.getElementById('toc-details') as HTMLDetailsElement;
-  const summary = details.querySelector('summary') as HTMLElement;
+  const summary = details.querySelector('summary')!;
   summary.addEventListener('click', (ev) => {
     ev.preventDefault();
-    const isOpen = details.open;
-    if (isOpen) {
-      details.open = false;
-      summary.textContent = 'show';
-    } else {
-      details.open = true;
-      summary.textContent = 'hide';
-    }
+    details.open = !details.open;
+    summary.textContent = details.open ? 'hide' : 'show';
   });
 </script>

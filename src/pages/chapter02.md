@@ -25,7 +25,7 @@ These examples all describe relationships between John and Sam. However, in Engl
 
 <div class="[&_img]:bg-slate-50 [&_img]:dark:bg-slate-200 [&_img]:p-4">
 
-![bridi (predicate) \_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | | John is the father of Sam |\_\_\_\_| |\_\_\_\_\_\_\_\_\_\_\_\_\_\_| |\_\_\_| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
+![bridi (predicate) _________|_____ | | John is the father of Sam |_____| |_____| |___| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
 
 </div>
 
@@ -95,7 +95,7 @@ Names may also be used as sumti, provided they are preceded with the word *[la](
 | *la meris.* | the one/ones named Mary |
 | *la djan.*  | the one/ones named John |
 
-Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#612-lojban-names "6.12. Lojban names") for more information.
+Other Lojban spelling versions are possible for names from other languages, and there are restrictions on which letters may appear in Lojban names: see [Section 6.12](/chapter06/#612-number-summary "6.12. Number summary") for more information.
 
 ## 2.4. Some words used to indicate selbri relations
 
@@ -150,33 +150,49 @@ The Lojban bridi corresponding to [Example 2.7](/chapter02/#example-27 "Example 
 
 ##### Example 2.10.
 
+:::jbomupli
+
 |     |        |       |     |     |     |
 | --- | ------ | ----- | --- | --- | --- |
 | x1  | \[cu\] | tavla | x2  | x3  | x4  |
+
+:::
 
 The word *[cu](/glossary/#cu)* serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.
 
 ##### Example 2.11.
 
+:::jbomupli
+
 |     |       |     |      |      |
 | --- | ----- | --- | ---- | ---- |
 | mi  | tavla | do  | zo'e | zo'e |
+
+:::
 
 I talk to you about something in some language.
 
 ##### Example 2.12.
 
+:::jbomupli
+
 |     |       |     |     |      |
 | --- | ----- | --- | --- | ---- |
 | do  | tavla | mi  | ta  | zo'e |
+
+:::
 
 You talk to me about that thing in a language.
 
 ##### Example 2.13.
 
+:::jbomupli
+
 |     |       |      |     |     |
 | --- | ----- | ---- | --- | --- |
 | mi  | tavla | zo'e | tu  | ti  |
+
+:::
 
 I talk to someone about that thing yonder in this language.
 
@@ -186,17 +202,25 @@ When there are one or more occurrences of the cmavo *[zo'e](/glossary/#zoe)* at 
 
 ##### Example 2.14.
 
+:::jbomupli
+
 |     |       |     |
 | --- | ----- | --- |
 | mi  | tavla | do  |
+
+:::
 
 I talk to you (about something in some language).
 
 ##### Example 2.15.
 
+:::jbomupli
+
 |     |       |     |     |
 | --- | ----- | --- | --- |
 | do  | tavla | mi  | ta  |
+
+:::
 
 You talk to me about that thing (in some language).
 
@@ -208,7 +232,7 @@ Consider the sentence
 
 ##### Example 2.16.
 
-<div class="table-scrollable">
+:::jbomupli
 
 |           |        |       |               |          |                 |
 | --------- | ------ | ----- | ------------- | -------- | --------------- |
@@ -216,7 +240,7 @@ Consider the sentence
 | seller-x1 | -      | sells | goods-sold-x2 | buyer-x3 | price-x4        |
 | I         | -      | sell  | this          | to that  | for some price. |
 
-</div>
+:::
 
 I sell this-thing/these-things to that-buyer/those-buyers. (the price is obvious or unimportant)
 
@@ -224,21 +248,29 @@ I sell this-thing/these-things to that-buyer/those-buyers. (the price is obvious
 
 ##### Example 2.17.
 
+:::jbomupli
+
 |           |               |        |       |          |
 | --------- | ------------- | ------ | ----- | -------- |
 | mi        | ti            | \[cu\] | vecnu | ta       |
 | seller-x1 | goods-sold-x2 | -      | sells | buyer-x3 |
 | I         | this          | -      | sell  | to that. |
 
+:::
+
 (translates as stilted or poetic English) I this thing do sell to that buyer.
 
 ##### Example 2.18.
+
+:::jbomupli
 
 |           |               |          |        |       |
 | --------- | ------------- | -------- | ------ | ----- |
 | mi        | ti            | ta       | \[cu\] | vecnu |
 | seller-x1 | goods-sold-x2 | buyer-x3 | -      | sells |
 | I         | this          | to that  | -      | sell  |
+
+:::
 
 (translates as stilted or poetic English) I this thing to that buyer do sell.
 
@@ -248,11 +280,15 @@ If there are no sumti before the selbri, then it is understood that the x1 sumti
 
 ##### Example 2.19.
 
+:::jbomupli
+
 |                |        |                   |                               |
 | -------------- | ------ | ----------------- | ----------------------------- |
 | ta             | \[cu\] | melbi             |                               |
 | object/idea-x1 | -      | is-beautiful      | (to someone by some standard) |
 | That/Those     | -      | is/are beautiful. |                               |
+
+:::
 
 That is beautiful.  
 Those are beautiful.
@@ -261,10 +297,14 @@ when the x1 is omitted, becomes:
 
 ##### Example 2.20.
 
+:::jbomupli
+
 |                |              |                             |
 | -------------- | ------------ | --------------------------- |
 |                | melbi        |                             |
 | unspecified-x1 | is-beautiful | to someone by some standard |
+
+:::
 
 Beautiful!  
 It's beautiful!
@@ -279,9 +319,13 @@ For one reason or another you may want to change the order, placing one particul
 
 ##### Example 2.21.
 
+:::jbomupli
+
 |     |       |     |     |
 | --- | ----- | --- | --- |
 | mi  | tavla | do  | ti  |
+
+:::
 
 I talk to you about this.
 
@@ -289,9 +333,13 @@ has the same meaning as
 
 ##### Example 2.22.
 
+:::jbomupli
+
 |     |          |     |     |
 | --- | -------- | --- | --- |
 | do  | se tavla | mi  | ti  |
+
+:::
 
 You are talked to by me about this.
 
@@ -299,9 +347,13 @@ The cmavo *[te](/glossary/#te)*, when used in the same location, switches the me
 
 ##### Example 2.23.
 
+:::jbomupli
+
 |     |       |     |     |
 | --- | ----- | --- | --- |
 | mi  | tavla | do  | ti  |
+
+:::
 
 I talk to you about this.
 
@@ -309,9 +361,13 @@ has the same meaning as
 
 ##### Example 2.24.
 
+:::jbomupli
+
 |     |          |     |     |
 | --- | -------- | --- | --- |
 | ti  | te tavla | do  | mi  |
+
+:::
 
 This is talked about to you by me.
 
@@ -339,9 +395,13 @@ When two gismu are adjacent, the first one modifies the second, and the selbri t
 
 ##### Example 2.25.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | sutra tavla |
+
+:::
 
 has the place structure
 
@@ -354,9 +414,13 @@ When three or more gismu are in a row, the first modifies the second, and that c
 
 ##### Example 2.27.
 
+:::jbomupli
+
 |                   |
 | ----------------- |
 | sutra tavla cutci |
+
+:::
 
 has the place structure
 
@@ -370,28 +434,40 @@ Note especially the use of “type-of” as a mechanism for connecting the Engli
 
 ##### Example 2.29.
 
+:::jbomupli
+
 |        |       |
 | ------ | ----- |
 | bajra  | cutci |
 | runner | shoe  |
 
+:::
+
 most probably refers to shoes suitable for runners, but might be interpreted in some imaginative instances as “shoes that run (by themselves?)”. In general, however, the meaning of a tanru is determined by the literal meaning of its components, and not by any connotations or figurative meanings. Thus
 
 ##### Example 2.30.
+
+:::jbomupli
 
 |       |        |
 | ----- | ------ |
 | sutra | tavla  |
 | fast  | talker |
 
+:::
+
 would not necessarily imply any trickery or deception, unlike the English idiom, and a
 
 ##### Example 2.31.
+
+:::jbomupli
 
 |        |           |
 | ------ | --------- |
 | jikca  | toldi     |
 | social | butterfly |
+
+:::
 
 must always be an insect with large brightly-colored wings, of the family *Lepidoptera*.
 
@@ -399,23 +475,33 @@ The place structure of a tanru is always that of the final component of the tanr
 
 ##### Example 2.32.
 
+:::jbomupli
+
 |     |        |             |           |
 | --- | ------ | ----------- | --------- |
 | mi  | \[cu\] | sutra klama | la meris. |
 | I   | -      | quickly-go  | to Mary.  |
 
+:::
+
 With the conversion *se klama* as the final component of the tanru, the place structure of the entire selbri is that of *se klama*: the x1 place is the destination, and the x2 place is the one who goes:
 
 ##### Example 2.33.
+
+:::jbomupli
 
 |     |        |         |            |           |
 | --- | ------ | ------- | ---------- | --------- |
 | mi  | \[cu\] | sutra   | se klama   | la meris. |
 | I   | -      | quickly | am-gone-to | by Mary.  |
 
+:::
+
 The following example shows that there is more to conversion than merely switching places, though:
 
 ##### Example 2.34.
+
+:::jbomupli
 
 |         |        |                       |           |
 | ------- | ------ | --------------------- | --------- |
@@ -423,11 +509,15 @@ The following example shows that there is more to conversion than merely switchi
 | Tom     | -      | beautifully-talks     | to Mary.  |
 | Tom     | -      | is a beautiful-talker | to Mary.  |
 
+:::
+
 has the place structure of *[tavla](/glossary/#tavla)*, but note the two distinct interpretations.
 
 Now, using conversion, we can modify the place structure order:
 
 ##### Example 2.35.
+
+:::jbomupli
 
 |           |        |                          |          |
 | --------- | ------ | ------------------------ | -------- |
@@ -435,23 +525,33 @@ Now, using conversion, we can modify the place structure order:
 | Mary      | -      | is beautifully-talked-to | by Tom.  |
 | Mary      | -      | is a beautiful-audience  | for Tom. |
 
+:::
+
 and we see that the modification has been changed so as to focus on Mary's role in the bridi relationship, leading to a different set of possible interpretations.
 
 Note that there is no place structure change if the modifying term is converted, and so less drastic variation in possible meanings:
 
 ##### Example 2.36.
 
+:::jbomupli
+
 |         |        |                       |           |
 | ------- | ------ | --------------------- | --------- |
 | la tam. | \[cu\] | tavla melbi           | la meris. |
 | Tom     | -      | is talkerly-beautiful | to Mary.  |
 
+:::
+
 ##### Example 2.37.
+
+:::jbomupli
 
 |         |        |                         |           |
 | ------- | ------ | ----------------------- | --------- |
 | la tam. | \[cu\] | se tavla melbi          | la meris. |
 | Tom     | -      | is audiencely-beautiful | to Mary.  |
+
+:::
 
 and we see that the manner in which Tom is seen as beautiful by Mary changes, but Tom is still the one perceived as beautiful, and Mary, the observer of beauty.
 
@@ -463,9 +563,13 @@ For example,
 
 ##### Example 2.38.
 
+:::jbomupli
+
 |     |       |     |          |        |
 | --- | ----- | --- | -------- | ------ |
 | mi  | tavla | do  | le tavla | \[ku\] |
+
+:::
 
 means the same as
 
@@ -481,10 +585,14 @@ In many cases the word *[ku](/glossary/#ku)* may be omitted. In particular, it i
 
 ##### Example 2.40.
 
+:::jbomupli
+
 |     |         |     |                  |
 | --- | ------- | --- | ---------------- |
 | mi  | tavla   | do  | le tavla         |
 | I   | talk-to | you | about-the talker |
+
+:::
 
 means exactly the same thing as [Example 2.38](/chapter02/#example-238 "Example 2.38.").
 
@@ -494,40 +602,60 @@ The word *[cu](/glossary/#cu)* has no meaning, and exists only to mark the begin
 
 ##### Example 2.41.
 
+:::jbomupli
+
 |                 |
 | --------------- |
 | le sutra tavla  |
 | The fast talker |
 
+:::
+
 ##### Example 2.42.
+
+:::jbomupli
 
 |              |     |             |
 | ------------ | --- | ----------- |
 | le sutra     | cu  | tavla       |
 | The fast one | -   | is talking. |
 
+:::
+
 ##### Example 2.43.
+
+:::jbomupli
 
 |                        |
 | ---------------------- |
 | le sutra se tavla      |
 | The fast talked-to one |
 
+:::
+
 ##### Example 2.44.
+
+:::jbomupli
 
 |              |     |               |
 | ------------ | --- | ------------- |
 | le sutra     | cu  | se tavla      |
 | The fast one | -   | is talked to. |
 
+:::
+
 Consider the following more complex example, with two description sumti.
 
 ##### Example 2.45.
+
+:::jbomupli
 
 |     |        |         |            |        |                             |        |
 | --- | ------ | ------- | ---------- | ------ | --------------------------- | ------ |
 | mi  | \[cu\] | tavla   | le vecnu   | \[ku\] | le blari'o                  | \[ku\] |
 | I   | -      | talk-to | the seller | -      | about the blue-green-thing. | -      |
+
+:::
 
 The sumti *le vecnu* contains the selbri *[vecnu](/glossary/#vecnu)*, which has the “seller” in the x1 place, and uses it in this sentence to describe a particular “seller” that the speaker has in mind (one that he or she probably expects the listener will also know about). Similarly, the speaker has a particular blue-green thing in mind, which is described using *[le](/glossary/#le)* to mark *[blari'o](/glossary/#blario)*, a selbri whose first sumti is something blue-green.
 
@@ -541,10 +669,14 @@ gismu:
 
 ##### Example 2.46.
 
+:::jbomupli
+
 |       |        |       |             |        |       |        |
 | ----- | ------ | ----- | ----------- | ------ | ----- | ------ |
 | mi    | \[cu\] | klama | ti          | zo'e   | zo'e  | ta     |
 | Go-er | -      | goes  | destination | origin | route | means. |
+
+:::
 
 I go here (to this) using that means (from somewhere via some route).
 
@@ -552,28 +684,40 @@ lujvo:
 
 ##### Example 2.47.
 
+:::jbomupli
+
 |      |        |                |
 | ---- | ------ | -------------- |
 | ta   | \[cu\] | blari'o        |
 | That | -      | is-blue-green. |
 
+:::
+
 fu'ivla:
 
 ##### Example 2.48.
+
+:::jbomupli
 
 |      |        |               |
 | ---- | ------ | ------------- |
 | ti   | \[cu\] | djarspageti   |
 | This | -      | is-spaghetti. |
 
+:::
+
 Some cmavo may also serve as selbri, acting as variables that stand for another selbri. The most commonly used of these is *[go'i](/glossary/#goi)*, which represents the main bridi of the previous Lojban sentence, with any new sumti or other sentence features being expressed replacing the previously expressed ones. Thus, in this context:
 
 ##### Example 2.49.
+
+:::jbomupli
 
 |      |        |                          |
 | ---- | ------ | ------------------------ |
 | ta   | \[cu\] | go'i                     |
 | That | -      | too/same-as-last selbri. |
+
+:::
 
 That (is spaghetti), too.
 
@@ -583,9 +727,13 @@ In English, I might say “The dog is beautiful”, and you might reply “This 
 
 ##### Example 2.50.
 
+:::jbomupli
+
 |          |        |     |       |
 | -------- | ------ | --- | ----- |
 | le gerku | \[ku\] | cu  | melbi |
+
+:::
 
 The dog is beautiful.
 
@@ -593,25 +741,37 @@ The following three sentences all might translate as “This pleases me.”
 
 ##### Example 2.51.
 
+:::jbomupli
+
 |     |        |       |     |
 | --- | ------ | ----- | --- |
 | ti  | \[cu\] | pluka | mi  |
+
+:::
 
 This (the dog) pleases me.
 
 ##### Example 2.52.
 
+:::jbomupli
+
 |      |        |       |     |
 | ---- | ------ | ----- | --- |
 | di'u | \[cu\] | pluka | mi  |
+
+:::
 
 This (the last sentence) pleases me (perhaps because it is grammatical or sounds nice).
 
 ##### Example 2.53.
 
+:::jbomupli
+
 |           |        |       |     |
 | --------- | ------ | ----- | --- |
 | la'e di'u | \[cu\] | pluka | mi  |
+
+:::
 
 This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases me.
 
@@ -623,10 +783,14 @@ This (the meaning of the last sentence; i.e. that the dog is beautiful) pleases 
 
 ##### Example 2.54.
 
+:::jbomupli
+
 |               |     |          |
 | ------------- | --- | -------- |
 | le mi gerku   | cu  | sutra    |
 | The of-me dog | -   | is fast. |
+
+:::
 
 My dog is fast.
 
@@ -638,9 +802,13 @@ You may call someone's attention to the fact that you are addressing them by usi
 
 ##### Example 2.55.
 
+:::jbomupli
+
 |           |
 | --------- |
 | doi djan. |
+
+:::
 
 means “Oh, John, I'm talking to you”. It also has the effect of setting the value of *[do](/glossary/#do)*; *[do](/glossary/#do)* now refers to “John” until it is changed in some way in the conversation. Note that [Example 2.55](/chapter02/#example-255 "Example 2.55.") is not a bridi, but it is a legitimate Lojban sentence nevertheless; it is known as a “vocative phrase”.
 
@@ -648,42 +816,62 @@ Other cmavo can be used instead of *[doi](/glossary/#doi)* in a vocative phrase,
 
 ##### Example 2.56.
 
+:::jbomupli
+
 |        |       |
 | ------ | ----- |
 | coi.   | djan. |
 | Hello, | John. |
 
+:::
+
 ##### Example 2.57.
+
+:::jbomupli
 
 |           |       |
 | --------- | ----- |
 | co'o.     | djan. |
 | Good-bye, | John. |
 
+:::
+
 Commands are expressed in Lojban by a simple variation of the main bridi structure. If you say
 
 ##### Example 2.58.
+
+:::jbomupli
 
 |     |              |
 | --- | ------------ |
 | do  | tavla        |
 | You | are-talking. |
 
+:::
+
 you are simply making a statement of fact. In order to issue a command in Lojban, substitute the word *[ko](/glossary/#ko)* for *[do](/glossary/#do)*. The bridi
 
 ##### Example 2.59.
+
+:::jbomupli
 
 |     |       |
 | --- | ----- |
 | ko  | tavla |
 
+:::
+
 instructs the listener to do whatever is necessary to make [Example 2.58](/chapter02/#example-258 "Example 2.58.") true; it means “Talk!” Other examples:
 
 ##### Example 2.60.
 
+:::jbomupli
+
 |     |       |
 | --- | ----- |
 | ko  | sutra |
+
+:::
 
 Be fast!
 
@@ -691,9 +879,13 @@ The *[ko](/glossary/#ko)* need not be in the x1 place, but rather can occur anyw
 
 ##### Example 2.61.
 
+:::jbomupli
+
 |     |       |     |
 | --- | ----- | --- |
 | mi  | tavla | ko  |
+
+:::
 
 Be talked to by me.
 Let me talk to you.
@@ -702,17 +894,25 @@ The cmavo *[ko](/glossary/#ko)* can fill any appropriate sumti place, and can be
 
 ##### Example 2.62.
 
+:::jbomupli
+
 |     |       |     |
 | --- | ----- | --- |
 | ko  | kurji | ko  |
+
+:::
 
 and
 
 ##### Example 2.63.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | ko  | ko  | kurji |
+
+:::
 
 both mean “You take care of you” and “Be taken care of by you”, or to put it colloquially, “Take care of yourself”.
 
@@ -724,10 +924,14 @@ The cmavo *[ma](/glossary/#ma)* is used to create a sumti question: it indicates
 
 ##### Example 2.64.
 
+:::jbomupli
+
 |      |       |        |           |
 | ---- | ----- | ------ | --------- |
 | ma   | tavla | do     | mi        |
 | Who? | talks | to-you | about-me. |
+
+:::
 
 Who is talking to you about me?
 
@@ -735,9 +939,13 @@ The listener can reply by simply stating a sumti:
 
 ##### Example 2.65.
 
+:::jbomupli
+
 |          |
 | -------- |
 | la djan. |
+
+:::
 
 John (is talking to you about me).
 
@@ -745,19 +953,27 @@ Like *[ko](/glossary/#ko)*, *[ma](/glossary/#ma)* can occur in any position wher
 
 ##### Example 2.66.
 
+:::jbomupli
+
 |     |        |       |               |
 | --- | ------ | ----- | ------------- |
 | do  | \[cu\] | tavla | ma            |
 | You | -      | talk  | to what/whom? |
 
+:::
+
 A *[ma](/glossary/#ma)* can also appear in multiple sumti positions in one sentence, in effect asking several questions at once.
 
 ##### Example 2.67.
+
+:::jbomupli
 
 |          |        |       |               |
 | -------- | ------ | ----- | ------------- |
 | ma       | \[cu\] | tavla | ma            |
 | What/Who | -      | talks | to what/whom? |
+
+:::
 
 The two separate *[ma](/glossary/#ma)* positions ask two separate questions, and can therefore be answered with different values in each sumti place.
 
@@ -765,18 +981,26 @@ The cmavo *[mo](/glossary/#mo)* is the selbri analogue of *[ma](/glossary/#ma)*.
 
 ##### Example 2.68.
 
+:::jbomupli
+
 |     |        |                   |
 | --- | ------ | ----------------- |
 | do  | \[cu\] | mo                |
 | You | -      | are-what/do-what? |
 
+:::
+
 A *[mo](/glossary/#mo)* may be used anywhere a brivla or other selbri might. Keep this in mind for later examples. Unfortunately, by itself, *[mo](/glossary/#mo)* is a very non-specific question. The response to the question in [Example 2.68](/chapter02/#example-268 "Example 2.68.") could be:
 
 ##### Example 2.69.
 
+:::jbomupli
+
 |     |        |       |
 | --- | ------ | ----- |
 | mi  | \[cu\] | melbi |
+
+:::
 
 I am beautiful.
 
@@ -784,9 +1008,13 @@ or:
 
 ##### Example 2.70.
 
+:::jbomupli
+
 |     |        |       |
 | --- | ------ | ----- |
 | mi  | \[cu\] | tavla |
+
+:::
 
 I talk.
 
@@ -810,10 +1038,14 @@ In Lojban we have a word that asks precisely that question in precisely the same
 
 ##### Example 2.73.
 
+:::jbomupli
+
 |                 |     |             |        |
 | --------------- | --- | ----------- | ------ |
 | xu              | do  | tavla       | mi     |
 | Is-it-true-that | you | are-talking | to-me? |
+
+:::
 
 is the Lojban translation of [Example 2.71](/chapter02/#example-271 "Example 2.71.").
 
@@ -821,9 +1053,13 @@ The answer “Yes” may be given by simply restating the bridi without the *[xu
 
 ##### Example 2.74.
 
+:::jbomupli
+
 |     |     |       |
 | --- | --- | ----- |
 | xu  | do  | kanro |
+
+:::
 
 Are you healthy?
 
@@ -831,9 +1067,13 @@ can be answered with
 
 ##### Example 2.75.
 
+:::jbomupli
+
 |     |       |
 | --- | ----- |
 | mi  | kanro |
+
+:::
 
 I am healthy.
 
@@ -841,9 +1081,13 @@ or
 
 ##### Example 2.76.
 
+:::jbomupli
+
 |      |
 | ---- |
 | go'i |
+
+:::
 
 I am healthy.
 
@@ -853,9 +1097,13 @@ or
 
 ##### Example 2.77.
 
+:::jbomupli
+
 |          |     |       |
 | -------- | --- | ----- |
 | le tavla | cu  | kanro |
+
+:::
 
 The talker is healthy.
 
@@ -863,9 +1111,13 @@ or
 
 ##### Example 2.78.
 
+:::jbomupli
+
 |          |     |      |
 | -------- | --- | ---- |
 | le tavla | cu  | go'i |
+
+:::
 
 The talker is healthy.
 
@@ -879,72 +1131,108 @@ Lojban has a group of cmavo known as “attitudinal indicators” which specific
 
 ##### Example 2.79.
 
+:::jbomupli
+
 |            |     |        |       |
 | ---------- | --- | ------ | ----- |
 | .ie        | mi  | \[cu\] | klama |
 | Agreement! | I   | -      | go.   |
 
+:::
+
 Yep! I'll go.
 
 ##### Example 2.80.
+
+:::jbomupli
 
 |             |     |        |       |
 | ----------- | --- | ------ | ----- |
 | .ei         | mi  | \[cu\] | klama |
 | Obligation! | I   | -      | go.   |
 
+:::
+
 I should go.
 
 ##### Example 2.81.
+
+:::jbomupli
 
 |     |        |       |                        |
 | --- | ------ | ----- | ---------------------- |
 | mi  | \[cu\] | klama | le melbi               |
 | I   | -      | go    | to-the beautiful-thing |
 
+:::
+
+:::jbomupli
+
 |                                                               |        |
 | ------------------------------------------------------------- | ------ |
 | .ui                                                           | \[ku\] |
 | and I am happy because it is the beautiful thing I'm going to | -      |
 
+:::
+
 Not all indicators indicate attitudes. Discursives, another group of cmavo with the same grammatical rules as attitudinal indicators, allow free expression of certain kinds of commentary about the main utterances. Using discursives allows a clear separation of these so-called “metalinguistic” features from the underlying statements and logical structure. By comparison, the English words “but” and “also”, which discursively indicate contrast or an added weight of example, are logically equivalent to “and”, which does not have a discursive content. The average English-speaker does not think about, and may not even realize, the paradoxical idea that “but” basically means “and”.
 
 ##### Example 2.82.
+
+:::jbomupli
 
 |     |        |       |     |     |        |       |
 | --- | ------ | ----- | --- | --- | ------ | ----- |
 | mi  | \[cu\] | klama | .i  | do  | \[cu\] | stali |
 | I   | -      | go.   |     | You | -      | stay. |
 
+:::
+
 ##### Example 2.83.
+
+:::jbomupli
 
 |     |        |       |     |              |     |        |       |              |
 | --- | ------ | ----- | --- | ------------ | --- | ------ | ----- | ------------ |
 | mi  | \[cu\] | klama | .i  | ji'a         | do  | \[cu\] | stali |              |
 | I   | -      | go.   |     | In addition, | you | -      | stay. | added weight |
 
+:::
+
 ##### Example 2.84.
+
+:::jbomupli
 
 |     |        |       |     |          |     |        |       |          |
 | --- | ------ | ----- | --- | -------- | --- | ------ | ----- | -------- |
 | mi  | \[cu\] | klama | .i  | ku'i     | do  | \[cu\] | stali |          |
 | I   | -      | go.   |     | However, | you | -      | stay. | contrast |
 
+:::
+
 Another group of indicators are called “evidentials”. Evidentials show the speaker's relationship to the statement, specifically how the speaker came to make the statement. These include *[za'a](/glossary/#zaa)* (I directly observe the relationship), *[pe'i](/glossary/#pei)* (I believe that the relationship holds), *[ru'a](/glossary/#rua)* (I postulate the relationship), and others. Many American Indian languages use this kind of words.
 
 ##### Example 2.85.
+
+:::jbomupli
 
 |          |     |        |                |
 | -------- | --- | ------ | -------------- |
 | pe'i     | do  | \[cu\] | melbi          |
 | I opine! | You | -      | are beautiful. |
 
+:::
+
 ##### Example 2.86.
+
+:::jbomupli
 
 |                     |     |        |                |
 | ------------------- | --- | ------ | -------------- |
 | za'a                | do  | \[cu\] | melbi          |
 | I directly observe! | You | -      | are beautiful. |
+
+:::
 
 ## 2.17. Tenses
 
@@ -966,28 +1254,40 @@ The Lojban sentence
 
 ##### Example 2.89.
 
+:::jbomupli
+
 |          |        |                   |              |
 | -------- | ------ | ----------------- | ------------ |
 | la djan. | \[cu\] | klama             | le zarci     |
 | John     | -      | goes/went/will-go | to-the store |
 
+:::
+
 serves as a translation of either [Example 2.87](/chapter02/#example-287 "Example 2.87.") or [Example 2.88](/chapter02/#example-288 "Example 2.88."), and of many other possible English sentences as well. It is not marked for tense, and can refer to an event in the past, the present or the future. This rule does not mean that Lojban has no way of representing the time of an event. A close translation of [Example 2.87](/chapter02/#example-287 "Example 2.87.") would be:
 
 ##### Example 2.90.
+
+:::jbomupli
 
 |          |          |       |              |
 | -------- | -------- | ----- | ------------ |
 | la djan. | pu       | klama | le zarci     |
 | John     | \[past\] | goes  | to-the store |
 
+:::
+
 where the tag *[pu](/glossary/#pu)* forces the sentence to refer to a time in the past. Similarly,
 
 ##### Example 2.91.
+
+:::jbomupli
 
 |          |             |       |              |
 | -------- | ----------- | ----- | ------------ |
 | la djan. | ca          | klama | le zarci     |
 | John     | \[present\] | goes  | to-the store |
+
+:::
 
 necessarily refers to the present, because of the tag *[ca](/glossary/#ca)*. Tags used in this way always appear at the very beginning of the selbri, just after the *[cu](/glossary/#cu)*, and they may make a *[cu](/glossary/#cu)* unnecessary, since tags cannot be absorbed into tanru. Such tags serve as an equivalent to English tenses and adverbs. In Lojban, tense information is completely optional. If unspecified, the appropriate tense is picked up from context.
 
@@ -995,19 +1295,27 @@ Lojban also extends the notion of “tense” to refer not only to time but to s
 
 ##### Example 2.92.
 
+:::jbomupli
+
 |     |             |                        |
 | --- | ----------- | ---------------------- |
 | do  | vu vecnu    | zo'e                   |
 | You | yonder sell | something-unspecified. |
 
+:::
+
 In addition, tense tags (either for time or space) can be prefixed to the selbri of a description, producing a tensed sumti:
 
 ##### Example 2.93.
+
+:::jbomupli
 
 |                                |        |     |               |
 | ------------------------------ | ------ | --- | ------------- |
 | le pu bajra                    | \[ku\] | cu  | tavla         |
 | The earlier/former/past runner | -      | -   | talked/talks. |
+
+:::
 
 (Since Lojban tense is optional, we don't know when he or she talks.)
 
@@ -1015,10 +1323,14 @@ Tensed sumti with space tags correspond roughly to the English use of “this”
 
 ##### Example 2.94.
 
+:::jbomupli
+
 |                   |        |     |        |
 | ----------------- | ------ | --- | ------ |
 | le vi bajra       | \[ku\] | cu  | tavla  |
 | The nearby runner | -      | -   | talks. |
+
+:::
 
 This runner talks.
 
@@ -1028,10 +1340,14 @@ Furthermore, a tense tag can appear both on the selbri and within a description,
 
 ##### Example 2.95.
 
+:::jbomupli
+
 |                 |        |     |                  |
 | --------------- | ------ | --- | ---------------- |
 | le vi tavla     | \[ku\] | cu  | ba klama         |
 | The here talker | -      | -   | \[future\] goes. |
+
+:::
 
 The talker who is here will go.  
 This talker will go.
