@@ -83,14 +83,14 @@
     }
 
     .jbomupli {
-      @apply grid grid-cols-auto-fill-120 gap-x-2 gap-y-8 my-8 px-2 py-1 bg-violet-50
+      @apply grid grid-cols-auto-fill-200 gap-x-2 gap-y-8 my-8 px-2 py-1 bg-violet-50
       border border-slate-300 rounded;
 
       > div {
         @apply min-w-0 flex flex-col gap-0.75 border-e border-slate-300;
         
         > p {
-          @apply min-w-0 m-0;
+          @apply min-w-0 m-0 min-h-7;
         }
 
         > p:first-child {

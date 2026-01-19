@@ -78,20 +78,34 @@ const phrasingToText = (child: PhrasingContent): ElementContent => {
       };
     }
     case 'inlineMath': {
-      const data = child.data;
+      const data = child.data ?? {};
       return {
         type: 'element',
-        tagName: data?.hName ?? 'code',
-        properties: data?.hProperties ?? {},
-        children: data?.hChildren ?? [],
+        tagName: data.hName ?? 'code',
+        properties: data.hProperties ?? {},
+        children: data.hChildren ?? [],
       };
     }
     case 'textDirective': {
+      const data = child.data ?? {};
       return {
         type: 'element',
-        tagName: 'div',
-        properties: {},
-        children: child.children.map(phrasingToText),
+        tagName: data.hName ?? 'div',
+        properties: data.hProperties ?? child.attributes ?? {},
+        children: data.hChildren ?? child.children.map(phrasingToText),
+      };
+    }
+    case 'image': {
+      const data = child.data ?? {};
+      return {
+        type: 'element',
+        tagName: 'img',
+        properties: {
+          src: child.url,
+          alt: child.alt,
+          title: child.title,
+        },
+        children: data.hChildren ?? [],
       };
     }
     default: {
@@ -100,9 +114,9 @@ const phrasingToText = (child: PhrasingContent): ElementContent => {
   }
 };
 
-export type Config = {
+export interface Config {
   className: string;
-};
+}
 
 export const remarkJbomupli = (config?: Config) => {
   return (tree: Root) => {
