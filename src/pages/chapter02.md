@@ -150,25 +150,37 @@ The Lojban bridi corresponding to [Example 2.7](/chapter02/#example-27 "Example 
 
 ##### Example 2.10.
 
+:::jbomupli
+
 |     |        |       |     |     |     |
 | --- | ------ | ----- | --- | --- | --- |
 | x1  | \[cu\] | tavla | x2  | x3  | x4  |
+
+:::
 
 The word *[cu](/glossary/#cu)* serves as a separator between any preceding sumti and the selbri. It can often be omitted, as in the following examples.
 
 ##### Example 2.11.
 
+:::jbomupli
+
 |     |       |     |      |      |
 | --- | ----- | --- | ---- | ---- |
 | mi  | tavla | do  | zo'e | zo'e |
+
+:::
 
 I talk to you about something in some language.
 
 ##### Example 2.12.
 
+:::jbomupli
+
 |     |       |     |     |      |
 | --- | ----- | --- | --- | ---- |
 | do  | tavla | mi  | ta  | zo'e |
+
+:::
 
 You talk to me about that thing in a language.
 
@@ -208,15 +220,15 @@ Consider the sentence
 
 ##### Example 2.16.
 
-<div class="table-scrollable">
+:::jbomupli
 
-|           |        |       |               |          |                 |
-| --------- | ------ | ----- | ------------- | -------- | --------------- |
-| mi        | \[cu\] | vecnu | ti            | ta       | zo'e            |
-| seller-x1 | -      | sells | goods-sold-x2 | buyer-x3 | price-x4        |
-| I         | -      | sell  | this          | to that  | for some price. |
+|           |        |       |               |          |                     |
+| --------- | ------ | ----- | ------------- | -------- | ------------------- |
+| mi        | \[cu\] | vecnu | ti            | ta       | zo'e                |
+| seller-x1 | -      | sells | goods-sold-x2 | buyer-x3 | price-x4            |
+| I         | -      | sell  | this          | to that  | for some $7$ price. |
 
-</div>
+:::
 
 I sell this-thing/these-things to that-buyer/those-buyers. (the price is obvious or unimportant)
 

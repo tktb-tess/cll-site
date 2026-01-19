@@ -45,7 +45,7 @@
     table {
       @apply lg:max-w-max lg:me-auto;
 
-      :where(:is(thead, tbody tr)) {
+      :where(thead, tbody tr) {
         @apply border-b-0;
       }
 
@@ -60,11 +60,6 @@
 
     li > :where(p) {
       @apply my-3;
-    }
-
-    /* toc */
-    :where(h2#table-of-contents) + ul {
-      @apply bg-violet-50 dark:bg-violet-950 border border-slate-300 dark:border-slate-600 rounded pe-3;
     }
 
     tr:where(
@@ -86,6 +81,26 @@
         content: none;
       }
     }
+
+    .jbomupli {
+      @apply grid grid-cols-auto-fit-120 gap-x-2 gap-y-8 my-8;
+
+      > div {
+        @apply min-w-0 flex flex-col gap-0.75;
+
+        &:not(:last-child) {
+          @apply border-e border-slate-300;
+        }
+
+        > p {
+          @apply min-w-0 m-0;
+        }
+
+        > p:first-child {
+          @apply italic;
+        }
+      }
+    }
   }
 }
 
@@ -99,4 +114,8 @@
 
 @utility user-select-* {
   user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
+}
+
+@utility grid-cols-auto-fit-* {
+  grid-template-columns: repeat(auto-fit, minmax(--value(integer)px, 1fr));
 }
