@@ -80,14 +80,14 @@
     }
 
     .jbomupli {
-      @apply grid grid-cols-auto-fill-[200px] gap-x-2 gap-y-8 my-8 px-3 py-1.5 bg-violet-50
+      @apply grid grid-cols-auto-fill-[140px] lg:grid-cols-auto-fill-[180px] gap-y-8 my-8 px-3 py-1.5 bg-violet-50
       border border-slate-300 rounded;
 
       > div {
         @apply flex flex-col gap-1 min-w-0 border-e border-slate-300;
 
         > p {
-          @apply min-w-0 min-h-7 m-0;
+          @apply min-w-0 min-h-7 m-0 px-2;
         }
 
         > p:first-child {
@@ -111,5 +111,9 @@
 }
 
 @utility grid-cols-auto-fill-* {
-  grid-template-columns: repeat(auto-fill, minmax(--value([*]), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(--value([*]), max-content));
+}
+
+@utility grid-cols-auto-* {
+  grid-template-columns: repeat(--value(integer), auto);
 }
