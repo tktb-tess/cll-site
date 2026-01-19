@@ -341,7 +341,9 @@ A short time ago, the man bit the dog.
 
 :::
 
-Earlier than an earlier time than now, the man bit the dog.
+|                                                             |
+| ----------------------------------------------------------- |
+| Earlier than an earlier time than now, the man bit the dog. |
 | The man had bitten the dog.                                 |
 | The man had been biting the dog.                            |
 
@@ -356,10 +358,10 @@ Earlier than an earlier time than now, the man bit the dog.
 
 :::
 
-Shortly earlier than some time later than now, the man will bite the dog.
-| Soon before then, the man will have bitten the dog.                       |
-| The man will have just bitten the dog.                                    |
-| The man will just have been biting the dog.                               |
+Shortly earlier than some time later than now, the man will bite the dog.  
+Soon before then, the man will have bitten the dog.  
+The man will have just bitten the dog.  
+The man will just have been biting the dog.
 
 What about the analogue of an initial VA without a direction? Lojban does allow an initial ZI with or without following PUs:
 
@@ -449,8 +451,8 @@ So far, we have considered only events that are usually thought of as happening 
 
 :::
 
-In a small space, the child walks on the ice.
-| The child walks about a small area of the ice. |
+In a small space, the child walks on the ice.  
+The child walks about a small area of the ice.
 
 means that her walking was done in a small area. Like the distances, the interval sizes are classified only roughly as “small, medium, large”, and are relative to the context: a small part of a room might be a large part of a table in that room.
 
@@ -482,7 +484,9 @@ Note that with no time direction word, [Example 10.24](/chapter10/#example-1024 
 
 :::
 
-For a medium time, the child walked on the ice.
+|                                                 |
+| ----------------------------------------------- |
+| For a medium time, the child walked on the ice. |
 | The child walked on the ice for a while.        |
 
 In [Example 10.25](/chapter10/#example-1025 "Example 10.25."), the relationship of the interval to the specified point in time or space is indeterminate. Does the interval start at the point, end at the point, or is it centered on the point? By adding an additional direction cmavo after the interval, this question can be conclusively answered:
@@ -530,7 +534,9 @@ means that for a short time interval extending from the past to the present I ha
 
 :::
 
-For a medium time afterward, I ate my meal.
+|                                             |
+| ------------------------------------------- |
+| For a medium time afterward, I ate my meal. |
 | I ate my meal for a while.                  |
 
 With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/chapter10/#example-1028 "Example 10.28.") becomes [Example 10.29](/chapter10/#example-1029 "Example 10.29."),
@@ -546,7 +552,9 @@ With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/ch
 
 :::
 
-For a medium time before and afterward, I ate my meal.
+|                                                        |
+| ------------------------------------------------------ |
+| For a medium time before and afterward, I ate my meal. |
 | I ate my meal for a while.                             |
 
 because the interval would then be centered on the past moment rather than oriented toward the future of that moment. The colloquial English translations are the same – English is not well-suited to representing this distinction.
@@ -1262,7 +1270,9 @@ The *[fe'e](/glossary/#fee)* marker can also be used for the same purpose before
 
 :::
 
-That is the beginning of a rock extending to my north.
+|                                                        |
+| ------------------------------------------------------ |
+| That is the beginning of a rock extending to my north. |
 | That is the south face of a rock.                      |
 
 Here the notion of a “beginning point” represented by the cmavo *[co'a](/glossary/#coa)* is transferred from “beginning in time” to “beginning in space” under the influence of the *[fe'e](/glossary/#fee)* flag. Space is not inherently oriented, unlike time, which flows from past to future: therefore, some indication of orientation is necessary, and the *ve'abe'a* provides an orientation in which the south face is the “beginning” and the north face is the “end”, since the rock extends from south (near me) to north (away from me).
@@ -1422,17 +1432,12 @@ Here is an example which mixes temporal ZAhO (as a tense) and spatial ZAhO (as a
 
 :::jbomupli
 
-|     |       |          |                  |                          |
-| --- | ----- | -------- | ---------------- | ------------------------ |
-| le  | bloti | pu       | za'o             | xelklama                 |
-| The | boat  | \[past\] | \[superfective\] | is-a-transport-mechanism |
+|     |       |          |                  |                          |           |                |     |       |
+| --- | ----- | -------- | ---------------- | ------------------------ | --------- | -------------- | --- | ----- |
+| le  | bloti | pu       | za'o             | xelklama                 | fe'e      | ba'o           | le  | lalxu |
+| The | boat  | \[past\] | \[superfective\] | is-a-transport-mechanism | \[space\] | \[perfective\] | the | lake. |
 
 :::
-
-|           |                |     |       |
-| --------- | -------------- | --- | ----- |
-| fe'e      | ba'o           | le  | lalxu |
-| \[space\] | \[perfective\] | the | lake. |
 
 The boat sailed for too long and beyond the lake.
 
@@ -1459,17 +1464,12 @@ Be careful not to confuse a tense used as a sumti tcita with a tense used within
 
 :::jbomupli
 
-|                     |       |     |       |
-| ------------------- | ----- | --- | ----- |
-| loi                 | snime | cu  | carvi |
-| Some-of-the-mass-of | snow  |     | rains |
+|                     |       |     |       |                        |     |             |         |
+| ------------------- | ----- | --- | ----- | ---------------------- | --- | ----------- | ------- |
+| loi                 | snime | cu  | carvi | ze'u                   | le  | ca          | dunra   |
+| Some-of-the-mass-of | snow  |     | rains | \[long-time-interval\] | the | \[present\] | winter. |
 
 :::
-
-|                        |     |             |         |
-| ---------------------- | --- | ----------- | ------- |
-| ze'u                   | le  | ca          | dunra   |
-| \[long-time-interval\] | the | \[present\] | winter. |
 
 Snow falls during this winter.
 
@@ -1506,17 +1506,12 @@ To make a tense sticky, suffix *[ki](/glossary/#ki)* to it:
 
 :::jbomupli
 
-|     |                 |       |     |         |
-| --- | --------------- | ----- | --- | ------- |
-| mi  | puki            | klama | le  | zarci   |
-| I   | \[past-sticky\] | go-to | the | market. |
+|     |                 |       |     |         |     |     |       |     |       |     |       |
+| --- | --------------- | ----- | --- | ------- | --- | --- | ----- | --- | ----- | --- | ----- |
+| mi  | puki            | klama | le  | zarci   | .i  | le  | nanmu | cu  | batci | le  | gerku |
+| I   | \[past-sticky\] | go-to | the | market. |     | The | man   |     | bites | the | dog.  |
 
 :::
-
-|     |     |       |     |       |     |       |
-| --- | --- | ----- | --- | ----- | --- | ----- |
-| .i  | le  | nanmu | cu  | batci | le  | gerku |
-|     | The | man   |     | bites | the | dog.  |
 
 I went to the market. The man bit the dog.
 
@@ -1530,17 +1525,12 @@ What if the second sentence has a tense anyway?
 
 :::jbomupli
 
-|     |                 |       |     |         |
-| --- | --------------- | ----- | --- | ------- |
-| mi  | puki            | klama | le  | zarci   |
-| I   | \[past-sticky\] | go-to | the | market. |
+|     |                 |       |     |         |     |     |       |          |       |     |       |
+| --- | --------------- | ----- | --- | ------- | --- | --- | ----- | -------- | ----- | --- | ----- |
+| mi  | puki            | klama | le  | zarci   | .i  | le  | nanmu | pu       | batci | le  | gerku |
+| I   | \[past-sticky\] | go-to | the | market. |     | The | man   | \[past\] | bites | the | dog.  |
 
 :::
-
-|     |     |       |          |       |     |       |
-| --- | --- | ----- | -------- | ----- | --- | ----- |
-| .i  | le  | nanmu | pu       | batci | le  | gerku |
-|     | The | man   | \[past\] | bites | the | dog.  |
 
 Here the second *[pu](/glossary/#pu)* does not replace the sticky tense, but adds to it, in the sense that the starting point of its imaginary journey is taken to be the previously set sticky time. So the translation of [Example 10.83](/chapter10/#example-1083 "Example 10.83.") is:
 
@@ -1632,17 +1622,12 @@ But why bother to allow multiple tense constructs at all? They specify separate 
 
 :::jbomupli
 
-|          |            |     |     |            |       |     |         |
-| -------- | ---------- | --- | --- | ---------- | ----- | --- | ------- |
-| pu       | ki         | ku  | mi  | ba         | klama | le  | zarci   |
-| \[past\] | \[sticky\] |     | I   | \[future\] | go-to | the | market. |
+|          |            |     |     |            |       |     |         |     |     |       |     |       |     |       |
+| -------- | ---------- | --- | --- | ---------- | ----- | --- | ------- | --- | --- | ----- | --- | ----- | --- | ----- |
+| pu       | ki         | ku  | mi  | ba         | klama | le  | zarci   | .i  | le  | nanmu | cu  | batci | le  | gerku |
+| \[past\] | \[sticky\] |     | I   | \[future\] | go-to | the | market. |     | The | man   |     | bites | the | dog.  |
 
 :::
-
-|     |     |       |     |       |     |       |
-| --- | --- | ----- | --- | ----- | --- | ----- |
-| .i  | le  | nanmu | cu  | batci | le  | gerku |
-|     | The | man   |     | bites | the | dog.  |
 
 What is the implied tense of the second sentence? Not *[puba](/glossary/#puba)*, but only *[pu](/glossary/#pu)*, since only *[pu](/glossary/#pu)* was made sticky with *[ki](/glossary/#ki)*. So the translation is:
 
@@ -1698,17 +1683,12 @@ The following mini-story illustrates the important features of story time. A sen
 
 :::jbomupli
 
-|          |          |            |      |            |            |     |       |
-| -------- | -------- | ---------- | ---- | ---------- | ---------- | --- | ----- |
-| pu       | zu       | ki         | ku   | ne'i       | ki         | le  | kevna |
-| \[past\] | \[long\] | \[sticky\] | \[,] | \[inside\] | \[sticky\] | the | cave, |
+|          |          |            |      |            |            |     |       |     |       |            |       |        |     |       |
+| -------- | -------- | ---------- | ---- | ---------- | ---------- | --- | ----- | --- | ----- | ---------- | ----- | ------ | --- | ----- |
+| pu       | zu       | ki         | ku   | ne'i       | ki         | le  | kevna | le  | ninmu | goi        | ko'a  | zutse  | le  | rokci |
+| \[past\] | \[long\] | \[sticky\] | \[,] | \[inside\] | \[sticky\] | the | cave, | the | woman | defined-as | she-1 | sat-on | the | rock  |
 
 :::
-
-|     |       |            |       |        |     |       |
-| --- | ----- | ---------- | ----- | ------ | --- | ----- |
-| le  | ninmu | goi        | ko'a  | zutse  | le  | rokci |
-| the | woman | defined-as | she-1 | sat-on | the | rock  |
 
 Long ago, in a cave, a woman sat on a rock.
 
@@ -1755,17 +1735,12 @@ The meat was pleasantly warm.
 
 :::jbomupli
 
-|     |     |       |            |      |
-| --- | --- | ----- | ---------- | ---- |
-| .i  | le  | labno | goi        | ko'e |
-|     | The | wolf  | defined-as | it-2 |
+|     |     |       |            |      |            |            |            |        |       |        |       |
+| --- | --- | ----- | ---------- | ---- | ---------- | ---------- | ---------- | ------ | ----- | ------ | ----- |
+| .i  | le  | labno | goi        | ko'e | ba         | za         | ki         | nenri  | klama | le     | kevna |
+|     | The | wolf  | defined-as | it-2 | \[future\] | \[medium\] | \[sticky\] | within | came  | to-the | cave. |
 
 :::
-
-|            |            |            |        |       |        |       |
-| ---------- | ---------- | ---------- | ------ | ----- | ------ | ----- |
-| ba         | za         | ki         | nenri  | klama | le     | kevna |
-| \[future\] | \[medium\] | \[sticky\] | within | came  | to-the | cave. |
 
 A while later, a wolf came into the cave.
 
@@ -2517,7 +2492,9 @@ Under some epistemologies, innate capability can be extended in order to apply t
 
 :::
 
-John is innately capable of seeing.
+|                                     |
+| ----------------------------------- |
+| John is innately capable of seeing. |
 | John can see.                       |
 
 might be true about a human being named John, even though he has been blind since birth, because the ability to see is innately built into his nature as a human being. It is theoretically possible that conditions might occur that would enable John to see (a great medical discovery, for example). On the other hand,
@@ -2550,7 +2527,9 @@ Consider once again the newly hatched ducks mentioned earlier. They have the pot
 
 :::
 
-All infant ducks have an undemonstrated potential for swimming by floating.
+|                                                                             |
+| --------------------------------------------------------------------------- |
+| All infant ducks have an undemonstrated potential for swimming by floating. |
 | Baby ducks can swim but haven't yet.                                        |
 
 Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is appropriate:
@@ -2566,7 +2545,9 @@ Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is
 
 :::
 
-Frank has demonstrated a potential for seeing.
+|                                                |
+| ---------------------------------------------- |
+| Frank has demonstrated a potential for seeing. |
 | Frank can see and has seen.                    |
 
 Note that the glosses given at the beginning of this section for *[ca'a](/glossary/#caa)*, *[nu'o](/glossary/#nuo)*, and *[pu'i](/glossary/#pui)* incorporate *[ca](/glossary/#ca)* into their meaning, and are really correct for *ca ca'a*, *ca nu'o*, and *ca pu'i*. However, the CAhA cmavo are perfectly meaningful with other tenses than the present:
@@ -2638,7 +2619,9 @@ and
 
 :::
 
-That is capable of burning.
+|                             |
+| --------------------------- |
+| That is capable of burning. |
 | That is inflammable.        |
 
 When no indication is given, as in the simple observative
@@ -2888,19 +2871,19 @@ In [Example 10.165](/chapter10/#example-10165 "Example 10.165."), the constructi
 
 ##### Example 10.166.
 
-fa mi cu klama fe le zarci
+*fa mi cu klama fe le zarci*
 
 means the same as
 
 ##### Example 10.167.
 
-fe le zarci cu klama fa mi
+*fe le zarci cu klama fa mi*
 
 as well as the simple
 
 ##### Example 10.168.
 
-mi cu klama le zarci
+*mi cu klama le zarci*
 
 in which the place structure is determined by position.)
 
@@ -2932,8 +2915,8 @@ Of course, temporal tenses are also usable with JAI:
 
 :::
 
-I know the time of John's death.
-| I know when John died.           |
+I know the time of John's death.  
+I know when John died.
 
 ## 10.23. Tenses versus modals
 
@@ -2975,17 +2958,12 @@ places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/#balvi)
 
 :::jbomupli
 
-|     |          |     |       |     |     |           |     |          |
-| --- | -------- | --- | ----- | --- | --- | --------- | --- | -------- |
-| le  | nu       | do  | nelci | mi  | cu  | mukti     | le  | nu       |
-| The | event-of | you | like  | me  |     | motivates | the | event-of |
+|     |          |     |       |     |     |           |     |          |     |       |      |
+| --- | -------- | --- | ----- | --- | --- | --------- | --- | -------- | --- | ----- | ---- |
+| le  | nu       | do  | nelci | mi  | cu  | mukti     | le  | nu       | mi  | nelci | do   |
+| The | event-of | you | like  | me  |     | motivates | the | event-of | I   | like  | you. |
 
 :::
-
-|     |       |      |
-| --- | ----- | ---- |
-| mi  | nelci | do   |
-| I   | like  | you. |
 
 Your liking me is the motive for my liking you.
 
@@ -2995,17 +2973,12 @@ and
 
 :::jbomupli
 
-|     |          |     |       |     |     |          |     |          |
-| --- | -------- | --- | ----- | --- | --- | -------- | --- | -------- |
-| le  | nu       | mi  | nelci | do  | cu  | balvi    | le  | nu       |
-| The | event-of | I   | like  | you |     | is-after | the | event-of |
+|     |          |     |       |     |     |          |     |          |     |       |     |
+| --- | -------- | --- | ----- | --- | --- | -------- | --- | -------- | --- | ----- | --- |
+| le  | nu       | mi  | nelci | do  | cu  | balvi    | le  | nu       | do  | nelci | mi  |
+| The | event-of | I   | like  | you |     | is-after | the | event-of | you | like  | me. |
 
 :::
-
-|     |       |     |
-| --- | ----- | --- |
-| do  | nelci | mi  |
-| you | like  | me. |
 
 My liking you follows (in time) your liking me.
 
@@ -3067,13 +3040,17 @@ respectively.
 
 The following modal sentence schemata (where X and Y represent sentences) all have the same meaning:
 
-X .i BAI bo Y
+|               |
+| ------------- |
+| X .i BAI bo Y |
 | BAI gi Y gi X |
 | X BAI le nu Y |
 
 whereas the following tensed sentence schemata also have the same meaning:
 
-X .i TENSE bo Y
+|                 |
+| --------------- |
+| X .i TENSE bo Y |
 | TENSE gi X gi Y |
 | Y TENSE le nu X |
 
@@ -3136,14 +3113,18 @@ Possible answers to [Example 10.181](/chapter10/#example-10181 "Example 10.181."
 
 ##### Example 10.182.
 
-va
+|                   |
+| ----------------- |
+| va                |
 | \[medium-space\]. |
 
 Some ways from here.
 
 ##### Example 10.183.
 
-puzu
+|                         |
+| ----------------------- |
+| puzu                    |
 | \[past\]-\[long-time\]. |
 
 A long time ago.
@@ -3163,7 +3144,9 @@ On the moon.
 
 ##### Example 10.185.
 
-pu'o
+|                |
+| -------------- |
+| pu'o           |
 | \[inchoative\] |
 
 He hasn't yet done so.
@@ -3221,17 +3204,12 @@ It is a limitation of the VA and ZI system of specifying magnitudes that they ca
 
 :::jbomupli
 
-|            |        |        |          |                   |     |         |
-| ---------- | ------ | ------ | -------- | ----------------- | --- | ------- |
-| la         | frank. | sanli  | zu'a     | nu'i              | la  | djordj. |
-| That-named | Frank  | stands | \[left\] | \[start-termset\] |     | George  |
+|            |        |        |          |                   |     |         |              |     |                           |     |            |     |                  |
+| ---------- | ------ | ------ | -------- | ----------------- | --- | ------- | ------------ | --- | ------------------------- | --- | ---------- | --- | ---------------- |
+| la         | frank. | sanli  | zu'a     | nu'i              | la  | djordj. | la'u         | lo  | mitre                     | be  | li         | mu  | \[nu'u\]         |
+| That-named | Frank  | stands | \[left\] | \[start-termset\] |     | George  | \[quantity\] | a   | thing-measuring-in-meters |     | the-number | 5   | \[end-termset\]. |
 
 :::
-
-|              |     |                           |     |            |     |                  |
-| ------------ | --- | ------------------------- | --- | ---------- | --- | ---------------- |
-| la'u         | lo  | mitre                     | be  | li         | mu  | \[nu'u\]         |
-| \[quantity\] | a   | thing-measuring-in-meters |     | the-number | 5   | \[end-termset\]. |
 
 Frank is standing five meters to the left of George.
 
@@ -3243,17 +3221,12 @@ It is not necessary to have both an origin point and an explicit magnitude: a te
 
 :::jbomupli
 
-|            |        |        |          |             |              |
-| ---------- | ------ | ------ | -------- | ----------- | ------------ |
-| la         | frank. | sanli  | zu'a     | nu'i        | la'u         |
-| That-named | Frank  | stands | \[left\] | \[termset\] | \[quantity\] |
+|            |        |        |          |             |              |     |                           |     |            |     |
+| ---------- | ------ | ------ | -------- | ----------- | ------------ | --- | ------------------------- | --- | ---------- | --- |
+| la         | frank. | sanli  | zu'a     | nu'i        | la'u         | lo  | mitre                     | be  | li         | mu  |
+| That-named | Frank  | stands | \[left\] | \[termset\] | \[quantity\] | a   | thing-measuring-in-meters |     | the-number | 5.  |
 
 :::
-
-|     |                           |     |            |     |
-| --- | ------------------------- | --- | ---------- | --- |
-| lo  | mitre                     | be  | li         | mu  |
-| a   | thing-measuring-in-meters |     | the-number | 5.  |
 
 Frank stands five meters to the left.
 
@@ -3261,7 +3234,7 @@ Frank stands five meters to the left.
 
 ##### Example 10.191.
 
-.a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste
+- *.a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste*
 
 ##### PU
 
@@ -3298,15 +3271,15 @@ temporal interval
 
 objective quantified tense flag
 
-|          |                 |
-| -------- | --------------- |
-| noroi    | never           |
-| paroi    | once            |
-| \[N]roi  | \[N] times      |
-| roroi    | always          |
-| pare'u   | the first time  |
-| rere'u   | the second time |
-| \[N]re'u | the \[N]th time |
+|           |                  |
+| --------- | ---------------- |
+| noroi     | never            |
+| paroi     | once             |
+| \[N\]roi  | \[N\] times      |
+| roroi     | always           |
+| pare'u    | the first time   |
+| rere'u    | the second time  |
+| \[N\]re'u | the \[N\]th time |
 
 ##### TAhE
 

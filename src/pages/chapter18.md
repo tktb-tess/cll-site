@@ -49,7 +49,7 @@ The simplest kind of mekso are numbers, which are cmavo or compound cmavo. There
 
 :::
 
-123
+$123$
 
 one hundred and twenty three
 
@@ -64,7 +64,7 @@ one hundred and twenty three
 
 :::
 
-10
+$10$
 
 ten
 
@@ -79,7 +79,7 @@ ten
 
 :::
 
-1234567890
+$1234567890$
 
 one billion, two hundred and thirty-four million, five hundred and sixty-seven thousand, eight hundred and ninety.
 
@@ -114,7 +114,7 @@ A number can be given an explicit sign by the use of *[ma'u](/glossary/#mau)* an
 
 :::
 
-\-1
+$-1$
 
 Grammatically, the signs are part of the number to which they are attached. It is also possible to use *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)* by themselves as numbers; the meaning of these numbers is explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers").
 
@@ -131,7 +131,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 
 :::
 
-3.1415
+$3.1415$
 
 (In some cultures, a comma is used instead of a period in the symbolic version of [Example 18.6](/chapter18/#example-186 "Example 18.6."); *[pi](/glossary/#pi)* is still the Lojban representation for the decimal point.)
 
@@ -146,7 +146,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 
 :::
 
-- $\frac{2}{7}$
+$\dfrac{2}{7}$
 
 [Example 18.7](/chapter18/#example-187 "Example 18.7.") is the name of the number two-sevenths; it is not the same as “the result of 2 divided by 7” in Lojban, although numerically these two are equal. If the denominator of the fraction is present but the numerator is not, the numerator is taken to be 1, thus expressing the reciprocal of the following number:
 
@@ -161,7 +161,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 
 :::
 
-- $\frac{1}{7}$
+$\dfrac{1}{7}$
 
 ##### Example 18.9.
 
@@ -174,7 +174,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 
 :::
 
-.35142857142857...
+$.35142857142857...$
 
 Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating portion “142857” begins.
 
@@ -189,7 +189,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 
 :::
 
-35%
+$35%$
 
 ##### Example 18.11.
 
@@ -202,7 +202,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 
 :::
 
-1,234,567
+$1,234,567$
 
 (In some cultures, spaces are used in the symbolic representation of [Example 18.11](/chapter18/#example-1811 "Example 18.11."); *[ki'o](/glossary/#kio)* is still the Lojban representation.)
 
@@ -220,7 +220,7 @@ It is also possible to have less than three digits between successive *[ki'o](/g
 
 :::
 
-1,023,004
+$1,023,004$
 
 In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)* to divide fractions into groups of three:
 
@@ -235,7 +235,7 @@ In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)
 
 :::
 
-.022
+$.022$
 
 ##### Example 18.14.
 
@@ -248,7 +248,7 @@ In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)
 
 :::
 
-.001012001
+$.001012001$
 
 ## 18.4. Special numbers
 
@@ -288,9 +288,9 @@ $+\infty$
 
 :::
 
-3i2 (a complex number equivalent to 3 + 2i)
+3i2 (a complex number equivalent to $3 + 2i$)
 
-Note that *[ka'o](/glossary/#kao)* is both a special number (meaning “i”) and a number punctuation mark (separating the real and the imaginary parts of a complex number).
+Note that *[ka'o](/glossary/#kao)* is both a special number (meaning $i$) and a number punctuation mark (separating the real and the imaginary parts of a complex number).
 
 ##### Example 18.17.
 
@@ -302,8 +302,8 @@ Note that *[ka'o](/glossary/#kao)* is both a special number (meaning “i”) an
 
 :::
 
-infinity zero
-| $\aleph_0$ (a transfinite cardinal) |
+infinity zero  
+$\aleph_0$ (a transfinite cardinal)
 
 The special numbers *[pai](/glossary/#pai)* and *[te'o](/glossary/#teo)* are mathematically important, which is why they are given their own cmavo:
 
@@ -331,7 +331,7 @@ However, many combinations are as yet undefined:
 
 :::
 
-1.2.3
+$1.2.3$
 
 ##### Example 18.21.
 
@@ -361,7 +361,7 @@ The following cmavo are discussed in this section:
 | vu'u | VUhU | minus               |
 | pi'i | VUhU | times               |
 | te'a | VUhU | raised to the power |
-| ny.  | BY   | letter “n”          |
+| ny.  | BY   | letter $n$          |
 | vei  | VEI  | left parenthesis    |
 | ve'o | VEhO | right parenthesis   |
 
@@ -375,7 +375,8 @@ Let us begin at the beginning: one plus one equals two. In Lojban, that sentence
 | ---------- | --- | ---- | --- | ------ | ---------- | ---- |
 | li         | pa  | su'i | pa  | du     | li         | re   |
 | The-number | one | plus | one | equals | the-number | two. |
-| 1 + 1 = 2  |     |      |     |        |            |      |
+
+$1 + 1 = 2$
 
 :::
 
@@ -442,7 +443,8 @@ The cmavo *[su'i](/glossary/#sui)* belongs to selma'o VUhU, which is composed of
 | ------------- | --- | ------ | ---------- | ----- |
 | ni'u          | pa  | du     | li         | no    |
 | negative-sign | one | equals | the-number | zero. |
-| +1 + -1 = 0   |     |        |            |       |
+
+${+1} + {-1} = 0$
 
 Of course, it is legal to have complex mekso on both sides of *[du](/glossary/#du)*:
 
@@ -450,11 +452,12 @@ Of course, it is legal to have complex mekso on both sides of *[du](/glossary/#d
 
 :::jbomupli
 
-|               |      |      |     |        |            |       |      |        |
-| ------------- | ---- | ---- | --- | ------ | ---------- | ----- | ---- | ------ |
-| li            | mu   | su'i | pa  | du     | li         | ci    | su'i | ci     |
-| The-number    | five | plus | one | equals | the-number | three | plus | three. |
-| 5 + 1 = 3 + 3 |      |      |     |        |            |       |      |        |
+|            |      |      |     |        |            |       |      |        |
+| ---------- | ---- | ---- | --- | ------ | ---------- | ----- | ---- | ------ |
+| li         | mu   | su'i | pa  | du     | li         | ci    | su'i | ci     |
+| The-number | five | plus | one | equals | the-number | three | plus | three. |
+
+$5 + 1 = 3 + 3$
 
 :::
 
@@ -466,11 +469,12 @@ By default, Lojban mathematics is like simple calculator mathematics: there is n
 
 :::jbomupli
 
-|                     |       |      |      |       |      |        |            |            |
-| ------------------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ---------- |
-| li                  | ci    | su'i | vo   | pi'i  | mu   | du     | li         | reci       |
-| The-number          | three | plus | four | times | five | equals | the-number | two-three. |
-| 3 + 4 \times 5 = 23 |       |      |      |       |      |        |            |            |
+|            |       |      |      |       |      |        |            |            |
+| ---------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ---------- |
+| li         | ci    | su'i | vo   | pi'i  | mu   | du     | li         | reci       |
+| The-number | three | plus | four | times | five | equals | the-number | two-three. |
+
+$3 + 4 \times 5 = 23$
 
 :::
 
@@ -480,11 +484,12 @@ Is the Lojban version of [Example 18.28](/chapter18/#example-1828 "Example 18.28
 
 :::jbomupli
 
-|                     |       |      |      |       |      |        |            |             |
-| ------------------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ----------- |
-| li                  | ci    | su'i | vo   | pi'i  | mu   | du     | li         | cimu        |
-| The-number          | three | plus | four | times | five | equals | the-number | three-five. |
-| 3 + 4 \times 5 = 35 |       |      |      |       |      |        |            |             |
+|            |       |      |      |       |      |        |            |             |
+| ---------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ----------- |
+| li         | ci    | su'i | vo   | pi'i  | mu   | du     | li         | cimu        |
+| The-number | three | plus | four | times | five | equals | the-number | three-five. |
+
+$3 + 4 \times 5 = 35$
 
 :::
 
@@ -502,11 +507,12 @@ The third solution is simple but not very general. When an operator is prefixed 
 
 :::jbomupli
 
-|                     |       |      |      |       |      |        |            |            |      |
-| ------------------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ---------- | ---- |
-| li                  | ci    | su'i | vo   | bi'e  | pi'i | mu     | du         | li         | reci |
-| The-number          | three | plus | four | times | five | equals | the-number | two-three. |      |
-| 3 + 4 \times 5 = 23 |       |      |      |       |      |        |            |            |      |
+|            |       |      |      |       |      |        |            |            |      |
+| ---------- | ----- | ---- | ---- | ----- | ---- | ------ | ---------- | ---------- | ---- |
+| li         | ci    | su'i | vo   | bi'e  | pi'i | mu     | du         | li         | reci |
+| The-number | three | plus | four | times | five | equals | the-number | two-three. |      |
+
+$3 + 4 \times 5 = 23$
 
 :::
 
@@ -521,7 +527,7 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 |            |     |     |      |     |      |       |     |     |      |     |          |
 | ---------- | --- | --- | ---- | --- | ---- | ----- | --- | --- | ---- | --- | -------- |
 | li         | vei | ny. | su'i | pa  | ve'o | pi'i  | vei | ny. | su'i | pa  | \[ve'o\] |
-| The-number | (   | `n` | plus | one | )    | times | (   | `n` | plus | one | )        |
+| The-number | (   | $n$ | plus | one | )    | times | (   | $n$ | plus | one | )        |
 
 :::
 
@@ -533,11 +539,11 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 |      |     |      |       |     |      |     |
 | ---- | --- | ---- | ----- | --- | ---- | --- |
 | su'i | re  | bi'e | pi'i  | ny. | su'i | pa  |
-| plus | two |      | times | `n` | plus | 1.  |
+| plus | two |      | times | $n$ | plus | 1.  |
 
 $(n+1)(n+1) = n^{2} + 2n + 1$
 
-There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/#tea)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/#ny)*, representing the letter “n”. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a \times b \times c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
+There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/#tea)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/#ny)*, representing the letter $n$. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a \times b \times c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
 
 The explicit operator *[pi'i](/glossary/#pii)* is required in the Lojban verbal form whereas multiplication is implicit in the symbolic form. Note that *[ve'o](/glossary/#veo)* (the right parenthesis) is an elidable terminator: the first use of it in [Example 18.31](/chapter18/#example-1831 "Example 18.31.") is required, but the second use (marked by square brackets) could be elided. Additionally, the first *[bi'e](/glossary/#bie)* (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
 
@@ -552,10 +558,10 @@ The following cmavo are discussed in this section:
 | pe'o | PEhO | forethought flag                |
 | ku'e | KUhE | forethought terminator          |
 | ma'o | MAhO | convert operand to operator     |
-| py.  | BY   | letter “p”                      |
+| py.  | BY   | letter $p$                      |
 | xy.  | BY   | letter $x$                      |
-| zy.  | BY   | letter “z”                      |
-| fy.  | BY   | letter “f”                      |
+| zy.  | BY   | letter $z$                      |
+| fy.  | BY   | letter $f$                      |
 
 The infix form explained so far is reasonable for many purposes, but it is limited and rigid. It works smoothly only where all operators have exactly two operands, and where precedences can either be assumed from context or are limited to just two levels, with some help from parentheses.
 
@@ -585,7 +591,7 @@ Forethought mekso can use any number of operands, in [Example 18.32](/chapter18/
 |            |     |      |              |     |      |      |     |        |
 | ---------- | --- | ---- | ------------ | --- | ---- | ---- | --- | ------ |
 | li         | py. | su'i | va'a         | ny. | ku'e | su'i | zy  | du     |
-| The-number | “p” | plus | negative-of( | “n” | )    | plus | “z” | equals |
+| The-number | $p$ | plus | negative-of( | $n$ | )    | plus | $z$ | equals |
 
 :::
 
@@ -674,7 +680,7 @@ Note the difference between *[dunli](/glossary/#dunli)* and *[du](/glossary/#du)
 |           |                 |        |     |
 | --------- | --------------- | ------ | --- |
 | py.       | du              | xy.boi | zy. |
-| “p”       | is-identical-to | $x$    | “z” |
+| $p$       | is-identical-to | $x$    | $z$ |
 | p = x = z |                 |        |     |
 
 :::
@@ -1882,7 +1888,7 @@ The following cmavo is discussed in this section:
 | ---- | ---- | ------------------- |
 | fu'a | FUhA | reverse Polish flag |
 
-So far, the Lojban notational conventions have mapped fairly familiar kinds of mathematical discourse. The use of forethought operators may have seemed odd when applied to “+”, but when applied to “f” they appear as the usual functional notation. Now comes a sharp break. Reverse Polish (RP) notation represents something completely different; even mathematicians don't use it much. (The only common uses of RP, in fact, are in some kinds of calculators and in the implementation of some programming languages.)
+So far, the Lojban notational conventions have mapped fairly familiar kinds of mathematical discourse. The use of forethought operators may have seemed odd when applied to “+”, but when applied to $f$ they appear as the usual functional notation. Now comes a sharp break. Reverse Polish (RP) notation represents something completely different; even mathematicians don't use it much. (The only common uses of RP, in fact, are in some kinds of calculators and in the implementation of some programming languages.)
 
 In RP notation, the operator follows the operands. (Polish notation, where the operator precedes its operands, is another name for forethought mekso of the kind explained in [Section 18.6](/chapter18/#186-forethought-operators-polish-notation-functions "18.6. Forethought operators (Polish notation, functions)").) The number of operands per operator is always fixed. No parentheses are required or permitted. In Lojban, RP notation is always explicitly marked by a *[fu'a](/glossary/#fua)* at the beginning of the expression; there is no terminator. Here is a simple example:
 
@@ -1922,17 +1928,12 @@ In Lojban, RP operators are always parsed with exactly two operands. What about 
 
 :::jbomupli
 
-|            |       |         |       |        |
-| ---------- | ----- | ------- | ----- | ------ |
-| li         | fu'a  | ciboi   | muboi | vu'u   |
-| The-number | (RP!) | (three, | five, | minus) |
+|            |       |         |       |        |        |            |       |       |       |              |
+| ---------- | ----- | ------- | ----- | ------ | ------ | ---------- | ----- | ----- | ----- | ------------ |
+| li         | fu'a  | ciboi   | muboi | vu'u   | du     | li         | fu'a  | reboi | tu'o  | va'a         |
+| The-number | (RP!) | (three, | five, | minus) | equals | the-number | (RP!) | two,  | null, | negative-of. |
 
 :::
-
-|        |            |       |       |       |              |
-| ------ | ---------- | ----- | ----- | ----- | ------------ |
-| du     | li         | fu'a  | reboi | tu'o  | va'a         |
-| equals | the-number | (RP!) | two,  | null, | negative-of. |
 
 $3 - 5 = {-2}$
 
@@ -1999,17 +2000,12 @@ By the way, *[li](/glossary/#li)* has an elidable terminator, *[lo'o](/glossary/
 
 :::jbomupli
 
-|            |     |      |     |        |
-| ---------- | --- | ---- | --- | ------ |
-| li         | re  | su'i | re  | du     |
-| The-number | two | plus | two | equals |
+|            |     |      |     |        |            |      |      |         |     |             |         |
+| ---------- | --- | ---- | --- | ------ | ---------- | ---- | ---- | ------- | --- | ----------- | ------- |
+| li         | re  | su'i | re  | du     | li         | vo   | lo'o | .onai   | lo  | nalseldjuno | namcu   |
+| The-number | two | plus | two | equals | the-number | four |      | or-else | a   | non-known   | number. |
 
 :::
-
-|            |      |      |         |     |             |         |
-| ---------- | ---- | ---- | ------- | --- | ----------- | ------- |
-| li         | vo   | lo'o | .onai   | lo  | nalseldjuno | namcu   |
-| the-number | four |      | or-else | a   | non-known   | number. |
 
 Omitting the *[lo'o](/glossary/#loo)* would cause the parser to assume that another operand followed the *[.onai](/glossary/#onai)* and reject *[lo](/glossary/#lo)* as an invalid operand.
 
@@ -2049,37 +2045,12 @@ Here is a classic example of operand logical connection:
 
 :::jbomupli
 
-|                |            |      |          |     |     |       |     |      |      |
-| -------------- | ---------- | ---- | -------- | --- | --- | ----- | --- | ---- | ---- |
-| go             | li         | .abu | bi'epi'i | vei | xy. | te'a  | re  | ve'o | su'i |
-| If-and-only-if | the-number | $a$  | times    | (   | $x$ | power | two | )    | plus |
+|                |            |      |          |     |     |       |     |      |      |     |          |     |      |     |        |            |      |      |            |     |        |            |     |                  |     |      |      |     |       |             |     |     |          |     |       |      |          |      |          |     |      |          |      |            |     |          |      |
+| -------------- | ---------- | ---- | -------- | --- | --- | ----- | --- | ---- | ---- | --- | -------- | --- | ---- | --- | ------ | ---------- | ---- | ---- | ---------- | --- | ------ | ---------- | --- | ---------------- | --- | ---- | ---- | --- | ----- | ----------- | --- | --- | -------- | --- | ----- | ---- | -------- | ---- | -------- | --- | ---- | -------- | ---- | ---------- | --- | -------- | ---- |
+| go             | li         | .abu | bi'epi'i | vei | xy. | te'a  | re  | ve'o | su'i | by. | bi'epi'i | xy. | su'i | cy. | du     | li         | no   | gi   | li         | xy. | du     | li         | vei | va'a             | by. | ku'e | su'i | ja  | vu'u  | fe'a        | vei | by. | bi'ete'a | re  | vu'u  | vo   | bi'epi'i | .abu | bi'epi'i | cy. | ve'o | \[ku'e\] | ve'o | fe'i       | re  | bi'epi'i | .abu |
+| If-and-only-if | the-number | $a$  | times    | (   | $x$ | power | two | )    | plus | $b$ | times    | $x$ | plus | $c$ | equals | the-number | zero | then | the-number | $x$ | equals | the-number | \[  | the-negation-of( | $b$ | )    | plus | or  | minus | the-root-of | (   | $b$ | power    | $2$ | minus | four | times    | $a$  | times    | $c$ | )    |          | ]    | divided-by | two | times    | $a$  |
 
 :::
-
-|     |          |     |      |     |        |            |      |
-| --- | -------- | --- | ---- | --- | ------ | ---------- | ---- |
-| by. | bi'epi'i | xy. | su'i | cy. | du     | li         | no   |
-| $b$ | times    | $x$ | plus | $c$ | equals | the-number | zero |
-
-|      |            |     |        |            |     |                  |     |      |
-| ---- | ---------- | --- | ------ | ---------- | --- | ---------------- | --- | ---- |
-| gi   | li         | xy. | du     | li         | vei | va'a             | by. | ku'e |
-| then | the-number | $x$ | equals | the-number | \[  | the-negation-of( | $b$ | )    |
-
-|      |     |       |             |
-| ---- | --- | ----- | ----------- |
-| su'i | ja  | vu'u  | fe'a        |
-| plus | or  | minus | the-root-of |
-
-|     |     |          |     |       |      |          |      |          |     |
-| --- | --- | -------- | --- | ----- | ---- | -------- | ---- | -------- | --- |
-| vei | by. | bi'ete'a | re  | vu'u  | vo   | bi'epi'i | .abu | bi'epi'i | cy. |
-| (   | $b$ | power    | $2$ | minus | four | times    | $a$  | times    | $c$ |
-
-|      |          |      |            |     |          |      |
-| ---- | -------- | ---- | ---------- | --- | -------- | ---- |
-| ve'o | \[ku'e\] | ve'o | fe'i       | re  | bi'epi'i | .abu |
-| )    |          | ]    | divided-by | two | times    | $a$  |
 
 Iff $ax^{2} + bx + c = 0$, then $x = \dfrac{-b\plusmn \sqrt{b^{2} - 4ac}}{2a}$
 
@@ -2139,7 +2110,7 @@ You can also combine two operands with *[ce'o](/glossary/#ceo)*, the sequence co
 |      |     |     |     |          |     |          |
 | ---- | --- | --- | --- | -------- | --- | -------- |
 | xy.  | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
-| $x$  | sub | (   | $b$ | sequence | “d” | )        |
+| $x$  | sub | (   | $b$ | sequence | $d$ | )        |
 | xb,d |     |     |     |          |     |          |
 
 :::
@@ -2170,10 +2141,10 @@ The cmavo *[na'u](/glossary/#nau)* makes a selbri into an operator. In general, 
 
 :::
 
-|     |     |      |     |          |     |            |           |
-| --- | --- | ---- | --- | -------- | --- | ---------- | --------- |
-| vei | pai | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
-| (   | π   | /    | 2   | )        | =   | the-number | infinity. |
+|     |       |      |     |          |     |            |           |
+| --- | ----- | ---- | --- | -------- | --- | ---------- | --------- |
+| vei | pai   | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
+| (   | $\pi$ | /    | 2   | )        | =   | the-number | infinity. |
 
 $\tan{\dfrac{\pi}{2}} = \infty$
 
@@ -2185,28 +2156,14 @@ The cmavo *[ni'e](/glossary/#nie)* makes a selbri into an operand. The x1 place 
 
 :::jbomupli
 
-|            |      |             |        |          |
-| ---------- | ---- | ----------- | ------ | -------- |
-| li         | ni'e | ni          | clani  | \[te'u\] |
-| The-number |      | quantity-of | length |          |
+|            |      |             |        |          |       |      |             |       |          |       |      |             |       |      |        |            |      |             |         |
+| ---------- | ---- | ----------- | ------ | -------- | ----- | ---- | ----------- | ----- | -------- | ----- | ---- | ----------- | ----- | ---- | ------ | ---------- | ---- | ----------- | ------- |
+| li         | ni'e | ni          | clani  | \[te'u\] | pi'i  | ni'e | ni          | ganra | \[te'u\] | pi'i  | ni'e | ni          | condi | te'u | du     | li         | ni'e | ni          | canlu   |
+| The-number |      | quantity-of | length |          | times |      | quantity-of | width |          | times |      | quantity-of | depth |      | equals | the-number |      | quantity-of | volume. |
 
 :::
 
-|       |      |             |       |          |
-| ----- | ---- | ----------- | ----- | -------- |
-| pi'i  | ni'e | ni          | ganra | \[te'u\] |
-| times |      | quantity-of | width |          |
-
-|       |      |             |       |      |
-| ----- | ---- | ----------- | ----- | ---- |
-| pi'i  | ni'e | ni          | condi | te'u |
-| times |      | quantity-of | depth |      |
-
-|                                           |            |      |             |         |
-| ----------------------------------------- | ---------- | ---- | ----------- | ------- |
-| du                                        | li         | ni'e | ni          | canlu   |
-| equals                                    | the-number |      | quantity-of | volume. |
-| Length \times Width \times Depth = Volume |            |      |             |         |
+$\text{Length} \times \text{Width} \times \text{Depth} = \text{}{Volume}$
 
 The cmavo *[mo'e](/glossary/#moe)* operates similarly to *[ni'e](/glossary/#nie)*, but makes a sumti (rather than a selbri) into an operand. This construction is useful in stating equations involving dimensioned numbers:
 
@@ -2214,18 +2171,14 @@ The cmavo *[mo'e](/glossary/#moe)* operates similarly to *[ni'e](/glossary/#nie)
 
 :::jbomupli
 
-|            |      |     |       |      |      |     |         |
-| ---------- | ---- | --- | ----- | ---- | ---- | --- | ------- |
-| li         | mo'e | re  | ratcu | su'i | mo'e | re  | ractu   |
-| The-number |      | two | rats  | plus |      | two | rabbits |
+|            |      |     |       |      |      |     |         |        |            |      |      |          |
+| ---------- | ---- | --- | ----- | ---- | ---- | --- | ------- | ------ | ---------- | ---- | ---- | -------- |
+| li         | mo'e | re  | ratcu | su'i | mo'e | re  | ractu   | du     | li         | mo'e | vo   | danlu    |
+| The-number |      | two | rats  | plus |      | two | rabbits | equals | the-number |      | four | animals. |
 
 :::
 
-|                                 |            |      |      |          |
-| ------------------------------- | ---------- | ---- | ---- | -------- |
-| du                              | li         | mo'e | vo   | danlu    |
-| equals                          | the-number |      | four | animals. |
-| 2 rats + 2 rabbits = 4 animals. |            |      |      |          |
+$2 \text{rats} + 2 \text{rabbits} = 4 \text{animals}$
 
 Another use is in constructing Lojbanic versions of so-called “folk quantifiers”, such as “a pride of lions”:
 
@@ -2269,7 +2222,7 @@ The cmavo *[me'o](/glossary/#meo)* has the same grammatical use as *[li](/glossa
 
 :::
 
-- $2 + 2 = 4$
+$2 + 2 = 4$
 
 but false that:
 
@@ -2284,7 +2237,7 @@ but false that:
 
 :::
 
-- “2 + 2” = “4”
+“2 + 2” = “4”
 
 since the expressions “2 + 2” and “4” are not the same. The relationship between *[li](/glossary/#li)* and *[me'o](/glossary/#meo)* is related to that between *la djan.*, the person named John, and *zo .djan.*, the name “John”
 
@@ -2301,7 +2254,7 @@ for as many places as may be required. For example:
 |            |        |     |                 |             |            |        |
 | ---------- | ------ | --- | --------------- | ----------- | ---------- | ------ |
 | li         | ni'umu | cu  | nu'a            | va'a        | li         | ma'umu |
-| The-number | \-5    |     | is-the-operator | negation-of | the-number | +5.    |
+| The-number | $-5$   |     | is-the-operator | negation-of | the-number | $+5$.  |
 
 :::
 
@@ -2325,7 +2278,7 @@ Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it pos
 | mo            | re  | du     | li         | vo    |
 | which-selbri? | two | equals | the-number | four. |
 
-- 2 ? 2 = 4
+2 ? 2 = 4
 
 ##### Example 18.132.
 
@@ -2358,36 +2311,60 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 
 ##### Example 18.134.
 
-- pamai
+:::jbomupli
 
-firstly
+|         |
+| ------- |
+| pamai   |
+| firstly |
+
+:::
 
 ##### Example 18.135.
 
-- remai
+:::jbomupli
 
-secondly
+|          |
+| -------- |
+| remai    |
+| secondly |
+
+:::
 
 ##### Example 18.136.
 
-- romai
+:::jbomupli
 
-all-ly
+|        |
+| ------ |
+| romai  |
+| all-ly |
+| lastly |
 
-lastly
+:::
 
 ##### Example 18.137.
 
-- ny.mai
+:::jbomupli
 
-nth-ly
+|        |
+| ------ |
+| ny.mai |
+| nth-ly |
+
+:::
 
 ##### Example 18.138.
 
-- pasomo'o
+:::jbomupli
 
-nineteenthly (higher order)
-Section 19                  
+|                             |
+| --------------------------- |
+| pasomo'o                    |
+| nineteenthly (higher order) |
+| Section 19                  |
+
+:::
 
 The difference between *[mai](/glossary/#mai)* and *[mo'o](/glossary/#moo)* is that *[mo'o](/glossary/#moo)* enumerates larger subdivisions of a text. Each *[mo'o](/glossary/#moo)* subdivision can then be divided into pieces and internally numbered with *[mai](/glossary/#mai)*. If this chapter were translated into Lojban, each section would be numbered with *[mo'o](/glossary/#moo)*. (See [Section 19.7](/chapter19/#197-utterance-ordinals-mai "19.7. Utterance ordinals: MAI") for more on these words.)
 
@@ -2486,17 +2463,12 @@ Of course, there is no guarantee that the name *zel.* is connected with the numb
 
 :::jbomupli
 
-|                 |           |     |        |
-| --------------- | --------- | --- | ------ |
-| la              | zemei     | poi | gunta  |
-| Those-named-the | Sevensome | who | attack |
+|                 |           |     |        |            |        |          |          |
+| --------------- | --------- | --- | ------ | ---------- | ------ | -------- | -------- |
+| la              | zemei     | poi | gunta  | la         | tebes. | pu       | nanmu    |
+| Those-named-the | Sevensome | who | attack | that-named | Thebes | \[past\] | are-men. |
 
 :::
-
-|            |        |          |          |
-| ---------- | ------ | -------- | -------- |
-| la         | tebes. | pu       | nanmu    |
-| that-named | Thebes | \[past\] | are-men. |
 
 Certain other members of PA also have assigned rafsi: *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/#soi)*, *[so'o](/glossary/#soo)*, *[so'u](/glossary/#sou)*, *[da'a](/glossary/#daa)*, *[ro](/glossary/#ro)*, *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[pi](/glossary/#pi)*, and *[ce'i](/glossary/#cei)*. Furthermore, although the cmavo *[fi'u](/glossary/#fiu)* does not have a rafsi as such, it is closely related to the gismu [*frinu*](/glossary/#frinu), meaning “fraction”; therefore, in a context of numeric rafsi, you can use any of the rafsi for *[frinu](/glossary/#frinu)* to indicate a fraction slash.
 
@@ -2523,7 +2495,7 @@ Abraham Lincoln's Gettysburg Address begins with the words “Four score and sev
 
 :::
 
-87
+$87$
 
 [Example 18.145](/chapter18/#example-18145 "Example 18.145.") is mathematically correct, but sacrifices the spirit of the English words, which are intended to be complex and formal.
 
@@ -2544,14 +2516,14 @@ $4\times 20+7$
 
 ##### Example 18.147.
 
-<div class="table-scrollable">
+:::jbomupli
 
 |            |                  |       |             |                      |      |       |
 | ---------- | ---------------- | ----- | ----------- | -------------------- | ---- | ----- |
 | li         | mo'e             | voboi | renomei     | te'u                 | su'i | ze    |
 | the-number | \[sumti-to-mex\] | four  | twentysomes | \[end-sumti-to-mex\] | plus | seven |
 
-</div>
+:::
 
 In [Example 18.147](/chapter18/#example-18147 "Example 18.147."), *voboi renomei* is a sumti signifying four things each of which are groups of twenty; the *[mo'e](/glossary/#moe)* and *[te'u](/glossary/#teu)* then make this sumti into a number in order to allow it to be the operand of *[su'i](/glossary/#sui)*.
 
@@ -2568,7 +2540,7 @@ Another approach is to think of “score” as setting a representation base. Th
 
 :::
 
-4720
+$4720$
 
 Overall, [Example 18.147](/chapter18/#example-18147 "Example 18.147.") probably captures the flavor of the English best. [Example 18.145](/chapter18/#example-18145 "Example 18.145.") and [Example 18.146](/chapter18/#example-18146 "Example 18.146.") are too simple, and [Example 18.148](/chapter18/#example-18148 "Example 18.148.") is too tricky. Nevertheless, all four examples are good Lojban. Pedagogically, these examples illustrate the richness of lojbau mekso: anything that can be said at all, can probably be said in more than one way.
 
