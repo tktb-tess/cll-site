@@ -9,10 +9,14 @@ If you understand anything about Lojban, you know what a sumti is by now, right?
 
 ##### Example 6.1.
 
+:::jbomupli
+
 |     |       |     |        |
 | --- | ----- | --- | ------ |
 | mi  | klama | le  | zarci  |
 | I   | go-to | the | market |
+
+:::
 
 In [Example 6.1](/chapter06/#example-61 "Example 6.1."), *[mi](/glossary/#mi)* and *le zarci* are the sumti. It is easy to see that these two sumti are not of the same kind: *[mi](/glossary/#mi)* is a pro-sumti (the Lojban analogue of a pronoun) referring to the speaker, whereas *le zarci* is a description which refers to something described as being a market.
 
@@ -28,10 +32,14 @@ Here are a few examples of each kind of sumti:
 
 ##### Example 6.2.
 
+:::jbomupli
+
 |                   |                    |         |            |         |
 | ----------------- | ------------------ | ------- | ---------- | ------- |
 | e'osai            | ko                 | sarji   | la         | lojban. |
 | \[request\] \[!\] | You \[imperative\] | support | that-named | Lojban. |
+
+:::
 
 Please support Lojban!
 
@@ -39,10 +47,14 @@ Please support Lojban!
 
 ##### Example 6.3.
 
+:::jbomupli
+
 |     |         |           |                  |             |        |         |
 | --- | ------- | --------- | ---------------- | ----------- | ------ | ------- |
 | mi  | cusku   | lu        | e'osai           | li'u        | le     | tcidu   |
 | I   | express | \[quote\] | \[request\] \[!] | \[unquote\] | to-the | reader. |
+
+:::
 
 I express “Please!” to the reader.
 
@@ -50,10 +62,14 @@ I express “Please!” to the reader.
 
 ##### Example 6.4.
 
+:::jbomupli
+
 |      |                    |            |        |
 | ---- | ------------------ | ---------- | ------ |
 | ti   | mitre              | li         | ci     |
 | This | measures-in-meters | the-number | three. |
+
+:::
 
 This is three meters long.
 
@@ -76,10 +92,14 @@ The syntax of descriptions is fairly complex, and not all of it can be explained
 
 ##### Example 6.5.
 
+:::jbomupli
+
 |                                                         |                |
 | ------------------------------------------------------- | -------------- |
 | le                                                      | zarci          |
 | one-or-more-specific-things-each-of-which-I-describe-as | being-a-market |
+
+:::
 
 the market
 
@@ -91,10 +111,14 @@ The specific purpose of *[le](/glossary/#le)* is twofold. First, it indicates th
 
 ##### Example 6.6.
 
+:::jbomupli
+
 |                                                 |           |     |             |
 | ----------------------------------------------- | --------- | --- | ----------- |
 | le                                              | zarci     | cu  | barda       |
 | One-or-more-specific-things-which-I-describe-as | “markets” |     | is/are-big. |
+
+:::
 
 The market is big.  
 The markets are big.
@@ -105,10 +129,14 @@ Now consider the following strange-looking example:
 
 ##### Example 6.7.
 
+:::jbomupli
+
 |                                                 |       |     |               |
 | ----------------------------------------------- | ----- | --- | ------------- |
 | le                                              | nanmu | cu  | ninmu         |
 | One-or-more-specific-things-which-I-describe-as | “men” |     | is/are-women. |
+
+:::
 
 The man is a woman.  
 The men are women.
@@ -121,10 +149,14 @@ The second descriptor dealt with in this section is *[lo](/glossary/#lo)*. Unlik
 
 ##### Example 6.8.
 
+:::jbomupli
+
 |                                            |             |
 | ------------------------------------------ | ----------- |
 | lo                                         | zarci       |
 | one-or-more-of-all-the-things-which-really | are-markets |
+
+:::
 
 a market  
 some markets
@@ -133,10 +165,14 @@ Again, there are two colloquial English translations. The effect of using *[lo](
 
 ##### Example 6.9.
 
+:::jbomupli
+
 |                      |       |     |             |
 | -------------------- | ----- | --- | ----------- |
 | lo                   | nanmu | cu  | ninmu       |
 | That-which-really-is | a-man |     | is-a-woman. |
+
+:::
 
 Some man is a woman.  
 Some men are women.
@@ -147,10 +183,14 @@ The last descriptor of this section is *[la](/glossary/#la)*, which indicates th
 
 ##### Example 6.10.
 
+:::jbomupli
+
 |            |        |          |         |     |        |
 | ---------- | ------ | -------- | ------- | --- | ------ |
 | la         | cribe  | pu       | finti   | le  | lisri  |
 | That-named | “bear” | \[past\] | creates | the | story. |
+
+:::
 
 Bear wrote the story.
 
@@ -158,10 +198,14 @@ In [Example 6.10](/chapter06/#example-610 "Example 6.10."), *la cribe* refers to
 
 ##### Example 6.11.
 
+:::jbomupli
+
 |            |                |          |       |      |         |
 | ---------- | -------------- | -------- | ----- | ---- | ------- |
 | la         | stace          | pu       | citka | lo   | cirla   |
 | That-named | “Honest/Frank” | \[past\] | eats  | some | cheese. |
+
+:::
 
 English-speakers typically would not do this, as we tend to be more attached to the sound of our names than their meaning, even if the meaning (etymological or current) is known. Speakers of other languages may feel differently. (In point of fact, “Frank” originally meant “the free one” rather than “the honest one”.)
 
@@ -169,19 +213,27 @@ It is important to note the differences between [Example 6.10](/chapter06/#examp
 
 ##### Example 6.12.
 
+:::jbomupli
+
 |                                                 |       |          |         |     |        |
 | ----------------------------------------------- | ----- | -------- | ------- | --- | ------ |
 | le                                              | cribe | pu       | finti   | le  | lisri  |
 | One-or-more-specific-things-which-I-describe-as | bears | \[past\] | creates | the | story. |
 
+:::
+
 The bear(s) wrote the story.
 
 ##### Example 6.13.
+
+:::jbomupli
 
 |                                        |           |          |         |     |        |
 | -------------------------------------- | --------- | -------- | ------- | --- | ------ |
 | lo                                     | cribe     | pu       | finti   | le  | lisri  |
 | One-or-more-of-the-things-which-really | are-bears | \[past\] | creates | the | story. |
+
+:::
 
 A bear wrote the story.  
 Some bears wrote the story. 
@@ -196,19 +248,27 @@ Similarly, compare the following two examples, which are analogous to [Example 6
 
 ##### Example 6.14.
 
+:::jbomupli
+
 |                    |         |          |        |                   |          |
 | ------------------ | ------- | -------- | ------ | ----------------- | -------- |
 | le                 | remna   | pu       | finti  | le                | lisri    |
 | Those-described-as | a-human | \[past\] | writes | that-described-as | a-story. |
 
+:::
+
 The human being(s) wrote the story.
 
 ##### Example 6.15.
+
+:::jbomupli
 
 |                      |         |          |        |                   |          |
 | -------------------- | ------- | -------- | ------ | ----------------- | -------- |
 | lo                   | remna   | pu       | finti  | le                | lisri    |
 | That-which-really-is | a-human | \[past\] | writes | that-described-as | a-story. |
+
+:::
 
 A human being wrote the story.  
 Some human beings wrote the story. 
@@ -231,10 +291,14 @@ All Lojban sumti are classified by whether they refer to one of three types of o
 
 ##### Example 6.16.
 
+:::jbomupli
+
 |                                    |         |     |       |     |        |
 | ---------------------------------- | ------- | --- | ----- | --- | ------ |
 | le                                 | prenu   | cu  | bevri | le  | pipno  |
 | One-or-more-of-those-I-describe-as | persons |     | carry | the | piano. |
+
+:::
 
 The person(s) carry the piano.
 
@@ -246,10 +310,14 @@ But suppose I am not willing to claim that. For in fact pianos are heavy, and ve
 
 ##### Example 6.17.
 
+:::jbomupli
+
 |                                                |         |     |       |     |        |
 | ---------------------------------------------- | ------- | --- | ----- | --- | ------ |
 | lei                                            | prenu   | cu  | bevri | le  | pipno  |
 | The-mass-of-one-or-more-of-those-I-describe-as | persons |     | carry | the | piano. |
+
+:::
 
 The person(s) carry the piano.
 
@@ -259,10 +327,14 @@ The descriptors *[loi](/glossary/#loi)* and *[lai](/glossary/#lai)* are analogou
 
 ##### Example 6.18.
 
+:::jbomupli
+
 |                                        |           |     |          |     |               |
 | -------------------------------------- | --------- | --- | -------- | --- | ------------- |
 | loi                                    | cinfo     | cu  | xabju    | le  | fi'ortu'a     |
 | Part-of-the-mass-of-those-which-really | are-lions |     | dwell-in | the | African-land. |
+
+:::
 
 The lion dwells in Africa.  
 Lions dwell in Africa.
@@ -271,11 +343,14 @@ The difference between *[lei](/glossary/#lei)* and *[loi](/glossary/#loi)* is th
 
 ##### Example 6.19.
 
+:::jbomupli
+
 |                                        |                     |     |          |     |               |
 | -------------------------------------- | ------------------- | --- | -------- | --- | ------------- |
 | loi                                    | glipre              | cu  | xabju    | le  | fi'ortu'a     |
 | Part-of-the-mass-of-those-which-really | are-English-persons |     | dwell-in | the | African-land. |
 
+:::
 
 The English dwell in Africa.
 
@@ -285,10 +360,14 @@ Note that the Lojban mass articles are sometimes translated by English plurals (
 
 ##### Example 6.20.
 
+:::jbomupli
+
 |                                          |                      |     |          |
 | ---------------------------------------- | -------------------- | --- | -------- |
 | loi                                      | matne                | cu  | ranti    |
 | Part-of-the-mass-of-that-which-really-is | a-quantity-of-butter |     | is-soft. |
+
+:::
 
 Butter is soft.
 
@@ -298,10 +377,14 @@ The mass name descriptor *[lai](/glossary/#lai)* is used in circumstances where 
 
 ##### Example 6.21.
 
+:::jbomupli
+
 |                         |        |          |         |     |        |       |
 | ----------------------- | ------ | -------- | ------- | --- | ------ | ----- |
 | lai                     | cribe  | pu       | finti   | le  | vi     | cukta |
 | The-mass-of-those-named | “bear” | \[past\] | creates | the | nearby | book. |
+
+:::
 
 The Bears wrote this book.
 
@@ -323,28 +406,40 @@ Sets have properties like cardinality (how many elements in the set), membership
 
 ##### Example 6.22.
 
+:::jbomupli
+
 |                                       |       |     |            |
 | ------------------------------------- | ----- | --- | ---------- |
 | lo                                    | ratcu | cu  | bunre      |
 | One-or-more-of-those-which-really-are | rats  |     | are-brown. |
 
+:::
+
 Some rats are brown.
 
 ##### Example 6.23.
+
+:::jbomupli
 
 |                                            |       |     |            |
 | ------------------------------------------ | ----- | --- | ---------- |
 | loi                                        | ratcu | cu  | cmalu      |
 | Part-of-the-mass-of-those-which-really-are | rats  |     | are-small. |
 
+:::
+
 Rats are small.
 
 ##### Example 6.24.
+
+:::jbomupli
 
 |            |       |     |           |
 | ---------- | ----- | --- | --------- |
 | lo'i       | ratcu | cu  | barda     |
 | The-set-of | rats  |     | is-large. |
+
+:::
 
 There are a lot of rats.
 
@@ -358,10 +453,14 @@ Why is it necessary for the x3 place of *[fadni](/glossary/#fadni)* to be a set?
 
 ##### Example 6.25.
 
+:::jbomupli
+
 |     |             |                             |                  |               |
 | --- | ----------- | --------------------------- | ---------------- | ------------- |
 | mi  | fadni       | zo'e                        | lo'i             | lobypli       |
 | I   | am-ordinary | in-property \[unspecified\] | among-the-set-of | Lojban-users. |
+
+:::
 
 I am a typical Lojban user.
 
@@ -380,10 +479,14 @@ As promised in [Section 6.3](/chapter06/#63-individuals-and-masses "6.3. Individ
 
 ##### Example 6.26.
 
+:::jbomupli
+
 |             |       |     |           |     |               |
 | ----------- | ----- | --- | --------- | --- | ------------- |
 | lo'e        | cinfo | cu  | xabju     | le  | fi'ortu'a     |
 | The-typical | lion  |     | dwells-in | the | African-land. |
+
+:::
 
 The lion dwells in Africa.
 
@@ -391,11 +494,14 @@ What is this “typical lion”? Surely it is not any particular lion, because n
 
 ##### Example 6.27.
 
+:::jbomupli
+
 |             |                |     |           |     |              |            |     |                  |
 | ----------- | -------------- | --- | --------- | --- | ------------ | ---------- | --- | ---------------- |
 | lo'e        | glipre         | cu  | xabju     | le  | fi'ortu'a    | na.e       | le  | gligugde         |
 | The-typical | English-person |     | dwells-in | the | African-land | (Not!) and | the | English-country. |
 
+:::
 
 The typical English person dwells not in Africa but in England.
 
@@ -403,10 +509,14 @@ The relationship between *lo'e cinfo* and *lo'i cinfo* may be explained thus: th
 
 ##### Example 6.28.
 
+:::jbomupli
+
 |                   |               |          |     |                         |        |
 | ----------------- | ------------- | -------- | --- | ----------------------- | ------ |
 | le'e              | xelso         | merko    | cu  | gusta                   | ponse  |
 | The-stereotypical | Greek-type-of | American |     | is-a-restaurant-type-of | owner. |
+
+:::
 
 Lots of Greek-Americans own restaurants.
 
@@ -416,10 +526,14 @@ Furthermore,
 
 ##### Example 6.29.
 
+:::jbomupli
+
 |                   |       |     |             |      |            |            |
 | ----------------- | ----- | --- | ----------- | ---- | ---------- | ---------- |
 | le'e              | skina | cu  | se finti    | ne'i | la         | xali,uyd.  |
 | The-stereotypical | movie |     | is-invented | in   | that-named | Hollywood. |
+
+:::
 
 is probably true to an American, but might be false (not the stereotype) to someone living in India or Russia.
 
@@ -440,17 +554,25 @@ Every Lojban sumti may optionally be preceded by an explicit quantifier. The pur
 
 ##### Example 6.30.
 
+:::jbomupli
+
 |     |         |     |       |
 | --- | ------- | --- | ----- |
 | do  | cadzu   | le  | bisli |
 | You | walk-on | the | ice.  |
 
+:::
+
 ##### Example 6.31.
+
+:::jbomupli
 
 |        |     |         |     |       |
 | ------ | --- | ------- | --- | ----- |
 | re     | do  | cadzu   | le  | bisli |
 | Two-of | you | walk-on | the | ice.  |
+
+:::
 
 The difference between [Example 6.30](/chapter06/#example-630 "Example 6.30.") and [Example 6.31](/chapter06/#example-631 "Example 6.31.") is the presence of the explicit quantifier *[re](/glossary/#re)* in the latter example. Although *[re](/glossary/#re)* by itself means “two”, when used as a quantifier it means “two-of”. Out of the group of listeners (the number of which isn't stated), two (we are not told which ones) are asserted to be “walkers on the ice”. Implicitly, the others (if any) are not walkers on the ice. In Lojban, you cannot say “I own three shoes” if in fact you own four shoes. Numbers need never be specified, but if they are specified they must be correct.
 
@@ -458,10 +580,14 @@ The difference between [Example 6.30](/chapter06/#example-630 "Example 6.30.") a
 
 ##### Example 6.32.
 
+:::jbomupli
+
 |     |         |          |       |        |
 | --- | ------- | -------- | ----- | ------ |
 | mi  | ponse   | su'o     | ci    | cutci  |
 | I   | possess | at-least | three | shoes. |
+
+:::
 
 is true if you own three shoes, or four, or indeed any larger number. More details on vague numbers appear in the discussion of mathematical expressions in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban").)
 
@@ -469,10 +595,14 @@ Now consider [Example 6.30](/chapter06/#example-630 "Example 6.30.") again. How 
 
 ##### Example 6.33.
 
+:::jbomupli
+
 |        |     |         |     |       |
 | ------ | --- | ------- | --- | ----- |
 | ro     | do  | cadzu   | le  | bisli |
 | All-of | you | walk-on | the | ice.  |
+
+:::
 
 turn out to mean exactly the same thing. This is a safe strategy, because if one of my listeners doesn't turn out to be walking on the ice, I can safely claim that I didn't intend that person to be a listener! And in fact, all of the personal pro-sumti such as *[mi](/glossary/#mi)* and *[mi'o](/glossary/#mio)* and *[ko](/glossary/#ko)* obey the same rule. We say that personal pro-sumti have a so-called “implicit quantifier” of *[ro](/glossary/#ro)* (all). This just means that if no quantifier is given explicitly, the meaning is the same as if the implicit quantifier had been used.
 
@@ -480,10 +610,14 @@ Not all sumti have *[ro](/glossary/#ro)* as the implicit quantifier, however. Co
 
 ##### Example 6.34.
 
+:::jbomupli
+
 |     |         |           |     |         |     |       |              |
 | --- | ------- | --------- | --- | ------- | --- | ----- | ------------ |
 | mi  | cusku   | lu        | do  | cadzu   | le  | bisli | li'u         |
 | I   | express | \[quote\] | you | walk-on | the | ice   | \[unquote\]. |
+
+:::
 
 I say, “You walk on the ice.”
 
@@ -491,10 +625,14 @@ What is the implicit quantifier of the quotation *lu do cadzu le bisli li'u*? Su
 
 ##### Example 6.35.
 
+:::jbomupli
+
 |     |         |        |           |     |         |     |       |              |
 | --- | ------- | ------ | --------- | --- | ------- | --- | ----- | ------------ |
 | mi  | cusku   | ro     | lu        | do  | cadzu   | le  | bisli | li'u         |
 | I   | express | all-of | \[quote\] | you | walk-on | the | ice   | \[unquote\]. |
+
+:::
 
 the meaning would be something like “I say every occurrence of the sentence 'You walk on the ice'”. Of course I don't say every occurrence of it, only some occurrences. One might suppose that [Example 6.34](/chapter06/#example-634 "Example 6.34.") means that I express exactly one occurrence, but it is more Lojbanic to leave the number unspecified, as with other sumti. We can say definitely, however, that I say it at least once.
 
@@ -502,10 +640,14 @@ The Lojban cmavo meaning “at least” is *[su'o](/glossary/#suo)*, and if no o
 
 ##### Example 6.36.
 
+:::jbomupli
+
 |     |         |                 |           |     |         |     |       |              |
 | --- | ------- | --------------- | --------- | --- | ------- | --- | ----- | ------------ |
 | mi  | cusku   | su'o            | lu        | do  | cadzu   | le  | bisli | li'u         |
 | I   | express | at-least-one-of | \[quote\] | you | walk-on | the | ice   | \[unquote\]. |
+
+:::
 
 I say one or more instances of “You walk on the ice”.  
 I say “You walk on the ice”.
@@ -514,10 +656,14 @@ If an explicit ordinary number such as *[re](/glossary/#re)* were to appear, it 
 
 ##### Example 6.37.
 
+:::jbomupli
+
 |     |         |        |           |     |         |     |       |              |
 | --- | ------- | ------ | --------- | --- | ------- | --- | ----- | ------------ |
 | mi  | cusku   | re     | lu        | do  | cadzu   | le  | bisli | li'u         |
 | I   | express | two-of | \[quote\] | you | walk-on | the | ice   | \[unquote\]. |
+
+:::
 
 means that I say the sentence exactly twice, neither more nor less.
 
@@ -534,10 +680,14 @@ Like other sumti, descriptions can be quantified. When a quantifier appears befo
 
 ##### Example 6.38.
 
+:::jbomupli
+
 |        |     |       |     |            |
 | ------ | --- | ----- | --- | ---------- |
 | re     | le  | gerku | cu  | blabi      |
 | Two-of | the | dogs  |     | are-white. |
+
+:::
 
 Two of the dogs are white.
 
@@ -547,10 +697,14 @@ For example, the context of [Example 6.38](/chapter06/#example-638 "Example 6.38
 
 ##### Example 6.39.
 
+:::jbomupli
+
 |        |     |       |       |     |            |
 | ------ | --- | ----- | ----- | --- | ---------- |
 | re     | le  | ci    | gerku | cu  | blabi      |
 | Two-of | the | three | dogs  |     | are-white. |
+
+:::
 
 Two of the three dogs are white.
 
@@ -560,10 +714,14 @@ You may also specify an explicit inner quantifier and leave the outer quantifier
 
 ##### Example 6.40.
 
+:::jbomupli
+
 |     |       |       |     |            |
 | --- | ----- | ----- | --- | ---------- |
 | le  | ci    | gerku | cu  | blabi      |
 | The | three | dogs  |     | are-white. |
+
+:::
 
 The three dogs are white.
 
@@ -603,10 +761,14 @@ From the English-speaking point of view, the difference in structure between the
 
 ##### Example 6.41.
 
+:::jbomupli
+
 |            |                    |       |       |     |            |
 | ---------- | ------------------ | ----- | ----- | --- | ---------- |
 | \[ro\]     | le                 | ci    | gerku | cu  | blabi      |
 | \[All-of\] | those-described-as | three | dogs  |     | are-white. |
+
+:::
 
 The three dogs are white.
 
@@ -614,10 +776,14 @@ and the corresponding form with *[lo](/glossary/#lo)*:
 
 ##### Example 6.42.
 
+:::jbomupli
+
 |          |                 |         |       |     |            |
 | -------- | --------------- | ------- | ----- | --- | ---------- |
 | ci       | lo              | \[ro\]  | gerku | cu  | blabi      |
 | Three-of | those-which-are | \[all\] | dogs  |     | are-white. |
+
+:::
 
 Three dogs are white.
 
@@ -627,10 +793,14 @@ Using exact numbers as inner quantifiers in lo-series descriptions is dangerous,
 
 ##### Example 6.43.
 
+:::jbomupli
+
 |             |                        |       |       |     |            |
 | ----------- | ---------------------- | ----- | ----- | --- | ---------- |
 | \[so'o\]    | lo                     | ci    | gerku | cu  | blabi      |
 | \[some-of\] | those-which-really-are | three | dogs  |     | are-white. |
+
+:::
 
 are semantically anomalous; [Example 6.43](/chapter06/#example-643 "Example 6.43.") claims that some dog (or dogs) is white, but also that there are just three dogs in the universe!
 
@@ -644,10 +814,14 @@ By a quirk of Lojban syntax, it is possible to omit the descriptor *[lo](/glossa
 
 ##### Example 6.44.
 
+:::jbomupli
+
 |                          |       |        |     |            |
 | ------------------------ | ----- | ------ | --- | ---------- |
 | ci                       | gerku | \[ku\] | cu  | blabi      |
 | Three-of-those-which-are | dogs  |        |     | are-white. |
+
+:::
 
 Three dogs are white.
 
@@ -659,10 +833,14 @@ Note: [Example 6.32](/chapter06/#example-632 "Example 6.32.") also contains an i
 
 ##### Example 6.45.
 
+:::jbomupli
+
 |     |         |          |       |                         |       |
 | --- | ------- | -------- | ----- | ----------------------- | ----- |
 | mi  | ponse   | su'o     | ci    | lo                      | cutci |
 | I   | possess | at-least | three | things-which-really-are | shoes |
+
+:::
 
 I own three (or more) shoes.
 
@@ -676,17 +854,25 @@ A full theory of sumti-based descriptions has yet to be worked out. One common c
 
 ##### Example 6.46.
 
+:::jbomupli
+
 |        |     |     |          |
 | ------ | --- | --- | -------- |
 | re     | do  | cu  | nanmu    |
 | Two-of | you |     | are-men. |
 
+:::
+
 ##### Example 6.47.
+
+:::jbomupli
 
 |     |        |     |     |          |
 | --- | ------ | --- | --- | -------- |
 | le  | re     | do  | cu  | nanmu    |
 | The | two-of | you |     | are-men. |
+
+:::
 
 [Example 6.46](/chapter06/#example-646 "Example 6.46.") simply specifies that of the group of listeners, size unknown, two are men. [Example 6.47](/chapter06/#example-647 "Example 6.47."), which has the sumti-based description *le re do*, says that of the two listeners, all (the implicit outer quantifier *[ro](/glossary/#ro)*) are men. So in effect the inner quantifier *[re](/glossary/#re)* gives the number of individuals which the inner sumti *[do](/glossary/#do)* refers to.
 
@@ -694,24 +880,36 @@ Here is another group of examples:
 
 ##### Example 6.48.
 
+:::jbomupli
+
 |        |     |       |       |     |            |
 | ------ | --- | ----- | ----- | --- | ---------- |
 | re     | le  | ci    | cribe | cu  | bunre      |
 | Two-of | the | three | bears |     | are-brown. |
 
+:::
+
 ##### Example 6.49.
+
+:::jbomupli
 
 |     |        |     |       |       |     |            |
 | --- | ------ | --- | ----- | ----- | --- | ---------- |
 | le  | re     | le  | ci    | cribe | cu  | bunre      |
 | The | two-of | the | three | bears |     | are-brown. |
 
+:::
+
 ##### Example 6.50.
+
+:::jbomupli
 
 |        |     |        |     |       |       |     |           |
 | ------ | --- | ------ | --- | ----- | ----- | --- | --------- |
 | pa     | le  | re     | le  | ci    | cribe | cu  | bunre     |
 | One-of | the | two-of | the | three | bears |     | is-brown. |
+
+:::
 
 In each case, *le ci cribe* restricts the bears (or alleged bears) being talked of to some group of three which the speaker has in mind. [Example 6.48](/chapter06/#example-648 "Example 6.48.") says that two of them (which two is not stated) are brown. [Example 6.49](/chapter06/#example-649 "Example 6.49.") says that a specific pair of them are brown. [Example 6.50](/chapter06/#example-650 "Example 6.50.") says that of a specific pair chosen from the original three, one or the other of that pair is brown.
 
@@ -742,10 +940,14 @@ Semantically, sumti qualifiers represent short forms of certain common special c
 
 ##### Example 6.51.
 
+:::jbomupli
+
 |     |       |           |     |       |             |              |
 | --- | ----- | --------- | --- | ----- | ----------- | ------------ |
 | mi  | viska | lu        | le  | xunre | cmaxirma    | li'u         |
 | I   | see   | \[quote\] | the | red   | small-horse | \[unquote\]. |
+
+:::
 
 But [Example 6.51](/chapter06/#example-651 "Example 6.51.") doesn't work: it says that you see a piece of text “The Red Pony”. That might be all right if you were looking at the cover of the book, where the words “The Red Pony” are presumably written. (More precisely, where the words *le xunre cmaxirma* are written – but we may suppose the book has been translated into Lojban.)
 
@@ -753,10 +955,14 @@ What you really want to say is:
 
 ##### Example 6.52.
 
+:::jbomupli
+
 |     |       |     |                      |
 | --- | ----- | --- | -------------------- |
 | mi  | viska | le  | selsinxa             |
 | I   | see   | the | thing-represented-by |
+
+:::
 
 |     |           |     |       |             |              |
 | --- | --------- | --- | ----- | ----------- | ------------ |
@@ -769,10 +975,14 @@ This operation turns out to be needed often enough that it's useful to be able t
 
 ##### Example 6.53.
 
+:::jbomupli
+
 |     |       |                 |           |     |       |             |             |          |
 | --- | ----- | --------------- | --------- | --- | ----- | ----------- | ----------- | -------- |
 | mi  | viska | la'e            | lu        | le  | xunre | cmaxirma    | li'u        | \[lu'u\] |
 | I   | see   | the-referent-of | \[quote\] | the | red   | small-horse | \[unquote\] | -.       |
+
+:::
 
 So when *[la'e](/glossary/#lae)* is prefixed to a sumti referring to a symbol, it produces a sumti referring to the referent of that symbol. (In computer jargon, *[la'e](/glossary/#lae)* dereferences a pointer.)
 
@@ -782,10 +992,14 @@ The sumti qualifier *[lu'e](/glossary/#lue)* provides the converse operation: it
 
 ##### Example 6.54.
 
+:::jbomupli
+
 |     |          |         |              |     |        |       |
 | --- | -------- | ------- | ------------ | --- | ------ | ----- |
 | mi  | pu       | cusku   | lu'e         | le  | vi     | cukta |
 | I   | \[past\] | express | a-symbol-for | the | nearby | book. |
+
+:::
 
 I said the title of this book.
 
@@ -793,32 +1007,42 @@ The equivalent form not using a sumti qualifier would be:
 
 ##### Example 6.55.
 
+:::jbomupli
+
 |     |          |         |     |            |     |     |        |       |
 | --- | -------- | ------- | --- | ---------- | --- | --- | ------ | ----- |
 | mi  | pu       | cusku   | le  | sinxa      | be  | le  | vi     | cukta |
 | I   | \[past\] | express | the | symbol-for |     | the | nearby | book. |
 
+:::
 
 which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), but longer.The other sumti qualifiers follow the same rules. The cmavo *[tu'a](/glossary/#tua)* is used in forming abstractions, and is explained more fully in [Section 11.11](/chapter11/#1111-event-type-abstractors-and-event-contour-tenses "11.11. Event-type abstractors and event contour tenses"). The triplet *[lu'a](/glossary/#lua)*, *[lu'i](/glossary/#lui)*, and *[lu'o](/glossary/#luo)* convert between individuals, sets, and masses; *[vu'i](/glossary/#vui)* belongs to this group as well, but creates a sequence, which is similar to a set but has a definite order. (The set of John and Charles is the same as the set of Charles and John, but the sequences are different.) Here are some examples:
 
 ##### Example 6.56.
+
+:::jbomupli
 
 |     |       |                        |     |       |
 | --- | ----- | ---------------------- | --- | ----- |
 | mi  | troci | tu'a                   | le  | vorme |
 | I   | try   | some-abstraction-about | the | door. |
 
-I try (to open) the door.
+:::
 
+I try (to open) the door.
 
 [Example 6.56](/chapter06/#example-656 "Example 6.56.") might mean that I try to do something else involving the door; the form is deliberately vague.Most of the following examples make use of the cmavo *[ri](/glossary/#ri)*, belonging to selma'o KOhA. This cmavo means “the thing last mentioned”; it is equivalent to repeating the immediately previous sumti (but in its original context). It is explained in more detail in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
 ##### Example 6.57.
 
+:::jbomupli
+
 |            |       |     |           |
 | ---------- | ----- | --- | --------- |
 | lo'i       | ratcu | cu  | barda     |
 | The-set-of | rats  |     | is-large. |
+
+:::
 
 |        |                 |                   |            |
 | ------ | --------------- | ----------------- | ---------- |
@@ -829,19 +1053,27 @@ The set of rats is large, but some of its members are small.
 
 ##### Example 6.58.
 
+:::jbomupli
+
 |      |       |     |            |        |            |                     |           |
 | ---- | ----- | --- | ---------- | ------ | ---------- | ------------------- | --------- |
 | lo   | ratcu | cu  | cmalu      | .iku'i | lu'i       | ri                  | barda     |
 | Some | rats  |     | are-small. | But    | the-set-of | them-last-mentioned | is-large. |
 
+:::
+
 Some rats are small, but the set of rats is large.
 
 ##### Example 6.59.
+
+:::jbomupli
 
 |     |               |     |            |
 | --- | ------------- | --- | ---------- |
 | mi  | ce            | do  | girzu      |
 | I   | in-a-set-with | you | are-a-set. |
+
+:::
 
 |      |                 |                   |               |
 | ---- | --------------- | ----------------- | ------------- |
@@ -852,24 +1084,31 @@ Some rats are small, but the set of rats is large.
 
 The set of you and me is a set. The mass of you and me is a mass. The sequence of you and me is a sequence.
 
-
 (Yes, I know these examples are a bit silly. This set was introduced for completeness, and practical examples are as yet hard to come by.)Finally, the four sumti qualifiers formed from a cmavo of NAhE and *[bo](/glossary/#bo)* are all concerned with negation, which is discussed in detail in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). Here are a few examples of negation sumti qualifiers:
 
 ##### Example 6.60.
+
+:::jbomupli
 
 |     |       |                      |     |       |
 | --- | ----- | -------------------- | --- | ----- |
 | mi  | viska | na'ebo               | le  | gerku |
 | I   | see   | something-other-than | the | dog.  |
 
+:::
+
 This compound, *na'ebo*, is the most common of the four negation sumti qualifiers. The others usually only make sense in the context of repeating, with modifications, something already referred to:
 
 ##### Example 6.61.
+
+:::jbomupli
 
 |     |       |                     |             |       |
 | --- | ----- | ------------------- | ----------- | ----- |
 | mi  | nelci | loi                 | glare       | cidja |
 | I   | like  | part-of-the-mass-of | hot-type-of | food. |
+
+:::
 
 |      |     |       |                 |                     |
 | ---- | --- | ----- | --------------- | ------------------- |
@@ -890,19 +1129,27 @@ I like hot food, and you like cold food, and Jane likes lukewarm food.
 
 ##### Example 6.62.
 
+:::jbomupli
+
 |               |
 | ------------- |
 | coi           |
 | \[greetings\] |
 
+:::
+
 Hello.
 
 ##### Example 6.63.
+
+:::jbomupli
 
 |                     |
 | ------------------- |
 | je'e                |
 | \[acknowledgement\] |
+
+:::
 
 Uh-huh.  
 Roger!  
@@ -911,10 +1158,14 @@ In these cases, the person being addressed is obvious from the context. However,
 
 ##### Example 6.64.
 
+:::jbomupli
+
 |               |       |
 | ------------- | ----- |
 | coi.          | djan. |
 | \[greetings\] | John. |
+
+:::
 
 Hello, John.
 
@@ -922,10 +1173,14 @@ A pause is required (for morphological reasons) between a member of COI and a na
 
 ##### Example 6.65.
 
+:::jbomupli
+
 |               |     |       |
 | ------------- | --- | ----- |
 | coi           | doi | djan. |
 | \[greetings\] | O   | John. |
+
+:::
 
 Hello, John.
 
@@ -933,10 +1188,14 @@ means exactly the same thing and does not require a pause. Using *[doi](/glossar
 
 ##### Example 6.66.
 
+:::jbomupli
+
 |     |       |
 | --- | ----- |
 | doi | djan. |
 | O   | John. |
+
+:::
 
 John!
 
@@ -944,10 +1203,14 @@ In place of a name, a description may appear, lacking its descriptor, which is u
 
 ##### Example 6.67.
 
+:::jbomupli
+
 |        |              |                |       |
 | ------ | ------------ | -------------- | ----- |
 | coi    | xunre        | pastu          | nixli |
 | Hello, | (red-type-of | dress)-type-of | girl. |
+
+:::
 
 Hello, girl with the red dress!
 
@@ -955,10 +1218,14 @@ The listener need not really be a *xunre pastu nixli*, as long as she understand
 
 ##### Example 6.68.
 
+:::jbomupli
+
 |              |            |      |     |            |        |
 | ------------ | ---------- | ---- | --- | ---------- | ------ |
 | co'o         | la         | bab. | .e  | la         | noras. |
 | \[partings\] | that-named | Bob  | and | that-named | Nora.  |
+
+:::
 
 Goodbye, Bob and Nora.
 
@@ -966,37 +1233,53 @@ Goodbye, Bob and Nora.
 
 ##### Example 6.69.
 
+:::jbomupli
+
 |        |                      |              |                |       |
 | ------ | -------------------- | ------------ | -------------- | ----- |
 | coi    | le                   | xunre        | pastu          | nixli |
 | Hello, | the-one-described-as | (red-type-of | dress)-type-of | girl! |
 
+:::
+
 and [Example 6.66](/chapter06/#example-666 "Example 6.66.") is the same as:
 
 ##### Example 6.70.
+
+:::jbomupli
 
 |     |            |       |
 | --- | ---------- | ----- |
 | doi | la         | djan. |
 | O   | that-named | John! |
 
+:::
+
 Finally, the elidable terminator for vocative phrases is *[do'u](/glossary/#dou)* (of selma'o DOhU), which is rarely needed except when a simple vocative word is being placed somewhere within a bridi. It may also be required when a vocative is placed between a sumti and its relative clause, or when there are a sequence of so-called “free modifiers” (vocatives, subscripts, utterance ordinals – see [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban") – metalinguistic comments – see [Section 19.12](/chapter19/#1912-parenthesis-and-metalinguistic-commentary-to-toi-sei "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI") – or reciprocals – see [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts")) which must be properly separated.The meaning of a vocative phrase that is within a sentence is not affected by its position in the sentence: thus [Example 6.70](/chapter06/#example-670 "Example 6.70.") and [Example 6.71](/chapter06/#example-671 "Example 6.71.") mean the same thing:
 
 ##### Example 6.71.
+
+:::jbomupli
 
 |     |       |                    |       |     |
 | --- | ----- | ------------------ | ----- | --- |
 | doi | djan. | ko                 | klama | mi  |
 | O   | John  | you \[imperative\] | go-to | me. |
 
+:::
+
 John, come to me!
 
 ##### Example 6.72.
+
+:::jbomupli
 
 |                    |       |     |     |       |
 | ------------------ | ----- | --- | --- | ----- |
 | ko                 | klama | mi  | doi | djan. |
 | You \[imperative\] | go-to | me  | O   | John. |
+
+:::
 
 Come to me, John!
 
@@ -1004,28 +1287,40 @@ As usual for this chapter, the full syntax of vocative phrases has not been expl
 
 ##### Example 6.73.
 
+:::jbomupli
+
 |       |        |        |        |
 | ----- | ------ | ------ | ------ |
 | djan. | meris. | djein. | .alis. |
 | John. | Mary.  | Jane.  | Alice. |
 
+:::
+
 (Note that *.alis.* begins as well as ends with a pause, because all Lojban words beginning with a vowel must be preceded by a pause. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") for more information.)Names of this kind have two basic uses in Lojban: when used in a vocative phrase (see [Section 6.11](/chapter06/#611-the-syntax-of-vocative-phrases "6.11. The syntax of vocative phrases")) they indicate who the listener is or should be. When used with a descriptor of selma'o LA, namely *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[la'i](/glossary/#lai)*, they form sumti which refer to the persons or things known by the name.
 
 ##### Example 6.74.
+
+:::jbomupli
 
 |             |        |       |     |        |
 | ----------- | ------ | ----- | --- | ------ |
 | la          | djonz. | klama | le  | zarci  |
 | Those-named | Jones  | go-to | the | store. |
 
+:::
+
 The Joneses go to-the store.
 
 ##### Example 6.75.
+
+:::jbomupli
 
 |                         |        |         |     |        |
 | ----------------------- | ------ | ------- | --- | ------ |
 | lai                     | djonz. | klama   | le  | zarci  |
 | The-mass-of-those-named | Jones  | goes-to | the | store. |
+
+:::
 
 The Joneses go to the store.
 
@@ -1033,19 +1328,27 @@ In [Example 6.74](/chapter06/#example-674 "Example 6.74."), the significance is 
 
 ##### Example 6.76.
 
+:::jbomupli
+
 |               |        |
 | ------------- | ------ |
 | coi           | .djan. |
 | \[greetings\] | John.  |
 
+:::
+
 Hello, John.
 
 ##### Example 6.77.
+
+:::jbomupli
 
 |          |        |                |     |
 | -------- | ------ | -------------- | --- |
 | zo       | .djan. | cmene          | mi  |
 | The-word | “John” | is-the-name-of | me. |
+
+:::
 
 My name is John.
 
@@ -1053,10 +1356,14 @@ In [Example 6.76](/chapter06/#example-676 "Example 6.76.") and [Example 6.77](/c
 
 ##### Example 6.78.
 
+:::jbomupli
+
 |     |                   |     |       |     |       |                 |                |
 | --- | ----------------- | --- | ----- | --- | ----- | --------------- | -------------- |
 | doi | djan. pol. djonz. | le  | bloti | cu  | klama | fi la           | niuport. niuz. |
 | O   | John Paul Jones   | the | boat  |     | goes  | from-that-named | Newport News.  |
+
+:::
 
 John Paul Jones, the boat comes (to somewhere) from Newport News.
 
@@ -1064,12 +1371,16 @@ A name may not contain any consonant combination that is illegal in Lojban words
 
 ##### Example 6.79.
 
+:::jbomupli
+
 |                          |            |                      |
 | ------------------------ | ---------- | -------------------- |
 | Doyle                    | *\*doi,l*  | *do'il* or *dai,l*   |
 | Lyra                     | *\*lairas* | *ly'iras*            |
 | Lottie                   | *\*latis*  | *LYtis.* or *lotis.* |
 | (American pronunciation) |            |                      |
+
+:::
 
 Names may be borrowed from other languages or created arbitrarily. Another common practice is to use one or more rafsi, arranged to end with a consonant, to form a name: thus the rafsi *loj-* for *[logji](/glossary/#logji)* (logical) and *ban-* for *[bangu](/glossary/#bangu)* (language) unite to form the name of this language:
 
@@ -1087,10 +1398,14 @@ When borrowing names from another language which end in a vowel, or when turning
 
 ##### Example 6.81.
 
+:::jbomupli
+
 |     |       |      |
 | --- | ----- | ---- |
 | mi  | prami | do   |
 | I   | love  | you. |
+
+:::
 
 The personal pro-sumti may be interpreted in context as either representing individuals or masses, so the implicit quantifier may be *[pisu'o](/glossary/#pisuo)* rather than *[ro](/glossary/#ro)*: in particular, *[mi'o](/glossary/#mio)*, *[mi'a](/glossary/#mia)*, *[ma'a](/glossary/#maa)*, and *[do'o](/glossary/#doo)* specifically represent mass combinations of the individuals (you and I, I and others, you and I and others, you and others) that make them up.
 
@@ -1098,19 +1413,27 @@ The personal pro-sumti may be interpreted in context as either representing indi
 
 ##### Example 6.82.
 
+:::jbomupli
+
 |     |       |            |      |     |           |     |      |       |     |        |
 | --- | ----- | ---------- | ---- | --- | --------- | --- | ---- | ----- | --- | ------ |
 | le  | cribe | goi        | ko'a | cu  | xekri     | .i  | ko'a | citka | le  | smacu  |
 | The | bear  | defined-as | it-1 |     | is-black. |     | It-1 | eats  | the | mouse. |
 
+:::
+
 [*da*](/glossary/#da), *[de](/glossary/#de)*, *[di](/glossary/#di)* are used as variables in bridi involving predicate logic:
 
 ##### Example 6.83.
+
+:::jbomupli
 
 |     |              |       |             |
 | --- | ------------ | ----- | ----------- |
 | ro  | da           | poi   | prenu       |
 | All | somethings-1 | which | are-persons |
+
+:::
 
 |     |       |     |             |       |            |
 | --- | ----- | --- | ----------- | ----- | ---------- |
@@ -1125,10 +1448,14 @@ All persons love a fish (each his/her own).
 
 ##### Example 6.84.
 
+:::jbomupli
+
 |     |       |     |       |                          |
 | --- | ----- | --- | ----- | ------------------------ |
 | le  | cribe | cu  | batci | vo'a                     |
 | The | bear  |     | bites | what-is-in-the-x1-place. |
+
+:::
 
 The bear bites itself.
 
@@ -1136,10 +1463,14 @@ The bear bites itself.
 
 ##### Example 6.85.
 
+:::jbomupli
+
 |     |       |            |            |                                     |
 | --- | ----- | ---------- | ---------- | ----------------------------------- |
 | mi  | klama | la         | frankfurt. | ri                                  |
 | I   | go-to | that-named | Frankfurt  | from-the-referent-of-the-last-sumti |
+
+:::
 
 I go from Frankfurt to Frankfurt (by some unstated route).
 
@@ -1147,10 +1478,14 @@ I go from Frankfurt to Frankfurt (by some unstated route).
 
 ##### Example 6.86.
 
+:::jbomupli
+
 |     |       |            |            |
 | --- | ----- | ---------- | ---------- |
 | mi  | klama | la         | frankfurt. |
 | I   | go-to | that-named | Frankfurt  |
+
+:::
 
 |                  |                 |                       |
 | ---------------- | --------------- | --------------------- |
@@ -1163,10 +1498,14 @@ The implicit quantifier for indefinite pro-sumti is, well, indefinite. It might 
 
 ##### Example 6.87.
 
+:::jbomupli
+
 |                    |        |
 | ------------------ | ------ |
 | ko                 | muvgau |
 | You \[imperative\] | move   |
+
+:::
 
 |            |                        |                             |
 | ---------- | ---------------------- | --------------------------- |
@@ -1179,10 +1518,14 @@ Move this from there to over there!
 
 ##### Example 6.88.
 
+:::jbomupli
+
 |            |     |      |     |        |            |       |
 | ---------- | --- | ---- | --- | ------ | ---------- | ----- |
 | li         | re  | su'i | re  | du     | li         | vo    |
 | The-number | two | plus | two | equals | the-number | four. |
+
+:::
 
 |     |                 |                        |          |
 | --- | --------------- | ---------------------- | -------- |
@@ -1195,10 +1538,14 @@ The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)*
 
 ##### Example 6.89.
 
+:::jbomupli
+
 |     |       |     |        |     |           |                       |
 | --- | ----- | --- | ------ | --- | --------- | --------------------- |
 | mi  | viska | le  | mlatu  | ku  | poi       | zo'e                  |
 | I   | see   | the | cat(s) |     | such-that | something-unspecified |
+
+:::
 
 |       |                    |                |          |
 | ----- | ------------------ | -------------- | -------- |
@@ -1211,10 +1558,14 @@ I see the cat(s) made of plastic.
 
 ##### Example 6.90.
 
+:::jbomupli
+
 |     |       |             |
 | --- | ----- | ----------- |
 | do  | klama | ma          |
 | You | go-to | what-sumti? |
+
+:::
 
 Where are you going?
 
@@ -1230,10 +1581,14 @@ Text quotations are preceded by *[lu](/glossary/#lu)* and followed by *[li'u](/g
 
 ##### Example 6.91.
 
+:::jbomupli
+
 |     |       |                    |      |        |              |
 | --- | ----- | ------------------ | ---- | ------ | ------------ |
 | mi  | cusku | lu                 | mi'e | .djan. | li'u         |
 | I   | say   | the-text \[quote\] | I-am | John   | \[unquote\]. |
+
+:::
 
 I say “I'm John”.
 
@@ -1241,10 +1596,14 @@ Words quotations are quotations of one or more Lojban words. The words need not 
 
 ##### Example 6.92.
 
+:::jbomupli
+
 |     |       |                     |         |              |
 | --- | ----- | ------------------- | ------- | ------------ |
 | mi  | cusku | lo'u                | li mi   | le'u         |
 | I   | say   | the-words \[quote\] | *li mi* | \[unquote\]. |
+
+:::
 
 I say “*li mi*”.
 
@@ -1254,19 +1613,27 @@ Single-word quotation quotes a single Lojban word. Compound cmavo are not allowe
 
 ##### Example 6.93.
 
+:::jbomupli
+
 |     |       |          |                        |
 | --- | ----- | -------- | ---------------------- |
 | mi  | cusku | zo       | .ai                    |
 | I   | say   | the-word | *[ai.](/glossary/#ai)* |
 
+:::
+
 Non-Lojban quotation can quote anything, Lojban or not, even non-speech such as drum talk, whistle words, music, or belching. A Lojban word which does not appear within the quotation is used before and after it to set it off from the surrounding Lojban text.
 
 ##### Example 6.94.
+
+:::jbomupli
 
 |     |         |                |       |          |       |
 | --- | ------- | -------------- | ----- | -------- | ----- |
 | mi  | cusku   | zoi            | kuot. | I'm John | .kuot |
 | I   | express | \[non-Lojban\] | <     | I'm John | >.    |
+
+:::
 
 I say “I'm John”.
 
@@ -1278,13 +1645,19 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 
 ##### Example 6.95.
 
+:::jbomupli
+
 |            |      |
 | ---------- | ---- |
 | li         | vo   |
 | the-number | four |
 | 4          |      |
 
+:::
+
 ##### Example 6.96.
+
+:::jbomupli
 
 |            |     |      |     |
 | ---------- | --- | ---- | --- |
@@ -1292,7 +1665,11 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | the-number | two | plus | two |
 | 2 + 2      |     |      |     |
 
+:::
+
 ##### Example 6.97.
+
+:::jbomupli
 
 |              |      |          |     |          |     |      |     |          |     |      |     |
 | ------------ | ---- | -------- | --- | -------- | --- | ---- | --- | -------- | --- | ---- | --- |
@@ -1300,14 +1677,20 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | the-number   | a    | times    | x   | to-power | 2   | plus | b   | times    | x   | plus | c   |
 | ax2 + bx + c |      |          |     |          |     |      |     |          |     |      |     |
 
+:::
+
 An alternative to *[li](/glossary/#li)* is *[me'o](/glossary/#meo)*, also of selma'o LI. Number expressions beginning with *[me'o](/glossary/#meo)* refer to the actual expression, rather than its value. Thus [Example 6.95](/chapter06/#example-695 "Example 6.95.") and [Example 6.96](/chapter06/#example-696 "Example 6.96.") above have the same meaning, the number four, whereas
 
 ##### Example 6.98.
+
+:::jbomupli
 
 |                |      |
 | -------------- | ---- |
 | me'o           | vo   |
 | the-expression | four |
+
+:::
 
 “4”
 
@@ -1315,10 +1698,14 @@ and
 
 ##### Example 6.99.
 
+:::jbomupli
+
 |                |     |      |     |
 | -------------- | --- | ---- | --- |
 | me'o           | re  | su'i | re  |
 | the-expression | two | plus | two |
+
+:::
 
 “2+2”
 

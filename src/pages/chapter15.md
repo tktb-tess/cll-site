@@ -99,19 +99,27 @@ The simplest way to express a bridi negation is to use the cmavo *[na](/glossary
 
 ##### Example 15.13.
 
+:::jbomupli
+
 |     |       |     |        |
 | --- | ----- | --- | ------ |
 | mi  | klama | le  | zarci  |
 | I   | go-to | the | store. |
 
+:::
+
 when negated becomes:
 
 ##### Example 15.14.
+
+:::jbomupli
 
 |     |           |       |     |        |
 | --- | --------- | ----- | --- | ------ |
 | mi  | na        | klama | le  | zarci  |
 | I   | \[false\] | go-to | the | store. |
+
+:::
 
 Note that we have used a special convention to show in the English that a bridi negation is present. We would like to use the word “not”, because this highlights the naturalness of putting the negation marker just before the selbri, and makes the form easier to learn. But there is a major difference between Lojban's bridi negation with *[na](/glossary/#na)* and natural language negation with “not”. In English, the word “not” can apply to a single word, to a phrase, to an English predicate, or to the entire sentence. In addition, “not” may indicate either contradictory negation or another form of negation, depending on the sentence. Lojban's internal bridi negation, on the other hand, always applies to an entire bridi, and is always a contradictory negation; that is, it contradicts the claim of the whole bridi.
 
@@ -119,19 +127,27 @@ Because of the ambiguity of English “not”, we will use “\[false\]” in th
 
 ##### Example 15.15.
 
+:::jbomupli
+
 |     |        |           |     |               |     |         |
 | --- | ------ | --------- | --- | ------------- | --- | ------- |
 | mi  | \[cu\] | na        | ca  | klama         | le  | zarci   |
 | I   |        | \[false\] | now | am-a-go-er-to | the | market. |
 
+:::
+
 I am not going to the market now.
 
 ##### Example 15.16.
+
+:::jbomupli
 
 |            |         |                  |     |
 | ---------- | ------- | ---------------- | --- |
 | lo         | ca      | nolraitru        | be  |
 | The-actual | present | noblest-governor | of  |
+
+:::
 
 |     |                |     |           |                  |
 | --- | -------------- | --- | --------- | ---------------- |
@@ -142,10 +158,14 @@ The current king of France isn't bald.
 
 ##### Example 15.17.
 
+:::jbomupli
+
 |      |           |          |        |         |               |      |
 | ---- | --------- | -------- | ------ | ------- | ------------- | ---- |
 | ti   | na        | barda    | prenu  | co      | melbi         | mi   |
 | This | \[false\] | is-a-big | person | of-type | (beautiful-to | me). |
+
+:::
 
 This isn't a big person who is beautiful to me.
 
@@ -157,10 +177,14 @@ In Lojban, there are several structures that implicitly contain bridi, so that L
 
 ##### Example 15.18.
 
+:::jbomupli
+
 |     |           |                |     |          |
 | --- | --------- | -------------- | --- | -------- |
 | mi  | na        | gleki          | le  | nu       |
 | I   | \[false\] | am-happy-about | the | event-of |
+
+:::
 
 |            |          |     |          |           |
 | ---------- | -------- | --- | -------- | --------- |
@@ -174,10 +198,14 @@ In the previous example, we used internal negations in abstraction bridi; bridi 
 
 ##### Example 15.19.
 
+:::jbomupli
+
 |     |            |                      |            |             |
 | --- | ---------- | -------------------- | ---------- | ----------- |
 | mi  | nelci      | le                   | na         | melbi       |
 | I   | am-fond-of | the-one-described-as | (\[false\] | beautiful). |
+
+:::
 
 I am fond of the one who isn't beautiful.
 
@@ -185,10 +213,14 @@ A more extreme (and more indefinite) example is:
 
 ##### Example 15.20.
 
+:::jbomupli
+
 |     |            |            |            |
 | --- | ---------- | ---------- | ---------- |
 | mi  | nelci      | lo         | na         |
 | I   | am-fond-of | one-who-is | (\[false\] |
+
+:::
 
 |             |           |     |     |                  |
 | ----------- | --------- | --- | --- | ---------------- |
@@ -205,28 +237,40 @@ The grammar of *[na](/glossary/#na)* allows multiple adjacent negations, which c
 
 ##### Example 15.21.
 
+:::jbomupli
+
 |      |           |           |          |        |      |                  |      |
 | ---- | --------- | --------- | -------- | ------ | ---- | ---------------- | ---- |
 | ti   | na        | na        | barda    | prenu  | co   | melbi            | mi   |
 | This | \[false\] | \[false\] | is-a-big | person | that | is-(beautiful-to | me). |
 
+:::
+
 which is the same as:
 
 ##### Example 15.22.
+
+:::jbomupli
 
 |      |          |        |      |                  |      |
 | ---- | -------- | ------ | ---- | ---------------- | ---- |
 | ti   | barda    | prenu  | co   | melbi            | mi   |
 | This | is-a-big | person | that | is-(beautiful-to | me). |
 
+:::
+
 When a selbri is tagged with a tense or a modal, negation with *[na](/glossary/#na)* is permitted in two positions: before or after the tag. No semantic difference between these forms has yet been defined, but this is not finally determined, since the interactions between tenses/modals and bridi negation have not been fully explored. In particular, it remains to be seen whether sentences using less familiar tenses, such as:
 
 ##### Example 15.23.
+
+:::jbomupli
 
 |     |        |            |       |     |         |
 | --- | ------ | ---------- | ----- | --- | ------- |
 | mi  | \[cu\] | ta'e       | klama | le  | zarci   |
 | I   |        | habitually | go-to | the | market. |
+
+:::
 
 mean the same thing with *[na](/glossary/#na)* before the *[ta'e](/glossary/#tae)*, as when the negation occurs afterwards; we'll let future, Lojban-speaking, logicians decide on how they relate to each other.
 
@@ -242,10 +286,14 @@ as:
 
 ##### Example 15.25.
 
+:::jbomupli
+
 |     |           |       |     |        |            |
 | --- | --------- | ----- | --- | ------ | ---------- |
 | mi  | na        | klama | le  | zarci  | ki'u       |
 | I   | \[false\] | go-to | the | market | because-of |
+
+:::
 
 |              |     |       |     |            |
 | ------------ | --- | ----- | --- | ---------- |
@@ -260,10 +308,14 @@ Such mistranslations result from the ambiguity of English compounded by the mess
 
 ##### Example 15.26.
 
+:::jbomupli
+
 |     |          |     |           |          |     |         |     |     |                 |
 | --- | -------- | --- | --------- | -------- | --- | ------- | --- | --- | --------------- |
 | le  | nu       | mi  | na        | klama    | le  | zarci   | cu  | se  | krinu           |
 | The | event-of | (my | \[false\] | going-to | the | market) |     |     | is-justified-by |
+
+:::
 
 |     |          |      |       |     |                |
 | --- | -------- | ---- | ----- | --- | -------------- |
@@ -427,17 +479,25 @@ All the scalar negations illustrated in [Section 15.3](/chapter15/#153-scalar-ne
 
 ##### Example 15.44.
 
+:::jbomupli
+
 |     |       |     |         |
 | --- | ----- | --- | ------- |
 | mi  | klama | le  | zarci   |
 | I   | go-to | the | market. |
 
+:::
+
 ##### Example 15.45.
+
+:::jbomupli
 
 |     |             |        |     |         |
 | --- | ----------- | ------ | --- | ------- |
 | mi  | na'e        | klama  | le  | zarci   |
 | I   | (other-than | go-to) | the | market. |
+
+:::
 
 Comparing these two, we see that the negation operator being used in [Example 15.45](/chapter15/#example-1545 "Example 15.45.") is *[na'e](/glossary/#nae)*. But what exactly does *[na'e](/glossary/#nae)* negate? Does the negation include only the gismu *[klama](/glossary/#klama)*, which is the entire selbri in this case, or does it include the *le zarci* as well? In Lojban, the answer is unambiguously “only the gismu”. The cmavo *[na'e](/glossary/#nae)* always applies only to what follows it.
 
@@ -445,10 +505,14 @@ Comparing these two, we see that the negation operator being used in [Example 15
 
 ##### Example 15.46.
 
+:::jbomupli
+
 |     |           |       |     |         |
 | --- | --------- | ----- | --- | ------- |
 | mi  | na        | klama | le  | zarci   |
 | I   | \[false\] | go-to | the | market. |
+
+:::
 
 but in fact there is no real parallelism at all. A negation using *[na](/glossary/#na)* denies the truth of a relationship, but a selbri negation with *[na'e](/glossary/#nae)* asserts that a relationship exists other than that stated, one which specifically involves the sumti identified in the statement. The grammar allotted to *[na'e](/glossary/#nae)* allows us to unambiguously express scalar negations in terms of scope, scale, and range within the scale. Before we explain the scalar aspects, let us show how the scope of *[na'e](/glossary/#nae)* is determined.
 
@@ -456,26 +520,38 @@ In tanru, we may wish to negate an individual element before combining it with a
 
 ##### Example 15.47.
 
+:::jbomupli
+
 |     |            |       |     |         |
 | --- | ---------- | ----- | --- | ------- |
 | mi  | cadzu      | klama | le  | zarci   |
 | I   | walking-ly | go-to | the | market. |
 
+:::
+
 can be subjected to selbri negation in several ways. Two are:
 
 ##### Example 15.48.
+
+:::jbomupli
 
 |     |             |            |       |     |         |
 | --- | ----------- | ---------- | ----- | --- | ------- |
 | mi  | na'e        | cadzu      | klama | le  | zarci   |
 | I   | (other-than | walkingly) | go-to | the | market. |
 
+:::
+
 ##### Example 15.49.
+
+:::jbomupli
 
 |     |           |             |        |     |         |
 | --- | --------- | ----------- | ------ | --- | ------- |
 | mi  | cadzu     | na'e        | klama  | le  | zarci   |
 | I   | walkingly | (other-than | go-to) | the | market. |
+
+:::
 
 These negations show the default scope of *[na'e](/glossary/#nae)* is close-binding on an individual brivla in a tanru. [Example 15.48](/chapter15/#example-1548 "Example 15.48.") says that I am going to the market, but in some kind of a non-walking manner. (As with most tanru, there are a few other possible interpretations, but we'll assume this one – see [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri") for a discussion of tanru meaning).
 
@@ -487,11 +563,15 @@ We also need a scalar negation form that has a scope longer than a single brivla
 
 ##### Example 15.50.
 
+:::jbomupli
+
 |     |            |     |           |       |           |     |         |
 | --- | ---------- | --- | --------- | ----- | --------- | --- | ------- |
 | mi  | na'e       | ke  | cadzu     | klama | \[ke'e\]  | le  | zarci   |
 | mi  | na'e       | (ke | cadzu     | klama | \[ke'e\]) | le  | zarci   |
 | I   | other-than | (   | walkingly | go-to | )         | the | market. |
+
+:::
 
 This negation uses the same *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* delimiters (the *[ke'e](/glossary/#kee)* is always elidable at the end of a selbri) that are used in tanru. The sentence clearly negates the entire selbri. The *[ke'e](/glossary/#kee)*, whether elided or not, reminds us that the negation does not include the trailing sumti. While the trailing-sumti place-structure is defined as that of the final brivla, the trailing sumti themselves are not part of the selbri and are thus not negated by *[na'e](/glossary/#nae)*.
 
@@ -499,11 +579,15 @@ Negations of just part of the selbri are also permitted:
 
 ##### Example 15.51.
 
+:::jbomupli
+
 |     |            |     |         |           |       |       |     |         |
 | --- | ---------- | --- | ------- | --------- | ----- | ----- | --- | ------- |
 | mi  | na'e       | ke  | sutra   | cadzu     | ke'e  | klama | le  | zarci   |
 | mi  | na'e       | (ke | sutra   | cadzu     | ke'e) | klama | le  | zarci   |
 | I   | other-than | (   | quickly | walkingly | )     | go-to | the | market. |
+
+:::
 
 In [Example 15.51](/chapter15/#example-1551 "Example 15.51."), only the *sutra cadzu* tanru is negated, so the speaker is indeed going to the market, but not by walking quickly.
 
@@ -511,10 +595,14 @@ Negations made with *[na'e](/glossary/#nae)* or *na'eke* also include within the
 
 ##### Example 15.52.
 
+:::jbomupli
+
 |     |            |     |         |         |     |     |       |         |
 | --- | ---------- | --- | ------- | ------- | --- | --- | ----- | ------- |
 | mi  | na'e       | ke  | sutra   | cadzu   | be  | le  | mi    | birka   |
 | I   | other-than | (   | quickly | walking | on  | the | of-me | arms-ly |
+
+:::
 
 |      |       |     |         |
 | ---- | ----- | --- | ------- |
@@ -525,19 +613,27 @@ Note that [Example 15.53](/chapter15/#example-1553 "Example 15.53.") and [Exampl
 
 ##### Example 15.53.
 
+:::jbomupli
+
 |     |            |     |         |         |           |      |       |
 | --- | ---------- | --- | ------- | ------- | --------- | ---- | ----- |
 | mi  | na'e       | ke  | sutra   | cadzu   | \[ke'e\]  | lemi | birka |
 | mi  | na'e       | (ke | sutra   | cadzu   | \[ke'e\]) | lemi | birka |
 | I   | other-than | (   | quickly | walk-on | )         | my   | arms. |
 
+:::
+
 ##### Example 15.54.
+
+:::jbomupli
 
 |     |            |     |         |       |     |      |       |           |
 | --- | ---------- | --- | ------- | ----- | --- | ---- | ----- | --------- |
 | mi  | na'e       | ke  | sutra   | cadzu | be  | lemi | birka | \[ke'e\]  |
 | mi  | na'e       | (ke | sutra   | cadzu | be  | lemi | birka | \[ke'e\]) |
 | I   | other-than | (   | quickly | walk  | on  | my   | arms  | ).        |
+
+:::
 
 The translations show that the negation in [Example 15.53](/chapter15/#example-1553 "Example 15.53.") is more restricted in scope; i.e. less of the sentence is negated with respect to x1 (*[mi](/glossary/#mi)*).
 
@@ -563,18 +659,26 @@ In a lujvo, it is probably clearest to translate *-nal-* as “non-”, to match
 
 ##### Example 15.56.
 
+:::jbomupli
+
 |     |            |         |     |         |
 | --- | ---------- | ------- | --- | ------- |
 | mi  | na'e       | klama   | le  | zarci   |
 | I   | other-than | (go-to) | the | market. |
 | I   | not        | go-to   | the | market. |
 
+:::
+
 ##### Example 15.57.
+
+:::jbomupli
 
 |     |                   |     |         |
 | --- | ----------------- | --- | ------- |
 | mi  | nalkla            | le  | zarci   |
 | I   | am-a-non-go-er-to | the | market. |
+
+:::
 
 Note that to compare with the English translation form using “non-”, we've translated the Lojban as if the selbri were a noun. Since Lojban *[klama](/glossary/#klama)* is indifferently a noun, verb, or adjective, the difference is purely a translation change, not a true change in meaning. The English difference seems significant, though, due to the strongly different English grammatical forms and the ambiguity of English negation.
 
@@ -582,10 +686,14 @@ Consider the following highly problematic sentence:
 
 ##### Example 15.58.
 
+:::jbomupli
+
 |           |           |                  |
 | --------- | --------- | ---------------- |
 | lo        | ca        | nolraitru        |
 | An-actual | currently | noblest-governor |
+
+:::
 
 |     |     |                |     |                  |
 | --- | --- | -------------- | --- | ---------------- |
@@ -598,10 +706,14 @@ The selbri *[krecau](/glossary/#krecau)* negates with *[na'e](/glossary/#nae)* a
 
 ##### Example 15.59.
 
+:::jbomupli
+
 |           |           |                  |
 | --------- | --------- | ---------------- |
 | lo        | ca        | nolraitru        |
 | An-actual | currently | noblest-governor |
+
+:::
 
 |     |     |                |     |               |               |
 | --- | --- | -------------- | --- | ------------- | ------------- |
@@ -614,10 +726,14 @@ or, as a lujvo:
 
 ##### Example 15.60.
 
+:::jbomupli
+
 |           |           |                  |
 | --------- | --------- | ---------------- |
 | lo        | ca        | nolraitru        |
 | An-actual | currently | noblest-governor |
+
+:::
 
 |     |     |                |     |                      |
 | --- | --- | -------------- | --- | -------------------- |
@@ -632,10 +748,14 @@ Since there is no current King of France, it is false to say that he is bald, or
 
 ##### Example 15.61.
 
+:::jbomupli
+
 |           |         |                  |
 | --------- | ------- | ---------------- |
 | lo        | ca      | nolraitru        |
 | An-actual | current | noblest-governor |
+
+:::
 
 |     |     |                |     |           |                  |
 | --- | --- | -------------- | --- | --------- | ---------------- |
@@ -652,28 +772,40 @@ In expressing a scalar negation, we can provide some indication of the scale, ra
 
 ##### Example 15.62.
 
+:::jbomupli
+
 |     |       |     |           |              |
 | --- | ----- | --- | --------- | ------------ |
 | le  | stizu | cu  | na'e      | xunre        |
 | The | chair |     | is-a-non- | (red-thing). |
 
+:::
+
 the pragmatic interpretation is that we mean a different color and not
 
 ##### Example 15.63.
+
+:::jbomupli
 
 |     |       |     |                |     |     |         |
 | --- | ----- | --- | -------------- | --- | --- | ------- |
 | le  | stizu | cu  | dzukla         | be  | le  | zarci   |
 | The | chair |     | walkingly-goes | to  | the | market. |
 
+:::
+
 However, if we have reason to be more explicit (an obtuse or contrary listener, or simply an overt logical analysis), we can clarify that we are referring to a color by saying:
 
 ##### Example 15.64.
+
+:::jbomupli
 
 |     |       |     |              |       |        |
 | --- | ----- | --- | ------------ | ----- | ------ |
 | le  | stizu | cu  | na'e         | xunre | skari  |
 | The | chair |     | (is-of-a-non | red)  | color. |
+
+:::
 
 We might also have reduced the pragmatic ambiguity by making the two trailing sumti values explicit (the “as perceived by” and “under conditions” places have been added to the place structure of *[xunre](/glossary/#xunre)*). But assume we have a really stubborn listener (an artificially semi-intelligent computer?) who will find a way to misinterpret [Example 15.64](/chapter15/#example-1564 "Example 15.64.") even with three specific sumti provided.
 
@@ -681,19 +813,27 @@ In this case, we use a sumti tagged with the sumti tcita *[ci'u](/glossary/#ciu)
 
 ##### Example 15.65.
 
+:::jbomupli
+
 |     |       |     |        |       |     |            |            |              |
 | --- | ----- | --- | ------ | ----- | --- | ---------- | ---------- | ------------ |
 | le  | stizu | cu  | na'e   | xunre | be  | ci'u       | loka       | skari        |
 | The | chair |     | is-non | (red  | on  | a-scale-of | a-property | color-ness). |
 
+:::
+
 We can alternately use the sumti tcita *[teci'e](/glossary/#tecie)*, based on *[ciste](/glossary/#ciste)*, which translates roughly as “of a system of components X”, for universes of discourse; in this case, we would express [Example 15.64](/chapter15/#example-1564 "Example 15.64.") as:
 
 ##### Example 15.66.
+
+:::jbomupli
 
 |     |       |     |          |       |
 | --- | ----- | --- | -------- | ----- |
 | le  | stizu | cu  | na'e     | xunre |
 | The | chair |     | is-a-non | (red  |
+
+:::
 
 |     |          |                     |                |
 | --- | -------- | ------------------- | -------------- |
@@ -704,10 +844,14 @@ Other places of *[ciste](/glossary/#ciste)* can be brought out using the grammar
 
 ##### Example 15.67.
 
+:::jbomupli
+
 |     |       |     |          |       |
 | --- | ----- | --- | -------- | ----- |
 | le  | stizu | cu  | na'e     | xunre |
 | The | chair |     | is-a-non | (red  |
+
+:::
 
 |     |          |                     |                |
 | --- | -------- | ------------------- | -------------- |
@@ -718,10 +862,14 @@ The cmavo *[le'a](/glossary/#lea)*, also in selma'o BAI, can be used to specify 
 
 ##### Example 15.68.
 
+:::jbomupli
+
 |     |       |     |          |       |
 | --- | ----- | --- | -------- | ----- |
 | le  | stizu | cu  | na'e     | xunre |
 | The | chair |     | is-a-non | (red  |
+
+:::
 
 |     |            |                     |                |
 | --- | ---------- | ------------------- | -------------- |
@@ -734,44 +882,64 @@ The cmavo *[na'e](/glossary/#nae)* is not the only member of selma'o NAhE. If we
 
 ##### Example 15.69.
 
+:::jbomupli
+
 |     |       |     |                   |       |     |       |               |             |
 | --- | ----- | --- | ----------------- | ----- | --- | ----- | ------------- | ----------- |
 | le  | stizu | cu  | to'e              | xunre | be  | ci'u  | loka          | skari       |
 | The | chair |     | is-a-(opposite-of | red)  | on  | scale | a-property-of | color-ness. |
 
+:::
+
 Likewise, the midpoint of a scale can be expressed with the cmavo *[no'e](/glossary/#noe)*, also grammatically equivalent to *[na'e](/glossary/#nae)*. Here are some parallel examples of *[na'e](/glossary/#nae)*, *[no'e](/glossary/#noe)*, and *[to'e](/glossary/#toe)*:
 
 ##### Example 15.70.
+
+:::jbomupli
 
 |      |               |
 | ---- | ------------- |
 | ta   | melbi         |
 | That | is-beautiful. |
 
+:::
+
 ##### Example 15.71.
+
+:::jbomupli
 
 |      |               |            |
 | ---- | ------------- | ---------- |
 | ta   | na'e          | melbi      |
 | That | is-other-than | beautiful. |
 
+:::
+
 That is ugly \[in one sense\].
 
 ##### Example 15.72.
+
+:::jbomupli
 
 |      |              |            |
 | ---- | ------------ | ---------- |
 | ta   | no'e         | melbi      |
 | That | is-neutrally | beautiful. |
 
+:::
+
 That is plain/ordinary-looking (neither ugly nor beautiful).
 
 ##### Example 15.73.
+
+:::jbomupli
 
 |      |                |            |
 | ---- | -------------- | ---------- |
 | ta   | to'e           | melbi      |
 | That | is-opposite-of | beautiful. |
+
+:::
 
 That is ugly/very ugly/repulsive.
 
@@ -789,10 +957,14 @@ Let us show examples of each.
 
 ##### Example 15.74.
 
+:::jbomupli
+
 |      |                  |           |                   |     |
 | ---- | ---------------- | --------- | ----------------- | --- |
 | no   | lo               | ca        | nolraitru         | be  |
 | Zero | of-those-who-are | currently | noblest-governors | of  |
+
+:::
 
 |     |                |     |                   |
 | --- | -------------- | --- | ----------------- |
@@ -807,10 +979,14 @@ Now let us look at the same sentence using *na'ebo* negation:
 
 ##### Example 15.75.
 
+:::jbomupli
+
 |                      |      |         |                  |
 | -------------------- | ---- | ------- | ---------------- |
 | na'ebo               | lo   | ca      | nolraitru        |
 | Something-other-than | (the | current | noblest-governor |
+
+:::
 
 |     |     |                 |     |                  |
 | --- | --- | --------------- | --- | ---------------- |
@@ -825,10 +1001,14 @@ In place of *na'ebo*, you may also use *no'ebo* and *to'ebo*, to be more specifi
 
 ##### Example 15.76.
 
+:::jbomupli
+
 |     |       |                 |            |         |
 | --- | ----- | --------------- | ---------- | ------- |
 | mi  | klama | to'ebo          | la         | bastn.  |
 | I   | go-to | the-opposite-of | that-named | Boston. |
+
+:::
 
 I go to Perth.
 
@@ -848,10 +1028,14 @@ When attached to tenses and modals (see [Section 9.13](/chapter09/#913-modal-neg
 
 ##### Example 15.77.
 
+:::jbomupli
+
 |     |           |          |       |     |        |
 | --- | --------- | -------- | ----- | --- | ------ |
 | mi  | na        | pu       | klama | le  | zarci  |
 | I   | \[false\] | \[past\] | go-to | the | store. |
+
+:::
 
 I didn't go to the store.
 
@@ -859,10 +1043,14 @@ and
 
 ##### Example 15.78.
 
+:::jbomupli
+
 |     |              |       |     |        |
 | --- | ------------ | ----- | --- | ------ |
 | mi  | punai        | klama | le  | zarci  |
 | I   | \[past-not\] | go-to | the | store. |
+
+:::
 
 I didn't go to the store.
 
@@ -874,10 +1062,14 @@ As a special case, a *-nai* attached to the interval modifiers of selma'o TAhE, 
 
 ##### Example 15.79.
 
+:::jbomupli
+
 |     |                  |          |     |       |
 | --- | ---------------- | -------- | --- | ----- |
 | mi  | paroinai         | dansu    | le  | bisli |
 | I   | \[once\]-\[not\] | dance-on | the | ice   |
+
+:::
 
 means that I dance on the ice either zero or else two or more times within the relevant time interval described by the bridi. [Example 15.79](/chapter15/#example-1579 "Example 15.79.") is very different from the English use of “not once”, which is an emphatic way of saying “never” – that is, exactly zero times.
 
@@ -899,10 +1091,14 @@ One application of negation is in answer to truth questions (those which expect 
 
 ##### Example 15.80.
 
+:::jbomupli
+
 |                  |             |       |            |         |
 | ---------------- | ----------- | ----- | ---------- | ------- |
 | xu               | la          | djan. | pu         | klama   |
 | Is-it-true-that: | (that-named | John  | previously | went-to |
+
+:::
 
 |            |        |     |            |        |
 | ---------- | ------ | --- | ---------- | ------ |
@@ -915,10 +1111,14 @@ The straightforward negative answer is grammatically equivalent to the expanded 
 
 ##### Example 15.81.
 
+:::jbomupli
+
 |           |                     |
 | --------- | ------------------- |
 | na        | go'i                |
 | \[false\] | \[repeat-previous\] |
+
+:::
 
 No.
 
@@ -926,10 +1126,14 @@ which means
 
 ##### Example 15.82.
 
+:::jbomupli
+
 |            |       |           |            |         |       |
 | ---------- | ----- | --------- | ---------- | ------- | ----- |
 | la         | djan. | \[cu\]    | na         | pu      | klama |
 | That-named | John  | \[false\] | previously | went-to |       |
+
+:::
 
 |            |        |     |            |       |
 | ---------- | ------ | --- | ---------- | ----- |
@@ -942,19 +1146,27 @@ The respondent can change the tense, putting the *[na](/glossary/#na)* in either
 
 ##### Example 15.83.
 
+:::jbomupli
+
 |           |            |                     |
 | --------- | ---------- | ------------------- |
 | na        | ba         | go'i                |
 | \[false\] | \[future\] | \[repeat-previous\] |
 
+:::
+
 meaning
 
 ##### Example 15.84.
+
+:::jbomupli
 
 |            |       |        |           |       |            |
 | ---------- | ----- | ------ | --------- | ----- | ---------- |
 | la         | djan. | \[cu\] | na        | ba    | klama      |
 | That-named | John  |        | \[false\] | later | will-go-to |
+
+:::
 
 |            |        |     |            |       |
 | ---------- | ------ | --- | ---------- | ----- |
@@ -967,19 +1179,27 @@ or alternatively
 
 ##### Example 15.85.
 
+:::jbomupli
+
 |            |           |                     |
 | ---------- | --------- | ------------------- |
 | ba         | na        | go'i                |
 | \[future\] | \[false\] | \[repeat-previous\] |
 
+:::
+
 meaning
 
 ##### Example 15.86.
+
+:::jbomupli
 
 |            |       |        |            |           |
 | ---------- | ----- | ------ | ---------- | --------- |
 | la         | djan. | \[cu\] | ba         | na        |
 | that-named | John  |        | later-will | \[false\] |
+
+:::
 
 |       |            |        |     |            |       |
 | ----- | ---------- | ------ | --- | ---------- | ----- |
@@ -992,19 +1212,27 @@ You can also use a scalar negation with *[na'e](/glossary/#nae)*, in which case,
 
 ##### Example 15.87.
 
+:::jbomupli
+
 |            |                     |
 | ---------- | ------------------- |
 | na'e       | go'i                |
 | other-than | \[repeat-previous\] |
 
+:::
+
 which means
 
 ##### Example 15.88.
+
+:::jbomupli
 
 |            |       |        |            |             |         |          |
 | ---------- | ----- | ------ | ---------- | ----------- | ------- | -------- |
 | la         | djan. | \[cu\] | pu         | na'eke      | klama   | \[ke'e\] |
 | that-named | John  |        | previously | other-than( | went-to | )        |
+
+:::
 
 |            |        |     |            |       |
 | ---------- | ------ | --- | ---------- | ----- |
@@ -1019,19 +1247,27 @@ There is an explicit positive form for both selma'o NA (*[je'a](/glossary/#jea)*
 
 ##### Example 15.89.
 
+:::jbomupli
+
 |                 |           |                      |
 | --------------- | --------- | -------------------- |
 | xu              | na        | go'i                 |
 | Is-it-true-that | \[false\] | \[repeat-previous\]? |
 
+:::
+
 or equivalently
 
 ##### Example 15.90.
+
+:::jbomupli
 
 |                  |            |       |        |           |            |
 | ---------------- | ---------- | ----- | ------ | --------- | ---------- |
 | xu               | la         | djan. | \[cu\] | na        | pu         |
 | Is-it-true-that: | that-named | John  |        | \[false\] | previously |
+
+:::
 
 |         |           |        |     |            |       |
 | ------- | --------- | ------ | --- | ---------- | ----- |
@@ -1052,10 +1288,14 @@ When considering:
 
 ##### Example 15.92.
 
+:::jbomupli
+
 |           |                     |
 | --------- | ------------------- |
 | na        | go'i                |
 | \[false\] | \[repeat-previous\] |
+
+:::
 
 as a response to a negative question like [Example 15.90](/chapter15/#example-1590 "Example 15.90."), Lojban designers had to choose between two equally plausible interpretations with opposite effects. Does [Example 15.92](/chapter15/#example-1592 "Example 15.92.") create a double negative in the sentence by adding a new *[na](/glossary/#na)* to the one already there (forming a double negative and hence a positive statement), or does the *[na](/glossary/#na)* replace the previous one, leaving the sentence unchanged?
 
@@ -1065,10 +1305,14 @@ The positive assertion cmavo of selma'o NA, which is "ja'a", can also replace th
 
 ##### Example 15.93.
 
+:::jbomupli
+
 |          |                     |
 | -------- | ------------------- |
 | ja'a     | go'i                |
 | \[true\] | \[repeat-previous\] |
+
+:::
 
 John did go to Paris and Rome.
 
@@ -1076,10 +1320,14 @@ John did go to Paris and Rome.
 
 ##### Example 15.94.
 
+:::jbomupli
+
 |     |          |       |     |       |
 | --- | -------- | ----- | --- | ----- |
 | mi  | ja'a     | klama | le  | zarci |
 | I   | \[true\] | go-to | the | store |
+
+:::
 
 I indeed go to the store.
 
@@ -1087,10 +1335,14 @@ I indeed go to the store.
 
 ##### Example 15.95.
 
+:::jbomupli
+
 |      |           |            |
 | ---- | --------- | ---------- |
 | ta   | je'a      | melbi      |
 | that | is-indeed | beautiful. |
+
+:::
 
 ## 15.10. Metalinguistic negation forms
 
@@ -1220,10 +1472,14 @@ Note that metalinguistic negation gives us another kind of legitimate negative a
 
 ##### Example 15.110.
 
+:::jbomupli
+
 |                  |     |       |                 |
 | ---------------- | --- | ----- | --------------- |
 | xu               | do  | sisti | lezu'o          |
 | is-it-true-that: | you | cease | the-activity-of |
+
+:::
 
 |     |                |      |                |
 | --- | -------------- | ---- | -------------- |
@@ -1236,19 +1492,27 @@ Responses could include:
 
 ##### Example 15.111.
 
+:::jbomupli
+
 |                             |                     |
 | --------------------------- | ------------------- |
 | na'i                        | go'i                |
 | \[metalinguistic-negation\] | \[repeat-previous\] |
 
+:::
+
 The bridi as a whole is inappropriate in some way.
 
 ##### Example 15.112.
+
+:::jbomupli
 
 |                     |                             |
 | ------------------- | --------------------------- |
 | go'i                | na'i                        |
 | \[repeat-previous\] | \[metalinguistic-negation\] |
+
+:::
 
 The selbri (*[sisti](/glossary/#sisti)*) is inappropriate in some way.
 
@@ -1256,10 +1520,14 @@ One can also specifically qualify the metalinguistic negation, by explicitly rep
 
 ##### Example 15.113.
 
+:::jbomupli
+
 |                     |                          |
 | ------------------- | ------------------------ |
 | go'i                | ji'una'iku               |
 | \[repeat-previous\] | \[presupposition-wrong\] |
+
+:::
 
 Some presupposition is wrong with the previous bridi.
 

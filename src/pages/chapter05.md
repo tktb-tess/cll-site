@@ -9,10 +9,14 @@ At the center, logically and often physically, of every Lojban bridi is one or m
 
 ##### Example 5.1.
 
+:::jbomupli
+
 |     |                 |     |
 | --- | --------------- | --- |
 | do  | mamta           | mi  |
 | You | are-a-mother-of | me  |
+
+:::
 
 You are my mother
 
@@ -20,10 +24,14 @@ and
 
 ##### Example 5.2.
 
+:::jbomupli
+
 |     |                 |     |
 | --- | --------------- | --- |
 | do  | patfu           | mi  |
 | You | are-a-father-of | me. |
+
+:::
 
 You are my father.
 
@@ -35,28 +43,40 @@ For the purposes of this chapter, however, all brivla are alike. For example,
 
 ##### Example 5.3.
 
+:::jbomupli
+
 |      |            |
 | ---- | ---------- |
 | ta   | bloti      |
 | That | is-a-boat. |
 
+:::
+
 That is a boat.
 
 ##### Example 5.4.
+
+:::jbomupli
 
 |      |                  |
 | ---- | ---------------- |
 | ta   | brablo           |
 | That | is-a-large-boat. |
 
+:::
+
 That is a ship.
 
 ##### Example 5.5.
+
+:::jbomupli
 
 |      |                       |
 | ---- | --------------------- |
 | ta   | blotrskunri           |
 | That | is-a-(boat)-schooner. |
+
+:::
 
 That is a schooner.
 
@@ -72,28 +92,40 @@ In Lojban, tanru are also used for the same purposes as English adjective-noun c
 
 ##### Example 5.6.
 
+:::jbomupli
+
 |             |            |       |
 | ----------- | ---------- | ----- |
 | tu          | pelnimre   | tricu |
 | That-yonder | is-a-lemon | tree. |
 
+:::
+
 That is a lemon tree.
 
 ##### Example 5.7.
+
+:::jbomupli
 
 |            |       |          |       |
 | ---------- | ----- | -------- | ----- |
 | la         | djan. | barda    | nanla |
 | That-named | John  | is-a-big | boy.  |
 
+:::
+
 John is a big boy.
 
 ##### Example 5.8.
+
+:::jbomupli
 
 |     |       |       |
 | --- | ----- | ----- |
 | mi  | sutra | bajra |
 | I   | quick | run   |
+
+:::
 
 I quickly run./I run quickly.
 
@@ -101,10 +133,14 @@ Note that *[pelnimre](/glossary/#pelnimre)* is a lujvo for “lemon”; it is de
 
 ##### Example 5.9.
 
+:::jbomupli
+
 |     |               |
 | --- | ------------- |
 | mi  | sutra         |
 | I   | am-fast/quick |
+
+:::
 
 shows *[sutra](/glossary/#sutra)* used to translate an adjective, whereas in [Example 5.8](/chapter05/#example-58 "Example 5.8.") it is translating an adverb. (Another correct translation of [Example 5.8](/chapter05/#example-58 "Example 5.8."), however, would be “I am a quick runner”.)
 
@@ -136,10 +172,14 @@ All tanru are ambiguous semantically. Possible translations of:
 
 ##### Example 5.13.
 
+:::jbomupli
+
 |      |           |                |
 | ---- | --------- | -------------- |
 | ta   | klama     | jubme          |
 | That | is-a-goer | type-of-table. |
+
+:::
 
 include:
 
@@ -157,17 +197,25 @@ No general theory covering the meaning of all possible tanru exists; probably no
 
 ##### Example 5.14.
 
+:::jbomupli
+
 |     |             |         |
 | --- | ----------- | ------- |
 | do  | barda       | prenu   |
 | You | are-a-large | person. |
 
+:::
+
 ##### Example 5.15.
+
+:::jbomupli
 
 |     |             |         |
 | --- | ----------- | ------- |
 | do  | cmalu       | prenu   |
 | You | are-a-small | person. |
+
+:::
 
 are parallel tanru, in the sense that the relationship between *[barda](/glossary/#barda)* and *[prenu](/glossary/#prenu)* is the same as that between *[cmalu](/glossary/#cmalu)* and *[prenu](/glossary/#prenu)* . [Section 5.14](/chapter05/#514-some-types-of-asymmetrical-tanru "5.14. Some types of asymmetrical tanru") and [Section 5.15](/chapter05/#515-some-types-of-symmetrical-tanru "5.15. Some types of symmetrical tanru") contain a partial listing of some types of tanru, with examples.
 
@@ -201,19 +249,27 @@ Lojban makes no use of tones of voice for any purpose; explicit words are used t
 
 ##### Example 5.19.
 
+:::jbomupli
+
 |      |            |       |     |         |
 | ---- | ---------- | ----- | --- | ------- |
 | ta   | cmalu      | nixli | bo  | ckule   |
 | That | is-a-small | girl  | -   | school. |
 
+:::
+
 [Example 5.18](/chapter05/#example-518 "Example 5.18.") might be translated:
 
 ##### Example 5.20.
+
+:::jbomupli
 
 |      |            |     |       |         |
 | ---- | ---------- | --- | ----- | ------- |
 | ta   | cmalu      | bo  | nixli | ckule   |
 | That | is-a-small | -   | girl  | school. |
+
+:::
 
 The *[bo](/glossary/#bo)* is represented in the literal translation by a bracketed hyphen (not to be confused with the bare hyphen used as a placeholder in other glosses) because in written English a hyphen is sometimes used for the same purpose: “a big dog-catcher” would be quite different from a “big-dog catcher” (presumably someone who catches only big dogs).
 
@@ -223,10 +279,14 @@ What about [Example 5.21](/chapter05/#example-521 "Example 5.21.")? What does it
 
 ##### Example 5.21.
 
+:::jbomupli
+
 |      |            |       |         |
 | ---- | ---------- | ----- | ------- |
 | ta   | cmalu      | nixli | ckule   |
 | That | is-a-small | girl  | school. |
+
+:::
 
 The rules of Lojban do not leave this sentence ambiguous, as the rules of English do with [Example 5.16](/chapter05/#example-516 "Example 5.16."). The choice made by the language designers is to say that [Example 5.21](/chapter05/#example-521 "Example 5.21.") means the same as [Example 5.20](/chapter05/#example-520 "Example 5.20."). This is true no matter what three brivla are used: the leftmost two are always grouped together. This rule is called the “left-grouping rule”. Left-grouping in seemingly ambiguous structures is quite common – though not universal – in other contexts in Lojban.
 
@@ -234,17 +294,25 @@ Another way to express the English meaning of [Example 5.19](/chapter05/#example
 
 ##### Example 5.22.
 
+:::jbomupli
+
 |      |            |         |       |         |          |
 | ---- | ---------- | ------- | ----- | ------- | -------- |
 | ta   | cmalu      |         | nixli | bo      | ckule    |
 | That | is-a-small | type-of | (girl | type-of | school). |
 
+:::
+
 ##### Example 5.23.
+
+:::jbomupli
 
 |      |             |         |       |         |         |
 | ---- | ----------- | ------- | ----- | ------- | ------- |
 | ta   | cmalu       | bo      | nixli |         | ckule   |
 | That | is-a-(small | type-of | girl) | type-of | school. |
+
+:::
 
 Because “type-of” is implicit in the Lojban tanru form, it has no Lojban equivalent.
 
@@ -252,10 +320,14 @@ Note: It is perfectly legal, though pointless, to insert *[bo](/glossary/#bo)* i
 
 ##### Example 5.24.
 
+:::jbomupli
+
 |      |           |     |        |
 | ---- | --------- | --- | ------ |
 | ta   | klama     | bo  | jubme  |
 | That | is-a-goer | -   | table. |
+
+:::
 
 is a legal Lojban bridi that means exactly the same thing as [Example 5.13](/chapter05/#example-513 "Example 5.13."), and is ambiguous in exactly the same ways. The cmavo *[bo](/glossary/#bo)* serves only to resolve grouping ambiguity: it says nothing about the more basic ambiguity present in all tanru.
 
@@ -265,10 +337,14 @@ If one element of a tanru can be another tanru, why not both elements?
 
 ##### Example 5.25.
 
+:::jbomupli
+
 |     |             |         |        |       |         |            |
 | --- | ----------- | ------- | ------ | ----- | ------- | ---------- |
 | do  | mutce       | bo      | barda  | gerku | bo      | kavbu      |
 | You | are-a-(very | type-of | large) | (dog  | type-of | capturer). |
+
+:::
 
 You are a very large dog-catcher.
 
@@ -280,37 +356,53 @@ Here are four ways to group this phrase:
 
 ##### Example 5.26.
 
+:::jbomupli
+
 |      |               |         |         |         |       |         |         |
 | ---- | ------------- | ------- | ------- | ------- | ----- | ------- | ------- |
 | ta   | melbi         |         | cmalu   |         | nixli |         | ckule   |
 | That | is-a-((pretty | type-of | little) | type-of | girl) | type-of | school. |
 
+:::
+
 That is a school for girls who are beautifully small.
 
 ##### Example 5.27.
+
+:::jbomupli
 
 |      |              |         |         |       |         |          |
 | ---- | ------------ | ------- | ------- | ----- | ------- | -------- |
 | ta   | melbi        |         | cmalu   | nixli | bo      | ckule    |
 | That | is-a-(pretty | type-of | little) | (girl | type-of | school). |
 
+:::
+
 That is a girls' school which is beautifully small.
 
 ##### Example 5.28.
+
+:::jbomupli
 
 |      |              |         |         |         |        |         |         |
 | ---- | ------------ | ------- | ------- | ------- | ------ | ------- | ------- |
 | ta   | melbi        |         | cmalu   | bo      | nixli  |         | ckule   |
 | That | is-a-(pretty | type-of | (little | type-of | girl)) | type-of | school. |
 
+:::
+
 That is a school for small girls who are beautiful.
 
 ##### Example 5.29.
+
+:::jbomupli
 
 |      |             |         |         |         |       |         |           |
 | ---- | ----------- | ------- | ------- | ------- | ----- | ------- | --------- |
 | ta   | melbi       |         | cmalu   | bo      | nixli | bo      | ckule     |
 | That | is-a-pretty | type-of | (little | type-of | (girl | type-of | school)). |
+
+:::
 
 That is a small school for girls which is beautiful.
 
@@ -318,10 +410,14 @@ That is a small school for girls which is beautiful.
 
 ##### Example 5.30.
 
+:::jbomupli
+
 |      |             |         |       |         |          |
 | ---- | ----------- | ------- | ----- | ------- | -------- |
 | ta   | cmalu       | bo      | nixli | bo      | ckule    |
 | That | is-a-little | type-of | (girl | type-of | school). |
+
+:::
 
 means the same as [Example 5.19](/chapter05/#example-519 "Example 5.19."), not [Example 5.20](/chapter05/#example-520 "Example 5.20."). This rule may seem peculiar at first, but one of its consequences is that *[bo](/glossary/#bo)* is never necessary between the first two elements of any of the complex tanru presented so far: all of [Example 5.26](/chapter05/#example-526 "Example 5.26.") through [Example 5.29](/chapter05/#example-529 "Example 5.29.") could have *[bo](/glossary/#bo)* inserted between *[melbi](/glossary/#melbi)* and *[cmalu](/glossary/#cmalu)* with no change in meaning.
 
@@ -338,42 +434,62 @@ There is, in fact, a fifth grouping of “pretty little girls' school” that ca
 
 ##### Example 5.31.
 
+:::jbomupli
+
 |      |        |        |        |      |       |         |
 | ---- | ------ | ------ | ------ | ---- | ----- | ------- |
 | ta   | ke     | melbi  | cmalu  | ke'e | nixli | ckule   |
 | That | is-a-( | pretty | little | )    | girl  | school. |
 
+:::
+
 ##### Example 5.32.
+
+:::jbomupli
 
 |      |        |     |        |        |      |       |      |         |
 | ---- | ------ | --- | ------ | ------ | ---- | ----- | ---- | ------- |
 | ta   | ke     | ke  | melbi  | cmalu  | ke'e | nixli | ke'e | ckule   |
 | That | is-a-( | (   | pretty | little | )    | girl  | )    | school. |
 
+:::
+
 ##### Example 5.33.
+
+:::jbomupli
 
 |      |        |     |     |        |        |      |       |      |        |      |
 | ---- | ------ | --- | --- | ------ | ------ | ---- | ----- | ---- | ------ | ---- |
 | ta   | ke     | ke  | ke  | melbi  | cmalu  | ke'e | nixli | ke'e | ckule  | ke'e |
 | That | is-a-( | (   | (   | pretty | little | )    | girl  | )    | school | ).   |
 
+:::
+
 Even more versions could be created simply by placing any number of *[ke](/glossary/#ke)* cmavo at the beginning of the selbri, and a like number of *[ke'e](/glossary/#kee)* cmavo at its end. Obviously, all of these are a waste of breath once the left-grouping rule has been grasped. However, the following is equivalent to [Example 5.28](/chapter05/#example-528 "Example 5.28.") and may be easier to understand:
 
 ##### Example 5.34.
+
+:::jbomupli
 
 |      |        |        |         |     |        |         |       |      |     |         |         |
 | ---- | ------ | ------ | ------- | --- | ------ | ------- | ----- | ---- | --- | ------- | ------- |
 | ta   |        | melbi  |         | ke  | cmalu  |         | nixli | ke'e |     |         | ckule   |
 | That | is-a-( | pretty | type-of | (   | little | type-of | girl  | )    | )   | type-of | school. |
 
+:::
+
 Likewise, a *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* version of [Example 5.27](/chapter05/#example-527 "Example 5.27.") would be:
 
 ##### Example 5.35.
+
+:::jbomupli
 
 |      |              |         |         |     |       |         |        |          |
 | ---- | ------------ | ------- | ------- | --- | ----- | ------- | ------ | -------- |
 | ta   | melbi        |         | cmalu   | ke  | nixli |         | ckule  | \[ke'e\] |
 | That | is-a-(pretty | type-of | little) | (   | girl  | type-of | school | ).       |
+
+:::
 
 The final *[ke'e](/glossary/#kee)* is given in square brackets here to indicate that it can be elided. It is always possible to elide *[ke'e](/glossary/#kee)* at the end of the selbri, making [Example 5.35](/chapter05/#example-535 "Example 5.35.") as terse as [Example 5.27](/chapter05/#example-527 "Example 5.27.").
 
@@ -381,10 +497,14 @@ Now how about that fifth grouping? It is
 
 ##### Example 5.36.
 
+:::jbomupli
+
 |      |             |         |     |     |        |         |       |     |         |        |          |
 | ---- | ----------- | ------- | --- | --- | ------ | ------- | ----- | --- | ------- | ------ | -------- |
 | ta   | melbi       |         | ke  |     | cmalu  |         | nixli |     |         | ckule  | \[ke'e\] |
 | That | is-a-pretty | type-of | (   | (   | little | type-of | girl  | )   | type-of | school | ).       |
+
+:::
 
 That is a beautiful school for small girls.
 
@@ -394,10 +514,14 @@ It is perfectly all right to mix *[bo](/glossary/#bo)* and *[ke](/glossary/#ke)*
 
 ##### Example 5.37.
 
+:::jbomupli
+
 |      |             |         |     |        |
 | ---- | ----------- | ------- | --- | ------ |
 | ta   | melbi       |         | ke  | cmalu  |
 | That | is-a-pretty | type-of | (   | little |
+
+:::
 
 |         |     |       |         |        |          |          |
 | ------- | --- | ----- | ------- | ------ | -------- | -------- |
@@ -408,10 +532,14 @@ can equivalently be expressed as:
 
 ##### Example 5.38.
 
+:::jbomupli
+
 |      |             |         |     |        |           |       |         |        |          |
 | ---- | ----------- | ------- | --- | ------ | --------- | ----- | ------- | ------ | -------- |
 | ta   | melbi       |         | ke  | cmalu  |           | nixli | bo      | ckule  | \[ke'e\] |
 | That | is-a-pretty | type-of | (   | little | type-of-( | girl  | type-of | school | )).      |
+
+:::
 
 and in many other different forms as well.
 
@@ -431,19 +559,27 @@ Consider the English phrase “big red dog”. How shall this be rendered as a L
 
 ##### Example 5.39.
 
+:::jbomupli
+
 |       |         |       |         |       |
 | ----- | ------- | ----- | ------- | ----- |
 | barda |         | xunre |         | gerku |
 | (big  | type-of | red)  | type-of | dog   |
 
+:::
+
 will not do, as it means a dog whose redness is big, in whatever way redness might be described as “big”. Nor is
 
 ##### Example 5.40.
+
+:::jbomupli
 
 |       |         |       |         |       |
 | ----- | ------- | ----- | ------- | ----- |
 | barda |         | xunre | bo      | gerku |
 | big   | type-of | (red  | type-of | dog)  |
+
+:::
 
 much better. After all, the straightforward understanding of the English phrase is that the dog is big as compared with other dogs, not merely as compared with other red dogs. In fact, the bigness and redness are independent properties of the dog, and only obscure rules of English adjective ordering prevent us from saying “red big dog”.
 
@@ -451,28 +587,40 @@ The Lojban approach to this problem is to introduce the cmavo *[je](/glossary/#j
 
 ##### Example 5.41.
 
+:::jbomupli
+
 |       |     |       |         |       |
 | ----- | --- | ----- | ------- | ----- |
 | barda | je  | xunre |         | gerku |
 | (big  | and | red)  | type-of | dog   |
 
+:::
+
 Of course,
 
 ##### Example 5.42.
+
+:::jbomupli
 
 |       |     |       |         |       |
 | ----- | --- | ----- | ------- | ----- |
 | xunre | je  | barda |         | gerku |
 | (red  | and | big)  | type-of | dog   |
 
+:::
+
 is equally satisfactory and means the same thing. As these examples indicate, joining two brivla with *[je](/glossary/#je)* makes them a unit for tanru purposes. However, explicit grouping with *[bo](/glossary/#bo)* or *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* associates brivla more closely than *[je](/glossary/#je)* does:
 
 ##### Example 5.43.
+
+:::jbomupli
 
 |       |     |         |         |       |       |
 | ----- | --- | ------- | ------- | ----- | ----- |
 | barda | je  | pelxu   | bo      | xunre | gerku |
 | (big  | and | (yellow | type-of | red)) | dog   |
+
+:::
 
 |       |     |     |        |         |       |      |       |
 | ----- | --- | --- | ------ | ------- | ----- | ---- | ----- |
@@ -485,10 +633,14 @@ With no grouping indicators, we get:
 
 ##### Example 5.44.
 
+:::jbomupli
+
 |       |     |         |         |       |         |       |
 | ----- | --- | ------- | ------- | ----- | ------- | ----- |
 | barda | je  | pelxu   |         | xunre |         | gerku |
 | ((big | and | yellow) | type-of | red)  | type-of | dog   |
+
+:::
 
 biggish- and yellowish-red dog
 
@@ -498,10 +650,14 @@ Unlike *[bo](/glossary/#bo)* and *[ke](/glossary/#ke)* … *[ke'e](/glossary/#ke
 
 ##### Example 5.45.
 
+:::jbomupli
+
 |      |         |     |            |
 | ---- | ------- | --- | ---------- |
 | ta   | blanu   | je  | zdani      |
 | that | is-blue | and | is-a-house |
+
+:::
 
 definitely refers to something which is both blue and is a house, and not to any of the other possible interpretations of simple *blanu zdani*. Furthermore, *blanu zdani* refers to something which is blue in the way that houses are blue; *blanu je zdani* has no such implication – the blueness of a *blanu je zdani* is independent of its houseness.
 
@@ -511,10 +667,14 @@ A subtle point in the semantics of tanru like [Example 5.41](/chapter05/#example
 
 ##### Example 5.46.
 
+:::jbomupli
+
 |      |                 |     |       |         |         |
 | ---- | --------------- | --- | ----- | ------- | ------- |
 | ta   | melbi           | je  | nixli |         | ckule   |
 | That | is-a-(beautiful | and | girl) | type-of | school. |
+
+:::
 
 It can be understood as:
 
@@ -532,10 +692,14 @@ The interpretation specified by [Example 5.47](/chapter05/#example-547 "Example 
 
 ##### Example 5.49.
 
+:::jbomupli
+
 |      |        |           |         |        |      |     |     |       |         |        |          |
 | ---- | ------ | --------- | ------- | ------ | ---- | --- | --- | ----- | ------- | ------ | -------- |
 | ta   | ke     | melbi     |         | ckule  | ke'e | je  | ke  | nixli |         | ckule  | \[ke'e\] |
 | That | is-a-( | beautiful | type-of | school | )    | and | (   | girl  | type-of | school | )        |
+
+:::
 
 whereas the interpretation specified by [Example 5.48](/chapter05/#example-548 "Example 5.48.") does not. This is a kind of semantic ambiguity for which Lojban does not compel a firm resolution. The way in which the school is said to be of type “beautiful and girl” may entail that it is separately a beautiful school and a girls' school; but the alternative interpretation, that the members of the school are beautiful and girls, is also possible. Still another interpretation is:
 
@@ -551,36 +715,52 @@ The logical connective *[je](/glossary/#je)* is only one of the fourteen logical
 
 ##### Example 5.51.
 
+:::jbomupli
+
 |     |       |     |       |     |     |       |
 | --- | ----- | --- | ----- | --- | --- | ----- |
 | le  | bajra | cu  | jinga | ja  | te  | jinga |
 
+:::
+
 the runner(s) is/are winner(s) or loser(s).
 
 ##### Example 5.52.
+
+:::jbomupli
 
 |       |         |       |       |
 | ----- | ------- | ----- | ----- |
 | blanu | naja    | lenku | skapi |
 | (blue | only-if | cold) | skin  |
 
+:::
+
 skin which is blue only if it is cold
 
 ##### Example 5.53.
+
+:::jbomupli
 
 |       |                |        |          |
 | ----- | -------------- | ------ | -------- |
 | xamgu | jo             | tordu  | nuntavla |
 | (good | if-and-only-if | short) | speech   |
 
+:::
+
 speech which is good if (and only if) it is short
 
 ##### Example 5.54.
+
+:::jbomupli
 
 |            |                |           |                  |
 | ---------- | -------------- | --------- | ---------------- |
 | vajni      | ju             | pluka     | nuntavla         |
 | (important | whether-or-not | pleasing) | event-of-talking |
+
+:::
 
 speech which is important, whether or not it is pleasing
 
@@ -590,19 +770,27 @@ Now consider the following example:
 
 ##### Example 5.55.
 
+:::jbomupli
+
 |       |     |       |      |        |
 | ----- | --- | ----- | ---- | ------ |
 | ricfu | je  | blanu | jabo | crino  |
 | rich  | and | (blue | or   | green) |
 
+:::
+
 which illustrates a new grammatical feature: the use of both *[ja](/glossary/#ja)* and *[bo](/glossary/#bo)* between tanru components. The two cmavo combine to form a compound whose meaning is that of *[ja](/glossary/#ja)* but which groups more closely; *[ja](/glossary/#ja)* *[bo](/glossary/#bo)* is to *[ja](/glossary/#ja)* as plain *[bo](/glossary/#bo)* is to no cmavo at all. However, both *[ja](/glossary/#ja)* and *[ja](/glossary/#ja)* *[bo](/glossary/#bo)* group less closely than *[bo](/glossary/#bo)* does:
 
 ##### Example 5.56.
+
+:::jbomupli
 
 |       |     |       |      |       |     |       |
 | ----- | --- | ----- | ---- | ----- | --- | ----- |
 | ricfu | je  | blanu | jabo | crino | bo  | blanu |
 | rich  | and | (blue | or   | green | -   | blue) |
+
+:::
 
 rich and (blue or greenish-blue)
 
@@ -610,27 +798,39 @@ An alternative form of [Example 5.55](/chapter05/#example-555 "Example 5.55.") i
 
 ##### Example 5.57.
 
+:::jbomupli
+
 |       |     |     |       |     |       |          |
 | ----- | --- | --- | ----- | --- | ----- | -------- |
 | ricfu | je  | ke  | blanu | ja  | crino | \[ke'e\] |
 | rich  | and | (   | blue  | or  | green | )        |
 
+:::
+
 In addition to the logical connectives, there are also a variety of non-logical connectives, grammatically equivalent to the logical ones. The only one with a well-understood meaning in tanru contexts is *[joi](/glossary/#joi)* , which is the kind of “and” that denotes a mixture:
 
 ##### Example 5.58.
+
+:::jbomupli
 
 |      |            |     |       |       |
 | ---- | ---------- | --- | ----- | ----- |
 | ti   | blanu      | joi | xunre | bolci |
 | This | is-a-(blue | and | red)  | ball. |
 
+:::
+
 The ball described is neither solely red nor solely blue, but probably striped or in some other way exhibiting a combination of the two colors. [Example 5.58](/chapter05/#example-558 "Example 5.58.") is distinct from:
 
 ##### Example 5.59.
 
+:::jbomupli
+
 |     |       |       |       |
 | --- | ----- | ----- | ----- |
 | ti  | blanu | xunre | bolci |
+
+:::
 
 This is a bluish-red ball
 
@@ -638,10 +838,14 @@ which would be a ball whose color is some sort of purple tending toward red, sin
 
 ##### Example 5.60.
 
+:::jbomupli
+
 |      |            |     |       |       |
 | ---- | ---------- | --- | ----- | ----- |
 | ti   | blanu      | je  | xunre | bolci |
 | This | is-a-(blue | and | red)  | ball  |
+
+:::
 
 is probably self-contradictory, seeming to claim that the ball is independently both blue and red at the same time, although some sensible interpretation may exist.
 
@@ -649,10 +853,14 @@ Finally, just as English “and” has the variant form “both ... and”, so *
 
 ##### Example 5.61.
 
+:::jbomupli
+
 |       |       |     |       |         |       |
 | ----- | ----- | --- | ----- | ------- | ----- |
 | gu'e  | barda | gi  | xunre |         | gerku |
 | (both | big   | and | red)  | type-of | dog   |
+
+:::
 
 is equivalent in meaning to [Example 5.41](/chapter05/#example-541 "Example 5.41."). For each logical connective related to *[je](/glossary/#je)* , there is a corresponding connective related to *[gu'e](/glossary/#gue)* … *[gi](/glossary/#gi)* in a systematic way.
 
@@ -660,10 +868,14 @@ The portion of a *[gu'e](/glossary/#gue)* … *[gi](/glossary/#gi)* construction
 
 ##### Example 5.62.
 
+:::jbomupli
+
 |       |       |     |       |     |       |     |       |
 | ----- | ----- | --- | ----- | --- | ----- | --- | ----- |
 | gu'e  | barda | je  | xunre | gi  | gerku | ja  | mlatu |
 | (both | (big  | and | red)  | and | dog)  | or  | cat   |
+
+:::
 
 something which is either big, red, and a dog, or else a cat
 
@@ -687,10 +899,14 @@ What about the places of *[blanu](/glossary/#blanu)* ? Is there any way to get t
 
 ##### Example 5.63.
 
+:::jbomupli
+
 |      |           |        |
 | ---- | --------- | ------ |
 | ti   | xamgu     | zdani  |
 | This | is-a-good | house. |
+
+:::
 
 This is a good (for someone, by some standard) house.
 
@@ -698,10 +914,14 @@ Since *[xamgu](/glossary/#xamgu)* has three places (x1, the good thing; x2, the 
 
 ##### Example 5.64.
 
+:::jbomupli
+
 |      |           |      |     |             |     |          |        |
 | ---- | --------- | ---- | --- | ----------- | --- | -------- | ------ |
 | ti   | xamgu     | be   | do  | bei         | mi  | \[be'o\] | zdani  |
 | This | is-a-good | (for | you | by-standard | me) |          | house. |
+
+:::
 
 This is a house that is good for you by my standards.
 
@@ -711,14 +931,14 @@ Grammatically, a brivla with sumti linked to it in this fashion plays the same r
 
 ##### Example 5.65.
 
-<div class="table-scrollable">
+:::jbomupli
 
 |      |            |               |     |             |        |             |             |         |      |       |           |            |      |             |      |                 |      |     |         |               |          |              |       |                  |                  |          |         |                   |        |
 | ---- | ---------- | ------------- | --- | ----------- | ------ | ----------- | ----------- | ------- | ---- | ----- | --------- | ---------- | ---- | ----------- | ---- | --------------- | ---- | --- | ------- | ------------- | -------- | ------------ | ----- | ---------------- | ---------------- | -------- | ------- | ----------------- | ------ |
 | ti   | cmalu      | be            | le  | ka          | canlu  | bei         | lo'e        | ckule   | be'o | nixli | be        | li         | mu   | bei         | lo   | merko           | be'o | bo  | ckule   | la            | bryklyn. | loi          | pemci | le               | mela             | nu,IORK. | prenu   | le                | jecta  |
 | This | is-a-small | (in-dimension | the | property-of | volume | by-standard | the-typical | school) |      | (girl | (of-years | the-number | five | by-standard | some | American-thing) |      |     | school) | in-that-named | Brooklyn | with-subject | poems | for-audience-the | among-that-named | New-York | persons | with-operator-the | state. |
 
-</div>
+:::
 
 This is a school, small in volume compared to the typical school, pertaining to five-year-old girls (by American standards), in Brooklyn, teaching poetry to the New York community and operated by the state.
 
@@ -726,28 +946,40 @@ Here the three places of *[cmalu](/glossary/#cmalu)* , the three of *[nixli](/gl
 
 ##### Example 5.66.
 
+:::jbomupli
+
 |     |       |     |        |        |     |          |       |          |
 | --- | ----- | --- | ------ | ------ | --- | -------- | ----- | -------- |
 | mi  | klama | be  | le     | zarci  | bei | le       | zdani | \[be'o\] |
 | I   | go    | (   | to-the | market |     | from-the | house | ).       |
 
+:::
+
 means the same as
 
 ##### Example 5.67.
+
+:::jbomupli
 
 |     |       |        |        |          |        |
 | --- | ----- | ------ | ------ | -------- | ------ |
 | mi  | klama | le     | zarci  | le       | zdani  |
 | I   | go    | to-the | market | from-the | house. |
 
+:::
+
 No matter how complex a tanru gets, the last brivla always dictates the place structure: the place structure of
 
 ##### Example 5.68.
+
+:::jbomupli
 
 |     |         |     |         |       |     |         |
 | --- | ------- | --- | ------- | ----- | --- | ------- |
 |     | melbi   | je  | cmalu   | nixli | bo  | ckule   |
 | a   | (pretty | and | little) | (girl |     | school) |
+
+:::
 
 a school for girls which is both beautiful and small
 
@@ -757,10 +989,14 @@ It is possible to precede linked sumti by the place structure ordering tags *[fe
 
 ##### Example 5.69.
 
+:::jbomupli
+
 |      |           |     |             |     |     |     |     |          |        |
 | ---- | --------- | --- | ----------- | --- | --- | --- | --- | -------- | ------ |
 | ti   | xamgu     | be  | fi          | mi  | bei | fe  | do  | \[be'o\] | zdani  |
 | This | is-a-good | (   | by-standard | me  |     | for | you | )        | house. |
+
+:::
 
 which is equivalent in meaning to [Example 5.64](/chapter05/#example-564 "Example 5.64."). Note that the order of *[be](/glossary/#be)* , *[bei](/glossary/#bei)* , and *[be'o](/glossary/#beo)* does not change; only the inserted *[fi](/glossary/#fi)* tells us that *[mi](/glossary/#mi)* is the x3 place (and correspondingly, the inserted *[fe](/glossary/#fe)* tells us that *[do](/glossary/#do)* is the x2 place). Changing the order of sumti is often done to match the order of another language, or for emphasis or rhythm.
 
@@ -768,10 +1004,14 @@ Of course, using FA cmavo makes it easy to specify one place while omitting a pr
 
 ##### Example 5.70.
 
+:::jbomupli
+
 |      |           |     |             |     |          |        |
 | ---- | --------- | --- | ----------- | --- | -------- | ------ |
 | ti   | xamgu     | be  | fi          | mi  | \[be'o\] | zdani  |
 | This | is-a-good | (   | by-standard | me  | )        | house. |
+
+:::
 
 This is a good house by my standards.
 
@@ -779,10 +1019,14 @@ Similarly, sumti labeled by modal or tense tags can be inserted into strings of 
 
 ##### Example 5.71.
 
+:::jbomupli
+
 |      |           |     |             |     |          |        |
 | ---- | --------- | --- | ----------- | --- | -------- | ------ |
 | ta   | blanu     | be  | ga'a        | mi  | \[be'o\] | zdani  |
 | That | is-a-blue | (   | to-observer | me  | )        | house. |
+
+:::
 
 That is a blue, as I see it, house.
 
@@ -790,10 +1034,14 @@ The meaning of [Example 5.71](/chapter05/#example-571 "Example 5.71.") is slight
 
 ##### Example 5.72.
 
+:::jbomupli
+
 |      |           |       |             |     |
 | ---- | --------- | ----- | ----------- | --- |
 | ta   | blanu     | zdani | ga'a        | mi  |
 | That | is-a-blue | house | to-observer | me. |
+
+:::
 
 That is a blue house, as I see it.
 
@@ -803,17 +1051,25 @@ The terminator *[be'o](/glossary/#beo)* is almost always elidable: however, if t
 
 ##### Example 5.73.
 
+:::jbomupli
+
 |     |            |     |     |      |            |     |             |
 | --- | ---------- | --- | --- | ---- | ---------- | --- | ----------- |
 | le  | xamgu      | be  | do  | noi  | barda      | cu  | zdani       |
 | The | good-thing | for | you | (who | are-large) |     | is-a-house. |
 
+:::
+
 ##### Example 5.74.
+
+:::jbomupli
 
 |     |             |     |     |      |        |           |     |            |
 | --- | ----------- | --- | --- | ---- | ------ | --------- | --- | ---------- |
 | le  | xamgu       | be  | do  | be'o | noi    | barda     | cu  | zdani      |
 | The | (good-thing | for | you | )    | (which | is-large) |     | is-a-house |
+
+:::
 
 (Relative clauses are explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated").)
 
@@ -821,10 +1077,14 @@ In other cases, however, *[be'o](/glossary/#beo)* cannot be elided if *[ku](/glo
 
 ##### Example 5.75.
 
+:::jbomupli
+
 |     |       |      |     |          |        |      |       |
 | --- | ----- | ---- | --- | -------- | ------ | ---- | ----- |
 | le  | xamgu | be   | le  | ctuca    | \[ku\] | be'o | zdani |
 | the | good  | (for | the | teacher) |        |      | house |
+
+:::
 
 requires either *[ku](/glossary/#ku)* or *[be'o](/glossary/#beo)* , and since there is only one occurrence of *[be](/glossary/#be)* , the *[be'o](/glossary/#beo)* must match it, whereas it may be confusing which occurrence of *[le](/glossary/#le)* the *[ku](/glossary/#ku)* terminates (in fact the second one is correct).
 
@@ -840,19 +1100,27 @@ The standard order of Lojban tanru, whereby the modifier precedes what it modifi
 
 ##### Example 5.76.
 
+:::jbomupli
+
 |      |           |                |
 | ---- | --------- | -------------- |
 | ta   | blanu     | zdani          |
 | That | is-a-blue | type-of-house. |
 
+:::
+
 That is a blue house.
 
 ##### Example 5.77.
+
+:::jbomupli
 
 |      |            |         |       |
 | ---- | ---------- | ------- | ----- |
 | ta   | zdani      | co      | blanu |
 | That | is-a-house | of-type | blue. |
+
+:::
 
 That is a blue house.
 
@@ -862,19 +1130,27 @@ The meaning, and more specifically, the place structure, of a tanru is not affec
 
 ##### Example 5.78.
 
+:::jbomupli
+
 |     |            |     |     |        |      |     |       |      |                |
 | --- | ---------- | --- | --- | ------ | ---- | --- | ----- | ---- | -------------- |
 | mi  | klama      | be  | le  | zarci  | bei  | le  | zdani | be'o | troci          |
 | I   | am-a-(goer | to  | the | market | from | the | house | )    | type-of-trier. |
 
+:::
+
 I try to go to the market from the house.
 
 ##### Example 5.79.
+
+:::jbomupli
 
 |     |            |         |       |        |        |          |         |
 | --- | ---------- | ------- | ----- | ------ | ------ | -------- | ------- |
 | mi  | troci      | co      | klama | le     | zarci  | le       | zdani   |
 | I   | am-a-trier | of-type | (goer | to-the | market | from-the | house). |
+
+:::
 
 I try to go to the market from the house.
 
@@ -890,10 +1166,14 @@ When inverting a more complex tanru, it is possible to invert it only at the mos
 
 ##### Example 5.80.
 
+:::jbomupli
+
 |      |            |         |         |         |         |
 | ---- | ---------- | ------- | ------- | ------- | ------- |
 | ta   | nixli      | \[bo\]  | ckule   | co      | cmalu   |
 | That | (is-a-girl | type-of | school) | of-type | little. |
+
+:::
 
 That's a girls' school which is small.
 
@@ -901,10 +1181,14 @@ Note that the *[bo](/glossary/#bo)* of [Example 5.19](/chapter05/#example-519 "E
 
 ##### Example 5.81.
 
+:::jbomupli
+
 |      |              |         |     |       |         |        |          |         |         |
 | ---- | ------------ | ------- | --- | ----- | ------- | ------ | -------- | ------- | ------- |
 | ta   | cmalu        |         | ke  | nixli |         | ckule  | \[ke'e\] | co      | melbi   |
 | That | is-a-(little | type-of | (   | girl  | type-of | school | ))       | of-type | pretty. |
+
+:::
 
 That's a small school for girls which is beautiful.
 
@@ -912,10 +1196,14 @@ In [Example 5.81](/chapter05/#example-581 "Example 5.81."), the *[ke'e](/glossar
 
 ##### Example 5.82.
 
+:::jbomupli
+
 |        |         |        |       |
 | ------ | ------- | ------ | ----- |
 | ckule  | co      | melbi  | nixli |
 | school | of-type | pretty | girl  |
+
+:::
 
 school for beautiful girls
 
@@ -923,37 +1211,53 @@ means the same as:
 
 ##### Example 5.83.
 
+:::jbomupli
+
 |     |        |       |      |        |
 | --- | ------ | ----- | ---- | ------ |
 | ke  | melbi  | nixli | ke'e | ckule  |
 | (   | pretty | girl  | )    | school |
 
+:::
+
 Multiple *[co](/glossary/#co)* cmavo can appear within a selbri, indicating multiple inversions: a right-grouping rule is employed, as for *[bo](/glossary/#bo)* . The above rule can be applied to interpret such selbri, but all *[co](/glossary/#co)* cmavo must be removed simultaneously:
 
 ##### Example 5.84.
+
+:::jbomupli
 
 |        |         |       |         |         |
 | ------ | ------- | ----- | ------- | ------- |
 | ckule  | co      | nixli | co      | cmalu   |
 | school | of-type | (girl | of-type | little) |
 
+:::
+
 becomes formally
 
 ##### Example 5.85.
+
+:::jbomupli
 
 |     |     |        |      |       |      |        |
 | --- | --- | ------ | ---- | ----- | ---- | ------ |
 | ke  | ke  | cmalu  | ke'e | nixli | ke'e | ckule  |
 | (   | (   | little | )    | girl  | )    | school |
 
+:::
+
 which by the left-grouping rule is simply
 
 ##### Example 5.86.
+
+:::jbomupli
 
 |        |       |        |
 | ------ | ----- | ------ |
 | cmalu  | nixli | ckule  |
 | little | girl  | school |
+
+:::
 
 school for little girls
 
@@ -961,10 +1265,14 @@ As stated above, the selbri places, other than the first, of
 
 ##### Example 5.87.
 
+:::jbomupli
+
 |     |           |         |       |
 | --- | --------- | ------- | ----- |
 | mi  | klama     | co      | sutra |
 | I   | am-a-goer | of-type | quick |
+
+:::
 
 I go quickly
 
@@ -972,10 +1280,14 @@ cannot be filled by placing sumti after the selbri, because any sumti in that po
 
 ##### Example 5.88.
 
+:::jbomupli
+
 |     |           |     |        |       |      |         |        |
 | --- | --------- | --- | ------ | ----- | ---- | ------- | ------ |
 | mi  | klama     | be  | le     | zarci | be'o | co      | sutra  |
 | I   | am-a-goer | (   | to-the | store | )    | of-type | quick. |
+
+:::
 
 I go to the store quickly.
 
@@ -999,19 +1311,27 @@ The cmavo of selma'o GOhA (with one exception) serve as pro-bridi, providing a r
 
 ##### Example 5.89.
 
+:::jbomupli
+
 |            |       |         |     |         |
 | ---------- | ----- | ------- | --- | ------- |
 | la         | djan. | klama   | le  | zarci   |
 | That-named | John  | goes-to | the | market. |
 
+:::
+
 you may retort:
 
 ##### Example 5.90.
+
+:::jbomupli
 
 |            |       |                 |              |
 | ---------- | ----- | --------------- | ------------ |
 | la         | djan. | go'i            | troci        |
 | That-named | John  | \[repeat-last\] | are-a-trier. |
+
+:::
 
 John tries to.
 
@@ -1019,10 +1339,14 @@ John tries to.
 
 ##### Example 5.91.
 
+:::jbomupli
+
 |            |       |           |     |        |        |      |         |        |
 | ---------- | ----- | --------- | --- | ------ | ------ | ---- | ------- | ------ |
 | la         | djan. | klama     | be  | le     | zarci  | be'o |         | troci  |
 | That-named | John  | is-a-goer | (   | to-the | market | )    | type-of | trier. |
+
+:::
 
 because the whole bridi of [Example 5.89](/chapter05/#example-589 "Example 5.89.") has been packaged up into the single word *[go'i](/glossary/#goi)* and inserted into [Example 5.90](/chapter05/#example-590 "Example 5.90.").
 
@@ -1040,19 +1364,27 @@ for as many arguments as are required. (The result goes in the x1 place because 
 
 ##### Example 5.92.
 
+:::jbomupli
+
 |            |     |               |            |     |                |     |
 | ---------- | --- | ------------- | ---------- | --- | -------------- | --- |
 | li         | vo  | nu'a su'i     | li         | re  | li             | re  |
 | The-number | 4   | is-the-sum-of | the-number | 2   | and-the-number | 2.  |
 
+:::
+
 A possible tanru example might be:
 
 ##### Example 5.93.
+
+:::jbomupli
 
 |     |            |                 |             |               |           |
 | --- | ---------- | --------------- | ----------- | ------------- | --------- |
 | mi  | jimpe      | tu'a            | loi         | nu'a su'i     | nabmi     |
 | I   | understand | something-about | the-mass-of | is-the-sum-of | problems. |
+
+:::
 
 I understand addition problems.
 
@@ -1060,19 +1392,27 @@ More usefully, it is possible to combine a mathematical expression with a cmavo 
 
 ##### Example 5.94.
 
+:::jbomupli
+
 |            |       |        |             |          |
 | ---------- | ----- | ------ | ----------- | -------- |
 | la         | prim. | palvr. | pamoi       | cusku    |
 | That-named | Preem | Palver | is-the-1-th | speaker. |
 
+:::
+
 Preem Palver is the first speaker.
 
 ##### Example 5.95.
+
+:::jbomupli
 
 |            |         |             |            |        |
 | ---------- | ------- | ----------- | ---------- | ------ |
 | la         | an,iis. | joi         | la         | .asun. |
 | That-named | Anyi    | massed-with | that-named | Asun   |
+
+:::
 
 |               |                  |
 | ------------- | ---------------- |
@@ -1085,10 +1425,14 @@ Finally, an important type of simple selbri which is not a brivla is the abstrac
 
 ##### Example 5.96.
 
+:::jbomupli
+
 |      |                |           |     |       |
 | ---- | -------------- | --------- | --- | ----- |
 | ti   | nu             | zdile     | kei | kumfa |
 | This | is-an-event-of | amusement |     | room. |
+
+:::
 
 This is an amusement room.
 
@@ -1096,10 +1440,14 @@ This is an amusement room.
 
 ##### Example 5.97.
 
+:::jbomupli
+
 |      |              |       |
 | ---- | ------------ | ----- |
 | ti   | zdile        | kumfa |
 | This | is-an-amuser | room. |
+
+:::
 
 which suggests the meaning “a room that amuses someone”.
 
@@ -1120,10 +1468,14 @@ which is true of the thing, or things, that are the referents of the sumti, and 
 
 ##### Example 5.98.
 
+:::jbomupli
+
 |     |       |                   |
 | --- | ----- | ----------------- |
 | le  | ci    | nolraitru         |
 | the | three | noblest-governors |
+
+:::
 
 the three kings
 
@@ -1131,10 +1483,14 @@ If these are understood to be the Three Kings of Christian tradition, who arrive
 
 ##### Example 5.99.
 
+:::jbomupli
+
 |            |           |     |                            |                    |
 | ---------- | --------- | --- | -------------------------- | ------------------ |
 | la         | BALtazar. | cu  | me                         | le ci nolraitru    |
 | That-named | Balthazar |     | is-one-of-the-referents-of | “the three kings.” |
+
+:::
 
 Balthazar is one of the three kings.
 
@@ -1142,9 +1498,13 @@ and likewise
 
 ##### Example 5.100.
 
+:::jbomupli
+
 |     |         |     |     |     |     |           |
 | --- | ------- | --- | --- | --- | --- | --------- |
 | la  | kaspar. | cu  | me  | le  | ci  | nolraitru |
+
+:::
 
 Caspar is one of the three kings.
 
@@ -1152,9 +1512,13 @@ and
 
 ##### Example 5.101.
 
+:::jbomupli
+
 |     |           |     |     |     |     |           |
 | --- | --------- | --- | --- | --- | --- | --------- |
 | la  | melxi,or. | cu  | me  | le  | ci  | nolraitru |
+
+:::
 
 Melchior is one of the three kings.
 
@@ -1162,10 +1526,14 @@ If the sumti refers to a single object, then the effect of *[me](/glossary/#me)*
 
 ##### Example 5.102.
 
+:::jbomupli
+
 |     |                    |            |         |
 | --- | ------------------ | ---------- | ------- |
 | do  | du                 | la         | djan.   |
 | You | are-identical-with | that-named | “John.” |
+
+:::
 
 You are John.
 
@@ -1173,10 +1541,14 @@ means the same as
 
 ##### Example 5.103.
 
+:::jbomupli
+
 |     |                     |                      |
 | --- | ------------------- | -------------------- |
 | do  | me                  | la djan.             |
 | You | are-the-referent-of | “that-named ‘John’.” |
+
+:::
 
 You are John.
 
@@ -1184,10 +1556,14 @@ It is common to use *[me](/glossary/#me)* selbri, especially those based on name
 
 ##### Example 5.104.
 
+:::jbomupli
+
 |      |                   |                             |          |       |
 | ---- | ----------------- | --------------------------- | -------- | ----- |
 | ta   | me                | lai kraislr.                | \[me'u\] | karce |
 | That | (is-a-referent-of | “the-mass-named ‘Chrysler’” | )        | car.  |
+
+:::
 
 That is a Chrysler car.
 
@@ -1195,17 +1571,25 @@ The elidable terminator *[me'u](/glossary/#meu)* can usually be omitted. It is a
 
 ##### Example 5.105.
 
+:::jbomupli
+
 |     |     |     |     |           |     |     |       |          |     |       |
 | --- | --- | --- | --- | --------- | --- | --- | ----- | -------- | --- | ----- |
 | re  | me  | le  | ci  | nolraitru | .e  | la  | djan. | \[me'u\] | cu  | blabi |
+
+:::
 
 Two of the group “the three kings and John” are white.
 
 ##### Example 5.106.
 
+:::jbomupli
+
 |     |     |     |     |           |      |     |     |       |     |       |
 | --- | --- | --- | --- | --------- | ---- | --- | --- | ----- | --- | ----- |
 | re  | me  | le  | ci  | nolraitru | me'u | .e  | la  | djan. | cu  | blabi |
+
+:::
 
 Two of the three kings, and John, are white.
 
@@ -1215,10 +1599,14 @@ Finally, here is another example requiring *[me'u](/glossary/#meu)* :
 
 ##### Example 5.107.
 
+:::jbomupli
+
 |      |                           |      |         |       |
 | ---- | ------------------------- | ---- | ------- | ----- |
 | ta   | me la'e le se cusku be do | me'u |         | cukta |
 | That | is-a-(what-you-said)      |      | type-of | book. |
+
+:::
 
 That is the kind of book you were talking about.
 
@@ -1226,10 +1614,14 @@ There are other sentences where either *[me'u](/glossary/#meu)* or some other el
 
 ##### Example 5.108.
 
+:::jbomupli
+
 |     |                    |        |      |                              |
 | --- | ------------------ | ------ | ---- | ---------------------------- |
 | le  | me le ci nolraitru | \[ku\] | me'u | nunsalci                     |
 | the | (the three kings)  |        |      | type-of-event-of-celebrating |
+
+:::
 
 the Three Kings celebration
 
@@ -1243,9 +1635,13 @@ In Lojban, conversion is accomplished by placing a cmavo of selma'o SE before th
 
 ##### Example 5.109.
 
+:::jbomupli
+
 |     |       |     |
 | --- | ----- | --- |
 | mi  | prami | do  |
+
+:::
 
 I love you.
 
@@ -1253,10 +1649,14 @@ is equivalent in meaning to:
 
 ##### Example 5.110.
 
+:::jbomupli
+
 |     |                    |       |     |
 | --- | ------------------ | ----- | --- |
 | do  | se                 | prami | mi  |
 | You | \[swap x1 and x2\] | love  | me. |
+
+:::
 
 You are loved by me.
 
@@ -1264,11 +1664,15 @@ Conversion is fully explained in [Section 9.4](/chapter09/#94-conversion-se "9.4
 
 ##### Example 5.111.
 
+:::jbomupli
+
 |            |        |     |             |                 |     |         |
 | ---------- | ------ | --- | ----------- | --------------- | --- | ------- |
 | la         | .alis. | cu  | cadzu       | klama           | le  | zarci   |
 | That-named | Alice  |     | is-a-walker | type-of-goer-to | the | market. |
 | That-named | Alice  |     | walkingly   | goes-to         | the | market. |
+
+:::
 
 Alice walks to the market.
 
@@ -1276,11 +1680,15 @@ To convert this sentence so that *le zarci* is in the x1 place, one correct way 
 
 ##### Example 5.112.
 
+:::jbomupli
+
 |     |        |     |                     |
 | --- | ------ | --- | ------------------- |
 | le  | zarci  | cu  | se                  |
 | The | market |     | is-a-\[swap x1/x2\] |
 | The | market |     |                     |
+
+:::
 
 |     |              |                 |          |            |        |
 | --- | ------------ | --------------- | -------- | ---------- | ------ |
@@ -1292,11 +1700,15 @@ The *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* brackets cause the entire
 
 ##### Example 5.113.
 
+:::jbomupli
+
 |     |        |     |                      |                      |
 | --- | ------ | --- | -------------------- | -------------------- |
 | le  | zarci  | cu  | se                   | cadzu                |
 | The | market |     | (is-a-\[swap x1/x2\] | walker)              |
 | The | market |     |                      | is-a-walking-surface |
+
+:::
 
 |                 |            |        |
 | --------------- | ---------- | ------ |
@@ -1308,19 +1720,27 @@ whatever that might mean. An alternative approach, since the place structure of 
 
 ##### Example 5.114.
 
+:::jbomupli
+
 |     |        |     |           |               |            |        |
 | --- | ------ | --- | --------- | ------------- | ---------- | ------ |
 | le  | zarci  | cu  | cadzu     | se klama      | la         | .alis. |
 | The | market |     | walkingly | is-gone-to-by | that-named | Alice. |
 
+:::
+
 But the tanru in [Example 5.114](/chapter05/#example-5114 "Example 5.114.") may or may not have the same meaning as that in [Example 5.111](/chapter05/#example-5111 "Example 5.111."); in particular, because *[cadzu](/glossary/#cadzu)* is not converted, there is a suggestion that although Alice is the goer, the market is the walker. With a different sumti as x1, this seemingly odd interpretation might make considerable sense:
 
 ##### Example 5.115.
+
+:::jbomupli
 
 |            |       |     |           |               |            |       |
 | ---------- | ----- | --- | --------- | ------------- | ---------- | ----- |
 | la         | djan. | cu  | cadzu     | se klama      | la         | .alis |
 | That-named | John  |     | walkingly | is-gone-to-by | that-named | Alice |
+
+:::
 
 suggests that Alice is going to John, who is a moving target.
 
@@ -1332,10 +1752,14 @@ Negation is too large and complex a topic to explain fully in this chapter; see 
 
 ##### Example 5.116.
 
+:::jbomupli
+
 |            |        |     |      |     |           |         |          |     |         |
 | ---------- | ------ | --- | ---- | --- | --------- | ------- | -------- | --- | ------- |
 | la         | .alis. | cu  | na'e | ke  | cadzu     | klama   | \[ke'e\] | le  | zarci   |
 | That-named | Alice  |     | non- | (   | walkingly | goes-to | )        | the | market. |
+
+:::
 
 Alice doesn't walk to the market.
 
@@ -1343,10 +1767,14 @@ meaning that Alice's relationship to the market is something other than that of 
 
 ##### Example 5.117.
 
+:::jbomupli
+
 |            |        |     |      |           |         |     |         |
 | ---------- | ------ | --- | ---- | --------- | ------- | --- | ------- |
 | la         | .alis. | cu  | na'e | cadzu     | klama   | le  | zarci   |
 | That-named | Alice  |     | non- | walkingly | goes-to | the | market. |
+
+:::
 
 Alice doesn't walk to the market.
 
@@ -1356,10 +1784,14 @@ Of course, any of the simple selbri types explained in [Section 5.9](/chapter05/
 
 ##### Example 5.118.
 
+:::jbomupli
+
 |            |        |     |         |       |         |
 | ---------- | ------ | --- | ------- | ----- | ------- |
 | la         | djonz. | cu  | na'e    | pamoi | cusku   |
 | That-named | Jones  |     | is-non- | 1st   | speaker |
+
+:::
 
 Jones is not the first speaker.
 
@@ -1369,10 +1801,14 @@ Here is an assortment of more complex examples showing the interaction of scalar
 
 ##### Example 5.119.
 
+:::jbomupli
+
 |     |        |          |          |     |       |     |       |      |       |     |         |
 | --- | ------ | -------- | -------- | --- | ----- | --- | ----- | ---- | ----- | --- | ------- |
 | mi  | na'e   | sutra    | cadzu    | be  | fi    | le  | birka | be'o | klama | le  | zarci   |
 | I   | ((non- | quickly) | (walking |     | using | the | arms  | ))   | go-to | the | market. |
+
+:::
 
 I go to the market, walking using my arms other than quickly.
 
@@ -1380,10 +1816,14 @@ In [Example 5.119](/chapter05/#example-5119 "Example 5.119."), *[na'e](/glossary
 
 ##### Example 5.120.
 
+:::jbomupli
+
 |     |      |     |         |          |     |       |     |       |          |
 | --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- |
 | mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] |
 | I   | non- | (   | quickly | (walking |     | using | the | arms  | )        |
+
+:::
 
 |      |       |     |         |
 | ---- | ----- | --- | ------- |
@@ -1396,10 +1836,14 @@ Now consider [Example 5.121](/chapter05/#example-5121 "Example 5.121.") and [Exa
 
 ##### Example 5.121.
 
+:::jbomupli
+
 |     |          |          |     |       |     |       |      |
 | --- | -------- | -------- | --- | ----- | --- | ----- | ---- |
 | mi  | sutra    | cadzu    | be  | fi    | le  | birka | be'o |
 | I   | (quickly | (walking |     | using | the | arms  | )    |
+
+:::
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1410,10 +1854,14 @@ I go to the market, both quickly walking using my arms and slowly.
 
 ##### Example 5.122.
 
+:::jbomupli
+
 |     |     |          |          |     |       |     |       |          |      |
 | --- | --- | -------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
 | mi  | ke  | sutra    | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
 | I   | (   | (quickly | (walking |     | using | the | arms  | )        | )    |
+
+:::
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1426,10 +1874,14 @@ However, if we place a *[na'e](/glossary/#nae)* at the beginning of the selbri i
 
 ##### Example 5.123.
 
+:::jbomupli
+
 |     |        |          |          |     |       |     |       |      |
 | --- | ------ | -------- | -------- | --- | ----- | --- | ----- | ---- |
 | mi  | na'e   | sutra    | cadzu    | be  | fi    | le  | birka | be'o |
 | I   | ((non- | quickly) | (walking |     | using | the | arms  | )    |
+
+:::
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1440,10 +1892,14 @@ I go to the market, both walking using my arms other than quickly, and also slow
 
 ##### Example 5.124.
 
+:::jbomupli
+
 |     |      |     |         |          |     |       |     |       |          |      |
 | --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
 | mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
 | I   | (non | (   | quickly | (walking |     | using | the | arms) |          | )    |
+
+:::
 
 |     |         |       |     |         |
 | --- | ------- | ----- | --- | ------- |
@@ -1458,10 +1914,14 @@ Beware of omitting terminators in these complex examples! If the explicit *[ke'e
 
 ##### Example 5.125.
 
+:::jbomupli
+
 |     |      |     |         |           |     |       |     |       |      |
 | --- | ---- | --- | ------- | --------- | --- | ----- | --- | ----- | ---- |
 | mi  | na'e | ke  | sutra   | cadzu     | be  | fi    | le  | birka | be'o |
 | I   | non- | (   | quickly | ((walking |     | using | the | arms) | )    |
+
+:::
 
 |     |         |       |          |     |         |
 | --- | ------- | ----- | -------- | --- | ------- |
@@ -1474,10 +1934,14 @@ And if both *[ke'e](/glossary/#kee)* and *[be'o](/glossary/#beo)* are omitted, t
 
 ##### Example 5.126.
 
+:::jbomupli
+
 |     |      |     |         |       |     |       |      |          |     |       |
 | --- | ---- | --- | ------- | ----- | --- | ----- | ---- | -------- | --- | ----- |
 | mi  | na'e | ke  | sutra   | cadzu | be  | fi    | le   | birka    | je  | masno |
 | I   | non  | (   | quickly | walk  |     | on-my | (the | arm-type | and | slow) |
+
+:::
 
 |       |          |          |        |         |
 | ----- | -------- | -------- | ------ | ------- |
@@ -1496,10 +1960,14 @@ A bridi can have cmavo associated with it which specify the time, place, or mode
 
 ##### Example 5.127.
 
+:::jbomupli
+
 |     |          |       |     |         |
 | --- | -------- | ----- | --- | ------- |
 | mi  | pu       | klama | le  | zarci   |
 | I   | \[past\] | go-to | the | market. |
+
+:::
 
 I went to the market.
 
@@ -1509,10 +1977,14 @@ Similarly, a bridi may have the particle *[na](/glossary/#na)* (of selma'o NA) a
 
 ##### Example 5.128.
 
+:::jbomupli
+
 |            |        |        |              |         |
 | ---------- | ------ | ------ | ------------ | ------- |
 | la         | djonz. | na     | pamoi        | cusku   |
 | That-named | Jones  | (Not!) | is-the-first | speaker |
+
+:::
 
 It is not true that Jones is the first speaker.
 | Jones isn't the first speaker. |
@@ -1523,9 +1995,13 @@ Various combinations of tense and bridi negation cmavo are permitted. If both ar
 
 ##### Example 5.129.
 
+:::jbomupli
+
 |     |     |     |       |     |       |
 | --- | --- | --- | ----- | --- | ----- |
 | mi  | na  | pu  | klama | le  | zarci |
+
+:::
 
 It is false that I went to the market.
 | I didn't go to the market. |
@@ -1534,9 +2010,13 @@ It is also possible to have more than one *[na](/glossary/#na)* , in which case 
 
 ##### Example 5.130.
 
+:::jbomupli
+
 |     |     |     |       |     |       |
 | --- | --- | --- | ----- | --- | ----- |
 | mi  | na  | na  | klama | le  | zarci |
+
+:::
 
 It is false that it is false that I go to the market.
 | I go to the market. |
@@ -1545,10 +2025,14 @@ It is even possible, though somewhat pointless, to have multiple *[na](/glossary
 
 ##### Example 5.131.
 
+:::jbomupli
+
 |     |         |          |         |             |       |     |        |
 | --- | ------- | -------- | ------- | ----------- | ----- | --- | ------ |
 | mi  | na      | pu       | na      | ca          | klama | le  | zarci  |
 | I   | \[not\] | \[past\] | \[not\] | \[present\] | go-to | the | market |
+
+:::
 
 It is not the case that in the past it was not the case that in the present I went to the market.
 | I didn't not go to the market. |
@@ -2167,129 +2651,185 @@ It must be emphasized that, because of the ambiguity of all tanru, the English t
 
 ##### Example 5.132.
 
+:::jbomupli
+
 |          |         |         |         |       |         |        |
 | -------- | ------- | ------- | ------- | ----- | ------- | ------ |
 | melbi    |         | cmalu   |         | nixli |         | ckule  |
 | ((pretty | type-of | little) | type-of | girl) | type-of | school |
 
+:::
+
 school for girls who are beautifully small
 
 ##### Example 5.133.
+
+:::jbomupli
 
 |          |     |         |         |       |         |        |
 | -------- | --- | ------- | ------- | ----- | ------- | ------ |
 | melbi    | je  | cmalu   |         | nixli |         | ckule  |
 | ((pretty | and | little) | type-of | girl) | type-of | school |
 
+:::
+
 school for girls who are beautiful and small
 
 ##### Example 5.134.
+
+:::jbomupli
 
 |          |         |         |     |       |         |        |
 | -------- | ------- | ------- | --- | ----- | ------- | ------ |
 | melbi    | bo      | cmalu   | je  | nixli |         | ckule  |
 | ((pretty | type-of | little) | and | girl) | type-of | school |
 
+:::
+
 school for girls and for beautifully small things
 
 ##### Example 5.135.
+
+:::jbomupli
 
 |     |        |         |         |         |       |      |     |        |
 | --- | ------ | ------- | ------- | ------- | ----- | ---- | --- | ------ |
 | ke  | melbi  |         | cmalu   |         | nixli | ke'e | je  | ckule  |
 | ((  | pretty | type-of | little) | type-of | girl  | )    | and | school |
 
+:::
+
 thing which is a school and a beautifully small girl
 
 ##### Example 5.136.
+
+:::jbomupli
 
 |          |     |         |     |       |         |        |
 | -------- | --- | ------- | --- | ----- | ------- | ------ |
 | melbi    | je  | cmalu   | je  | nixli |         | ckule  |
 | ((pretty | and | little) | and | girl) | type-of | school |
 
+:::
+
 school for things which are beautiful, small, and girls
 | Note: same as [Example 5.152](/chapter05/#example-5152 "Example 5.152.") |
 
 ##### Example 5.137.
+
+:::jbomupli
 
 |          |         |         |     |       |     |        |
 | -------- | ------- | ------- | --- | ----- | --- | ------ |
 | melbi    | bo      | cmalu   | je  | nixli | je  | ckule  |
 | ((pretty | type-of | little) | and | girl) | and | school |
 
+:::
+
 thing which is beautifully small, a school, and a girl
 | Note: same as [Example 5.145](/chapter05/#example-5145 "Example 5.145.") |
 
 ##### Example 5.138.
+
+:::jbomupli
 
 |     |        |     |         |         |       |      |     |        |
 | --- | ------ | --- | ------- | ------- | ----- | ---- | --- | ------ |
 | ke  | melbi  | je  | cmalu   |         | nixli | ke'e | je  | ckule  |
 | ((  | pretty | and | little) | type-of | girl  | )    | and | school |
 
+:::
+
 thing which is a school and a girl who is both beautiful and small
 
 ##### Example 5.139.
+
+:::jbomupli
 
 |          |     |         |     |       |     |        |
 | -------- | --- | ------- | --- | ----- | --- | ------ |
 | melbi    | je  | cmalu   | je  | nixli | je  | ckule  |
 | ((pretty | and | little) | and | girl) | and | school |
 
+:::
+
 thing which is beautiful, small, a girl, and a school
 
 ##### Example 5.140.
+
+:::jbomupli
 
 |         |         |         |         |       |         |         |
 | ------- | ------- | ------- | ------- | ----- | ------- | ------- |
 | melbi   |         | cmalu   |         | nixli | bo      | ckule   |
 | (pretty | type-of | little) | type-of | (girl | type-of | school) |
 
+:::
+
 girls' school which is beautifully small
 
 ##### Example 5.141.
+
+:::jbomupli
 
 |         |     |         |         |       |         |         |
 | ------- | --- | ------- | ------- | ----- | ------- | ------- |
 | melbi   | je  | cmalu   |         | nixli | bo      | ckule   |
 | (pretty | and | little) | type-of | (girl | type-of | school) |
 
+:::
+
 girls' school which is beautiful and small
 
 ##### Example 5.142.
+
+:::jbomupli
 
 |         |         |         |         |       |     |         |
 | ------- | ------- | ------- | ------- | ----- | --- | ------- |
 | melbi   |         | cmalu   |         | nixli | je  | ckule   |
 | (pretty | type-of | little) | type-of | (girl | and | school) |
 
+:::
+
 something which is a girl and a school which is beautifully small
 
 ##### Example 5.143.
+
+:::jbomupli
 
 |         |         |         |     |       |         |         |
 | ------- | ------- | ------- | --- | ----- | ------- | ------- |
 | melbi   | bo      | cmalu   | je  | nixli | bo      | ckule   |
 | (pretty | type-of | little) | and | (girl | type-of | school) |
 
+:::
+
 something which is beautifully small and a girls' school
 
 ##### Example 5.144.
+
+:::jbomupli
 
 |         |     |         |         |       |     |         |
 | ------- | --- | ------- | ------- | ----- | --- | ------- |
 | melbi   | je  | cmalu   |         | nixli | je  | ckule   |
 | (pretty | and | little) | type-of | (girl | and | school) |
 
+:::
+
 a pretty and little type of thing which is both a girl and a school
 
 ##### Example 5.145.
+
+:::jbomupli
 
 |         |         |         |     |       |      |         |
 | ------- | ------- | ------- | --- | ----- | ---- | ------- |
 | melbi   | bo      | cmalu   | je  | nixli | jebo | ckule   |
 | (pretty | type-of | little) | and | (girl | and  | school) |
+
+:::
 
 thing which is beautifully small, a school, and a girl
 
@@ -2297,10 +2837,14 @@ Note: same as [Example 5.137](/chapter05/#example-5137 "Example 5.137.")
 
 ##### Example 5.146.
 
+:::jbomupli
+
 |         |      |         |     |       |         |         |
 | ------- | ---- | ------- | --- | ----- | ------- | ------- |
 | melbi   | jebo | cmalu   | je  | nixli | bo      | ckule   |
 | (pretty | and  | little) | and | (girl | type-of | school) |
+
+:::
 
 thing which is beautiful and small and a girl's school
 
@@ -2308,41 +2852,59 @@ Note: same as [Example 5.161](/chapter05/#example-5161 "Example 5.161.")
 
 ##### Example 5.147.
 
+:::jbomupli
+
 |         |      |         |     |       |      |         |
 | ------- | ---- | ------- | --- | ----- | ---- | ------- |
 | melbi   | jebo | cmalu   | je  | nixli | jebo | ckule   |
 | (pretty | and  | little) | and | (girl | and  | school) |
 
+:::
+
 thing which is beautiful, small, a girl, and a school
 
 ##### Example 5.148.
+
+:::jbomupli
 
 |         |         |         |         |        |         |        |
 | ------- | ------- | ------- | ------- | ------ | ------- | ------ |
 | melbi   |         | cmalu   | bo      | nixli  |         | ckule  |
 | (pretty | type-of | (little | type-of | girl)) | type-of | school |
 
+:::
+
 school for beautiful girls who are small
 
 ##### Example 5.149.
+
+:::jbomupli
 
 |         |         |         |     |        |         |        |
 | ------- | ------- | ------- | --- | ------ | ------- | ------ |
 | melbi   |         | cmalu   | je  | nixli  |         | ckule  |
 | (pretty | type-of | (little | and | girl)) | type-of | school |
 
+:::
+
 school for beautiful things which are small and are girls
 
 ##### Example 5.150.
+
+:::jbomupli
 
 |         |     |         |         |        |         |        |
 | ------- | --- | ------- | ------- | ------ | ------- | ------ |
 | melbi   | je  | cmalu   | bo      | nixli  |         | ckule  |
 | (pretty | and | (little | type-of | girl)) | type-of | school |
 
+:::
+
 school for things which are beautiful and are small girls
 
 ##### Example 5.151.
+
+:::jbomupli
 
 |     |        |         |         |         |       |      |     |        |
 | --- | ------ | ------- | ------- | ------- | ----- | ---- | --- | ------ |
@@ -2350,14 +2912,20 @@ school for things which are beautiful and are small girls
 |     | melbi  | bo      | cmalu   | bo      | nixli |      | je  | ckule  |
 | (   | pretty | type-of | (little | type-of | girl  | ))   | and | school |
 
+:::
+
 thing which is a school and a small girl who is beautiful
 
 ##### Example 5.152.
+
+:::jbomupli
 
 |         |     |         |      |        |         |        |
 | ------- | --- | ------- | ---- | ------ | ------- | ------ |
 | melbi   | je  | cmalu   | jebo | nixli  |         | ckule  |
 | (pretty | and | (little | and  | girl)) | type-of | school |
+
+:::
 
 school for things which are beautiful, small, and girls
 
@@ -2365,10 +2933,14 @@ Note: same as [Example 5.136](/chapter05/#example-5136 "Example 5.136.")
 
 ##### Example 5.153.
 
+:::jbomupli
+
 |         |     |         |         |        |     |        |
 | ------- | --- | ------- | ------- | ------ | --- | ------ |
 | melbi   | je  | cmalu   | bo      | nixli  | je  | ckule  |
 | (pretty | and | (little | type-of | girl)) | and | school |
+
+:::
 
 thing which is beautiful, a small girl, and a school
 
@@ -2376,23 +2948,33 @@ Note: same as [Example 5.169](/chapter05/#example-5169 "Example 5.169.")
 
 ##### Example 5.154.
 
+:::jbomupli
+
 |     |        |         |         |     |       |      |     |        |
 | --- | ------ | ------- | ------- | --- | ----- | ---- | --- | ------ |
 | ke  | melbi  |         | cmalu   | je  | nixli | ke'e | je  | ckule  |
 | (   | pretty | type-of | (little | and | girl  | ))   | and | school |
 
+:::
+
 thing which is beautifully small, a beautiful girl, and a school
 
 ##### Example 5.155.
+
+:::jbomupli
 
 |         |     |         |      |        |     |        |
 | ------- | --- | ------- | ---- | ------ | --- | ------ |
 | melbi   | je  | cmalu   | jebo | nixli  | je  | ckule  |
 | (pretty | and | (little | and  | girl)) | and | school |
 
+:::
+
 thing which is beautiful, small, a girl, and a school
 
 ##### Example 5.156.
+
+:::jbomupli
 
 |        |         |         |         |       |         |        |          |          |
 | ------ | ------- | ------- | ------- | ----- | ------- | ------ | -------- | -------- |
@@ -2400,27 +2982,39 @@ thing which is beautiful, small, a girl, and a school
 | melbi  | ke      | cmalu   | ke      | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
 | pretty | type-of | (little | type-of | (girl | type-of | school | )        | )        |
 
+:::
+
 small school for girls which is beautiful
 
 ##### Example 5.157.
+
+:::jbomupli
 
 |        |         |         |         |       |     |        |          |
 | ------ | ------- | ------- | ------- | ----- | --- | ------ | -------- |
 | melbi  | ke      | cmalu   |         | nixli | je  | ckule  | \[ke'e\] |
 | pretty | type-of | (little | type-of | (girl | and | school | ))       |
 
+:::
+
 small thing, both a girl and a school, which is beautiful
 
 ##### Example 5.158.
+
+:::jbomupli
 
 |        |         |         |     |       |         |          |
 | ------ | ------- | ------- | --- | ----- | ------- | -------- |
 | melbi  |         | cmalu   | je  | nixli | bo      | ckule    |
 | pretty | type-of | (little | and | (girl | type-of | school)) |
 
+:::
+
 thing which is beautifully small and a girls' school that is beautiful
 
 ##### Example 5.159.
+
+:::jbomupli
 
 |        |     |     |        |         |       |         |        |          |          |
 | ------ | --- | --- | ------ | ------- | ----- | ------- | ------ | -------- | -------- |
@@ -2429,9 +3023,13 @@ thing which is beautifully small and a girls' school that is beautiful
 | melbi  | je  | ke  | cmalu  | ke      | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
 | pretty | and | (   | little | type-of | (girl | type-of | school | )        | )        |
 
+:::
+
 thing which is beautiful and a small type of girls' school
 
 ##### Example 5.160.
+
+:::jbomupli
 
 |        |         |         |     |     |       |      |        |          |
 | ------ | ------- | ------- | --- | --- | ----- | ---- | ------ | -------- |
@@ -2439,11 +3037,15 @@ thing which is beautiful and a small type of girls' school
 | melbi  |         | cmalu   | je  | ke  | nixli | je   | ckule  | \[ke'e\] |
 | pretty | type-of | (little | and | (   | girl  | and  | school | ))       |
 
+:::
+
 thing which is beautifully small, a beautiful girl, and a beautiful school
 
 Note: same as [Example 5.168](/chapter05/#example-5168 "Example 5.168.")
 
 ##### Example 5.161.
+
+:::jbomupli
 
 |        |     |     |        |      |       |         |        |          |
 | ------ | --- | --- | ------ | ---- | ----- | ------- | ------ | -------- |
@@ -2451,70 +3053,100 @@ Note: same as [Example 5.168](/chapter05/#example-5168 "Example 5.168.")
 | melbi  | je  | ke  | cmalu  | je   | nixli | bo      | ckule  | \[ke'e\] |
 | pretty | and | (   | little | and  | (girl | type-of | school | ))       |
 
+:::
+
 thing which is beautiful, small and a girls' school
 
 Note: same as [Example 5.146](/chapter05/#example-5146 "Example 5.146.")
 
 ##### Example 5.162.
 
+:::jbomupli
+
 |        |     |     |        |         |       |     |        |          |
 | ------ | --- | --- | ------ | ------- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  |         | nixli | je  | ckule  | \[ke'e\] |
 | pretty | and | (   | little | type-of | (girl | and | school | ))       |
 
+:::
+
 beautiful thing which is a small girl and a small school
 
 ##### Example 5.163.
+
+:::jbomupli
 
 |        |      |         |      |       |      |          |
 | ------ | ---- | ------- | ---- | ----- | ---- | -------- |
 | melbi  | jebo | cmalu   | jebo | nixli | jebo | ckule    |
 | pretty | and  | (little | and  | (girl | and  | school)) |
 
+:::
+
 thing which is beautiful, small, a girl, and a school
 
 ##### Example 5.164.
+
+:::jbomupli
 
 |        |         |          |         |       |         |        |          |
 | ------ | ------- | -------- | ------- | ----- | ------- | ------ | -------- |
 | melbi  | ke      | cmalu    |         | nixli |         | ckule  | \[ke'e\] |
 | pretty | type-of | ((little | type-of | girl) | type-of | school | )        |
 
+:::
+
 beautiful school for small girls
 
 ##### Example 5.165.
+
+:::jbomupli
 
 |        |         |          |     |       |         |        |          |
 | ------ | ------- | -------- | --- | ----- | ------- | ------ | -------- |
 | melbi  | ke      | cmalu    | je  | nixli |         | ckule  | \[ke'e\] |
 | pretty | type-of | ((little | and | girl) | type-of | school |          |
 
+:::
+
 beautiful school for things which are small and are girls
 
 ##### Example 5.166.
+
+:::jbomupli
 
 |        |         |          |         |       |     |        |          |
 | ------ | ------- | -------- | ------- | ----- | --- | ------ | -------- |
 | melbi  | ke      | cmalu    | bo      | nixli | je  | ckule  | \[ke'e\] |
 | pretty | type-of | ((little | type-of | girl) | and | school | )        |
 
+:::
+
 beautiful thing which is a small girl and a school
 
 ##### Example 5.167.
+
+:::jbomupli
 
 |        |     |     |        |         |       |         |          |     |
 | ------ | --- | --- | ------ | ------- | ----- | ------- | -------- | --- |
 | melbi  | je  | ke  | cmalu  |         | nixli | ckule   | \[ke'e\] |     |
 | pretty | and | ((  | little | type-of | girl) | type-of | school   | )   |
 
+:::
+
 thing which is beautiful and a school for small girls
 
 ##### Example 5.168.
+
+:::jbomupli
 
 |        |         |          |     |       |     |         |
 | ------ | ------- | -------- | --- | ----- | --- | ------- |
 | melbi  |         | cmalu    | je  | nixli | je  | ckule   |
 | pretty | type-of | ((little | and | girl) | and | school) |
+
+:::
 
 thing which is beautifully small, a beautiful girl, and a beautiful school
 
@@ -2522,10 +3154,14 @@ Note: same as [Example 5.160](/chapter05/#example-5160 "Example 5.160.")
 
 ##### Example 5.169.
 
+:::jbomupli
+
 |        |     |     |        |         |       |     |        |          |
 | ------ | --- | --- | ------ | ------- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | bo      | nixli | je  | ckule  | \[ke'e\] |
 | pretty | and | ((  | little | type-of | girl) | and | school | )        |
+
+:::
 
 thing which is beautiful, a small girl and a school
 
@@ -2533,19 +3169,27 @@ Note: same as [Example 5.153](/chapter05/#example-5153 "Example 5.153.")
 
 ##### Example 5.170.
 
+:::jbomupli
+
 |        |     |     |        |     |       |         |        |          |
 | ------ | --- | --- | ------ | --- | ----- | ------- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | je  | nixli |         | ckule  | \[ke'e\] |
 | pretty | and | ((  | little | and | girl) | type-of | school | )        |
 
+:::
+
 thing which is beautiful and is a small school and a girls' school
 
 ##### Example 5.171.
+
+:::jbomupli
 
 |        |     |     |        |     |       |     |        |          |
 | ------ | --- | --- | ------ | --- | ----- | --- | ------ | -------- |
 | melbi  | je  | ke  | cmalu  | je  | nixli | je  | ckule  | \[ke'e\] |
 | pretty | and | ((  | little | and | girl) | and | school | )        |
+
+:::
 
 thing which is beautiful, small, a girl, and a school
 

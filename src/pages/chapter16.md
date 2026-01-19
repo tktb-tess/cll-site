@@ -39,10 +39,14 @@ Although Lojban is called a logical language, not every feature of it is “logi
 
 ##### Example 16.6.
 
+:::jbomupli
+
 |     |       |                           |       |
 | --- | ----- | ------------------------- | ----- |
 | mi  | viska | le                        | nanmu |
 | I   | see   | the-one-I-refer-to-as-the | man.  |
+
+:::
 
 I see the man/men.
 
@@ -62,10 +66,14 @@ There are two plausible Lojban translations of [Example 16.7](/chapter16/#exampl
 
 ##### Example 16.8.
 
+:::jbomupli
+
 |                       |       |     |
 | --------------------- | ----- | --- |
 | \[zo'e\]              | viska | mi  |
 | Something-unspecified | sees  | me. |
+
+:::
 
 The cmavo *[zo'e](/glossary/#zoe)* indicates that a sumti has been omitted (indeed, even *[zo'e](/glossary/#zoe)* itself can be omitted in this case, as explained in [Section 7.7](/chapter07/#section-zohe-cohe-series)) and the listener must fill in the correct value from context. In other words, [Example 16.8](/chapter16/#example-random-id-b9pV) means “‘You-know-what’ sees me.”
 
@@ -73,10 +81,14 @@ However, [Example 16.7](/chapter16/#example-random-id-Mxj3) is just as likely to
 
 ##### Example 16.9.
 
+:::jbomupli
+
 |               |           |     |       |     |
 | ------------- | --------- | --- | ----- | --- |
 | da            | zo'u      | da  | viska | mi  |
 | There-is-an-X | such-that | X   | sees  | me. |
+
+:::
 
 [Example 16.9](/chapter16/#example-169 "Example 16.9.") does not presuppose that the listener knows who sees the speaker, but simply tells the listener that there is someone who sees the speaker. Statements of this kind are called “existential claims”. (Formally, the one doing the seeing is not restricted to being a person; it could be an animal or – in principle – an inanimate object. We will see in [Section 16.4](/chapter16/#164-restricted-claims-da-poi "16.4. Restricted claims: da poi") how to represent such restrictions.)
 
@@ -86,10 +98,14 @@ Here is an example of a prenex with two variables:
 
 ##### Example 16.10.
 
+:::jbomupli
+
 |               |              |      |      |       |       |     |
 | ------------- | ------------ | ---- | ---- | ----- | ----- | --- |
 | da            | de           | zo'u | da   | prami | de    |     |
 | There-is-an-X | there-is-a-Y | such | that | X     | loves | Y.  |
+
+:::
 
 Somebody loves somebody.
 
@@ -99,10 +115,14 @@ It is perfectly all right for the variables to appear more than once in the main
 
 ##### Example 16.11.
 
+:::jbomupli
+
 |               |           |     |       |     |
 | ------------- | --------- | --- | ----- | --- |
 | da            | zo'u      | da  | prami | da  |
 | There-is-an-X | such-that | X   | loves | X   |
+
+:::
 
 Somebody loves himself/herself.
 
@@ -110,10 +130,14 @@ What [Example 16.11](/chapter16/#example-1611 "Example 16.11.") claims is fundam
 
 ##### Example 16.12.
 
+:::jbomupli
+
 |              |           |     |       |     |
 | ------------ | --------- | --- | ----- | --- |
 | de           | zo'u      | de  | prami | de  |
 | There-is-a-Y | such-that | Y   | loves | Y   |
+
+:::
 
 means exactly the same thing as [Example 16.11](/chapter16/#example-1611 "Example 16.11."); it does not matter which variable is used as long as they are used consistently.
 
@@ -121,10 +145,14 @@ It is not necessary for a variable to be a sumti of the main bridi directly:
 
 ##### Example 16.13.
 
+:::jbomupli
+
 |               |           |     |      |       |     |       |     |
 | ------------- | --------- | --- | ---- | ----- | --- | ----- | --- |
 | da            | zo'u      | le  | da   | gerku | cu  | viska | mi  |
 | There-is-an-X | such-that | the | of-X | dog   |     | sees  | me  |
+
+:::
 
 Somebody's dog sees me
 
@@ -134,10 +162,14 @@ It is very peculiar, however, even if technically grammatical, for the variable 
 
 ##### Example 16.14.
 
+:::jbomupli
+
 |               |           |            |       |          |
 | ------------- | --------- | ---------- | ----- | -------- |
 | da            | zo'u      | la         | ralf. | gerku    |
 | There-is-an-X | such-that | that-named | Ralph | is-a-dog |
+
+:::
 
 There is something such that Ralph is a dog.
 
@@ -157,10 +189,14 @@ The Lojban translation of [Example 16.15](/chapter16/#example-1615 "Example 16.1
 
 ##### Example 16.16.
 
+:::jbomupli
+
 |           |     |      |     |       |     |
 | --------- | --- | ---- | --- | ----- | --- |
 | ro        | da  | zo'u | da  | viska | mi  |
 | For-every | X   | :    | X   | sees  | me. |
+
+:::
 
 When the variable cmavo *[da](/glossary/#da)* is preceded by *[ro](/glossary/#ro)*, the combination means “For every X” rather than “There is an X”. Superficially, these English formulations look totally unrelated: [Section 16.6](/chapter16/#166-variables-with-generalized-quantifiers "16.6. Variables with generalized quantifiers") will bring them within a common viewpoint. For the moment, accept the use of *ro da* for “everything” on faith.
 
@@ -168,10 +204,14 @@ Here is a universal claim with two variables:
 
 ##### Example 16.17.
 
+:::jbomupli
+
 |           |     |           |     |      |     |       |     |
 | --------- | --- | --------- | --- | ---- | --- | ----- | --- |
 | ro        | da  | ro        | de  | zo'u | da  | prami | de  |
 | For-every | X,  | for-every | Y   | :    | X   | loves | Y.  |
+
+:::
 
 Everything loves everything.
 
@@ -181,19 +221,27 @@ Note that *[ro](/glossary/#ro)* appears before both *[da](/glossary/#da)* and *[
 
 ##### Example 16.18.
 
+:::jbomupli
+
 |           |     |              |      |     |       |     |
 | --------- | --- | ------------ | ---- | --- | ----- | --- |
 | ro        | da  | de           | zo'u | da  | viska | de  |
 | For-every | X,  | there-is-a-Y | :    | X   | sees  | Y.  |
 
+:::
+
 Everything sees something.
 
 ##### Example 16.19.
+
+:::jbomupli
 
 |               |                     |     |      |     |       |     |
 | ------------- | ------------------- | --- | ---- | --- | ----- | --- |
 | da            | ro                  | de  | zo'u | da  | viska | de  |
 | There-is-an-X | such-that-for-every | Y   | :    | X   | sees  | Y.  |
+
+:::
 
 Something sees everything.
 
@@ -209,10 +257,14 @@ In Lojban, a variable *[da](/glossary/#da)*, *[de](/glossary/#de)*, or *[di](/gl
 
 ##### Example 16.20.
 
+:::jbomupli
+
 |               |      |     |       |            |       |
 | ------------- | ---- | --- | ----- | ---------- | ----- |
 | da            | zo'u | da  | viska | la         | djim. |
 | There-is-an-X | :    | X   | sees  | that-named | Jim.  |
+
+:::
 
 Something sees Jim.
 
@@ -220,10 +272,14 @@ and
 
 ##### Example 16.21.
 
+:::jbomupli
+
 |               |       |             |      |     |       |            |       |
 | ------------- | ----- | ----------- | ---- | --- | ----- | ---------- | ----- |
 | da            | poi   | prenu       | zo'u | da  | viska | la         | djim. |
 | There-is-an-X | which | is-a-person | :    | X   | sees  | that-named | Jim.  |
+
+:::
 
 Someone sees Jim.
 
@@ -233,10 +289,14 @@ Universal claims benefit even more from the existence of relative clauses. Consi
 
 ##### Example 16.22.
 
+:::jbomupli
+
 |           |     |      |     |          |
 | --------- | --- | ---- | --- | -------- |
 | ro        | da  | zo'u | da  | vasxu    |
 | For-every | X   | :    | X   | breathes |
+
+:::
 
 Everything breathes
 
@@ -244,10 +304,14 @@ and
 
 ##### Example 16.23.
 
+:::jbomupli
+
 |           |     |       |          |      |     |           |
 | --------- | --- | ----- | -------- | ---- | --- | --------- |
 | ro        | da  | poi   | gerku    | zo'u | da  | vasxu     |
 | For-every | X   | which | is-a-dog | :    | X   | breathes. |
+
+:::
 
 Every dog breathes.
 | Each dog breathes.  |
@@ -259,10 +323,14 @@ If we make an existential claim about dogs rather than a universal one, we get:
 
 ##### Example 16.24.
 
+:::jbomupli
+
 |               |       |          |      |     |           |
 | ------------- | ----- | -------- | ---- | --- | --------- |
 | da            | poi   | gerku    | zo'u | da  | vasxu     |
 | There-is-an-X | which | is-a-dog | :    | X   | breathes. |
+
+:::
 
 Some dog breathes.
 
@@ -272,10 +340,14 @@ It isn't really necessary for every Lojban bridi involving variables to have a p
 
 ##### Example 16.25.
 
+:::jbomupli
+
 |                     |       |     |
 | ------------------- | ----- | --- |
 | da                  | viska | mi  |
 | There-is-an-X-which | sees  | me. |
+
+:::
 
 Something sees me.
 
@@ -283,10 +355,14 @@ and [Example 16.23](/chapter16/#example-1623 "Example 16.23.") becomes:
 
 ##### Example 16.26.
 
+:::jbomupli
+
 |           |     |       |           |     |              |
 | --------- | --- | ----- | --------- | --- | ------------ |
 | ro        | da  | poi   | gerku     | cu  | vasxu        |
 | For-every | X   | which | is-a-dog, |     | it-breathes. |
+
+:::
 
 Every dog breathes.
 
@@ -294,10 +370,14 @@ You might well suppose, then, that the purpose of the prenex is to allow the var
 
 ##### Example 16.27.
 
+:::jbomupli
+
 |           |     |       |              |      |              |
 | --------- | --- | ----- | ------------ | ---- | ------------ |
 | ro        | da  | poi   | prenu        | ku'o | de           |
 | For-every | X   | which | is-a-person, |      | there-is-a-Y |
+
+:::
 
 |       |          |      |      |     |       |     |
 | ----- | -------- | ---- | ---- | --- | ----- | --- |
@@ -314,10 +394,14 @@ If we tried to omit the prenex and move the *[ro](/glossary/#ro)* and the relati
 
 ##### Example 16.29.
 
+:::jbomupli
+
 |              |       |          |     |             |       |     |       |             |
 | ------------ | ----- | -------- | --- | ----------- | ----- | --- | ----- | ----------- |
 | de           | poi   | gerku    | cu  | batci       | ro    | da  | poi   | prenu       |
 | There-is-a-Y | which | is-a-dog |     | which-bites | every | X   | which | is-a-person |
+
+:::
 
 Some dog bites everyone.
 
@@ -329,10 +413,14 @@ How can we express [Example 16.27](/chapter16/#example-1627 "Example 16.27.") in
 
 ##### Example 16.30.
 
+:::jbomupli
+
 |       |     |       |             |     |     |              |        |       |           |
 | ----- | --- | ----- | ----------- | --- | --- | ------------ | ------ | ----- | --------- |
 | ro    | da  | poi   | prenu       | cu  | se  | batci        | de     | poi   | gerku     |
 | Every | X   | which | is-a-person |     |     | is-bitten-by | some-Y | which | is-a-dog. |
+
+:::
 
 using the conversion operator *[se](/glossary/#se)* (explained in [Section 5.11](/chapter05/#511-conversion-of-simple-selbri "5.11. Conversion of simple selbri")) to change the selbri *[batci](/glossary/#batci)* (“bites”) into *se batci* (“is bitten by”). The translation given in [Example 16.28](/chapter16/#example-1628 "Example 16.28.") uses the corresponding strategy in English, since English does not have prenexes (except in strained “logician's English”). This implies that a sentence with both a universal and an existential variable can't be freely converted with *[se](/glossary/#se)*; one must be careful to preserve the order of the variables.
 
@@ -340,10 +428,14 @@ If a variable occurs more than once, then any *[ro](/glossary/#ro)* or *[poi](/g
 
 ##### Example 16.31.
 
+:::jbomupli
+
 |              |       |             |      |
 | ------------ | ----- | ----------- | ---- |
 | di           | poi   | prenu       | zo'u |
 | There-is-a-Z | which | is-a-person | :    |
+
+:::
 
 |            |             |                   |      |
 | ---------- | ----------- | ----------------- | ---- |
@@ -356,10 +448,14 @@ This is a weapon for someone to use against himself/herself.
 
 ##### Example 16.32.
 
+:::jbomupli
+
 |            |                             |        |       |             |      |       |
 | ---------- | --------------------------- | ------ | ----- | ----------- | ---- | ----- |
 | ti         | xarci                       | di     | poi   | prenu       | ku'o | di    |
 | This-thing | is-a-weapon-for-use-against | some-Z | which | is-a-person |      | by-Z. |
+
+:::
 
 As the examples in this section show, dropping the prenex makes for terseness of expression often even greater than that of English (Lojban is meant to be an unambiguous language, not necessarily a terse or verbose one), provided the rules are observed.
 
@@ -369,10 +465,14 @@ So far, we have seen variables with either nothing in front, or with the cmavo *
 
 ##### Example 16.33.
 
+:::jbomupli
+
 |                  |     |      |     |       |     |
 | ---------------- | --- | ---- | --- | ----- | --- |
 | su'o             | da  | zo'u | da  | viska | mi  |
 | For-at-least-one | X   | :    | X   | sees  | me. |
+
+:::
 
 Something sees me.
 
@@ -382,10 +482,14 @@ Any other number can be used instead of *[ro](/glossary/#ro)* or *[su'o](/glossa
 
 ##### Example 16.34.
 
+:::jbomupli
+
 |         |     |      |     |       |     |
 | ------- | --- | ---- | --- | ----- | --- |
 | re      | da  | zo'u | da  | viska | mi  |
 | For-two | Xes | :    | X   | sees  | me. |
+
+:::
 
 Two things see me.
 
@@ -393,10 +497,14 @@ This means that exactly two things, no more or less, saw the speaker on the rele
 
 ##### Example 16.35.
 
+:::jbomupli
+
 |                  |     |      |     |       |     |
 | ---------------- | --- | ---- | --- | ----- | --- |
 | su'ore           | da  | zo'u | da  | viska | mi  |
 | For-at-least-two | Xes | :    | X   | sees  | me. |
+
+:::
 
 which would be false if nothing, or only one thing, saw the speaker, but not otherwise. We note the *[su'o](/glossary/#suo)* here meaning “at least”; *[su'o](/glossary/#suo)* by itself is short for *su'opa* where *[pa](/glossary/#pa)* means “one”, as is explained in [Section 18.9](/chapter18/#189-approximation-and-inexact-numbers "18.9. Approximation and inexact numbers").
 
@@ -404,19 +512,27 @@ The prenex may be removed from [Example 16.34](/chapter16/#example-1634 "Example
 
 ##### Example 16.36.
 
+:::jbomupli
+
 |     |     |       |     |
 | --- | --- | ----- | --- |
 | re  | da  | viska | mi  |
 | Two | Xes | see   | me. |
 
+:::
+
 and
 
 ##### Example 16.37.
+
+:::jbomupli
 
 |              |     |       |     |
 | ------------ | --- | ----- | --- |
 | su'ore       | da  | viska | mi  |
 | At-least-two | Xes | see   | me. |
+
+:::
 
 respectively, subject to the rules prescribed in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping the prenex").
 
@@ -424,28 +540,40 @@ Now we can explain the constructions *ro prenu* for “all persons” and *re pr
 
 ##### Example 16.38.
 
+:::jbomupli
+
 |     |         |     |       |     |
 | --- | ------- | --- | ----- | --- |
 | re  | prenu   | cu  | viska | mi  |
 | Two | persons |     | see   | me. |
 
+:::
+
 is short for
 
 ##### Example 16.39.
+
+:::jbomupli
 
 |     |     |       |             |     |       |     |
 | --- | --- | ----- | ----------- | --- | ----- | --- |
 | re  | da  | poi   | prenu       | cu  | viska | mi  |
 | Two | Xes | which | are-persons |     | see   | me. |
 
+:::
+
 which in turn is short for:
 
 ##### Example 16.40.
+
+:::jbomupli
 
 |         |     |       |             |      |     |       |     |
 | ------- | --- | ----- | ----------- | ---- | --- | ----- | --- |
 | re      | da  | poi   | prenu       | zo'u | da  | viska | mi  |
 | For-two | Xes | which | are-persons | :    | X   | sees  | me. |
+
+:::
 
 Note that when we move more than one variable to the prenex (along with its attached relative clause), we must make sure that the variables are in the same order in the prenex as in the bridi proper.
 
@@ -455,28 +583,40 @@ Let us consider a sentence containing two quantifier expressions neither of whic
 
 ##### Example 16.41.
 
+:::jbomupli
+
 |       |       |     |       |     |       |
 | ----- | ----- | --- | ----- | --- | ----- |
 | ci    | gerku | cu  | batci | re  | nanmu |
 | Three | dogs  |     | bite  | two | men.  |
 
+:::
+
 The question raised by [Example 16.41](/chapter16/#example-1641 "Example 16.41.") is, does each of the dogs bite the same two men, or is it possible that there are two different men per dog, for six men altogether? If the former interpretation is taken, the number of men involved is fixed at two; but if the latter, then the speaker has to be taken as saying that there might be any number of men between two and six inclusive. Let us transform [Example 16.41](/chapter16/#example-1641 "Example 16.41.") step by step as we did with [Example 16.38](/chapter16/#example-1638 "Example 16.38."):
 
 ##### Example 16.42.
+
+:::jbomupli
 
 |       |     |       |          |     |       |     |     |       |          |
 | ----- | --- | ----- | -------- | --- | ----- | --- | --- | ----- | -------- |
 | ci    | da  | poi   | gerku    | cu  | batci | re  | de  | poi   | nanmu    |
 | Three | Xes | which | are-dogs |     | bite  | two | Ys  | which | are-men. |
 
+:::
+
 (Note that we need separate variables *[da](/glossary/#da)* and *[de](/glossary/#de)*, because of the rule that says each indefinite description gets a variable never used before or since.)
 
 ##### Example 16.43.
+
+:::jbomupli
 
 |           |     |       |          |      |         |     |       |         |      |
 | --------- | --- | ----- | -------- | ---- | ------- | --- | ----- | ------- | ---- |
 | ci        | da  | poi   | gerku    | ku'o | re      | de  | poi   | nanmu   | zo'u |
 | For-three | Xes | which | are-dogs | -,   | for-two | Ys  | which | are-men | :    |
+
+:::
 
 |     |       |     |
 | --- | ----- | --- |
@@ -489,10 +629,14 @@ How then are we to express the other interpretation, in which just two men are i
 
 ##### Example 16.44.
 
+:::jbomupli
+
 |         |     |       |         |      |           |     |       |           |      |
 | ------- | --- | ----- | ------- | ---- | --------- | --- | ----- | --------- | ---- |
 | re      | de  | poi   | nanmu   | ku'o | ci        | da  | poi   | gerku     | zo'u |
 | For-two | Ys  | which | are-men | -,   | for-three | Xes | which | are-dogs, | :    |
+
+:::
 
 |     |       |     |
 | --- | ----- | --- |
@@ -505,11 +649,15 @@ The solution is to use a termset, which is a group of terms either joined by *[c
 
 ##### Example 16.45.
 
+:::jbomupli
+
 |      |       |       |          |     |       |          |     |       |
 | ---- | ----- | ----- | -------- | --- | ----- | -------- | --- | ----- |
 |      | ci    | gerku | ce'e     | re  | nanmu |          | cu  | batci |
 | nu'i | ci    | gerku |          | re  | nanmu | \[nu'u\] | cu  | batci |
 |      | Three | dogs  | \[plus\] | two | men,  |          |     | bite. |
+
+:::
 
 which picks out two groups, one of three dogs and the other of two men, and says that every one of the dogs bites each of the men. The second Lojban version uses forethought; note that *[nu'u](/glossary/#nuu)* is an elidable terminator, and in this case can be freely elided.
 
@@ -517,10 +665,14 @@ What about descriptors, like *ci lo gerku*, *le nanmu* or *re le ci mlatu*? They
 
 ##### Example 16.46.
 
+:::jbomupli
+
 |            |     |       |       |     |       |            |     |     |       |
 | ---------- | --- | ----- | ----- | --- | ----- | ---------- | --- | --- | ----- |
 | \[ro\]     | le  | ci    | gerku | cu  | batci | \[ro\]     | le  | re  | nanmu |
 | \[All-of\] | the | three | dogs  |     | bite  | \[all-of\] | the | two | men.  |
+
+:::
 
 means that each of the dogs specified bites each of the men specified, for six acts of biting altogether. However, if there is an explicit quantifier before *[le](/glossary/#le)* other than *[ro](/glossary/#ro)*, the problems of this section reappear.
 
@@ -536,10 +688,14 @@ Using the facilities already discussed, a plausible translation might be
 
 ##### Example 16.48.
 
+:::jbomupli
+
 |     |     |              |         |     |       |     |          |     |        |
 | --- | --- | ------------ | ------- | --- | ----- | --- | -------- | --- | ------ |
 | ro  | da  | poi          | klama   | le  | zarci | cu  | cadzu    | le  | foldi  |
 | All | X   | such-that-it | goes-to | the | store |     | walks-on | the | field. |
+
+:::
 
 Everyone who goes to the store walks across the field.
 
@@ -547,10 +703,14 @@ But there is a subtle difference between [Example 16.47](/chapter16/#example-164
 
 ##### Example 16.49.
 
+:::jbomupli
+
 |           |     |      |     |                |                 |     |       |
 | --------- | --- | ---- | --- | -------------- | --------------- | --- | ----- |
 | ro        | da  | zo'u | da  | go             | klama           | le  | zarci |
 | For-every | X   | :    | X   | if-and-only-if | it-is-a-goer-to | the | store |
+
+:::
 
 |     |                |     |        |
 | --- | -------------- | --- | ------ |
@@ -569,28 +729,40 @@ I need any box that is bigger than this one.
 
 ##### Example 16.51.
 
+:::jbomupli
+
 |     |       |        |       |          |      |                |          |
 | --- | ----- | ------ | ----- | -------- | ---- | -------------- | -------- |
 | mi  | nitcu | da     | poi   | tanxe    | gi'e | bramau         | ti       |
 | I   | need  | some-X | which | is-a-box | and  | is-bigger-than | this-one |
 
+:::
+
 does not work either, because it asserts that there really is such a box, as the prenex paraphrase demonstrates:
 
 ##### Example 16.52.
+
+:::jbomupli
 
 |               |       |          |      |                |      |      |     |       |     |
 | ------------- | ----- | -------- | ---- | -------------- | ---- | ---- | --- | ----- | --- |
 | da            | poi   | tanxe    | gi'e | bramau         | ti   | zo'u | mi  | nitcu | da  |
 | There-is-an-X | which | is-a-box | and  | is-bigger-than | this | :    | I   | need  | X.  |
 
+:::
+
 What to do? Well, the x2 place of *[nitcu](/glossary/#nitcu)* can be filled with an event as well as an object, and in fact [Example 16.51](/chapter16/#example-1651 "Example 16.51.") can also be paraphrased as:
 
 ##### Example 16.53.
+
+:::jbomupli
 
 |     |       |     |          |     |         |      |         |
 | --- | ----- | --- | -------- | --- | ------- | ---- | ------- |
 | mi  | nitcu | lo  | nu       | mi  | ponse   | lo   | tanxe   |
 | I   | need  | an  | event-of | I   | possess | some | box(es) |
+
+:::
 
 |           |             |           |
 | --------- | ----------- | --------- |
@@ -601,10 +773,14 @@ Rewritten using variables, [Example 16.53](/chapter16/#example-1653 "Example 16.
 
 ##### Example 16.54.
 
+:::jbomupli
+
 |     |       |     |          |                  |            |
 | --- | ----- | --- | -------- | ---------------- | ---------- |
 | mi  | nitcu | lo  | nu       | da               | zo'u       |
 | I   | need  | an  | event-of | there-being-an-X | such-that: |
+
+:::
 
 |     |     |                 |     |
 | --- | --- | --------------- | --- |
@@ -620,10 +796,14 @@ So we see that a prenex can be attached to a bridi that is within a sentence. By
 
 ##### Example 16.55.
 
+:::jbomupli
+
 |               |       |          |      |                |          |            |
 | ------------- | ----- | -------- | ---- | -------------- | -------- | ---------- |
 | da            | poi   | tanxe    | gi'e | bramau         | ti       | zo'u       |
 | There-is-an-X | which | is-a-box | and  | is-bigger-than | this-one | such-that: |
+
+:::
 
 |     |       |     |          |     |            |     |
 | --- | ----- | --- | -------- | --- | ---------- | --- |
@@ -646,10 +826,14 @@ As explained in [Section 15.2](/chapter15/#152-bridi-negation "15.2. bridi negat
 
 ##### Example 16.57.
 
+:::jbomupli
+
 |     |           |       |     |        |
 | --- | --------- | ----- | --- | ------ |
 | mi  | na        | klama | le  | zarci  |
 | I   | \[false\] | go-to | the | store. |
+
+:::
 
 It is false that I go to the store.
 | I don't go to the store.            |
@@ -660,10 +844,14 @@ To represent a bridi negation using a prenex, remove the *[na](/glossary/#na)* f
 
 ##### Example 16.58.
 
+:::jbomupli
+
 |                         |      |            |       |        |
 | ----------------------- | ---- | ---------- | ----- | ------ |
 | naku                    | zo'u | la         | djan. | klama  |
 | It-is-not-the-case-that | :    | that-named | John  | comes. |
+
+:::
 
 It is false that: John comes.
 
@@ -671,11 +859,15 @@ However, *naku* can appear at other points in the prenex as well. Compare
 
 ##### Example 16.59.
 
+:::jbomupli
+
 |                          |                    |      |     |       |
 | ------------------------ | ------------------ | ---- | --- | ----- |
 | naku                     | de                 | zo'u | de  | zutse |
 | It-is-not-the-case-that: | for-some-Y         | :    | Y   | sits. |
 | It-is-false-that:        | for-at-least-one-Y | :    | Y   | sits. |
+
+:::
 
 It is false that something sits.
 | Nothing sits.                    |
@@ -684,10 +876,14 @@ with
 
 ##### Example 16.60.
 
+:::jbomupli
+
 |                     |                  |      |     |       |
 | ------------------- | ---------------- | ---- | --- | ----- |
 | su'ode              | naku             | zo'u | de  | zutse |
 | For-at-least-one-Y, | it-is-false-that | :    | Y   | sits. |
+
+:::
 
 There is something that doesn't sit.
 
@@ -695,10 +891,14 @@ The relative position of negation and quantification terms within a prenex has a
 
 ##### Example 16.61.
 
+:::jbomupli
+
 |              |               |           |     |       |     |
 | ------------ | ------------- | --------- | --- | ----- | --- |
 | roda         | su'ode        | zo'u      | da  | prami | de  |
 | For-every-X, | there-is-a-Y, | such-that | X   | loves | Y.  |
+
+:::
 
 Everybody loves at least one thing (each, not necessarily the same thing).
 
@@ -706,10 +906,14 @@ or:
 
 ##### Example 16.62.
 
+:::jbomupli
+
 |               |                      |      |     |       |     |
 | ------------- | -------------------- | ---- | --- | ----- | --- |
 | su'ode        | roda                 | zo'u | da  | prami | de  |
 | There-is-a-Y, | such-that-for-each-X | :    | X   | loves | Y.  |
+
+:::
 
 There is at least one particular thing that is loved by everybody.
 
@@ -717,10 +921,14 @@ The simplest form of bridi negation to interpret is one where the negation term 
 
 ##### Example 16.63.
 
+:::jbomupli
+
 |                   |              |               |            |     |       |     |
 | ----------------- | ------------ | ------------- | ---------- | --- | ----- | --- |
 | naku              | roda         | su'ode        | zo'u       | da  | prami | de  |
 | It-is-false-that: | for-every-X, | there-is-a-Y, | such-that: | X   | loves | Y.  |
+
+:::
 
 It is false that: everybody loves at least one thing.
 | (At least) someone doesn't love anything.             |
@@ -729,10 +937,14 @@ the negation of [Example 16.61](/chapter16/#example-1661 "Example 16.61."), and
 
 ##### Example 16.64.
 
+:::jbomupli
+
 |                   |              |           |            |     |       |       |     |
 | ----------------- | ------------ | --------- | ---------- | --- | ----- | ----- | --- |
 | naku              | su'ode       | roda      | zo'u       | da  | prami | de    |     |
 | It-is-false-that: | there-is-a-Y | such-that | for-each-X | :   | X     | loves | Y.  |
+
+:::
 
 It is false that: there is at least one thing that is loved by everybody.
 | There isn't any one thing that everybody loves.                           |
@@ -743,10 +955,14 @@ The rules of formal logic require that, to move a negation boundary within a pre
 
 ##### Example 16.65.
 
+:::jbomupli
+
 |             |                   |              |            |     |       |     |
 | ----------- | ----------------- | ------------ | ---------- | --- | ----- | --- |
 | su'oda      | naku              | su'ode       | zo'u       | da  | prami | de  |
 | For-some-X, | it-is-false-that: | there-is-a-Y | such-that: | X   | loves | Y.  |
+
+:::
 
 There is somebody who doesn't love anything.
 
@@ -754,10 +970,14 @@ and:
 
 ##### Example 16.66.
 
+:::jbomupli
+
 |              |                   |             |      |     |       |     |
 | ------------ | ----------------- | ----------- | ---- | --- | ----- | --- |
 | rode         | naku              | roda        | zo'u | da  | prami | de  |
 | For-every-Y, | it-is-false-that: | for-every-X | :    | X   | loves | Y.  |
+
+:::
 
 For each thing, it is not true that everybody loves it.
 
@@ -765,10 +985,14 @@ Another movement of the negation boundary produces:
 
 ##### Example 16.67.
 
+:::jbomupli
+
 |               |                        |                  |      |     |       |     |
 | ------------- | ---------------------- | ---------------- | ---- | --- | ----- | --- |
 | su'oda        | rode                   | naku             | zo'u | da  | prami | de  |
 | There-is-an-X | such-that-for-every-Y, | it-is-false-that | :    | X   | loves | Y.  |
+
+:::
 
 There is someone who, for each thing, doesn't love that thing.
 
@@ -776,10 +1000,14 @@ and
 
 ##### Example 16.68.
 
+:::jbomupli
+
 |              |                |                            |      |     |       |     |
 | ------------ | -------------- | -------------------------- | ---- | --- | ----- | --- |
 | rode         | su'oda         | naku                       | zo'u | da  | prami | de  |
 | For-every-Y, | there-is-an-X, | such-that-it-is-false-that | :    | X   | loves | Y.  |
+
+:::
 
 For each thing there is someone who doesn't love it.
 
@@ -789,10 +1017,14 @@ The quantifier *[no](/glossary/#no)* (meaning “zero of”) also involves a neg
 
 ##### Example 16.69.
 
+:::jbomupli
+
 |                |              |           |     |       |     |
 | -------------- | ------------ | --------- | --- | ----- | --- |
 | noda           | rode         | zo'u      | da  | prami | de  |
 | There-is-no-X, | for-every-Y, | such-that | X   | loves | Y.  |
+
+:::
 
 Nobody loves everything.
 
@@ -800,10 +1032,14 @@ which is negated by:
 
 ##### Example 16.70.
 
+:::jbomupli
+
 |                   |                     |             |      |     |       |     |
 | ----------------- | ------------------- | ----------- | ---- | --- | ----- | --- |
 | naku              | noda                | rode        | zo'u | da  | prami | de  |
 | It-is-false-that: | there-is-no-X-that, | for-every-Y | :    | X   | loves | Y.  |
+
+:::
 
 It is false that there is nobody who loves everything.
 
@@ -811,10 +1047,14 @@ We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by tr
 
 ##### Example 16.71.
 
+:::jbomupli
+
 |                  |                  |                           |
 | ---------------- | ---------------- | ------------------------- |
 | naku             | naku             | su'oda                    |
 | It-is-false-that | it-is-false-that | there-is-some-X-such-that |
+
+:::
 
 |             |      |     |       |     |
 | ----------- | ---- | --- | ----- | --- |
@@ -827,10 +1067,14 @@ Adjacent pairs of negation boundaries in the prenex can be dropped, so this mean
 
 ##### Example 16.72.
 
+:::jbomupli
+
 |                          |             |      |     |       |     |
 | ------------------------ | ----------- | ---- | --- | ----- | --- |
 | su'oda                   | rode        | zo'u | da  | prami | de  |
 | There-is-an-X-such-that, | for-every-Y | :    | X   | loves | Y.  |
+
+:::
 
 At least one person loves everything.
 
@@ -858,10 +1102,14 @@ Whenever a logical connective occurs in a sentence, that sentence can be expande
 
 ##### Example 16.73.
 
+:::jbomupli
+
 |     |     |     |         |           |
 | --- | --- | --- | ------- | --------- |
 | mi  | .e  | do  | klama   | ti        |
 | I   | and | you | come-to | this-here |
+
+:::
 
 I and you come here.
 
@@ -869,10 +1117,14 @@ can be expanded to:
 
 ##### Example 16.74.
 
+:::jbomupli
+
 |     |         |           |      |     |         |           |
 | --- | ------- | --------- | ---- | --- | ------- | --------- |
 | mi  | klama   | ti        | .ije | do  | klama   | ti        |
 | I   | come-to | this-here | and  | you | come-to | this-here |
+
+:::
 
 I come here, and, you come here.
 
@@ -884,10 +1136,14 @@ The mystery is easily solved. A negation in a logical expression is identical to
 
 ##### Example 16.75.
 
+:::jbomupli
+
 |     |         |     |       |            |
 | --- | ------- | --- | ----- | ---------- |
 | mi  | .enai   | do  | prami | roda       |
 | I   | and-not | you | love  | everything |
+
+:::
 
 I, and not you, love everything.
 
@@ -895,19 +1151,27 @@ expands to:
 
 ##### Example 16.76.
 
+:::jbomupli
+
 |     |       |             |          |     |       |             |
 | --- | ----- | ----------- | -------- | --- | ----- | ----------- |
 | mi  | prami | roda        | .ijenai  | do  | prami | roda        |
 | I   | love  | everything, | and-not, | you | love  | everything. |
 
+:::
+
 and then into prenex form as:
 
 ##### Example 16.77.
+
+:::jbomupli
 
 |                |      |     |       |     |      |
 | -------------- | ---- | --- | ----- | --- | ---- |
 | roda           | zo'u | mi  | prami | da  | .ije |
 | For-each-thing | :    | I   | love  | it, | and  |
+
+:::
 
 |                  |      |     |       |                |
 | ---------------- | ---- | --- | ----- | -------------- |
@@ -922,10 +1186,14 @@ Thus the following example has the indicated translation:
 
 ##### Example 16.78.
 
+:::jbomupli
+
 |                        |      |     |       |             |
 | ---------------------- | ---- | --- | ----- | ----------- |
 | su'oda                 | zo'u | mi  | prami | da          |
 | For-at-least-one-thing | :    | I   | love  | that-thing. |
+
+:::
 
 |      |                  |      |     |       |                    |
 | ---- | ---------------- | ---- | --- | ----- | ------------------ |
@@ -952,10 +1220,14 @@ We cannot express this directly with *[na](/glossary/#na)*; the apparently obvio
 
 ##### Example 16.80.
 
+:::jbomupli
+
 |                |           |            |
 | -------------- | --------- | ---------- |
 | su'oda         | poi       | verba      |
 | At-least-one-X | which-are | child(ren) |
+
+:::
 
 |           |       |                |           |            |
 | --------- | ----- | -------------- | --------- | ---------- |
@@ -966,10 +1238,14 @@ when converted to the external negation form produces:
 
 ##### Example 16.81.
 
+:::jbomupli
+
 |             |      |            |     |          |     |
 | ----------- | ---- | ---------- | --- | -------- | --- |
 | naku        | zo'u | su'oda     | poi | verba    | cu  |
 | It-is-false | that | some-which | are | children |     |
+
+:::
 
 |       |            |     |          |
 | ----- | ---------- | --- | -------- |
@@ -982,10 +1258,14 @@ Lojban provides a negation form which more closely emulates natural language neg
 
 ##### Example 16.82.
 
+:::jbomupli
+
 |        |           |          |       |       |        |           |          |
 | ------ | --------- | -------- | ----- | ----- | ------ | --------- | -------- |
 | su'oda | poi       | verba    | naku  | klama | su'ode | poi       | ckule    |
 | Some   | which-are | children | don't | go-to | some   | which-are | schools. |
+
+:::
 
 Some children don't go to a school.
 
@@ -995,25 +1275,37 @@ When you use *naku* within a bridi, you are explicitly creating a negation bound
 
 ##### Example 16.83.
 
+:::jbomupli
+
 |        |     |       |     |       |      |     |       |      |
 | ------ | --- | ----- | --- | ----- | ---- | --- | ----- | ---- |
 | su'oda | poi | verba | cu  | klama | rode | poi | ckule | naku |
+
+:::
 
 For some children, for every school, they don't go to it.
 
 ##### Example 16.84.
 
+:::jbomupli
+
 |        |     |       |     |       |      |        |     |       |
 | ------ | --- | ----- | --- | ----- | ---- | ------ | --- | ----- |
 | su'oda | poi | verba | cu  | klama | naku | su'ode | poi | ckule |
+
+:::
 
 Some children don't go to (some) school(s).
 
 ##### Example 16.85.
 
+:::jbomupli
+
 |      |      |     |       |     |       |        |     |       |
 | ---- | ---- | --- | ----- | --- | ----- | ------ | --- | ----- |
 | naku | roda | poi | verba | cu  | klama | su'ode | poi | ckule |
+
+:::
 
 It is false that all children go to some school(s).
 
@@ -1023,9 +1315,13 @@ The same rules apply if you rearrange the sentence so that the quantifier crosse
 
 ##### Example 16.86.
 
+:::jbomupli
+
 |        |     |       |      |      |     |       |      |     |       |
 | ------ | --- | ----- | ---- | ---- | --- | ----- | ---- | --- | ----- |
 | su'ode | poi | ckule | ku'o | naku | se  | klama | roda | poi | verba |
+
+:::
 
 Some schools aren't gone-to-by every child.
 
@@ -1035,10 +1331,14 @@ It isn't always easy to see which quantifiers have to be inverted in a sentence.
 
 ##### Example 16.87.
 
+:::jbomupli
+
 |      |          |       |       |      |         |
 | ---- | -------- | ----- | ----- | ---- | ------- |
 | su'o | verba    | naku  | klama | su'o | ckule   |
 | Some | children | don't | go-to | some | school. |
+
+:::
 
 but in [Example 16.87](/chapter16/#example-1687 "Example 16.87."), the bound variables *[da](/glossary/#da)* and *[de](/glossary/#de)* have been hidden.
 
@@ -1046,10 +1346,14 @@ It is trivial to export an internal bridi negation expressed with *[na](/glossar
 
 ##### Example 16.88.
 
+:::jbomupli
+
 |            |       |             |      |                         |
 | ---------- | ----- | ----------- | ---- | ----------------------- |
 | su'oda     | poi   | verba       | ku'o | naku                    |
 | For-some-X | which | is-a-child, |      | it-is-not-the-case-that |
+
+:::
 
 |              |       |             |            |     |       |     |     |
 | ------------ | ----- | ----------- | ---------- | --- | ----- | --- | --- |
@@ -1060,10 +1364,14 @@ We can now move the *naku* to the left end of the prenex, getting a contradictor
 
 ##### Example 16.89.
 
+:::jbomupli
+
 |                         |             |           |           |
 | ----------------------- | ----------- | --------- | --------- |
 | naku                    | roda        | poi       | verba     |
 | It-is-not-the-case-that | for-all-X's | which-are | children, |
+
+:::
 
 |              |          |          |            |     |         |     |
 | ------------ | -------- | -------- | ---------- | --- | ------- | --- |
@@ -1074,9 +1382,13 @@ from which we can restore the quantified variables to the sentence, giving:
 
 ##### Example 16.90.
 
+:::jbomupli
+
 |      |      |      |     |       |     |       |        |     |       |
 | ---- | ---- | ---- | --- | ----- | --- | ----- | ------ | --- | ----- |
 | naku | zo'u | roda | poi | verba | cu  | klama | su'ode | poi | ckule |
+
+:::
 
 It is not the case that all children go to some school.
 
@@ -1084,19 +1396,27 @@ or more briefly
 
 ##### Example 16.91.
 
+:::jbomupli
+
 |     |          |     |           |       |      |            |
 | --- | -------- | --- | --------- | ----- | ---- | ---------- |
 | ro  | verba    | cu  | na        | klama | su'o | ckule      |
 | All | children |     | \[false\] | go-to | some | school(s). |
 
+:::
+
 As noted in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping the prenex"), a sentence with two different quantified variables, such as [Example 16.91](/chapter16/#example-1691 "Example 16.91."), cannot always be converted with *[se](/glossary/#se)* without first exporting the quantified variables. When the variables have been exported, the sentence proper can be converted, but the quantifier order in the prenex must remain unchanged:
 
 ##### Example 16.92.
+
+:::jbomupli
 
 |             |           |           |              |
 | ----------- | --------- | --------- | ------------ |
 | roda        | poi       | verba     | su'ode       |
 | for-all-X's | which-are | children, | there-is-a-Y |
+
+:::
 
 |       |             |            |     |     |     |               |     |
 | ----- | ----------- | ---------- | --- | --- | --- | ------------- | --- |
@@ -1133,10 +1453,14 @@ We have defined *[na](/glossary/#na)* and *naku zo'u* as, respectively, internal
 
 ##### Example 16.94.
 
+:::jbomupli
+
 |            |       |           |         |        |
 | ---------- | ----- | --------- | ------- | ------ |
 | la         | djan. | na        | klama   | ga     |
 | that-named | John  | \[false\] | goes-to | either |
+
+:::
 
 |            |        |     |            |       |
 | ---------- | ------ | --- | ---------- | ----- |
@@ -1145,10 +1469,14 @@ We have defined *[na](/glossary/#na)* and *naku zo'u* as, respectively, internal
 
 ##### Example 16.95.
 
+:::jbomupli
+
 |             |       |            |       |         |
 | ----------- | ----- | ---------- | ----- | ------- |
 | naku        | zo'u  | la         | djan. | klama   |
 | It-is-false | that: | that-named | John  | goes-to |
+
+:::
 
 |        |            |        |     |            |       |
 | ------ | ---------- | ------ | --- | ---------- | ----- |
@@ -1159,10 +1487,14 @@ It is not an acceptable logical manipulation to move a negator from the bridi le
 
 ##### Example 16.96.
 
+:::jbomupli
+
 |                     |      |            |       |               |        |           |       |
 | ------------------- | ---- | ---------- | ----- | ------------- | ------ | --------- | ----- |
 |                     | ge   | la         | djan. | la            | paris. | na        | klama |
 | \[It-is-true-that\] | both | that-named | John, | to-that-named | Paris, | \[false\] | goes, |
+
+:::
 
 |     |            |       |               |       |           |       |
 | --- | ---------- | ----- | ------------- | ----- | --------- | ----- |
@@ -1175,12 +1507,18 @@ Here is another example of DeMorgan's Law in action, involving bridi-tail logica
 
 ##### Example 16.97.
 
+:::jbomupli
+
 |            |        |        |        |           |      |        |     |          |
 | ---------- | ------ | ------ | ------ | --------- | ---- | ------ | --- | -------- |
 | la         | djein. | le     | zarci  | na        | ge   | dzukla | gi  | bajrykla |
 | that-named | Jane   | to-the | market | \[false\] | both | walks  | and | runs.    |
 
+:::
+
 ##### Example 16.98.
+
+:::jbomupli
 
 |            |        |        |        |                   |        |                 |          |
 | ---------- | ------ | ------ | ------ | ----------------- | ------ | --------------- | -------- |
@@ -1188,16 +1526,22 @@ Here is another example of DeMorgan's Law in action, involving bridi-tail logica
 | that-named | Jane   | to-the | market | either-(\[false\] | walks) | or-(\[false\]   | runs).   |
 | that-named | Jane   | to-the | market | if                | walks  | then-(\[false\] | runs).   |
 
+:::
+
 (Placing *le zarci* before the selbri makes sure that it is properly associated with both parts of the logical connection. Otherwise, it is easy to erroneously leave it off one of the two sentences.)
 
 It is wise, before freely doing transformations such as the one from [Example 16.97](/chapter16/#example-1697 "Example 16.97.") to [Example 16.98](/chapter16/#example-1698 "Example 16.98."), that you become familiar with expanding logical connectives to separate sentences, transforming the sentences, and then recondensing. Thus, you would prove the transformation correct by the following steps. By moving its *[na](/glossary/#na)* to the beginning of the prenex as a *naku*, [Example 16.97](/chapter16/#example-1697 "Example 16.97.") becomes:
 
 ##### Example 16.99.
 
+:::jbomupli
+
 |                  |      |            |        |        |        |
 | ---------------- | ---- | ---------- | ------ | ------ | ------ |
 | naku             | zo'u | la         | djein. | le     | zarci  |
 | It-is-false-that | :    | that-named | Jane   | to-the | market |
+
+:::
 
 |       |        |     |          |
 | ----- | ------ | --- | -------- |
@@ -1208,10 +1552,14 @@ And by dividing the bridi with logically connected selbri into two bridi,
 
 ##### Example 16.100.
 
+:::jbomupli
+
 |             |       |      |             |        |        |        |     |        |
 | ----------- | ----- | ---- | ----------- | ------ | ------ | ------ | --- | ------ |
 | naku        | zo'u  | ge   | la          | djein. | le     | zarci  | cu  | dzukla |
 | It-is-false | that: | both | (that-named | Jane   | to-the | market |     | walks) |
+
+:::
 
 |     |             |        |        |        |     |          |
 | --- | ----------- | ------ | ------ | ------ | --- | -------- |
@@ -1224,10 +1572,14 @@ At this expanded level, we apply DeMorgan's Law to distribute the negation in th
 
 ##### Example 16.101.
 
+:::jbomupli
+
 |        |            |        |        |        |           |        |
 | ------ | ---------- | ------ | ------ | ------ | --------- | ------ |
 | ga     | la         | djein. | le     | zarci  | na        | dzukla |
 | Either | that-named | Jane   | to-the | market | \[false\] | walks, |
+
+:::
 
 |     |            |        |        |        |           |          |
 | --- | ---------- | ------ | ------ | ------ | --------- | -------- |
@@ -1238,10 +1590,14 @@ which is the same as
 
 ##### Example 16.102.
 
+:::jbomupli
+
 |       |            |        |        |        |     |        |
 | ----- | ---------- | ------ | ------ | ------ | --- | ------ |
 | ganai | la         | djein. | le     | zarci  | cu  | dzukla |
 | If    | that-named | Jane   | to-the | market |     | walks, |
+
+:::
 
 |                 |            |        |        |        |     |          |
 | --------------- | ---------- | ------ | ------ | ------ | --- | -------- |
@@ -1256,10 +1612,14 @@ DeMorgan's Law must also be applied to internal *naku* negations:
 
 ##### Example 16.103.
 
+:::jbomupli
+
 |         |            |        |     |            |       |
 | ------- | ---------- | ------ | --- | ---------- | ----- |
 | ga      | la         | paris. | gi  | la         | rom.  |
 | (Either | that-named | Paris  | or  | that-named | Rome) |
+
+:::
 
 |        |            |            |       |       |
 | ------ | ---------- | ---------- | ----- | ----- |
@@ -1268,10 +1628,14 @@ DeMorgan's Law must also be applied to internal *naku* negations:
 
 ##### Example 16.104.
 
+:::jbomupli
+
 |            |       |         |       |      |
 | ---------- | ----- | ------- | ----- | ---- |
 | la         | djan. | naku    | klama | ge   |
 | that-named | John  | doesn't | go-to | both |
+
+:::
 
 |            |        |     |            |       |
 | ---------- | ------ | --- | ---------- | ----- |
@@ -1286,10 +1650,14 @@ In addition to the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *
 
 ##### Example 16.105.
 
+:::jbomupli
+
 |                  |                |      |            |       |
 | ---------------- | -------------- | ---- | ---------- | ----- |
 | su'o             | bu'a           | zo'u | la         | djim. |
 | For-at-least-one | relationship-F | :    | that-named | Jim   |
+
+:::
 
 |                          |               |       |
 | ------------------------ | ------------- | ----- |
@@ -1304,19 +1672,27 @@ When the prenex is omitted, the preceding number has to be omitted too:
 
 ##### Example 16.106.
 
+:::jbomupli
+
 |            |       |                                     |               |       |
 | ---------- | ----- | ----------------------------------- | ------------- | ----- |
 | la         | djim. | bu'a                                | la            | djan. |
 | that-named | Jim   | stands-in-at-least-one-relationship | to-that-named | John. |
 
+:::
+
 As a result, if the number before the variable is anything but *[su'o](/glossary/#suo)*, the prenex is required:
 
 ##### Example 16.107.
+
+:::jbomupli
 
 |           |                |      |            |       |
 | --------- | -------------- | ---- | ---------- | ----- |
 | ro        | bu'a           | zo'u | la         | djim. |
 | For-every | relationship-F | :    | that-named | Jim   |
+
+:::
 
 |                          |               |       |
 | ------------------------ | ------------- | ----- |
@@ -1333,10 +1709,14 @@ A variable may have a quantifier placed in front of it even though it has alread
 
 ##### Example 16.108.
 
+:::jbomupli
+
 |       |     |           |       |     |            |      |     |     |     |          |
 | ----- | --- | --------- | ----- | --- | ---------- | ---- | --- | --- | --- | -------- |
 | ci    | da  | poi       | mlatu | cu  | blabi      | .ije | re  | da  | cu  | barda    |
 | Three | Xs  | which-are | cats  |     | are-white, | and  | two | Xs  |     | are-big. |
+
+:::
 
 What does [Example 16.108](/chapter16/#example-16108 "Example 16.108.") mean? The appearance of *ci da* quantifies *[da](/glossary/#da)* as referring to three things, which are restricted by the relative clause to be cats. When *re da* appears later, it refers to two of those three things – there is no saying which ones. Further uses of *[da](/glossary/#da)* alone, if there were any, would refer once more to the three cats, so the requantification of *[da](/glossary/#da)* is purely local.
 
@@ -1348,10 +1728,14 @@ A quantifier can be prefixed to a variable that has already been bound either in
 
 ##### Example 16.109.
 
+:::jbomupli
+
 |       |     |       |             |     |            |        |     |
 | ----- | --- | ----- | ----------- | --- | ---------- | ------ | --- |
 | ci    | da  | poi   | prenu       | cu  | se ralju   | pa     | da  |
 | Three | Xs  | which | are-persons |     | are-led-by | one-of | X   |
+
+:::
 
 Three people are led by one of them.
 
