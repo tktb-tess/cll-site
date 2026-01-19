@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import remarkDirective from 'remark-directive';
-import { remarkJbomupli } from './src/modules/remark_plugin';
+import remarkJbomupli from './src/plugins/remark_jbomupli';
 
 export default defineConfig({
   vite: {

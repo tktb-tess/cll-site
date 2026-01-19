@@ -118,7 +118,7 @@ export interface Config {
   className: string;
 }
 
-export const remarkJbomupli = (config?: Config) => {
+const remarkJbomupli = (config?: Config) => {
   return (tree: Root) => {
     const className = config?.className ?? 'jbomupli';
     visit(tree, 'containerDirective', (node) => {
@@ -158,3 +158,5 @@ export const remarkJbomupli = (config?: Config) => {
     });
   };
 };
+
+export default remarkJbomupli;

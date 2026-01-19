@@ -11,6 +11,12 @@
   --font-ipa: 'Charis-Web', serif, system-ui;
 }
 
+@property --jbomupli-rows {
+  syntax: '<integer>';
+  inherits: false;
+  initial-value: 1;
+}
+
 @layer base {
   html {
     -webkit-tap-highlight-color: revert;
@@ -62,15 +68,6 @@
       @apply my-3;
     }
 
-    tr:where(
-      h5[id*='example']
-        + :is(table, div.table-scrollable, div.table-auto-wrap)
-        tbody
-        > tr:first-child
-    ) {
-      @apply italic;
-    }
-
     hr {
       @apply my-6;
     }
@@ -83,14 +80,14 @@
     }
 
     .jbomupli {
-      @apply grid grid-cols-auto-fill-200 gap-x-2 gap-y-8 my-8 px-2 py-1 bg-violet-50
+      @apply grid grid-cols-auto-fill-[200px] gap-x-2 gap-y-8 my-8 px-3 py-1.5 bg-violet-50
       border border-slate-300 rounded;
 
       > div {
-        @apply min-w-0 flex flex-col gap-0.75 border-e border-slate-300;
-        
+        @apply flex flex-col gap-1 min-w-0 border-e border-slate-300;
+
         > p {
-          @apply min-w-0 m-0 min-h-7;
+          @apply min-w-0 min-h-7 m-0;
         }
 
         > p:first-child {
@@ -114,5 +111,5 @@
 }
 
 @utility grid-cols-auto-fill-* {
-  grid-template-columns: repeat(auto-fill, minmax(--value(integer)px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(--value([*]), 1fr));
 }
