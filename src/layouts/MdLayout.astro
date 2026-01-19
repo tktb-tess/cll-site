@@ -84,7 +84,7 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Layout title={frontmatter.title} {url} description={frontmatter.description}>
-  {imgData && <Image src={imgData.gif} alt={imgData.alt} />}
+  {imgData && <Image id="top-picture" src={imgData.gif} alt={imgData.alt} />}
   <Toc {contents} />
   <slot />
 </Layout>

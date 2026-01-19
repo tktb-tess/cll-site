@@ -93,11 +93,15 @@ Here is a somewhat artificial example of the difference in pronunciation between
 
 ##### Example 3.1.
 
+:::jbomupli
+
 |                                                    |
 | -------------------------------------------------- |
 | .i.ai.i.ai.o                                       |
 | <span class="font-ipa">\[ʔi ʔaj ʔi ʔaj ʔo\]</span> |
 | Ee! Eye! Ee! Eye! Oh!                              |
+
+:::
 
 However, this would sound clipped, staccato, and unmusical compared to the English. Furthermore, although [Example 3.1](/chapter03/#example-31 "Example 3.1.") is a string of meaningful Lojban words, as a sentence it makes very little sense. (Note the use of periods embedded within the written word.)
 
@@ -105,10 +109,14 @@ If commas were used instead of periods, we could represent the English string as
 
 ##### Example 3.2.
 
+:::jbomupli
+
 |                                                      |
 | ---------------------------------------------------- |
 | .i,ai,i,ai,on.                                       |
 | <span class="font-ipa">\[ʔi jaj ji jaj jonʔ\]</span> |
+
+:::
 
 The commas represent new syllable breaks, but prohibit the use of pauses or glottal stop. The pronunciation shown is just one possibility, but closely parallels the intended English pronunciation.
 
@@ -116,9 +124,13 @@ However, the use of commas in this way is risky to unambiguous interpretation, s
 
 ##### Example 3.3.
 
+:::jbomupli
+
 |                    |
 | ------------------ |
 | .i,iai,ii,iai,ion. |
+
+:::
 
 which is technically a different Lojban name. Since the intent with Lojbanized names is to allow them to be pronounced more like their native counterparts, the comma is allowed to represent vowel glides or some non-Lojbanic sound. Such an exception affects only spelling accuracy and the ability of a reader to replicate the desired pronunciation exactly; it will not affect the recognition of word boundaries.
 
@@ -128,10 +140,14 @@ If apostrophes were used instead of commas in [Example 3.2](/chapter03/#example-
 
 ##### Example 3.4.
 
+:::jbomupli
+
 |                                                      |
 | ---------------------------------------------------- |
 | .i'ai'i'ai'on.                                       |
 | <span class="font-ipa">\[ʔi hai hi hai honʔ\]</span> |
+
+:::
 
 which preserves the rhythm and length, if not the exact sounds, of the original English.
 
@@ -176,9 +192,13 @@ The syllabic consonants of Lojban, <span class="font-ipa">\[l̩\]</span>, <span 
 
 ##### Example 3.5.
 
+:::jbomupli
+
 |         |
 | ------- |
 | brlgan. |
+
+:::
 
 <span class="font-ipa">\[br̩l gan\]</span>
 
@@ -215,18 +235,26 @@ When more than two vowels occur together in Lojban, the normal pronunciation pai
 
 ##### Example 3.6.
 
+:::jbomupli
+
 |           |
 | --------- |
 | meiin.    |
 | *mei,in.* |
 
+:::
+
 [Example 3.6](/chapter03/#example-36 "Example 3.6.") contains the diphthong *ei* followed by the vowel *i*. In order to indicate a different grouping, the comma must always be used, leading to:
 
 ##### Example 3.7.
 
+:::jbomupli
+
 |         |
 | ------- |
 | me,iin. |
+
+:::
 
 which contains the vowel *e* followed by the diphthong *ii*. In rough English representation, [Example 3.6](/chapter03/#example-36 "Example 3.6.") is “May Een”, whereas [Example 3.7](/chapter03/#example-37 "Example 3.7.") is “Meh Yeen”.
 
@@ -265,11 +293,15 @@ These rules apply to all kinds of words, even Lojbanized names. If a name would 
 
 ##### Example 3.8.
 
+:::jbomupli
+
 |                                             |
 | ------------------------------------------- |
 | djeimyz.                                    |
 | <span class="font-ipa">\[dʒɛj məzʔ\]</span> |
 | James                                       |
+
+:::
 
 The regular English pronunciation of “James”, which is <span class="font-ipa">\[dʒɛjmz\]</span>, would Lojbanize as *djeimz.*, which contains a forbidden consonant pair.
 
@@ -329,6 +361,8 @@ Many languages do not have consonant clusters at all, and even those languages t
 
 ##### Example 3.9.
 
+:::jbomupli
+
 |                                             |
 | ------------------------------------------- |
 | vrusi                                       |
@@ -336,7 +370,11 @@ Many languages do not have consonant clusters at all, and even those languages t
 | or                                          |
 | <span class="font-ipa">\[vɪ ˈru si\]</span> |
 
+:::
+
 ##### Example 3.10.
+
+:::jbomupli
 
 |                                                          |
 | -------------------------------------------------------- |
@@ -345,11 +383,15 @@ Many languages do not have consonant clusters at all, and even those languages t
 | or                                                       |
 | <span class="font-ipa">\[ˈʔa mɪ sɪ tɛ rɪ da mɪʔ\]</span> |
 
+:::
+
 When a buffer vowel is used, it splits each buffered consonant into its own syllable. However, the buffering syllables are never stressed, and are not counted in determining stress. They are, in effect, not really syllables to a Lojban listener, and thus their impact is ignored.
 
 Here are more examples of unbuffered and buffered pronunciations:
 
 ##### Example 3.11.
+
+:::jbomupli
 
 |                                             |
 | ------------------------------------------- |
@@ -357,7 +399,11 @@ Here are more examples of unbuffered and buffered pronunciations:
 | <span class="font-ipa">\[ˈkla ma\]</span>   |
 | <span class="font-ipa">\[kɪ ˈla ma\]</span> |
 
+:::
+
 ##### Example 3.12.
+
+:::jbomupli
 
 |                                                |
 | ---------------------------------------------- |
@@ -366,32 +412,46 @@ Here are more examples of unbuffered and buffered pronunciations:
 | <span class="font-ipa">\[ˈxa pɪ ʃkɛ\]</span>   |
 | <span class="font-ipa">\[ˈxa pɪ ʃɪ kɛ\]</span> |
 
+:::
+
 In [Example 3.12](/chapter03/#example-312 "Example 3.12."), we see that buffering vowels can be used in just some, rather than all, of the possible places: the second pronunciation buffers the *pc* consonant pair but not the *ck*. The third pronunciation buffers both.
 
 ##### Example 3.13.
+
+:::jbomupli
 
 |                                                |
 | ---------------------------------------------- |
 | ponyni'u                                       |
 | <span class="font-ipa">\[po nə ˈni hu\]</span> |
 
+:::
+
 [Example 3.13](/chapter03/#example-313 "Example 3.13.") cannot contain any buffering vowel. It is important not to confuse the vowel *y*, which is pronounced <span class="font-ipa">\[ə\]</span>, with the buffer, which has a variety of possible pronunciations and is never written. Consider the contrast between
 
 ##### Example 3.14.
+
+:::jbomupli
 
 |                                                  |
 | ------------------------------------------------ |
 | bongynanba                                       |
 | <span class="font-ipa">\[boŋ ɡə ˈnan ba\]</span> |
 
+:::
+
 an unlikely Lojban compound word meaning “bone bread” (note the use of <span class="font-ipa">\[ŋ\]</span> as a representative of *n* before *g*) and
 
 ##### Example 3.15.
+
+:::jbomupli
 
 |                                                |
 | ---------------------------------------------- |
 | bongnanba                                      |
 | <span class="font-ipa">\[boŋ ˈɡnan ba\]</span> |
+
+:::
 
 a possible borrowing from another language (Lojban borrowings can only take a limited form). If [Example 3.15](/chapter03/#example-315 "Example 3.15.") were pronounced with buffering, as
 
@@ -421,32 +481,46 @@ Here are some examples of Lojban syllabication:
 
 ##### Example 3.18.
 
+:::jbomupli
+
 |                      |
 | -------------------- |
 | pujenaicajeba        |
 | *pu,je,nai,ca,je,ba* |
 
+:::
+
 This word has no consonant pairs and is therefore syllabified before each medial consonant.
 
 ##### Example 3.19.
+
+:::jbomupli
 
 |          |
 | -------- |
 | ninmu    |
 | *nin,mu* |
 
+:::
+
 This word is split at a consonant pair.
 
 ##### Example 3.20.
+
+:::jbomupli
 
 |           |
 | --------- |
 | fitpri    |
 | *fit,pri* |
 
+:::
+
 This word is split at a consonant triple, between the first two consonants of the triple.
 
 ##### Example 3.21.
+
+:::jbomupli
 
 |             |
 | ----------- |
@@ -454,15 +528,21 @@ This word is split at a consonant triple, between the first two consonants of th
 | *sair,goi*  |
 | *sai,r,goi* |
 
+:::
+
 This word contains the consonant pair *rg*; the *r* may be pronounced syllabically or not.
 
 ##### Example 3.22.
+
+:::jbomupli
 
 |           |
 | --------- |
 | klezba    |
 | *klez,ba* |
 | *kle,zba* |
+
+:::
 
 This word contains the permissible initial pair *zb*, and so may be syllabicated either between *z* and *b* or before *zb*.
 
@@ -480,19 +560,27 @@ The following are Lojban words with stress explicitly shown:
 
 ##### Example 3.23.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | dikyjvo     |
 | *DI,ky,jvo* |
 
+:::
+
 (In a fully-buffered dialect, the pronunciation would be: \['di kə ʒɪ vo\].) Note that the syllable *[ky](/glossary/#ky)* is not counted in determining stress. The vowel *y* is never stressed in a normal Lojban context.
 
 ##### Example 3.24.
+
+:::jbomupli
 
 |                |
 | -------------- |
 | .armstrong.    |
 | *.ARM,strong.* |
+
+:::
 
 This is a Lojbanized version of the name “Armstrong”. The final *g* must be explicitly pronounced. With full buffering, the name would be pronounced:
 
@@ -506,8 +594,6 @@ The English pronunciation of “Armstrong”, as spelled in English, is not corr
 
 ##### Example 3.26.
 
-<div class="hidden"></div>
-
 |                                                   |
 | ------------------------------------------------- |
 | <span class="font-ipa">\[ˈʔarm stron ɡɪʔ\]</span> |
@@ -520,9 +606,13 @@ The normal English pronunciation of the name “Armstrong” could be Lojbanized
 
 ##### Example 3.27.
 
+:::jbomupli
+
 |            |
 | ---------- |
 | .ARMstron. |
+
+:::
 
 since Lojban *n* is allowed to be pronounced as the velar nasal <span class="font-ipa">\[ŋ\]</span>.
 
@@ -530,15 +620,21 @@ Here is another example showing the use of *y*:
 
 ##### Example 3.28.
 
+:::jbomupli
+
 |             |
 | ----------- |
 | bisydja     |
 | *BI,sy,dja* |
 | *BI,syd,ja* |
 
+:::
+
 This word is a compound word, or lujvo, built from the two affixes *bis* and *dja*. When they are joined, an impermissible consonant pair results: *sd*. In accordance with the algorithm for making lujvo, explained in [Section 4.11](/chapter04/#411-the-lujvo-making-algorithm "4.11. The lujvo-making algorithm"), a *y* is inserted to separate the impermissible consonant pair; the *y* is not counted as a syllable for purposes of stress determination.
 
 ##### Example 3.29.
+
+:::jbomupli
 
 |            |
 | ---------- |
@@ -546,9 +642,13 @@ This word is a compound word, or lujvo, built from the two affixes *bis* and *dj
 | *da'UD,ja* |
 | *da'U,dja* |
 
+:::
+
 These two syllabications sound the same to a Lojban listener – the association of unbuffered consonants in syllables is of no import in recognizing the word.
 
 ##### Example 3.30.
+
+:::jbomupli
 
 |              |
 | ------------ |
@@ -557,21 +657,31 @@ These two syllabications sound the same to a Lojban listener – the association
 | *E'u BRI,di* |
 | *e'U.BRI,di* |
 
+:::
+
 In [Example 3.30](/chapter03/#example-330 "Example 3.30."), *[e'u](/glossary/#eu)* is a cmavo and *[bridi](/glossary/#bridi)* is a brivla. Either of the first two pronunciations is permitted: no primary stress on either syllable of *[e'u](/glossary/#eu)*, or primary stress on the first syllable. The third pronunciation, which places primary stress on the second syllable of the cmavo, requires that – since the following word is a brivla – the two words must be separated by a pause. Consider the following two cases:
 
 ##### Example 3.31.
+
+:::jbomupli
 
 |                     |
 | ------------------- |
 | le re nobli prenu   |
 | *le re NObli PREnu* |
 
+:::
+
 ##### Example 3.32.
+
+:::jbomupli
 
 |                     |
 | ------------------- |
 | le re no bliprenu   |
 | *le re no bliPREnu* |
+
+:::
 
 If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Example 3.32.") were to be stressed, the phrase would sound exactly like the given pronunciation of [Example 3.31](/chapter03/#example-331 "Example 3.31."), which is unacceptable in Lojban: a single pronunciation cannot represent both.
 

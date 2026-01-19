@@ -26,7 +26,7 @@ interface Props {
 const { contents, open = false } = Astro.props;
 ---
 
-<h2>Table of Contents</h2>
+<h2 id='table-of-contents'>Table of Contents</h2>
 <details id='toc-details' {open}>
   <summary>
     {open ? 'hide' : 'show'}

@@ -19,10 +19,13 @@ interface Props {}
   });
 
   window.addEventListener('scroll', async () => {
-    if (window.scrollY > 600) {
-      btn.dataset.visible = '';
-    } else {
-      delete btn.dataset.visible;
+    const vis = window.scrollY > 600 ? '' : undefined;
+    if (btn.dataset.visible !== vis) {
+      if (vis === '') {
+        btn.dataset.visible = vis;
+      } else {
+        delete btn.dataset.visible;
+      }
     }
   });
 </script>
