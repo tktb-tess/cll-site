@@ -83,7 +83,8 @@
     }
 
     .jbomupli {
-      @apply grid grid-cols-auto-fit-120 gap-x-2 gap-y-8 my-8;
+      @apply grid grid-cols-auto-fill-120 gap-x-2 gap-y-8 my-8 px-2 py-1 bg-violet-50
+      border border-slate-300 rounded;
 
       > div {
         @apply min-w-0 flex flex-col gap-0.75;
@@ -116,6 +117,6 @@
   user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
 }
 
-@utility grid-cols-auto-fit-* {
-  grid-template-columns: repeat(auto-fit, minmax(--value(integer)px, 1fr));
+@utility grid-cols-auto-fill-* {
+  grid-template-columns: repeat(auto-fill, minmax(--value(integer)px, 1fr));
 }

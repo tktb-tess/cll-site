@@ -15,7 +15,7 @@ export default defineConfig({
   },
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [remarkDirective, remarkJbomupli, remarkMath],
+    remarkPlugins: [remarkMath, remarkDirective, remarkJbomupli],
     rehypePlugins: [rehypeKatex],
     smartypants: false,
   },
