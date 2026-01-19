@@ -87,12 +87,8 @@
       border border-slate-300 rounded;
 
       > div {
-        @apply min-w-0 flex flex-col gap-0.75;
-
-        &:not(:last-child) {
-          @apply border-e border-slate-300;
-        }
-
+        @apply min-w-0 flex flex-col gap-0.75 border-e border-slate-300;
+        
         > p {
           @apply min-w-0 m-0;
         }
