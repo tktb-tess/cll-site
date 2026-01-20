@@ -53,7 +53,7 @@
   #md-root {
     @apply flow-root
     prose prose-slate dark:prose-invert
-    w-full max-w-7xl mx-auto px-4
+    w-full max-w-7xl mx-auto px-4 lg:px-6
     prose-a:hover:opacity-60 prose-a:transition-opacity;
 
     h1:where(#title) {
@@ -104,14 +104,14 @@
     }
 
     .jbomupli {
-      @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-3 py-1.5 
+      @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
       cbg-toc border cborder-border rounded;
 
       > div {
         @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
 
         > p {
-          @apply min-w-0 min-h-7 m-0 px-2;
+          @apply min-w-0 min-h-7 m-0 px-3;
         }
 
         > p:first-child {
