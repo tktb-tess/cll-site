@@ -73,7 +73,7 @@
     }
 
     table {
-      @apply lg:max-w-max lg:me-auto;
+      @apply lg:max-w-max lg:me-auto my-4;
 
       :where(thead, tbody tr) {
         @apply border-b-0;
@@ -84,12 +84,12 @@
       }
 
       :where(td, th) {
-        @apply text-base py-1.25;
+        @apply text-base py-1.25 px-2.25;
       }
     }
 
     li > :where(p) {
-      @apply my-3;
+      @apply my-2;
     }
 
     hr {

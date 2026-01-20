@@ -621,11 +621,14 @@ is equally satisfactory and means the same thing. As these examples indicate, jo
 | (big  | and | (yellow | type-of | red)) | dog   |
 
 :::
+:::jbomupli
 
 |       |     |     |        |         |       |      |       |
 | ----- | --- | --- | ------ | ------- | ----- | ---- | ----- |
 | barda | je  | ke  | pelxu  |         | xunre | ke'e | gerku |
 | (big  | and | (   | yellow | type-of | red)  | )    | dog   |
+
+:::
 
 big yellowish-red dog
 
