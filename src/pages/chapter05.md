@@ -2018,8 +2018,8 @@ It is also possible to have more than one *[na](/glossary/#na)* , in which case 
 
 :::
 
-It is false that it is false that I go to the market.
-| I go to the market. |
+It is false that it is false that I go to the market.  
+I go to the market.
 
 It is even possible, though somewhat pointless, to have multiple *[na](/glossary/#na)* cmavo and tense cmavo mixed together, subject to the limitation that two adjacent tense cmavo will be understood as a compound tense, and must fit the grammar of tenses as explained in [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
 
@@ -2034,9 +2034,9 @@ It is even possible, though somewhat pointless, to have multiple *[na](/glossary
 
 :::
 
-It is not the case that in the past it was not the case that in the present I went to the market.
-| I didn't not go to the market. |
-| I went to the market. |
+It is not the case that in the past it was not the case that in the present I went to the market.  
+I didn't not go to the market.  
+I went to the market.
 
 Tense, modal, and negation cmavo can appear only at the beginning of the selbri. They cannot be embedded within it.
 
@@ -2046,6 +2046,8 @@ This section and [Section 5.15](/chapter05/#515-some-types-of-symmetrical-tanru 
 
 Here are the 3-letter abbreviations used for the various languages (it is presumed to be obvious whether a compound is found in English or not, so English is not explicitly noted):
 
+<div class="table-scrollable">
+
 |     |                  |     |           |     |         |     |           |
 | --- | ---------------- | --- | --------- | --- | ------- | --- | --------- |
 | Aba | Abazin           | Chi | Chinese   | Ewe | Ewe     | Fin | Finnish   |
@@ -2053,6 +2055,8 @@ Here are the 3-letter abbreviations used for the various languages (it is presum
 | Imb | Imbabura Quechua | Kar | Karaitic  | Kaz | Kazakh  | Kor | Korean    |
 | Mon | Mongolian        | Qab | Qabardian | Que | Quechua | Rus | Russian   |
 | Skt | Sanskrit         | Swe | Swedish   | Tur | Turkish | Udm | Udmurt    |
+
+</div>
 
 Any lujvo or fu'ivla used in a group are glossed at the end of that group.
 

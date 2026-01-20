@@ -189,7 +189,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 
 :::
 
-$35%$
+$35\%$
 
 ##### Example 18.11.
 
@@ -2163,7 +2163,7 @@ The cmavo *[ni'e](/glossary/#nie)* makes a selbri into an operand. The x1 place 
 
 :::
 
-$\text{Length} \times \text{Width} \times \text{Depth} = \text{}{Volume}$
+$\text{Length} \times \text{Width} \times \text{Depth} = \text{Volume}$
 
 The cmavo *[mo'e](/glossary/#moe)* operates similarly to *[ni'e](/glossary/#nie)*, but makes a sumti (rather than a selbri) into an operand. This construction is useful in stating equations involving dimensioned numbers:
 

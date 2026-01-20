@@ -9,12 +9,36 @@
     'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif SC',
     'Segoe UI', serif, system-ui;
   --font-ipa: 'Charis-Web', serif, system-ui;
+  --color-bg: var(--color-slate-50);
+  --color-d-bg: var(--color-slate-950);
+  --color-toc: var(--color-violet-50);
+  --color-d-toc: var(--color-violet-950);
+  --color-border: var(--color-slate-300);
+  --color-d-border: var(--color-slate-500);
 }
 
-@property --jbomupli-rows {
-  syntax: '<integer>';
-  inherits: false;
-  initial-value: 1;
+@utility cbg-* {
+  background-color: --value(--color-*);
+
+  @media (prefers-color-scheme: dark) {
+    background-color: --value(--color-d- *);
+  }
+}
+
+@utility ctext-* {
+  color: --value(--color-*);
+
+  @media (prefers-color-scheme: dark) {
+    color: --value(--color-d- *);
+  }
+}
+
+@utility cborder-* {
+  border-color: --value(--color-*);
+
+  @media (prefers-color-scheme: dark) {
+    border-color: --value(--color-d- *);
+  }
 }
 
 @layer base {
@@ -23,7 +47,7 @@
   }
 
   body {
-    @apply bg-slate-50 dark:bg-slate-950;
+    @apply cbg-bg;
   }
 
   #md-root {
@@ -56,7 +80,7 @@
       }
 
       :where(tr :is(td, th):not(:last-child)) {
-        @apply border-e border-slate-300;
+        @apply border-e cborder-border;
       }
 
       :where(td, th) {
@@ -80,11 +104,11 @@
     }
 
     .jbomupli {
-      @apply grid grid-cols-auto-fill-[140px] lg:grid-cols-auto-fill-[180px] gap-y-8 my-8 px-3 py-1.5 bg-violet-50
-      border border-slate-300 rounded;
+      @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-3 py-1.5 
+      cbg-toc border cborder-border rounded;
 
       > div {
-        @apply flex flex-col gap-1 min-w-0 border-e border-slate-300;
+        @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
 
         > p {
           @apply min-w-0 min-h-7 m-0 px-2;
@@ -100,10 +124,6 @@
 
 @utility table-scrollable {
   @apply overflow-x-auto max-w-full;
-
-  :where(td, th) {
-    @apply text-nowrap;
-  }
 }
 
 @utility user-select-* {
@@ -111,9 +131,13 @@
 }
 
 @utility grid-cols-auto-fill-* {
-  grid-template-columns: repeat(auto-fill, minmax(--value([*]), max-content));
+  grid-template-columns: repeat(auto-fill, --value([*]));
 }
 
 @utility grid-cols-auto-* {
   grid-template-columns: repeat(--value(integer), auto);
+}
+
+@utility grid-cols-max-* {
+  grid-template-columns: repeat(--value(integer), max-content);
 }
