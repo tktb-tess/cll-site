@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import remarkDirective from 'remark-directive';
-import remarkJbomupli from './src/plugins/remark_jbomupli';
+import { jbomupliHandler, tableHandler } from './src/plugins/handlers';
 
 export default defineConfig({
   vite: {
@@ -15,8 +15,14 @@ export default defineConfig({
   },
   trailingSlash: 'always',
   markdown: {
-    remarkPlugins: [remarkMath, remarkDirective, remarkJbomupli],
+    remarkPlugins: [remarkMath, remarkDirective],
     rehypePlugins: [rehypeKatex],
+    remarkRehype: {
+      handlers: {
+        table: tableHandler,
+        containerDirective: jbomupliHandler,
+      },
+    },
     smartypants: false,
   },
 });
