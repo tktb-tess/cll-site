@@ -189,7 +189,7 @@ Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating p
 
 :::
 
-$35%$
+$35\%$
 
 ##### Example 18.11.
 

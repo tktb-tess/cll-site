@@ -6,28 +6,42 @@ interface Props {
 const { prev, next } = Astro.props;
 ---
 
-<p class='text-center text-lg font-light'>The Complete Lojban Language</p>
-<div
-  class='flex max-lg:flex-col max-lg:items-center lg:flex-row lg:justify-center lg:gap-4'
->
+<p id='navigator-title'>The Complete Lojban Language</p>
+<div id='navigator'>
   {
     prev && (
-      <a class='max-lg:pe-8' href={prev[0]}>
-        &lt;- {prev[1]}
+      <a href={prev[0]}>
+        ← {prev[1]}
       </a>
     )
   }
   {
     next && (
-      <a class='max-lg:ps-8' href={next[0]}>
-        {next[1]} -&gt;
+      <a href={next[0]}>
+        {next[1]} →
       </a>
     )
   }
 </div>
-<p class='text-center'><a href='/'>Table of Contents</a></p>
-<p class='text-center'>
+<p><a href='/'>Table of Contents</a></p>
+<p>
   <a href='https://mw.lojban.org/papri/The_Complete_Lojban_Language'>
     Book Info Page
   </a>
 </p>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+
+  #navigator-title {
+    @apply text-lg font-light;
+  }
+
+  #navigator {
+    @apply flex max-lg:flex-col max-lg:items-center lg:flex-row lg:justify-center lg:gap-4;
+  }
+
+  p {
+    @apply text-center;
+  }
+</style>
