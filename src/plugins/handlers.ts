@@ -1,6 +1,6 @@
 import type { PhrasingContent, Table } from 'mdast';
 import type { Element, ElementContent } from 'hast';
-import type { ContainerDirective } from 'mdast-util-directive';
+import type { ContainerDirective, TextDirective } from 'mdast-util-directive';
 import type { Handler } from 'mdast-util-to-hast';
 import { toHast } from 'mdast-util-to-hast';
 import * as v from 'valibot';
@@ -15,15 +15,37 @@ export const langPositionSchema = v.pipe(
 
 export type LangPosition = v.InferOutput<typeof langPositionSchema>;
 
+const ipaRender = (node: TextDirective): Element => ({
+  type: 'element',
+  tagName: 'span',
+  properties: {
+    class: ['font-ipa'],
+  },
+  children: node.children.map(phrasingToText),
+});
+
 const phrasingToText = (child: PhrasingContent): ElementContent => {
-  const hast = toHast(child, { allowDangerousHtml: true });
-  if (hast.type !== 'doctype' && hast.type !== 'root') {
-    return hast;
+  if (child.type === 'textDirective') {
+    if (child.name === 'ipa') {
+      return ipaRender(child);
+    } else {
+      return {
+        type: 'element',
+        tagName: 'span',
+        properties: {},
+        children: child.children.map(phrasingToText),
+      };
+    }
   } else {
-    return {
-      type: 'text',
-      value: '',
-    };
+    const hast = toHast(child, { allowDangerousHtml: true });
+    if (hast.type !== 'doctype' && hast.type !== 'root') {
+      return hast;
+    } else {
+      return {
+        type: 'text',
+        value: '',
+      };
+    }
   }
 };
 
@@ -98,8 +120,59 @@ export const containerDirectiveHandler: Handler = (
   _,
   node: ContainerDirective,
 ) => {
-  const className = 'jbomupli';
-  if (node.name !== className) {
+  if (node.name === 'jbomupli') {
+    const tables = node.children.filter((node) => node.type === 'table');
+    const langPosition = (() => {
+      const j = node.attributes?.jbo ?? `[0]`;
+      const p = JSON.parse(j);
+      return v.parse(langPositionSchema, p);
+    })();
+    const class_ = node.attributes?.class ?? null;
+    return tables.map((table) => {
+      const trs = table.children.slice(1);
+      const maxCol = Math.max(...trs.map((tr) => tr.children.length));
+
+      const whole: Element = {
+        type: 'element',
+        tagName: 'div',
+        properties: {
+          class: class_ ? ['jbomupli', class_] : ['jbomupli'],
+        },
+        children: [],
+      };
+      for (let i = 0; i < maxCol; i++) {
+        const col: Element = {
+          type: 'element',
+          tagName: 'div',
+          properties: {},
+          children: [],
+        };
+        for (const [j, tr] of trs.entries()) {
+          const cont = tr.children.at(i)?.children ?? [];
+          const children = cont.map(phrasingToText);
+
+          const isJbo =
+            langPosition.findIndex((pos) => {
+              if (typeof pos === 'number') {
+                return pos === j;
+              } else {
+                pos[0] === j && pos[1] === i;
+              }
+            }) > -1;
+          col.children.push({
+            type: 'element',
+            tagName: 'p',
+            properties: {
+              lang: isJbo ? 'jbo' : undefined,
+            },
+            children,
+          });
+        }
+        whole.children.push(col);
+      }
+      return whole;
+    });
+  } else {
     const hast = toHast(node);
 
     if (hast.type !== 'root' && hast.type !== 'doctype') {
@@ -111,55 +184,20 @@ export const containerDirectiveHandler: Handler = (
       };
     }
   }
-  const tables = node.children.filter((node) => node.type === 'table');
-  const langPosition = (() => {
-    const j = node.attributes?.jbo ?? `[0]`;
-    const p = JSON.parse(j);
-    return v.parse(langPositionSchema, p);
-  })();
-  const class_ = node.attributes?.class ?? null;
-  return tables.map((table) => {
-    const trs = table.children.slice(1);
-    const maxCol = Math.max(...trs.map((tr) => tr.children.length));
+};
 
-    const whole: Element = {
-      type: 'element',
-      tagName: 'div',
-      properties: {
-        class: class_ ? ['jbomupli', class_] : ['jbomupli'],
-      },
-      children: [],
-    };
-    for (let i = 0; i < maxCol; i++) {
-      const col: Element = {
-        type: 'element',
-        tagName: 'div',
-        properties: {},
-        children: [],
+export const textDirectiveHandler: Handler = (_, node: TextDirective) => {
+  if (node.name === 'ipa') {
+    return ipaRender(node);
+  } else {
+    const hast = toHast(node);
+    if (hast.type !== 'root' && hast.type !== 'doctype') {
+      return hast;
+    } else {
+      return {
+        type: 'text',
+        value: '',
       };
-      for (const [j, tr] of trs.entries()) {
-        const cont = tr.children.at(i)?.children ?? [];
-        const children = cont.map(phrasingToText);
-
-        const isJbo =
-          langPosition.findIndex((pos) => {
-            if (typeof pos === 'number') {
-              return pos === j;
-            } else {
-              pos[0] === j && pos[1] === i;
-            }
-          }) > -1;
-        col.children.push({
-          type: 'element',
-          tagName: 'p',
-          properties: {
-            lang: isJbo ? 'jbo' : undefined,
-          },
-          children,
-        });
-      }
-      whole.children.push(col);
     }
-    return whole;
-  });
+  }
 };

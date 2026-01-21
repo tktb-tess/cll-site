@@ -9,10 +9,12 @@
     'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif SC',
     'Segoe UI', serif, system-ui;
   --font-ipa: 'Charis-Web', serif, system-ui;
-  --color-bg: var(--color-slate-50);
+  --color-bg: white;
   --color-d-bg: var(--color-slate-950);
-  --color-toc: var(--color-violet-50);
-  --color-d-toc: var(--color-violet-950);
+  --color-side: var(--color-slate-100);
+  --color-d-side: var(--color-slate-900);
+  --color-toc: var(--color-blue-50);
+  --color-d-toc: var(--color-blue-950);
   --color-border: var(--color-slate-300);
   --color-d-border: var(--color-slate-500);
 }
@@ -47,14 +49,17 @@
   }
 
   body {
-    @apply cbg-bg;
+    @apply cbg-side;
   }
 
   #md-root {
-    @apply flow-root
+    @apply flow-root cbg-bg
     prose prose-slate dark:prose-invert
-    w-full max-w-7xl mx-auto px-4 lg:px-6
-    prose-a:hover:opacity-60 prose-a:transition-opacity;
+    w-full max-w-7xl mx-auto px-4 lg:px-6;
+
+    a {
+      @apply hover:opacity-60 transition-opacity;
+    }
 
     h1:where(#title) {
       @apply font-extralight text-center my-12;
@@ -109,7 +114,7 @@
 
     .jbomupli {
       @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      cbg-toc border cborder-border rounded;
+      cbg-toc border cborder-border rounded toc-grad;
 
       > div {
         @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
@@ -126,8 +131,8 @@
   }
 }
 
-@utility table-scrollable {
-  @apply overflow-x-auto max-w-full;
+@utility toc-grad {
+  @apply bg-linear-to-b from-transparent to-black/4 dark:from-white/6 dark:to-transparent;
 }
 
 @utility user-select-* {
