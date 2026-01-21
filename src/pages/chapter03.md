@@ -481,12 +481,12 @@ Here are some examples of Lojban syllabication:
 
 ##### Example 3.18.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|                      |
-| -------------------- |
-| pujenaicajeba        |
-| *pu,je,nai,ca,je,ba* |
+|                    |
+| ------------------ |
+| pujenaicajeba      |
+| pu,je,nai,ca,je,ba |
 
 :::
 
@@ -494,12 +494,12 @@ This word has no consonant pairs and is therefore syllabified before each medial
 
 ##### Example 3.19.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|          |
-| -------- |
-| ninmu    |
-| *nin,mu* |
+|        |
+| ------ |
+| ninmu  |
+| nin,mu |
 
 :::
 
@@ -507,12 +507,12 @@ This word is split at a consonant pair.
 
 ##### Example 3.20.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|           |
-| --------- |
-| fitpri    |
-| *fit,pri* |
+|         |
+| ------- |
+| fitpri  |
+| fit,pri |
 
 :::
 
@@ -520,13 +520,13 @@ This word is split at a consonant triple, between the first two consonants of th
 
 ##### Example 3.21.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1,2]'}
 
-|             |
-| ----------- |
-| sairgoi     |
-| *sair,goi*  |
-| *sai,r,goi* |
+|           |
+| --------- |
+| sairgoi   |
+| sair,goi  |
+| sai,r,goi |
 
 :::
 
@@ -534,13 +534,13 @@ This word contains the consonant pair *rg*; the *r* may be pronounced syllabical
 
 ##### Example 3.22.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1,2]'}
 
-|           |
-| --------- |
-| klezba    |
-| *klez,ba* |
-| *kle,zba* |
+|         |
+| ------- |
+| klezba  |
+| klez,ba |
+| kle,zba |
 
 :::
 
@@ -560,12 +560,12 @@ The following are Lojban words with stress explicitly shown:
 
 ##### Example 3.23.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|             |
-| ----------- |
-| dikyjvo     |
-| *DI,ky,jvo* |
+|           |
+| --------- |
+| dikyjvo   |
+| DI,ky,jvo |
 
 :::
 
@@ -573,12 +573,12 @@ The following are Lojban words with stress explicitly shown:
 
 ##### Example 3.24.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|                |
-| -------------- |
-| .armstrong.    |
-| *.ARM,strong.* |
+|              |
+| ------------ |
+| .armstrong.  |
+| .ARM,strong. |
 
 :::
 
@@ -594,8 +594,6 @@ The English pronunciation of “Armstrong”, as spelled in English, is not corr
 
 ##### Example 3.26.
 
-:::jbomupli
-
 |                                                   |
 | ------------------------------------------------- |
 | <span class="font-ipa">\[ˈʔarm stron ɡɪʔ\]</span> |
@@ -603,8 +601,6 @@ The English pronunciation of “Armstrong”, as spelled in English, is not corr
 | <span class="font-ipa">\[ˈʔarm stroŋ ɡɪʔ\]</span> |
 | or even                                           |
 | <span class="font-ipa">\[ˈʔarm stro nɪɡʔ\]</span> |
-
-:::
 
 The normal English pronunciation of the name “Armstrong” could be Lojbanized as:
 
@@ -624,13 +620,13 @@ Here is another example showing the use of *y*:
 
 ##### Example 3.28.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1,2]'}
 
-|             |
-| ----------- |
-| bisydja     |
-| *BI,sy,dja* |
-| *BI,syd,ja* |
+|           |
+| --------- |
+| bisydja   |
+| BI,sy,dja |
+| BI,syd,ja |
 
 :::
 
@@ -638,13 +634,13 @@ This word is a compound word, or lujvo, built from the two affixes *bis* and *dj
 
 ##### Example 3.29.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1,2]'}
 
-|            |
-| ---------- |
-| da'udja    |
-| *da'UD,ja* |
-| *da'U,dja* |
+|          |
+| -------- |
+| da'udja  |
+| da'UD,ja |
+| da'U,dja |
 
 :::
 
@@ -652,14 +648,14 @@ These two syllabications sound the same to a Lojban listener – the association
 
 ##### Example 3.30.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1,2,3]'}
 
-|              |
-| ------------ |
-| e'u bridi    |
-| *e'u BRI,di* |
-| *E'u BRI,di* |
-| *e'U.BRI,di* |
+|            |
+| ---------- |
+| e'u bridi  |
+| e'u BRI,di |
+| E'u BRI,di |
+| e'U.BRI,di |
 
 :::
 
@@ -667,23 +663,23 @@ In [Example 3.30](/chapter03/#example-330 "Example 3.30."), *[e'u](/glossary/#eu
 
 ##### Example 3.31.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|                     |
-| ------------------- |
-| le re nobli prenu   |
-| *le re NObli PREnu* |
+|                   |
+| ----------------- |
+| le re nobli prenu |
+| le re NObli PREnu |
 
 :::
 
 ##### Example 3.32.
 
-:::jbomupli
+:::jbomupli{jbo='[0,1]'}
 
-|                     |
-| ------------------- |
-| le re no bliprenu   |
-| *le re no bliPREnu* |
+|                   |
+| ----------------- |
+| le re no bliprenu |
+| le re no bliPREnu |
 
 :::
 
@@ -695,7 +691,7 @@ There are many dialects of English, thus making it difficult to define the stand
 
 <div class="[&_:where(td:first-child)]:font-ipa [&_:where(td:first-child)]:text-nowrap">
 
-|                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| IPA                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | \[ˈ\]                      | An IPA indicator of primary stress; the syllable which follows <span class="font-ipa">\[ˈ\]</span> receives primary stress.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | \[ʔ\]                      | An allowed variant of Lojban *.*. This sound is not usually considered part of English. It is the catch in your throat that sometimes occurs prior to the beginning of a word (and sometimes a syllable) which starts with a vowel. <br /> In some dialects, like Cockney and some kinds of American English, it is used between vowels instead of “t”: “bottle” <span class="font-ipa">\[boʔl̩\]</span>. The English interjection “uh-oh!” almost always has it between the syllables.                                                                                                                                                                                                                                           |

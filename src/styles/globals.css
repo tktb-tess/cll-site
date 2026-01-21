@@ -88,6 +88,10 @@
       }
     }
 
+    .table-container:has(> table) {
+      @apply max-w-full overflow-x-auto;
+    }
+
     li > :where(p) {
       @apply my-2;
     }
@@ -114,7 +118,7 @@
           @apply min-w-0 min-h-7 m-0 px-3;
         }
 
-        > p:first-child {
+        > p:lang(jbo) {
           @apply italic;
         }
       }
