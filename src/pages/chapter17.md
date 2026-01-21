@@ -325,7 +325,7 @@ Since different alphabets require different punctuation marks, the interpretatio
 
 ## 17.8. What about Chinese characters?
 
-Chinese characters (“han 4 zi 4” in Chinese, *[kanji](/glossary/#kanji)* in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
+Chinese characters (“漢字”, *han4 zi4* in Chinese, *[kanji](/glossary/#kanji)* in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
 
 It is hopeless for Lojban, with its limited lerfu and shift words, to create an alphabet which will match this diversity. However, there are various possible ways around the problem.
 
@@ -397,22 +397,12 @@ Here is an example using two names and longer lerfu strings:
 
 :::jbomupli
 
-|     |        |       |        |              |
-| --- | ------ | ----- | ------ | ------------ |
-| la  | stivn. | mark. | djonz. | merko        |
-|     | Steven | Mark  | Jones  | is-American. |
+|     |        |       |        |              |     |     |             |            |             |             |     |         |          |           |     |     |         |
+| --- | ------ | ----- | ------ | ------------ | --- | --- | ----------- | ---------- | ----------- | ----------- | --- | ------- | -------- | --------- | --- | --- | ------- |
+| la  | stivn. | mark. | djonz. | merko        | .i  | la  | .aleksandr. | paliitc.   | kuzNIETsyf. | rusko       | .i  | symyjy. | tavla    | .abupyky. | bau | la  | lojban. |
+|     | Steven | Mark  | Jones  | is-American. |     |     | Alexander   | Pavlovitch | Kuznetsov   | is-Russian. |     | SMJ     | talks-to | APK       | in  |     | Lojban. |
 
 :::
-
-|     |     |             |            |             |             |
-| --- | --- | ----------- | ---------- | ----------- | ----------- |
-| .i  | la  | .aleksandr. | paliitc.   | kuzNIETsyf. | rusko       |
-|     |     | Alexander   | Pavlovitch | Kuznetsov   | is-Russian. |
-
-|     |         |          |           |     |     |         |
-| --- | ------- | -------- | --------- | --- | --- | ------- |
-| .i  | symyjy. | tavla    | .abupyky. | bau | la  | lojban. |
-|     | SMJ     | talks-to | APK       | in  |     | Lojban. |
 
 Perhaps Alexander's name should be given as *ru'o.abupyky* instead.
 
@@ -551,7 +541,7 @@ This chapter is not about Lojban mathematics, which is explained in [Chapter 18]
 
 :::
 
-a = b + c
+$a = b + c$
 
 - A lerfu string as function name (preceded by *[ma'o](/glossary/#mao)* of selma'o MAhO):
 
@@ -563,9 +553,10 @@ a = b + c
 | ---------- | ----- | ------ | ---------- | ------------ | --- | --- | --- |
 | li         | .y.bu | du     | li         | ma'o         | fy. | boi | xy. |
 | the-number | y     | equals | the-number | the-function | f   | of  | x   |
-| y = f(x)   |       |        |            |              |     |     |     |
 
 :::
+
+$y = f(x)$
 
 Note the *[boi](/glossary/#boi)* here to separate the lerfu strings *[fy](/glossary/#fy)* and *[xy](/glossary/#xy)*.
 
@@ -706,20 +697,15 @@ Since the first application of computers to non-numerical information, character
 
 :::jbomupli
 
-|                |          |      |     |                      |     |              |
-| -------------- | -------- | ---- | --- | -------------------- | --- | ------------ |
-| me'o           | se'e     | cixa | cu  | lerfu                | la  | .asycy'i'is. |
-| The-expression | \[code\] | 36   |     | is-a-letteral-in-set |     | ASCII        |
+|                |          |      |     |                      |     |              |                 |          |                 |
+| -------------- | -------- | ---- | --- | -------------------- | --- | ------------ | --------------- | -------- | --------------- |
+| me'o           | se'e     | cixa | cu  | lerfu                | la  | .asycy'i'is. | loi             | merko    | rupnu           |
+| The-expression | \[code\] | 36   |     | is-a-letteral-in-set |     | ASCII        | for-the-mass-of | American | currency-units. |
 
 :::
 
-|                 |          |                 |
-| --------------- | -------- | --------------- |
-| loi             | merko    | rupnu           |
-| for-the-mass-of | American | currency-units. |
-
-The character code 36 in ASCII represents American dollars.
-| “$” represents American dollars.                            |
+The character code 36 in ASCII represents American dollars.  
+“$” represents American dollars.
 
 Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45.") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/#see)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
 

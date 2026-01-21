@@ -3,27 +3,29 @@ layout: ../layouts/MdLayout.astro
 title: 'Examples Index'
 ---
 
-### Symbols
+<div class="[&_:where(p)]:wrap-anywhere">
 
-- "a" is letteral: [References to lerfu](/chapter17/#idm47077877383552), [References to lerfu](/chapter17/#idm47077877367440)
-- $: [Computerized character codes](/chapter17/#idm47077877050816)
-- (n + 1)(n + 1) = n^2 + 2n + 1: [Simple infix expressions and equations](/chapter18/#idm47077875546928)
-- (n+1)-th rat: [Special mekso selbri](/chapter18/#idm47077874086784)
+## Symbols
+
+- “a” is letteral: [References to lerfu](/chapter17/#idm47077877383552), [References to lerfu](/chapter17/#idm47077877367440)
+- \$: [Computerized character codes](/chapter17/#idm47077877050816)
+- $(n + 1)(n + 1) = n^{2} + 2n + 1$: [Simple infix expressions and equations](/chapter18/#idm47077875546928)
+- $(n+1)$-th rat: [Special mekso selbri](/chapter18/#idm47077874086784)
 - +1 + -1 = 0: [Simple infix expressions and equations](/chapter18/#idm47077875672544)
     -1: [Signs and numerical punctuation](/chapter18/#idm47077876049968)
 - 1 + 1 = 2: [Simple infix expressions and equations](/chapter18/#idm47077875757264)
-- 10^20: [Infix operators revisited](/chapter18/#idm47077873805296)
+- $10^20$: [Infix operators revisited](/chapter18/#idm47077873805296)
 - 12-point: [Alien alphabets](/chapter17/#idm47077877686832)
 - 123: [Lojban numbers](/chapter18/#idm47077876142336)
 - 2 + 2: [Truth-value abstraction: jei](/chapter11/#idm47077891964896)
 - 2 rats + 2 rabbits = 4 animals: [Using Lojban resources within mekso](/chapter18/#idm47077873137376)
 - 2/7: [Signs and numerical punctuation](/chapter18/#idm47077876014320)
-- 3 \* 10^8: [Infix operators revisited](/chapter18/#idm47077873826832)
+- $3 \times 10^{8}$: [Infix operators revisited](/chapter18/#idm47077873826832)
 - 3 grams: [Simple infix expressions and equations](/chapter18/#idm47077875712480)
 - 3.1415: [Signs and numerical punctuation](/chapter18/#idm47077876030032)
 - 8 out of 10: [Special mekso selbri](/chapter18/#idm47077874176176)
 
-### A
+## A
 
 - A gives B to C: [lerfu words as pro-sumti](/chapter17/#idm47077877420640)
 - A gives BC: [lerfu words as pro-sumti](/chapter17/#idm47077877436928)
@@ -58,7 +60,7 @@ title: 'Examples Index'
 - attend school: [Interval properties: TAhE and roi](/chapter10/#idm47077895811888)
 - Avon: [Modal tags: BAI](/chapter09/#idm47077899070400)
 
-### B
+## B
 
 - bear wrote story: [The three basic description types](/chapter06/#idm47077906654192)
 - Bears wrote book: [Individuals and masses](/chapter06/#idm47077906381024)
@@ -101,7 +103,7 @@ title: 'Examples Index'
 
 - social: [tanru](/chapter02/#idm47077916040128)
 
-### C
+## C
 
 - can see: [Actuality, potentiality, capability: CAhA](/chapter10/#idm47077893784688)
 - car goer: [Symmetrical and asymmetrical lujvo](/chapter12/#idm47077890665488)
@@ -129,7 +131,7 @@ title: 'Examples Index'
 - cup's friend: [Relative phrases](/chapter08/#idm47077901268176)
 - curious: [Predication/sentence abstraction](/chapter11/#idm47077891815728)
 
-### D
+## D
 
 - deference: [Attitudinal modifiers](/chapter13/#idm47077888144832)
 - Devanagari: [Alien alphabets](/chapter17/#idm47077877743904)
@@ -145,7 +147,7 @@ title: 'Examples Index'
 - Doyle: [Lojban names](/chapter06/#idm47077904971696)
 - ducks swim: [Actuality, potentiality, capability: CAhA](/chapter10/#idm47077893843088)
 
-### E
+## E
 
 - eat in airplane: [Movement in space: MOhI](/chapter10/#idm47077895885888)
 - eat themselves: [Indefinite numbers](/chapter18/#idm47077874933856)
@@ -164,7 +166,7 @@ title: 'Examples Index'
 - except from 10 to 12: [Interval connectives and forethought non-logical connection](/chapter14/#idm47077883055808)
 - experienced: [Evidentials](/chapter13/#idm47077887528080)
 
-### F
+## F
 
 - F.8 base 16: [Non-decimal and compound bases](/chapter18/#idm47077874528576)
 - far away from the nearby park: [Tenses as sumti tcita](/chapter10/#idm47077895057344)
@@ -192,7 +194,7 @@ title: 'Examples Index'
 - from one to two o'clock: [Interval connectives and forethought non-logical connection](/chapter14/#idm47077883215456)
 - function f of x: [Mathematical uses of lerfu strings](/chapter17/#idm47077877269248)
 
-### G
+## G
 
 - German rich man: [Grouping of afterthought connectives](/chapter14/#idm47077884952656)
 - Gettysburg Address: [Four score and seven: a mekso problem](/chapter18/#idm47077872641728)
@@ -213,10 +215,10 @@ title: 'Examples Index'
 - grasp water: [Other modal connections](/chapter09/#idm47077898706304)
 - great soldier: [Symmetrical and asymmetrical lujvo](/chapter12/#idm47077890772912), [Ordering lujvo places.](/chapter12/#idm47077890456896)
 
-### H
+## H
 
 - had earlier: [Sticky and multiple tenses: KI](/chapter10/#idm47077894854720)
-- han4zi4: [What about Chinese characters?](/chapter17/#idm47077877546576)
+- 漢字 (han4 zi4): [What about Chinese characters?](/chapter17/#idm47077877546576)
 - hands in pockets: [Relative phrases](/chapter08/#idm47077901182944)
 - handwriting: [Alien alphabets](/chapter17/#idm47077877695808)
 - happiness: [Abstraction focus pro-sumti: ce'u](/chapter07/#idm47077902424960)
@@ -239,7 +241,7 @@ title: 'Examples Index'
 - huh?: [Miscellaneous indicators](/chapter13/#idm47077886859120)
 - husband and wife: [Evidentials](/chapter13/#idm47077887550896)
 
-### I
+## I
 
 - IBM: [Acronyms](/chapter17/#idm47077877132112)
 - if coffee
@@ -255,7 +257,7 @@ title: 'Examples Index'
 - intermittently: [Interval properties: TAhE and roi](/chapter10/#idm47077895746448)
 - irrational number: [Relative clauses and complex sumti: vu'o](/chapter08/#idm47077900528016)
 
-### J
+## J
 
 - James: [Consonant Clusters](/chapter03/#idm47077914409840)
 - Jane: [cmene](/chapter04/#idm47077912167072)
@@ -271,7 +273,7 @@ title: 'Examples Index'
 - Jupiter life: [Abstractor connection and connection within abstractions](/chapter14/#idm47077882430272)
 - juror 5: [Possessive sumti](/chapter08/#idm47077900587168)
 
-### K
+## K
 
 - katakana: [Alien alphabets](/chapter17/#idm47077877735200)
 - Kate: [cmene](/chapter04/#idm47077912119056)
@@ -283,12 +285,12 @@ title: 'Examples Index'
 - know who: [Indirect questions](/chapter11/#idm47077891731744)
 - Korean: [fu'ivla](/chapter04/#idm47077912216176), [fu'ivla](/chapter04/#idm47077912206848)
 
-### L
+## L
 
 - Lady: [cmene](/chapter04/#idm47077911976544)
 - large meal: [Attitudinal modifiers](/chapter13/#idm47077888020560)
 - lemon tree: [Simple tanru](/chapter05/#idm47077910707008)
-- Length \* Width \* Depth = Volume: [Using Lojban resources within mekso](/chapter18/#idm47077873171600)
+- $\text{Length} \times \text{Width} \times \text{Depth} = \text{Volume}$: [Using Lojban resources within mekso](/chapter18/#idm47077873171600)
 - Lepidoptera: [tanru](/chapter02/#idm47077916041216)
 - less than: [Approximation and inexact numbers](/chapter18/#idm47077874688784)
 - less than two: [Approximation and inexact numbers](/chapter18/#idm47077874689536)
@@ -308,7 +310,7 @@ title: 'Examples Index'
 - lukewarm food: [sumti qualifiers](/chapter06/#idm47077905292592)
 - Lyra: [Lojban names](/chapter06/#idm47077904970784)
 
-### M
+## M
 
 - magic square: [Vectors and matrices](/chapter18/#idm47077873704544)
 - man or woman: [Logical connection and truth tables](/chapter14/#idm47077885949152)
@@ -328,9 +330,9 @@ title: 'Examples Index'
 - my: [Possessive sumti](/chapter08/#idm47077900665536)
 - my chair: [Multiple relative clauses: zi'e](/chapter08/#idm47077901077040)
 
-### N
+## N
 
-- n people: [Mathematical uses of lerfu strings](/chapter17/#idm47077877202288)
+- $n$ people: [Mathematical uses of lerfu strings](/chapter17/#idm47077877202288)
 - NATO: [Acronyms](/chapter17/#idm47077877135280)
 - near the faraway park: [Tenses as sumti tcita](/chapter10/#idm47077895071360)
 - near the park: [Tenses as sumti tcita](/chapter10/#idm47077895084960)
@@ -345,7 +347,7 @@ title: 'Examples Index'
 - Nthly: [Mathematical uses of lerfu strings](/chapter17/#idm47077877231008)
 - NYC: [Acronyms](/chapter17/#idm47077877131360)
 
-### O
+## O
 
 - observation: [Evidentials](/chapter13/#idm47077887447120)
 - ocean shell: [Eliding KE and KEhE rafsi from lujvo](/chapter12/#idm47077890152512)
@@ -364,7 +366,7 @@ title: 'Examples Index'
 - opposite-of-minus: [Miscellany](/chapter18/#idm47077872816720)
 - owe money: [Multiple compound bridi](/chapter14/#idm47077884689776)
 
-### P
+## P
 
 - Persian rug: [rafsi](/chapter04/#idm47077912556992)
 - person's arm: [Relative phrases](/chapter08/#idm47077901408000)
@@ -380,7 +382,7 @@ title: 'Examples Index'
 - pronouncement: [Evidentials](/chapter13/#idm47077887551824)
 - property of loving: [Property abstractions](/chapter11/#idm47077892217728)
 
-### Q
+## Q
 
 - quack: [Alien alphabets](/chapter17/#idm47077877825088)
 - quadratic formula: [Logical and non-logical connectives within mekso](/chapter18/#idm47077873389120)
@@ -388,7 +390,7 @@ title: 'Examples Index'
 - quark: [fu'ivla](/chapter04/#idm47077912324480)
 - quick runner: [Simple tanru](/chapter05/#idm47077910688672)
 
-### R
+## R
 
 - Ralph: [Existential claims, prenexes, and variables](/chapter16/#idm47077880232928)
 - rat eats cheese: [Interval properties: TAhE and roi](/chapter10/#idm47077895675280), [Tenses as sumti tcita](/chapter10/#idm47077895085712), [Tenses as sumti tcita](/chapter10/#idm47077895072256), [Tenses as sumti tcita](/chapter10/#idm47077895058240)
@@ -411,7 +413,7 @@ title: 'Examples Index'
 
 - runner shoe: [tanru](/chapter02/#idm47077916055184)
 
-### S
+## S
 
 - said John: [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870508336), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870495488), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870477616), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870469344)
 - salad ingredients: [Space interval modifiers: FEhE](/chapter10/#idm47077895235584)
@@ -467,13 +469,13 @@ title: 'Examples Index'
 
   - variants of: [Syllabication And Stress](/chapter03/#idm47077914006992)
 
-### T
+## T
 
 - Take care!: [Vocatives and commands](/chapter02/#idm47077915571120)
 - Talk!: [Vocatives and commands](/chapter02/#idm47077915604000)
 - talker: [tanru](/chapter02/#idm47077915956432)
 - taller: [The concept of the bridi](/chapter02/#idm47077916641184)
-- tan(pi/2) = infinity: [Using Lojban resources within mekso](/chapter18/#idm47077873208416)
+- $\tan{(\pi/2)} = \infty$: [Using Lojban resources within mekso](/chapter18/#idm47077873208416)
 - tank
 
 - Sherman: [rafsi](/chapter04/#idm47077912540704)
@@ -516,19 +518,19 @@ title: 'Examples Index'
 - typical Englishman: [Descriptors for typical objects](/chapter06/#idm47077906214096)
 - typical Lojban user: [Masses and sets](/chapter06/#idm47077906262592)
 
-### U
+## U
 
 - ugh: [More about non-logical connectives](/chapter14/#idm47077883285056)
 - under compulsion: [Modal selbri](/chapter09/#idm47077898478880), [Modal selbri](/chapter09/#idm47077898454944), [Modal selbri](/chapter09/#idm47077898439920), [Modal selbri](/chapter09/#idm47077898424704)
 - under conditions: [Event abstraction](/chapter11/#idm47077892486736)
 - unspecified route: [Standard bridi form: cu](/chapter09/#idm47077899910848)
 
-### V
+## V
 
 - veterinarian: [Ordering lujvo places.](/chapter12/#idm47077890410400)
 - vice versa: [Reflexive and reciprocal pro-sumti: the vo'a-series](/chapter07/#idm47077902696288), [Reflexive and reciprocal pro-sumti: the vo'a-series](/chapter07/#idm47077902670352), [Reflexive and reciprocal pro-sumti: the vo'a-series](/chapter07/#idm47077902658544), [Reflexive and reciprocal pro-sumti: the vo'a-series](/chapter07/#idm47077902629696)
 
-### W
+## W
 
 - walk to market: [Conversion of simple selbri](/chapter05/#idm47077908873648)
 - want to be a soldier: [The syntax of abstraction](/chapter11/#idm47077892658384)
@@ -542,21 +544,22 @@ title: 'Examples Index'
 - where: [Tense questions: cu'e](/chapter10/#idm47077893191600)
 - whether criminal: [Truth-value abstraction: jei](/chapter11/#idm47077891934240)
 - window: [The six types of logical connectives](/chapter14/#idm47077885820032)
-- word "abu": [References to lerfu](/chapter17/#idm47077877312368)
-- word "bu": [The universal bu](/chapter17/#idm47077877945712)
+- word “abu”: [References to lerfu](/chapter17/#idm47077877312368)
+- word “bu”: [The universal bu](/chapter17/#idm47077877945712)
 
-### X
+## X
 
-- x sub b,d: [Logical and non-logical connectives within mekso](/chapter14/#idm47077882835472)
+- x sub b, d: [Logical and non-logical connectives within mekso](/chapter14/#idm47077882835472)
 - x sub k: [Mathematical uses of lerfu strings](/chapter17/#idm47077877217424)
 - X-ray: [rafsi](/chapter04/#idm47077912562848)
 - x-sub-3: [Subscripts](/chapter18/#idm47077873947568)
 
-### Y
+## Y
 
 - younger: [Comparatives and superlatives](/chapter12/#idm47077889551824), [Comparatives and superlatives](/chapter12/#idm47077889536944)
 
-### Z
+## Z
 
 - zero to one: [Logical and non-logical connectives within mekso](/chapter14/#idm47077882853744)
 
+</div>

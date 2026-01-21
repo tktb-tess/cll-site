@@ -1,9 +1,11 @@
 ---
 layout: ../layouts/MdLayout.astro
-title: Lojban Words Index
+title: 'Lojban Words Index'
 ---
 
-### Symbols
+<div class="[&_:where(p)]:wrap-anywhere">
+
+## Symbols
 
 - .a: [cmavo](/chapter04/#idm47077913367152), [sumti connection](/chapter14/#idm47077885291904), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882335616), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882306960), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882258368), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882163552)
   - .a'enai: [Propositional attitude indicators](/chapter13/#idm47077888758688)
@@ -58,7 +60,7 @@ title: Lojban Words Index
   - .y.bu: [Acronyms](/chapter17/#idm47077877142112), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876626576), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876437664)
   - .ybu: [A to Z in Lojban, plus one](/chapter17/#idm47077878156944)
 
-### A
+## A
 
 - a: [The six types of logical connectives](/chapter14/#idm47077885810352), [The six types of logical connectives](/chapter14/#idm47077885807280), [sumti connection](/chapter14/#idm47077885287072), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882333248), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882325152), [bridi negation and logical connectives](/chapter16/#idm47077879164336), [bridi negation and logical connectives](/chapter16/#idm47077879149856)
   - A selma'o: [sumti connection](/chapter14/#idm47077885362144), [sumti connection](/chapter14/#idm47077885357120), [Non-logical connectives](/chapter14/#idm47077883898912), [Logical and non-logical connectives within mekso](/chapter14/#idm47077882955536), [Tenses, modals, and logical connection](/chapter14/#idm47077882687504), [Tenses, modals, and logical connection](/chapter14/#idm47077882667904), [Logical and non-logical connectives within mekso](/chapter18/#idm47077873498160)
@@ -67,7 +69,7 @@ title: Lojban Words Index
   - ai.: [Quotation summary](/chapter06/#idm47077904586656)
   - au: [Non-decimal and compound bases](/chapter18/#idm47077874542416)
 
-### B
+## B
 
 - ba: [Tenses](/chapter02/#idm47077915068896), [cmavo](/chapter04/#idm47077913353552), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903154656), [Temporal tenses: PU and ZI](/chapter10/#idm47077896383392), [Interval sizes: VEhA and ZEhA](/chapter10/#idm47077896129968), [Event contours: ZAhO and re'u](/chapter10/#idm47077895463616), [Sticky and multiple tenses: KI](/chapter10/#idm47077894818928), [Tensed logical connectives](/chapter10/#idm47077894140864), [Logical and non-logical connections between tenses](/chapter10/#idm47077893596528), [Tenses versus modals](/chapter10/#idm47077893334832), [Tenses, modals, and logical connection](/chapter14/#idm47077882811136), [Tenses, modals, and logical connection](/chapter14/#idm47077882725872), [Tenses, modals, and logical connection](/chapter14/#idm47077882699344), [Tenses, modals, and logical connection](/chapter14/#idm47077882694640)
   - ba'a: [Evidentials](/chapter13/#idm47077887539328), [Evidentials](/chapter13/#idm47077887536672)
@@ -145,7 +147,7 @@ title: Lojban Words Index
   - by: [A to Z in Lojban, plus one](/chapter17/#idm47077878142384), [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876913744), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876767488), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876592928)
   - by.: [rafsi](/chapter04/#idm47077912527040), [A to Z in Lojban, plus one](/chapter17/#idm47077878225328), [lerfu words as pro-sumti](/chapter17/#idm47077877488928)
 
-### C
+## C
 
 - ca: [Tenses](/chapter02/#idm47077915130480), [Temporal tenses: PU and ZI](/chapter10/#idm47077896385984), [Interval sizes: VEhA and ZEhA](/chapter10/#idm47077896132384), [Tenses as sumti tcita](/chapter10/#idm47077895127312), [Tenses as sumti tcita](/chapter10/#idm47077895119728), [Tenses in subordinate bridi](/chapter10/#idm47077894486432), [Tenses in subordinate bridi](/chapter10/#idm47077894483904), [Tenses in subordinate bridi](/chapter10/#idm47077894481568), [Actuality, potentiality, capability: CAhA](/chapter10/#idm47077893722208), [Tenses, modals, and logical connection](/chapter14/#idm47077882813408)
   - ca'a: [Actuality, potentiality, capability: CAhA](/chapter10/#idm47077893729408)
@@ -218,7 +220,7 @@ title: Lojban Words Index
   - cy: [A to Z in Lojban, plus one](/chapter17/#idm47077878098880), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876642448), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876490656)
   - cy.: [cmavo](/chapter04/#idm47077913223232), [A to Z in Lojban, plus one](/chapter17/#idm47077878222000)
 
-### D
+## D
 
 - - da: [Pro-sumti summary](/chapter06/#idm47077904835408), [Indirect questions](/chapter11/#idm47077891692544), [Indirect questions](/chapter11/#idm47077891663888), [Compound bridi](/chapter14/#idm47077884768912), [bridi negation](/chapter15/#idm47077881746240), [Existential claims, prenexes, and variables](/chapter16/#idm47077880313952), [Existential claims, prenexes, and variables](/chapter16/#idm47077880289600), [Existential claims, prenexes, and variables](/chapter16/#idm47077880239120), [Universal claims](/chapter16/#idm47077880203776), [Universal claims](/chapter16/#idm47077880173296), [Restricted claims: da poi](/chapter16/#idm47077880125504), [Restricted claims: da poi](/chapter16/#idm47077880083376), [Restricted claims: da poi](/chapter16/#idm47077880080544), [Dropping the prenex](/chapter16/#idm47077879976928), [Dropping the prenex](/chapter16/#idm47077879894048), [Variables with generalized quantifiers](/chapter16/#idm47077879868240), [Variables with generalized quantifiers](/chapter16/#idm47077879774768), [Grouping of quantifiers](/chapter16/#idm47077879703760), [The problem of “any”](/chapter16/#idm47077879464592), [bridi negation and logical connectives](/chapter16/#idm47077879055584), [bridi negation and logical connectives](/chapter16/#idm47077879053184), [bridi negation and logical connectives](/chapter16/#idm47077879050624), [Using naku outside a prenex](/chapter16/#idm47077878907200), [Using naku outside a prenex](/chapter16/#idm47077878869952), [selbri variables](/chapter16/#idm47077878481728), [A few notes on variables](/chapter16/#idm47077878381744), [A few notes on variables](/chapter16/#idm47077878377408), [A few notes on variables](/chapter16/#idm47077878375024), [A few notes on variables](/chapter16/#idm47077878343904), [A few notes on variables](/chapter16/#idm47077878311360), [A few notes on variables](/chapter16/#idm47077878306928), [Subscripts: XI](/chapter19/#idm47077871412784)
   - DA selma'o: [Subscripts: XI](/chapter19/#idm47077871411856)
@@ -283,7 +285,7 @@ title: Lojban Words Index
   - dzipo: [Cultural and other non-algorithmic gismu](/chapter04/#idm47077910881744)
   - dzukla: [Eliding KE and KEhE rafsi from lujvo](/chapter12/#idm47077890105376), [Eliding KE and KEhE rafsi from lujvo](/chapter12/#idm47077890093248), [Termset logical connection](/chapter14/#idm47077884423088)
 
-### E
+## E
 
 - - e: [Truth questions and connective questions](/chapter14/#idm47077884019184), [Non-logical connectives](/chapter14/#idm47077883691264), [Non-logical connectives](/chapter14/#idm47077883619664), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882183696), [bridi negation and logical connectives](/chapter16/#idm47077879174400), [bridi negation and logical connectives](/chapter16/#idm47077879152192), [Erasure: SI, SA, SU](/chapter19/#idm47077870355136)
   - e'e: [Attitudinal modifiers](/chapter13/#idm47077887983824)
@@ -291,7 +293,7 @@ title: Lojban Words Index
   - e'u: [Syllabication And Stress](/chapter03/#idm47077913997760), [Syllabication And Stress](/chapter03/#idm47077913992928), [Evidentials](/chapter13/#idm47077887411360)
   - ei: [Non-decimal and compound bases](/chapter18/#idm47077874539984)
 
-### F
+## F
 
 - - fa: [Tagging places: FA](/chapter09/#idm47077899857664), [Tagging places: FA](/chapter09/#idm47077899675760), [Tagging places: FA](/chapter09/#idm47077899652304), [Tagging places: FA](/chapter09/#idm47077899550480)
   - fa'a: [List of spatial directions and direction-like relations](/chapter10/#idm47077892726656), [List of spatial directions and direction-like relations](/chapter10/#idm47077892711344)
@@ -340,7 +342,7 @@ title: Lojban Words Index
   - fy: [Mathematical uses of lerfu strings](/chapter17/#idm47077877256128), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876663888), [Erasure: SI, SA, SU](/chapter19/#idm47077870323968)
   - fy.: [A to Z in Lojban, plus one](/chapter17/#idm47077878211568), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875352864), [Miscellany](/chapter18/#idm47077872685552), [Miscellany](/chapter18/#idm47077872674640)
 
-### G
+## G
 
 - - ga: [Forethought bridi connection](/chapter14/#idm47077885555872), [Forethought bridi connection](/chapter14/#idm47077885549968), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882317664), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882293584), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882246400), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882145088), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878704880), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878693520), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878625904)
   - GA selma'o: [Forethought bridi connection](/chapter14/#idm47077885400736), [Forethought bridi connection](/chapter14/#idm47077885398400), [sumti connection](/chapter14/#idm47077885326704), [Logical and non-logical connectives within mekso](/chapter14/#idm47077882956368), [Logical and non-logical connectives within mekso](/chapter18/#idm47077873499088)
@@ -402,14 +404,14 @@ title: Lojban Words Index
   - gy: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876908224), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876756848), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876587376), [More on quotations: ZO, ZOI](/chapter19/#idm47077870892512), [More on quotations: ZO, ZOI](/chapter19/#idm47077870866016), [Erasure: SI, SA, SU](/chapter19/#idm47077870329952)
   - gy.: [Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series](/chapter07/#idm47077903615488), [A to Z in Lojban, plus one](/chapter17/#idm47077878208144), [Erasure: SI, SA, SU](/chapter19/#idm47077870321440)
 
-### I
+## I
 
 - - i: [The basic structure of longer utterances](/chapter02/#idm47077916111280), [The basic structure of longer utterances](/chapter02/#idm47077916096272), [The basic structure of longer utterances](/chapter02/#idm47077916091008), [The basic structure of longer utterances](/chapter02/#idm47077916088160), [The basic structure of longer utterances](/chapter02/#idm47077916085424), [Oddball Orthographies](/chapter03/#idm47077913676080), [Modal sentence connection: the causals](/chapter09/#idm47077898756544), [Other modal connections](/chapter09/#idm47077898679040), [Tense relations between sentences](/chapter10/#idm47077894403216), [Tense relations between sentences](/chapter10/#idm47077894381776), [Evidentials](/chapter13/#idm47077887570256), [Discursives](/chapter13/#idm47077887374160), [The six types of logical connectives](/chapter14/#idm47077885776912), [The six types of logical connectives](/chapter14/#idm47077885774336), [Logical connection of bridi](/chapter14/#idm47077885741296), [Logical connection of bridi](/chapter14/#idm47077885705136), [Forethought bridi connection](/chapter14/#idm47077885541584), [Truth questions and connective questions](/chapter14/#idm47077884079952), [More about non-logical connectives](/chapter14/#idm47077883384400), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881929120), [Rules for making logical and non-logical connectives](/chapter14/#idm47077881909936), [bridi negation and logical connectives](/chapter16/#idm47077879170496), [bridi negation and logical connectives](/chapter16/#idm47077879160544), [bridi negation and logical connectives](/chapter16/#idm47077879147488), [bridi negation and logical connectives](/chapter16/#idm47077879128016), [A few notes on variables](/chapter16/#idm47077878361728), [A few notes on variables](/chapter16/#idm47077878359040), [Sentences: I](/chapter19/#idm47077872178816), [Sentences: I](/chapter19/#idm47077872164944), [Sentences: I](/chapter19/#idm47077872162704), [Sentences: I](/chapter19/#idm47077872159808), [Sentences: I](/chapter19/#idm47077872157712), [Sentences: I](/chapter19/#idm47077872155136), [Sentences: I](/chapter19/#idm47077872152304), [Sentences: I](/chapter19/#idm47077872149232), [Sentences: I](/chapter19/#idm47077872145296), [Sentences: I](/chapter19/#idm47077872142736), [Sentences: I](/chapter19/#idm47077872138096), [Sentences: I](/chapter19/#idm47077872133200), [Sentences: I](/chapter19/#idm47077872119392), [Sentences: I](/chapter19/#idm47077872112176), [Paragraphs: NIhO](/chapter19/#idm47077872070672), [Paragraphs: NIhO](/chapter19/#idm47077872063360), [Attitude scope markers: FUhE/FUhO](/chapter19/#idm47077871193920), [Erasure: SI, SA, SU](/chapter19/#idm47077870249920)
   - I selma'o: [Logical connection of bridi](/chapter14/#idm47077885597776), [Tenses, modals, and logical connection](/chapter14/#idm47077882601392), [Tenses, modals, and logical connection](/chapter14/#idm47077882580960)
   - i'a: [Pure emotion indicators](/chapter13/#idm47077888921168)
   - i'e: [Pure emotion indicators](/chapter13/#idm47077888916832), [Propositional attitude indicators](/chapter13/#idm47077888527280)
 
-### J
+## J
 
 - - ja: [Logical connection within tanru](/chapter05/#idm47077909998368), [Logical connection within tanru](/chapter05/#idm47077909971888), [Logical connection within tanru](/chapter05/#idm47077909966992), [Logical connection within tanru](/chapter05/#idm47077909964608), [Logical connection within tanru](/chapter05/#idm47077909960080), [Logical connection within tanru](/chapter05/#idm47077909955408), [Logical connection within tanru](/chapter05/#idm47077909952912), [Some types of symmetrical tanru](/chapter05/#idm47077907547216), [Logical connection of bridi](/chapter14/#idm47077885744320), [Forethought bridi connection](/chapter14/#idm47077885483472), [Grouping of afterthought connectives](/chapter14/#idm47077885134512), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882322656), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882302304), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882253568), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882156800), [bridi negation and logical connectives](/chapter16/#idm47077879142752), [Other useful selbri for mekso bridi](/chapter18/#idm47077875273488), [Other useful selbri for mekso bridi](/chapter18/#idm47077875262608)
   - JA selma'o: [Logical and non-logical connections between tenses](/chapter10/#idm47077893651552), [The six types of logical connectives](/chapter14/#idm47077885816048), [The six types of logical connectives](/chapter14/#idm47077885788512), [The six types of logical connectives](/chapter14/#idm47077885780192), [Logical connection of bridi](/chapter14/#idm47077885708800), [Logical connection of bridi](/chapter14/#idm47077885598688), [Forethought bridi connection](/chapter14/#idm47077885572240), [Logical connection within tanru](/chapter14/#idm47077884272256), [Logical connection within tanru](/chapter14/#idm47077884245440), [Non-logical connectives](/chapter14/#idm47077883899744), [Logical and non-logical connectives within mekso](/chapter14/#idm47077882957200), [Tenses, modals, and logical connection](/chapter14/#idm47077882600464), [Tenses, modals, and logical connection](/chapter14/#idm47077882579200), [Tenses, modals, and logical connection](/chapter14/#idm47077882559328), [Abstractor connection and connection within abstractions](/chapter14/#idm47077882473152)
@@ -458,7 +460,7 @@ title: Lojban Words Index
   - jy: [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876740512)
   - jy.: [A to Z in Lojban, plus one](/chapter17/#idm47077878201488)
 
-### K
+## K
 
 - - ka: [cmene](/chapter04/#idm47077912129424), [Abstraction focus pro-sumti: ce'u](/chapter07/#idm47077902433664), [Property abstractions](/chapter11/#idm47077892093952), [Property abstractions](/chapter11/#idm47077892082624), [Property abstractions](/chapter11/#idm47077892079168), [Abstract lujvo](/chapter12/#idm47077889953920)
   - ka'a: [Modal tags: BAI](/chapter09/#idm47077899095280), [Modal tags: BAI](/chapter09/#idm47077899086848)
@@ -515,7 +517,7 @@ title: Lojban Words Index
   - ky: [Syllabication And Stress](/chapter03/#idm47077914068016), [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876870928), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876719008), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876544432)
   - ky.: [A to Z in Lojban, plus one](/chapter17/#idm47077878198368)
 
-### L
+## L
 
 - - la: [Words that can act as sumti](/chapter02/#idm47077916481360), [cmene](/chapter04/#idm47077912077024), [cmene](/chapter04/#idm47077912069488), [cmene](/chapter04/#idm47077911951296), [Rules for inserting pauses](/chapter04/#idm47077911789872), [selbri based on sumti: me](/chapter05/#idm47077908994032), [The five kinds of simple sumti](/chapter06/#idm47077906891200), [The three basic description types](/chapter06/#idm47077906665152), [The three basic description types](/chapter06/#idm47077906660304), [The three basic description types](/chapter06/#idm47077906657824), [Individuals and masses](/chapter06/#idm47077906457776), [Individuals and masses](/chapter06/#idm47077906364880), [Quantified descriptions](/chapter06/#idm47077905901568), [Quantified descriptions](/chapter06/#idm47077905845024), [Quantified descriptions](/chapter06/#idm47077905761872), [Lojban names](/chapter06/#idm47077905096256), [Lojban names](/chapter06/#idm47077905060576), [Lojban names](/chapter06/#idm47077905049072), [Lojban names](/chapter06/#idm47077905041872), [Lojban names](/chapter06/#idm47077904989664), [Lojban names](/chapter06/#idm47077904933536), [Lojban names](/chapter06/#idm47077904928864), [Relative clauses and descriptors](/chapter08/#idm47077900740432), [Vocative scales](/chapter13/#idm47077886648864), [Vocative scales](/chapter13/#idm47077886635760), [Acronyms](/chapter17/#idm47077877083312), [More on quotations: ZO, ZOI](/chapter19/#idm47077870769056), [Contrastive emphasis: BAhE](/chapter19/#idm47077870690896), [Erasure: SI, SA, SU](/chapter19/#idm47077870347440)
   - LA selma'o: [Conversion: SE](/chapter09/#idm47077899434208)
@@ -574,7 +576,7 @@ title: Lojban Words Index
   - ly: [cmene](/chapter04/#idm47077912049424), [cmene](/chapter04/#idm47077911944000), [Lojban names](/chapter06/#idm47077904987360), [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876865472), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876713552), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876538960)
   - ly.: [A to Z in Lojban, plus one](/chapter17/#idm47077878194832)
 
-### M
+## M
 
 - - ma: [Questions](/chapter02/#idm47077915548976), [Questions](/chapter02/#idm47077915546400), [Questions](/chapter02/#idm47077915517008), [Questions](/chapter02/#idm47077915502096), [Questions](/chapter02/#idm47077915486272), [Questions](/chapter02/#idm47077915478640), [Pro-sumti summary](/chapter06/#idm47077904652384), [sumti and bridi questions: ma and mo](/chapter07/#idm47077902601664), [sumti and bridi questions: ma and mo](/chapter07/#idm47077902596928), [sumti and bridi questions: ma and mo](/chapter07/#idm47077902526816), [Tense questions: cu'e](/chapter10/#idm47077893208640), [Indirect questions](/chapter11/#idm47077891722400), [Indirect questions](/chapter11/#idm47077891699760), [Indirect questions](/chapter11/#idm47077891668688), [Indirect questions](/chapter11/#idm47077891658672), [Indirect questions](/chapter11/#idm47077891656272), [Questions and answers](/chapter19/#idm47077871749984), [Questions and answers](/chapter19/#idm47077871737808), [Questions and answers](/chapter19/#idm47077871716944), [Questions and answers](/chapter19/#idm47077871706448)
   - ma'a: [Pro-sumti summary](/chapter06/#idm47077904904272), [Pro-sumti summary](/chapter06/#idm47077904879472), [Personal pro-sumti: the mi-series](/chapter07/#idm47077904336480), [Personal pro-sumti: the mi-series](/chapter07/#idm47077904321424), [Personal pro-sumti: the mi-series](/chapter07/#idm47077904301152)
@@ -636,7 +638,7 @@ title: Lojban Words Index
   - my: [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903082768), [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876859776), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876707856), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876533440)
   - my.: [A to Z in Lojban, plus one](/chapter17/#idm47077878191120)
 
-### N
+## N
 
 - - na: [Questions](/chapter02/#idm47077915337984), [Tenses and bridi negation](/chapter05/#idm47077908499584), [Tenses and bridi negation](/chapter05/#idm47077908469296), [Tenses and bridi negation](/chapter05/#idm47077908466768), [Tenses and bridi negation](/chapter05/#idm47077908451840), [The six types of logical connectives](/chapter14/#idm47077885793760), [Logical connection of bridi](/chapter14/#idm47077885711296), [Logical connection of bridi](/chapter14/#idm47077885707504), [Logical connection of bridi](/chapter14/#idm47077885608256), [Logical connection of bridi](/chapter14/#idm47077885603168), [Forethought bridi connection](/chapter14/#idm47077885485792), [sumti connection](/chapter14/#idm47077885311088), [sumti connection](/chapter14/#idm47077885294336), [sumti connection](/chapter14/#idm47077885289264), [Compound bridi](/chapter14/#idm47077884749536), [Multiple compound bridi](/chapter14/#idm47077884583728), [Logical connection within tanru](/chapter14/#idm47077884269696), [Truth questions and connective questions](/chapter14/#idm47077884159296), [Truth questions and connective questions](/chapter14/#idm47077884115152), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882260512), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882255808), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882251104), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882165696), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882158912), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882152000), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882026976), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882022320), [Truth functions and corresponding logical connectives](/chapter14/#idm47077882017664), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881997952), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881993216), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881988560), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881968816), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881961872), [Truth functions and corresponding logical connectives](/chapter14/#idm47077881954704), [Rules for making logical and non-logical connectives](/chapter14/#idm47077881921040), [Rules for making logical and non-logical connectives](/chapter14/#idm47077881912624), [Rules for making logical and non-logical connectives](/chapter14/#idm47077881900928), [bridi negation](/chapter15/#idm47077881809008), [bridi negation](/chapter15/#idm47077881787824), [bridi negation](/chapter15/#idm47077881738848), [bridi negation](/chapter15/#idm47077881733952), [bridi negation](/chapter15/#idm47077881687664), [bridi negation](/chapter15/#idm47077881684944), [bridi negation](/chapter15/#idm47077881681808), [bridi negation](/chapter15/#idm47077881661440), [bridi negation](/chapter15/#idm47077881650432), [bridi negation](/chapter15/#idm47077881597520), [selbri and tanru negation](/chapter15/#idm47077881478416), [Truth questions](/chapter15/#idm47077880809232), [Truth questions](/chapter15/#idm47077880782000), [Affirmations](/chapter15/#idm47077880656848), [Affirmations](/chapter15/#idm47077880654304), [Affirmations](/chapter15/#idm47077880650672), [Affirmations](/chapter15/#idm47077880637344), [Metalinguistic negation forms](/chapter15/#idm47077880564576), [Negation boundaries](/chapter16/#idm47077879446496), [Negation boundaries](/chapter16/#idm47077879415376), [Negation boundaries](/chapter16/#idm47077879410096), [bridi negation and logical connectives](/chapter16/#idm47077879154592), [bridi negation and logical connectives](/chapter16/#idm47077879138080), [bridi negation and logical connectives](/chapter16/#idm47077879133328), [bridi negation and logical connectives](/chapter16/#idm47077879103648), [bridi negation and logical connectives](/chapter16/#idm47077879022800), [Using naku outside a prenex](/chapter16/#idm47077879009680), [Using naku outside a prenex](/chapter16/#idm47077878974096), [Using naku outside a prenex](/chapter16/#idm47077878862384), [Using naku outside a prenex](/chapter16/#idm47077878836192), [Using naku outside a prenex](/chapter16/#idm47077878777872), [Using naku outside a prenex](/chapter16/#idm47077878768544), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878725792), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878718640), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878679216), [Logical Connectives and DeMorgan's Law](/chapter16/#idm47077878585360), [Other useful selbri for mekso bridi](/chapter18/#idm47077875198320), [Questions and answers](/chapter19/#idm47077871593136), [Subscripts: XI](/chapter19/#idm47077871320944)
   - na'a: [Alien alphabets](/chapter17/#idm47077877675504)
@@ -688,12 +690,12 @@ title: Lojban Words Index
   - ny: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876854416), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876702496), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876527920), [Simple infix expressions and equations](/chapter18/#idm47077875515392), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875378880)
   - ny.: [A to Z in Lojban, plus one](/chapter17/#idm47077878187696), [Mathematical uses of lerfu strings](/chapter17/#idm47077877191792)
 
-### O
+## O
 
 - - o: [Truth functions and corresponding logical connectives](/chapter14/#idm47077882201920)
   - o'u: [cmavo](/chapter04/#idm47077913332640), [Emotional categories](/chapter13/#idm47077888311024), [Emotional categories](/chapter13/#idm47077888308192)
 
-### P
+## P
 
 - - pa: [cmene](/chapter04/#idm47077912004336), [Quantified sumti](/chapter06/#idm47077906129232), [Variables with generalized quantifiers](/chapter16/#idm47077879810080), [Signs and numerical punctuation](/chapter18/#idm47077876049056), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875442272), [Indefinite numbers](/chapter18/#idm47077875086096), [Indefinite numbers](/chapter18/#idm47077874941008), [Approximation and inexact numbers](/chapter18/#idm47077874650160), [Special mekso selbri](/chapter18/#idm47077874060128), [Special mekso selbri](/chapter18/#idm47077874018768)
   - pa'e: [Discursives](/chapter13/#idm47077887135696)
@@ -751,7 +753,7 @@ title: Lojban Words Index
   - py: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876838288), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876691344), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876512000)
   - py.: [A to Z in Lojban, plus one](/chapter17/#idm47077878181152)
 
-### R
+## R
 
 - - ra: [sumti qualifiers](/chapter06/#idm47077905270736), [Pro-sumti summary](/chapter06/#idm47077904778992), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903522688), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903377616), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903372960), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903368000), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903363184), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903353840), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903351344), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903346704), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903327584), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903311584), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903304400), [Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series](/chapter07/#idm47077903252320)
   - ra'a: [Complete table of BAI cmavo with rough English equivalents](/chapter09/#idm47077896947664)
@@ -796,7 +798,7 @@ title: Lojban Words Index
   - ry: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876832832), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876685968), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876496128)
   - ry.: [A to Z in Lojban, plus one](/chapter17/#idm47077878177744)
 
-### S
+## S
 
 - - sa: [The uses of indicators](/chapter13/#idm47077887866224), [The universal bu](/chapter17/#idm47077877958368), [Quotations: LU, LIhU, LOhU, LEhU](/chapter19/#idm47077870971472), [Erasure: SI, SA, SU](/chapter19/#idm47077870269632), [Erasure: SI, SA, SU](/chapter19/#idm47077870267456), [Erasure: SI, SA, SU](/chapter19/#idm47077870265008), [Erasure: SI, SA, SU](/chapter19/#idm47077870252320), [Erasure: SI, SA, SU](/chapter19/#idm47077870220080), [Erasure: SI, SA, SU](/chapter19/#idm47077870217680), [Erasure: SI, SA, SU](/chapter19/#idm47077870210432), [List of cmavo interactions](/chapter19/#idm47077870137456), [List of cmavo interactions](/chapter19/#idm47077870129664), [List of cmavo interactions](/chapter19/#idm47077870105072), [List of cmavo interactions](/chapter19/#idm47077870090016), [List of cmavo interactions](/chapter19/#idm47077870074480), [List of cmavo interactions](/chapter19/#idm47077870052320)
   - sa'a: [Miscellaneous indicators](/chapter13/#idm47077886805104), [Miscellaneous indicators](/chapter13/#idm47077886788384), [Metalinguistic negation forms](/chapter15/#idm47077880489328), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870571600), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870461120), [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870453920)
@@ -881,7 +883,7 @@ title: Lojban Words Index
   - sy: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876827136), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876680448), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876485536)
   - sy.: [brivla](/chapter04/#idm47077913132160), [A to Z in Lojban, plus one](/chapter17/#idm47077878174128)
 
-### T
+## T
 
 - - ta: [Words that can act as sumti](/chapter02/#idm47077916487536), [Pro-sumti summary](/chapter06/#idm47077904730304), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904190288), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904176704), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904171776), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904162032), [Utterance pro-sumti: the di'u-series](/chapter07/#idm47077904037520), [Utterance pro-sumti: the di'u-series](/chapter07/#idm47077904029520), [What are you pointing at?](/chapter08/#idm47077901854528), [Spatial tenses: FAhA and VA](/chapter10/#idm47077896562960)
   - ta'e: [Interval properties: TAhE and roi](/chapter10/#idm47077895782960), [bridi negation](/chapter15/#idm47077881648048)
@@ -936,14 +938,14 @@ title: Lojban Words Index
   - ty: [Alien alphabets](/chapter17/#idm47077877794432), [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876821760), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876674928)
   - ty.: [A to Z in Lojban, plus one](/chapter17/#idm47077878170320), [Alien alphabets](/chapter17/#idm47077877789968), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876480080)
 
-### U
+## U
 
 - - u: [Truth functions and corresponding logical connectives](/chapter14/#idm47077882278720)
   - u'e: [cmavo](/chapter04/#idm47077913330144), [cmavo](/chapter04/#idm47077913237968)
   - u'u: [Propositional attitude indicators](/chapter13/#idm47077888816144)
   - UI selma'o: [Attitude scope markers: FUhE/FUhO](/chapter19/#idm47077871240368)
 
-### V
+## V
 
 - - va: [Spatial tenses: FAhA and VA](/chapter10/#idm47077896599632), [Spatial tenses: FAhA and VA](/chapter10/#idm47077896570224)
   - va'a: [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875410208), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875407632), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875403024), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875395040), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875380976), [Infix operators revisited](/chapter18/#idm47077873863104), [Infix operators revisited](/chapter18/#idm47077873842240), [Reverse Polish notation](/chapter18/#idm47077873567280), [Other uses of mekso](/chapter18/#idm47077873007392)
@@ -983,7 +985,7 @@ title: Lojban Words Index
   - vy: [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876761968), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876571184)
   - vy.: [A to Z in Lojban, plus one](/chapter17/#idm47077878163632)
 
-### X
+## X
 
 - - xagmau: [Comparatives and superlatives](/chapter12/#idm47077889422112)
   - xagrai: [Comparatives and superlatives](/chapter12/#idm47077889411440)
@@ -1012,7 +1014,7 @@ title: Lojban Words Index
   - xy: [Mathematical uses of lerfu strings](/chapter17/#idm47077877253760), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876658368)
   - xy.: [A to Z in Lojban, plus one](/chapter17/#idm47077878160288), [lerfu words as pro-sumti](/chapter17/#idm47077877394512), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875357456), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875345648), [Subscripts: XI](/chapter19/#idm47077871359216)
 
-### Z
+## Z
 
 - - za'a: [Indicators](/chapter02/#idm47077915214016), [Evidentials](/chapter13/#idm47077887451776)
   - za'e: [Considerations for making lujvo](/chapter04/#idm47077911752384), [The universal bu](/chapter17/#idm47077877974976), [Contrastive emphasis: BAhE](/chapter19/#idm47077870660224), [Contrastive emphasis: BAhE](/chapter19/#idm47077870646544)
@@ -1053,3 +1055,4 @@ title: Lojban Words Index
   - zy: [Proposed lerfu words for the Greek alphabet](/chapter17/#idm47077876891888), [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876735024), [Proposed lerfu words for the Hebrew alphabet](/chapter17/#idm47077876565696)
   - zy.: [A to Z in Lojban, plus one](/chapter17/#idm47077878153600), [Forethought operators (Polish notation, functions)](/chapter18/#idm47077875355248)
 
+</div>

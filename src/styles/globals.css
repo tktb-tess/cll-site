@@ -118,7 +118,7 @@
           @apply min-w-0 min-h-7 m-0 px-3;
         }
 
-        > p:lang(jbo) {
+        > :lang(jbo) {
           @apply italic;
         }
       }

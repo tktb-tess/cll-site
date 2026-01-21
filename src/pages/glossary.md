@@ -3,6 +3,8 @@ layout: ../layouts/MdLayout.astro
 title: 'Lojban Word Glossary'
 ---
 
+<div class="[&_:where(p)]:wrap-anywhere">
+
 All definitions in this glossary are brief and unofficial. Only the published dictionary is a truly official reference for word definitions. These definitions are here simply as a quick reference.
 
 ##### a
@@ -3639,3 +3641,4 @@ x1 is to the left/left-hand side of x2 which faces/in-frame-of-reference x3.
 
 letteral for z.
 
+</div>

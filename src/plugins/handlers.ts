@@ -94,9 +94,23 @@ export const tableHandler: Handler = (_, node: Table) => {
   };
 };
 
-export const jbomupliHandler: Handler = (_, node: ContainerDirective) => {
+export const containerDirectiveHandler: Handler = (
+  _,
+  node: ContainerDirective,
+) => {
   const className = 'jbomupli';
-  if (node.name !== className) return;
+  if (node.name !== className) {
+    const hast = toHast(node);
+
+    if (hast.type !== 'root' && hast.type !== 'doctype') {
+      return hast;
+    } else {
+      return {
+        type: 'text',
+        value: '',
+      };
+    }
+  }
   const tables = node.children.filter((node) => node.type === 'table');
   const langPosition = (() => {
     const j = node.attributes?.jbo ?? `[0]`;

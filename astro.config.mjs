@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import remarkDirective from 'remark-directive';
-import { jbomupliHandler, tableHandler } from './src/plugins/handlers';
+import { containerDirectiveHandler, tableHandler } from './src/plugins/handlers';
 
 export default defineConfig({
   vite: {
@@ -20,7 +20,7 @@ export default defineConfig({
     remarkRehype: {
       handlers: {
         table: tableHandler,
-        containerDirective: jbomupliHandler,
+        containerDirective: containerDirectiveHandler,
       },
     },
     smartypants: false,

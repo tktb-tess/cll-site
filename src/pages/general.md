@@ -3,7 +3,10 @@ layout: ../layouts/MdLayout.astro
 title: 'General Index'
 ---
 
-### Symbols
+<div class="[&_:where(p)]:wrap-anywhere">
+
+
+## Symbols
 
 - "\-"
 
@@ -95,7 +98,7 @@ title: 'General Index'
 
   definition: [rafsi](/chapter04/#idm47077912845952)
 
-### A
+## A
 
 - a
 
@@ -622,7 +625,7 @@ title: 'General Index'
   auditoriums: [Dependent places](/chapter12/#idm47077890514640)
   author of this book: [Acknowledgements and Credits](/chapter01/#idm47077916799136)
 
-### B
+## B
 
 - ba'e
 
@@ -919,7 +922,7 @@ title: 'General Index'
 
 - but/and equivalence: [Indicators](/chapter02/#idm47077915277904)
 
-### C
+## C
 
 - C string
 
@@ -1536,7 +1539,7 @@ title: 'General Index'
   language shift word for: [Alien alphabets](/chapter17/#idm47077877755984)
   proposed lerfu words for: [Proposed lerfu words for the Cyrillic alphabet](/chapter17/#idm47077876781168)
 
-### D
+## D
 
 - da
 
@@ -1836,7 +1839,7 @@ title: 'General Index'
 
   contrasted with du: [The identity predicate: du](/chapter07/#idm47077902237264)
 
-### E
+## E
 
 - e
 
@@ -2081,7 +2084,7 @@ title: 'General Index'
 
   definition: [Relative phrases](/chapter08/#idm47077901386016)
 
-### F
+## F
 
 - FA in selbri
 
@@ -2378,7 +2381,7 @@ title: 'General Index'
 
 - fuzzy logic and truth-value abstraction: [Truth-value abstraction: jei](/chapter11/#idm47077891905616)
 
-### G
+## G
 
 - ga'o
 
@@ -2590,7 +2593,7 @@ title: 'General Index'
 
   rationale: [Logical connection within tanru](/chapter14/#idm47077884255312)
 
-### H
+## H
 
 - happy face
 
@@ -2654,7 +2657,7 @@ title: 'General Index'
 
 - hypothetical world point of view: [Discursives](/chapter13/#idm47077886978960)
 
-### I
+## I
 
 - i
 
@@ -3049,7 +3052,7 @@ title: 'General Index'
 
   in cmene: [cmene](/chapter04/#idm47077912029904)
 
-### J
+## J
 
 - j-sound in English
 
@@ -3138,7 +3141,7 @@ title: 'General Index'
 
   grammar of: [Non-decimal and compound bases](/chapter18/#idm47077874516976)
 
-### K
+## K
 
 - ka'o
 
@@ -3264,7 +3267,7 @@ title: 'General Index'
 
   communication with: [Tentative conclusion](/chapter13/#idm47077885983504)
 
-### L
+## L
 
 - l-hyphen
 
@@ -3999,7 +4002,7 @@ title: 'General Index'
   when first places redundant: [Symmetrical and asymmetrical lujvo](/chapter12/#idm47077890783888)
   when first places redundant plus others: [Symmetrical and asymmetrical lujvo](/chapter12/#idm47077890749024)
 
-### M
+## M
 
 - ma
 
@@ -4497,7 +4500,7 @@ title: 'General Index'
 
   example: [Evidentials](/chapter13/#idm47077887471520)
 
-### N
+## N
 
 - n-hyphen
 
@@ -4903,7 +4906,7 @@ title: 'General Index'
 
   effect on use of boi: [Other uses of mekso](/chapter18/#idm47077872879856)
 
-### O
+## O
 
 - observation evidential
 
@@ -5057,7 +5060,7 @@ title: 'General Index'
   prenex for referring to from within relative clause within relative clause: [Relative clauses within relative clauses](/chapter08/#idm47077900220208)
   referring to from within relative clause within relative clause: [Relative clauses within relative clauses](/chapter08/#idm47077900250192)
 
-### P
+## P
 
 - PA selma'o
 
@@ -5653,7 +5656,7 @@ title: 'General Index'
 
   cmavo as Lojban equivalents: [cmavo](/chapter04/#idm47077913383664)
 
-### Q
+## Q
 
 - qualified sumti
 
@@ -5739,7 +5742,7 @@ title: 'General Index'
   as possessive sumti: [Possessive sumti](/chapter08/#idm47077900621200)
   implicit quantifier for: [Quantified sumti](/chapter06/#idm47077906009408)
 
-### R
+## R
 
 - r-hyphen
 
@@ -6086,7 +6089,7 @@ title: 'General Index'
 
   compared with e'u: [Evidentials](/chapter13/#idm47077887415168)
 
-### S
+## S
 
 - sa
 
@@ -6904,7 +6907,7 @@ title: 'General Index'
 
   example: [Attitude questions; empathy; attitude contours](/chapter13/#idm47077887737216)
 
-### T
+## T
 
 - ta
 
@@ -7529,7 +7532,7 @@ title: 'General Index'
 
   contrasted with elliptical value for sumti: [Indefinite pro-sumti and pro-bridi: the zo'e-series and the co'e-series](/chapter07/#idm47077902945264)
 
-### U
+## U
 
 - umlaut
 
@@ -7648,7 +7651,7 @@ title: 'General Index'
 
   in cmene: [cmene](/chapter04/#idm47077912030912)
 
-### V
+## V
 
 - V
 
@@ -7830,7 +7833,7 @@ title: 'General Index'
 
   as a symbol for a double vowel: [Introductory](/chapter04/#idm47077913553328)
 
-### W
+## W
 
 - whole time interval
 
@@ -7851,7 +7854,7 @@ title: 'General Index'
   words not in the dictionary: [Some words used to indicate selbri relations](/chapter02/#idm47077916415904)
   wrong concept: [Dependent places](/chapter12/#idm47077890533216)
 
-### X
+## X
 
 - x1
 
@@ -7860,7 +7863,7 @@ title: 'General Index'
 
   quick-tour version: [Some words used to indicate selbri relations](/chapter02/#idm47077916418128)
 
-### Y
+## Y
 
 - y
 
@@ -7908,7 +7911,7 @@ title: 'General Index'
 
   example: [lujvo based on pro-sumti](/chapter07/#idm47077902218784)
 
-### Z
+## Z
 
 - za'e
 
@@ -8008,3 +8011,4 @@ title: 'General Index'
 
   place structure: [Types of event abstractions](/chapter11/#idm47077892303472)
 
+</div>
