@@ -524,22 +524,12 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 
 :::jbomupli
 
-|            |     |     |      |     |      |       |     |     |      |     |          |
-| ---------- | --- | --- | ---- | --- | ---- | ----- | --- | --- | ---- | --- | -------- |
-| li         | vei | ny. | su'i | pa  | ve'o | pi'i  | vei | ny. | su'i | pa  | \[ve'o\] |
-| The-number | (   | $n$ | plus | one | )    | times | (   | $n$ | plus | one | )        |
+|            |     |     |      |     |      |       |     |     |      |     |          |        |            |     |          |              |     |      |     |      |       |     |      |     |
+| ---------- | --- | --- | ---- | --- | ---- | ----- | --- | --- | ---- | --- | -------- | ------ | ---------- | --- | -------- | ------------ | --- | ---- | --- | ---- | ----- | --- | ---- | --- |
+| li         | vei | ny. | su'i | pa  | ve'o | pi'i  | vei | ny. | su'i | pa  | \[ve'o\] | du     | li         | ny. | \[bi'e\] | te'a         | re  | su'i | re  | bi'e | pi'i  | ny. | su'i | pa  |
+| The-number | (   | $n$ | plus | one | )    | times | (   | $n$ | plus | one | )        | equals | the-number | n   |          | to-the-power | two | plus | two |      | times | $n$ | plus | 1.  |
 
 :::
-
-|        |            |     |          |              |     |
-| ------ | ---------- | --- | -------- | ------------ | --- |
-| du     | li         | ny. | \[bi'e\] | te'a         | re  |
-| equals | the-number | n   |          | to-the-power | two |
-
-|      |     |      |       |     |      |     |
-| ---- | --- | ---- | ----- | --- | ---- | --- |
-| su'i | re  | bi'e | pi'i  | ny. | su'i | pa  |
-| plus | two |      | times | $n$ | plus | 1.  |
 
 $(n+1)(n+1) = n^{2} + 2n + 1$
 
@@ -588,18 +578,14 @@ Forethought mekso can use any number of operands, in [Example 18.32](/chapter18/
 
 :::jbomupli
 
-|            |     |      |              |     |      |      |     |        |
-| ---------- | --- | ---- | ------------ | --- | ---- | ---- | --- | ------ |
-| li         | py. | su'i | va'a         | ny. | ku'e | su'i | zy  | du     |
-| The-number | $p$ | plus | negative-of( | $n$ | )    | plus | $z$ | equals |
+|            |     |      |              |     |      |      |     |        |            |     |     |
+| ---------- | --- | ---- | ------------ | --- | ---- | ---- | --- | ------ | ---------- | --- | --- |
+| li         | py. | su'i | va'a         | ny. | ku'e | su'i | zy  | du     | li         | xy. |     |
+| The-number | $p$ | plus | negative-of( | $n$ | )    | plus | $z$ | equals | the-number | $x$ | .   |
 
 :::
 
-|                |     |     |
-| -------------- | --- | --- |
-| li             | xy. |     |
-| the-number     | $x$ | .   |
-| p + -n + z = x |     |     |
+$p + {-n} + z = x$
 
 where we know that *[va'a](/glossary/#vaa)* is a forethought operator because there is no operand preceding it.
 
@@ -2134,17 +2120,12 @@ The cmavo *[na'u](/glossary/#nau)* makes a selbri into an operator. In general, 
 
 :::jbomupli
 
-|            |              |         |                  |
-| ---------- | ------------ | ------- | ---------------- |
-| li         | na'u         | tanjo   | te'u             |
-| The-number | the-operator | tangent | \[end-operator\] |
+|            |              |         |                  |     |       |      |     |          |     |            |           |
+| ---------- | ------------ | ------- | ---------------- | --- | ----- | ---- | --- | -------- | --- | ---------- | --------- |
+| li         | na'u         | tanjo   | te'u             | vei | pai   | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
+| The-number | the-operator | tangent | \[end-operator\] | (   | $\pi$ | /    | 2   | )        | =   | the-number | infinity. |
 
 :::
-
-|     |       |      |     |          |     |            |           |
-| --- | ----- | ---- | --- | -------- | --- | ---------- | --------- |
-| vei | pai   | fe'i | re  | \[ve'o\] | du  | li         | ci'i      |
-| (   | $\pi$ | /    | 2   | )        | =   | the-number | infinity. |
 
 $\tan{\dfrac{\pi}{2}} = \infty$
 

@@ -516,17 +516,12 @@ It is perfectly all right to mix *[bo](/glossary/#bo)* and *[ke](/glossary/#ke)*
 
 :::jbomupli
 
-|      |             |         |     |        |
-| ---- | ----------- | ------- | --- | ------ |
-| ta   | melbi       |         | ke  | cmalu  |
-| That | is-a-pretty | type-of | (   | little |
+|      |             |         |     |        |         |     |       |         |        |          |          |
+| ---- | ----------- | ------- | --- | ------ | ------- | --- | ----- | ------- | ------ | -------- | -------- |
+| ta   | melbi       |         | ke  | cmalu  |         | ke  | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
+| That | is-a-pretty | type-of | (   | little | type-of | (   | girl  | type-of | school | )        | ).       |
 
 :::
-
-|         |     |       |         |        |          |          |
-| ------- | --- | ----- | ------- | ------ | -------- | -------- |
-|         | ke  | nixli |         | ckule  | \[ke'e\] | \[ke'e\] |
-| type-of | (   | girl  | type-of | school | )        | ).       |
 
 can equivalently be expressed as:
 
@@ -619,9 +614,6 @@ is equally satisfactory and means the same thing. As these examples indicate, jo
 | ----- | --- | ------- | ------- | ----- | ----- |
 | barda | je  | pelxu   | bo      | xunre | gerku |
 | (big  | and | (yellow | type-of | red)) | dog   |
-
-:::
-:::jbomupli
 
 |       |     |     |        |         |       |      |       |
 | ----- | --- | --- | ------ | ------- | ----- | ---- | ----- |
@@ -1410,17 +1402,12 @@ Preem Palver is the first speaker.
 
 :::jbomupli
 
-|            |         |             |            |        |
-| ---------- | ------- | ----------- | ---------- | ------ |
-| la         | an,iis. | joi         | la         | .asun. |
-| That-named | Anyi    | massed-with | that-named | Asun   |
+|            |         |             |            |        |               |                  |
+| ---------- | ------- | ----------- | ---------- | ------ | ------------- | ---------------- |
+| la         | an,iis. | joi         | la         | .asun. | bruna         | remei            |
+| That-named | Anyi    | massed-with | that-named | Asun   | are-a-brother | type-of-twosome. |
 
 :::
-
-|               |                  |
-| ------------- | ---------------- |
-| bruna         | remei            |
-| are-a-brother | type-of-twosome. |
 
 Anyi and Asun are two brothers.
 
@@ -1685,19 +1672,13 @@ To convert this sentence so that *le zarci* is in the x1 place, one correct way 
 
 :::jbomupli
 
-|     |        |     |                     |
-| --- | ------ | --- | ------------------- |
-| le  | zarci  | cu  | se                  |
-| The | market |     | is-a-\[swap x1/x2\] |
-| The | market |     |                     |
+|     |        |     |                     |     |              |                 |          |            |        |
+| --- | ------ | --- | ------------------- | --- | ------------ | --------------- | -------- | ---------- | ------ |
+| le  | zarci  | cu  | se                  | ke  | cadzu        | klama           | \[ke'e\] | la         | .alis. |
+| The | market |     | is-a-\[swap x1/x2\] | (   | walker       | type-of-goer-to | )        | that-named | Alice. |
+| The | market |     |                     |     | is-walkingly | gone-to-by      |          | that-named | Alice. |
 
 :::
-
-|     |              |                 |          |            |        |
-| --- | ------------ | --------------- | -------- | ---------- | ------ |
-| ke  | cadzu        | klama           | \[ke'e\] | la         | .alis. |
-| (   | walker       | type-of-goer-to | )        | that-named | Alice. |
-|     | is-walkingly | gone-to-by      |          | that-named | Alice. |
 
 The *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* brackets cause the entire tanru to be converted by the *[se](/glossary/#se)* , which would otherwise convert only *[cadzu](/glossary/#cadzu)* , leading to:
 
@@ -1705,19 +1686,13 @@ The *[ke](/glossary/#ke)* … *[ke'e](/glossary/#kee)* brackets cause the entire
 
 :::jbomupli
 
-|     |        |     |                      |                      |
-| --- | ------ | --- | -------------------- | -------------------- |
-| le  | zarci  | cu  | se                   | cadzu                |
-| The | market |     | (is-a-\[swap x1/x2\] | walker)              |
-| The | market |     |                      | is-a-walking-surface |
+|     |        |     |                      |                      |                 |            |        |
+| --- | ------ | --- | -------------------- | -------------------- | --------------- | ---------- | ------ |
+| le  | zarci  | cu  | se                   | cadzu                | klama           | la         | .alis. |
+| The | market |     | (is-a-\[swap x1/x2\] | walker)              | type-of-goer-to | that-named | Alice. |
+| The | market |     |                      | is-a-walking-surface | type-of-goer-to | that-named | Alice. |
 
 :::
-
-|                 |            |        |
-| --------------- | ---------- | ------ |
-| klama           | la         | .alis. |
-| type-of-goer-to | that-named | Alice. |
-| type-of-goer-to | that-named | Alice. |
 
 whatever that might mean. An alternative approach, since the place structure of *cadzu klama* is that of *[klama](/glossary/#klama)* alone, is to convert only the latter:
 
@@ -1821,17 +1796,12 @@ In [Example 5.119](/chapter05/#example-5119 "Example 5.119."), *[na'e](/glossary
 
 :::jbomupli
 
-|     |      |     |         |          |     |       |     |       |          |
-| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- |
-| mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] |
-| I   | non- | (   | quickly | (walking |     | using | the | arms  | )        |
+|     |      |     |         |          |     |       |     |       |          |      |       |     |         |
+| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- | ---- | ----- | --- | ------- |
+| mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e | klama | le  | zarci   |
+| I   | non- | (   | quickly | (walking |     | using | the | arms  | )        | )    | go-to | the | market. |
 
 :::
-
-|      |       |     |         |
-| ---- | ----- | --- | ------- |
-| ke'e | klama | le  | zarci   |
-| )    | go-to | the | market. |
 
 I go to the market, other than by walking quickly on my arms.
 
@@ -1841,17 +1811,12 @@ Now consider [Example 5.121](/chapter05/#example-5121 "Example 5.121.") and [Exa
 
 :::jbomupli
 
-|     |          |          |     |       |     |       |      |
-| --- | -------- | -------- | --- | ----- | --- | ----- | ---- |
-| mi  | sutra    | cadzu    | be  | fi    | le  | birka | be'o |
-| I   | (quickly | (walking |     | using | the | arms  | )    |
+|     |          |          |     |       |     |       |      |     |         |       |     |         |
+| --- | -------- | -------- | --- | ----- | --- | ----- | ---- | --- | ------- | ----- | --- | ------- |
+| mi  | sutra    | cadzu    | be  | fi    | le  | birka | be'o | je  | masno   | klama | le  | zarci   |
+| I   | (quickly | (walking |     | using | the | arms  | )    | and | slowly) | go-to | the | market. |
 
 :::
-
-|     |         |       |     |         |
-| --- | ------- | ----- | --- | ------- |
-| je  | masno   | klama | le  | zarci   |
-| and | slowly) | go-to | the | market. |
 
 I go to the market, both quickly walking using my arms and slowly.
 
@@ -1859,17 +1824,12 @@ I go to the market, both quickly walking using my arms and slowly.
 
 :::jbomupli
 
-|     |     |          |          |     |       |     |       |          |      |
-| --- | --- | -------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
-| mi  | ke  | sutra    | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
-| I   | (   | (quickly | (walking |     | using | the | arms  | )        | )    |
+|     |     |          |          |     |       |     |       |          |      |     |         |       |     |         |
+| --- | --- | -------- | -------- | --- | ----- | --- | ----- | -------- | ---- | --- | ------- | ----- | --- | ------- |
+| mi  | ke  | sutra    | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e | je  | masno   | klama | le  | zarci   |
+| I   | (   | (quickly | (walking |     | using | the | arms  | )        | )    | and | slowly) | go-to | the | market. |
 
 :::
-
-|     |         |       |     |         |
-| --- | ------- | ----- | --- | ------- |
-| je  | masno   | klama | le  | zarci   |
-| and | slowly) | go-to | the | market. |
 
 I go to the market, both quickly walking using my arms and slowly.
 
@@ -1879,17 +1839,12 @@ However, if we place a *[na'e](/glossary/#nae)* at the beginning of the selbri i
 
 :::jbomupli
 
-|     |        |          |          |     |       |     |       |      |
-| --- | ------ | -------- | -------- | --- | ----- | --- | ----- | ---- |
-| mi  | na'e   | sutra    | cadzu    | be  | fi    | le  | birka | be'o |
-| I   | ((non- | quickly) | (walking |     | using | the | arms  | )    |
+|     |        |          |          |     |       |     |       |      |     |         |       |     |         |
+| --- | ------ | -------- | -------- | --- | ----- | --- | ----- | ---- | --- | ------- | ----- | --- | ------- |
+| mi  | na'e   | sutra    | cadzu    | be  | fi    | le  | birka | be'o | je  | masno   | klama | le  | zarci   |
+| I   | ((non- | quickly) | (walking |     | using | the | arms  | )    | and | slowly) | go-to | the | market. |
 
 :::
-
-|     |         |       |     |         |
-| --- | ------- | ----- | --- | ------- |
-| je  | masno   | klama | le  | zarci   |
-| and | slowly) | go-to | the | market. |
 
 I go to the market, both walking using my arms other than quickly, and also slowly.
 
@@ -1897,17 +1852,12 @@ I go to the market, both walking using my arms other than quickly, and also slow
 
 :::jbomupli
 
-|     |      |     |         |          |     |       |     |       |          |      |
-| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- | ---- |
-| mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e |
-| I   | (non | (   | quickly | (walking |     | using | the | arms) |          | )    |
+|     |      |     |         |          |     |       |     |       |          |      |     |         |       |     |         |
+| --- | ---- | --- | ------- | -------- | --- | ----- | --- | ----- | -------- | ---- | --- | ------- | ----- | --- | ------- |
+| mi  | na'e | ke  | sutra   | cadzu    | be  | fi    | le  | birka | \[be'o\] | ke'e | je  | masno   | klama | le  | zarci   |
+| I   | (non | (   | quickly | (walking |     | using | the | arms) |          | )    | and | slowly) | go-to | the | market. |
 
 :::
-
-|     |         |       |     |         |
-| --- | ------- | ----- | --- | ------- |
-| je  | masno   | klama | le  | zarci   |
-| and | slowly) | go-to | the | market. |
 
 I go to the market, both other than quickly walking using my arms, and also slowly.
 
@@ -1919,17 +1869,12 @@ Beware of omitting terminators in these complex examples! If the explicit *[ke'e
 
 :::jbomupli
 
-|     |      |     |         |           |     |       |     |       |      |
-| --- | ---- | --- | ------- | --------- | --- | ----- | --- | ----- | ---- |
-| mi  | na'e | ke  | sutra   | cadzu     | be  | fi    | le  | birka | be'o |
-| I   | non- | (   | quickly | ((walking |     | using | the | arms) | )    |
+|     |      |     |         |           |     |       |     |       |      |     |         |       |          |     |         |
+| --- | ---- | --- | ------- | --------- | --- | ----- | --- | ----- | ---- | --- | ------- | ----- | -------- | --- | ------- |
+| mi  | na'e | ke  | sutra   | cadzu     | be  | fi    | le  | birka | be'o | je  | masno   | klama | \[ke'e\] | le  | zarci   |
+| I   | non- | (   | quickly | ((walking |     | using | the | arms) | )    | and | slowly) | go-to | )        | the | market. |
 
 :::
-
-|     |         |       |          |     |         |
-| --- | ------- | ----- | -------- | --- | ------- |
-| je  | masno   | klama | \[ke'e\] | le  | zarci   |
-| and | slowly) | go-to | )        | the | market. |
 
 I do something other than quickly both going to the market walking using my arms and slowly going to the market.
 
@@ -1939,17 +1884,12 @@ And if both *[ke'e](/glossary/#kee)* and *[be'o](/glossary/#beo)* are omitted, t
 
 :::jbomupli
 
-|     |      |     |         |       |     |       |      |          |     |       |
-| --- | ---- | --- | ------- | ----- | --- | ----- | ---- | -------- | --- | ----- |
-| mi  | na'e | ke  | sutra   | cadzu | be  | fi    | le   | birka    | je  | masno |
-| I   | non  | (   | quickly | walk  |     | on-my | (the | arm-type | and | slow) |
+|     |      |     |         |       |     |       |      |          |     |       |       |          |          |        |         |
+| --- | ---- | --- | ------- | ----- | --- | ----- | ---- | -------- | --- | ----- | ----- | -------- | -------- | ------ | ------- |
+| mi  | na'e | ke  | sutra   | cadzu | be  | fi    | le   | birka    | je  | masno | klama | \[be'o\] | \[ke'e\] | le     | zarci   |
+| I   | non  | (   | quickly | walk  |     | on-my | (the | arm-type | and | slow) | goers |          | )        | on-the | market. |
 
 :::
-
-|       |          |          |        |         |
-| ----- | -------- | -------- | ------ | ------- |
-| klama | \[be'o\] | \[ke'e\] | le     | zarci   |
-| goers |          | )        | on-the | market. |
 
 I do something other than quickly walking using the goers, both arm-type and slow, relative-to the market.
 

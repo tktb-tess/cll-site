@@ -1554,7 +1554,7 @@ The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)*
 
 I see the cat(s) made of plastic.
 
-[*ma*](/glossary/#ma)) is used to ask questions which request the listener to supply a sumti which will make the question into a truth:
+*[ma](/glossary/#ma)* is used to ask questions which request the listener to supply a sumti which will make the question into a truth:
 
 ##### Example 6.90.
 

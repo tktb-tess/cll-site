@@ -41,7 +41,8 @@
     "tsx": "^4.21.0",
     "typescript": "~5.9.3",
     "unified": "^11.0.5",
-    "unist-util-visit": "^5.0.0"
+    "unist-util-visit": "^5.0.0",
+    "valibot": "^1.2.0"
   },
   "packageManager": "pnpm@10.28.0",
   "volta": {

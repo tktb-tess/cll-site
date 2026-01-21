@@ -2551,31 +2551,27 @@ Non-logical connection with joiks or joigiks is also permitted between operands 
 | ---------- | ---- | ----------- | ------- | ----------- | --- |
 | li         | no   | ga'o        | bi'i    | ke'i        | pa  |
 | the-number | zero | (inclusive) | from-to | (exclusive) | one |
-| \[0,1)     |      |             |         |             |     |
 
 :::
 
+$[0,1)$
+
 the numbers from zero to one, including zero but not including one
 
-You can also combine two operands with *[ce'o\](/glossary/#01                                                   
-
-                                                                    
- ------------------------------------------------------------------ 
- the numbers from zero to one including zero but not including one 
-
-you can also combine two operands with ceo)*, the sequence connective of selma'o JOI, to make a compound subscript:
+You can also combine two operands with *[ce'o](/glossary/#ceo)*, the sequence connective of selma'o JOI, to make a compound subscript:
 
 ##### Example 14.154.
 
 :::jbomupli
 
-|      |     |     |     |     |          |     |          |
-| ---- | --- | --- | --- | --- | -------- | --- | -------- |
-| xy.  | boi | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
-| “x”  |     | sub | (   | “b” | sequence | “d” | )        |
-| xb,d |     |     |     |     |          |     |          |
+|     |     |     |     |     |          |     |          |
+| --- | --- | --- | --- | --- | -------- | --- | -------- |
+| xy. | boi | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
+| $x$ |     | sub | (   | $b$ | sequence | $d$ | )        |
 
 :::
+
+$x_{b,d}$
 
 Note that the *[boi](/glossary/#boi)* in [Example 14.154](/chapter14/#example-14154 "Example 14.154.") is not elidable, because the *[xi](/glossary/#xi)* subscript needs something to attach to.
 
