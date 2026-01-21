@@ -1,8 +1,19 @@
 import type { PhrasingContent, Table } from 'mdast';
-import type { Element, ElementContent, Text } from 'hast';
+import type { Element, ElementContent } from 'hast';
 import type { ContainerDirective } from 'mdast-util-directive';
 import type { Handler } from 'mdast-util-to-hast';
 import { toHast } from 'mdast-util-to-hast';
+import * as v from 'valibot';
+
+export const langPositionSchema = v.pipe(
+  v.union([
+    v.array(v.number()),
+    v.array(v.pipe(v.tuple([v.number(), v.number()]), v.readonly())),
+  ]),
+  v.readonly(),
+);
+
+export type LangPosition = v.InferOutput<typeof langPositionSchema>;
 
 const phrasingToText = (child: PhrasingContent): ElementContent => {
   const hast = toHast(child, { allowDangerousHtml: true });
@@ -15,10 +26,6 @@ const phrasingToText = (child: PhrasingContent): ElementContent => {
     };
   }
 };
-
-export interface Config {
-  className: string;
-}
 
 export const tableHandler: Handler = (_, node: Table) => {
   const [head, ...body] = node.children;
@@ -81,7 +88,7 @@ export const tableHandler: Handler = (_, node: Table) => {
     type: 'element',
     tagName: 'div',
     properties: {
-      class: ['table-scrollable'],
+      class: ['table-container'],
     },
     children: [table],
   };
@@ -91,6 +98,12 @@ export const jbomupliHandler: Handler = (_, node: ContainerDirective) => {
   const className = 'jbomupli';
   if (node.name !== className) return;
   const tables = node.children.filter((node) => node.type === 'table');
+  const langPosition = (() => {
+    const j = node.attributes?.jbo ?? `[0]`;
+    const p = JSON.parse(j);
+    return v.parse(langPositionSchema, p);
+  })();
+  const class_ = node.attributes?.class ?? null;
   return tables.map((table) => {
     const trs = table.children.slice(1);
     const maxCol = Math.max(...trs.map((tr) => tr.children.length));
@@ -99,7 +112,7 @@ export const jbomupliHandler: Handler = (_, node: ContainerDirective) => {
       type: 'element',
       tagName: 'div',
       properties: {
-        class: [className],
+        class: class_ ? ['jbomupli', class_] : ['jbomupli'],
       },
       children: [],
     };
@@ -110,13 +123,24 @@ export const jbomupliHandler: Handler = (_, node: ContainerDirective) => {
         properties: {},
         children: [],
       };
-      for (const tr of trs) {
+      for (const [j, tr] of trs.entries()) {
         const cont = tr.children.at(i)?.children ?? [];
         const children = cont.map(phrasingToText);
+
+        const isJbo =
+          langPosition.findIndex((pos) => {
+            if (typeof pos === 'number') {
+              return pos === j;
+            } else {
+              pos[0] === j && pos[1] === i;
+            }
+          }) > -1;
         col.children.push({
           type: 'element',
           tagName: 'p',
-          properties: {},
+          properties: {
+            lang: isJbo ? 'jbo' : undefined,
+          },
           children,
         });
       }
