@@ -2,10 +2,13 @@
 import '../styles/globals.css';
 import type { MarkdownLayoutProps } from 'astro';
 import Head from './Head.astro';
-import Toc from '../components/Toc.astro';
+import ListIcon from '../components/ListIcon.svg';
 import type { H2Content } from '../components/Toc.astro';
 import { Image } from 'astro:assets';
 import Sidemenu from '../components/Sidemenu.astro';
+import ToTopBtn from '../components/ToTopBtn.astro';
+import Toc from '../components/Toc.astro';
+import LinkExt from '../components/LinkExt.astro';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -84,17 +87,22 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Head title={frontmatter.title} {url} description={frontmatter.description}>
-  <header class='px-4 my-12'>
-    <h1 id='title'>{frontmatter.title}</h1>
+  <header>
+    <nav class='flex h-16 items-center *:mb-0 *:min-w-0'>
+      <a href="/" class="no-underline text-4xl font-extralight ps-8">CLL</a>
+      <button type="button" class="ms-auto px-8">
+        <ListIcon class='size-6 fill-current inline-block' />
+      </button>
+    </nav>
   </header>
-  <hr />
-  <main class='flex flex-col md:flex-row *:min-w-0'>
-    <aside class='px-4 md:flex-shrinkable-60'>
-      <div class="h-[96vh] overflow-y-auto sticky top-2">
-        <Sidemenu currentUrl={url} class='' />
+  <main class='flex flex-col lg:flex-row *:min-w-0'>
+    <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
+      <div class='h-[96vh] overflow-y-auto sticky top-2 px-4'>
+        <Sidemenu currentUrl={url} />
       </div>
     </aside>
-    <section class='cbg-bg px-4 md:flex-expand-150'>
+    <section class='cbg-bg px-4 lg:flex-[0_1_80rem]'>
+      <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
           <Image
@@ -105,13 +113,18 @@ for (const { depth, text, slug } of filtered) {
           />
         )
       }
-
       <slot />
     </section>
-    <aside class='md:flex-shrinkable-60'>
-      <nav></nav>
+    <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
+      <div class="h-[96vh] overflow-y-auto sticky top-2 px-4 pt-2">
+        <Toc {contents} />
+      </div>
     </aside>
   </main>
-  <hr />
-  <footer></footer>
+  <footer>
+    <LinkExt class='no-underline' href='https://github.com/tktb-tess/cll-site'>
+      Go to Repository
+    </LinkExt>
+  </footer>
+  <ToTopBtn />
 </Head>

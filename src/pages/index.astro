@@ -1,8 +1,8 @@
 ---
 import type { MarkdownHeading } from 'astro';
 import Head from '../layouts/Head.astro';
-import data from '../modules/data.json';
-import Toc, { type H2Content, type H3Content } from '../components/Toc.astro';
+import LinkExt from '../components/LinkExt.astro';
+import Toc, { type H2Content } from '../components/Toc.astro';
 import JboLogo from '../assets/jbo_logo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
 
@@ -19,33 +19,12 @@ const mds_ = Object.values(
   import.meta.glob<MdProps>('./*.md', { eager: true }),
 );
 
-mds_.sort((a, b) => {
-  let aIndex = data.findIndex((s) => s.url === a.url);
-  let bIndex = data.findIndex((s) => s.url === b.url);
-  if (aIndex === -1) {
-    aIndex = Infinity;
-  }
-  if (bIndex === -1) {
-    bIndex = Infinity;
-  }
-  return aIndex - bIndex;
-});
-
-const mds = mds_.map(({ frontmatter, url, getHeadings }): H2Content => {
-  const h3 = getHeadings()
-    .filter((h) => h.depth === 2)
-    .map(({ text, slug }): H3Content => {
-      return {
-        text,
-        url: `${url}#${slug}`,
-        h4: [],
-      };
-    });
+const mds = mds_.map(({ frontmatter, url }): H2Content => {
   const text = frontmatter.title;
   return {
     text,
     url,
-    h3,
+    h3: [],
   };
 });
 
@@ -54,19 +33,19 @@ const url = '/';
 ---
 
 <Head {title} {url}>
-  <header class='px-4 my-12'>
+  <main class='flow-root cbg-bg w-full max-w-7xl mx-auto px-4 lg:px-6'>
     <h1 id='title' class='text-center'>
       The <span class='text-red-600'>C</span>omplete
       <span class='text-blue-600'>L</span>ojban
       <span class='text-red-600'>L</span>anguage
     </h1>
-  </header>
-  <hr />
-  <main class='flow-root cbg-bg w-full max-w-7xl mx-auto px-4 lg:px-6'>
     <JboLogo class='max-w-95 w-full mx-auto my-6' />
-    <Toc contents={mds} open />
+    <Toc contents={mds} />
   </main>
-  <hr />
-  <footer></footer>
+  <footer>
+    <LinkExt class='no-underline' href='https://github.com/tktb-tess/cll-site'>
+      Go to Repository
+    </LinkExt>
+  </footer>
   <ToTopBtn />
 </Head>

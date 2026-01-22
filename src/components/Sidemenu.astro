@@ -37,11 +37,7 @@ const { currentUrl, class: className } = Astro.props;
       const isCurrent = p.url === currentUrl;
       return (
         <li>
-          <a
-            class={isCurrent ? '__current' : null}
-            href={p.url}
-            aria-current={isCurrent}
-          >
+          <a href={p.url} aria-current={isCurrent}>
             {p.title}
           </a>
         </li>
@@ -54,11 +50,11 @@ const { currentUrl, class: className } = Astro.props;
   @reference '../styles/globals.css';
   @layer components {
     a {
-      @apply block no-underline hover:opacity-[revert] hover:cbg-sidemenu-hover-bg
-      hover:ctext-sidemenu-hover-text px-3 py-1.5 transition-colors rounded;
+      @apply block no-underline hover:opacity-[revert] hover:cbg-sidemenu-bg
+      hover:ctext-sidemenu-text px-3 py-1.5 transition-colors rounded;
 
-      &.__current {
-        @apply cbg-sidemenu-hover-bg ctext-sidemenu-hover-text;
+      &[aria-current="true"] {
+        @apply cbg-sidemenu-bg ctext-sidemenu-text;
       }
     }
   }

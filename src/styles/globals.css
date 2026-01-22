@@ -12,8 +12,8 @@
   --color-d-bg: var(--color-slate-950);
   --color-side: var(--color-slate-100);
   --color-d-side: var(--color-slate-900);
-  --color-toc: var(--color-violet-50);
-  --color-d-toc: var(--color-violet-950);
+  --color-accent: var(--color-violet-50);
+  --color-d-accent: var(--color-violet-950);
   --color-border: var(--color-slate-300);
   --color-d-border: var(--color-slate-500);
   --color-border2: var(--color-slate-500);
@@ -24,10 +24,10 @@
   --color-d-heading: var(--color-violet-50);
   --color-link: var(--color-blue-500);
   --color-d-link: var(--color-blue-300);
-  --color-sidemenu-hover-bg: var(--color-violet-800);
-  --color-d-sidemenu-hover-bg: var(--color-violet-400);
-  --color-sidemenu-hover-text: #fff;
-  --color-d-sidemenu-hover-text: #000;
+  --color-sidemenu-bg: var(--color-violet-800);
+  --color-d-sidemenu-bg: var(--color-violet-400);
+  --color-sidemenu-text: #fff;
+  --color-d-sidemenu-text: #000;
 }
 
 @utility cbg-* {
@@ -60,15 +60,27 @@
   }
 
   body {
-    @apply cbg-side flow-root;
+    @apply cbg-side flow-root ctext-text;
   }
 
   a {
     @apply underline hover:opacity-60 transition-opacity;
   }
 
+  header {
+    @apply cbg-accent grad-1;
+  }
+
+  footer {
+    @apply flex justify-center my-6;
+  }
+
+  button {
+    @apply cursor-pointer;
+  }
+
   h1:where(#title) {
-    @apply font-extralight text-4xl;
+    @apply font-extralight text-4xl px-4 my-12 text-balance;
   }
 
   :is(h2, h3, h4) {
@@ -120,7 +132,11 @@
   }
 
   li > :where(p) {
-    @apply my-2;
+    @apply mb-1;
+  }
+
+  li > :where(ul, ol) {
+    @apply mb-2;
   }
 
   hr {
@@ -136,7 +152,7 @@
 
   .jbomupli {
     @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      cbg-toc border cborder-border rounded toc-grad;
+      cbg-accent border cborder-border rounded grad-1;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
@@ -152,7 +168,7 @@
   }
 }
 
-@utility toc-grad {
+@utility grad-1 {
   @apply bg-linear-to-b from-transparent to-black/4 dark:from-white/6 dark:to-transparent;
 }
 
@@ -172,11 +188,4 @@
   grid-template-columns: repeat(--value(integer), max-content);
 }
 
-@utility flex-expand-* {
-  flex: 1 1 calc(var(--spacing) * --value(integer));
-}
-
-@utility flex-shrinkable-* {
-  flex: 0 1 calc(var(--spacing) * --value(integer));
-}
 

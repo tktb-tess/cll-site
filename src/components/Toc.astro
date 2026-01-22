@@ -20,74 +20,55 @@ export type { H2Content, H3Content, H4Content };
 
 interface Props {
   readonly contents: H2Content[];
-  readonly open?: boolean;
+  readonly isTitle?: boolean;
+  readonly class?: string;
 }
 
-const { contents, open = false } = Astro.props;
+const { contents, class: className, isTitle = false } = Astro.props;
 ---
 
-<h2 id='table-of-contents'>Table of Contents</h2>
-<details id='toc-details' {open}>
-  <summary>
-    {open ? 'hide' : 'show'}
-  </summary>
-  <ul>
-    {
-      contents.map((content) => (
-        <li>
-          <p>
-            <a href={content.url}>{content.text}</a>
-          </p>
-          {content.h3.length > 0 && (
-            <ul>
-              {content.h3.map((h3) => (
-                <li>
-                  <p>
-                    <a href={h3.url}>{h3.text}</a>
-                  </p>
-                  {h3.h4.length > 0 && (
-                    <ul>
-                      {h3.h4.map((h4) => (
-                        <li>
-                          <a href={h4.url}>{h4.text}</a>
-                        </li>
-                      ))}
-                    </ul>
-                  )}
-                </li>
-              ))}
-            </ul>
-          )}
-        </li>
-      ))
-    }
-  </ul>
-</details>
+<ul class={className} data-is-title={isTitle}>
+  {
+    contents.map((content) => (
+      <li>
+        <p>
+          <a href={content.url}>{content.text}</a>
+        </p>
+        {content.h3.length > 0 && (
+          <ul>
+            {content.h3.map((h3) => (
+              <li>
+                <p>
+                  <a href={h3.url}>{h3.text}</a>
+                </p>
+                {h3.h4.length > 0 && (
+                  <ul>
+                    {h3.h4.map((h4) => (
+                      <li>
+                        <a href={h4.url}>{h4.text}</a>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </li>
+            ))}
+          </ul>
+        )}
+      </li>
+    ))
+  }
+</ul>
 
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    #toc-details {
-      @apply my-4 border cborder-border cbg-toc rounded px-3 py-0.5 toc-grad;
-
-      > summary {
-        @apply cursor-pointer user-select-none;
-      }
-
-      > ul {
-        @apply list-none ps-0;
-      }
-
-      p, li {
-        @apply my-0;
-      }
-
-      ul {
-        @apply my-1;
+    ul:not([data-is-title="true"]) {
+      @apply list-none ps-0;
+      a {
+        @apply block no-underline;
       }
     }
   }
-  
 </style>
 
 <script>
