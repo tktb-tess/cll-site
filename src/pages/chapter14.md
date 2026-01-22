@@ -32,10 +32,12 @@ This table means that if the first sentence stated is true, and the second sente
 
 Suppose that “John is a man” is true (and “John is not a man” is false), and that “James is a woman” is false (and “James is not a woman” is true). Then the truth table tells us that
 
-“John is a man, or James is not a woman” (true true ) is true
-| “John is a man, or James is a woman” (true , false) is true         |
-| “John is not a man, or James is not a woman” (false, true ) is true |
-| “John is not a man, or James is a woman” (false, false) is false    |
+|                                              |                |          |
+| -------------------------------------------- | -------------- | -------- |
+| “John is a man, or James is not a woman”     | (true, true)   | is true  |
+| “John is a man, or James is a woman”         | (true, false)  | is true  |
+| “John is not a man, or James is not a woman” | (false, true)  | is true  |
+| “John is not a man, or James is a woman”     | (false, false) | is false |
 
 Note that the kind of “or” used in this example can also be expressed (in formal English) with “and/or”. There is a different truth table for the kind of “or” that means “either ... or ... but not both”.
 
