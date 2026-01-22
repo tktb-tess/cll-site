@@ -97,7 +97,7 @@ for (const { depth, text, slug } of filtered) {
   </header>
   <main class='flex flex-col lg:flex-row *:min-w-0'>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class='h-[96vh] overflow-y-auto sticky top-2 px-4'>
+      <div class='h-screen overflow-y-auto sticky top-0 px-4 py-2'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
@@ -116,7 +116,7 @@ for (const { depth, text, slug } of filtered) {
       <slot />
     </section>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class="h-[96vh] overflow-y-auto sticky top-2 px-4 pt-2">
+      <div class="h-screen overflow-y-auto sticky top-0 px-4 py-2">
         <Toc {contents} />
       </div>
     </aside>

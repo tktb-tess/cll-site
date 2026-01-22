@@ -5,6 +5,7 @@ import LinkExt from '../components/LinkExt.astro';
 import Toc, { type H2Content } from '../components/Toc.astro';
 import JboLogo from '../assets/jbo_logo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
+import data from '../modules/data.json';
 
 interface MdProps {
   readonly frontmatter: {
@@ -26,6 +27,14 @@ const mds = mds_.map(({ frontmatter, url }): H2Content => {
     url,
     h3: [],
   };
+});
+
+mds.sort((a, b) => {
+  const aUrl_ = data.findIndex((d) => d.url === a.url);
+  const bUrl_ = data.findIndex((d) => d.url === b.url);
+  const aUrl = aUrl_ > -1 ? aUrl_ : Infinity;
+  const bUrl = bUrl_ > -1 ? bUrl_ : Infinity;
+  return aUrl - bUrl;
 });
 
 const title = `The Complete Lojban Language`;

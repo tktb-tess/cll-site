@@ -1,5 +1,6 @@
 ---
 import type { MarkdownHeading } from 'astro';
+import data from '../modules/data.json';
 
 interface MdProps {
   readonly frontmatter: {
@@ -27,10 +28,19 @@ const lis = mds.map((md) => {
     url: md.url,
   };
 });
+
+lis.sort((a, b) => {
+  const a_ = data.findIndex((d) => d.url === a.url);
+  const b_ = data.findIndex((d) => d.url === b.url);
+  const aUrl = a_ > -1 ? a_ : Infinity;
+  const bUrl = b_ > -1 ? b_ : Infinity;
+  return aUrl - bUrl;
+});
+
 const { currentUrl, class: className } = Astro.props;
 ---
 
-<ul class=`list-none ps-0 flex flex-col ${className}`>
+<ul class=`${className}`>
   <li><a href='/'>Top</a></li>
   {
     lis.map((p) => {
@@ -49,6 +59,9 @@ const { currentUrl, class: className } = Astro.props;
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
+    ul {
+      @apply list-none ps-0 flex flex-col mb-0;
+    }
     a {
       @apply block no-underline hover:opacity-[revert] hover:cbg-sidemenu-bg
       hover:ctext-sidemenu-text px-3 py-1.5 transition-colors rounded;
