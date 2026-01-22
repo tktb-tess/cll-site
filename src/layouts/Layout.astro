@@ -1,11 +1,11 @@
 ---
 import '../styles/globals.css';
-import 'katex/dist/katex.min.css';
+import Head from './Head.astro';
 import Loads from '../components/Loads.astro';
 import XNavigator from '../components/XNavigator.astro';
 import OGP from '../components/OGP.astro';
 import ToTopBtn from '../components/ToTopBtn.astro';
-import { linkTitles } from '../modules/titles';
+import data from '../modules/data.json';
 
 interface Props {
   readonly title: string;
@@ -14,45 +14,26 @@ interface Props {
 }
 
 const { title, url, description } = Astro.props;
-const index = linkTitles.findIndex(([k]) => k === url);
-const prev = index > 0 ? linkTitles.at(index - 1) : undefined;
+const index = data.findIndex((k) => k.url === url);
+const prev = index > 0 ? data.at(index - 1) : undefined;
 const next =
-  index >= 0 && index < linkTitles.length - 1
-    ? linkTitles.at(index + 1)
-    : undefined;
-
-const siteName = 'The Complete Lojban Language';
-const fullTitle = siteName === title ? title : `${title} | CLL`;
+  index >= 0 && index < data.length - 1 ? data.at(index + 1) : undefined;
 ---
 
-<!doctype html>
-<html lang='en'>
-  <head>
-    <meta charset='utf-8' />
-    <meta name='viewport' content='width=device-width,initial-scale=1' />
-    <meta name='generator' content={Astro.generator} />
-    <Loads />
-    <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP title={fullTitle} {url} {description} />
-    <title>{fullTitle}</title>
-  </head>
-  <body>
-    <div id='md-root'>
-      <header class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
-        <XNavigator {prev} {next} />
-      </header>
-      <hr />
-      <main>
-        <h1 id='title'>
-          {title}
-        </h1>
-        <slot />
-      </main>
-      <hr />
-      <footer class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
-        <XNavigator {prev} {next} />
-      </footer>
-      <ToTopBtn />
-    </div>
-  </body>
-</html>
+<Head {title} {url} {description}>
+  <header class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
+    <XNavigator {prev} {next} />
+  </header>
+  <hr />
+  <main>
+    <h1 id='title'>
+      {title}
+    </h1>
+    <slot />
+  </main>
+  <hr />
+  <footer class='flex flex-col gap-2 px-4 my-6 *:my-0 [&_a]:font-normal'>
+    <XNavigator {prev} {next} />
+  </footer>
+  <ToTopBtn />
+</Head>

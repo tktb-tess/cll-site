@@ -1,10 +1,11 @@
 ---
 import '../styles/globals.css';
-import type { ImageMetadata, MarkdownLayoutProps } from 'astro';
-import Layout from './Layout.astro';
+import type { MarkdownLayoutProps } from 'astro';
+import Head from './Head.astro';
 import Toc from '../components/Toc.astro';
 import type { H2Content } from '../components/Toc.astro';
 import { Image } from 'astro:assets';
+import Sidemenu from '../components/Sidemenu.astro';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -14,14 +15,13 @@ type Props = MarkdownLayoutProps<{
 const { frontmatter, headings, url = '/' } = Astro.props;
 
 const imgData = await (async () => {
-  const s = url.slice(1, -1);
-  const isChapter = s.includes('chapter');
-  if (!isChapter) return null;
-  const gif: ImageMetadata = (await import(`../assets/${s}.gif`)).default;
-  const str = s.match(/\d+/)?.[0] ?? '';
+  const str = url.match(/chapter(\d+)/)?.[1] ?? '';
   const num = Number.parseInt(str);
-  if (!Number.isFinite(num)) return null;
-  return { gif, alt: `The picture for chapter ${num}` } as const;
+  if (!Number.isFinite(num)) return;
+  const img: ImageMetadata = (
+    await import(`../assets/chapter${num.toString().padStart(2, '0')}.gif`)
+  ).default;
+  return { src: img, alt: `The picture for chapter ${num}` } as const;
 })();
 
 const contents: H2Content[] = [];
@@ -83,8 +83,33 @@ for (const { depth, text, slug } of filtered) {
 }
 ---
 
-<Layout title={frontmatter.title} {url} description={frontmatter.description}>
-  {imgData && <Image id="top-picture" src={imgData.gif} alt={imgData.alt} />}
-  <Toc {contents} />
-  <slot />
-</Layout>
+<Head title={frontmatter.title} {url} description={frontmatter.description}>
+  <header class='px-4 my-12'>
+    <h1 id='title'>{frontmatter.title}</h1>
+  </header>
+  <hr />
+  <main class='flex flex-col md:flex-row *:min-w-0'>
+    <aside class='px-4 md:flex-shrinkable-60'>
+      <Sidemenu currentUrl={url} />
+    </aside>
+    <section class='cbg-bg px-4 md:flex-expand-150'>
+      {
+        imgData && (
+          <Image
+            id='top-picture'
+            class='my-8'
+            src={imgData.src}
+            alt={imgData.alt}
+          />
+        )
+      }
+
+      <slot />
+    </section>
+    <aside class='md:flex-shrinkable-60'>
+      <nav></nav>
+    </aside>
+  </main>
+  <hr />
+  <footer></footer>
+</Head>

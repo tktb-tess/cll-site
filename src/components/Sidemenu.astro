@@ -1,0 +1,61 @@
+---
+import type { MarkdownHeading } from 'astro';
+
+interface MdProps {
+  readonly frontmatter: {
+    readonly title: string;
+    readonly description?: string;
+  };
+  readonly url: string;
+  readonly getHeadings: () => MarkdownHeading[];
+}
+
+interface Props {
+  readonly currentUrl: string;
+}
+
+const mds = Object.values(
+  import.meta.glob<MdProps>('../pages/*.md', { eager: true }),
+);
+
+const lis = mds.map((md) => {
+  const title = md.frontmatter.title;
+  const match = title.match(/Chapter\s\d+/u)?.[0] ?? title;
+  return {
+    title: match,
+    url: md.url,
+  };
+});
+const { currentUrl } = Astro.props;
+---
+
+<ul class='list-none ps-0 flex flex-col'>
+  <li><a href='/'>Top</a></li>
+  {
+    lis.map((p) => (
+      <li>
+        <a
+          class={p.url === currentUrl ? '__current' : null}
+          href={p.url}
+          aria-current={p.url === currentUrl}
+        >
+          {p.title}
+        </a>
+      </li>
+    ))
+  }
+</ul>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer components {
+    a {
+      @apply block no-underline hover:opacity-[revert] hover:cbg-sidemenu-hover-bg
+      hover:ctext-sidemenu-hover-text px-3 py-1.5 transition-colors rounded;
+
+      &.__current {
+        @apply cbg-sidemenu-hover-bg ctext-sidemenu-hover-text;
+      }
+    }
+  }
+</style>

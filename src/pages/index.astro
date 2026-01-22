@@ -1,9 +1,10 @@
 ---
 import type { MarkdownHeading } from 'astro';
-import Layout from '../layouts/Layout.astro';
-import { urls } from '../modules/titles';
+import Head from '../layouts/Head.astro';
+import data from '../modules/data.json';
 import Toc, { type H2Content, type H3Content } from '../components/Toc.astro';
 import JboLogo from '../assets/jbo_logo.svg';
+import ToTopBtn from '../components/ToTopBtn.astro';
 
 interface MdProps {
   readonly frontmatter: {
@@ -19,8 +20,8 @@ const mds_ = Object.values(
 );
 
 mds_.sort((a, b) => {
-  let aIndex = urls.findIndex((s) => s === a.url);
-  let bIndex = urls.findIndex((s) => s === b.url);
+  let aIndex = data.findIndex((s) => s.url === a.url);
+  let bIndex = data.findIndex((s) => s.url === b.url);
   if (aIndex === -1) {
     aIndex = Infinity;
   }
@@ -32,7 +33,7 @@ mds_.sort((a, b) => {
 
 const mds = mds_.map(({ frontmatter, url, getHeadings }): H2Content => {
   const h3 = getHeadings()
-    .filter(({ depth }) => depth === 2)
+    .filter((h) => h.depth === 2)
     .map(({ text, slug }): H3Content => {
       return {
         text,
@@ -47,9 +48,25 @@ const mds = mds_.map(({ frontmatter, url, getHeadings }): H2Content => {
     h3,
   };
 });
+
+const title = `The Complete Lojban Language`;
+const url = '/';
 ---
 
-<Layout title='The Complete Lojban Language' url='/'>
-  <JboLogo class='max-w-95 w-full mx-auto' />
-  <Toc contents={mds} open />
-</Layout>
+<Head {title} {url}>
+  <header class='px-4 my-12'>
+    <h1 id='title' class='text-center'>
+      The <span class='text-red-600'>C</span>omplete
+      <span class='text-blue-600'>L</span>ojban
+      <span class='text-red-600'>L</span>anguage
+    </h1>
+  </header>
+  <hr />
+  <main class='flow-root cbg-bg w-full max-w-7xl mx-auto px-4 lg:px-6'>
+    <JboLogo class='max-w-95 w-full mx-auto my-6' />
+    <Toc contents={mds} open />
+  </main>
+  <hr />
+  <footer></footer>
+  <ToTopBtn />
+</Head>
