@@ -1,27 +1,21 @@
 ---
 interface Props {
-  readonly prev: readonly [string, string] | undefined;
-  readonly next: readonly [string, string] | undefined;
+  readonly prev?: {
+    readonly url: string;
+    readonly title: string;
+  };
+  readonly next?: {
+    readonly url: string;
+    readonly title: string;
+  };
 }
 const { prev, next } = Astro.props;
 ---
 
 <p id='navigator-title'>The Complete Lojban Language</p>
 <div id='navigator'>
-  {
-    prev && (
-      <a href={prev[0]}>
-        ← {prev[1]}
-      </a>
-    )
-  }
-  {
-    next && (
-      <a href={next[0]}>
-        {next[1]} →
-      </a>
-    )
-  }
+  {prev && <a href={prev.url}>← {prev.title}</a>}
+  {next && <a href={next.url}>{next.title} →</a>}
 </div>
 <p><a href='/'>Table of Contents</a></p>
 <p>

@@ -1,0 +1,31 @@
+---
+import '../styles/globals.css';
+import Loads from '../components/Loads.astro';
+import OGP from '../components/OGP.astro';
+
+interface Props {
+  readonly title: string;
+  readonly url: string;
+  readonly description?: string;
+}
+
+const { title, url, description } = Astro.props;
+const siteName = 'The Complete Lojban Language';
+const fullTitle = siteName === title ? title : `${title} | CLL`;
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width,initial-scale=1' />
+    <meta name='generator' content={Astro.generator} />
+    <Loads />
+    <link rel='icon' href='/icon.svg' type='image/svg+xml' />
+    <OGP title={fullTitle} {url} {description} />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

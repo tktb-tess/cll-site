@@ -1,5 +1,4 @@
 @import 'tailwindcss';
-@plugin '@tailwindcss/typography';
 
 @theme inline {
   --font-sans:
@@ -8,15 +7,27 @@
   --font-serif:
     'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif SC',
     'Segoe UI', serif, system-ui;
-  --font-ipa: 'Charis-Web', serif, system-ui;
-  --color-bg: white;
+  --font-ipa: var(--font-serif);
+  --color-bg: #fff;
   --color-d-bg: var(--color-slate-950);
   --color-side: var(--color-slate-100);
   --color-d-side: var(--color-slate-900);
-  --color-toc: var(--color-blue-50);
-  --color-d-toc: var(--color-blue-950);
+  --color-toc: var(--color-violet-50);
+  --color-d-toc: var(--color-violet-950);
   --color-border: var(--color-slate-300);
   --color-d-border: var(--color-slate-500);
+  --color-border2: var(--color-slate-500);
+  --color-d-border2: var(--color-slate-300);
+  --color-text: #000;
+  --color-d-text: #fff;
+  --color-heading: var(--color-violet-950);
+  --color-d-heading: var(--color-violet-50);
+  --color-link: var(--color-blue-500);
+  --color-d-link: var(--color-blue-300);
+  --color-sidemenu-hover-bg: var(--color-violet-800);
+  --color-d-sidemenu-hover-bg: var(--color-violet-400);
+  --color-sidemenu-hover-text: #fff;
+  --color-d-sidemenu-hover-text: #000;
 }
 
 @utility cbg-* {
@@ -49,83 +60,93 @@
   }
 
   body {
-    @apply cbg-side;
+    @apply cbg-side flow-root;
   }
 
-  #md-root {
-    @apply flow-root cbg-bg
-    prose prose-slate dark:prose-invert
-    w-full max-w-7xl mx-auto px-4 lg:px-6;
+  a {
+    @apply underline hover:opacity-60 transition-opacity;
+  }
 
-    a {
-      @apply hover:opacity-60 transition-opacity;
+  h1:where(#title) {
+    @apply font-extralight text-4xl;
+  }
+
+  :is(h2, h3, h4) {
+    @apply font-normal text-2xl;
+  }
+
+  :is(h5, h6) {
+    @apply font-semibold text-base;
+  }
+
+  :is(h2, h3, h4, h5, h6, p, ul, ol) {
+    @apply mb-5;
+  }
+
+  img {
+    @apply mx-auto w-full max-w-max;
+  }
+
+  table {
+    @apply lg:max-w-max lg:me-auto;
+
+    :where(thead > tr:last-child) {
+      @apply border-b cborder-border2;
     }
 
-    h1:where(#title) {
-      @apply font-extralight text-center my-12;
+    :where(tr:not(:last-child)) {
+      @apply border-b cborder-border;
     }
 
-    :is(h2, h3, h4) {
-      @apply font-normal;
+    :where(td, th) {
+      @apply text-base py-1.25 px-2.25;
     }
+  }
 
-    :is(h5, h6) {
-      @apply font-semibold;
+  .table-container:where(:has(> table)) {
+    @apply max-w-full overflow-x-auto my-4;
+  }
+
+  ul {
+    @apply list-disc;
+  }
+
+  ol {
+    @apply list-decimal;
+  }
+
+  :is(ul, ol) {
+    @apply ps-5;
+  }
+
+  li > :where(p) {
+    @apply my-2;
+  }
+
+  hr {
+    @apply my-4 cborder-border mx-auto w-full max-w-240;
+  }
+
+  :where(blockquote p:first-of-type) {
+    &::before,
+    &::after {
+      content: none;
     }
+  }
 
-    img {
-      @apply mx-auto;
-    }
-
-    table {
-      @apply lg:max-w-max lg:me-auto my-4;
-
-      :where(thead, tbody tr) {
-        @apply border-b-0;
-      }
-
-      :where(tr :is(td, th):not(:last-child)) {
-        @apply border-e cborder-border;
-      }
-
-      :where(td, th) {
-        @apply text-base py-1.25 px-2.25;
-      }
-    }
-
-    .table-container:has(> table) {
-      @apply max-w-full overflow-x-auto;
-    }
-
-    li > :where(p) {
-      @apply my-2;
-    }
-
-    hr {
-      @apply my-6;
-    }
-
-    :where(blockquote p:first-of-type) {
-      &::before,
-      &::after {
-        content: none;
-      }
-    }
-
-    .jbomupli {
-      @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
+  .jbomupli {
+    @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
       cbg-toc border cborder-border rounded toc-grad;
 
-      > div {
-        @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
+    > div {
+      @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
 
-        > p {
-          @apply min-w-0 min-h-7 m-0 px-3;
-        }
+      > p {
+        @apply min-w-0 min-h-7 m-0 px-3;
+      }
 
-        > :lang(jbo) {
-          @apply italic;
-        }
+      > :lang(jbo) {
+        @apply italic;
       }
     }
   }
@@ -150,3 +171,12 @@
 @utility grid-cols-max-* {
   grid-template-columns: repeat(--value(integer), max-content);
 }
+
+@utility flex-expand-* {
+  flex: 1 1 calc(var(--spacing) * --value(integer));
+}
+
+@utility flex-shrinkable-* {
+  flex: 0 1 calc(var(--spacing) * --value(integer));
+}
+

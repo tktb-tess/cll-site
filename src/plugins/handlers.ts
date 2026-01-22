@@ -1,5 +1,5 @@
 import type { PhrasingContent, Table } from 'mdast';
-import type { Element, ElementContent } from 'hast';
+import type { Element, ElementContent, Text } from 'hast';
 import type { ContainerDirective, TextDirective } from 'mdast-util-directive';
 import type { Handler } from 'mdast-util-to-hast';
 import { toHast } from 'mdast-util-to-hast';
@@ -15,36 +15,41 @@ export const langPositionSchema = v.pipe(
 
 export type LangPosition = v.InferOutput<typeof langPositionSchema>;
 
-const ipaRender = (node: TextDirective): Element => ({
+const emptyText: Text = {
+  type: 'text',
+  value: '',
+};
+
+const ipaRender = (mdNode: TextDirective): Element => ({
   type: 'element',
   tagName: 'span',
   properties: {
     class: ['font-ipa'],
   },
-  children: node.children.map(phrasingToText),
+  children: mdNode.children.map(phrasingToHast),
 });
 
-const phrasingToText = (child: PhrasingContent): ElementContent => {
-  if (child.type === 'textDirective') {
-    if (child.name === 'ipa') {
-      return ipaRender(child);
+const phrasingToHast = (mdNode: PhrasingContent): ElementContent => {
+  if (mdNode.type === 'textDirective') {
+    if (mdNode.name === 'ipa') {
+      return ipaRender(mdNode);
     } else {
       return {
         type: 'element',
         tagName: 'span',
         properties: {},
-        children: child.children.map(phrasingToText),
+        children: mdNode.children.map(phrasingToHast),
       };
     }
   } else {
-    const hast = toHast(child, { allowDangerousHtml: true });
-    if (hast.type !== 'doctype' && hast.type !== 'root') {
-      return hast;
+    const hast = toHast(mdNode, { allowDangerousHtml: true });
+
+    if (hast.type === 'root' || hast.type === 'doctype') {
+      return emptyText;
+    } else if (hast.type === 'element' && hast.tagName === 'script') {
+      return emptyText;
     } else {
-      return {
-        type: 'text',
-        value: '',
-      };
+      return hast;
     }
   }
 };
@@ -56,7 +61,7 @@ export const tableHandler: Handler = (_, node: Table) => {
       type: 'element',
       tagName: 'th',
       properties: {},
-      children: th.children.map(phrasingToText),
+      children: th.children.map(phrasingToHast),
     }),
   );
 
@@ -87,7 +92,7 @@ export const tableHandler: Handler = (_, node: Table) => {
         type: 'element',
         tagName: 'td',
         properties: {},
-        children: td.children.map(phrasingToText),
+        children: td.children.map(phrasingToHast),
       })),
     }),
   );
@@ -123,20 +128,22 @@ export const containerDirectiveHandler: Handler = (
   if (node.name === 'jbomupli') {
     const tables = node.children.filter((node) => node.type === 'table');
     const langPosition = (() => {
-      const j = node.attributes?.jbo ?? `[0]`;
+      const j = node.attributes?.jbo || '[0]';
       const p = JSON.parse(j);
       return v.parse(langPositionSchema, p);
     })();
-    const class_ = node.attributes?.class ?? null;
+    const class_ = node.attributes?.class ?? '';
     return tables.map((table) => {
       const trs = table.children.slice(1);
-      const maxCol = Math.max(...trs.map((tr) => tr.children.length));
+      const maxCol = trs
+        .map((tr) => tr.children.length)
+        .reduce((prev, cur) => Math.max(prev, cur), 0);
 
       const whole: Element = {
         type: 'element',
         tagName: 'div',
         properties: {
-          class: class_ ? ['jbomupli', class_] : ['jbomupli'],
+          class: ['jbomupli', class_],
         },
         children: [],
       };
@@ -149,7 +156,7 @@ export const containerDirectiveHandler: Handler = (
         };
         for (const [j, tr] of trs.entries()) {
           const cont = tr.children.at(i)?.children ?? [];
-          const children = cont.map(phrasingToText);
+          const children = cont.map(phrasingToHast);
 
           const isJbo =
             langPosition.findIndex((pos) => {
@@ -173,15 +180,14 @@ export const containerDirectiveHandler: Handler = (
       return whole;
     });
   } else {
-    const hast = toHast(node);
+    const hast = toHast(node, { allowDangerousHtml: true });
 
-    if (hast.type !== 'root' && hast.type !== 'doctype') {
-      return hast;
+    if (hast.type === 'root' || hast.type === 'doctype') {
+      return emptyText;
+    } else if (hast.type === 'element' && hast.tagName === 'script') {
+      return emptyText;
     } else {
-      return {
-        type: 'text',
-        value: '',
-      };
+      return hast;
     }
   }
 };
@@ -190,14 +196,13 @@ export const textDirectiveHandler: Handler = (_, node: TextDirective) => {
   if (node.name === 'ipa') {
     return ipaRender(node);
   } else {
-    const hast = toHast(node);
-    if (hast.type !== 'root' && hast.type !== 'doctype') {
-      return hast;
+    const hast = toHast(node, { allowDangerousHtml: true });
+    if (hast.type === 'root' || hast.type === 'doctype') {
+      return emptyText;
+    } else if (hast.type === 'element' && hast.tagName === 'script') {
+      return emptyText;
     } else {
-      return {
-        type: 'text',
-        value: '',
-      };
+      return hast;
     }
   }
 };

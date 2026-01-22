@@ -66,26 +66,28 @@ const { contents, open = false } = Astro.props;
 
 <style lang="postcss">
   @reference '../styles/globals.css';
+  @layer components {
+    #toc-details {
+      @apply my-4 border cborder-border cbg-toc rounded px-3 py-0.5 toc-grad;
 
-  #toc-details {
-    @apply border cborder-border cbg-toc rounded px-3 py-0.5 toc-grad;
+      > summary {
+        @apply cursor-pointer user-select-none;
+      }
 
-    > summary {
-      @apply cursor-pointer user-select-none;
-    }
+      > ul {
+        @apply list-none ps-0;
+      }
 
-    > ul {
-      @apply list-none ps-0;
-    }
+      p, li {
+        @apply my-0;
+      }
 
-    p, li {
-      @apply my-0;
-    }
-
-    ul {
-      @apply my-1;
+      ul {
+        @apply my-1;
+      }
     }
   }
+  
 </style>
 
 <script>

@@ -39,7 +39,7 @@
     "sharp": "^0.34.5",
     "tailwindcss": "^4.1.18",
     "tsx": "^4.21.0",
-    "typescript": "~5.9.3",
+    "typescript": "^5.9.3",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0",
     "valibot": "^1.2.0"
@@ -47,5 +47,9 @@
   "packageManager": "pnpm@10.28.0",
   "volta": {
     "node": "24.13.0"
+  },
+  "dependencies": {
+    "@astrojs/svelte": "^7.2.5",
+    "svelte": "^5.47.1"
   }
 }
