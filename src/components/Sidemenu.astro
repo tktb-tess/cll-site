@@ -12,6 +12,7 @@ interface MdProps {
 
 interface Props {
   readonly currentUrl: string;
+  readonly class?: string;
 }
 
 const mds = Object.values(
@@ -26,23 +27,26 @@ const lis = mds.map((md) => {
     url: md.url,
   };
 });
-const { currentUrl } = Astro.props;
+const { currentUrl, class: className } = Astro.props;
 ---
 
-<ul class='list-none ps-0 flex flex-col'>
+<ul class=`list-none ps-0 flex flex-col ${className}`>
   <li><a href='/'>Top</a></li>
   {
-    lis.map((p) => (
-      <li>
-        <a
-          class={p.url === currentUrl ? '__current' : null}
-          href={p.url}
-          aria-current={p.url === currentUrl}
-        >
-          {p.title}
-        </a>
-      </li>
-    ))
+    lis.map((p) => {
+      const isCurrent = p.url === currentUrl;
+      return (
+        <li>
+          <a
+            class={isCurrent ? '__current' : null}
+            href={p.url}
+            aria-current={isCurrent}
+          >
+            {p.title}
+          </a>
+        </li>
+      );
+    })
   }
 </ul>
 

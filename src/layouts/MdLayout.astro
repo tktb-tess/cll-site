@@ -90,7 +90,9 @@ for (const { depth, text, slug } of filtered) {
   <hr />
   <main class='flex flex-col md:flex-row *:min-w-0'>
     <aside class='px-4 md:flex-shrinkable-60'>
-      <Sidemenu currentUrl={url} />
+      <div class="h-[96vh] overflow-y-auto sticky top-2">
+        <Sidemenu currentUrl={url} class='' />
+      </div>
     </aside>
     <section class='cbg-bg px-4 md:flex-expand-150'>
       {
