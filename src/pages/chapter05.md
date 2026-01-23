@@ -1989,8 +1989,6 @@ This section and [Section 5.15](/chapter05/#515-some-types-of-symmetrical-tanru 
 
 Here are the 3-letter abbreviations used for the various languages (it is presumed to be obvious whether a compound is found in English or not, so English is not explicitly noted):
 
-<div class="table-scrollable">
-
 |     |                  |     |           |     |         |     |           |
 | --- | ---------------- | --- | --------- | --- | ------- | --- | --------- |
 | Aba | Abazin           | Chi | Chinese   | Ewe | Ewe     | Fin | Finnish   |
@@ -1998,8 +1996,6 @@ Here are the 3-letter abbreviations used for the various languages (it is presum
 | Imb | Imbabura Quechua | Kar | Karaitic  | Kaz | Kazakh  | Kor | Korean    |
 | Mon | Mongolian        | Qab | Qabardian | Que | Quechua | Rus | Russian   |
 | Skt | Sanskrit         | Swe | Swedish   | Tur | Turkish | Udm | Udmurt    |
-
-</div>
 
 Any lujvo or fu'ivla used in a group are glossed at the end of that group.
 

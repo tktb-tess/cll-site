@@ -243,12 +243,12 @@ Here “that” does not refer to something that can be pointed to, but to the p
 | do  | na     | nelci | loi         | mlatu |
 | You | (Not!) | like  | the-mass-of | cats  |
 
-:::
-
 |     |                        |            |           |
 | --- | ---------------------- | ---------- | --------- |
 | .i  | di'u                   | jitfa      | jufra     |
 | .   | The-previous-utterance | is-a-false | sentence. |
+
+:::
 
 Using *[ta](/glossary/#ta)* instead of *[di'u](/glossary/#diu)* would cause the listener to look around to see what the speaker of the second sentence was physically pointing to.
 
@@ -385,12 +385,12 @@ To avoid this pitfall, Lojban employs special syntax, using the cmavo *[goi](/gl
 | la         | .alis. | klama   | le  | zarci |
 | That-named | Alice  | goes-to | the | store |
 
-:::
-
 |     |       |               |            |        |     |          |
 | --- | ----- | ------------- | ---------- | ------ | --- | -------- |
 | .i  | ko'a  | goi           | la         | .alis. | cu  | blanu    |
 | .   | It-1, | also-known-as | that-named | Alice  | ,   | is-blue. |
+
+:::
 
 Syntactically, *goi la .alis.* is a relative phrase (relative phrases are explained in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated")). Semantically, it says that *[ko'a](/glossary/#koa)* and *la .alis.* refer to the same thing, and furthermore that this is true because *[ko'a](/glossary/#koa)* is being defined as meaning *la .alis.*. It is equally correct to say:
 
@@ -403,12 +403,12 @@ Syntactically, *goi la .alis.* is a relative phrase (relative phrases are explai
 | la         | .alis. | klama   | le  | zarci |
 | That-named | Alice  | goes-to | the | store |
 
-:::
-
 |     |            |        |               |       |     |          |
 | --- | ---------- | ------ | ------------- | ----- | --- | -------- |
 | .i  | la         | .alis. | goi           | ko'a  | cu  | blanu    |
 | .   | That-named | Alice, | also-known-as | it-1, |     | is-blue. |
+
+:::
 
 in other words, *[goi](/glossary/#goi)* is symmetrical. There is a terminator, *[ge'u](/glossary/#geu)* (of selma'o GEhU), which is almost always elidable. The details are in [Section 8.3](/chapter08/#83-relative-phrases "8.3. Relative phrases").
 
@@ -431,9 +431,14 @@ Just as the ko'a-series of pro-sumti allows a substitute for a sumti which is lo
 
 ##### Example 7.25.
 
-ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu
+:::jbomupli
 
-These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small.
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu |
+| These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small. |
+
+:::
 
 The pro-bridi *[broda](/glossary/#broda)* has as its antecedent the selbri *slasi je mlatu bo cidja lante gacri*. The cmavo *[cei](/glossary/#cei)* performs the role of *[goi](/glossary/#goi)* in assigning *[broda](/glossary/#broda)* to this long phrase, and *[broda](/glossary/#broda)* can then be used just like any other brivla. (In fact, *[broda](/glossary/#broda)* and its relatives actually *are* brivla: they are gismu in morphology, although they behave exactly like the members of selma'o GOhA. The reasons for using gismu rather than cmavo are buried in the Loglan Project's history.)
 
@@ -574,17 +579,12 @@ However, the cmavo of the ti-series can be picked up by *[ri](/glossary/#ri)*, b
 
 :::jbomupli
 
-|            |       |       |     |       |     |
-| ---------- | ----- | ----- | --- | ----- | --- |
-| la         | djan. | viska | le  | tricu | .i  |
-| That-named | John  | sees  | the | tree. |     |
+|            |       |       |     |       |     |                 |               |     |     |                 |         |
+| ---------- | ----- | ----- | --- | ----- | --- | --------------- | ------------- | --- | --- | --------------- | ------- |
+| la         | djan. | viska | le  | tricu | .i  | ri              | se jadni      | le  |     | ri              | jimca   |
+| That-named | John  | sees  | the | tree. |     | \[repeat-last\] | is-adorned-by | the | of- | \[repeat-last\] | branch. |
 
 :::
-
-|                 |               |     |     |                 |         |
-| --------------- | ------------- | --- | --- | --------------- | ------- |
-| ri              | se jadni      | le  |     | ri              | jimca   |
-| \[repeat-last\] | is-adorned-by | the | of- | \[repeat-last\] | branch. |
 
 John sees the tree. It is adorned by its branches.
 
@@ -596,17 +596,12 @@ To refer to the next-to-last sumti, the third-from-last sumti, and so on, *[ri](
 
 :::jbomupli
 
-|     |        |     |     |       |     |            |      |       |                          |
-| --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ |
-| lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | rixire                   |
-| A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[repeat-next-to-last\]. |
+|     |        |     |     |       |     |            |      |       |                          |     |            |        |       |                             |
+| --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ | --- | ---------- | ------ | ----- | --------------------------- |
+| lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | rixire                   | .i  | la         | .alis. | pilno | riximu                      |
+| A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[repeat-next-to-last\]. |     | That-named | Alice  | uses  | \[repeat-fifth-from-last\]. |
 
 :::
-
-|     |            |        |       |                             |
-| --- | ---------- | ------ | ----- | --------------------------- |
-| .i  | la         | .alis. | pilno | riximu                      |
-|     | That-named | Alice  | uses  | \[repeat-fifth-from-last\]. |
 
 Here *rixire*, or “ri-sub-2”, skips *la rik.* to reach *lo forca*. In the same way, *riximu*, or “ri-sub-5”, skips *la .alis.*, *rixire*, *la rik.*, and *lo forca* to reach *lo smuci*. As can clearly be seen, this procedure is barely practicable in writing, and would break down totally in speech.
 
@@ -616,17 +611,12 @@ Therefore, the vaguer *[ra](/glossary/#ra)* and *[ru](/glossary/#ru)* are also p
 
 :::jbomupli
 
-|     |        |     |     |       |     |            |      |       |                          |
-| --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ |
-| lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | ra                       |
-| A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[some-previous-thing\]. |
+|     |        |     |     |       |     |            |      |       |                          |     |            |        |       |                             |
+| --- | ------ | --- | --- | ----- | --- | ---------- | ---- | ----- | ------------------------ | --- | ---------- | ------ | ----- | --------------------------- |
+| lo  | smuci  | .i  | lo  | forca | .i  | la         | rik. | pilno | ra                       | .i  | la         | .alis. | pilno | ru                          |
+| A   | spoon. |     | A   | fork. |     | That-named | Rick | uses  | \[some-previous-thing\]. |     | That-named | Alice  | uses  | \[some-more-remote-thing\]. |
 
 :::
-
-|     |            |        |       |                             |
-| --- | ---------- | ------ | ----- | --------------------------- |
-| .i  | la         | .alis. | pilno | ru                          |
-|     | That-named | Alice  | uses  | \[some-more-remote-thing\]. |
 
 In [Example 7.35](/chapter07/#example-735 "Example 7.35."), the use of *[ra](/glossary/#ra)* tells us that something other than *la rik.* is the antecedent; *lo forca* is the nearest sumti, so it is probably the antecedent. Similarly, the antecedent of *[ru](/glossary/#ru)* must be something even further back in the utterance than *lo forca*, and *lo smuci* is the obvious candidate.
 
@@ -636,17 +626,12 @@ The meaning of *[ri](/glossary/#ri)* must be determined every time it is used. S
 
 :::jbomupli
 
-|            |        |         |     |       |
-| ---------- | ------ | ------- | --- | ----- |
-| la         | .alis. | klama   | le  | zarci |
-| That-named | Alice  | goes-to | the | store |
+|            |        |         |     |       |     |                   |               |      |          |
+| ---------- | ------ | ------- | --- | ----- | --- | ----------------- | ------------- | ---- | -------- |
+| la         | .alis. | klama   | le  | zarci | .i  | ri                | goi           | ko'a | blanu    |
+| That-named | Alice  | goes-to | the | store | .   | It-last-mentioned | also-known-as | it-1 | is-blue. |
 
 :::
-
-|     |                   |               |      |          |
-| --- | ----------------- | ------------- | ---- | -------- |
-| .i  | ri                | goi           | ko'a | blanu    |
-| .   | It-last-mentioned | also-known-as | it-1 | is-blue. |
 
 allows the store to be referred to henceforth as *[ko'a](/glossary/#koa)* without ambiguity. [Example 7.36](/chapter07/#example-736 "Example 7.36.") is equivalent to [Example 7.21](/chapter07/#example-721 "Example 7.21.") and eliminates any possibility of *[ko'a](/glossary/#koa)* being interpreted by the listener as referring to Alice.
 
@@ -727,17 +712,12 @@ Descriptions based on go'i-series cmavo can be very useful for repeating specifi
 
 :::jbomupli
 
-|     |       |       |     |         |     |        |     |                                   |
-| --- | ----- | ----- | --- | ------- | --- | ------ | --- | --------------------------------- |
-| le  | xekri | mlatu | cu  | klama   | le  | zarci  | .i  | le                                |
-| The | black | cat   |     | goes-to | the | store. |     | That-described-as-the-x1-place-of |
+|     |       |       |     |         |     |        |     |                                   |                       |     |          |     |       |
+| --- | ----- | ----- | --- | ------- | --- | ------ | --- | --------------------------------- | --------------------- | --- | -------- | --- | ----- |
+| le  | xekri | mlatu | cu  | klama   | le  | zarci  | .i  | le                                | go'i                  | cu  | cadzu    | le  | bisli |
+| The | black | cat   |     | goes-to | the | store. |     | That-described-as-the-x1-place-of | \[repeat-last-bridi\] |     | walks-on | the | ice.  |
 
 :::
-
-|                       |     |          |     |       |
-| --------------------- | --- | -------- | --- | ----- |
-| go'i                  | cu  | cadzu    | le  | bisli |
-| \[repeat-last-bridi\] |     | walks-on | the | ice.  |
 
 The black cat goes to the store. It walks on the ice.
 
@@ -754,8 +734,6 @@ The cmavo *[go'o](/glossary/#goo)*, *[nei](/glossary/#nei)*, and *[no'a](/glossa
 | mi  | nupre   | le  | nu       | mi  | go'o                     |
 | I   | promise | the | event-of | I   | \[repeat-future-bridi\]. |
 
-:::
-
 |     |            |       |     |       |     |     |       |
 | --- | ---------- | ----- | --- | ----- | --- | --- | ----- |
 | .i  | ba         | dunda | le  | djini |     | le  | bersa |
@@ -765,6 +743,8 @@ The cmavo *[go'o](/glossary/#goo)*, *[nei](/glossary/#nei)*, and *[no'a](/glossa
 | --- | ---------- | ----- | --- | ----- | --- | --- | -------- |
 | .i  | ba         | dunda | le  | zdani |     | le  | tixnu    |
 |     | \[Future\] | give  | the | house | to  | the | daughter |
+
+:::
 
 I promise to do the following: Give the money to my son. Give the house to my daughter.
 
@@ -776,17 +756,12 @@ For good examples of *[nei](/glossary/#nei)* and *[no'a](/glossary/#noa)*, we ne
 
 :::jbomupli
 
-|     |     |               |     |          |      |             |     |           |
-| --- | --- | ------------- | --- | -------- | ---- | ----------- | --- | --------- |
-| mi  | se  | pluka         | le  | nu       | do   | pensi       | le  | nu        |
-| I   |     | am-pleased-by | the | event-of | (you | think-about | the | (event-of |
+|     |     |               |     |          |      |             |     |           |                |     |        |     |           |      |          |
+| --- | --- | ------------- | --- | -------- | ---- | ----------- | --- | --------- | -------------- | --- | ------ | --- | --------- | ---- | -------- |
+| mi  | se  | pluka         | le  | nu       | do   | pensi       | le  | nu        | nei            | kei | pu     | le  | nu        | do   | zukte    |
+| I   |     | am-pleased-by | the | event-of | (you | think-about | the | (event-of | \[main-bridi\] | )   | before | the | (event-of | your | acting). |
 
 :::
-
-|                |     |        |     |           |      |          |
-| -------------- | --- | ------ | --- | --------- | ---- | -------- |
-| nei            | kei | pu     | le  | nu        | do   | zukte    |
-| \[main-bridi\] | )   | before | the | (event-of | your | acting). |
 
 I am pleased that you thought about whether I would be pleased (about ...) before you acted.
 
@@ -837,17 +812,12 @@ However, a *ri-*&#x73;eries or *go'a-*&#x73;eries reference within a quotation c
 
 :::jbomupli
 
-|            |       |       |           |     |       |     |       |              |
-| ---------- | ----- | ----- | --------- | --- | ----- | --- | ----- | ------------ |
-| la         | djan. | cusku | lu        | mi  | klama | le  | zarci | li'u         |
-| That-named | John  | says  | \[quote\] | I   | go-to | the | store | \[unquote\]. |
+|            |       |       |           |     |       |     |       |              |     |            |        |       |           |     |            |              |
+| ---------- | ----- | ----- | --------- | --- | ----- | --- | ----- | ------------ | --- | ---------- | ------ | ----- | --------- | --- | ---------- | ------------ |
+| la         | djan. | cusku | lu        | mi  | klama | le  | zarci | li'u         | .i  | la         | .alis. | cusku | lu        | mi  | go'i       | li'u         |
+| That-named | John  | says  | \[quote\] | I   | go-to | the | store | \[unquote\]. |     | That-named | Alice  | says  | \[quote\] | I   | \[repeat\] | \[unquote\]. |
 
 :::
-
-|     |            |        |       |           |     |            |              |
-| --- | ---------- | ------ | ----- | --------- | --- | ---------- | ------------ |
-| .i  | la         | .alis. | cusku | lu        | mi  | go'i       | li'u         |
-|     | That-named | Alice  | says  | \[quote\] | I   | \[repeat\] | \[unquote\]. |
 
 John says, “I am going to the store.” Alice says, “Me too.”
 
@@ -872,17 +842,12 @@ The cmavo *[zu'i](/glossary/#zui)*, on the other hand, represents the typical va
 
 :::jbomupli
 
-|     |       |     |         |     |     |       |      |
-| --- | ----- | --- | ------- | --- | --- | ----- | ---- |
-| mi  | klama | le  | bartu   | be  | le  | zdani |      |
-| I   | go-to | the | outside | of  | the | house | from |
+|     |       |     |         |     |     |       |      |     |        |     |     |       |                      |                      |
+| --- | ----- | --- | ------- | --- | --- | ----- | ---- | --- | ------ | --- | --- | ----- | -------------------- | -------------------- |
+| mi  | klama | le  | bartu   | be  | le  | zdani |      | le  | nenri  | be  | le  | zdani | zu'i                 | zu'i                 |
+| I   | go-to | the | outside | of  | the | house | from | the | inside | of  | the | house | \[by-typical-route\] | \[by-typical-means\] |
 
 :::
-
-|     |        |     |     |       |                      |                      |
-| --- | ------ | --- | --- | ----- | -------------------- | -------------------- |
-| le  | nenri  | be  | le  | zdani | zu'i                 | zu'i                 |
-| the | inside | of  | the | house | \[by-typical-route\] | \[by-typical-means\] |
 
 In [Example 7.49](/chapter07/#example-749 "Example 7.49."), the first *[zu'i](/glossary/#zui)* probably means something like “by the door”, and the second *[zu'i](/glossary/#zui)* probably means something like “on foot”, those being the typical route and means for leaving a house. On the other hand, if you are at the top of a high rise during a fire, neither *[zu'i](/glossary/#zui)* is appropriate. It's also common to use *[zu'i](/glossary/#zui)* in “by standard” places.
 
@@ -913,17 +878,12 @@ because the *[zo'e](/glossary/#zoe)*, expressed or understood, in [Example 7.50]
 
 :::jbomupli
 
-|             |               |     |
-| ----------- | ------------- | --- |
-| loi         | jmive         | cu  |
-| The-mass-of | living-things |     |
+|             |               |     |          |                   |      |             |        |
+| ----------- | ------------- | --- | -------- | ----------------- | ---- | ----------- | ------ |
+| loi         | jmive         | cu  | se zbasu | zi'o              |      | loi         | selci  |
+| The-mass-of | living-things |     | is-made  | \[without-maker\] | from | the-mass-of | cells. |
 
 :::
-
-|          |                   |      |             |        |
-| -------- | ----------------- | ---- | ----------- | ------ |
-| se zbasu | zi'o              |      | loi         | selci  |
-| is-made  | \[without-maker\] | from | the-mass-of | cells. |
 
 Note: The use of *[zi'o](/glossary/#zio)* to block up, as it were, one place of a selbri actually creates a new selbri with a different place structure. Consider the following examples:
 
@@ -1198,17 +1158,12 @@ This pro-sumti is used in relative clauses (explained in [Chapter 8](/chapter08/
 
 :::jbomupli
 
-|     |       |     |       |           |                       |
-| --- | ----- | --- | ----- | --------- | --------------------- |
-| mi  | catlu | lo  | mlatu | poi       | \[zo'e\]              |
-| I   | see   | a   | cat   | such-that | something-unspecified |
+|     |       |     |       |           |                       |       |                                         |      |              |          |
+| --- | ----- | --- | ----- | --------- | --------------------- | ----- | --------------------------------------- | ---- | ------------ | -------- |
+| mi  | catlu | lo  | mlatu | poi       | \[zo'e\]              | zbasu | ke'a                                    |      | lei          | slasi    |
+| I   | see   | a   | cat   | such-that | something-unspecified | makes | the-thing-being-relativized-\[the-cat\] | from | some-mass-of | plastic. |
 
 :::
-
-|       |                                         |      |              |          |
-| ----- | --------------------------------------- | ---- | ------------ | -------- |
-| zbasu | ke'a                                    |      | lei          | slasi    |
-| makes | the-thing-being-relativized-\[the-cat\] | from | some-mass-of | plastic. |
 
 I see a cat made of plastic.
 
@@ -1218,17 +1173,12 @@ If *[ke'a](/glossary/#kea)* were omitted from [Example 7.69](/chapter07/#example
 
 :::jbomupli
 
-|     |       |     |       |           |
-| --- | ----- | --- | ----- | --------- |
-| mi  | catlu | lo  | mlatu | poi       |
-| I   | see   | a   | cat   | such-that |
+|     |       |     |       |           |                                         |       |           |         |
+| --- | ----- | --- | ----- | --------- | --------------------------------------- | ----- | --------- | ------- |
+| mi  | catlu | lo  | mlatu | poi       | \[ke'a\]                                | zbasu | lei       | slasi   |
+| I   | see   | a   | cat   | such-that | the-thing-being-relativized-\[the-cat\] | makes | a-mass-of | plastic |
 
 :::
-
-|                                         |       |           |         |
-| --------------------------------------- | ----- | --------- | ------- |
-| \[ke'a\]                                | zbasu | lei       | slasi   |
-| the-thing-being-relativized-\[the-cat\] | makes | a-mass-of | plastic |
 
 I see a cat that makes plastic.
 
@@ -1296,17 +1246,12 @@ Bound variables belong to the predicate-logic part of Lojban, and are listed her
 
 :::jbomupli
 
-|            |       |     |        |             |       |
-| ---------- | ----- | --- | ------ | ----------- | ----- |
-| la         | djan. | cu  | lafti  | da          | poi   |
-| That-named | John  |     | raised | something-1 | which |
+|            |       |     |        |             |       |            |      |      |           |              |
+| ---------- | ----- | --- | ------ | ----------- | ----- | ---------- | ---- | ---- | --------- | ------------ |
+| la         | djan. | cu  | lafti  | da          | poi   | grana      | ku'o | gi'e | desygau   | da           |
+| That-named | John  |     | raised | something-1 | which | is-a-stick |      | and  | shake-did | something-1. |
 
 :::
-
-|            |      |      |           |              |
-| ---------- | ---- | ---- | --------- | ------------ |
-| grana      | ku'o | gi'e | desygau   | da           |
-| is-a-stick |      | and  | shake-did | something-1. |
 
 John picked up a stick and shook it.
 
