@@ -957,17 +957,12 @@ What you really want to say is:
 
 :::jbomupli
 
-|     |       |     |                      |
-| --- | ----- | --- | -------------------- |
-| mi  | viska | le  | selsinxa             |
-| I   | see   | the | thing-represented-by |
+|     |       |     |                      |     |           |     |       |             |              |
+| --- | ----- | --- | -------------------- | --- | --------- | --- | ----- | ----------- | ------------ |
+| mi  | viska | le  | selsinxa             | be  | lu        | le  | xunre | cmaxirma    | li'u         |
+| I   | see   | the | thing-represented-by |     | \[quote\] | the | red   | small-horse | \[unquote\]. |
 
 :::
-
-|     |           |     |       |             |              |
-| --- | --------- | --- | ----- | ----------- | ------------ |
-| be  | lu        | le  | xunre | cmaxirma    | li'u         |
-|     | \[quote\] | the | red   | small-horse | \[unquote\]. |
 
 The x2 place of *selsinxa* (the x1 place of *[sinxa](/glossary/#sinxa)*) is a sign or symbol, and the x1 place of *selsinxa* (the x2 place of *[sinxa](/glossary/#sinxa)*) is the thing represented by the sign. [Example 6.52](/chapter06/#example-652 "Example 6.52.") allows us to use a symbol (namely the title of a book) to represent the thing it is a symbol of (namely the book itself).
 
@@ -1037,17 +1032,12 @@ I try (to open) the door.
 
 :::jbomupli
 
-|            |       |     |           |
-| ---------- | ----- | --- | --------- |
-| lo'i       | ratcu | cu  | barda     |
-| The-set-of | rats  |     | is-large. |
+|            |       |     |           |        |                 |                   |            |
+| ---------- | ----- | --- | --------- | ------ | --------------- | ----------------- | ---------- |
+| lo'i       | ratcu | cu  | barda     | .iku'i | lu'a            | ri                | cmalu      |
+| The-set-of | rats  |     | is-large. | But    | some-members-of | it-last-mentioned | are-small. |
 
 :::
-
-|        |                 |                   |            |
-| ------ | --------------- | ----------------- | ---------- |
-| .iku'i | lu'a            | ri                | cmalu      |
-| But    | some-members-of | it-last-mentioned | are-small. |
 
 The set of rats is large, but some of its members are small.
 
@@ -1073,14 +1063,17 @@ Some rats are small, but the set of rats is large.
 | mi  | ce            | do  | girzu      |
 | I   | in-a-set-with | you | are-a-set. |
 
-:::
+|     |             |                   |            |
+| --- | ----------- | ----------------- | ---------- |
+| .i  | lu'o        | ri                | gunma      |
+|     | The-mass-of | it-last-mentioned | is-a-mass. |
 
-|      |                 |                   |               |
-| ---- | --------------- | ----------------- | ------------- |
-| *.i* | *lu'o*          | *ri*              | *gunma*       |
-|      | The-mass-of     | it-last-mentioned | is-a-mass.    |
-| *.i* | *vu'i*          | *ri*              | *porsi*       |
-|      | The-sequence-of | it-last-mentioned | is-a-sequence |
+|     |                 |                   |               |
+| --- | --------------- | ----------------- | ------------- |
+| .i  | vu'i            | ri                | porsi         |
+|     | The-sequence-of | it-last-mentioned | is-a-sequence |
+
+:::
 
 The set of you and me is a set. The mass of you and me is a mass. The sequence of you and me is a sequence.
 
@@ -1108,8 +1101,6 @@ This compound, *na'ebo*, is the most common of the four negation sumti qualifier
 | mi  | nelci | loi                 | glare       | cidja |
 | I   | like  | part-of-the-mass-of | hot-type-of | food. |
 
-:::
-
 |      |     |       |                 |                     |
 | ---- | --- | ----- | --------------- | ------------------- |
 | .ije | do  | nelci | to'ebo          | ri                  |
@@ -1120,9 +1111,10 @@ This compound, *na'ebo*, is the most common of the four negation sumti qualifier
 | .ije | la         | djein. | nelci | no'ebo               | ra                   |
 | And  | that-named | Jane   | likes | the-neutral-value-of | something-mentioned. |
 
+:::
+
 I like hot food, and you like cold food, and Jane likes lukewarm food.
 
-\
 (In [Example 6.61](/chapter06/#example-661 "Example 6.61."), the sumti *[ra](/glossary/#ra)* refers to some previously mentioned sumti other than that referred to by *[ri](/glossary/#ri)*. We cannot use *[ri](/glossary/#ri)* here, because it would signify *la djein.*, that being the most recent sumti available to *[ri](/glossary/#ri)*. See more detailed explanations in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").)*
 
 *## The syntax of vocative phrasesVocative phrases are not sumti, but are explained in this chapter because their syntax is very similar to that of sumti. Grammatically, a vocative phrase is one of the so-called “free modifiers” of Lojban, along with subscripts, parentheses, and various other constructs explained in [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts"). They can be placed after many, but not all, constructions of the grammar: in general, after any elidable terminator (which, however, must not then be elided!), at the beginnings and ends of sentences, and in many other places.The purpose of a vocative phrase is to indicate who is being addressed, or to indicate to that person that he or she ought to be listening. A vocative phrase begins with a cmavo of selma'o COI or DOI, all of which are explained in more detail in [Section 13.14](/chapter13/#1314-vocative-scales "13.14. Vocative scales"). Sometimes that is all there is to the phrase:
@@ -1428,17 +1420,12 @@ The personal pro-sumti may be interpreted in context as either representing indi
 
 :::jbomupli
 
-|     |              |       |             |
-| --- | ------------ | ----- | ----------- |
-| ro  | da           | poi   | prenu       |
-| All | somethings-1 | which | are-persons |
+|     |              |       |             |     |       |     |             |       |            |
+| --- | ------------ | ----- | ----------- | --- | ----- | --- | ----------- | ----- | ---------- |
+| ro  | da           | poi   | prenu       | cu  | prami | pa  | de          | poi   | finpe      |
+| All | somethings-1 | which | are-persons |     | love  | one | something-2 | which | is-a-fish. |
 
 :::
-
-|     |       |     |             |       |            |
-| --- | ----- | --- | ----------- | ----- | ---------- |
-| cu  | prami | pa  | de          | poi   | finpe      |
-|     | love  | one | something-2 | which | is-a-fish. |
 
 All persons love a fish (each his/her own).
 
@@ -1480,41 +1467,31 @@ I go from Frankfurt to Frankfurt (by some unstated route).
 
 :::jbomupli
 
-|     |       |            |            |
-| --- | ----- | ---------- | ---------- |
-| mi  | klama | la         | frankfurt. |
-| I   | go-to | that-named | Frankfurt  |
+|     |       |            |            |                  |                 |                       |
+| --- | ----- | ---------- | ---------- | ---------------- | --------------- | --------------------- |
+| mi  | klama | la         | frankfurt. | zo'e             | zo'e            | zo'e                  |
+| I   | go-to | that-named | Frankfurt  | from-unspecified | via-unspecified | by-means-unspecified. |
 
 :::
 
-|                  |                 |                       |
-| ---------------- | --------------- | --------------------- |
-| zo'e             | zo'e            | zo'e                  |
-| from-unspecified | via-unspecified | by-means-unspecified. |
-
 The implicit quantifier for indefinite pro-sumti is, well, indefinite. It might be *[ro](/glossary/#ro)* (all) or *[su'o](/glossary/#suo)* (at least one) or conceivably even *[no](/glossary/#no)* (none), though *[no](/glossary/#no)* would require a very odd context indeed.
 
-[*ti*](/glossary/#ti), *[ta](/glossary/#ta)*, *[tu](/glossary/#tu)*) refer to things pointed at by the speaker, or when pointing is not possible, to things near or far from the speaker:
+Demonstrative pro-sumti (*[ti](/glossary/#ti), [ta](/glossary/#ta), [tu](/glossary/#tu)*) refer to things pointed at by the speaker, or when pointing is not possible, to things near or far from the speaker:
 
 ##### Example 6.87.
 
 :::jbomupli
 
-|                    |        |
-| ------------------ | ------ |
-| ko                 | muvgau |
-| You \[imperative\] | move   |
+|                    |        |            |                        |                             |
+| ------------------ | ------ | ---------- | ---------------------- | --------------------------- |
+| ko                 | muvgau | ti         | ta                     | tu                          |
+| You \[imperative\] | move   | this-thing | from-that-nearby-place | to-that-further-away-place. |
 
 :::
 
-|            |                        |                             |
-| ---------- | ---------------------- | --------------------------- |
-| ti         | ta                     | tu                          |
-| this-thing | from-that-nearby-place | to-that-further-away-place. |
-
 Move this from there to over there!
 
-[*di'u*](/glossary/#diu), *[de'u](/glossary/#deu)*, *[da'u](/glossary/#dau)*, *[di'e](/glossary/#die)*, *[de'e](/glossary/#dee)*, *[da'e](/glossary/#dae)*, *[dei](/glossary/#dei)*, *[do'i](/glossary/#doi)*) refer to spoken or written utterances, either preceding, following, or the same as the current utterance.
+Metalinguistic pro-sumti (*[di'u](/glossary/#diu), [de'u](/glossary/#deu), [da'u](/glossary/#dau), [di'e](/glossary/#die), [de'e](/glossary/#dee), [da'e](/glossary/#dae), [dei](/glossary/#dei), [do'i](/glossary/#doi)*) refer to spoken or written utterances, either preceding, following, or the same as the current utterance.
 
 ##### Example 6.88.
 
@@ -1525,12 +1502,12 @@ Move this from there to over there!
 | li         | re  | su'i | re  | du     | li         | vo    |
 | The-number | two | plus | two | equals | the-number | four. |
 
-:::
-
 |     |                 |                        |          |
 | --- | --------------- | ---------------------- | -------- |
 | .i  | la'e            | di'u                   | jetnu    |
 |     | The-referent-of | the-previous-utterance | is-true. |
+
+:::
 
 The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)* (at least one), because they are considered analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which really are previous, current, or following utterances.
 
@@ -1540,17 +1517,12 @@ The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)*
 
 :::jbomupli
 
-|     |       |     |        |     |           |                       |
-| --- | ----- | --- | ------ | --- | --------- | --------------------- |
-| mi  | viska | le  | mlatu  | ku  | poi       | zo'e                  |
-| I   | see   | the | cat(s) |     | such-that | something-unspecified |
+|     |       |     |        |     |           |                       |       |                    |                |          |
+| --- | ----- | --- | ------ | --- | --------- | --------------------- | ----- | ------------------ | -------------- | -------- |
+| mi  | viska | le  | mlatu  | ku  | poi       | zo'e                  | zbasu | ke'a               | loi            | slasi    |
+| I   | see   | the | cat(s) |     | such-that | something-unspecified | makes | it/them-(the-cats) | from-a-mass-of | plastic. |
 
 :::
-
-|       |                    |                |          |
-| ----- | ------------------ | -------------- | -------- |
-| zbasu | ke'a               | loi            | slasi    |
-| makes | it/them-(the-cats) | from-a-mass-of | plastic. |
 
 I see the cat(s) made of plastic.
 
@@ -1651,7 +1623,8 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | ---------- | ---- |
 | li         | vo   |
 | the-number | four |
-| 4          |      |
+
+4
 
 :::
 
@@ -1663,7 +1636,8 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | ---------- | --- | ---- | --- |
 | li         | re  | su'i | re  |
 | the-number | two | plus | two |
-| 2 + 2      |     |      |     |
+
+2 + 2
 
 :::
 
@@ -1675,7 +1649,8 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | ------------ | ---- | -------- | --- | -------- | --- | ---- | --- | -------- | --- | ---- | --- |
 | li           | .abu | bi'epi'i | xy. | bi'ete'a | re  | su'i | by. | bi'epi'i | xy. | su'i | cy. |
 | the-number   | a    | times    | x   | to-power | 2   | plus | b   | times    | x   | plus | c   |
-| ax2 + bx + c |      |          |     |          |     |      |     |          |     |      |     |
+
+$ax^{2} + bx + c$
 
 :::
 
@@ -1707,7 +1682,7 @@ and
 
 :::
 
-“2+2”
+“2 + 2”
 
 refer to different pieces of text.
 
