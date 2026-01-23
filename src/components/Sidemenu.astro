@@ -26,6 +26,7 @@ const lis = mds.map((md) => {
   return {
     title: match,
     url: md.url,
+    long: title,
   };
 });
 
@@ -40,14 +41,14 @@ lis.sort((a, b) => {
 const { currentUrl, class: className } = Astro.props;
 ---
 
-<ul class=`${className}`>
-  <li><a href='/'>Top</a></li>
+<ul class={className}>
+  <li><a href='/' title='Top Page'>Top</a></li>
   {
     lis.map((p) => {
       const isCurrent = p.url === currentUrl;
       return (
         <li>
-          <a href={p.url} aria-current={isCurrent}>
+          <a href={p.url} aria-current={isCurrent} title={p.long}>
             {p.title}
           </a>
         </li>

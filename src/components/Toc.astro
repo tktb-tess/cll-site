@@ -20,32 +20,38 @@ export type { H2Content, H3Content, H4Content };
 
 interface Props {
   readonly contents: H2Content[];
-  readonly isTitle?: boolean;
+  readonly isAside?: boolean;
   readonly class?: string;
 }
 
-const { contents, class: className, isTitle = false } = Astro.props;
+const { contents, class: className, isAside = false } = Astro.props;
 ---
 
-<ul class={className} data-is-title={isTitle}>
+<ul class={className} data-is-aside={isAside}>
   {
     contents.map((content) => (
       <li>
         <p>
-          <a href={content.url}>{content.text}</a>
+          <a href={content.url} title={content.text}>
+            {content.text}
+          </a>
         </p>
         {content.h3.length > 0 && (
           <ul>
             {content.h3.map((h3) => (
               <li>
                 <p>
-                  <a href={h3.url}>{h3.text}</a>
+                  <a href={h3.url} title={h3.text}>
+                    {h3.text}
+                  </a>
                 </p>
                 {h3.h4.length > 0 && (
                   <ul>
                     {h3.h4.map((h4) => (
                       <li>
-                        <a href={h4.url}>{h4.text}</a>
+                        <a href={h4.url} title={h4.text}>
+                          {h4.text}
+                        </a>
                       </li>
                     ))}
                   </ul>
@@ -62,21 +68,11 @@ const { contents, class: className, isTitle = false } = Astro.props;
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    ul:not([data-is-title="true"]) {
-      @apply list-none ps-0;
+    ul[data-is-aside="true"]:not(li > &) {
+      @apply list-none ps-0 flex flex-col gap-0.5;
       a {
-        @apply block no-underline;
+        @apply block no-underline hover:underline opacity-100;
       }
     }
   }
 </style>
-
-<script>
-  const details = document.getElementById('toc-details') as HTMLDetailsElement;
-  const summary = details.querySelector('summary')!;
-  summary.addEventListener('click', (ev) => {
-    ev.preventDefault();
-    details.open = !details.open;
-    summary.textContent = details.open ? 'hide' : 'show';
-  });
-</script>
