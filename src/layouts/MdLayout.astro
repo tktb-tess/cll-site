@@ -116,7 +116,7 @@ for (const { depth, text, slug } of filtered) {
           id='drawer-close-btn'
           type='button'
           title='Close sidemenu'
-          class='block ms-auto p-2'
+          class='block ms-auto p-2 hover:text-black/60 transition-colors'
         >
           <CloseIcon class='inline-block fill-current size-6' />
         </button>
@@ -164,7 +164,7 @@ for (const { depth, text, slug } of filtered) {
   @reference '../styles/globals.css';
   @layer components {
     #drawer-backdrop {
-      @apply fixed z-1000 invisible data-open:visible inset-0 w-lvw h-lvh bg-transparent
+      @apply fixed z-1000 invisible data-open:visible inset-0 w-svw h-svh bg-transparent
       data-open:bg-black/40 transition-[background-color,visibility];
     }
 

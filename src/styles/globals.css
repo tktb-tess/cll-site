@@ -8,6 +8,7 @@
     'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif SC',
     'Segoe UI', serif, system-ui;
   --font-ipa: var(--font-serif);
+  --default-transition-duration: 110ms;
   --color-bg: #fff;
   --color-d-bg: var(--color-slate-950);
   --color-side: var(--color-slate-100);
