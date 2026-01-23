@@ -112,12 +112,7 @@ for (const { depth, text, slug } of filtered) {
   <main class='flex flex-col lg:flex-row *:min-w-0'>
     <div id='drawer-backdrop'>
       <aside id='drawer'>
-        <button
-          id='drawer-close-btn'
-          type='button'
-          title='Close sidemenu'
-          class='block ms-auto p-2 hover:text-black/60 transition-colors'
-        >
+        <button id='drawer-close-btn' type='button' title='Close sidemenu'>
           <CloseIcon class='inline-block fill-current size-6' />
         </button>
         <Sidemenu currentUrl={url} />
@@ -175,6 +170,10 @@ for (const { depth, text, slug } of filtered) {
       [data-open] > & {
         @apply translate-x-0;
       }
+    }
+
+    #drawer-close-btn {
+      @apply block ms-auto p-2 hover:text-black/60 transition-colors;
     }
 
     :global(:is(html, body):has([data-open])) {
