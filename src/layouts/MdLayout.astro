@@ -9,6 +9,7 @@ import Sidemenu from '../components/Sidemenu.astro';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import Toc from '../components/Toc.astro';
 import LinkExt from '../components/LinkExt.astro';
+import CloseIcon from '../components/CloseIcon.svg';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -20,12 +21,16 @@ const { frontmatter, headings, url = '/' } = Astro.props;
 const imgData = await (async () => {
   const str = url.match(/chapter(\d+)/)?.[1] ?? '';
   const num = Number.parseInt(str);
+
   if (!Number.isFinite(num)) return;
-  const img: ImageMetadata = (
-    await import(`../assets/chapter${num.toString().padStart(2, '0')}.gif`)
-  ).default;
+  const nStr = num.toString().padStart(2, '0');
+  const img: ImageMetadata = (await import(`../assets/chapter${nStr}.gif`))
+    .default;
   return { src: img, alt: `The picture for chapter ${num}` } as const;
 })();
+
+const shortTitle =
+  frontmatter.title.match(/Chapter\s\d+/u)?.[0] ?? frontmatter.title;
 
 const contents: H2Content[] = [];
 const filtered = headings.filter(({ depth }) => depth < 5);
@@ -86,22 +91,54 @@ for (const { depth, text, slug } of filtered) {
 }
 ---
 
-<Head title={frontmatter.title} {url} description={frontmatter.description}>
-  <header class="gbg-accent h-16">
-    <nav class='flex h-full items-center w:mb-0 w:min-w-0 px-8'>
-      <a href="/" class="no-underline text-4xl font-extralight">CLL</a>
-      <button type="button" class="ms-auto">
+<Head title={shortTitle} {url} description={frontmatter.description}>
+  <header class='gbg-accent h-16'>
+    <nav class='flex h-full items-center *:mb-0 *:min-w-0 px-8'>
+      <a
+        href='/'
+        class='no-underline text-4xl font-extralight'
+        title='Top Page'
+      >
+        CLL
+      </a>
+      <button
+        type='button'
+        id='drawer-btn'
+        class='max-lg:block lg:hidden ms-auto hover:opecity-60 transition-opacity'
+        title='Open sidemenu'
+      >
         <ListIcon class='size-6 fill-current inline-block' />
       </button>
     </nav>
   </header>
-  <main class='flex flex-col lg:flex-row w:min-w-0'>
+  <main class='flex flex-col lg:flex-row *:min-w-0'>
+    <div
+      id='drawer-backdrop'
+      class='fixed z-1000 invisible data-open:visible inset-0 bg-transparent
+      data-open:bg-black/40 transition-[background-color,visibility]'
+    >
+      <aside
+        id='drawer'
+        class='-translate-x-65 [[data-open]>&]:translate-x-0 h-full w-64
+        cbg-side overflow-x-auto py-2 transition-transform'
+      >
+        <button
+          id='drawer-close-btn'
+          type='button'
+          title='Close sidemenu'
+          class='block ms-auto p-2'
+        >
+          <CloseIcon class='inline-block fill-current size-6' />
+        </button>
+        <Sidemenu currentUrl={url} />
+      </aside>
+    </div>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class='h-screen overflow-y-auto sticky top-0 px-4 py-2'>
+      <div class='h-screen overflow-y-auto sticky top-0 px-1 py-2'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
-    <section aria-label="The text" class='cbg-bg px-4 lg:flex-[0_1_80rem]'>
+    <section aria-label='The text' class='cbg-bg px-4 lg:flex-[0_1_80rem]'>
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
@@ -116,7 +153,7 @@ for (const { depth, text, slug } of filtered) {
       <slot />
     </section>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class="h-screen overflow-y-auto sticky top-0 px-4 py-2">
+      <div class='h-screen overflow-y-auto sticky top-0 px-3 py-2'>
         <Toc {contents} isAside />
       </div>
     </aside>
@@ -128,3 +165,29 @@ for (const { depth, text, slug } of filtered) {
   </footer>
   <ToTopBtn />
 </Head>
+
+<script>
+  const drawerBackdrop = document.getElementById(
+    'drawer-backdrop',
+  ) as HTMLDivElement;
+  const drawerBtn = document.getElementById('drawer-btn') as HTMLButtonElement;
+  const drawerCloseBtn = document.getElementById(
+    'drawer-close-btn',
+  ) as HTMLButtonElement;
+  drawerBtn.addEventListener('click', () => {
+    drawerBackdrop.dataset.open = '';
+
+    setTimeout(() => {
+      drawerCloseBtn.focus();
+    }, 10);
+  });
+
+  drawerBackdrop.addEventListener('click', (ev) => {
+    if (ev.target !== ev.currentTarget) return;
+    delete drawerBackdrop.dataset.open;
+  });
+
+  drawerCloseBtn.addEventListener('click', () => {
+    delete drawerBackdrop.dataset.open;
+  });
+</script>

@@ -30,11 +30,11 @@ const mds = mds_.map(({ frontmatter, url }): H2Content => {
 });
 
 mds.sort((a, b) => {
-  const aUrl_ = data.findIndex((d) => d.url === a.url);
-  const bUrl_ = data.findIndex((d) => d.url === b.url);
-  const aUrl = aUrl_ > -1 ? aUrl_ : Infinity;
-  const bUrl = bUrl_ > -1 ? bUrl_ : Infinity;
-  return aUrl - bUrl;
+  const a_ = data.findIndex((d) => d.url === a.url);
+  const b_ = data.findIndex((d) => d.url === b.url);
+  const aIndex = a_ > -1 ? a_ : Infinity;
+  const bIndex = b_ > -1 ? b_ : Infinity;
+  return aIndex - bIndex;
 });
 
 const title = `The Complete Lojban Language`;
