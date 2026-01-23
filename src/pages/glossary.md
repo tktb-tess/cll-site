@@ -3,7 +3,7 @@ layout: ../layouts/MdLayout.astro
 title: 'Lojban Word Glossary'
 ---
 
-<div class="[&_:where(p)]:wrap-anywhere">
+<div class="[:where(&_p)]:wrap-anywhere">
 
 All definitions in this glossary are brief and unofficial. Only the published dictionary is a truly official reference for word definitions. These definitions are here simply as a quick reference.
 

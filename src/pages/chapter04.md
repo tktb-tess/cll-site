@@ -11,8 +11,6 @@ However, Lojban does have what is called “derivational morphology”: the capa
 
 A stream of Lojban sounds can be uniquely broken up into its component words according to specific rules. These so-called “morphology rules” are summarized in this chapter. (However, a detailed algorithm for breaking sounds into words has not yet been fully debugged, and so is not presented in this book.) First, here are some conventions used to talk about groups of Lojban letters, including vowels and consonants.
 
-<div class="table-scrollable">
-
 1. V represents any single Lojban vowel except *y*; that is, it represents *a*, *e*, *i*, *o*, or *u*.
 2. VV represents either a diphthong, one of the following:
 
@@ -50,8 +48,6 @@ A stream of Lojban sounds can be uniquely broken up into its component words acc
 
 5. C/C represents two adjacent consonants which constitute one of the permissible consonant pairs (not necessarily a permissible initial consonant pair). The permissible consonant pairs are explained in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters"). In brief, any consonant pair is permissible unless it: contains two identical letters, contains both a voiced (excluding *r*, *l*, *m*, *n*) and an unvoiced consonant, or is one of certain specified forbidden pairs.
 6. C/CC represents a consonant triple. The first two consonants must constitute a permissible consonant pair; the last two consonants must constitute a permissible initial consonant pair.
-
-</div>
 
 Lojban has three basic word classes – parts of speech – in contrast to the eight that are traditional in English. These three classes are called cmavo, brivla, and cmene. Each of these classes has uniquely identifying properties – an arrangement of letters that allows the word to be uniquely and unambiguously recognized as a separate word in a string of Lojban, upon either reading or hearing, and as belonging to a specific word-class.
 
@@ -566,7 +562,7 @@ For example, *[zmadu](/glossary/#zmadu)* (“more than”) has the two short raf
 
 There are at most one CVC-form, one CCV-form, and one CVV-form rafsi per gismu. In fact, only a tiny handful of gismu have both a CCV-form and a CVV-form rafsi assigned, and still fewer have all three forms of short rafsi. However, gismu with both a CVC-form and another short rafsi are fairly common, partly because more possible CVC-form rafsi exist. Yet CVC-form rafsi, even though they are fairly easy to remember, cannot be used at the end of a lujvo (because lujvo must end in vowels), so justifying the assignment of an additional short rafsi to many gismu.
 
-The intention was to use the available “rafsi space” \- the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
+The intention was to use the available “rafsi space” – the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
 
 *[sakli](/glossary/#sakli)*. The digits in the second column represent the gismu letters used to form the rafsi.
 

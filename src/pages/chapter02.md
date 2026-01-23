@@ -101,8 +101,6 @@ Other Lojban spelling versions are possible for names from other languages, and 
 
 Here is a short table of some words used as Lojban selbri in this chapter:
 
-<div class="table-scrollable">
-
 |                                |                                                                                                            |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------- |
 | *[vecnu](/glossary/#vecnu)*    | x1 (seller) sells x2 (goods) to x3 (buyer) for x4 (price)                                                  |
@@ -119,8 +117,6 @@ Here is a short table of some words used as Lojban selbri in this chapter:
 | *[kanro](/glossary/#kanro)*    | x1 is healthy by standard x2                                                                               |
 | *[stali](/glossary/#stali)*    | x1 stays/remains with x2                                                                                   |
 | *[zarci](/glossary/#zarci)*    | x1 is a market/store/shop selling x2 (products) operated by x3 (storekeeper)                               |
-
-</div>
 
 Each selbri (relation) has a specific rule that defines the role of each sumti in the bridi, based on its position. In the table above, that order was expressed by labeling the sumti positions as x1, x2, x3, x4, and x5.
 
