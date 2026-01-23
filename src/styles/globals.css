@@ -30,6 +30,8 @@
   --color-d-sidemenu-text: #000;
   --grad-accent: linear-gradient(to bottom in oklch, var(--color-violet-50), var(--color-violet-200));
   --grad-d-accent: linear-gradient(to bottom in oklch, var(--color-violet-800), var(--color-violet-950));
+  --grad-accent-2: linear-gradient(to bottom in oklch, var(--color-sky-50), var(--color-sky-100));
+  --grad-d-accent-2: linear-gradient(to bottom in oklch, var(--color-sky-900), var(--color-sky-950));
 }
 
 @utility cbg-* {
@@ -157,7 +159,7 @@
 
   .jbomupli {
     @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      gbg-accent border cborder-border rounded;
+      gbg-accent-2 border cborder-border rounded;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
