@@ -20,14 +20,14 @@ export type { H2Content, H3Content, H4Content };
 
 interface Props {
   readonly contents: H2Content[];
-  readonly isTitle?: boolean;
+  readonly isAside?: boolean;
   readonly class?: string;
 }
 
-const { contents, class: className, isTitle = false } = Astro.props;
+const { contents, class: className, isAside = false } = Astro.props;
 ---
 
-<ul class={className} data-is-title={isTitle}>
+<ul class={className} data-is-aside={isAside}>
   {
     contents.map((content) => (
       <li>
@@ -62,21 +62,11 @@ const { contents, class: className, isTitle = false } = Astro.props;
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    ul:not([data-is-title="true"]) {
-      @apply list-none ps-0;
+    ul[data-is-aside="true"]:not(li > &) {
+      @apply list-none ps-0 flex flex-col gap-0.5;
       a {
-        @apply block no-underline;
+        @apply block no-underline hover:underline opacity-100;
       }
     }
   }
 </style>
-
-<script>
-  const details = document.getElementById('toc-details') as HTMLDetailsElement;
-  const summary = details.querySelector('summary')!;
-  summary.addEventListener('click', (ev) => {
-    ev.preventDefault();
-    details.open = !details.open;
-    summary.textContent = details.open ? 'hide' : 'show';
-  });
-</script>

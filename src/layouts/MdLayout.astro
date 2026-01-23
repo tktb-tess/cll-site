@@ -87,21 +87,21 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Head title={frontmatter.title} {url} description={frontmatter.description}>
-  <header>
-    <nav class='flex h-16 items-center *:mb-0 *:min-w-0'>
-      <a href="/" class="no-underline text-4xl font-extralight ps-8">CLL</a>
-      <button type="button" class="ms-auto px-8">
+  <header class="gbg-accent h-16">
+    <nav class='flex h-full items-center w:mb-0 w:min-w-0 px-8'>
+      <a href="/" class="no-underline text-4xl font-extralight">CLL</a>
+      <button type="button" class="ms-auto">
         <ListIcon class='size-6 fill-current inline-block' />
       </button>
     </nav>
   </header>
-  <main class='flex flex-col lg:flex-row *:min-w-0'>
+  <main class='flex flex-col lg:flex-row w:min-w-0'>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
       <div class='h-screen overflow-y-auto sticky top-0 px-4 py-2'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
-    <section class='cbg-bg px-4 lg:flex-[0_1_80rem]'>
+    <section aria-label="The text" class='cbg-bg px-4 lg:flex-[0_1_80rem]'>
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
@@ -117,7 +117,7 @@ for (const { depth, text, slug } of filtered) {
     </section>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
       <div class="h-screen overflow-y-auto sticky top-0 px-4 py-2">
-        <Toc {contents} />
+        <Toc {contents} isAside />
       </div>
     </aside>
   </main>

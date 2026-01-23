@@ -40,7 +40,7 @@ lis.sort((a, b) => {
 const { currentUrl, class: className } = Astro.props;
 ---
 
-<ul class=`${className}`>
+<ul class={className}>
   <li><a href='/'>Top</a></li>
   {
     lis.map((p) => {

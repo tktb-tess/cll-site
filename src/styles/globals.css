@@ -28,6 +28,8 @@
   --color-d-sidemenu-bg: var(--color-violet-400);
   --color-sidemenu-text: #fff;
   --color-d-sidemenu-text: #000;
+  --grad-accent: linear-gradient(to bottom in oklch, var(--color-violet-50), var(--color-violet-100));
+  --grad-d-accent: linear-gradient(to bottom in oklch, var(--color-violet-900), var(--color-violet-950));
 }
 
 @utility cbg-* {
@@ -35,6 +37,13 @@
 
   @media (prefers-color-scheme: dark) {
     background-color: --value(--color-d- *);
+  }
+}
+
+@utility gbg-* {
+  background-image: --value(--grad-*);
+  @media (prefers-color-scheme: dark) {
+    background-image: --value(--grad-d-*);
   }
 }
 
@@ -65,10 +74,6 @@
 
   a {
     @apply underline hover:opacity-60 transition-opacity;
-  }
-
-  header {
-    @apply cbg-accent grad-1;
   }
 
   footer {
@@ -152,7 +157,7 @@
 
   .jbomupli {
     @apply flex flex-[0_0_max-content] flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      cbg-accent border cborder-border rounded grad-1;
+      gbg-accent border cborder-border rounded;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border;
@@ -188,4 +193,15 @@
   grid-template-columns: repeat(--value(integer), max-content);
 }
 
+@custom-variant w {
+  :where(& > *) {
+    @slot;
+  }
+}
+
+@custom-variant ww {
+  :where(& *) {
+    @slot;
+  }
+}
 
