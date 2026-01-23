@@ -92,7 +92,7 @@ for (const { depth, text, slug } of filtered) {
 ---
 
 <Head title={shortTitle} {url} description={frontmatter.description}>
-  <header class='gbg-accent h-12 sticky top-0'>
+  <header class='gbg-accent h-12 sticky top-0 z-1'>
     <nav class='flex h-full items-center *:mb-0 *:min-w-0 px-8'>
       <a
         href='/'
@@ -112,8 +112,8 @@ for (const { depth, text, slug } of filtered) {
     </nav>
   </header>
   <main class='flex flex-col lg:flex-row *:min-w-0'>
-    <div id='drawer-backdrop' class=''>
-      <aside id='drawer' class=''>
+    <div id='drawer-backdrop'>
+      <aside id='drawer'>
         <button
           id='drawer-close-btn'
           type='button'
@@ -126,7 +126,7 @@ for (const { depth, text, slug } of filtered) {
       </aside>
     </div>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class='h-screen overflow-y-auto sticky top-0 px-1 py-2'>
+      <div class='h-screen overflow-y-auto sticky top-12 z-0 px-1 py-2'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
@@ -145,7 +145,7 @@ for (const { depth, text, slug } of filtered) {
       <slot />
     </section>
     <aside class='hidden lg:block lg:flex-[1_0_14rem]'>
-      <div class='h-screen overflow-y-auto sticky top-0 px-3 py-2'>
+      <div class='h-screen overflow-y-auto sticky top-12 z-0 px-3 py-2'>
         <Toc {contents} isAside />
       </div>
     </aside>
