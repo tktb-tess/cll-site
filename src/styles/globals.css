@@ -96,7 +96,7 @@
   }
 
   footer {
-    @apply flex justify-center my-6;
+    @apply flex justify-center my-2;
   }
 
   button {

@@ -15,6 +15,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
+  integrations: [svelte()],
   server: {
     port: 8000,
   },
@@ -31,5 +32,4 @@ export default defineConfig({
     },
     smartypants: false,
   },
-  integrations: [svelte()],
 });
