@@ -1624,9 +1624,9 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | li         | vo   |
 | the-number | four |
 
-4
-
 :::
+
+4
 
 ##### Example 6.96.
 
@@ -1637,9 +1637,9 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | li         | re  | su'i | re  |
 | the-number | two | plus | two |
 
-2 + 2
-
 :::
+
+2 + 2
 
 ##### Example 6.97.
 
@@ -1650,9 +1650,9 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 | li           | .abu | bi'epi'i | xy. | bi'ete'a | re  | su'i | by. | bi'epi'i | xy. | su'i | cy. |
 | the-number   | a    | times    | x   | to-power | 2   | plus | b   | times    | x   | plus | c   |
 
-$ax^{2} + bx + c$
-
 :::
+
+$ax^{2} + bx + c$
 
 An alternative to *[li](/glossary/#li)* is *[me'o](/glossary/#meo)*, also of selma'o LI. Number expressions beginning with *[me'o](/glossary/#meo)* refer to the actual expression, rather than its value. Thus [Example 6.95](/chapter06/#example-695 "Example 6.95.") and [Example 6.96](/chapter06/#example-696 "Example 6.96.") above have the same meaning, the number four, whereas
 
