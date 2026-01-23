@@ -28,8 +28,8 @@
   --color-d-sidemenu-bg: var(--color-violet-400);
   --color-sidemenu-text: #fff;
   --color-d-sidemenu-text: #000;
-  --grad-accent: linear-gradient(to bottom in oklch, var(--color-violet-50), var(--color-violet-100));
-  --grad-d-accent: linear-gradient(to bottom in oklch, var(--color-violet-900), var(--color-violet-950));
+  --grad-accent: linear-gradient(to bottom in oklch, var(--color-violet-50), var(--color-violet-200));
+  --grad-d-accent: linear-gradient(to bottom in oklch, var(--color-violet-800), var(--color-violet-950));
 }
 
 @utility cbg-* {
