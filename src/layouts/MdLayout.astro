@@ -114,13 +114,13 @@ for (const { depth, text, slug } of filtered) {
   <main class='flex flex-col lg:flex-row *:min-w-0'>
     <div
       id='drawer-backdrop'
-      class='fixed z-1000 invisible data-open:visible inset-0 bg-transparent
+      class='fixed z-1000 invisible data-open:visible inset-0 w-lvw h-lvh bg-transparent
       data-open:bg-black/40 transition-[background-color,visibility]'
     >
       <aside
         id='drawer'
         class='-translate-x-65 [[data-open]>&]:translate-x-0 h-full w-64
-        cbg-side overflow-x-auto py-2 transition-transform'
+        cbg-side overflow-x-auto px-2 py-2 transition-transform'
       >
         <button
           id='drawer-close-btn'
