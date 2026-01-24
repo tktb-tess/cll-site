@@ -159,15 +159,15 @@ for (const { depth, text, slug } of filtered) {
   @reference '../styles/globals.css';
   @layer components {
     #drawer-backdrop {
-      @apply fixed z-1000 invisible data-open:visible inset-0 w-dvw h-dvh bg-transparent
-      data-open:bg-black/40 transition-[background-color,visibility];
+      @apply fixed z-1000 invisible data-drawer-open:visible inset-0 w-dvw h-dvh bg-transparent
+      data-drawer-open:bg-black/40 transition-[background-color,visibility];
     }
 
     #drawer {
       @apply -translate-x-65 h-full w-64
       cbg-side overflow-x-auto px-2 py-2 transition-transform;
 
-      [data-open] > & {
+      [data-drawer-open] > & {
         @apply translate-x-0;
       }
     }
@@ -176,7 +176,7 @@ for (const { depth, text, slug } of filtered) {
       @apply block ms-auto p-2 hover:text-black/60 transition-colors;
     }
 
-    :global(:is(html, body):has([data-open])) {
+    :global(:where(html, body):has([data-drawer-open])) {
       @apply overflow-y-clip;
     }
   }
@@ -191,7 +191,7 @@ for (const { depth, text, slug } of filtered) {
     'drawer-close-btn',
   ) as HTMLButtonElement;
   drawerBtn.addEventListener('click', () => {
-    drawerBackdrop.dataset.open = '';
+    drawerBackdrop.dataset.drawerOpen = '';
 
     setTimeout(() => {
       drawerCloseBtn.focus();
@@ -200,10 +200,10 @@ for (const { depth, text, slug } of filtered) {
 
   drawerBackdrop.addEventListener('click', (ev) => {
     if (ev.target !== ev.currentTarget) return;
-    delete drawerBackdrop.dataset.open;
+    delete drawerBackdrop.dataset.drawerOpen;
   });
 
   drawerCloseBtn.addEventListener('click', () => {
-    delete drawerBackdrop.dataset.open;
+    delete drawerBackdrop.dataset.drawerOpen;
   });
 </script>

@@ -211,15 +211,3 @@
 @utility grid-cols-max-* {
   grid-template-columns: repeat(--value(integer), max-content);
 }
-
-@custom-variant w {
-  :where(& > *) {
-    @slot;
-  }
-}
-
-@custom-variant ww {
-  :where(& *) {
-    @slot;
-  }
-}

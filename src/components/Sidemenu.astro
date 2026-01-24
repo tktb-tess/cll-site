@@ -48,7 +48,7 @@ const { currentUrl, class: className } = Astro.props;
       const isCurrent = p.url === currentUrl;
       return (
         <li>
-          <a href={p.url} aria-current={isCurrent} title={p.long}>
+          <a href={p.url} aria-current={isCurrent || null} title={p.long}>
             {p.title}
           </a>
         </li>
