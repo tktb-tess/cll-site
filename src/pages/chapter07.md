@@ -431,14 +431,10 @@ Just as the ko'a-series of pro-sumti allows a substitute for a sumti which is lo
 
 ##### Example 7.25.
 
-:::jbomupli
-
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
 | ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu |
 | These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small. |
-
-:::
 
 The pro-bridi *[broda](/glossary/#broda)* has as its antecedent the selbri *slasi je mlatu bo cidja lante gacri*. The cmavo *[cei](/glossary/#cei)* performs the role of *[goi](/glossary/#goi)* in assigning *[broda](/glossary/#broda)* to this long phrase, and *[broda](/glossary/#broda)* can then be used just like any other brivla. (In fact, *[broda](/glossary/#broda)* and its relatives actually *are* brivla: they are gismu in morphology, although they behave exactly like the members of selma'o GOhA. The reasons for using gismu rather than cmavo are buried in the Loglan Project's history.)
 
@@ -661,7 +657,7 @@ Is John your name? Yes.
 
 :::
 
-I go to the store . You, too.
+I go to the store. You, too.
 
 Note that [Example 7.38](/chapter07/#example-738 "Example 7.38.") means the same as [Example 7.26](/chapter07/#example-726 "Example 7.26."), but without the bother of assigning an actual broda-series word to the first bridi. For long-term reference, use *go'i cei broda* or the like, analogously to *ri goi ko'a* in [Example 7.36](/chapter07/#example-736 "Example 7.36.").
 
@@ -698,7 +694,7 @@ Here B's sentence repeats A's within an abstraction (explained in [Chapter 11](/
 
 ##### Example 7.40.
 
-mi nelci le si'o go'i
+- *mi nelci le si'o go'i*
 
 that would mean:
 
@@ -729,20 +725,10 @@ The cmavo *[go'o](/glossary/#goo)*, *[nei](/glossary/#nei)*, and *[no'a](/glossa
 
 :::jbomupli
 
-|     |         |     |          |     |                          |
-| --- | ------- | --- | -------- | --- | ------------------------ |
-| mi  | nupre   | le  | nu       | mi  | go'o                     |
-| I   | promise | the | event-of | I   | \[repeat-future-bridi\]. |
-
-|     |            |       |     |       |     |     |       |
-| --- | ---------- | ----- | --- | ----- | --- | --- | ----- |
-| .i  | ba         | dunda | le  | djini |     | le  | bersa |
-|     | \[Future\] | give  | the | money | to  | the | son   |
-
-|     |            |       |     |       |     |     |          |
-| --- | ---------- | ----- | --- | ----- | --- | --- | -------- |
-| .i  | ba         | dunda | le  | zdani |     | le  | tixnu    |
-|     | \[Future\] | give  | the | house | to  | the | daughter |
+|     |         |     |          |     |                          |     |            |       |     |       |     |     |       |     |            |       |     |       |     |     |          |
+| --- | ------- | --- | -------- | --- | ------------------------ | --- | ---------- | ----- | --- | ----- | --- | --- | ----- | --- | ---------- | ----- | --- | ----- | --- | --- | -------- |
+| mi  | nupre   | le  | nu       | mi  | go'o                     | .i  | ba         | dunda | le  | djini |     | le  | bersa | .i  | ba         | dunda | le  | zdani |     | le  | tixnu    |
+| I   | promise | the | event-of | I   | \[repeat-future-bridi\]. |     | \[Future\] | give  | the | money | to  | the | son   |     | \[Future\] | give  | the | house | to  | the | daughter |
 
 :::
 
@@ -782,25 +768,28 @@ Finally, *[ra'o](/glossary/#rao)* is a cmavo that can be appended to any go'i-se
 
 ##### Example 7.45.
 
-mi ba lumci le mi karce
-
-I will wash my car.
+|                         |
+| ----------------------- |
+| mi ba lumci le mi karce |
+| I will wash my car.     |
 
 you might reply either:
 
 ##### Example 7.46.
 
-mi go'i
-
-I will wash your car.
+|                       |
+| --------------------- |
+| mi go'i               |
+| I will wash your car. |
 
 or:
 
 ##### Example 7.47.
 
-mi go'i ra'o
-
-I will wash my car.
+|                     |
+| ------------------- |
+| mi go'i ra'o        |
+| I will wash my car. |
 
 The *[ra'o](/glossary/#rao)* forces the second *[mi](/glossary/#mi)* from the original bridi to mean the new speaker rather than the former speaker. This means that *go'e ra'o* would be an acceptable alternative to *do go'e* in B's statement in [Example 7.39](/chapter07/#example-739 "Example 7.39.").
 
@@ -980,15 +969,17 @@ The cmavo of the vo'a-series are pro-sumti anaphora, like those of the ri-series
 
 ##### Example 7.57.
 
-mi lumci vo'a
-
-I wash myself
+|               |
+| ------------- |
+| mi lumci vo'a |
+| I wash myself |
 
 ##### Example 7.58.
 
-mi klama le zarci vo'e
-
-I go to the store from itself \[by some route unspecified\].
+|                                                              |
+| ------------------------------------------------------------ |
+| mi klama le zarci vo'e                                       |
+| I go to the store from itself \[by some route unspecified\]. |
 
 To refer to places of neighboring bridi, constructions like *le se go'i ku* do the job: this refers to the 2nd place of the previous main bridi, as explained in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
@@ -1026,9 +1017,15 @@ Of course, other places can be involved, and other sumti may be used in place of
 
 ##### Example 7.61.
 
-mi bajykla ti ta soi vo'e -
+:::jbomupli{jbo='[0,1,2]'}
+
+|                                |
+| ------------------------------ |
+| mi bajykla ti ta soi vo'e -    |
 | mi bajykla ti ta soi vo'e vo'i |
 | soi vo'e vo'i mi bajykla ti ta |
+
+:::
 
 I runningly-go to this from that and vice versa (to that from this).
 
@@ -1075,9 +1072,10 @@ The cmavo *[mo](/glossary/#mo)*, on the other hand, asks for a selbri which make
 
 ##### Example 7.64.
 
-do mo
-
-What predicate is true as applied to you?
+|                                           |
+| ----------------------------------------- |
+| do mo                                     |
+| What predicate is true as applied to you? |
 | How are you?                              |
 | What are you doing?                       |
 | What are you?                             |
@@ -1209,8 +1207,8 @@ In brief: Every property abstraction specifies a property of one of the sumti in
 
 :::
 
-the property of being happy
-| happiness                   |
+the property of being happy  
+happiness
 
 and
 
@@ -1356,7 +1354,7 @@ An anticipated use of rafsi for cmavo in the *[fo'a](/glossary/#foa)* series is 
 
 Finally, lujvo involving *[zi'o](/glossary/#zio)* are also possible, and are fully discussed in [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures"). In brief, the convention is to use the rafsi for *[zi'o](/glossary/#zio)* as a prefix immediately followed by the rafsi for the number of the place to be deleted. Thus, if we consider a beverage (something drunk without considering who, if anyone, drinks it) as a *se pinxe be zi'o*, the lujvo corresponding to this is *zilrelselpinxe* (deleting the second place of *se pinxe*). Deleting the x1 place in this fashion would move all remaining places up by one. This would mean that *zilpavypinxe* has the same place structure as *zilrelselpinxe*, and *lo zilpavypinxe*, like *lo zilrelselpinxe*, refers to a beverage, and not to a non-existent drinker.
 
-The pro-bridi *[co'e](/glossary/#coe)*, *[du](/glossary/#du)*, and *[bu'a](/glossary/#bua)* also have rafsi, which can be used just as if they were gismu. The resulting lujvo have (except for *du-*&#x62;ased lujvo) highly context-dependent meanings.
+The pro-bridi *[co'e](/glossary/#coe)*, *[du](/glossary/#du)*, and *[bu'a](/glossary/#bua)* also have rafsi, which can be used just as if they were gismu. The resulting lujvo have (except for *du-*based lujvo) highly context-dependent meanings.
 
 ## 7.16. KOhA cmavo by series
 
