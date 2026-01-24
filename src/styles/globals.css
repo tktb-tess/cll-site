@@ -179,7 +179,7 @@
       gbg-accent-2 border cborder-border rounded;
 
     > div {
-      @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_0_max-content];
+      @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];
 
       > p {
         @apply min-w-0 min-h-7 m-0 px-3;
