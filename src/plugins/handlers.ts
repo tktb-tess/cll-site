@@ -132,7 +132,7 @@ export const containerDirectiveHandler: Handler = (
       const p = JSON.parse(j);
       return v.parse(langPositionSchema, p);
     })();
-    const class_ = node.attributes?.class ?? '';
+    const className = node.attributes?.class ?? '';
     return tables.map((table) => {
       const trs = table.children.slice(1);
       const maxCol = trs
@@ -143,10 +143,11 @@ export const containerDirectiveHandler: Handler = (
         type: 'element',
         tagName: 'div',
         properties: {
-          class: ['jbomupli', class_],
+          class: ['jbomupli', className],
         },
         children: [],
       };
+
       for (let i = 0; i < maxCol; i++) {
         const col: Element = {
           type: 'element',
@@ -154,6 +155,7 @@ export const containerDirectiveHandler: Handler = (
           properties: {},
           children: [],
         };
+
         for (const [j, tr] of trs.entries()) {
           const cont = tr.children.at(i)?.children ?? [];
           const children = cont.map(phrasingToHast);
@@ -166,6 +168,7 @@ export const containerDirectiveHandler: Handler = (
                 pos[0] === j && pos[1] === i;
               }
             }) > -1;
+
           col.children.push({
             type: 'element',
             tagName: 'p',

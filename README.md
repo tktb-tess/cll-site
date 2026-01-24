@@ -21,4 +21,3 @@ pnpm run build
 ```
 
 After executing above commands, it will be generated in the `./dist` directory.
-
