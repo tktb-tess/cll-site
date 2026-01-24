@@ -431,10 +431,14 @@ Just as the ko'a-series of pro-sumti allows a substitute for a sumti which is lo
 
 ##### Example 7.25.
 
-|                                                                                                          |
-| -------------------------------------------------------------------------------------------------------- |
-| *ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu* |
-| These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small.   |
+:::jbomupli
+
+|                                                                                                        |
+| ------------------------------------------------------------------------------------------------------ |
+| ti slasi je mlatu bo cidja lante gacri cei broda .i le crino broda cu barda .i le xunre broda cu cmalu |
+| These are plastic cat-food can covers or thingies. The green thingy is large. The red thingy is small. |
+
+:::
 
 The pro-bridi *[broda](/glossary/#broda)* has as its antecedent the selbri *slasi je mlatu bo cidja lante gacri*. The cmavo *[cei](/glossary/#cei)* performs the role of *[goi](/glossary/#goi)* in assigning *[broda](/glossary/#broda)* to this long phrase, and *[broda](/glossary/#broda)* can then be used just like any other brivla. (In fact, *[broda](/glossary/#broda)* and its relatives actually *are* brivla: they are gismu in morphology, although they behave exactly like the members of selma'o GOhA. The reasons for using gismu rather than cmavo are buried in the Loglan Project's history.)
 
