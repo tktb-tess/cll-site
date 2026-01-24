@@ -1,6 +1,6 @@
 @import 'tailwindcss';
 
-@theme inline {
+@theme {
   --font-sans:
     'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP', 'Noto Sans SC',
     'Segoe UI', sans-serif, system-ui;
@@ -23,9 +23,7 @@
   --color-d-text: #fff;
   --color-heading: var(--color-violet-950);
   --color-d-heading: var(--color-violet-50);
-  --color-link: var(--color-blue-500);
-  --color-d-link: var(--color-blue-300);
-  --color-sidemenu-bg: var(--color-violet-800);
+  --color-sidemenu-bg: oklch(from var(--color-violet-800) l calc(c - 0.04) h);
   --color-d-sidemenu-bg: var(--color-violet-400);
   --color-sidemenu-text: #fff;
   --color-d-sidemenu-text: #000;
@@ -85,6 +83,7 @@
 @layer base {
   html {
     -webkit-tap-highlight-color: revert;
+    @apply max-sm:text-sm;
   }
 
   body {
@@ -136,6 +135,10 @@
 
     :where(td, th) {
       @apply text-base py-1.25 px-2.25;
+    }
+
+    :where(th) {
+      @apply font-semibold;
     }
   }
 
@@ -190,10 +193,6 @@
       }
     }
   }
-}
-
-@utility grad-1 {
-  @apply bg-linear-to-b from-transparent to-black/4 dark:from-white/6 dark:to-transparent;
 }
 
 @utility user-select-* {
