@@ -103,7 +103,7 @@
   }
 
   h1:where(#title) {
-    @apply font-extralight text-4xl px-4 my-12 text-balance;
+    @apply font-extralight text-4xl px-4 my-10 text-balance;
   }
 
   :is(h2, h3, h4) {
@@ -115,7 +115,11 @@
   }
 
   :is(h2, h3, h4, h5, h6, p, ul, ol) {
-    @apply mb-5;
+    @apply mt-5;
+  }
+
+  :is(h2, h3) {
+    @apply scroll-mt-13;
   }
 
   img {
@@ -159,11 +163,11 @@
   }
 
   li > :where(p) {
-    @apply mb-1;
+    @apply mt-1;
   }
 
   li > :where(ul, ol) {
-    @apply mb-2;
+    @apply mt-2;
   }
 
   hr {
