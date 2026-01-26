@@ -44,12 +44,15 @@
   );
   --grad-d-accent-2: linear-gradient(
     to bottom in oklch,
-    var(--color-indigo-800), 30%,
+    var(--color-indigo-800),
+    30%,
     var(--color-blue-950)
   );
   --s-paragraph: 1.25rem;
-  --h-header: 3rem;
+  --s-header: 3rem;
   --s-figure: 2rem;
+  --columns-1: minmax(min(14rem, 50%), 1fr) minmax(0, 50rem)
+    minmax(min(14rem, 50%), 1fr);
 }
 
 @utility cbg-* {
@@ -122,7 +125,7 @@
   }
 
   :is(h2, h3) {
-    @apply scroll-mt-[calc(var(--h-header)+.5rem)];
+    @apply scroll-mt-[calc(var(--s-header)+.5rem)];
   }
 
   img {

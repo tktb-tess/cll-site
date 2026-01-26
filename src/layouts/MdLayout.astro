@@ -33,67 +33,71 @@ const imgData = await (async () => {
 const shortTitle =
   frontmatter.title.match(/Chapter\s\d+/u)?.[0] ?? frontmatter.title;
 
-const contents: H2Content[] = [];
-const filtered = headings.filter(({ depth }) => depth < 5);
-
-for (const { depth, text, slug } of filtered) {
-  switch (depth) {
-    case 2: {
-      contents.push({
-        text: text,
-        url: `${url}#${slug}`,
-        h3: [],
-      });
-      break;
-    }
-    case 3: {
-      if (contents.length === 0) {
+const getContents = () => {
+  const contents: H2Content[] = [];
+  const filtered = headings.filter(({ depth }) => depth < 5);
+  for (const { depth, text, slug } of filtered) {
+    switch (depth) {
+      case 2: {
         contents.push({
-          text: '',
-          url: '',
+          text: text,
+          url: `${url}#${slug}`,
           h3: [],
         });
+        break;
       }
-      const last = contents.at(-1)!;
-      last.h3.push({
-        text: text,
-        url: `${url}#${slug}`,
-        h4: [],
-      });
-      break;
-    }
-    case 4: {
-      if (contents.length === 0) {
-        contents.push({
-          text: '',
-          url: '',
-          h3: [],
-        });
-      }
-      const h2last = contents.at(-1)!;
-      if (h2last.h3.length === 0) {
-        h2last.h3.push({
-          text: '',
-          url: '',
+      case 3: {
+        if (contents.length === 0) {
+          contents.push({
+            text: '',
+            url: '',
+            h3: [],
+          });
+        }
+        const last = contents.at(-1)!;
+        last.h3.push({
+          text: text,
+          url: `${url}#${slug}`,
           h4: [],
         });
+        break;
       }
-      const last = h2last.h3.at(-1)!;
-      last.h4.push({
-        text,
-        url: `${url}#${slug}`,
-      });
-      break;
-    }
-    default: {
-      throw Error('Unexpected heading', { cause: { depth, text, slug } });
+      case 4: {
+        if (contents.length === 0) {
+          contents.push({
+            text: '',
+            url: '',
+            h3: [],
+          });
+        }
+        const h2last = contents.at(-1)!;
+        if (h2last.h3.length === 0) {
+          h2last.h3.push({
+            text: '',
+            url: '',
+            h4: [],
+          });
+        }
+        const last = h2last.h3.at(-1)!;
+        last.h4.push({
+          text,
+          url: `${url}#${slug}`,
+        });
+        break;
+      }
+      default: {
+        throw Error('Unexpected heading', { cause: { depth, text, slug } });
+      }
     }
   }
-}
+  return contents;
+};
+
+const contents = getContents();
 ---
 
 <Head title={shortTitle} {url} description={frontmatter.description}>
-  <header class='gbg-accent h-(--h-header) sticky top-0 z-100'>
+  <header class='gbg-accent h-(--s-header) sticky top-0 z-100'>
     <nav class='flex h-full items-center *:mb-0 *:min-w-0 px-8'>
       <a
         href='/'
@@ -106,7 +110,7 @@ for (const { depth, text, slug } of filtered) {
       </a>
       <button
         type='button'
-        id='__drawer-btn'
+        id='drawer-btn'
         class='block lg:hidden ms-auto hover:text-black/60 transition-colors'
         title='Open sidemenu'
       >
@@ -114,14 +118,10 @@ for (const { depth, text, slug } of filtered) {
       </button>
     </nav>
   </header>
-  <main
-    class='flow-root
-    lg:grid grid-cols-[minmax(14rem,1fr)_minmax(0,50rem)_minmax(14rem,1fr)]
-    *:min-w-0'
-  >
-    <div id='__drawer-backdrop'>
-      <aside id='__drawer'>
-        <button id='__drawer-close-btn' type='button' title='Close sidemenu'>
+  <main class='flow-root lg:grid grid-cols-(--columns-1) *:min-w-0'>
+    <div id='drawer-backdrop'>
+      <aside id='drawer'>
+        <button id='drawer-close-btn' type='button' title='Close sidemenu'>
           <CloseIcon class='inline-block fill-current size-6' />
         </button>
         <Sidemenu currentUrl={url} />
@@ -129,7 +129,7 @@ for (const { depth, text, slug } of filtered) {
     </div>
     <aside class='hidden lg:block'>
       <div
-        class='h-[calc(100lvh-var(--h-header))] overflow-y-auto sticky top-(--h-header) z-0 px-1 py-2'
+        class='h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky top-(--s-header) z-0 px-1 py-2'
       >
         <Sidemenu currentUrl={url} />
       </div>
@@ -138,18 +138,14 @@ for (const { depth, text, slug } of filtered) {
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
-          <Image
-            id='top-picture'
-            src={imgData.src}
-            alt={imgData.alt}
-          />
+          <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
         )
       }
       <slot />
     </section>
     <aside class='hidden lg:block'>
       <div
-        class='h-[calc(100lvh-var(--h-header))] overflow-y-auto sticky top-(--h-header) z-0 px-3 py-2'
+        class='h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky top-(--s-header) z-0 px-3 py-2'
       >
         <Toc {contents} isAside />
       </div>
@@ -166,12 +162,12 @@ for (const { depth, text, slug } of filtered) {
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    #__drawer-backdrop {
+    #drawer-backdrop {
       @apply fixed z-1000 invisible data-drawer-open:visible inset-0 w-dvw h-dvh bg-transparent
       data-drawer-open:bg-black/40 transition-[background-color,visibility];
     }
 
-    #__drawer {
+    #drawer {
       @apply -translate-x-full h-full w-64
       cbg-side overflow-x-auto px-2 py-2 transition-transform;
 
@@ -180,7 +176,7 @@ for (const { depth, text, slug } of filtered) {
       }
     }
 
-    #__drawer-close-btn {
+    #drawer-close-btn {
       @apply block ms-auto p-2 hover:text-black/60 transition-colors;
     }
 
@@ -192,13 +188,11 @@ for (const { depth, text, slug } of filtered) {
 
 <script>
   const drawerBackdrop = document.getElementById(
-    '__drawer-backdrop',
+    'drawer-backdrop',
   ) as HTMLDivElement;
-  const drawerBtn = document.getElementById(
-    '__drawer-btn',
-  ) as HTMLButtonElement;
+  const drawerBtn = document.getElementById('drawer-btn') as HTMLButtonElement;
   const drawerCloseBtn = document.getElementById(
-    '__drawer-close-btn',
+    'drawer-close-btn',
   ) as HTMLButtonElement;
   drawerBtn.addEventListener('click', () => {
     drawerBackdrop.dataset.drawerOpen = '';
