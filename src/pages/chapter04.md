@@ -835,24 +835,20 @@ Here are a few examples:
 
 ##### Example 4.46.
 
-<div class="hidden"></div>
-
-|                                      |
-| ------------------------------------ |
-| spaghetti (from English or Italian)  |
-| *spageti* (Lojbanize)                |
-| *cidj,r,spageti* (prefix long rafsi) |
-| *dja,r,spageti* (prefix short rafsi) |
+|                                       |
+| ------------------------------------- |
+| *spaghetti* (from English or Italian) |
+| *spageti* (Lojbanize)                 |
+| *cidj,r,spageti* (prefix long rafsi)  |
+| *dja,r,spageti* (prefix short rafsi)  |
 
 where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban gismu for “food”, thus categorizing *[cidjrspageti](/glossary/#cidjrspageti)* as a kind of food. The form with the short rafsi happens to work, but such good fortune cannot be relied on: in any event, it means the same thing.
 
 ##### Example 4.47.
 
-<div class="hidden"></div>
-
 |                                                  |
 | ------------------------------------------------ |
-| Acer (the scientific name of maple trees)        |
+| *Acer* (the scientific name of maple trees)      |
 | *acer* (Lojbanize)                               |
 | *xaceru* (add initial consonant and final vowel) |
 | *tric,r,xaceru* (prefix rafsi)                   |
@@ -862,11 +858,9 @@ where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu fo
 
 ##### Example 4.48.
 
-<div class="hidden"></div>
-
 |                             |
 | --------------------------- |
-| brie (from French)          |
+| *brie* (from French)        |
 | *bri* (Lojbanize)           |
 | *cirl,r,bri* (prefix rafsi) |
 
@@ -874,11 +868,9 @@ where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
 
 ##### Example 4.49.
 
-<div class="hidden"></div>
-
 |                               |
 | ----------------------------- |
-| cobra                         |
+| *cobra*                       |
 | *kobra* (Lojbanize)           |
 | *sinc,r,kobra* (prefix rafsi) |
 
@@ -886,11 +878,9 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 
 ##### Example 4.50.
 
-<div class="hidden"></div>
-
 |                                |
 | ------------------------------ |
-| quark                          |
+| *quark*                        |
 | *kuark* (Lojbanize)            |
 | *kuarka* (add final vowel)     |
 | *sask,r,kuarka* (prefix rafsi) |
@@ -899,12 +889,10 @@ where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the e
 
 ##### Example 4.51.
 
-<div class="hidden"></div>
-
 |                               |
 | ----------------------------- |
 |                               |
-| 자모 (from Korean)            |
+| *자모* (jamo) (from Korean)   |
 | *djamo* (Lojbanize)           |
 | *lerf,r,djamo* (prefix rafsi) |
 | *ler,l,djamo* (prefix rafsi)  |

@@ -20,6 +20,16 @@ const fullTitle = siteName === title ? title : `${title} | CLL`;
     <meta charset='utf-8' />
     <meta name='viewport' content='width=device-width,initial-scale=1' />
     <meta name='generator' content={Astro.generator} />
+    <meta
+      name='theme-color'
+      content='oklch(96.9% 0.016 293.756)'
+      media='(prefers-color-scheme: light)'
+    />
+    <meta
+      name='theme-color'
+      content='oklch(28.3% 0.141 291.089)'
+      media='(prefers-color-scheme: dark)'
+    />
     <Loads />
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
     <OGP title={fullTitle} {url} {description} />

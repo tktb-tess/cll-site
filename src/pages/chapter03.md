@@ -28,7 +28,7 @@ Lojban pronunciations are defined using the International Phonetic Alphabet, or 
 
 The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except *r* the first IPA symbol shown represents the preferred pronunciation; for *r*, all of the variations (and any other rhotic sound) are equally acceptable.
 
-<div class="[&_:where(td:nth-child(2))]:font-ipa table-scrollable">
+<div class="contents [&_:where(td:nth-child(2))]:font-ipa table-scrollable">
 
 | Letter | IPA                                                    | X-SAMPA                                                            | Description                                      |
 | ------ | ------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------ |
@@ -161,7 +161,7 @@ The six Lojban vowels are *a*, *e*, *i*, *o*, *u*, and *y*. The first five vowel
 
 The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: *ai* may be pronounced :ipa[\[ɑj\]], for example.)
 
-<div class="[&_:where(td:nth-child(2))]:font-ipa table-scrollable">
+<div class="contents [&_:where(td:nth-child(2))]:font-ipa table-scrollable">
 
 | Letters | IPA    | Description                               |
 | ------- | ------ | ----------------------------------------- |
@@ -689,7 +689,7 @@ If the cmavo *[no](/glossary/#no)* in [Example 3.32](/chapter03/#example-332 "Ex
 
 There are many dialects of English, thus making it difficult to define the standardized symbols of the IPA in terms useful to every reader. All the symbols used in this chapter are repeated here, in more or less alphabetical order, with examples drawn from General American. In addition, some attention is given to the Received Pronunciation of (British) English. These two dialects are referred to as GA and RP respectively. Speakers of other dialects should consult a book on phonetics or their local television sets.
 
-<div class="[&_:where(td:first-child)]:font-ipa [&_:where(td:first-child)]:text-nowrap">
+<div class="contents [&_:where(td:first-child)]:font-ipa [&_:where(td:first-child)]:text-nowrap">
 
 | IPA                        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
