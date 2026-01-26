@@ -1,6 +1,26 @@
 @import 'tailwindcss';
 
 @theme {
+  --color-lila-5: oklch(5% 0.0272 296);
+  --color-lila-10: oklch(10% 0.0542 296);
+  --color-lila-15: oklch(15% 0.0809 296);
+  --color-lila-20: oklch(20% 0.1072 296);
+  --color-lila-25: oklch(25% 0.1324 296);
+  --color-lila-30: oklch(30% 0.1563 296);
+  --color-lila-35: oklch(35% 0.178 296);
+  --color-lila-40: oklch(40% 0.1964 296);
+  --color-lila-45: oklch(45% 0.2104 296);
+  --color-lila-50: oklch(50% 0.2182 296);
+  --color-lila-55: oklch(55% 0.2188 296);
+  --color-lila-60: oklch(60% 0.2116 296);
+  --color-lila-65: oklch(65% 0.1971 296);
+  --color-lila-70: oklch(70% 0.1765 296);
+  --color-lila-75: oklch(75% 0.1517 296);
+  --color-lila-80: oklch(80% 0.1238 296);
+  --color-lila-85: oklch(85% 0.094 296);
+  --color-lila-90: oklch(90% 0.0631 296);
+  --color-lila-95: oklch(95% 0.0317 296);
+  --color-lila-vivid: oklch(52.85% 0.2195 296);
   --font-sans:
     'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP', 'Noto Sans SC',
     'Segoe UI', sans-serif, system-ui;
@@ -10,49 +30,48 @@
   --font-ipa: var(--font-serif);
   --default-transition-duration: 110ms;
   --color-bg: #fff;
-  --color-d-bg: var(--color-slate-950);
-  --color-side: var(--color-slate-100);
-  --color-d-side: var(--color-slate-900);
-  --color-accent: var(--color-violet-50);
-  --color-d-accent: var(--color-violet-950);
+  --color-d-bg: var(--color-lila-10);
+  --color-side: var(--color-lila-95);
+  --color-d-side: var(--color-lila-15);
+  --color-accent: var(--color-lila-95);
+  --color-d-accent: var(--color-lila-25);
   --color-border: var(--color-slate-300);
   --color-d-border: var(--color-slate-500);
   --color-border2: var(--color-slate-500);
   --color-d-border2: var(--color-slate-300);
   --color-text: #000;
   --color-d-text: #fff;
-  --color-heading: var(--color-violet-950);
-  --color-d-heading: var(--color-violet-50);
-  --color-sidemenu-bg: oklch(from var(--color-violet-800) l calc(c - 0.04) h);
-  --color-d-sidemenu-bg: var(--color-violet-400);
+  --color-heading: var(--color-lila-25);
+  --color-d-heading: var(--color-lila-95);
+  --color-sidemenu-bg: oklch(from var(--color-lila-25) l calc(c - 0.03) h);
+  --color-d-sidemenu-bg: var(--color-lila-70);
   --color-sidemenu-text: #fff;
   --color-d-sidemenu-text: #000;
   --grad-accent: linear-gradient(
     to bottom in oklch,
-    var(--color-violet-50),
-    var(--color-violet-200)
+    var(--color-lila-95),
+    var(--color-lila-90)
   );
   --grad-d-accent: linear-gradient(
     to bottom in oklch,
-    var(--color-violet-800),
-    var(--color-violet-950)
+    var(--color-lila-40),
+    var(--color-lila-30)
   );
   --grad-accent-2: linear-gradient(
     to bottom in oklch,
-    var(--color-sky-50),
-    var(--color-sky-100)
+    var(--color-lila-95),
+    var(--color-lila-90)
   );
   --grad-d-accent-2: linear-gradient(
     to bottom in oklch,
-    var(--color-indigo-800),
-    30%,
-    var(--color-blue-950)
+    var(--color-lila-20),
+    var(--color-lila-15)
   );
   --s-paragraph: 1.25rem;
   --s-header: 3rem;
   --s-figure: 2rem;
-  --columns-1: minmax(min(14rem, 50%), 1fr) minmax(0, 50rem)
-    minmax(min(14rem, 50%), 1fr);
+  --columns-1: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
+    minmax(min(18rem, 50%), 1fr);
 }
 
 @utility cbg-* {
