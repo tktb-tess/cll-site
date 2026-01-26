@@ -44,9 +44,12 @@
   );
   --grad-d-accent-2: linear-gradient(
     to bottom in oklch,
-    var(--color-sky-900),
-    var(--color-sky-950)
+    var(--color-indigo-800), 30%,
+    var(--color-blue-950)
   );
+  --s-paragraph: 1.25rem;
+  --h-header: 3rem;
+  --s-figure: 2rem;
 }
 
 @utility cbg-* {
@@ -115,15 +118,19 @@
   }
 
   :is(h2, h3, h4, h5, h6, p, ul, ol) {
-    @apply mt-5;
+    @apply mt-(--s-paragraph);
   }
 
   :is(h2, h3) {
-    @apply scroll-mt-13;
+    @apply scroll-mt-[calc(var(--h-header)+.5rem)];
   }
 
   img {
-    @apply mx-auto w-full max-w-max;
+    @apply mx-auto w-full max-w-max my-(--s-figure);
+  }
+
+  :is(b, strong) {
+    @apply font-semibold;
   }
 
   table {
@@ -147,7 +154,7 @@
   }
 
   .table-container:where(:has(> table)) {
-    @apply max-w-full overflow-x-auto my-4;
+    @apply max-w-full overflow-x-auto my-(--s-figure);
   }
 
   ul {

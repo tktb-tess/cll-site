@@ -23,7 +23,7 @@ Let us consider John and Sam and three statements about them:
 
 These examples all describe relationships between John and Sam. However, in English, we use the noun “father” to describe a static relationship in [Example 2.1](/chapter02/#example-21 "Example 2.1."), the verb “hits” to describe an active relationship in [Example 2.2](/chapter02/#example-22 "Example 2.2."), and the adjective “taller” to describe an attributive relationship in [Example 2.3](/chapter02/#example-23 "Example 2.3."). In Lojban we make no such grammatical distinctions; these three sentences, when expressed in Lojban, are structurally identical. The same part of speech is used to represent the relationship. In formal logic this whole structure is called a “predication”; in Lojban it is called a *[bridi](/glossary/#bridi)*, and the central part of speech is the *[selbri](/glossary/#selbri)*. Logicians refer to the things thus related as “arguments”, while Lojbanists call them *[sumti](/glossary/#sumti)*. These Lojban terms will be used for the rest of the book.
 
-<div class="[&_img]:dark:bg-slate-200 [&_img]:p-4">
+<div class="contents [&_img]:dark:bg-slate-200 [&_img]:p-4">
 
 ![bridi (predicate) _________|_____ | | John is the father of Sam |_____| |_____| |___| | | | sumti selbri sumti (argument)](../assets/chapter-2-diagram.png)
 
