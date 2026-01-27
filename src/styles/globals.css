@@ -62,7 +62,7 @@
   --s-paragraph: 1.25rem;
   --s-header: 3rem;
   --s-figure: 2rem;
-  --columns-1: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
+  --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
     minmax(min(18rem, 50%), 1fr);
 }
 
