@@ -26,7 +26,7 @@ which means that the grammatical construct “name” is defined by “bnf-expre
 9. \# is shorthand for “\[free ...\]”, a construct which appears in many places.
 10. // encloses an elidable terminator, which may be omitted (without change of meaning) if no grammatical ambiguity results.
 
-<div class="font-mono">
+<div class="font-mono bg-black/5 dark:bg-white/10 [&_sub]:scroll-mt-[calc(var(--s-header)+.5rem)]">
 
 - text<sub id="bnf-0">0</sub> =
 
@@ -404,7 +404,7 @@ FAhO is a universal terminator and signals the end of parsable input.
 
 ## 21.2. EBNF Cross-Reference
 
-<div class="font-mono">
+<div class="font-mono bg-black/5 dark:bg-white/10">
 
 - A
 
