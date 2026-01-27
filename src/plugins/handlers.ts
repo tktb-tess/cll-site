@@ -128,7 +128,8 @@ export const containerDirectiveHandler: Handler = (
   if (node.name === 'jbomupli') {
     const tables = node.children.filter((node) => node.type === 'table');
     const langPosition = (() => {
-      const j = node.attributes?.jbo || '[0]';
+      const j = node.attributes?.jbo;
+      if (!j) return [0];
       const p = JSON.parse(j);
       return v.parse(langPositionSchema, p);
     })();
