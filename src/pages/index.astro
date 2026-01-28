@@ -1,11 +1,11 @@
 ---
 import type { MarkdownHeading } from 'astro';
 import Head from '../layouts/Head.astro';
-import LinkExt from '../components/LinkExt.astro';
 import Toc, { type H2Content } from '../components/Toc.astro';
 import JboLogo from '../assets/jbo_logo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import data from '../modules/data.json';
+import MyFooter from '../components/MyFooter.astro';
 
 interface MdProps {
   readonly frontmatter: {
@@ -16,25 +16,12 @@ interface MdProps {
   readonly getHeadings: () => MarkdownHeading[];
 }
 
-const mds_ = Object.values(
-  import.meta.glob<MdProps>('./*.md', { eager: true }),
-);
-
-const mds = mds_.map(({ frontmatter, url }): H2Content => {
-  const text = frontmatter.title;
+const mds = data.slice(1).map((d): H2Content => {
   return {
-    text,
-    url,
+    text: d.longTitle ?? d.title,
+    url: d.url,
     h3: [],
   };
-});
-
-mds.sort((a, b) => {
-  const a_ = data.findIndex((d) => d.url === a.url);
-  const b_ = data.findIndex((d) => d.url === b.url);
-  const aIndex = a_ > -1 ? a_ : Infinity;
-  const bIndex = b_ > -1 ? b_ : Infinity;
-  return aIndex - bIndex;
 });
 
 const title = `The Complete Lojban Language`;
@@ -42,8 +29,8 @@ const url = '/';
 ---
 
 <Head {title} {url}>
-  <main class='flow-root cbg-bg w-full max-w-7xl mx-auto px-4 lg:px-6 pb-4'>
-    <h1 id='title' class='text-center'>
+  <main>
+    <h1 id='title'>
       The <span class='text-red-600'>C</span>omplete
       <span class='text-blue-600'>L</span>ojban
       <span class='text-red-600'>L</span>anguage
@@ -51,10 +38,20 @@ const url = '/';
     <JboLogo class='max-w-95 w-full mx-auto my-6' />
     <Toc contents={mds} />
   </main>
-  <footer>
-    <LinkExt class='no-underline' href='https://github.com/tktb-tess/cll-site'>
-      Go to Repository
-    </LinkExt>
-  </footer>
+  <MyFooter />
   <ToTopBtn />
 </Head>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer properties, theme, base, components, utilities;
+  @layer components {
+    main {
+      @apply flow-root cbg-bg w-full max-w-7xl mx-auto px-4 lg:px-6 pb-4;
+    }
+
+    #title {
+      @apply text-center;
+    }
+  }
+</style>

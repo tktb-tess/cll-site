@@ -3,16 +3,16 @@
   import wordData from '../modules/glossary.json';
   import ShowResult from './ShowResult.svelte';
 
-  type SearchMode = 'former' | 'latter' | 'exact' | 'partial';
+  type SearchMode = 'forward' | 'backward' | 'exact' | 'partial';
 
   const isMode = (str: unknown) =>
-    str === 'former' ||
-    str === 'latter' ||
+    str === 'forward' ||
+    str === 'backward' ||
     str === 'exact' ||
     str === 'partial';
 
   let searchWord = $state('');
-  let searchMode = $state<SearchMode>('former');
+  let searchMode = $state<SearchMode>('forward');
 
   const url = $derived.by(() => {
     const url = new URL(document.URL);
@@ -26,13 +26,14 @@
   });
 
   const results = $derived.by(() => {
+    if (!searchWord) return [];
     return wordData.filter((w) => {
       switch (searchMode) {
-        case 'former': {
+        case 'forward': {
           const wo = w.word.slice(0, searchWord.length);
           return searchWord === wo;
         }
-        case 'latter': {
+        case 'backward': {
           const wo = w.word.slice(-searchWord.length);
           return searchWord === wo;
         }
@@ -41,6 +42,9 @@
         }
         case 'partial': {
           return w.word.includes(searchWord);
+        }
+        default: {
+          const _: never = searchMode;
         }
       }
     });
@@ -63,23 +67,23 @@
   <h3 id="search" class="text-center">Search</h3>
   <input type="text" class="block w-full" bind:value={searchWord} />
   <div id="search-radiobtn">
-    <span>一致方式:</span>
+    <span>Match:</span>
     <input
       type="radio"
       name="search-mode"
       id="radio-1"
-      onclick={() => (searchMode = 'former')}
-      checked={searchMode === 'former'}
+      onclick={() => (searchMode = 'forward')}
+      checked={searchMode === 'forward'}
     />
-    <label for="radio-1">前方</label>
+    <label for="radio-1">forward</label>
     <input
       type="radio"
       name="search-mode"
       id="radio-2"
-      onclick={() => (searchMode = 'latter')}
-      checked={searchMode === 'latter'}
+      onclick={() => (searchMode = 'backward')}
+      checked={searchMode === 'backward'}
     />
-    <label for="radio-2">後方</label>
+    <label for="radio-2">backward</label>
     <input
       type="radio"
       name="search-mode"
@@ -87,7 +91,7 @@
       onclick={() => (searchMode = 'exact')}
       checked={searchMode === 'exact'}
     />
-    <label for="radio-3">完全</label>
+    <label for="radio-3">exact</label>
     <input
       type="radio"
       name="search-mode"
@@ -95,10 +99,11 @@
       onclick={() => (searchMode = 'partial')}
       checked={searchMode === 'partial'}
     />
-    <label for="radio-4">部分</label>
+    <label for="radio-4">partial</label>
   </div>
 </section>
 <ShowResult {results} />
+<div class="h-6"></div>
 
 <style lang="postcss">
   @reference '../styles/globals.css';

@@ -16,9 +16,28 @@
   {#each results as result}
     <div>
       <h4>{result.word}</h4>
-      {#each result.contents as content}
-        <p>{content}</p>
-      {/each}
+      <ul>
+        {#each result.contents as content}
+          <li>{content}</li>
+        {/each}
+      </ul>
     </div>
   {/each}
 </section>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer components {
+    section {
+      @apply flow-root;
+
+      > :where(#results) {
+        @apply text-center;
+      }
+
+      :where(ul) {
+        @apply mt-2;
+      }
+    }
+  }
+</style>

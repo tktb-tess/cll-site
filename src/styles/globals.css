@@ -73,7 +73,7 @@
   --s-figure: 2rem;
   --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
     minmax(min(18rem, 50%), 1fr);
-  --cols-glossary: minmax(min(18rem, 100%), 1fr) minmax(0, 80rem);
+  --cols-glossary: minmax(min(18rem, 100%), 1fr) minmax(0, 98rem);
 }
 
 @utility cbg-* {
@@ -202,7 +202,7 @@
   }
 
   :is(ul, ol) {
-    @apply ps-5;
+    @apply ps-6;
   }
 
   li > :where(p) {
