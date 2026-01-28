@@ -1,15 +1,5 @@
 ---
-import type { MarkdownHeading } from 'astro';
 import data from '../modules/data.json';
-
-interface MdProps {
-  readonly frontmatter: {
-    readonly title: string;
-    readonly description?: string;
-  };
-  readonly url: string;
-  readonly getHeadings: () => MarkdownHeading[];
-}
 
 interface Props {
   readonly currentUrl: string;

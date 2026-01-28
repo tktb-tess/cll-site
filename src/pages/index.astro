@@ -7,15 +7,6 @@ import ToTopBtn from '../components/ToTopBtn.astro';
 import data from '../modules/data.json';
 import MyFooter from '../components/MyFooter.astro';
 
-interface MdProps {
-  readonly frontmatter: {
-    readonly title: string;
-    readonly description?: string;
-  };
-  readonly url: string;
-  readonly getHeadings: () => MarkdownHeading[];
-}
-
 const mds = data.slice(1).map((d): H2Content => {
   return {
     text: d.longTitle ?? d.title,
