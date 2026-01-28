@@ -38,13 +38,17 @@ const url = '/glossary/';
         @apply hidden lg:block;
       }
 
-      > * > :where(.__sidebar-root) {
+      :where(.__sidebar-root) {
         @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
         top-[calc(var(--s-header)+.5rem)] z-0 px-1 py-2;
       }
 
       > :where(section) {
         @apply flow-root cbg-bg px-4;
+      }
+
+      :where(#title) {
+        @apply text-center;
       }
     }
   }
