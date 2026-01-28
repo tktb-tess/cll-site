@@ -1,5 +1,4 @@
 ---
-import type { MarkdownHeading } from 'astro';
 import Head from '../layouts/Head.astro';
 import Toc, { type H2Content } from '../components/Toc.astro';
 import JboLogo from '../assets/jbo_logo.svg';
@@ -15,8 +14,7 @@ const mds = data.slice(1).map((d): H2Content => {
   };
 });
 
-const title = `The Complete Lojban Language`;
-const url = '/';
+const { title, url } = data.at(0)!;
 ---
 
 <Head {title} {url}>

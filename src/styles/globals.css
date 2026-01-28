@@ -157,7 +157,7 @@
     @apply mt-(--s-paragraph);
   }
 
-  :is(h2, h3) {
+  :is(h2, h3, h5) {
     @apply scroll-mt-[calc(var(--s-header)+.5rem)];
   }
 

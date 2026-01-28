@@ -1,8 +1,5 @@
 <script lang="ts">
-  type WordData = {
-    word: string;
-    contents: string[];
-  };
+  import type { WordData } from '../modules/decl';
 
   interface Props {
     readonly results: WordData[];

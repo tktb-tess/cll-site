@@ -1,4 +1,4 @@
-# The Complete Lojban Language
+# The Complete Lojban Language Viewer
 
 I convert the Lojban grammar book "The Complete Lojban Language" into markdown, built it with Astro, and published it.
 

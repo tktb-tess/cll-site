@@ -2,6 +2,7 @@
 import '../styles/globals.css';
 import Loads from '../components/Loads.astro';
 import OGP from '../components/OGP.astro';
+import data from '../modules/data.json';
 
 interface Props {
   readonly title: string;
@@ -10,8 +11,8 @@ interface Props {
 }
 
 const { title, url, description } = Astro.props;
-const siteName = 'The Complete Lojban Language';
-const fullTitle = siteName === title ? title : `${title} | CLL`;
+const siteName = data[0].title;
+const miniTitle = siteName === title ? title : `${title} | CLL`;
 ---
 
 <!doctype html>
@@ -23,8 +24,8 @@ const fullTitle = siteName === title ? title : `${title} | CLL`;
     <meta name='color-scheme' content='light dark' />
     <Loads />
     <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP title={fullTitle} {url} {description} />
-    <title>{fullTitle}</title>
+    <OGP title={miniTitle} {url} {description} />
+    <title>{miniTitle}</title>
   </head>
   <body>
     <slot />

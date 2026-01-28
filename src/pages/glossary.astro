@@ -5,9 +5,10 @@ import MyHeader from '../components/MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import Sidemenu from '../components/Sidemenu.astro';
 import Search from '../components/Search.svelte';
+import data from '../modules/data.json';
 
-const title = 'Lojban Word Glossary';
 const url = '/glossary/';
+const title = data.find((d) => d.url === url)!.title;
 ---
 
 <Head {url} {title}>
