@@ -55,18 +55,18 @@ They are also functionally different: cmavo are the structure words, correspondi
 
 ## 4.2. cmavo
 
-[*selma'o*](/glossary/#selmao), each having a specifically defined grammatical usage. The various selma'o are discussed throughout [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri") to [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts") and summarized in [Chapter 20](/chapter20/ "Chapter 20. A Catalogue of selma'o").
+[*selma'o*](/glossary/?mode=exact&word=%2Aselma%27o%2A), each having a specifically defined grammatical usage. The various selma'o are discussed throughout [Chapter 5](/chapter05/ "Chapter 5. “Pretty Little Girls' School”: The Structure Of Lojban selbri") to [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts") and summarized in [Chapter 20](/chapter20/ "Chapter 20. A Catalogue of selma'o").
 
 Standard cmavo occur in four forms defined by their word structure. Here are some examples of the various forms:
 
 |          |                          |                         |                          |                         |                          |
 | -------- | ------------------------ | ----------------------- | ------------------------ | ----------------------- | ------------------------ |
-| V-form   | *[.a](/glossary/#a)*     | *[.e](/glossary/#e)*    | *[.i](/glossary/#i)*     | *[.o](/glossary/#o)*    | *[.u](/glossary/#u)*     |
-| CV-form  | *[ba](/glossary/#ba)*    | *[ce](/glossary/#ce)*   | *[di](/glossary/#di)*    | *[fo](/glossary/#fo)*   | *[gu](/glossary/#gu)*    |
-| VV-form  | *[.au](/glossary/#au)*   | *[.ei](/glossary/#ei)*  | *[.ia](/glossary/#ia)*   | *[o'u](/glossary/#ou)*  | *[u'e](/glossary/#ue)*   |
-| CVV-form | *[ki'a](/glossary/#kia)* | *[pei](/glossary/#pei)* | *[mi'o](/glossary/#mio)* | *[coi](/glossary/#coi)* | *[cu'u](/glossary/#cuu)* |
+| V-form   | *[.a](/glossary/?mode=exact&word=a)*     | *[.e](/glossary/?mode=exact&word=e)*    | *[.i](/glossary/?mode=exact&word=i)*     | *[.o](/glossary/?mode=exact&word=o)*    | *[.u](/glossary/?mode=exact&word=u)*     |
+| CV-form  | *[ba](/glossary/?mode=exact&word=ba)*    | *[ce](/glossary/?mode=exact&word=ce)*   | *[di](/glossary/?mode=exact&word=di)*    | *[fo](/glossary/?mode=exact&word=fo)*   | *[gu](/glossary/?mode=exact&word=gu)*    |
+| VV-form  | *[.au](/glossary/?mode=exact&word=au)*   | *[.ei](/glossary/?mode=exact&word=ei)*  | *[.ia](/glossary/?mode=exact&word=ia)*   | *[o'u](/glossary/?mode=exact&word=o%27u)*  | *[u'e](/glossary/?mode=exact&word=u%27e)*   |
+| CVV-form | *[ki'a](/glossary/?mode=exact&word=ki%27a)* | *[pei](/glossary/?mode=exact&word=pei)* | *[mi'o](/glossary/?mode=exact&word=mi%27o)* | *[coi](/glossary/?mode=exact&word=coi)* | *[cu'u](/glossary/?mode=exact&word=cu%27u)* |
 
-In addition, there is the cmavo *[.y.](/glossary/#y)* (remember that *y* is not a V), which must have pauses before and after it.
+In addition, there is the cmavo *[.y.](/glossary/?mode=exact&word=y)* (remember that *y* is not a V), which must have pauses before and after it.
 
 A simple cmavo thus has the property of having only one or two vowels, or of having a single consonant followed by one or two vowels. Words consisting of three or more vowels in a row, or a single consonant followed by three or more vowels, are also of cmavo form, but are reserved for experimental use: a few examples are *ku'a'e*, *sau'e*, and *bai'ai*. All CVV cmavo beginning with the letter *x* are also reserved for experimental use. In general, though, the form of a cmavo tells you little or nothing about its grammatical use.
 
@@ -76,8 +76,8 @@ The cmavo of VV-form include not only the diphthongs and vowel pairs listed in [
 
 |                        |                        |                        |                        |                        |
 | ---------------------- | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
-| *[.ia](/glossary/#ia)* | *[.ie](/glossary/#ie)* | *[.ii](/glossary/#ii)* | *[.io](/glossary/#io)* | *[.iu](/glossary/#iu)* |
-| *[.ua](/glossary/#ua)* | *[.ue](/glossary/#ue)* | *[.ui](/glossary/#ui)* | *[.uo](/glossary/#uo)* | *[.uu](/glossary/#uu)* |
+| *[.ia](/glossary/?mode=exact&word=ia)* | *[.ie](/glossary/?mode=exact&word=ie)* | *[.ii](/glossary/?mode=exact&word=ii)* | *[.io](/glossary/?mode=exact&word=io)* | *[.iu](/glossary/?mode=exact&word=iu)* |
+| *[.ua](/glossary/?mode=exact&word=ua)* | *[.ue](/glossary/?mode=exact&word=ue)* | *[.ui](/glossary/?mode=exact&word=ui)* | *[.uo](/glossary/?mode=exact&word=uo)* | *[.uu](/glossary/?mode=exact&word=uu)* |
 
 In addition, cmavo can have the form *Cy*, a consonant followed by the letter *y*. These cmavo represent letters of the Lojban alphabet, and are discussed in detail in [Chapter 17](/chapter17/ "Chapter 17. As Easy As A-B-C? The Lojban Letteral System And Its Uses").
 
@@ -123,7 +123,7 @@ For example:
 
 :::
 
-The cmavo *[u'e](/glossary/#ue)* begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by *.*) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,
+The cmavo *[u'e](/glossary/?mode=exact&word=u%27e)* begins with a vowel, and like all words beginning with a vowel, requires a pause (represented by *.*) before it. This pause cannot be omitted simply because the cmavo is incorporated into a compound cmavo. On the other hand,
 
 ##### Example 4.4.
 
@@ -148,7 +148,7 @@ is a single cmavo reserved for experimental purposes: it has four vowels.
 
 :::
 
-Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/#cy)* merges with the pause before *[.ibu](/glossary/#ibu)*.
+Again the pauses are required (see [Section 4.9](/chapter04/#49-rules-for-inserting-pauses "4.9. Rules for inserting pauses")); the pause after *[cy.](/glossary/?mode=exact&word=cy)* merges with the pause before *[.ibu](/glossary/?mode=exact&word=ibu)*.
 
 There is no particular stress required in cmavo or their compounds. Some conventions do exist that are not mandatory. For two-syllable cmavo, for example, stress is typically placed on the first vowel; an example is
 
@@ -189,7 +189,7 @@ can be optionally pronounced
 
 :::
 
-since there are no rules forcing stress on either of the first two words; the stress on *[re](/glossary/#re)*, though, demands that a pause separate *[re](/glossary/#re)* from the following syllable *nan* to ensure that the stress on *nan* is properly heard as a stressed syllable. The alternative pronunciation
+since there are no rules forcing stress on either of the first two words; the stress on *[re](/glossary/?mode=exact&word=re)*, though, demands that a pause separate *[re](/glossary/?mode=exact&word=re)* from the following syllable *nan* to ensure that the stress on *nan* is properly heard as a stressed syllable. The alternative pronunciation
 
 ##### Example 4.9.
 
@@ -201,7 +201,7 @@ since there are no rules forcing stress on either of the first two words; the st
 
 :::
 
-is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/#le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8."), the secondary stress on *[re](/glossary/#re)* would be similar to that in the English phrase “the TWO men”.
+is also valid; this would apply secondary stress (used for purposes of emphasis, contrast or sentence rhythm) to *[le](/glossary/?mode=exact&word=le)*, comparable in rhythmical effect to the English phrase “THE two men”. In [Example 4.8](/chapter04/#example-48 "Example 4.8."), the secondary stress on *[re](/glossary/?mode=exact&word=re)* would be similar to that in the English phrase “the TWO men”.
 
 Both cmavo may also be left unstressed, thus:
 
@@ -219,7 +219,7 @@ This would probably be the most common usage.
 
 ## 4.3. brivla
 
-Predicate words, called *[brivla](/glossary/#brivla)*, are at the core of Lojban. They carry most of the semantic information in the language. They serve as the equivalent of English nouns, verbs, adjectives, and adverbs, all in a single part of speech.
+Predicate words, called *[brivla](/glossary/?mode=exact&word=brivla)*, are at the core of Lojban. They carry most of the semantic information in the language. They serve as the equivalent of English nouns, verbs, adjectives, and adverbs, all in a single part of speech.
 
 Every brivla belongs to one of three major subtypes. These subtypes are defined by the form, or morphology, of the word – all words of a particular structure can be assigned by sight or sound to a particular type (cmavo, brivla, or cmene) and subtype. Knowing the type and subtype then gives you, the reader or listener, significant clues to the meaning and the origin of the word, even if you have never heard the word before.
 
@@ -231,9 +231,9 @@ All brivla have the following properties:
 2. always contain a consonant pair in the first five letters, where *y* and apostrophe are not counted as letters for this purpose (see [Section 4.6](/chapter04/#46-rafsi "4.6. rafsi").);
 3. always are stressed on the next-to-the-last (penultimate) syllable; this implies that they have two or more syllables.
 
-The presence of a consonant pair distinguishes brivla from cmavo and their compounds. The final vowel distinguishes brivla from cmene, which always end in a consonant. Thus *da'amei* must be a compound cmavo because it lacks a consonant pair; *[lojban.](/glossary/#lojban)* must be a name because it lacks a final vowel.
+The presence of a consonant pair distinguishes brivla from cmavo and their compounds. The final vowel distinguishes brivla from cmene, which always end in a consonant. Thus *da'amei* must be a compound cmavo because it lacks a consonant pair; *[lojban.](/glossary/?mode=exact&word=lojban)* must be a name because it lacks a final vowel.
 
-Thus, *bisycla* has the consonant pair *sc* in the first five non- *y* letters even though the *sc* actually appears in the form of *[sy.](/glossary/#sy)*. Similarly, the word *ro'inre'o* contains *nr* in the first five letters because the apostrophes are not counted for this purpose.
+Thus, *bisycla* has the consonant pair *sc* in the first five non- *y* letters even though the *sc* actually appears in the form of *[sy.](/glossary/?mode=exact&word=sy)*. Similarly, the word *ro'inre'o* contains *nr* in the first five letters because the apostrophes are not counted for this purpose.
 
 The three subtypes of brivla are:
 
@@ -243,11 +243,11 @@ The three subtypes of brivla are:
 
 ## 4.4. gismu
 
-The gismu, or Lojban root words, are those brivla representing concepts most basic to the language. The gismu were chosen for various reasons: some represent concepts that are very familiar and basic; some represent concepts that are frequently used in other languages; some were added because they would be helpful in constructing more complex words; some because they represent fundamental Lojban concepts (like *[cmavo](/glossary/#cmavo)* and *[gismu](/glossary/#gismu)* themselves).
+The gismu, or Lojban root words, are those brivla representing concepts most basic to the language. The gismu were chosen for various reasons: some represent concepts that are very familiar and basic; some represent concepts that are frequently used in other languages; some were added because they would be helpful in constructing more complex words; some because they represent fundamental Lojban concepts (like *[cmavo](/glossary/?mode=exact&word=cmavo)* and *[gismu](/glossary/?mode=exact&word=gismu)* themselves).
 
 The gismu do not represent any sort of systematic partitioning of semantic space. Some gismu may be superfluous, or appear for historical reasons: the gismu list was being collected for almost 35 years and was only weeded out once. Instead, the intention is that the gismu blanket semantic space: they make it possible to talk about the entire range of human concerns.
 
-There are about 1350 gismu. In learning Lojban, you need only to learn most of these gismu and their combining forms (known as *[rafsi](/glossary/#rafsi)*) as well as perhaps 200 major cmavo, and you will be able to communicate effectively in the language. This may sound like a lot, but it is a small number compared to the vocabulary needed for similar communications in other languages.
+There are about 1350 gismu. In learning Lojban, you need only to learn most of these gismu and their combining forms (known as *[rafsi](/glossary/?mode=exact&word=rafsi)*) as well as perhaps 200 major cmavo, and you will be able to communicate effectively in the language. This may sound like a lot, but it is a small number compared to the vocabulary needed for similar communications in other languages.
 
 All gismu have very strong form restrictions. Using the conventions defined in [Section 4.1](/chapter04/#41-introductory "4.1. Introductory"), all gismu are of the forms CVC/CV or CCVCV. They must meet the rules for all brivla given in [Section 4.3](/chapter04/#43-brivla "4.3. brivla"); furthermore, they:
 
@@ -258,7 +258,7 @@ All gismu have very strong form restrictions. Using the conventions defined in [
 
 The five letter length distinguishes gismu from lujvo and fu'ivla. In addition, no gismu contains *'* .
 
-With the exception of five special brivla variables, *[broda](/glossary/#broda)*, *[brode](/glossary/#brode)*, *[brodi](/glossary/#brodi)*, *[brodo](/glossary/#brodo)*, and *[brodu](/glossary/#brodu)*, no two gismu differ only in the final vowel. Furthermore, the set of gismu was specifically designed to reduce the likelihood that two similar sounding gismu could be confused. For example, because *[gismu](/glossary/#gismu)* is in the set of gismu, *kismu*, *xismu*, *gicmu*, *gizmu*, and *gisnu* cannot be.
+With the exception of five special brivla variables, *[broda](/glossary/?mode=exact&word=broda)*, *[brode](/glossary/?mode=exact&word=brode)*, *[brodi](/glossary/?mode=exact&word=brodi)*, *[brodo](/glossary/?mode=exact&word=brodo)*, and *[brodu](/glossary/?mode=exact&word=brodu)*, no two gismu differ only in the final vowel. Furthermore, the set of gismu was specifically designed to reduce the likelihood that two similar sounding gismu could be confused. For example, because *[gismu](/glossary/?mode=exact&word=gismu)* is in the set of gismu, *kismu*, *xismu*, *gicmu*, *gizmu*, and *gisnu* cannot be.
 
 Almost all Lojban gismu are constructed from pieces of words drawn from other languages, specifically Chinese, English, Hindi, Spanish, Russian, and Arabic, the six most widely spoken natural languages. For a given concept, words in the six languages that represent that concept were written in Lojban phonetics. Then a gismu was selected to maximize the recognizability of the Lojban word for speakers of the six languages by weighting the inclusion of the sounds drawn from each language by the number of speakers of that language. See [Section 4.14](/chapter04/#414-the-gismu-creation-algorithm "4.14. The gismu creation algorithm") for a full explanation of the algorithm.
 
@@ -430,7 +430,7 @@ When a concept expressed in a tanru proves useful, or is frequently expressed, i
 
 :::
 
-Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/#lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
+Such a brivla, built from the rafsi which represent its component words, is called a *[lujvo](/glossary/?mode=exact&word=lujvo)*. Another example, corresponding to the tanru of [Example 4.20](/chapter04/#example-420 "Example 4.20."), would be:
 
 ##### Example 4.24.
 
@@ -444,7 +444,7 @@ Such a brivla, built from the rafsi which represent its component words, is call
 
 :::
 
-The lujvo representing a given tanru is built from units representing the component gismu. These units are called *[rafsi](/glossary/#rafsi)* in Lojban. Each rafsi represents only one gismu. The rafsi are attached together in the order of the words in the tanru, occasionally inserting so-called “hyphen” letters to ensure that the pieces stick together as a single word and cannot accidentally be broken apart into cmavo, gismu, or other word forms. As a result, each lujvo can be readily and accurately recognized, allowing a listener to pick out the word from a string of spoken Lojban, and if necessary, unambiguously decompose the word to a unique source tanru, thus providing a strong clue to its meaning.
+The lujvo representing a given tanru is built from units representing the component gismu. These units are called *[rafsi](/glossary/?mode=exact&word=rafsi)* in Lojban. Each rafsi represents only one gismu. The rafsi are attached together in the order of the words in the tanru, occasionally inserting so-called “hyphen” letters to ensure that the pieces stick together as a single word and cannot accidentally be broken apart into cmavo, gismu, or other word forms. As a result, each lujvo can be readily and accurately recognized, allowing a listener to pick out the word from a string of spoken Lojban, and if necessary, unambiguously decompose the word to a unique source tanru, thus providing a strong clue to its meaning.
 
 The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chapter04/#example-422 "Example 4.22.") is
 
@@ -460,7 +460,7 @@ The lujvo that can be built from the tanru *mamta patfu* in [Example 4.22](/chap
 
 which refers specifically to the concept “maternal grandfather”. The two gismu that constitute the tanru are represented in *mampa'u* by the rafsi *mam-* and *-pa'u*, respectively; these two rafsi are then concatenated together to form *mampa'u*.
 
-Like gismu, lujvo have only one meaning. When a lujvo is formally entered into a dictionary of the language, a specific definition will be assigned based on one particular interrelationship between the terms. (See [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures") for how this has been done.) Unlike gismu, lujvo may have more than one form. This is because there is no difference in meaning between the various rafsi for a gismu when they are used to build a lujvo. A long rafsi may be used, especially in noisy environments, in place of a short rafsi; the result is considered the same lujvo, even though the word is spelled and pronounced differently. Thus the word *[brivla](/glossary/#brivla)*, built from the tanru *bridi valsi*, is the same lujvo as *brivalsi*, *bridyvla*, and *bridyvalsi*, each of which uses a different combination of rafsi.
+Like gismu, lujvo have only one meaning. When a lujvo is formally entered into a dictionary of the language, a specific definition will be assigned based on one particular interrelationship between the terms. (See [Chapter 12](/chapter12/ "Chapter 12. Dog House And White House: Determining lujvo Place Structures") for how this has been done.) Unlike gismu, lujvo may have more than one form. This is because there is no difference in meaning between the various rafsi for a gismu when they are used to build a lujvo. A long rafsi may be used, especially in noisy environments, in place of a short rafsi; the result is considered the same lujvo, even though the word is spelled and pronounced differently. Thus the word *[brivla](/glossary/?mode=exact&word=brivla)*, built from the tanru *bridi valsi*, is the same lujvo as *brivalsi*, *bridyvla*, and *bridyvalsi*, each of which uses a different combination of rafsi.
 
 When assembling rafsi together into lujvo, the rules for valid brivla must be followed: a consonant cluster must occur in the first five letters (excluding *y* and *'* ), and the lujvo must end in a vowel.
 
@@ -558,13 +558,13 @@ Some examples of unreduced lujvo forms are:
 
 In addition to these two forms, each gismu may have up to three additional short rafsi, three letters long. All short rafsi have one of the forms CVC, CCV, or CVV. The total number of rafsi forms that are assigned to a gismu depends on how useful the gismu is, or is presumed to be, in making lujvo, when compared to other gismu that could be assigned the rafsi.
 
-For example, *[zmadu](/glossary/#zmadu)* (“more than”) has the two short rafsi *zma* and *mau* (in addition to its unreduced rafsi *zmad* and *[zmadu](/glossary/#zmadu)*), because a vast number of lujvo have been created based on *[zmadu](/glossary/#zmadu)*, corresponding in general to English comparative adjectives ending in “-er” such as “whiter” (Lojban *labmau*). On the other hand, *[bakri](/glossary/#bakri)* (“chalk”) has no short rafsi and few lujvo.
+For example, *[zmadu](/glossary/?mode=exact&word=zmadu)* (“more than”) has the two short rafsi *zma* and *mau* (in addition to its unreduced rafsi *zmad* and *[zmadu](/glossary/?mode=exact&word=zmadu)*), because a vast number of lujvo have been created based on *[zmadu](/glossary/?mode=exact&word=zmadu)*, corresponding in general to English comparative adjectives ending in “-er” such as “whiter” (Lojban *labmau*). On the other hand, *[bakri](/glossary/?mode=exact&word=bakri)* (“chalk”) has no short rafsi and few lujvo.
 
 There are at most one CVC-form, one CCV-form, and one CVV-form rafsi per gismu. In fact, only a tiny handful of gismu have both a CCV-form and a CVV-form rafsi assigned, and still fewer have all three forms of short rafsi. However, gismu with both a CVC-form and another short rafsi are fairly common, partly because more possible CVC-form rafsi exist. Yet CVC-form rafsi, even though they are fairly easy to remember, cannot be used at the end of a lujvo (because lujvo must end in vowels), so justifying the assignment of an additional short rafsi to many gismu.
 
 The intention was to use the available “rafsi space” – the set of all possible short rafsi forms – in the most efficient way possible; the goal is to make the most-used lujvo as short as possible (thus maximizing the use of short rafsi), while keeping the rafsi very recognizable to anyone who knows the source gismu. For this reason, the letters in a rafsi have always been chosen from among the five letters of the corresponding gismu. As a result, there are a limited set of short rafsi available for assignment to each gismu. At most seven possible short rafsi are available for consideration (of which at most three can be used, as explained above).
 
-*[sakli](/glossary/#sakli)*. The digits in the second column represent the gismu letters used to form the rafsi.
+*[sakli](/glossary/?mode=exact&word=sakli)*. The digits in the second column represent the gismu letters used to form the rafsi.
 
 |     |      |          |
 | --- | ---- | -------- |
@@ -575,9 +575,9 @@ The intention was to use the available “rafsi space” – the set of all poss
 | CCV | 345  | *-kli-*  |
 | CCV | 132  | *-ska-*  |
 
-(The only actual short rafsi for *[sakli](/glossary/#sakli)* is *-sal-*.)
+(The only actual short rafsi for *[sakli](/glossary/?mode=exact&word=sakli)* is *-sal-*.)
 
-For gismu of the form CCVCV, like *[blaci](/glossary/#blaci)*, the only short rafsi forms that can exist are:
+For gismu of the form CCVCV, like *[blaci](/glossary/?mode=exact&word=blaci)*, the only short rafsi forms that can exist are:
 
 |     |      |          |
 | --- | ---- | -------- |
@@ -589,9 +589,9 @@ For gismu of the form CCVCV, like *[blaci](/glossary/#blaci)*, the only short ra
 | CVV | 235  | *-lai-*  |
 | CCV | 123  | *-bla-*  |
 
-(In fact, *[blaci](/glossary/#blaci)* has none of these short rafsi; they are all assigned to other gismu. Lojban speakers are not free to reassign any of the rafsi; the tables shown here are to help understand how the rafsi were chosen in the first place.)
+(In fact, *[blaci](/glossary/?mode=exact&word=blaci)* has none of these short rafsi; they are all assigned to other gismu. Lojban speakers are not free to reassign any of the rafsi; the tables shown here are to help understand how the rafsi were chosen in the first place.)
 
-There are a few restrictions: a CVV-form rafsi without an apostrophe cannot exist unless the vowels make up one of the four diphthongs *ai*, *ei*, *oi*, or *au*; and a CCV-form rafsi is possible only if the two consonants form a permissible initial consonant pair (see [Section 4.1](/chapter04/#41-introductory "4.1. Introductory")). Thus *[mamta](/glossary/#mamta)*, which has the same form as *[salci](/glossary/#salci)*, can only have *mam*, *mat*, and *ma'a* as possible rafsi: in fact, only *mam* is assigned to it.
+There are a few restrictions: a CVV-form rafsi without an apostrophe cannot exist unless the vowels make up one of the four diphthongs *ai*, *ei*, *oi*, or *au*; and a CCV-form rafsi is possible only if the two consonants form a permissible initial consonant pair (see [Section 4.1](/chapter04/#41-introductory "4.1. Introductory")). Thus *[mamta](/glossary/?mode=exact&word=mamta)*, which has the same form as *[salci](/glossary/?mode=exact&word=salci)*, can only have *mam*, *mat*, and *ma'a* as possible rafsi: in fact, only *mam* is assigned to it.
 
 Some cmavo also have associated rafsi, usually CVC-form. For example, the ten common numerical digits, which are all CV form cmavo, each have a CVC-form rafsi formed by adding a consonant to the cmavo. Most cmavo that have rafsi are ones used in composing tanru.
 
@@ -677,11 +677,11 @@ When attaching two rafsi together, it may be necessary to insert a hyphen letter
 
 The y-hyphen is used after a CVC-form rafsi when joining it with the following rafsi could result in an impermissible consonant pair, or when the resulting lujvo could fall apart into two or more words (either cmavo or gismu).
 
-Thus, the tanru *pante tavla* (“protest talk”) cannot produce the lujvo *patta'a*, because *tt* is not a permissible consonant pair; the lujvo must be *[patyta'a](/glossary/#patytaa)*. Similarly, the tanru *mudri siclu* (“wooden whistle”) cannot form the lujvo *mudsiclu*; instead, *mudysiclu* must be used. (Remember that *y* is not counted in determining whether the first five letters of a brivla contain a consonant cluster: this is why.)
+Thus, the tanru *pante tavla* (“protest talk”) cannot produce the lujvo *patta'a*, because *tt* is not a permissible consonant pair; the lujvo must be *[patyta'a](/glossary/?mode=exact&word=patyta%27a)*. Similarly, the tanru *mudri siclu* (“wooden whistle”) cannot form the lujvo *mudsiclu*; instead, *mudysiclu* must be used. (Remember that *y* is not counted in determining whether the first five letters of a brivla contain a consonant cluster: this is why.)
 
 The y-hyphen is also used to attach a 4-letter rafsi, formed by dropping the final vowel of a gismu, to the following rafsi. (This procedure was shown, but not explained, in [Example 4.27](/chapter04/#example-427 "Example 4.27.") to [Example 4.31](/chapter04/#example-431 "Example 4.31.").)
 
-The lujvo forms *zunlyjamfu*, *zunlyjma*, *zuljamfu*, and *[zuljma](/glossary/#zuljma)* are all legitimate and equivalent forms made from the tanru *zunle jamfu* (“left foot”). Of these, *[zuljma](/glossary/#zuljma)* is the preferred one since it is the shortest; it thus is likely to be the form listed in a Lojban dictionary.
+The lujvo forms *zunlyjamfu*, *zunlyjma*, *zuljamfu*, and *[zuljma](/glossary/?mode=exact&word=zuljma)* are all legitimate and equivalent forms made from the tanru *zunle jamfu* (“left foot”). Of these, *[zuljma](/glossary/?mode=exact&word=zuljma)* is the preferred one since it is the shortest; it thus is likely to be the form listed in a Lojban dictionary.
 
 The r-hyphen and its close relative, the n-hyphen, are used in lujvo only after CVV-form rafsi. A hyphen is always required in a two-part lujvo of the form CVV-CVV, since otherwise there would be no consonant cluster.
 
@@ -689,7 +689,7 @@ An r-hyphen or n-hyphen is also required after the CVV-form rafsi of any lujvo o
 
 An n-hyphen is only used in place of an r-hyphen when the following rafsi begins with *r*. For example, the tanru *rokci renro* (“rock throw”) cannot be expressed as *ro'ire'o* (which breaks up into two cmavo), nor can it be *ro'irre'o* (which has an impermissible double consonant); the n-hyphen is required, and the correct form of the hyphenated lujvo is *ro'inre'o*. The same lujvo could also be expressed without hyphenation as *rokre'o*.
 
-There is also a different way of building lujvo, or rather phrases which are grammatically and semantically equivalent to lujvo. You can make a phrase containing any desired words, joining each pair of them with the special cmavo *[zei](/glossary/#zei)*. Thus,
+There is also a different way of building lujvo, or rather phrases which are grammatically and semantically equivalent to lujvo. You can make a phrase containing any desired words, joining each pair of them with the special cmavo *[zei](/glossary/?mode=exact&word=zei)*. Thus,
 
 ##### Example 4.38.
 
@@ -701,7 +701,7 @@ There is also a different way of building lujvo, or rather phrases which are gra
 
 :::
 
-is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily the same as the underlying tanru *bridi valsi*, which could have other meanings.) Using *[zei](/glossary/#zei)* is the only way to get a cmavo lacking a rafsi, a cmene, or a fu'ivla into a lujvo:
+is the exact equivalent of *[brivla](/glossary/?mode=exact&word=brivla)* (but not necessarily the same as the underlying tanru *bridi valsi*, which could have other meanings.) Using *[zei](/glossary/?mode=exact&word=zei)* is the only way to get a cmavo lacking a rafsi, a cmene, or a fu'ivla into a lujvo:
 
 ##### Example 4.39.
 
@@ -750,7 +750,7 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 
 :::
 
-[Example 4.41](/chapter04/#example-441 "Example 4.41.") is particularly noteworthy because the phrase that would be produced by removing the *[zei](/glossary/#zei)*&#x73; from it doesn't end with a brivla, and in fact is not even grammatical. As written, the example is a tanru with two components, but by adding a *[zei](/glossary/#zei)* between *[by.](/glossary/#by)* and *livgyterbilma* to produce
+[Example 4.41](/chapter04/#example-441 "Example 4.41.") is particularly noteworthy because the phrase that would be produced by removing the *[zei](/glossary/?mode=exact&word=zei)*&#x73; from it doesn't end with a brivla, and in fact is not even grammatical. As written, the example is a tanru with two components, but by adding a *[zei](/glossary/?mode=exact&word=zei)* between *[by.](/glossary/?mode=exact&word=by)* and *livgyterbilma* to produce
 
 ##### Example 4.43.
 
@@ -763,15 +763,15 @@ is the exact equivalent of *[brivla](/glossary/#brivla)* (but not necessarily th
 
 :::
 
-the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43.") may be preferable, because its place structure can be built from that of *[bilma](/glossary/#bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
+the whole phrase would become a single lujvo. The longer lujvo of [Example 4.43](/chapter04/#example-443 "Example 4.43.") may be preferable, because its place structure can be built from that of *[bilma](/glossary/?mode=exact&word=bilma)*, whereas the place structure of a lujvo without a brivla must be constructed ad hoc.
 
-Note that rafsi may not be used in *[zei](/glossary/#zei)* phrases, because they are not words. CVV rafsi look like words (specifically cmavo) but there can be no confusion between the two uses of the same letters, because cmavo appear only as separate words or in compound cmavo (which are really just a notation for writing separate but closely related words as if they were one); rafsi appear only as parts of lujvo.
+Note that rafsi may not be used in *[zei](/glossary/?mode=exact&word=zei)* phrases, because they are not words. CVV rafsi look like words (specifically cmavo) but there can be no confusion between the two uses of the same letters, because cmavo appear only as separate words or in compound cmavo (which are really just a notation for writing separate but closely related words as if they were one); rafsi appear only as parts of lujvo.
 
 ## 4.7. fu'ivla
 
 The use of tanru or lujvo is not always appropriate for very concrete or specific terms (e.g. “brie” or “cobra”), or for jargon words specialized to a narrow field (e.g. “quark”, “integral”, or “iambic pentameter”). These words are in effect names for concepts, and the names were invented by speakers of another language. The vast majority of words referring to plants, animals, foods, and scientific terminology cannot be easily expressed as tanru. They thus must be borrowed (actually “copied”) into Lojban from the original language.
 
-There are four stages of borrowing in Lojban, as words become more and more modified (but shorter and easier to use). Stage 1 is the use of a foreign name quoted with the cmavo *[la'o](/glossary/#lao)* (explained in full in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI")):
+There are four stages of borrowing in Lojban, as words become more and more modified (but shorter and easier to use). Stage 1 is the use of a foreign name quoted with the cmavo *[la'o](/glossary/?mode=exact&word=la%27o)* (explained in full in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI")):
 
 ##### Example 4.44.
 
@@ -842,7 +842,7 @@ Here are a few examples:
 | *cidj,r,spageti* (prefix long rafsi)  |
 | *dja,r,spageti* (prefix short rafsi)  |
 
-where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban gismu for “food”, thus categorizing *[cidjrspageti](/glossary/#cidjrspageti)* as a kind of food. The form with the short rafsi happens to work, but such good fortune cannot be relied on: in any event, it means the same thing.
+where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/?mode=exact&word=cidja)*, the Lojban gismu for “food”, thus categorizing *[cidjrspageti](/glossary/?mode=exact&word=cidjrspageti)* as a kind of food. The form with the short rafsi happens to work, but such good fortune cannot be relied on: in any event, it means the same thing.
 
 ##### Example 4.47.
 
@@ -854,7 +854,7 @@ where *cidj-* is the 4-letter rafsi for *[cidja](/glossary/#cidja)*, the Lojban 
 | *tric,r,xaceru* (prefix rafsi)                   |
 | *ric,r,xaceru* (prefix short rafsi)              |
 
-where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu for “tree”. Note that by the same principles, “maple sugar” could get the fu'ivla *saktrxaceru*, or could be represented by the tanru *tricrxaceru sakta*. Technically, *ricrxaceru* and *tricrxaceru* are distinct fu'ivla, but they would surely be given the same meanings if both happened to be in use.
+where *tric-* and *ric-* are rafsi for *[tricu](/glossary/?mode=exact&word=tricu)*, the gismu for “tree”. Note that by the same principles, “maple sugar” could get the fu'ivla *saktrxaceru*, or could be represented by the tanru *tricrxaceru sakta*. Technically, *ricrxaceru* and *tricrxaceru* are distinct fu'ivla, but they would surely be given the same meanings if both happened to be in use.
 
 ##### Example 4.48.
 
@@ -864,7 +864,7 @@ where *tric-* and *ric-* are rafsi for *[tricu](/glossary/#tricu)*, the gismu fo
 | *bri* (Lojbanize)           |
 | *cirl,r,bri* (prefix rafsi) |
 
-where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
+where *cirl-* represents *[cirla](/glossary/?mode=exact&word=cirla)* (“cheese”).
 
 ##### Example 4.49.
 
@@ -874,7 +874,7 @@ where *cirl-* represents *[cirla](/glossary/#cirla)* (“cheese”).
 | *kobra* (Lojbanize)           |
 | *sinc,r,kobra* (prefix rafsi) |
 
-where *sinc-* represents *[since](/glossary/#since)* (“snake”).
+where *sinc-* represents *[since](/glossary/?mode=exact&word=since)* (“snake”).
 
 ##### Example 4.50.
 
@@ -885,7 +885,7 @@ where *sinc-* represents *[since](/glossary/#since)* (“snake”).
 | *kuarka* (add final vowel)     |
 | *sask,r,kuarka* (prefix rafsi) |
 
-where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the extra vowel *a* added to the end of the word, and the diphthong *ua*, which never appears in gismu or lujvo, but may appear in fu'ivla.
+where *sask-* represents *[saske](/glossary/?mode=exact&word=saske)* (“science”). Note the extra vowel *a* added to the end of the word, and the diphthong *ua*, which never appears in gismu or lujvo, but may appear in fu'ivla.
 
 ##### Example 4.51.
 
@@ -897,15 +897,15 @@ where *sask-* represents *[saske](/glossary/#saske)* (“science”). Note the e
 | *lerf,r,djamo* (prefix rafsi) |
 | *ler,l,djamo* (prefix rafsi)  |
 
-where *ler-* represents *[lerfu](/glossary/#lerfu)* (“letter”). Note the l-hyphen in "lerldjamo", since "lerndjamo" contains the forbidden cluster "ndj".
+where *ler-* represents *[lerfu](/glossary/?mode=exact&word=lerfu)* (“letter”). Note the l-hyphen in "lerldjamo", since "lerndjamo" contains the forbidden cluster "ndj".
 
-The use of the prefix helps distinguish among the many possible meanings of the borrowed word, depending on the field. As it happens, *[spageti](/glossary/#spageti)* and *[kuarka](/glossary/#kuarka)* are valid Stage 4 fu'ivla, but *xaceru* looks like a compound cmavo, and *kobra* like a gismu.
+The use of the prefix helps distinguish among the many possible meanings of the borrowed word, depending on the field. As it happens, *[spageti](/glossary/?mode=exact&word=spageti)* and *[kuarka](/glossary/?mode=exact&word=kuarka)* are valid Stage 4 fu'ivla, but *xaceru* looks like a compound cmavo, and *kobra* like a gismu.
 
 For another example, “integral” has a specific meaning to a mathematician. But the Lojban fu'ivla *integrale*, which is a valid Stage 4 fu'ivla, does not convey that mathematical sense to a non-mathematical listener, even one with an English-speaking background; its source – the English word “integral” – has various other specialized meanings in other fields.
 
 Left uncontrolled, *integrale* almost certainly would eventually come to mean the same collection of loosely related concepts that English associates with “integral”, with only the context to indicate (possibly) that the mathematical term is meant.
 
-The prefix method would render the mathematical concept as *cmacrntegrale*, if the *i* of *integrale* is removed, or something like *cmacrnintegrale*, if a new consonant is added to the beginning; *cmac-* is the rafsi for *[cmaci](/glossary/#cmaci)* (“mathematics”). The architectural sense of “integral” might be conveyed with *dinjrnintegrale* or *tarmrnintegrale*, where *[dinju](/glossary/#dinju)* and *[tarmi](/glossary/#tarmi)* mean “building” and “form” respectively.
+The prefix method would render the mathematical concept as *cmacrntegrale*, if the *i* of *integrale* is removed, or something like *cmacrnintegrale*, if a new consonant is added to the beginning; *cmac-* is the rafsi for *[cmaci](/glossary/?mode=exact&word=cmaci)* (“mathematics”). The architectural sense of “integral” might be conveyed with *dinjrnintegrale* or *tarmrnintegrale*, where *[dinju](/glossary/?mode=exact&word=dinju)* and *[tarmi](/glossary/?mode=exact&word=tarmi)* mean “building” and “form” respectively.
 
 Here are some fu'ivla representing cultures and related things, shown with more than one rafsi prefix:
 
@@ -968,7 +968,7 @@ Note the commas in [Example 4.55](/chapter04/#example-455 "Example 4.55.") and [
 
 ## 4.8. cmene
 
-Lojbanized names, called *[cmene](/glossary/#cmene)*, are very much like their counterparts in other languages. They are labels applied to things (or people) to stand for them in descriptions or in direct address. They may convey meaning in themselves, but do not necessarily do so.
+Lojbanized names, called *[cmene](/glossary/?mode=exact&word=cmene)*, are very much like their counterparts in other languages. They are labels applied to things (or people) to stand for them in descriptions or in direct address. They may convey meaning in themselves, but do not necessarily do so.
 
 Because names are often highly personal and individual, Lojban attempts to allow native language names to be used with a minimum of modification. The requirement that the Lojban speech stream be unambiguously analyzable, however, means that most names must be modified somewhat when they are Lojbanized. Here are a few examples of English names and possible Lojban equivalents:
 
@@ -1038,7 +1038,7 @@ Because names are often highly personal and individual, Lojban attempts to allow
 
 :::
 
-(Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62.") is stressed on the *[ka](/glossary/#ka)*.)
+(Note that syllabic *r* is skipped in determining the stressed syllable, so [Example 4.62](/chapter04/#example-462 "Example 4.62.") is stressed on the *[ka](/glossary/?mode=exact&word=ka)*.)
 
 ##### Example 4.63.
 
@@ -1090,11 +1090,11 @@ are both valid Lojbanizations of “John Brown”.
 
 The final arbiter of the correct form of a name is the person doing the naming, although most cultures grant people the right to determine how they want their own name to be spelled and pronounced. The English name “Mary” can thus be Lojbanized as *meris.*, *maris.*, *meiris.*, *merix.*, or even *marys.*. The last alternative is not pronounced much like its English equivalent, but may be desirable to someone who values spelling over pronunciation. The final consonant need not be an *s*; there must, however, be some Lojban consonant at the end.
 
-Names are not permitted to have the sequences *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[doi](/glossary/#doi)* embedded in them, unless the sequence is immediately preceded by a consonant. These minor restrictions are due to the fact that all Lojban cmene embedded in a speech stream will be preceded by one of these words or by a pause. With one of these words embedded, the cmene might break up into valid Lojban words followed by a shorter cmene. However, break-up cannot happen after a consonant, because that would imply that the word before the *[la](/glossary/#la)*, or whatever, ended in a consonant without pause, which is impossible.
+Names are not permitted to have the sequences *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, or *[doi](/glossary/?mode=exact&word=doi)* embedded in them, unless the sequence is immediately preceded by a consonant. These minor restrictions are due to the fact that all Lojban cmene embedded in a speech stream will be preceded by one of these words or by a pause. With one of these words embedded, the cmene might break up into valid Lojban words followed by a shorter cmene. However, break-up cannot happen after a consonant, because that would imply that the word before the *[la](/glossary/?mode=exact&word=la)*, or whatever, ended in a consonant without pause, which is impossible.
 
 For example, the invalid name *laplas.* would look like the Lojban words *la plas.*, and *ilanas.* would be misunderstood as *.i la nas.*. However, *NEderlants.* cannot be misheard as *NEder lants.*, because *NEder* with no following pause is not a possible Lojban word.
 
-There are close alternatives to these forbidden sequences that can be used in Lojbanizing names, such as *[ly](/glossary/#ly)*, *[lei](/glossary/#lei)*, and *[dai](/glossary/#dai)* or *[do'i](/glossary/#doi)*, that do not cause these problems.
+There are close alternatives to these forbidden sequences that can be used in Lojbanizing names, such as *[ly](/glossary/?mode=exact&word=ly)*, *[lei](/glossary/?mode=exact&word=lei)*, and *[dai](/glossary/?mode=exact&word=dai)* or *[do'i](/glossary/?mode=exact&word=do%27i)*, that do not cause these problems.
 
 Lojban cmene are identifiable as word forms by the following characteristics:
 
@@ -1116,7 +1116,7 @@ Names meeting these criteria may be invented, Lojbanized from names in other lan
 
 :::
 
-from the cmavo *[pa](/glossary/#pa)*, with rafsi *pav*, meaning “one”
+from the cmavo *[pa](/glossary/?mode=exact&word=pa)*, with rafsi *pav*, meaning “one”
 
 ##### Example 4.68.
 
@@ -1129,7 +1129,7 @@ from the cmavo *[pa](/glossary/#pa)*, with rafsi *pav*, meaning “one”
 
 :::
 
-from the gismu *[solri](/glossary/#solri)*, meaning “solar”, or actually “pertaining to the Sun”
+from the gismu *[solri](/glossary/?mode=exact&word=solri)*, meaning “solar”, or actually “pertaining to the Sun”
 
 ##### Example 4.69.
 
@@ -1142,7 +1142,7 @@ from the gismu *[solri](/glossary/#solri)*, meaning “solar”, or actually “
 
 :::
 
-from the gismu *[ralju](/glossary/#ralju)*, meaning “principal”.
+from the gismu *[ralju](/glossary/?mode=exact&word=ralju)*, meaning “principal”.
 
 ##### Example 4.70.
 
@@ -1155,7 +1155,7 @@ from the gismu *[ralju](/glossary/#ralju)*, meaning “principal”.
 
 :::
 
-from the gismu *[nobli](/glossary/#nobli)*, with rafsi *nol*, meaning “noble”.
+from the gismu *[nobli](/glossary/?mode=exact&word=nobli)*, with rafsi *nol*, meaning “noble”.
 
 To Lojbanize a name from the various natural languages, apply the following rules:
 
@@ -1164,9 +1164,9 @@ To Lojbanize a name from the various natural languages, apply the following rule
 3. Convert all sounds to their closest Lojban equivalents.
 4. If possible and acceptable, shift the stress to the penultimate (next-to-the-last) syllable. Use commas and capitalization in written Lojban when it is necessary to preserve non-standard syllabication or stress. Do not capitalize names otherwise.
 5. If the name contains an impermissible consonant pair, insert a vowel between the consonants: *y* is recommended.
-6. No cmene may have the syllables *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[doi](/glossary/#doi)* in them, unless immediately preceded by a consonant. If these combinations are present, they must be converted to something else. Possible substitutions include *[ly](/glossary/#ly)*, *ly'i*, and *[dai](/glossary/#dai)* or *[do'i](/glossary/#doi)*, respectively.
+6. No cmene may have the syllables *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, or *[doi](/glossary/?mode=exact&word=doi)* in them, unless immediately preceded by a consonant. If these combinations are present, they must be converted to something else. Possible substitutions include *[ly](/glossary/?mode=exact&word=ly)*, *ly'i*, and *[dai](/glossary/?mode=exact&word=dai)* or *[do'i](/glossary/?mode=exact&word=do%27i)*, respectively.
 
-There are some additional rules for Lojbanizing the scientific names (technically known as “Linnaean binomials” after their inventor) which are internationally applied to each species of animal or plant. Where precision is essential, these names need not be Lojbanized, but can be directly inserted into Lojban text using the cmavo *[la'o](/glossary/#lao)*, explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Using this cmavo makes the already lengthy Latinized names at least four syllables longer, however, and leaves the pronunciation in doubt. The following suggestions, though incomplete, will assist in converting Linnaean binomals to valid Lojban names. They can also help to create fu'ivla based on Linnaean binomials or other words of the international scientific vocabulary. The term “back vowel” in the following list refers to any of the letters *a*, *o*, or *u*; the term “front vowel” correspondingly refers to any of the letters *e*, *i*, or *y*.
+There are some additional rules for Lojbanizing the scientific names (technically known as “Linnaean binomials” after their inventor) which are internationally applied to each species of animal or plant. Where precision is essential, these names need not be Lojbanized, but can be directly inserted into Lojban text using the cmavo *[la'o](/glossary/?mode=exact&word=la%27o)*, explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Using this cmavo makes the already lengthy Latinized names at least four syllables longer, however, and leaves the pronunciation in doubt. The following suggestions, though incomplete, will assist in converting Linnaean binomals to valid Lojban names. They can also help to create fu'ivla based on Linnaean binomials or other words of the international scientific vocabulary. The term “back vowel” in the following list refers to any of the letters *a*, *o*, or *u*; the term “front vowel” correspondingly refers to any of the letters *e*, *i*, or *y*.
 
 1. Change double consonants other than *cc* to single consonants.
 2. Change *cc* before a front vowel to *kc*, but otherwise to *k*.
@@ -1233,7 +1233,7 @@ Summarized in one place, here are the rules for inserting pauses between Lojban 
 1. Any two words may have a pause between them; it is always illegal to pause in the middle of a word, because that breaks up the word into two words.
 2. Every word ending in a consonant must be followed by a pause. Necessarily, all such words are cmene.
 3. Every word beginning with a vowel must be preceded by a pause. Such words are either cmavo, fu'ivla, or cmene; all gismu and lujvo begin with consonants.
-4. Every cmene must be preceded by a pause, unless the immediately preceding word is one of the cmavo *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, *[la'i](/glossary/#lai)*, or *[doi](/glossary/#doi)* (which is why those strings are forbidden in cmene). However, the situation triggering this rule rarely occurs.
+4. Every cmene must be preceded by a pause, unless the immediately preceding word is one of the cmavo *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, *[la'i](/glossary/?mode=exact&word=la%27i)*, or *[doi](/glossary/?mode=exact&word=doi)* (which is why those strings are forbidden in cmene). However, the situation triggering this rule rarely occurs.
 5. If the last syllable of a word bears the stress, and a brivla follows, the two must be separated by a pause, to prevent confusion with the primary stress of the brivla. In this case, the first word must be either a cmavo or a cmene with unusual stress (which already ends with a pause, of course).
 6. A cmavo of the form “Cy” must be followed by a pause unless another “Cy”-form cmavo follows.
 7. When non-Lojban text is embedded in Lojban, it must be preceded and followed by pauses. (How to embed non-Lojban text is explained in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI").)
@@ -1250,7 +1250,7 @@ The first is that there is usually more than one rafsi that can be used for each
 
 The second complication is the serious one. Remember that a tanru is ambiguous – it has several possible meanings. A lujvo, or at least one that would be put into the dictionary, has just a single meaning. Like a gismu, a lujvo is a predicate which encompasses one area of the semantic universe, with one set of places. Hopefully the meaning chosen is the most useful of the possible semantic spaces. A possible source of linguistic drift in Lojban is that as Lojbanic society evolves, the concept that seems the most useful one may change.
 
-You must also be aware of the possibility of some prior meaning of a new lujvo, especially if you are writing for posterity. If a lujvo is invented which involves the same tanru as one that is in the dictionary, and is assigned a different meaning (or even just a different place structure), linguistic drift results. This isn't necessarily bad. Every natural language does it. But in communication, when you use a meaning different from the dictionary definition, someone else may use the dictionary and therefore misunderstand you. You can use the cmavo *[za'e](/glossary/#zae)* (explained in [Section 19.11](/chapter19/#1911-contrastive-emphasis-bahe "19.11. Contrastive emphasis: BAhE")) before a newly coined lujvo to indicate that it may have a non-dictionary meaning.
+You must also be aware of the possibility of some prior meaning of a new lujvo, especially if you are writing for posterity. If a lujvo is invented which involves the same tanru as one that is in the dictionary, and is assigned a different meaning (or even just a different place structure), linguistic drift results. This isn't necessarily bad. Every natural language does it. But in communication, when you use a meaning different from the dictionary definition, someone else may use the dictionary and therefore misunderstand you. You can use the cmavo *[za'e](/glossary/?mode=exact&word=za%27e)* (explained in [Section 19.11](/chapter19/#1911-contrastive-emphasis-bahe "19.11. Contrastive emphasis: BAhE")) before a newly coined lujvo to indicate that it may have a non-dictionary meaning.
 
 The essential nature of human communication is that if the listener understands, then all is well. Let this be the ultimate guideline for choosing meanings and place structures for invented lujvo.
 
@@ -1374,19 +1374,19 @@ Here are some lujvo with their scores (not necessarily the lowest scoring forms 
 
 This section contains examples of making and scoring lujvo. First, we will start with the tanru *gerku zdani* (“dog house”) and construct a lujvo meaning “doghouse”, that is, a house where a dog lives. We will use a brute-force application of the algorithm in [Section 4.12](/chapter04/#412-the-lujvo-scoring-algorithm "4.12. The lujvo scoring algorithm"), using every possible rafsi.
 
-The rafsi for *[gerku](/glossary/#gerku)* are:
+The rafsi for *[gerku](/glossary/?mode=exact&word=gerku)* are:
 
 |          |           |           |          |
 | -------- | --------- | --------- | -------- |
 | *-ger-*, | *-ge'u-*, | *-gerk-*, | *-gerku* |
 
-The rafsi for *[zdani](/glossary/#zdani)* are:
+The rafsi for *[zdani](/glossary/?mode=exact&word=zdani)* are:
 
 |          |           |           |
 | -------- | --------- | --------- |
 | *-zda-*, | *-zdan-*, | *-zdani*. |
 
-Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as possible rafsi for *[gerku](/glossary/#gerku)*; Step 2 directs us to use *-zda-* and *-zdani* as possible rafsi for *[zdani](/glossary/#zdani)*. The six possible forms of the lujvo are then:
+Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as possible rafsi for *[gerku](/glossary/?mode=exact&word=gerku)*; Step 2 directs us to use *-zda-* and *-zdani* as possible rafsi for *[zdani](/glossary/?mode=exact&word=zdani)*. The six possible forms of the lujvo are then:
 
 |               |
 | ------------- |
@@ -1397,7 +1397,7 @@ Step 1 of the algorithm directs us to use *-ger-*, *-ge'u-* and *-gerk-* as poss
 | *gerk -zda*   |
 | *gerk -zdani* |
 
-We must then insert appropriate hyphens in each case. The first two forms need no hyphenation: *[ge](/glossary/#ge)* cannot fall off the front, because the following word would begin with *rz*, which is not a permissible initial consonant pair. So the lujvo forms are *[gerzda](/glossary/#gerzda)* and *gerzdani*.
+We must then insert appropriate hyphens in each case. The first two forms need no hyphenation: *[ge](/glossary/?mode=exact&word=ge)* cannot fall off the front, because the following word would begin with *rz*, which is not a permissible initial consonant pair. So the lujvo forms are *[gerzda](/glossary/?mode=exact&word=gerzda)* and *gerzdani*.
 
 The third form, *ge'u -zda*, needs no hyphen, because even though the first rafsi is CVV, the second one is CCV, so there is a consonant cluster in the first five letters. So *ge'uzda* is this form of the lujvo.
 
@@ -1405,16 +1405,16 @@ The fourth form, *ge'u-zdani*, however, requires an r-hyphen; otherwise, the *ge
 
 The last two forms require y-hyphens, as all 4-letter rafsi do, and so are *gerkyzda* and *gerkyzdani* respectively.
 
-The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that *[gerzda](/glossary/#gerzda)* would win. Its $L$ score is 6, its $A$ score is 0, its $H$ score is 0, its $R$ score is 12, and its $V$ score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form *[gerzda](/glossary/#gerzda)*.
+The scoring algorithm is heavily weighted in favor of short lujvo, so we might expect that *[gerzda](/glossary/?mode=exact&word=gerzda)* would win. Its $L$ score is 6, its $A$ score is 0, its $H$ score is 0, its $R$ score is 12, and its $V$ score is 3, for a final score of 5878. The other forms have scores of 7917, 6367, 9506, 8008, and 10047 respectively. Consequently, this lujvo would probably appear in the dictionary in the form *[gerzda](/glossary/?mode=exact&word=gerzda)*.
 
 For the next example, we will use the tanru *bloti klesi* (“boat class”) presumably referring to the category (rowboat, motorboat, cruise liner) into which a boat falls. We will omit the long rafsi from the process, since lujvo containing long rafsi are almost never preferred by the scoring algorithm when there are short rafsi available.
 
-The rafsi for *[bloti](/glossary/#bloti)* are *-lot-*, *-blo-*, and *-lo'i-*; for *[klesi](/glossary/#klesi)* they are *-kle-* and *-lei-*. Both these gismu are among the handful which have both CVV-form and CCV-form rafsi, so there is an unusual number of possibilities available for a two-part tanru:
+The rafsi for *[bloti](/glossary/?mode=exact&word=bloti)* are *-lot-*, *-blo-*, and *-lo'i-*; for *[klesi](/glossary/?mode=exact&word=klesi)* they are *-kle-* and *-lei-*. Both these gismu are among the handful which have both CVV-form and CCV-form rafsi, so there is an unusual number of possibilities available for a two-part tanru:
 
 |          |                               |            |
 | -------- | ----------------------------- | ---------- |
 | *lotkle* | *blokle*                      | *lo'ikle*  |
-| *lotlei* | *[blolei](/glossary/#blolei)* | *lo'irlei* |
+| *lotlei* | *[blolei](/glossary/?mode=exact&word=blolei)* | *lo'irlei* |
 
 Only *lo'irlei* requires hyphenation (to avoid confusion with the cmavo sequence *lo'i lei*). All six forms are valid versions of the lujvo, as are the six further forms using long rafsi; however, the scoring algorithm produces the following results:
 
@@ -1424,10 +1424,10 @@ Only *lo'irlei* requires hyphenation (to avoid confusion with the cmavo sequence
 | *blokle*                      | 5858 |
 | *lo'ikle*                     | 6367 |
 | *lotlei*                      | 5867 |
-| *[blolei](/glossary/#blolei)* | 5847 |
+| *[blolei](/glossary/?mode=exact&word=blolei)* | 5847 |
 | *lo'irlei*                    | 7456 |
 
-So the form *[blolei](/glossary/#blolei)* is preferred, but only by a tiny margin over *blokle*; "lotlei" and "lotkle" are only slightly worse; *lo'ikle* suffers because of its apostrophe, and *lo'irlei* because of having both apostrophe and hyphen.
+So the form *[blolei](/glossary/?mode=exact&word=blolei)* is preferred, but only by a tiny margin over *blokle*; "lotlei" and "lotkle" are only slightly worse; *lo'ikle* suffers because of its apostrophe, and *lo'irlei* because of having both apostrophe and hyphen.
 
 Our third example will result in forming both a lujvo and a name from the tanru *logji bangu girzu*, or “logical-language group” in English. (“The Logical Language Group” is the name of the publisher of this book and the organization for the promotion of Lojban.)
 
@@ -1459,16 +1459,16 @@ After hyphenation, we have:
 | *logjybangirzu*                       | *logjybaugirzu* | *logjybangygirzu* |
 | *lojbangir*                           | *lojbaugir*     | *lojbangygir*     |
 | *logjybangir*                         | *logjybaugir*   | *logjybangygir*   |
-| *[lojbangirz](/glossary/#lojbangirz)* | *lojbaugirz*    | *lojbangygirz*    |
+| *[lojbangirz](/glossary/?mode=exact&word=lojbangirz)* | *lojbaugirz*    | *lojbangygirz*    |
 | *logjybangirz*                        | *logjybaugirz*  | *logjybangygirz*  |
 
-The only fully reduced lujvo forms are *lojbangri* and *[lojbaugri](/glossary/#lojbaugri)*, of which the latter has a slightly lower score: 8827 versus 8796, respectively. However, for the name of the organization, we chose to make sure the name of the language was embedded in it, and to use the clearer long-form rafsi for *[girzu](/glossary/#girzu)*, producing *lojbangirz.*
+The only fully reduced lujvo forms are *lojbangri* and *[lojbaugri](/glossary/?mode=exact&word=lojbaugri)*, of which the latter has a slightly lower score: 8827 versus 8796, respectively. However, for the name of the organization, we chose to make sure the name of the language was embedded in it, and to use the clearer long-form rafsi for *[girzu](/glossary/?mode=exact&word=girzu)*, producing *lojbangirz.*
 
-Finally, here is a four-part lujvo with a cmavo in it, based on the tanru *nakni ke cinse ctuca* or “male (sexual teacher)”. The *[ke](/glossary/#ke)* cmavo ensures the interpretation “teacher of sexuality who is male”, rather than “teacher of male sexuality”. Here are the possible forms of the lujvo, both before and after hyphenation:
+Finally, here is a four-part lujvo with a cmavo in it, based on the tanru *nakni ke cinse ctuca* or “male (sexual teacher)”. The *[ke](/glossary/?mode=exact&word=ke)* cmavo ensures the interpretation “teacher of sexuality who is male”, rather than “teacher of male sexuality”. Here are the possible forms of the lujvo, both before and after hyphenation:
 
 |                          |                                             |
 | ------------------------ | ------------------------------------------- |
-| *nak -kem -cin -ctu*     | *[nakykemcinctu](/glossary/#nakykemcinctu)* |
+| *nak -kem -cin -ctu*     | *[nakykemcinctu](/glossary/?mode=exact&word=nakykemcinctu)* |
 | *nak -kem -cin -ctuca*   | *nakykemcinctuca*                           |
 | *nak -kem -cins -ctu*    | *nakykemcinsyctu*                           |
 | *nak -kem -cins -ctuca*  | *nakykemcinsyctuca*                         |
@@ -1477,7 +1477,7 @@ Finally, here is a four-part lujvo with a cmavo in it, based on the tanru *nakni
 | *nakn -kem -cins -ctu*   | *naknykemcinsyctu*                          |
 | *nakn -kem -cins -ctuca* | *naknykemcinsyctuca*                        |
 
-Of these forms, *[nakykemcinctu](/glossary/#nakykemcinctu)* is the shortest and is preferred by the scoring algorithm. On the whole, however, it might be better to just make a lujvo for *cinse ctuca* (which would be *cinctu*) since the sex of the teacher is rarely important. If there was a reason to specify “male”, then the simpler tanru *nakni cinctu* (“male sexual-teacher”) would be appropriate. This tanru is actually shorter than the four-part lujvo, since the *[ke](/glossary/#ke)* required for grouping need not be expressed.
+Of these forms, *[nakykemcinctu](/glossary/?mode=exact&word=nakykemcinctu)* is the shortest and is preferred by the scoring algorithm. On the whole, however, it might be better to just make a lujvo for *cinse ctuca* (which would be *cinctu*) since the sex of the teacher is rarely important. If there was a reason to specify “male”, then the simpler tanru *nakni cinctu* (“male sexual-teacher”) would be appropriate. This tanru is actually shorter than the four-part lujvo, since the *[ke](/glossary/?mode=exact&word=ke)* required for grouping need not be expressed.
 
 ## 4.14. The gismu creation algorithm
 
@@ -1521,7 +1521,7 @@ The gismu were created through the following process:
 
    See [Section 4.4](/chapter04/#44-gismu "4.4. gismu") for an example.
 
-5. The gismu form with the highest score usually became the actual gismu. Sometimes a lower-scoring form was used to provide a better rafsi. A few gismu were changed in error as a result of transcription blunders (for example, the gismu *[gismu](/glossary/#gismu)* should have been *gicmu*, but it's too late to fix it now).
+5. The gismu form with the highest score usually became the actual gismu. Sometimes a lower-scoring form was used to provide a better rafsi. A few gismu were changed in error as a result of transcription blunders (for example, the gismu *[gismu](/glossary/?mode=exact&word=gismu)* should have been *gicmu*, but it's too late to fix it now).
 
    The language weights used to make most of the gismu were as follows:
 
@@ -1547,7 +1547,7 @@ The gismu were created through the following process:
 
    (English and Hindi switched places due to demographic changes.)
 
-Note that the stressed vowel of the gismu was considered sufficiently distinctive that two or more gismu may differ only in this vowel; as an extreme example, *[bradi](/glossary/#bradi)*, *[bredi](/glossary/#bredi)*, *[bridi](/glossary/#bridi)*, and *[brodi](/glossary/#brodi)* (but fortunately not *brudi*) are all existing gismu.
+Note that the stressed vowel of the gismu was considered sufficiently distinctive that two or more gismu may differ only in this vowel; as an extreme example, *[bradi](/glossary/?mode=exact&word=bradi)*, *[bredi](/glossary/?mode=exact&word=bredi)*, *[bridi](/glossary/?mode=exact&word=bridi)*, and *[brodi](/glossary/?mode=exact&word=brodi)* (but fortunately not *brudi*) are all existing gismu.
 
 ## 4.15. Cultural and other non-algorithmic gismu
 
@@ -1557,17 +1557,17 @@ The following gismu represent concepts that are sufficiently unique to Lojban th
 
 |                             |                                     |
 | --------------------------- | ----------------------------------- |
-| *[broda](/glossary/#broda)* | 1st assignable predicate            |
-| *[brode](/glossary/#brode)* | 2nd assignable predicate            |
-| *[brodi](/glossary/#brodi)* | 3rd assignable predicate            |
-| *[brodo](/glossary/#brodo)* | 4th assignable predicate            |
-| *[brodu](/glossary/#brodu)* | 5th assignable predicate            |
-| *[cmavo](/glossary/#cmavo)* | structure word (from *cmalu valsi*) |
-| *[lojbo](/glossary/#lojbo)* | Lojbanic (from *logji bangu*)       |
-| *[lujvo](/glossary/#lujvo)* | compound word (from *pluja valsi*)  |
-| *[mekso](/glossary/#mekso)* | Mathematical EXpression             |
+| *[broda](/glossary/?mode=exact&word=broda)* | 1st assignable predicate            |
+| *[brode](/glossary/?mode=exact&word=brode)* | 2nd assignable predicate            |
+| *[brodi](/glossary/?mode=exact&word=brodi)* | 3rd assignable predicate            |
+| *[brodo](/glossary/?mode=exact&word=brodo)* | 4th assignable predicate            |
+| *[brodu](/glossary/?mode=exact&word=brodu)* | 5th assignable predicate            |
+| *[cmavo](/glossary/?mode=exact&word=cmavo)* | structure word (from *cmalu valsi*) |
+| *[lojbo](/glossary/?mode=exact&word=lojbo)* | Lojbanic (from *logji bangu*)       |
+| *[lujvo](/glossary/?mode=exact&word=lujvo)* | compound word (from *pluja valsi*)  |
+| *[mekso](/glossary/?mode=exact&word=mekso)* | Mathematical EXpression             |
 
-It is important to understand that even though *[cmavo](/glossary/#cmavo)*, *[lojbo](/glossary/#lojbo)*, and *[lujvo](/glossary/#lujvo)* were made up from parts of other gismu, they are now full-fledged gismu used in exactly the same way as all other gismu, both in grammar and in word formation.
+It is important to understand that even though *[cmavo](/glossary/?mode=exact&word=cmavo)*, *[lojbo](/glossary/?mode=exact&word=lojbo)*, and *[lujvo](/glossary/?mode=exact&word=lujvo)* were made up from parts of other gismu, they are now full-fledged gismu used in exactly the same way as all other gismu, both in grammar and in word formation.
 
 The following three groups of gismu represent concepts drawn from the international language of science and mathematics. They are used for concepts that are represented in most languages by a root which is recognized internationally.
 
@@ -1575,46 +1575,46 @@ Small metric prefixes (values less than 1):
 
 |                             |            |           |
 | --------------------------- | ---------- | --------- |
-| *[decti](/glossary/#decti)* | $.1$       | deci (d)  |
-| *[centi](/glossary/#centi)* | $.01$      | centi (c) |
-| *[milti](/glossary/#milti)* | $.001$     | milli (m) |
-| *[mikri](/glossary/#mikri)* | $10^{-6}$  | micro (μ) |
-| *[nanvi](/glossary/#nanvi)* | $10^{-9}$  | nano (n)  |
-| *[picti](/glossary/#picti)* | $10^{-12}$ | pico (p)  |
-| *[femti](/glossary/#femti)* | $10^{-15}$ | femto (f) |
-| *[xatsi](/glossary/#xatsi)* | $10^{-18}$ | atto (a)  |
-| *[zepti](/glossary/#zepti)* | $10^{-21}$ | zepto (z) |
-| *[gocti](/glossary/#gocti)* | $10^{-24}$ | yocto (y) |
+| *[decti](/glossary/?mode=exact&word=decti)* | $.1$       | deci (d)  |
+| *[centi](/glossary/?mode=exact&word=centi)* | $.01$      | centi (c) |
+| *[milti](/glossary/?mode=exact&word=milti)* | $.001$     | milli (m) |
+| *[mikri](/glossary/?mode=exact&word=mikri)* | $10^{-6}$  | micro (μ) |
+| *[nanvi](/glossary/?mode=exact&word=nanvi)* | $10^{-9}$  | nano (n)  |
+| *[picti](/glossary/?mode=exact&word=picti)* | $10^{-12}$ | pico (p)  |
+| *[femti](/glossary/?mode=exact&word=femti)* | $10^{-15}$ | femto (f) |
+| *[xatsi](/glossary/?mode=exact&word=xatsi)* | $10^{-18}$ | atto (a)  |
+| *[zepti](/glossary/?mode=exact&word=zepti)* | $10^{-21}$ | zepto (z) |
+| *[gocti](/glossary/?mode=exact&word=gocti)* | $10^{-24}$ | yocto (y) |
 
 Large metric prefixes (values greater than 1):
 
 |                             |           |           |
 | --------------------------- | --------- | --------- |
-| *[dekto](/glossary/#dekto)* | $10$      | deka (da) |
-| *[xecto](/glossary/#xecto)* | $100$     | hecto (h) |
-| *[kilto](/glossary/#kilto)* | $1000$    | kilo (k)  |
-| *[megdo](/glossary/#megdo)* | $10^6$    | mega (M)  |
-| *[gigdo](/glossary/#gigdo)* | $10^9$    | giga (G)  |
-| *[terto](/glossary/#terto)* | $10^{12}$ | tera (T)  |
-| *[petso](/glossary/#petso)* | $10^{15}$ | peta (P)  |
-| *[xexso](/glossary/#xexso)* | $10^{18}$ | exa (E)   |
-| *[zetro](/glossary/#zetro)* | $10^{21}$ | zetta (Z) |
-| *[gotro](/glossary/#gotro)* | $10^{24}$ | yotta (Y) |
+| *[dekto](/glossary/?mode=exact&word=dekto)* | $10$      | deka (da) |
+| *[xecto](/glossary/?mode=exact&word=xecto)* | $100$     | hecto (h) |
+| *[kilto](/glossary/?mode=exact&word=kilto)* | $1000$    | kilo (k)  |
+| *[megdo](/glossary/?mode=exact&word=megdo)* | $10^6$    | mega (M)  |
+| *[gigdo](/glossary/?mode=exact&word=gigdo)* | $10^9$    | giga (G)  |
+| *[terto](/glossary/?mode=exact&word=terto)* | $10^{12}$ | tera (T)  |
+| *[petso](/glossary/?mode=exact&word=petso)* | $10^{15}$ | peta (P)  |
+| *[xexso](/glossary/?mode=exact&word=xexso)* | $10^{18}$ | exa (E)   |
+| *[zetro](/glossary/?mode=exact&word=zetro)* | $10^{21}$ | zetta (Z) |
+| *[gotro](/glossary/?mode=exact&word=gotro)* | $10^{24}$ | yotta (Y) |
 
 Other scientific or mathematical terms:
 
 |                             |                |
 | --------------------------- | -------------- |
-| *[delno](/glossary/#delno)* | candela (Cd)   |
-| *[kelvo](/glossary/#kelvo)* | kelvin (K)     |
-| *[molro](/glossary/#molro)* | mole (mol)     |
-| *[radno](/glossary/#radno)* | radian (rad)   |
-| *[sinso](/glossary/#sinso)* | sine (sin)     |
-| *[stero](/glossary/#stero)* | steradian (sr) |
-| *[tanjo](/glossary/#tanjo)* | tangent (tan)  |
-| *[xampo](/glossary/#xampo)* | ampere (A)     |
+| *[delno](/glossary/?mode=exact&word=delno)* | candela (Cd)   |
+| *[kelvo](/glossary/?mode=exact&word=kelvo)* | kelvin (K)     |
+| *[molro](/glossary/?mode=exact&word=molro)* | mole (mol)     |
+| *[radno](/glossary/?mode=exact&word=radno)* | radian (rad)   |
+| *[sinso](/glossary/?mode=exact&word=sinso)* | sine (sin)     |
+| *[stero](/glossary/?mode=exact&word=stero)* | steradian (sr) |
+| *[tanjo](/glossary/?mode=exact&word=tanjo)* | tangent (tan)  |
+| *[xampo](/glossary/?mode=exact&word=xampo)* | ampere (A)     |
 
-The gismu *[sinso](/glossary/#sinso)* and *[tanjo](/glossary/#tanjo)* were only made non-algorithmically because they were identical (having been borrowed from a common source) in all the dictionaries that had translations. The other terms in this group are units in the international metric system; some metric units, however, were made by the ordinary process (usually because they are different in Chinese).
+The gismu *[sinso](/glossary/?mode=exact&word=sinso)* and *[tanjo](/glossary/?mode=exact&word=tanjo)* were only made non-algorithmically because they were identical (having been borrowed from a common source) in all the dictionaries that had translations. The other terms in this group are units in the international metric system; some metric units, however, were made by the ordinary process (usually because they are different in Chinese).
 
 Finally, there are the cultural gismu, which are also borrowed, but by modifying a word from one particular language, instead of using the multi-lingual gismu creation algorithm. Cultural gismu are used for words that have local importance to a particular culture; other cultures or languages may have no word for the concept at all, or may borrow the word from its home culture, just as Lojban does. In such a case, the gismu algorithm, which uses weighted averages, doesn't accurately represent the frequency of usage of the individual concept. Cultural gismu are not even required to be based on the six major languages.
 
@@ -1622,24 +1622,24 @@ The six Lojban source languages:
 
 |                             |                                     |
 | --------------------------- | ----------------------------------- |
-| *[jungo](/glossary/#jungo)* | Chinese (from “中国 (Zhong1 guo2)”) |
-| *[glico](/glossary/#glico)* | English                             |
-| *[xindo](/glossary/#xindo)* | Hindi                               |
-| *[spano](/glossary/#spano)* | Spanish                             |
-| *[rusko](/glossary/#rusko)* | Russian                             |
-| *[xrabo](/glossary/#xrabo)* | Arabic                              |
+| *[jungo](/glossary/?mode=exact&word=jungo)* | Chinese (from “中国 (Zhong1 guo2)”) |
+| *[glico](/glossary/?mode=exact&word=glico)* | English                             |
+| *[xindo](/glossary/?mode=exact&word=xindo)* | Hindi                               |
+| *[spano](/glossary/?mode=exact&word=spano)* | Spanish                             |
+| *[rusko](/glossary/?mode=exact&word=rusko)* | Russian                             |
+| *[xrabo](/glossary/?mode=exact&word=xrabo)* | Arabic                              |
 
 Seven other widely spoken languages that were on the list of candidates for gismu-making, but weren't used:
 
 |                             |                                 |
 | --------------------------- | ------------------------------- |
-| *[bengo](/glossary/#bengo)* | Bengali                         |
-| *[porto](/glossary/#porto)* | Portuguese                      |
-| *[baxso](/glossary/#baxso)* | Bahasa Melayu/Bahasa Indonesia  |
-| *[ponjo](/glossary/#ponjo)* | Japanese (from “日本 (Nippon)”) |
-| *[dotco](/glossary/#dotco)* | German (from „Deutsch“)         |
-| *[fraso](/glossary/#fraso)* | French (from « Français »)      |
-| *[xurdo](/glossary/#xurdo)* | Urdu                            |
+| *[bengo](/glossary/?mode=exact&word=bengo)* | Bengali                         |
+| *[porto](/glossary/?mode=exact&word=porto)* | Portuguese                      |
+| *[baxso](/glossary/?mode=exact&word=baxso)* | Bahasa Melayu/Bahasa Indonesia  |
+| *[ponjo](/glossary/?mode=exact&word=ponjo)* | Japanese (from “日本 (Nippon)”) |
+| *[dotco](/glossary/?mode=exact&word=dotco)* | German (from „Deutsch“)         |
+| *[fraso](/glossary/?mode=exact&word=fraso)* | French (from « Français »)      |
+| *[xurdo](/glossary/?mode=exact&word=xurdo)* | Urdu                            |
 
 (Urdu and Hindi began as the same language with different writing systems, but have now become somewhat different, principally in borrowed vocabulary. Urdu-speakers were counted along with Hindi-speakers when weights were assigned for gismu-making purposes.)
 
@@ -1648,96 +1648,96 @@ Countries with a large number of speakers of any of the above languages (where t
 |                             |            |
 | --------------------------- | ---------- |
 | English:                    |            |
-| *[merko](/glossary/#merko)* | American   |
-| *[brito](/glossary/#brito)* | British    |
-| *[skoto](/glossary/#skoto)* | Scottish   |
-| *[sralo](/glossary/#sralo)* | Australian |
-| *[kadno](/glossary/#kadno)* | Canadian   |
+| *[merko](/glossary/?mode=exact&word=merko)* | American   |
+| *[brito](/glossary/?mode=exact&word=brito)* | British    |
+| *[skoto](/glossary/?mode=exact&word=skoto)* | Scottish   |
+| *[sralo](/glossary/?mode=exact&word=sralo)* | Australian |
+| *[kadno](/glossary/?mode=exact&word=kadno)* | Canadian   |
 
 |                             |             |
 | --------------------------- | ----------- |
 | Spanish:                    |             |
-| *[gento](/glossary/#gento)* | Argentinian |
-| *[mexno](/glossary/#mexno)* | Mexican     |
+| *[gento](/glossary/?mode=exact&word=gento)* | Argentinian |
+| *[mexno](/glossary/?mode=exact&word=mexno)* | Mexican     |
 
 |                             |             |
 | --------------------------- | ----------- |
 | Russian:                    |             |
-| *[softo](/glossary/#softo)* | Soviet/USSR |
-| *[vukro](/glossary/#vukro)* | Ukrainian   |
+| *[softo](/glossary/?mode=exact&word=softo)* | Soviet/USSR |
+| *[vukro](/glossary/?mode=exact&word=vukro)* | Ukrainian   |
 
 |                             |                                   |
 | --------------------------- | --------------------------------- |
 | Arabic:                     |                                   |
-| *[filso](/glossary/#filso)* | Palestinian                       |
-| *[jerxo](/glossary/#jerxo)* | Algerian                          |
-| *[jordo](/glossary/#jordo)* | Jordanian                         |
-| *[libjo](/glossary/#libjo)* | Libyan                            |
-| *[lubno](/glossary/#lubno)* | Lebanese                          |
-| *[misro](/glossary/#misro)* | Egyptian (from “מצרים (Mizraim)”) |
-| *[morko](/glossary/#morko)* | Moroccan                          |
-| *[rakso](/glossary/#rakso)* | Iraqi                             |
-| *[sadjo](/glossary/#sadjo)* | Saudi                             |
-| *[sirxo](/glossary/#sirxo)* | Syrian                            |
+| *[filso](/glossary/?mode=exact&word=filso)* | Palestinian                       |
+| *[jerxo](/glossary/?mode=exact&word=jerxo)* | Algerian                          |
+| *[jordo](/glossary/?mode=exact&word=jordo)* | Jordanian                         |
+| *[libjo](/glossary/?mode=exact&word=libjo)* | Libyan                            |
+| *[lubno](/glossary/?mode=exact&word=lubno)* | Lebanese                          |
+| *[misro](/glossary/?mode=exact&word=misro)* | Egyptian (from “מצרים (Mizraim)”) |
+| *[morko](/glossary/?mode=exact&word=morko)* | Moroccan                          |
+| *[rakso](/glossary/?mode=exact&word=rakso)* | Iraqi                             |
+| *[sadjo](/glossary/?mode=exact&word=sadjo)* | Saudi                             |
+| *[sirxo](/glossary/?mode=exact&word=sirxo)* | Syrian                            |
 
 |                                 |            |
 | ------------------------------- | ---------- |
 | Bahasa Melayu/Bahasa Indonesia: |            |
-| *[bindo](/glossary/#bindo)*     | Indonesian |
-| *[meljo](/glossary/#meljo)*     | Malaysian  |
+| *[bindo](/glossary/?mode=exact&word=bindo)*     | Indonesian |
+| *[meljo](/glossary/?mode=exact&word=meljo)*     | Malaysian  |
 
 |                             |           |
 | --------------------------- | --------- |
 | Portuguese:                 |           |
-| *[brazo](/glossary/#brazo)* | Brazilian |
+| *[brazo](/glossary/?mode=exact&word=brazo)* | Brazilian |
 
 |                             |           |
 | --------------------------- | --------- |
 | Urdu:                       |           |
-| *[kisto](/glossary/#kisto)* | Pakistani |
+| *[kisto](/glossary/?mode=exact&word=kisto)* | Pakistani |
 
 The continents (and oceanic regions) of the Earth:
 
 |                             |                                     |
 | --------------------------- | ----------------------------------- |
-| *[bemro](/glossary/#bemro)* | North American (from *berti merko*) |
-| *[dzipo](/glossary/#dzipo)* | Antarctican (from *cadzu cipni*)    |
-| *[ketco](/glossary/#ketco)* | South American (from “Quechua”)     |
-| *[friko](/glossary/#friko)* | African                             |
-| *[polno](/glossary/#polno)* | Polynesian/Oceanic                  |
-| *[ropno](/glossary/#ropno)* | European                            |
-| *[xazdo](/glossary/#xazdo)* | Asiatic                             |
+| *[bemro](/glossary/?mode=exact&word=bemro)* | North American (from *berti merko*) |
+| *[dzipo](/glossary/?mode=exact&word=dzipo)* | Antarctican (from *cadzu cipni*)    |
+| *[ketco](/glossary/?mode=exact&word=ketco)* | South American (from “Quechua”)     |
+| *[friko](/glossary/?mode=exact&word=friko)* | African                             |
+| *[polno](/glossary/?mode=exact&word=polno)* | Polynesian/Oceanic                  |
+| *[ropno](/glossary/?mode=exact&word=ropno)* | European                            |
+| *[xazdo](/glossary/?mode=exact&word=xazdo)* | Asiatic                             |
 
 A few smaller but historically important cultures:
 
 |                             |                               |
 | --------------------------- | ----------------------------- |
-| *[latmo](/glossary/#latmo)* | Latin/Roman                   |
-| *[srito](/glossary/#srito)* | Sanskrit                      |
-| *[xebro](/glossary/#xebro)* | Hebrew/Israeli/Jewish         |
-| *[xelso](/glossary/#xelso)* | Greek (from «Ἑλλάς (Hellas)») |
+| *[latmo](/glossary/?mode=exact&word=latmo)* | Latin/Roman                   |
+| *[srito](/glossary/?mode=exact&word=srito)* | Sanskrit                      |
+| *[xebro](/glossary/?mode=exact&word=xebro)* | Hebrew/Israeli/Jewish         |
+| *[xelso](/glossary/?mode=exact&word=xelso)* | Greek (from «Ἑλλάς (Hellas)») |
 
 Major world religions:
 
 |                             |                |
 | --------------------------- | -------------- |
-| *[budjo](/glossary/#budjo)* | Buddhist       |
-| *[dadjo](/glossary/#dadjo)* | Taoist         |
-| *[muslo](/glossary/#muslo)* | Islamic/Moslem |
-| *[xriso](/glossary/#xriso)* | Christian      |
+| *[budjo](/glossary/?mode=exact&word=budjo)* | Buddhist       |
+| *[dadjo](/glossary/?mode=exact&word=dadjo)* | Taoist         |
+| *[muslo](/glossary/?mode=exact&word=muslo)* | Islamic/Moslem |
+| *[xriso](/glossary/?mode=exact&word=xriso)* | Christian      |
 
 A few terms that cover multiple groups of the above:
 
 |                             |                                   |
 | --------------------------- | --------------------------------- |
-| *[jegvo](/glossary/#jegvo)* | Jehovist (Judeo-Christian-Moslem) |
-| *[semto](/glossary/#semto)* | Semitic                           |
-| *[slovo](/glossary/#slovo)* | Slavic                            |
-| *[xispo](/glossary/#xispo)* | Hispanic (New World Spanish)      |
+| *[jegvo](/glossary/?mode=exact&word=jegvo)* | Jehovist (Judeo-Christian-Moslem) |
+| *[semto](/glossary/?mode=exact&word=semto)* | Semitic                           |
+| *[slovo](/glossary/?mode=exact&word=slovo)* | Slavic                            |
+| *[xispo](/glossary/?mode=exact&word=xispo)* | Hispanic (New World Spanish)      |
 
 ## 4.16. rafsi fu'ivla: a proposal
 
-The list of cultures represented by gismu, given in [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"), is unavoidably controversial. Much time has been spent debating whether this or that culture “deserves a gismu” or “must languish in fu'ivla space”. To help defuse this argument, a last-minute proposal was made when this book was already substantially complete. I have added it here with experimental status: it is not yet a standard part of Lojban, since all its implications have not been tested in open debate, and it affects a part of the language (lujvo-making) that has long been stable, but is known to be fragile in the face of small changes. (Many attempts were made to add general mechanisms for making lujvo that contained fu'ivla, but all failed on obvious or obscure counterexamples; finally the general *[zei](/glossary/#zei)* mechanism was devised instead.)
+The list of cultures represented by gismu, given in [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"), is unavoidably controversial. Much time has been spent debating whether this or that culture “deserves a gismu” or “must languish in fu'ivla space”. To help defuse this argument, a last-minute proposal was made when this book was already substantially complete. I have added it here with experimental status: it is not yet a standard part of Lojban, since all its implications have not been tested in open debate, and it affects a part of the language (lujvo-making) that has long been stable, but is known to be fragile in the face of small changes. (Many attempts were made to add general mechanisms for making lujvo that contained fu'ivla, but all failed on obvious or obscure counterexamples; finally the general *[zei](/glossary/?mode=exact&word=zei)* mechanism was devised instead.)
 
 The first part of the proposal is uncontroversial and involves no change to the language mechanisms. All valid Type 4 fu'ivla of the form CCVVCV would be reserved for cultural brivla analogous to those described in [Section 4.15](/chapter04/#415-cultural-and-other-non-algorithmic-gismu "4.15. Cultural and other non-algorithmic gismu"). For example,
 

@@ -1,48 +1,24 @@
 ---
-import type { MarkdownHeading } from 'astro';
 import data from '../modules/data.json';
-
-interface MdProps {
-  readonly frontmatter: {
-    readonly title: string;
-    readonly description?: string;
-  };
-  readonly url: string;
-  readonly getHeadings: () => MarkdownHeading[];
-}
 
 interface Props {
   readonly currentUrl: string;
   readonly class?: string;
 }
 
-const mds = Object.values(
-  import.meta.glob<MdProps>('../pages/*.md', { eager: true }),
-);
-
-const lis = mds.map((md) => {
-  const title = md.frontmatter.title;
-  const match = title.match(/Chapter\s\d+/u)?.[0] ?? title;
+const lis = data.map(({ title, longTitle, url }) => {
+  const cond = title === 'The Complete Lojban Language';
   return {
-    title: match,
-    url: md.url,
-    long: title,
+    title: cond ? 'Top' : title,
+    url: url,
+    long: cond ? 'Top Page' : (longTitle ?? title),
   };
-});
-
-lis.sort((a, b) => {
-  const a_ = data.findIndex((d) => d.url === a.url);
-  const b_ = data.findIndex((d) => d.url === b.url);
-  const aUrl = a_ > -1 ? a_ : Infinity;
-  const bUrl = b_ > -1 ? b_ : Infinity;
-  return aUrl - bUrl;
 });
 
 const { currentUrl, class: className } = Astro.props;
 ---
 
 <ul class={className}>
-  <li><a href='/' title='Top Page'>Top</a></li>
   {
     lis.map((p) => {
       const isCurrent = p.url === currentUrl;

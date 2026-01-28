@@ -29,7 +29,9 @@
     "mdast-util-to-hast": "^13.2.1",
     "rehype-katex": "^7.0.1",
     "remark-directive": "^4.0.0",
+    "remark-gfm": "^4.0.1",
     "remark-math": "^6.0.0",
+    "remark-parse": "^11.0.0",
     "sharp": "^0.34.5",
     "svelte": "^5.47.1",
     "tailwindcss": "^4.1.18",
@@ -38,9 +40,9 @@
     "unified": "^11.0.5",
     "valibot": "^1.2.0"
   },
-  "packageManager": "pnpm@10.28.0",
+  "packageManager": "pnpm@10.28.2",
   "volta": {
     "node": "24.13.0",
-    "pnpm": "10.28.0"
+    "pnpm": "10.28.2"
   }
 }

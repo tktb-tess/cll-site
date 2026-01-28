@@ -18,15 +18,15 @@ If you understand anything about Lojban, you know what a sumti is by now, right?
 
 :::
 
-In [Example 6.1](/chapter06/#example-61 "Example 6.1."), *[mi](/glossary/#mi)* and *le zarci* are the sumti. It is easy to see that these two sumti are not of the same kind: *[mi](/glossary/#mi)* is a pro-sumti (the Lojban analogue of a pronoun) referring to the speaker, whereas *le zarci* is a description which refers to something described as being a market.
+In [Example 6.1](/chapter06/#example-61 "Example 6.1."), *[mi](/glossary/?mode=exact&word=mi)* and *le zarci* are the sumti. It is easy to see that these two sumti are not of the same kind: *[mi](/glossary/?mode=exact&word=mi)* is a pro-sumti (the Lojban analogue of a pronoun) referring to the speaker, whereas *le zarci* is a description which refers to something described as being a market.
 
 There are five kinds of simple sumti provided by Lojban:
 
-1. descriptions like *le zarci*, which usually begin with a descriptor (called a *[gadri](/glossary/#gadri)* in Lojban) such as *[le](/glossary/#le)*;
-2. pro-sumti, such as *[mi](/glossary/#mi)*;
-3. names, such as *la lojban.*, which usually begin with *[la](/glossary/#la)*;
-4. quotations, which begin with *[lu](/glossary/#lu)*, *[le'u](/glossary/#leu)*, *[zo](/glossary/#zo)*, or *[zoi](/glossary/#zoi)*;
-5. pure numbers, which usually begin with *[li](/glossary/#li)*.
+1. descriptions like *le zarci*, which usually begin with a descriptor (called a *[gadri](/glossary/?mode=exact&word=gadri)* in Lojban) such as *[le](/glossary/?mode=exact&word=le)*;
+2. pro-sumti, such as *[mi](/glossary/?mode=exact&word=mi)*;
+3. names, such as *la lojban.*, which usually begin with *[la](/glossary/?mode=exact&word=la)*;
+4. quotations, which begin with *[lu](/glossary/?mode=exact&word=lu)*, *[le'u](/glossary/?mode=exact&word=le%27u)*, *[zo](/glossary/?mode=exact&word=zo)*, or *[zoi](/glossary/?mode=exact&word=zoi)*;
+5. pure numbers, which usually begin with *[li](/glossary/?mode=exact&word=li)*.
 
 Here are a few examples of each kind of sumti:
 
@@ -43,7 +43,7 @@ Here are a few examples of each kind of sumti:
 
 Please support Lojban!
 
-[Example 6.2](/chapter06/#example-62 "Example 6.2.") exhibits *[ko](/glossary/#ko)*, a pro-sumti; and *la lojban.*, a name.
+[Example 6.2](/chapter06/#example-62 "Example 6.2.") exhibits *[ko](/glossary/?mode=exact&word=ko)*, a pro-sumti; and *la lojban.*, a name.
 
 ##### Example 6.3.
 
@@ -58,7 +58,7 @@ Please support Lojban!
 
 I express “Please!” to the reader.
 
-[Example 6.3](/chapter06/#example-63 "Example 6.3.") exhibits *[mi](/glossary/#mi)*, a pro-sumti; *lu e'osai li'u*, a quotation; and *le tcidu*, a description.
+[Example 6.3](/chapter06/#example-63 "Example 6.3.") exhibits *[mi](/glossary/?mode=exact&word=mi)*, a pro-sumti; *lu e'osai li'u*, a quotation; and *le tcidu*, a description.
 
 ##### Example 6.4.
 
@@ -73,7 +73,7 @@ I express “Please!” to the reader.
 
 This is three meters long.
 
-[Example 6.4](/chapter06/#example-64 "Example 6.4.") exhibits *[ti](/glossary/#ti)*, a pro-sumti; and *li ci*, a number.
+[Example 6.4](/chapter06/#example-64 "Example 6.4.") exhibits *[ti](/glossary/?mode=exact&word=ti)*, a pro-sumti; and *li ci*, a number.
 
 Most of this chapter is about descriptions, as they have the most complicated syntax and usage. Some attention is also given to names, which are closely interwoven with descriptions. Pro-sumti, numbers, and quotations are described in more detail in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"), [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"), and [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts") respectively, so this chapter only gives summaries of their forms and uses. See [Section 6.13](/chapter06/#613-pro-sumti-summary "6.13. Pro-sumti summary") through [Section 6.15](/chapter06/#615-number-summary "6.15. Number summary") for these summaries.
 
@@ -103,11 +103,11 @@ The syntax of descriptions is fairly complex, and not all of it can be explained
 
 the market
 
-The long gloss for *[le](/glossary/#le)* is of course far too long to use most of the time, and in fact *[le](/glossary/#le)* is quite close in meaning to English “the”. It has particular implications, however, which “the” does not have.
+The long gloss for *[le](/glossary/?mode=exact&word=le)* is of course far too long to use most of the time, and in fact *[le](/glossary/?mode=exact&word=le)* is quite close in meaning to English “the”. It has particular implications, however, which “the” does not have.
 
-The general purpose of all descriptors is to create a sumti which might occur in the x1 place of the selbri belonging to the description. Thus *le zarci* conveys something which might be found in the x1 place of *[zarci](/glossary/#zarci)*, namely a market.
+The general purpose of all descriptors is to create a sumti which might occur in the x1 place of the selbri belonging to the description. Thus *le zarci* conveys something which might be found in the x1 place of *[zarci](/glossary/?mode=exact&word=zarci)*, namely a market.
 
-The specific purpose of *[le](/glossary/#le)* is twofold. First, it indicates that the speaker has one or more specific markets in mind (whether or not the listener knows which ones they are). Second, it also indicates that the speaker is merely describing the things he or she has in mind as markets, without being committed to the truth of that description.
+The specific purpose of *[le](/glossary/?mode=exact&word=le)* is twofold. First, it indicates that the speaker has one or more specific markets in mind (whether or not the listener knows which ones they are). Second, it also indicates that the speaker is merely describing the things he or she has in mind as markets, without being committed to the truth of that description.
 
 ##### Example 6.6.
 
@@ -143,9 +143,9 @@ The men are women.
 
 [Example 6.7](/chapter06/#example-67 "Example 6.7.") is not self-contradictory in Lojban, because *le nanmu* merely means something or other which, for my present purposes, I choose to describe as a man, whether or not it really is a man. A plausible instance would be: someone we had assumed to be a man at a distance turned out to be actually a woman on closer observation. [Example 6.7](/chapter06/#example-67 "Example 6.7.") is what I would say to point out my observation to you.
 
-In all descriptions with *[le](/glossary/#le)*, the listener is presumed to either know what I have in mind or else not to be concerned at present (perhaps I will give more identifying details later). In particular, I might be pointing at the supposed man or men: [Example 6.7](/chapter06/#example-67 "Example 6.7.") would then be perfectly intelligible, since *le nanmu* merely clarifies that I am pointing at the supposed man, not at a landscape, or a nose, which happens to lie in the same direction.
+In all descriptions with *[le](/glossary/?mode=exact&word=le)*, the listener is presumed to either know what I have in mind or else not to be concerned at present (perhaps I will give more identifying details later). In particular, I might be pointing at the supposed man or men: [Example 6.7](/chapter06/#example-67 "Example 6.7.") would then be perfectly intelligible, since *le nanmu* merely clarifies that I am pointing at the supposed man, not at a landscape, or a nose, which happens to lie in the same direction.
 
-The second descriptor dealt with in this section is *[lo](/glossary/#lo)*. Unlike *[le](/glossary/#le)*, *[lo](/glossary/#lo)* is nonspecific:
+The second descriptor dealt with in this section is *[lo](/glossary/?mode=exact&word=lo)*. Unlike *[le](/glossary/?mode=exact&word=le)*, *[lo](/glossary/?mode=exact&word=lo)* is nonspecific:
 
 ##### Example 6.8.
 
@@ -161,7 +161,7 @@ The second descriptor dealt with in this section is *[lo](/glossary/#lo)*. Unlik
 a market  
 some markets
 
-Again, there are two colloquial English translations. The effect of using *[lo](/glossary/#lo)* in [Example 6.8](/chapter06/#example-68 "Example 6.8.") is to refer generally to one or more markets, without being specific about which. Unlike *le zarci*, *lo zarci* must refer to something which actually is a market (that is, which can appear in the x1 place of a truthful bridi whose selbri is *[zarci](/glossary/#zarci)*). Thus
+Again, there are two colloquial English translations. The effect of using *[lo](/glossary/?mode=exact&word=lo)* in [Example 6.8](/chapter06/#example-68 "Example 6.8.") is to refer generally to one or more markets, without being specific about which. Unlike *le zarci*, *lo zarci* must refer to something which actually is a market (that is, which can appear in the x1 place of a truthful bridi whose selbri is *[zarci](/glossary/?mode=exact&word=zarci)*). Thus
 
 ##### Example 6.9.
 
@@ -177,9 +177,9 @@ Again, there are two colloquial English translations. The effect of using *[lo](
 Some man is a woman.  
 Some men are women.
 
-must be false in Lojban, given that there are no objects in the real world which are both men and women. Pointing at some specific men or women would not make [Example 6.9](/chapter06/#example-69 "Example 6.9.") true, because those specific individuals are no more both-men-and-women than any others. In general, *[lo](/glossary/#lo)* refers to whatever individuals meet its description.
+must be false in Lojban, given that there are no objects in the real world which are both men and women. Pointing at some specific men or women would not make [Example 6.9](/chapter06/#example-69 "Example 6.9.") true, because those specific individuals are no more both-men-and-women than any others. In general, *[lo](/glossary/?mode=exact&word=lo)* refers to whatever individuals meet its description.
 
-The last descriptor of this section is *[la](/glossary/#la)*, which indicates that the selbri which follows it has been dissociated from its normal meaning and is being used as a name. Like *[le](/glossary/#le)* descriptions, *[la](/glossary/#la)* descriptions are implicitly restricted to those I have in mind. (Do not confuse this use of *[la](/glossary/#la)* with its use before regular Lojbanized names, which is discussed in [Section 6.12](/chapter06/#612-lojban-names "6.12. Lojban names").) For example:
+The last descriptor of this section is *[la](/glossary/?mode=exact&word=la)*, which indicates that the selbri which follows it has been dissociated from its normal meaning and is being used as a name. Like *[le](/glossary/?mode=exact&word=le)* descriptions, *[la](/glossary/?mode=exact&word=la)* descriptions are implicitly restricted to those I have in mind. (Do not confuse this use of *[la](/glossary/?mode=exact&word=la)* with its use before regular Lojbanized names, which is discussed in [Section 6.12](/chapter06/#612-lojban-names "6.12. Lojban names").) For example:
 
 ##### Example 6.10.
 
@@ -194,7 +194,7 @@ The last descriptor of this section is *[la](/glossary/#la)*, which indicates th
 
 Bear wrote the story.
 
-In [Example 6.10](/chapter06/#example-610 "Example 6.10."), *la cribe* refers to someone whose naming predicate is *[cribe](/glossary/#cribe)*, i.e. “Bear”. In English, most names don't mean anything, or at least not anything obvious. The name “Frank” coincides with the English word “frank”, meaning “honest”, and so one way of translating “Frank ate some cheese” into Lojban would be:
+In [Example 6.10](/chapter06/#example-610 "Example 6.10."), *la cribe* refers to someone whose naming predicate is *[cribe](/glossary/?mode=exact&word=cribe)*, i.e. “Bear”. In English, most names don't mean anything, or at least not anything obvious. The name “Frank” coincides with the English word “frank”, meaning “honest”, and so one way of translating “Frank ate some cheese” into Lojban would be:
 
 ##### Example 6.11.
 
@@ -240,7 +240,7 @@ Some bears wrote the story.
 
 [Example 6.12](/chapter06/#example-612 "Example 6.12.") is about a specific bear or bearlike thing(s), or thing(s) which the speaker (perhaps whimsically or metaphorically) describes as a bear (or more than one); [Example 6.13](/chapter06/#example-613 "Example 6.13.") is about one or more of the really existing, objectively defined bears. In either case, though, each of them must have contributed to the writing of the story, if more than one bear (or “bear”) is meant.
 
-(The notion of a “really existing, objectively defined bear” raises certain difficulties. Is a panda bear a “real bear”? How about a teddy bear? In general, the answer is “yes”. Lojban gismu are defined as broadly as possible, allowing tanru and lujvo to narrow down the definition. There probably are no necessary and sufficient conditions for defining what is and what is not a bear that can be pinned down with complete precision: the real world is fuzzy. In borderline cases, *[le](/glossary/#le)* may communicate better than *[lo](/glossary/#lo)*.)
+(The notion of a “really existing, objectively defined bear” raises certain difficulties. Is a panda bear a “real bear”? How about a teddy bear? In general, the answer is “yes”. Lojban gismu are defined as broadly as possible, allowing tanru and lujvo to narrow down the definition. There probably are no necessary and sufficient conditions for defining what is and what is not a bear that can be pinned down with complete precision: the real world is fuzzy. In borderline cases, *[le](/glossary/?mode=exact&word=le)* may communicate better than *[lo](/glossary/?mode=exact&word=lo)*.)
 
 So while [Example 6.10](/chapter06/#example-610 "Example 6.10.") could easily be true (there is a real writer named “Greg Bear”), and [Example 6.12](/chapter06/#example-612 "Example 6.12.") could be true if the speaker is sufficiently peculiar in what he or she describes as a bear, [Example 6.13](/chapter06/#example-613 "Example 6.13.") is certainly false.
 
@@ -275,7 +275,7 @@ Some human beings wrote the story.
 
 [Example 6.14](/chapter06/#example-614 "Example 6.14.") says who the author of the story is: one or more particular human beings that the speaker has in mind. If the topic of conversation is the story, then [Example 6.14](/chapter06/#example-614 "Example 6.14.") identifies the author as someone who can be pointed out or who has been previously mentioned; whereas if the topic is a person, then *le remna* is in effect a shorthand reference to that person. [Example 6.15](/chapter06/#example-615 "Example 6.15.") merely says that the author is human.
 
-The elidable terminator for all descriptions is *[ku](/glossary/#ku)*. It can almost always be omitted with no danger of ambiguity. The main exceptions are in certain uses of relative clauses, which are discussed in [Section 8.6](/chapter08/#86-relative-clauses-and-descriptors "8.6. Relative clauses and descriptors"), and in the case of a description immediately preceding the selbri. In this latter case, using an explicit *[cu](/glossary/#cu)* before the selbri makes the *[ku](/glossary/#ku)* unnecessary. There are also a few other uses of *[ku](/glossary/#ku)*: in the compound negator *naku* (discussed in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")) and to terminate place-structure, tense, and modal tags that do not have associated sumti (discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System")).
+The elidable terminator for all descriptions is *[ku](/glossary/?mode=exact&word=ku)*. It can almost always be omitted with no danger of ambiguity. The main exceptions are in certain uses of relative clauses, which are discussed in [Section 8.6](/chapter08/#86-relative-clauses-and-descriptors "8.6. Relative clauses and descriptors"), and in the case of a description immediately preceding the selbri. In this latter case, using an explicit *[cu](/glossary/?mode=exact&word=cu)* before the selbri makes the *[ku](/glossary/?mode=exact&word=ku)* unnecessary. There are also a few other uses of *[ku](/glossary/?mode=exact&word=ku)*: in the compound negator *naku* (discussed in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")) and to terminate place-structure, tense, and modal tags that do not have associated sumti (discussed in [Chapter 9](/chapter09/ "Chapter 9. To Boston Via The Road Go I, With An Excursion Into The Land Of Modals") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System")).
 
 ## 6.3. Individuals and masses
 
@@ -302,7 +302,7 @@ All Lojban sumti are classified by whether they refer to one of three types of o
 
 The person(s) carry the piano.
 
-(Of course the second *[le](/glossary/#le)* should really get the same translation as the first, but I am putting the focus of this discussion on the first *[le](/glossary/#le)*, the one preceding *[prenu](/glossary/#prenu)*. I will assume that there is only one piano under discussion.)
+(Of course the second *[le](/glossary/?mode=exact&word=le)* should really get the same translation as the first, but I am putting the focus of this discussion on the first *[le](/glossary/?mode=exact&word=le)*, the one preceding *[prenu](/glossary/?mode=exact&word=prenu)*. I will assume that there is only one piano under discussion.)
 
 Suppose the context of [Example 6.16](/chapter06/#example-616 "Example 6.16.") is such that you can determine that I am talking about three persons. What am I claiming? I am claiming that each of the three persons carried the piano. This claim can be true if the persons carried the piano one at a time, or in turns, or in a variety of other ways. But in order for [Example 6.16](/chapter06/#example-616 "Example 6.16.") to be true, I must be willing to assert that person 1 carried the piano, and that person 2 carried the piano, and that person 3 carried the piano.
 
@@ -321,9 +321,9 @@ But suppose I am not willing to claim that. For in fact pianos are heavy, and ve
 
 The person(s) carry the piano.
 
-Here the same three persons are treated not as individuals, but as a so-called “mass entity”, or just “mass”. A mass has the properties of each individual which composes it, and may have other properties of its own as well. This can lead to apparent contradictions. Thus suppose in the piano-moving example above that person 1 has fair skin, whereas person 2 has dark skin. Then it is correct to say that the person-mass has both fair skin and dark skin. Using the mass descriptor *[lei](/glossary/#lei)* signals that ordinary logical reasoning is not applicable: contradictions can be maintained, and all sorts of other peculiarities may exist. However, we can safely say that a mass inherits only the component properties that are relevant to it; it would be ludicrous to say that a mass of two persons is of molecular dimensions, simply because some of the parts (namely, the molecules) of the persons are that small.
+Here the same three persons are treated not as individuals, but as a so-called “mass entity”, or just “mass”. A mass has the properties of each individual which composes it, and may have other properties of its own as well. This can lead to apparent contradictions. Thus suppose in the piano-moving example above that person 1 has fair skin, whereas person 2 has dark skin. Then it is correct to say that the person-mass has both fair skin and dark skin. Using the mass descriptor *[lei](/glossary/?mode=exact&word=lei)* signals that ordinary logical reasoning is not applicable: contradictions can be maintained, and all sorts of other peculiarities may exist. However, we can safely say that a mass inherits only the component properties that are relevant to it; it would be ludicrous to say that a mass of two persons is of molecular dimensions, simply because some of the parts (namely, the molecules) of the persons are that small.
 
-The descriptors *[loi](/glossary/#loi)* and *[lai](/glossary/#lai)* are analogous to *[lo](/glossary/#lo)* and *[lai](/glossary/#lai)*). A classic example of *[loi](/glossary/#loi)* use is:
+The descriptors *[loi](/glossary/?mode=exact&word=loi)* and *[lai](/glossary/?mode=exact&word=lai)* are analogous to *[lo](/glossary/?mode=exact&word=lo)* and *[lai](/glossary/?mode=exact&word=lai)*). A classic example of *[loi](/glossary/?mode=exact&word=loi)* use is:
 
 ##### Example 6.18.
 
@@ -339,7 +339,7 @@ The descriptors *[loi](/glossary/#loi)* and *[lai](/glossary/#lai)* are analogou
 The lion dwells in Africa.  
 Lions dwell in Africa.
 
-The difference between *[lei](/glossary/#lei)* and *[loi](/glossary/#loi)* is that *lei cinfo* refers to a mass of specific individuals which the speaker calls lions, whereas *loi cinfo* refers to some part of the mass of all those individuals which actually are lions. The restriction to “some part of the mass” allows statements like [Example 6.18](/chapter06/#example-618 "Example 6.18.") to be true even though some lions do not dwell in Africa – they live in various zoos around the world. On the other hand, [Example 6.18](/chapter06/#example-618 "Example 6.18.") doesn't actually say that most lions live in Africa: equally true is
+The difference between *[lei](/glossary/?mode=exact&word=lei)* and *[loi](/glossary/?mode=exact&word=loi)* is that *lei cinfo* refers to a mass of specific individuals which the speaker calls lions, whereas *loi cinfo* refers to some part of the mass of all those individuals which actually are lions. The restriction to “some part of the mass” allows statements like [Example 6.18](/chapter06/#example-618 "Example 6.18.") to be true even though some lions do not dwell in Africa – they live in various zoos around the world. On the other hand, [Example 6.18](/chapter06/#example-618 "Example 6.18.") doesn't actually say that most lions live in Africa: equally true is
 
 ##### Example 6.19.
 
@@ -371,9 +371,9 @@ Note that the Lojban mass articles are sometimes translated by English plurals (
 
 Butter is soft.
 
-Of course, some butter is hard (for example, if it is frozen butter), so the “part-of” implication of *[loi](/glossary/#loi)* becomes once again useful. The reason this mechanism works is that the English words like “butter”, which are seen as already describing masses, are translated in Lojban by non-mass forms. The place structure of *[matne](/glossary/#matne)* is “x1 is a quantity of butter from source x2”, so the single English word “butter” is translated as something like “a part of the mass formed from all the quantities of butter that exist”. (Note that the operation of forming a mass entity does not imply, in Lojban, that the components of the mass are necessarily close to one another or even related in any way other than conceptually. Masses are formed by the speaker's intention to form a mass, and can in principle contain anything.)
+Of course, some butter is hard (for example, if it is frozen butter), so the “part-of” implication of *[loi](/glossary/?mode=exact&word=loi)* becomes once again useful. The reason this mechanism works is that the English words like “butter”, which are seen as already describing masses, are translated in Lojban by non-mass forms. The place structure of *[matne](/glossary/?mode=exact&word=matne)* is “x1 is a quantity of butter from source x2”, so the single English word “butter” is translated as something like “a part of the mass formed from all the quantities of butter that exist”. (Note that the operation of forming a mass entity does not imply, in Lojban, that the components of the mass are necessarily close to one another or even related in any way other than conceptually. Masses are formed by the speaker's intention to form a mass, and can in principle contain anything.)
 
-The mass name descriptor *[lai](/glossary/#lai)* is used in circumstances where we wish to talk about a mass of things identified by a name which is common to all of them. It is not used to identify a mass by a single name peculiar to it. Thus the mass version of [Example 6.9](/chapter06/#example-69 "Example 6.9."),
+The mass name descriptor *[lai](/glossary/?mode=exact&word=lai)* is used in circumstances where we wish to talk about a mass of things identified by a name which is common to all of them. It is not used to identify a mass by a single name peculiar to it. Thus the mass version of [Example 6.9](/chapter06/#example-69 "Example 6.9."),
 
 ##### Example 6.21.
 
@@ -388,7 +388,7 @@ The mass name descriptor *[lai](/glossary/#lai)* is used in circumstances where 
 
 The Bears wrote this book.
 
-in a context where *la cribe* would be understood as plural, would mean that either Tom Bear or Fred Bear (to make up some names) might have written the book, or that Tom and Fred might have written it as collaborators. Using *[la](/glossary/#la)* instead of *[lai](/glossary/#lai)* in [Example 6.21](/chapter06/#example-621 "Example 6.21.") would give the implication that each of Tom and Fred, considered individually, had written it.
+in a context where *la cribe* would be understood as plural, would mean that either Tom Bear or Fred Bear (to make up some names) might have written the book, or that Tom and Fred might have written it as collaborators. Using *[la](/glossary/?mode=exact&word=la)* instead of *[lai](/glossary/?mode=exact&word=lai)* in [Example 6.21](/chapter06/#example-621 "Example 6.21.") would give the implication that each of Tom and Fred, considered individually, had written it.
 
 ## 6.4. Masses and sets
 
@@ -402,7 +402,7 @@ The following cmavo are discussed in this section:
 
 Having said so much about masses, let us turn to sets. Sets are easier to understand than masses, but are more rarely used. Like a mass, a set is an abstract object formed from a number of individuals; however, the properties of a set are not derived from any of the properties of the individuals that compose it.
 
-Sets have properties like cardinality (how many elements in the set), membership (the relationship between a set and its elements), and set inclusion (the relationship between two sets, one of which – the superset – contains all the elements of the other – the subset). The set descriptors *[le'i](/glossary/#lei)*, *[lo'i](/glossary/#loi)* and *[la'i](/glossary/#lai)* correspond exactly to the mass descriptors *[lei](/glossary/#lei)*, *[loi](/glossary/#loi)*, and *[lai](/glossary/#lai)* except that normally we talk of the whole of a set, not just part of it. Here are some examples contrasting *[lo](/glossary/#lo)*, *[loi](/glossary/#loi)*, and *[lo'i](/glossary/#loi)*:
+Sets have properties like cardinality (how many elements in the set), membership (the relationship between a set and its elements), and set inclusion (the relationship between two sets, one of which – the superset – contains all the elements of the other – the subset). The set descriptors *[le'i](/glossary/?mode=exact&word=le%27i)*, *[lo'i](/glossary/?mode=exact&word=lo%27i)* and *[la'i](/glossary/?mode=exact&word=la%27i)* correspond exactly to the mass descriptors *[lei](/glossary/?mode=exact&word=lei)*, *[loi](/glossary/?mode=exact&word=loi)*, and *[lai](/glossary/?mode=exact&word=lai)* except that normally we talk of the whole of a set, not just part of it. Here are some examples contrasting *[lo](/glossary/?mode=exact&word=lo)*, *[loi](/glossary/?mode=exact&word=loi)*, and *[lo'i](/glossary/?mode=exact&word=lo%27i)*:
 
 ##### Example 6.22.
 
@@ -445,11 +445,11 @@ There are a lot of rats.
 
 The mass of rats is small because at least one rat is small; the mass of rats is also large; the set of rats, though, is unquestionably large – it has billions of members. The mass of rats is also brown, since some of its components are; but it would be incorrect to call the set of rats brown – brown-ness is not the sort of property that sets possess.
 
-Lojban speakers should generally think twice before employing the set descriptors. However, certain predicates have places that require set sumti to fill them. For example, the place structure of *[fadni](/glossary/#fadni)* is:
+Lojban speakers should generally think twice before employing the set descriptors. However, certain predicates have places that require set sumti to fill them. For example, the place structure of *[fadni](/glossary/?mode=exact&word=fadni)* is:
 
 > x1 is ordinary/common/typical/usual in property x2 among the members of set x3
 
-Why is it necessary for the x3 place of *[fadni](/glossary/#fadni)* to be a set? Because it makes no sense for an individual to be typical of another individual: an individual is typical of a group. In order to make sure that the bridi containing *[fadni](/glossary/#fadni)* is about an entire group, its x3 place must be filled with a set:
+Why is it necessary for the x3 place of *[fadni](/glossary/?mode=exact&word=fadni)* to be a set? Because it makes no sense for an individual to be typical of another individual: an individual is typical of a group. In order to make sure that the bridi containing *[fadni](/glossary/?mode=exact&word=fadni)* is about an entire group, its x3 place must be filled with a set:
 
 ##### Example 6.25.
 
@@ -464,7 +464,7 @@ Why is it necessary for the x3 place of *[fadni](/glossary/#fadni)* to be a set?
 
 I am a typical Lojban user.
 
-Note that the x2 place has been omitted; I am not specifying in exactly which way I am typical – whether in language knowledge, or age, or interests, or something else. If *[lo'i](/glossary/#loi)* were changed to *[lo](/glossary/#lo)* in [Example 6.25](/chapter06/#example-625 "Example 6.25."), the meaning would be something like “I am typical of some Lojban user”, which is nonsense.
+Note that the x2 place has been omitted; I am not specifying in exactly which way I am typical – whether in language knowledge, or age, or interests, or something else. If *[lo'i](/glossary/?mode=exact&word=lo%27i)* were changed to *[lo](/glossary/?mode=exact&word=lo)* in [Example 6.25](/chapter06/#example-625 "Example 6.25."), the meaning would be something like “I am typical of some Lojban user”, which is nonsense.
 
 ## 6.5. Descriptors for typical objects
 
@@ -475,7 +475,7 @@ The following cmavo are discussed in this section:
 | lo'e | LE  | the typical       |
 | le'e | LE  | the stereotypical |
 
-As promised in [Section 6.3](/chapter06/#63-individuals-and-masses "6.3. Individuals and masses"), Lojban has a method for discriminating between “the lion” who lives in Africa and “the Englishman” who, generally speaking, doesn't live in Africa even though some Englishmen do. The descriptor *[lo'e](/glossary/#loe)* means “the typical”, as in
+As promised in [Section 6.3](/chapter06/#63-individuals-and-masses "6.3. Individuals and masses"), Lojban has a method for discriminating between “the lion” who lives in Africa and “the Englishman” who, generally speaking, doesn't live in Africa even though some Englishmen do. The descriptor *[lo'e](/glossary/?mode=exact&word=lo%27e)* means “the typical”, as in
 
 ##### Example 6.26.
 
@@ -505,7 +505,7 @@ What is this “typical lion”? Surely it is not any particular lion, because n
 
 The typical English person dwells not in Africa but in England.
 
-The relationship between *lo'e cinfo* and *lo'i cinfo* may be explained thus: the typical lion is an imaginary lion-abstraction which best exemplifies the set of lions. There is a similar relationship between *[le'e](/glossary/#lee)* and *[le'i](/glossary/#lei)*:
+The relationship between *lo'e cinfo* and *lo'i cinfo* may be explained thus: the typical lion is an imaginary lion-abstraction which best exemplifies the set of lions. There is a similar relationship between *[le'e](/glossary/?mode=exact&word=le%27e)* and *[le'i](/glossary/?mode=exact&word=le%27i)*:
 
 ##### Example 6.28.
 
@@ -520,7 +520,7 @@ The relationship between *lo'e cinfo* and *lo'i cinfo* may be explained thus: th
 
 Lots of Greek-Americans own restaurants.
 
-Here we are concerned not with the actual set of Greek-Americans, but with the set of those the speaker has in mind, which is typified by one (real or imaginary) who owns a restaurant. The word “stereotypical” is often derogatory in English, but *[le'e](/glossary/#lee)* need not be derogatory in Lojban: it simply suggests that the example is typical in the speaker's imagination rather than in some objectively agreed-upon way. Of course, different speakers may disagree about what the features of “the typical lion” are (some would include having a short intestine, whereas others would know nothing of lions' intestines), so the distinction between *lo'e cinfo* and *le'e cinfo* may be very fine.
+Here we are concerned not with the actual set of Greek-Americans, but with the set of those the speaker has in mind, which is typified by one (real or imaginary) who owns a restaurant. The word “stereotypical” is often derogatory in English, but *[le'e](/glossary/?mode=exact&word=le%27e)* need not be derogatory in Lojban: it simply suggests that the example is typical in the speaker's imagination rather than in some objectively agreed-upon way. Of course, different speakers may disagree about what the features of “the typical lion” are (some would include having a short intestine, whereas others would know nothing of lions' intestines), so the distinction between *lo'e cinfo* and *le'e cinfo* may be very fine.
 
 Furthermore,
 
@@ -537,7 +537,7 @@ Furthermore,
 
 is probably true to an American, but might be false (not the stereotype) to someone living in India or Russia.
 
-Note that there is no naming equivalent of *[lo'e](/glossary/#loe)* and *[le'e](/glossary/#lee)*, because there is no need, as a rule, for a “typical George” or a “typical Smith”. People or things who share a common name do not, in general, have any other common attributes worth mentioning.
+Note that there is no naming equivalent of *[lo'e](/glossary/?mode=exact&word=lo%27e)* and *[le'e](/glossary/?mode=exact&word=le%27e)*, because there is no need, as a rule, for a “typical George” or a “typical Smith”. People or things who share a common name do not, in general, have any other common attributes worth mentioning.
 
 ## 6.6. Quantified sumti
 
@@ -548,7 +548,7 @@ The following cmavo are discussed in this section:
 | ro   | PA  | all of/each of    |
 | su'o | PA  | at least (one of) |
 
-Quantifiers tell us how many: in the case of quantifiers with sumti, how many things we are talking about. In Lojban, quantifiers are expressed by numbers and mathematical expressions: a large topic discussed in some detail in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). For the purposes of this chapter, a simplified treatment will suffice. Our examples will employ either the simple Lojban numbers *[pa](/glossary/#pa)*, *[re](/glossary/#re)*, *[ci](/glossary/#ci)*, *[vo](/glossary/#vo)*, and *[mu](/glossary/#mu)*, meaning “one”, “two”, “three”, “four”, “five” respectively, or else one of four special quantifiers, two of which are discussed in this section and listed above. These four quantifiers are important because every Lojban sumti has either one or two of them implicitly present in it – which one or two depends on the particular kind of sumti. There is more explanation of implicit quantifiers later in this section. (The other two quantifiers, *[piro](/glossary/#piro)* and *[pisu'o](/glossary/#pisuo)*, are explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions").)
+Quantifiers tell us how many: in the case of quantifiers with sumti, how many things we are talking about. In Lojban, quantifiers are expressed by numbers and mathematical expressions: a large topic discussed in some detail in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). For the purposes of this chapter, a simplified treatment will suffice. Our examples will employ either the simple Lojban numbers *[pa](/glossary/?mode=exact&word=pa)*, *[re](/glossary/?mode=exact&word=re)*, *[ci](/glossary/?mode=exact&word=ci)*, *[vo](/glossary/?mode=exact&word=vo)*, and *[mu](/glossary/?mode=exact&word=mu)*, meaning “one”, “two”, “three”, “four”, “five” respectively, or else one of four special quantifiers, two of which are discussed in this section and listed above. These four quantifiers are important because every Lojban sumti has either one or two of them implicitly present in it – which one or two depends on the particular kind of sumti. There is more explanation of implicit quantifiers later in this section. (The other two quantifiers, *[piro](/glossary/?mode=exact&word=piro)* and *[pisu'o](/glossary/?mode=exact&word=pisu%27o)*, are explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions").)
 
 Every Lojban sumti may optionally be preceded by an explicit quantifier. The purpose of this quantifier is to specify how many of the things referred to by the sumti are being talked about. Here are some simple examples contrasting sumti with and without explicit quantifiers:
 
@@ -574,7 +574,7 @@ Every Lojban sumti may optionally be preceded by an explicit quantifier. The pur
 
 :::
 
-The difference between [Example 6.30](/chapter06/#example-630 "Example 6.30.") and [Example 6.31](/chapter06/#example-631 "Example 6.31.") is the presence of the explicit quantifier *[re](/glossary/#re)* in the latter example. Although *[re](/glossary/#re)* by itself means “two”, when used as a quantifier it means “two-of”. Out of the group of listeners (the number of which isn't stated), two (we are not told which ones) are asserted to be “walkers on the ice”. Implicitly, the others (if any) are not walkers on the ice. In Lojban, you cannot say “I own three shoes” if in fact you own four shoes. Numbers need never be specified, but if they are specified they must be correct.
+The difference between [Example 6.30](/chapter06/#example-630 "Example 6.30.") and [Example 6.31](/chapter06/#example-631 "Example 6.31.") is the presence of the explicit quantifier *[re](/glossary/?mode=exact&word=re)* in the latter example. Although *[re](/glossary/?mode=exact&word=re)* by itself means “two”, when used as a quantifier it means “two-of”. Out of the group of listeners (the number of which isn't stated), two (we are not told which ones) are asserted to be “walkers on the ice”. Implicitly, the others (if any) are not walkers on the ice. In Lojban, you cannot say “I own three shoes” if in fact you own four shoes. Numbers need never be specified, but if they are specified they must be correct.
 
 (This rule does not mean that there is no way to specify a number which is vague. The sentence
 
@@ -604,9 +604,9 @@ Now consider [Example 6.30](/chapter06/#example-630 "Example 6.30.") again. How 
 
 :::
 
-turn out to mean exactly the same thing. This is a safe strategy, because if one of my listeners doesn't turn out to be walking on the ice, I can safely claim that I didn't intend that person to be a listener! And in fact, all of the personal pro-sumti such as *[mi](/glossary/#mi)* and *[mi'o](/glossary/#mio)* and *[ko](/glossary/#ko)* obey the same rule. We say that personal pro-sumti have a so-called “implicit quantifier” of *[ro](/glossary/#ro)* (all). This just means that if no quantifier is given explicitly, the meaning is the same as if the implicit quantifier had been used.
+turn out to mean exactly the same thing. This is a safe strategy, because if one of my listeners doesn't turn out to be walking on the ice, I can safely claim that I didn't intend that person to be a listener! And in fact, all of the personal pro-sumti such as *[mi](/glossary/?mode=exact&word=mi)* and *[mi'o](/glossary/?mode=exact&word=mi%27o)* and *[ko](/glossary/?mode=exact&word=ko)* obey the same rule. We say that personal pro-sumti have a so-called “implicit quantifier” of *[ro](/glossary/?mode=exact&word=ro)* (all). This just means that if no quantifier is given explicitly, the meaning is the same as if the implicit quantifier had been used.
 
-Not all sumti have *[ro](/glossary/#ro)* as the implicit quantifier, however. Consider the quotation in:
+Not all sumti have *[ro](/glossary/?mode=exact&word=ro)* as the implicit quantifier, however. Consider the quotation in:
 
 ##### Example 6.34.
 
@@ -621,7 +621,7 @@ Not all sumti have *[ro](/glossary/#ro)* as the implicit quantifier, however. Co
 
 I say, “You walk on the ice.”
 
-What is the implicit quantifier of the quotation *lu do cadzu le bisli li'u*? Surely not *[ro](/glossary/#ro)*. If *[ro](/glossary/#ro)* were supplied explicitly, thus:
+What is the implicit quantifier of the quotation *lu do cadzu le bisli li'u*? Surely not *[ro](/glossary/?mode=exact&word=ro)*. If *[ro](/glossary/?mode=exact&word=ro)* were supplied explicitly, thus:
 
 ##### Example 6.35.
 
@@ -636,7 +636,7 @@ What is the implicit quantifier of the quotation *lu do cadzu le bisli li'u*? Su
 
 the meaning would be something like “I say every occurrence of the sentence 'You walk on the ice'”. Of course I don't say every occurrence of it, only some occurrences. One might suppose that [Example 6.34](/chapter06/#example-634 "Example 6.34.") means that I express exactly one occurrence, but it is more Lojbanic to leave the number unspecified, as with other sumti. We can say definitely, however, that I say it at least once.
 
-The Lojban cmavo meaning “at least” is *[su'o](/glossary/#suo)*, and if no ordinary number follows, *[su'o](/glossary/#suo)* means “at least once”. (See [Example 6.32](/chapter06/#example-632 "Example 6.32.") for the use of *[su'o](/glossary/#suo)* with an ordinary number). Therefore, the explicitly quantified version of [Example 6.34](/chapter06/#example-634 "Example 6.34.") is
+The Lojban cmavo meaning “at least” is *[su'o](/glossary/?mode=exact&word=su%27o)*, and if no ordinary number follows, *[su'o](/glossary/?mode=exact&word=su%27o)* means “at least once”. (See [Example 6.32](/chapter06/#example-632 "Example 6.32.") for the use of *[su'o](/glossary/?mode=exact&word=su%27o)* with an ordinary number). Therefore, the explicitly quantified version of [Example 6.34](/chapter06/#example-634 "Example 6.34.") is
 
 ##### Example 6.36.
 
@@ -652,7 +652,7 @@ The Lojban cmavo meaning “at least” is *[su'o](/glossary/#suo)*, and if no o
 I say one or more instances of “You walk on the ice”.  
 I say “You walk on the ice”.
 
-If an explicit ordinary number such as *[re](/glossary/#re)* were to appear, it would have to convey an exact expression, so
+If an explicit ordinary number such as *[re](/glossary/?mode=exact&word=re)* were to appear, it would have to convey an exact expression, so
 
 ##### Example 6.37.
 
@@ -729,35 +729,35 @@ There are rules for each of the 11 descriptors specifying what the implicit valu
 
 |                           |                   |                                                        |
 | ------------------------- | ----------------- | ------------------------------------------------------ |
-| *[le](/glossary/#le)*:    | *ro le su'o*      | all of the at-least-one described as                   |
-| *[lo](/glossary/#lo)*:    | *su'o lo ro*      | at least one of all of those which really are          |
-| *[la](/glossary/#la)*:    | *ro la su'o*      | all of the at least one named                          |
-| *[lei](/glossary/#lei)*:  | *pisu'o lei su'o* | some part of the mass of the at-least-one described as |
-| *[loi](/glossary/#loi)*:  | *pisu'o loi ro*   | some part of the mass of all those that really are     |
-| *[lai](/glossary/#lai)*:  | *pisu'o lai su'o* | some part of the mass of the at-least-one named        |
-| *[le'i](/glossary/#lei)*: | *piro le'i su'o*  | the whole of the set of the at-least-one described as  |
-| *[lo'i](/glossary/#loi)*: | *piro lo'i ro*    | the whole of the set of all those that really are      |
-| *[la'i](/glossary/#lai)*: | *piro la'i su'o*  | the whole of the set of the at-least-one named         |
-| *[le'e](/glossary/#lee)*: | *ro le'e su'o*    | all the stereotypes of the at-least-one described as   |
-| *[lo'e](/glossary/#loe)*: | *su'o lo'e ro*    | at least one of the types of all those that really are |
+| *[le](/glossary/?mode=exact&word=le)*:    | *ro le su'o*      | all of the at-least-one described as                   |
+| *[lo](/glossary/?mode=exact&word=lo)*:    | *su'o lo ro*      | at least one of all of those which really are          |
+| *[la](/glossary/?mode=exact&word=la)*:    | *ro la su'o*      | all of the at least one named                          |
+| *[lei](/glossary/?mode=exact&word=lei)*:  | *pisu'o lei su'o* | some part of the mass of the at-least-one described as |
+| *[loi](/glossary/?mode=exact&word=loi)*:  | *pisu'o loi ro*   | some part of the mass of all those that really are     |
+| *[lai](/glossary/?mode=exact&word=lai)*:  | *pisu'o lai su'o* | some part of the mass of the at-least-one named        |
+| *[le'i](/glossary/?mode=exact&word=le%27i)*: | *piro le'i su'o*  | the whole of the set of the at-least-one described as  |
+| *[lo'i](/glossary/?mode=exact&word=lo%27i)*: | *piro lo'i ro*    | the whole of the set of all those that really are      |
+| *[la'i](/glossary/?mode=exact&word=la%27i)*: | *piro la'i su'o*  | the whole of the set of the at-least-one named         |
+| *[le'e](/glossary/?mode=exact&word=le%27e)*: | *ro le'e su'o*    | all the stereotypes of the at-least-one described as   |
+| *[lo'e](/glossary/?mode=exact&word=lo%27e)*: | *su'o lo'e ro*    | at least one of the types of all those that really are |
 
-When examined for the first time, this table looks dreadfully arbitrary. In fact, there are quite a few regularities in it. First of all, the la-series (that is, the descriptors *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, and *[la'i](/glossary/#lai)*) and the le-series (that is, the descriptors *[le](/glossary/#le)*, *[lei](/glossary/#lei)*, *[le'i](/glossary/#lei)*, and *[le'e](/glossary/#lee)*) always have corresponding implicit quantifiers, so we may subsume the la-series under the le-series for the rest of this discussion: “le-series cmavo” will refer to both the le-series proper and to the la-series.
+When examined for the first time, this table looks dreadfully arbitrary. In fact, there are quite a few regularities in it. First of all, the la-series (that is, the descriptors *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, and *[la'i](/glossary/?mode=exact&word=la%27i)*) and the le-series (that is, the descriptors *[le](/glossary/?mode=exact&word=le)*, *[lei](/glossary/?mode=exact&word=lei)*, *[le'i](/glossary/?mode=exact&word=le%27i)*, and *[le'e](/glossary/?mode=exact&word=le%27e)*) always have corresponding implicit quantifiers, so we may subsume the la-series under the le-series for the rest of this discussion: “le-series cmavo” will refer to both the le-series proper and to the la-series.
 
-The rule for the inner quantifier is very simple: the lo-series cmavo (namely, *[lo](/glossary/#lo)*, *[loi](/glossary/#loi)*, *[lo'i](/glossary/#loi)*, and *[lo'e](/glossary/#loe)*) all have an implicit inner quantifier of *[ro](/glossary/#ro)*, whereas the le-series cmavo all have an implicit inner quantifier of *[su'o](/glossary/#suo)*.
+The rule for the inner quantifier is very simple: the lo-series cmavo (namely, *[lo](/glossary/?mode=exact&word=lo)*, *[loi](/glossary/?mode=exact&word=loi)*, *[lo'i](/glossary/?mode=exact&word=lo%27i)*, and *[lo'e](/glossary/?mode=exact&word=lo%27e)*) all have an implicit inner quantifier of *[ro](/glossary/?mode=exact&word=ro)*, whereas the le-series cmavo all have an implicit inner quantifier of *[su'o](/glossary/?mode=exact&word=su%27o)*.
 
 Why? Because lo-series descriptors always refer to all of the things which really fit into the x1 place of the selbri. They are not restricted by the speaker's intention. Descriptors of the le-series, however, are so restricted, and therefore talk about some number, definite or indefinite, of objects the speaker has in mind – but never less than one.
 
-Understanding the implicit outer quantifier requires rules of greater subtlety. In the case of mass and set descriptors, a single rule suffices for each: reference to a mass is implicitly a reference to some part of the mass; reference to a set is implicitly a reference to the whole set. Masses and sets are inherently singular objects: it makes no sense to talk about two distinct masses with the same components, or two distinct sets with the same members. Therefore, the largest possible outer quantifier for either a set description or a mass description is *[piro](/glossary/#piro)*, the whole of it.
+Understanding the implicit outer quantifier requires rules of greater subtlety. In the case of mass and set descriptors, a single rule suffices for each: reference to a mass is implicitly a reference to some part of the mass; reference to a set is implicitly a reference to the whole set. Masses and sets are inherently singular objects: it makes no sense to talk about two distinct masses with the same components, or two distinct sets with the same members. Therefore, the largest possible outer quantifier for either a set description or a mass description is *[piro](/glossary/?mode=exact&word=piro)*, the whole of it.
 
 (Pedantically, it is possible that the mass of water molecules composing an ice cube might be thought of as different from the same mass of water molecules in liquid form, in which case we might talk about *re lei djacu*, two masses of the water-bits I have in mind.)
 
-Why “*[pi](/glossary/#pi)*\-”? It is the Lojban cmavo for the decimal point. Just as *pimu* means “.5”, and when used as a quantifier specifies a portion consisting of five tenths of a thing, *[piro](/glossary/#piro)* means a portion consisting of the all-ness – the entirety – of a thing. Similarly, *[pisu'o](/glossary/#pisuo)* specifies a portion consisting of at least one part of a thing, i.e. some of it.
+Why “*[pi](/glossary/?mode=exact&word=pi)*\-”? It is the Lojban cmavo for the decimal point. Just as *pimu* means “.5”, and when used as a quantifier specifies a portion consisting of five tenths of a thing, *[piro](/glossary/?mode=exact&word=piro)* means a portion consisting of the all-ness – the entirety – of a thing. Similarly, *[pisu'o](/glossary/?mode=exact&word=pisu%27o)* specifies a portion consisting of at least one part of a thing, i.e. some of it.
 
-Smaller quantifiers are possible for sets, and refer to subsets. Thus *pimu le'i nanmu* is a subset of the set of men I have in mind; we don't know precisely which elements make up this subset, but it must have half the size of the full set. This is the best way to say “half of the men”; saying *pimu le nanmu* would give us a half-portion of one of them instead! Of course, the result of *pimu le'i nanmu* is still a set; if you need to refer to the individuals of the subset, you must say so (see *[lu'a](/glossary/#lua)* in [Section 6.10](/chapter06/#610-sumti-qualifiers "6.10. sumti qualifiers")).
+Smaller quantifiers are possible for sets, and refer to subsets. Thus *pimu le'i nanmu* is a subset of the set of men I have in mind; we don't know precisely which elements make up this subset, but it must have half the size of the full set. This is the best way to say “half of the men”; saying *pimu le nanmu* would give us a half-portion of one of them instead! Of course, the result of *pimu le'i nanmu* is still a set; if you need to refer to the individuals of the subset, you must say so (see *[lu'a](/glossary/?mode=exact&word=lu%27a)* in [Section 6.10](/chapter06/#610-sumti-qualifiers "6.10. sumti qualifiers")).
 
-The case of outer quantifiers for individual descriptors (including *[le](/glossary/#le)*, *[lo](/glossary/#lo)*, *[la](/glossary/#la)*, and the typical descriptors *[le'e](/glossary/#lee)* and *[lo'e](/glossary/#loe)*) is special. When we refer to specific individuals with *[le](/glossary/#le)*, we mean to refer to all of those we have in mind, so *[ro](/glossary/#ro)* is appropriate as the implicit quantifier, just as it is appropriate for *[do](/glossary/#do)*. Reference to non-specific individuals with *[lo](/glossary/#lo)*, however, is typically to only some of the objects which can be correctly described, and so *[su'o](/glossary/#suo)* is the appropriate implicit quantifier, just as for quotations.
+The case of outer quantifiers for individual descriptors (including *[le](/glossary/?mode=exact&word=le)*, *[lo](/glossary/?mode=exact&word=lo)*, *[la](/glossary/?mode=exact&word=la)*, and the typical descriptors *[le'e](/glossary/?mode=exact&word=le%27e)* and *[lo'e](/glossary/?mode=exact&word=lo%27e)*) is special. When we refer to specific individuals with *[le](/glossary/?mode=exact&word=le)*, we mean to refer to all of those we have in mind, so *[ro](/glossary/?mode=exact&word=ro)* is appropriate as the implicit quantifier, just as it is appropriate for *[do](/glossary/?mode=exact&word=do)*. Reference to non-specific individuals with *[lo](/glossary/?mode=exact&word=lo)*, however, is typically to only some of the objects which can be correctly described, and so *[su'o](/glossary/?mode=exact&word=su%27o)* is the appropriate implicit quantifier, just as for quotations.
 
-From the English-speaking point of view, the difference in structure between the following example using *[le](/glossary/#le)*:
+From the English-speaking point of view, the difference in structure between the following example using *[le](/glossary/?mode=exact&word=le)*:
 
 ##### Example 6.41.
 
@@ -772,7 +772,7 @@ From the English-speaking point of view, the difference in structure between the
 
 The three dogs are white.
 
-and the corresponding form with *[lo](/glossary/#lo)*:
+and the corresponding form with *[lo](/glossary/?mode=exact&word=lo)*:
 
 ##### Example 6.42.
 
@@ -787,7 +787,7 @@ and the corresponding form with *[lo](/glossary/#lo)*:
 
 Three dogs are white.
 
-looks very peculiar. Why is the number *[ci](/glossary/#ci)* found as an inner quantifier in [Example 6.41](/chapter06/#example-641 "Example 6.41.") and as an outer quantifier in [Example 6.42](/chapter06/#example-642 "Example 6.42.")? The number of dogs is the same in either case. The answer is that the *[ci](/glossary/#ci)* in [Example 6.41](/chapter06/#example-641 "Example 6.41.") is part of the specification: it tells us the actual number of dogs in the group that the speaker has in mind. In [Example 6.42](/chapter06/#example-642 "Example 6.42."), however, the dogs referred to by *... lo gerku* are all the dogs that exist: the outer quantifier then restricts the number to three; which three, we cannot tell. The implicit quantifiers are chosen to avoid claiming too much or too little: in the case of *[le](/glossary/#le)*, the implicit outer quantifier *[ro](/glossary/#ro)* says that each of the dogs in the restricted group is white; in the case of *[lo](/glossary/#lo)*, the implicit inner quantifier simply says that three dogs, chosen from the group of all the dogs there are, are white.
+looks very peculiar. Why is the number *[ci](/glossary/?mode=exact&word=ci)* found as an inner quantifier in [Example 6.41](/chapter06/#example-641 "Example 6.41.") and as an outer quantifier in [Example 6.42](/chapter06/#example-642 "Example 6.42.")? The number of dogs is the same in either case. The answer is that the *[ci](/glossary/?mode=exact&word=ci)* in [Example 6.41](/chapter06/#example-641 "Example 6.41.") is part of the specification: it tells us the actual number of dogs in the group that the speaker has in mind. In [Example 6.42](/chapter06/#example-642 "Example 6.42."), however, the dogs referred to by *... lo gerku* are all the dogs that exist: the outer quantifier then restricts the number to three; which three, we cannot tell. The implicit quantifiers are chosen to avoid claiming too much or too little: in the case of *[le](/glossary/?mode=exact&word=le)*, the implicit outer quantifier *[ro](/glossary/?mode=exact&word=ro)* says that each of the dogs in the restricted group is white; in the case of *[lo](/glossary/?mode=exact&word=lo)*, the implicit inner quantifier simply says that three dogs, chosen from the group of all the dogs there are, are white.
 
 Using exact numbers as inner quantifiers in lo-series descriptions is dangerous, because you are stating that exactly that many things exist which really fit the description. So examples like
 
@@ -804,13 +804,13 @@ Using exact numbers as inner quantifiers in lo-series descriptions is dangerous,
 
 are semantically anomalous; [Example 6.43](/chapter06/#example-643 "Example 6.43.") claims that some dog (or dogs) is white, but also that there are just three dogs in the universe!
 
-Nevertheless, inner quantifiers are permitted on *[lo](/glossary/#lo)* descriptors for consistency's sake, and may occasionally be useful.
+Nevertheless, inner quantifiers are permitted on *[lo](/glossary/?mode=exact&word=lo)* descriptors for consistency's sake, and may occasionally be useful.
 
-Note that the inner quantifier of *[le](/glossary/#le)*, even when exact, need not be truthful: *le ci nanmu* means “what I describe as three men”, not “three of what I describe as men”. This follows from the rule that what is described by a *[le](/glossary/#le)* description represents the speaker's viewpoint rather than the objective way things are.
+Note that the inner quantifier of *[le](/glossary/?mode=exact&word=le)*, even when exact, need not be truthful: *le ci nanmu* means “what I describe as three men”, not “three of what I describe as men”. This follows from the rule that what is described by a *[le](/glossary/?mode=exact&word=le)* description represents the speaker's viewpoint rather than the objective way things are.
 
 ## 6.8. Indefinite descriptions
 
-By a quirk of Lojban syntax, it is possible to omit the descriptor *[lo](/glossary/#lo)*, but never any other descriptor, from a description like that of [Example 6.42](/chapter06/#example-642 "Example 6.42."); namely, one which has an explicit outer quantifier but no explicit inner quantifier. The following example:
+By a quirk of Lojban syntax, it is possible to omit the descriptor *[lo](/glossary/?mode=exact&word=lo)*, but never any other descriptor, from a description like that of [Example 6.42](/chapter06/#example-642 "Example 6.42."); namely, one which has an explicit outer quantifier but no explicit inner quantifier. The following example:
 
 ##### Example 6.44.
 
@@ -825,11 +825,11 @@ By a quirk of Lojban syntax, it is possible to omit the descriptor *[lo](/glossa
 
 Three dogs are white.
 
-is equivalent in meaning to [Example 6.42](/chapter06/#example-642 "Example 6.42."). Even though the descriptor is not present, the elidable terminator *[ku](/glossary/#ku)* may still be used. The name “indefinite description” for this syntactic form is historically based: of course, it is no more and no less indefinite than its counterpart with an explicit *[lo](/glossary/#lo)*. Indefinite descriptions were introduced into the language in order to imitate the syntax of English and other natural languages.
+is equivalent in meaning to [Example 6.42](/chapter06/#example-642 "Example 6.42."). Even though the descriptor is not present, the elidable terminator *[ku](/glossary/?mode=exact&word=ku)* may still be used. The name “indefinite description” for this syntactic form is historically based: of course, it is no more and no less indefinite than its counterpart with an explicit *[lo](/glossary/?mode=exact&word=lo)*. Indefinite descriptions were introduced into the language in order to imitate the syntax of English and other natural languages.
 
 Indefinite descriptions must fit this mold exactly: there is no way to make one which does not have an explicit outer quantifier (thus *\*gerku cu blabi* is ungrammatical), or which has an explicit inner quantifier (thus *\*reboi ci gerku cu blabi* is also ungrammatical – *re ci gerku cu blabi* is fine, but means “23 dogs are white”).
 
-Note: [Example 6.32](/chapter06/#example-632 "Example 6.32.") also contains an indefinite description, namely *su'o ci cutci*; another version of that example using an explicit *[lo](/glossary/#lo)* would be:
+Note: [Example 6.32](/chapter06/#example-632 "Example 6.32.") also contains an indefinite description, namely *su'o ci cutci*; another version of that example using an explicit *[lo](/glossary/?mode=exact&word=lo)* would be:
 
 ##### Example 6.45.
 
@@ -874,7 +874,7 @@ A full theory of sumti-based descriptions has yet to be worked out. One common c
 
 :::
 
-[Example 6.46](/chapter06/#example-646 "Example 6.46.") simply specifies that of the group of listeners, size unknown, two are men. [Example 6.47](/chapter06/#example-647 "Example 6.47."), which has the sumti-based description *le re do*, says that of the two listeners, all (the implicit outer quantifier *[ro](/glossary/#ro)*) are men. So in effect the inner quantifier *[re](/glossary/#re)* gives the number of individuals which the inner sumti *[do](/glossary/#do)* refers to.
+[Example 6.46](/chapter06/#example-646 "Example 6.46.") simply specifies that of the group of listeners, size unknown, two are men. [Example 6.47](/chapter06/#example-647 "Example 6.47."), which has the sumti-based description *le re do*, says that of the two listeners, all (the implicit outer quantifier *[ro](/glossary/?mode=exact&word=ro)*) are men. So in effect the inner quantifier *[re](/glossary/?mode=exact&word=re)* gives the number of individuals which the inner sumti *[do](/glossary/?mode=exact&word=do)* refers to.
 
 Here is another group of examples:
 
@@ -934,7 +934,7 @@ The following cmavo are discussed in this section:
 
 Well, that's quite a list of cmavo. What are they all about?
 
-The above cmavo and compound cmavo are called the “sumti qualifiers”. All of them are either single cmavo of selma'o LAhE, or else compound cmavo involving a scalar negation cmavo of selma'o NAhE immediately followed by *[bo](/glossary/#bo)* of selma'o BO. Syntactically, you can prefix a sumti qualifier to any sumti and produce another simple sumti. (You may need to add the elidable terminator *[lu'u](/glossary/#luu)* to show where the qualified sumti ends.)
+The above cmavo and compound cmavo are called the “sumti qualifiers”. All of them are either single cmavo of selma'o LAhE, or else compound cmavo involving a scalar negation cmavo of selma'o NAhE immediately followed by *[bo](/glossary/?mode=exact&word=bo)* of selma'o BO. Syntactically, you can prefix a sumti qualifier to any sumti and produce another simple sumti. (You may need to add the elidable terminator *[lu'u](/glossary/?mode=exact&word=lu%27u)* to show where the qualified sumti ends.)
 
 Semantically, sumti qualifiers represent short forms of certain common special cases. Suppose you want to say “I see 'The Red Pony'”, where “The Red Pony” is the title of a book. How about:
 
@@ -964,7 +964,7 @@ What you really want to say is:
 
 :::
 
-The x2 place of *selsinxa* (the x1 place of *[sinxa](/glossary/#sinxa)*) is a sign or symbol, and the x1 place of *selsinxa* (the x2 place of *[sinxa](/glossary/#sinxa)*) is the thing represented by the sign. [Example 6.52](/chapter06/#example-652 "Example 6.52.") allows us to use a symbol (namely the title of a book) to represent the thing it is a symbol of (namely the book itself).
+The x2 place of *selsinxa* (the x1 place of *[sinxa](/glossary/?mode=exact&word=sinxa)*) is a sign or symbol, and the x1 place of *selsinxa* (the x2 place of *[sinxa](/glossary/?mode=exact&word=sinxa)*) is the thing represented by the sign. [Example 6.52](/chapter06/#example-652 "Example 6.52.") allows us to use a symbol (namely the title of a book) to represent the thing it is a symbol of (namely the book itself).
 
 This operation turns out to be needed often enough that it's useful to be able to say:
 
@@ -979,11 +979,11 @@ This operation turns out to be needed often enough that it's useful to be able t
 
 :::
 
-So when *[la'e](/glossary/#lae)* is prefixed to a sumti referring to a symbol, it produces a sumti referring to the referent of that symbol. (In computer jargon, *[la'e](/glossary/#lae)* dereferences a pointer.)
+So when *[la'e](/glossary/?mode=exact&word=la%27e)* is prefixed to a sumti referring to a symbol, it produces a sumti referring to the referent of that symbol. (In computer jargon, *[la'e](/glossary/?mode=exact&word=la%27e)* dereferences a pointer.)
 
 By introducing a sumti qualifier, we correct a false sentence ([Example 6.51](/chapter06/#example-651 "Example 6.51.")), which too closely resembles its literal English equivalent, into a true sentence ([Example 6.53](/chapter06/#example-653 "Example 6.53.")), without having to change it overmuch; in particular, the structure remains the same. Most of the uses of sumti qualifiers are of this general kind.
 
-The sumti qualifier *[lu'e](/glossary/#lue)* provides the converse operation: it can be prefixed to a sumti referring to some thing to produce a sumti referring to a sign or symbol for the thing. For example,
+The sumti qualifier *[lu'e](/glossary/?mode=exact&word=lu%27e)* provides the converse operation: it can be prefixed to a sumti referring to some thing to produce a sumti referring to a sign or symbol for the thing. For example,
 
 ##### Example 6.54.
 
@@ -1011,7 +1011,7 @@ The equivalent form not using a sumti qualifier would be:
 
 :::
 
-which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), but longer.The other sumti qualifiers follow the same rules. The cmavo *[tu'a](/glossary/#tua)* is used in forming abstractions, and is explained more fully in [Section 11.11](/chapter11/#1111-event-type-abstractors-and-event-contour-tenses "11.11. Event-type abstractors and event contour tenses"). The triplet *[lu'a](/glossary/#lua)*, *[lu'i](/glossary/#lui)*, and *[lu'o](/glossary/#luo)* convert between individuals, sets, and masses; *[vu'i](/glossary/#vui)* belongs to this group as well, but creates a sequence, which is similar to a set but has a definite order. (The set of John and Charles is the same as the set of Charles and John, but the sequences are different.) Here are some examples:
+which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), but longer.The other sumti qualifiers follow the same rules. The cmavo *[tu'a](/glossary/?mode=exact&word=tu%27a)* is used in forming abstractions, and is explained more fully in [Section 11.11](/chapter11/#1111-event-type-abstractors-and-event-contour-tenses "11.11. Event-type abstractors and event contour tenses"). The triplet *[lu'a](/glossary/?mode=exact&word=lu%27a)*, *[lu'i](/glossary/?mode=exact&word=lu%27i)*, and *[lu'o](/glossary/?mode=exact&word=lu%27o)* convert between individuals, sets, and masses; *[vu'i](/glossary/?mode=exact&word=vu%27i)* belongs to this group as well, but creates a sequence, which is similar to a set but has a definite order. (The set of John and Charles is the same as the set of Charles and John, but the sequences are different.) Here are some examples:
 
 ##### Example 6.56.
 
@@ -1026,7 +1026,7 @@ which is equivalent to [Example 6.54](/chapter06/#example-654 "Example 6.54."), 
 
 I try (to open) the door.
 
-[Example 6.56](/chapter06/#example-656 "Example 6.56.") might mean that I try to do something else involving the door; the form is deliberately vague.Most of the following examples make use of the cmavo *[ri](/glossary/#ri)*, belonging to selma'o KOhA. This cmavo means “the thing last mentioned”; it is equivalent to repeating the immediately previous sumti (but in its original context). It is explained in more detail in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
+[Example 6.56](/chapter06/#example-656 "Example 6.56.") might mean that I try to do something else involving the door; the form is deliberately vague.Most of the following examples make use of the cmavo *[ri](/glossary/?mode=exact&word=ri)*, belonging to selma'o KOhA. This cmavo means “the thing last mentioned”; it is equivalent to repeating the immediately previous sumti (but in its original context). It is explained in more detail in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").
 
 ##### Example 6.57.
 
@@ -1077,7 +1077,7 @@ Some rats are small, but the set of rats is large.
 
 The set of you and me is a set. The mass of you and me is a mass. The sequence of you and me is a sequence.
 
-(Yes, I know these examples are a bit silly. This set was introduced for completeness, and practical examples are as yet hard to come by.)Finally, the four sumti qualifiers formed from a cmavo of NAhE and *[bo](/glossary/#bo)* are all concerned with negation, which is discussed in detail in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). Here are a few examples of negation sumti qualifiers:
+(Yes, I know these examples are a bit silly. This set was introduced for completeness, and practical examples are as yet hard to come by.)Finally, the four sumti qualifiers formed from a cmavo of NAhE and *[bo](/glossary/?mode=exact&word=bo)* are all concerned with negation, which is discussed in detail in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"). Here are a few examples of negation sumti qualifiers:
 
 ##### Example 6.60.
 
@@ -1115,7 +1115,7 @@ This compound, *na'ebo*, is the most common of the four negation sumti qualifier
 
 I like hot food, and you like cold food, and Jane likes lukewarm food.
 
-(In [Example 6.61](/chapter06/#example-661 "Example 6.61."), the sumti *[ra](/glossary/#ra)* refers to some previously mentioned sumti other than that referred to by *[ri](/glossary/#ri)*. We cannot use *[ri](/glossary/#ri)* here, because it would signify *la djein.*, that being the most recent sumti available to *[ri](/glossary/#ri)*. See more detailed explanations in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").)*
+(In [Example 6.61](/chapter06/#example-661 "Example 6.61."), the sumti *[ra](/glossary/?mode=exact&word=ra)* refers to some previously mentioned sumti other than that referred to by *[ri](/glossary/?mode=exact&word=ri)*. We cannot use *[ri](/glossary/?mode=exact&word=ri)* here, because it would signify *la djein.*, that being the most recent sumti available to *[ri](/glossary/?mode=exact&word=ri)*. See more detailed explanations in [Section 7.6](/chapter07/#76-anaphoric-pro-sumti-and-pro-bridi-the-ri-series-and-the-goi-series "7.6. Anaphoric pro-sumti and pro-bridi: the ri-series and the go'i-series").)*
 
 *## The syntax of vocative phrasesVocative phrases are not sumti, but are explained in this chapter because their syntax is very similar to that of sumti. Grammatically, a vocative phrase is one of the so-called “free modifiers” of Lojban, along with subscripts, parentheses, and various other constructs explained in [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts"). They can be placed after many, but not all, constructions of the grammar: in general, after any elidable terminator (which, however, must not then be elided!), at the beginnings and ends of sentences, and in many other places.The purpose of a vocative phrase is to indicate who is being addressed, or to indicate to that person that he or she ought to be listening. A vocative phrase begins with a cmavo of selma'o COI or DOI, all of which are explained in more detail in [Section 13.14](/chapter13/#1314-vocative-scales "13.14. Vocative scales"). Sometimes that is all there is to the phrase:
 
@@ -1146,7 +1146,7 @@ Hello.
 Uh-huh.  
 Roger!  
 
-In these cases, the person being addressed is obvious from the context. However, a vocative word (more precisely, one or more cmavo of COI, possibly followed by *[doi](/glossary/#doi)*, or else just *[doi](/glossary/#doi)* by itself) can be followed by one of several kinds of phrases, all of which are intended to indicate the addressee. The most common case is a name:
+In these cases, the person being addressed is obvious from the context. However, a vocative word (more precisely, one or more cmavo of COI, possibly followed by *[doi](/glossary/?mode=exact&word=doi)*, or else just *[doi](/glossary/?mode=exact&word=doi)* by itself) can be followed by one of several kinds of phrases, all of which are intended to indicate the addressee. The most common case is a name:
 
 ##### Example 6.64.
 
@@ -1161,7 +1161,7 @@ In these cases, the person being addressed is obvious from the context. However,
 
 Hello, John.
 
-A pause is required (for morphological reasons) between a member of COI and a name. You can use *[doi](/glossary/#doi)* instead of a pause:
+A pause is required (for morphological reasons) between a member of COI and a name. You can use *[doi](/glossary/?mode=exact&word=doi)* instead of a pause:
 
 ##### Example 6.65.
 
@@ -1176,7 +1176,7 @@ A pause is required (for morphological reasons) between a member of COI and a na
 
 Hello, John.
 
-means exactly the same thing and does not require a pause. Using *[doi](/glossary/#doi)* by itself is like just saying someone's name to attract his or her attention:
+means exactly the same thing and does not require a pause. Using *[doi](/glossary/?mode=exact&word=doi)* by itself is like just saying someone's name to attract his or her attention:
 
 ##### Example 6.66.
 
@@ -1191,7 +1191,7 @@ means exactly the same thing and does not require a pause. Using *[doi](/glossar
 
 John!
 
-In place of a name, a description may appear, lacking its descriptor, which is understood to be *[le](/glossary/#le)*:
+In place of a name, a description may appear, lacking its descriptor, which is understood to be *[le](/glossary/?mode=exact&word=le)*:
 
 ##### Example 6.67.
 
@@ -1247,7 +1247,7 @@ and [Example 6.66](/chapter06/#example-666 "Example 6.66.") is the same as:
 
 :::
 
-Finally, the elidable terminator for vocative phrases is *[do'u](/glossary/#dou)* (of selma'o DOhU), which is rarely needed except when a simple vocative word is being placed somewhere within a bridi. It may also be required when a vocative is placed between a sumti and its relative clause, or when there are a sequence of so-called “free modifiers” (vocatives, subscripts, utterance ordinals – see [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban") – metalinguistic comments – see [Section 19.12](/chapter19/#1912-parenthesis-and-metalinguistic-commentary-to-toi-sei "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI") – or reciprocals – see [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts")) which must be properly separated.The meaning of a vocative phrase that is within a sentence is not affected by its position in the sentence: thus [Example 6.70](/chapter06/#example-670 "Example 6.70.") and [Example 6.71](/chapter06/#example-671 "Example 6.71.") mean the same thing:
+Finally, the elidable terminator for vocative phrases is *[do'u](/glossary/?mode=exact&word=do%27u)* (of selma'o DOhU), which is rarely needed except when a simple vocative word is being placed somewhere within a bridi. It may also be required when a vocative is placed between a sumti and its relative clause, or when there are a sequence of so-called “free modifiers” (vocatives, subscripts, utterance ordinals – see [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban") – metalinguistic comments – see [Section 19.12](/chapter19/#1912-parenthesis-and-metalinguistic-commentary-to-toi-sei "19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI") – or reciprocals – see [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts")) which must be properly separated.The meaning of a vocative phrase that is within a sentence is not affected by its position in the sentence: thus [Example 6.70](/chapter06/#example-670 "Example 6.70.") and [Example 6.71](/chapter06/#example-671 "Example 6.71.") mean the same thing:
 
 ##### Example 6.71.
 
@@ -1288,7 +1288,7 @@ As usual for this chapter, the full syntax of vocative phrases has not been expl
 
 :::
 
-(Note that *.alis.* begins as well as ends with a pause, because all Lojban words beginning with a vowel must be preceded by a pause. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") for more information.)Names of this kind have two basic uses in Lojban: when used in a vocative phrase (see [Section 6.11](/chapter06/#611-the-syntax-of-vocative-phrases "6.11. The syntax of vocative phrases")) they indicate who the listener is or should be. When used with a descriptor of selma'o LA, namely *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[la'i](/glossary/#lai)*, they form sumti which refer to the persons or things known by the name.
+(Note that *.alis.* begins as well as ends with a pause, because all Lojban words beginning with a vowel must be preceded by a pause. See [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology") for more information.)Names of this kind have two basic uses in Lojban: when used in a vocative phrase (see [Section 6.11](/chapter06/#611-the-syntax-of-vocative-phrases "6.11. The syntax of vocative phrases")) they indicate who the listener is or should be. When used with a descriptor of selma'o LA, namely *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, or *[la'i](/glossary/?mode=exact&word=la%27i)*, they form sumti which refer to the persons or things known by the name.
 
 ##### Example 6.74.
 
@@ -1316,7 +1316,7 @@ The Joneses go to-the store.
 
 The Joneses go to the store.
 
-In [Example 6.74](/chapter06/#example-674 "Example 6.74."), the significance is that all the persons (perhaps only one) I mean to refer to by the name *djonz.* are going to the store. In [Example 6.75](/chapter06/#example-675 "Example 6.75."), the Joneses are massified, and only some part of them needs to be going. Of course, by *djonz.* I can mean whomever I want: that person need not use the name *djonz.* at all.The sumti in [Example 6.74](/chapter06/#example-674 "Example 6.74.") and [Example 6.75](/chapter06/#example-675 "Example 6.75.") operate exactly like the similar uses of *[la](/glossary/#la)* and *[lai](/glossary/#lai)* in [Example 6.10](/chapter06/#example-610 "Example 6.10.") and [Example 6.21](/chapter06/#example-621 "Example 6.21.") respectively. The only difference is that these descriptors are followed by Lojban name-words. And in fact, the only difference between descriptors of selma'o LA (these three) and of selma'o LE (all the other descriptors) is that the former can be followed by name-words, whereas the latter cannot.There are certain limitations on the form of name-words in Lojban. In particular, they cannot contain the letter-sequences (or sound-sequences) *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, or *[doi](/glossary/#doi)* unless a consonant immediately precedes within the name. Reciprocally, every name not preceded by *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, *[la'i](/glossary/#lai)*, or *[doi](/glossary/#doi)* must be preceded by a pause instead:
+In [Example 6.74](/chapter06/#example-674 "Example 6.74."), the significance is that all the persons (perhaps only one) I mean to refer to by the name *djonz.* are going to the store. In [Example 6.75](/chapter06/#example-675 "Example 6.75."), the Joneses are massified, and only some part of them needs to be going. Of course, by *djonz.* I can mean whomever I want: that person need not use the name *djonz.* at all.The sumti in [Example 6.74](/chapter06/#example-674 "Example 6.74.") and [Example 6.75](/chapter06/#example-675 "Example 6.75.") operate exactly like the similar uses of *[la](/glossary/?mode=exact&word=la)* and *[lai](/glossary/?mode=exact&word=lai)* in [Example 6.10](/chapter06/#example-610 "Example 6.10.") and [Example 6.21](/chapter06/#example-621 "Example 6.21.") respectively. The only difference is that these descriptors are followed by Lojban name-words. And in fact, the only difference between descriptors of selma'o LA (these three) and of selma'o LE (all the other descriptors) is that the former can be followed by name-words, whereas the latter cannot.There are certain limitations on the form of name-words in Lojban. In particular, they cannot contain the letter-sequences (or sound-sequences) *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, or *[doi](/glossary/?mode=exact&word=doi)* unless a consonant immediately precedes within the name. Reciprocally, every name not preceded by *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, *[la'i](/glossary/?mode=exact&word=la%27i)*, or *[doi](/glossary/?mode=exact&word=doi)* must be preceded by a pause instead:
 
 ##### Example 6.76.
 
@@ -1344,7 +1344,7 @@ Hello, John.
 
 My name is John.
 
-In [Example 6.76](/chapter06/#example-676 "Example 6.76.") and [Example 6.77](/chapter06/#example-677 "Example 6.77."), *.djan.* appears with a pause before it as well as after it, because the preceding word is not one of the four special cases. These rules force names to always be separable from the general word-stream.Unless some other rule prevents it (such as the rule that *[zo](/glossary/#zo)* is always followed by a single word, which is quoted), multiple names may appear wherever one name is permitted, each with its terminating pause:
+In [Example 6.76](/chapter06/#example-676 "Example 6.76.") and [Example 6.77](/chapter06/#example-677 "Example 6.77."), *.djan.* appears with a pause before it as well as after it, because the preceding word is not one of the four special cases. These rules force names to always be separable from the general word-stream.Unless some other rule prevents it (such as the rule that *[zo](/glossary/?mode=exact&word=zo)* is always followed by a single word, which is quoted), multiple names may appear wherever one name is permitted, each with its terminating pause:
 
 ##### Example 6.78.
 
@@ -1359,7 +1359,7 @@ In [Example 6.76](/chapter06/#example-676 "Example 6.76.") and [Example 6.77](/c
 
 John Paul Jones, the boat comes (to somewhere) from Newport News.
 
-A name may not contain any consonant combination that is illegal in Lojban words generally: the “impermissible consonant clusters” of Lojban morphology (explained in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters")). Thus *djeimz.* is not a valid version of “James” (because *mz* is invalid): *djeimyz* will suffice. Similarly, *[la](/glossary/#la)* may be replaced by *[ly](/glossary/#ly)*, *[lai](/glossary/#lai)* by *ly'i*, *[doi](/glossary/#doi)* by *[do'i](/glossary/#doi)* or *[dai](/glossary/#dai)*. Here are a few examples:
+A name may not contain any consonant combination that is illegal in Lojban words generally: the “impermissible consonant clusters” of Lojban morphology (explained in [Section 3.6](/chapter03/#36-consonant-clusters "3.6. Consonant Clusters")). Thus *djeimz.* is not a valid version of “James” (because *mz* is invalid): *djeimyz* will suffice. Similarly, *[la](/glossary/?mode=exact&word=la)* may be replaced by *[ly](/glossary/?mode=exact&word=ly)*, *[lai](/glossary/?mode=exact&word=lai)* by *ly'i*, *[doi](/glossary/?mode=exact&word=doi)* by *[do'i](/glossary/?mode=exact&word=do%27i)* or *[dai](/glossary/?mode=exact&word=dai)*. Here are a few examples:
 
 ##### Example 6.79.
 
@@ -1374,7 +1374,7 @@ A name may not contain any consonant combination that is illegal in Lojban words
 
 :::
 
-Names may be borrowed from other languages or created arbitrarily. Another common practice is to use one or more rafsi, arranged to end with a consonant, to form a name: thus the rafsi *loj-* for *[logji](/glossary/#logji)* (logical) and *ban-* for *[bangu](/glossary/#bangu)* (language) unite to form the name of this language:
+Names may be borrowed from other languages or created arbitrarily. Another common practice is to use one or more rafsi, arranged to end with a consonant, to form a name: thus the rafsi *loj-* for *[logji](/glossary/?mode=exact&word=logji)* (logical) and *ban-* for *[bangu](/glossary/?mode=exact&word=bangu)* (language) unite to form the name of this language:
 
 ##### Example 6.80.
 
@@ -1382,11 +1382,11 @@ lojban.
 
 Lojban
 
-When borrowing names from another language which end in a vowel, or when turning a Lojban brivla (all of which end in vowels) into a name, the vowel may be removed or an arbitrary consonant added. It is common (but not required) to use the consonants *s* or *n* when borrowing vowel-final names from English; speakers of other languages may wish to use other consonant endings.The implicit quantifier for name sumti of the form *[la](/glossary/#la)* followed by a name is *[su'o](/glossary/#suo)*, just as for *[la](/glossary/#la)* followed by a selbri.*
+When borrowing names from another language which end in a vowel, or when turning a Lojban brivla (all of which end in vowels) into a name, the vowel may be removed or an arbitrary consonant added. It is common (but not required) to use the consonants *s* or *n* when borrowing vowel-final names from English; speakers of other languages may wish to use other consonant endings.The implicit quantifier for name sumti of the form *[la](/glossary/?mode=exact&word=la)* followed by a name is *[su'o](/glossary/?mode=exact&word=su%27o)*, just as for *[la](/glossary/?mode=exact&word=la)* followed by a selbri.*
 
-*## Pro-sumti summaryThe Lojban pro-sumti are the cmavo of selma'o KOhA. They fall into several classes: personal, definable, quantificational, reflexive, back-counting, indefinite, demonstrative, metalinguistic, relative, question. More details are given in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"); this section mostly duplicates information found there, but adds material on the implicit quantifier of each pro-sumti.The following examples illustrate each of the classes. Unless otherwise noted below, the implicit quantification for pro-sumti is *[ro](/glossary/#ro)* (all). In the case of pro-sumti which refer to other sumti, the *[ro](/glossary/#ro)* signifies “all of those referred to by the other sumti”: thus it is possible to restrict, but not to extend, the quantification of the other sumti.*
+*## Pro-sumti summaryThe Lojban pro-sumti are the cmavo of selma'o KOhA. They fall into several classes: personal, definable, quantificational, reflexive, back-counting, indefinite, demonstrative, metalinguistic, relative, question. More details are given in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi"); this section mostly duplicates information found there, but adds material on the implicit quantifier of each pro-sumti.The following examples illustrate each of the classes. Unless otherwise noted below, the implicit quantification for pro-sumti is *[ro](/glossary/?mode=exact&word=ro)* (all). In the case of pro-sumti which refer to other sumti, the *[ro](/glossary/?mode=exact&word=ro)* signifies “all of those referred to by the other sumti”: thus it is possible to restrict, but not to extend, the quantification of the other sumti.*
 
-*[mi](/glossary/#mi)*, *[do](/glossary/#do)*, *[mi'o](/glossary/#mio)*, *[mi'a](/glossary/#mia)*, *[ma'a](/glossary/#maa)*, *[do'o](/glossary/#doo)*, *[ko](/glossary/#ko)*) refer to the speaker or the listener or both, with or without third parties:
+*[mi](/glossary/?mode=exact&word=mi)*, *[do](/glossary/?mode=exact&word=do)*, *[mi'o](/glossary/?mode=exact&word=mi%27o)*, *[mi'a](/glossary/?mode=exact&word=mi%27a)*, *[ma'a](/glossary/?mode=exact&word=ma%27a)*, *[do'o](/glossary/?mode=exact&word=do%27o)*, *[ko](/glossary/?mode=exact&word=ko)*) refer to the speaker or the listener or both, with or without third parties:
 
 ##### Example 6.81.
 
@@ -1399,9 +1399,9 @@ When borrowing names from another language which end in a vowel, or when turning
 
 :::
 
-The personal pro-sumti may be interpreted in context as either representing individuals or masses, so the implicit quantifier may be *[pisu'o](/glossary/#pisuo)* rather than *[ro](/glossary/#ro)*: in particular, *[mi'o](/glossary/#mio)*, *[mi'a](/glossary/#mia)*, *[ma'a](/glossary/#maa)*, and *[do'o](/glossary/#doo)* specifically represent mass combinations of the individuals (you and I, I and others, you and I and others, you and others) that make them up.
+The personal pro-sumti may be interpreted in context as either representing individuals or masses, so the implicit quantifier may be *[pisu'o](/glossary/?mode=exact&word=pisu%27o)* rather than *[ro](/glossary/?mode=exact&word=ro)*: in particular, *[mi'o](/glossary/?mode=exact&word=mi%27o)*, *[mi'a](/glossary/?mode=exact&word=mi%27a)*, *[ma'a](/glossary/?mode=exact&word=ma%27a)*, and *[do'o](/glossary/?mode=exact&word=do%27o)* specifically represent mass combinations of the individuals (you and I, I and others, you and I and others, you and others) that make them up.
 
-[*ko'a*](/glossary/#koa), *[ko'e](/glossary/#koe)*, *[ko'i](/glossary/#koi)*, *[ko'o](/glossary/#koo)*, *[ko'u](/glossary/#kou)*, *[fo'a](/glossary/#foa)*, *[fo'e](/glossary/#foe)*, *[fo'i](/glossary/#foi)*, *[fo'o](/glossary/#foo)*, *[fo'u](/glossary/#fou)*) refer to whatever the speaker has explicitly made them refer to. This reference is accomplished with *[goi](/glossary/#goi)* (of selma'o GOI), which means “defined-as”.
+[*ko'a*](/glossary/?mode=exact&word=%2Ako%27a%2A), *[ko'e](/glossary/?mode=exact&word=ko%27e)*, *[ko'i](/glossary/?mode=exact&word=ko%27i)*, *[ko'o](/glossary/?mode=exact&word=ko%27o)*, *[ko'u](/glossary/?mode=exact&word=ko%27u)*, *[fo'a](/glossary/?mode=exact&word=fo%27a)*, *[fo'e](/glossary/?mode=exact&word=fo%27e)*, *[fo'i](/glossary/?mode=exact&word=fo%27i)*, *[fo'o](/glossary/?mode=exact&word=fo%27o)*, *[fo'u](/glossary/?mode=exact&word=fo%27u)*) refer to whatever the speaker has explicitly made them refer to. This reference is accomplished with *[goi](/glossary/?mode=exact&word=goi)* (of selma'o GOI), which means “defined-as”.
 
 ##### Example 6.82.
 
@@ -1414,7 +1414,7 @@ The personal pro-sumti may be interpreted in context as either representing indi
 
 :::
 
-[*da*](/glossary/#da), *[de](/glossary/#de)*, *[di](/glossary/#di)* are used as variables in bridi involving predicate logic:
+[*da*](/glossary/?mode=exact&word=%2Ada%2A), *[de](/glossary/?mode=exact&word=de)*, *[di](/glossary/?mode=exact&word=di)* are used as variables in bridi involving predicate logic:
 
 ##### Example 6.83.
 
@@ -1429,9 +1429,9 @@ The personal pro-sumti may be interpreted in context as either representing indi
 
 All persons love a fish (each his/her own).
 
-(This is not the same as “All persons love a certain fish”; the difference between the two is one of quantifier order.) The implicit quantification rules for quantificational pro-sumti are particular to them, and are discussed in detail in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"). Roughly speaking, the quantifier is *[su'o](/glossary/#suo)* (at least one) when the pro-sumti is first used, and *[ro](/glossary/#ro)* (all) thereafter.
+(This is not the same as “All persons love a certain fish”; the difference between the two is one of quantifier order.) The implicit quantification rules for quantificational pro-sumti are particular to them, and are discussed in detail in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"). Roughly speaking, the quantifier is *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one) when the pro-sumti is first used, and *[ro](/glossary/?mode=exact&word=ro)* (all) thereafter.
 
-[*vo'a*](/glossary/#voa), *[vo'e](/glossary/#voe)*, *[vo'i](/glossary/#voi)*, *[vo'o](/glossary/#voo)*, *[vo'u](/glossary/#vou)*) refer to the same referents as sumti filling other places in the same bridi, with the effect that the same thing is referred to twice:
+[*vo'a*](/glossary/?mode=exact&word=%2Avo%27a%2A), *[vo'e](/glossary/?mode=exact&word=vo%27e)*, *[vo'i](/glossary/?mode=exact&word=vo%27i)*, *[vo'o](/glossary/?mode=exact&word=vo%27o)*, *[vo'u](/glossary/?mode=exact&word=vo%27u)*) refer to the same referents as sumti filling other places in the same bridi, with the effect that the same thing is referred to twice:
 
 ##### Example 6.84.
 
@@ -1446,7 +1446,7 @@ All persons love a fish (each his/her own).
 
 The bear bites itself.
 
-[*ri*](/glossary/#ri), *[ra](/glossary/#ra)*, *[ru](/glossary/#ru)*) refer to the referents of previous sumti counted backwards from the pro-sumti:
+[*ri*](/glossary/?mode=exact&word=%2Ari%2A), *[ra](/glossary/?mode=exact&word=ra)*, *[ru](/glossary/?mode=exact&word=ru)*) refer to the referents of previous sumti counted backwards from the pro-sumti:
 
 ##### Example 6.85.
 
@@ -1461,7 +1461,7 @@ The bear bites itself.
 
 I go from Frankfurt to Frankfurt (by some unstated route).
 
-[*zo'e*](/glossary/#zoe), *[zu'i](/glossary/#zui)*, *[zi'o](/glossary/#zio)*) refer to something which is unspecified:
+[*zo'e*](/glossary/?mode=exact&word=%2Azo%27e%2A), *[zu'i](/glossary/?mode=exact&word=zu%27i)*, *[zi'o](/glossary/?mode=exact&word=zi%27o)*) refer to something which is unspecified:
 
 ##### Example 6.86.
 
@@ -1474,9 +1474,9 @@ I go from Frankfurt to Frankfurt (by some unstated route).
 
 :::
 
-The implicit quantifier for indefinite pro-sumti is, well, indefinite. It might be *[ro](/glossary/#ro)* (all) or *[su'o](/glossary/#suo)* (at least one) or conceivably even *[no](/glossary/#no)* (none), though *[no](/glossary/#no)* would require a very odd context indeed.
+The implicit quantifier for indefinite pro-sumti is, well, indefinite. It might be *[ro](/glossary/?mode=exact&word=ro)* (all) or *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one) or conceivably even *[no](/glossary/?mode=exact&word=no)* (none), though *[no](/glossary/?mode=exact&word=no)* would require a very odd context indeed.
 
-Demonstrative pro-sumti (*[ti](/glossary/#ti), [ta](/glossary/#ta), [tu](/glossary/#tu)*) refer to things pointed at by the speaker, or when pointing is not possible, to things near or far from the speaker:
+Demonstrative pro-sumti (*[ti](/glossary/?mode=exact&word=ti), [ta](/glossary/?mode=exact&word=ta), [tu](/glossary/?mode=exact&word=tu)*) refer to things pointed at by the speaker, or when pointing is not possible, to things near or far from the speaker:
 
 ##### Example 6.87.
 
@@ -1491,7 +1491,7 @@ Demonstrative pro-sumti (*[ti](/glossary/#ti), [ta](/glossary/#ta), [tu](/glossa
 
 Move this from there to over there!
 
-Metalinguistic pro-sumti (*[di'u](/glossary/#diu), [de'u](/glossary/#deu), [da'u](/glossary/#dau), [di'e](/glossary/#die), [de'e](/glossary/#dee), [da'e](/glossary/#dae), [dei](/glossary/#dei), [do'i](/glossary/#doi)*) refer to spoken or written utterances, either preceding, following, or the same as the current utterance.
+Metalinguistic pro-sumti (*[di'u](/glossary/?mode=exact&word=di%27u), [de'u](/glossary/?mode=exact&word=de%27u), [da'u](/glossary/?mode=exact&word=da%27u), [di'e](/glossary/?mode=exact&word=di%27e), [de'e](/glossary/?mode=exact&word=de%27e), [da'e](/glossary/?mode=exact&word=da%27e), [dei](/glossary/?mode=exact&word=dei), [do'i](/glossary/?mode=exact&word=do%27i)*) refer to spoken or written utterances, either preceding, following, or the same as the current utterance.
 
 ##### Example 6.88.
 
@@ -1509,9 +1509,9 @@ Metalinguistic pro-sumti (*[di'u](/glossary/#diu), [de'u](/glossary/#deu), [da'u
 
 :::
 
-The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)* (at least one), because they are considered analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which really are previous, current, or following utterances.
+The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one), because they are considered analogous to *[lo](/glossary/?mode=exact&word=lo)* descriptions: they refer to things which really are previous, current, or following utterances.
 
-[*ke'a*](/glossary/#kea)) is used within relative clauses (see [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated") for a discussion of relative clauses) to refer to whatever sumti the relative clause is attached to.
+[*ke'a*](/glossary/?mode=exact&word=%2Ake%27a%2A)) is used within relative clauses (see [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated") for a discussion of relative clauses) to refer to whatever sumti the relative clause is attached to.
 
 ##### Example 6.89.
 
@@ -1526,7 +1526,7 @@ The implicit quantifier for metalinguistic pro-sumti is *[su'o](/glossary/#suo)*
 
 I see the cat(s) made of plastic.
 
-*[ma](/glossary/#ma)* is used to ask questions which request the listener to supply a sumti which will make the question into a truth:
+*[ma](/glossary/?mode=exact&word=ma)* is used to ask questions which request the listener to supply a sumti which will make the question into a truth:
 
 ##### Example 6.90.
 
@@ -1541,7 +1541,7 @@ I see the cat(s) made of plastic.
 
 Where are you going?
 
-The implicit quantifier for the question pro-sumti is *[su'o](/glossary/#suo)* (at least one), because the listener is only being asked to supply a single answer, not all correct answers.
+The implicit quantifier for the question pro-sumti is *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one), because the listener is only being asked to supply a single answer, not all correct answers.
 
 In addition, sequences of lerfu words (of selma'o BY and related selma'o) can also be used as definable pro-sumti.
 
@@ -1549,7 +1549,7 @@ In addition, sequences of lerfu words (of selma'o BY and related selma'o) can al
 
 There are four kinds of quotation in Lojban: text quotation, words quotation, single-word quotation, non-Lojban quotation. More information is provided in [Chapter 19](/chapter19/ "Chapter 19. Putting It All Together: Notes on the Structure of Lojban Texts").
 
-Text quotations are preceded by *[lu](/glossary/#lu)* and followed by *[li'u](/glossary/#liu)*, and are an essential part of the surrounding text: they must be grammatical Lojban texts.
+Text quotations are preceded by *[lu](/glossary/?mode=exact&word=lu)* and followed by *[li'u](/glossary/?mode=exact&word=li%27u)*, and are an essential part of the surrounding text: they must be grammatical Lojban texts.
 
 ##### Example 6.91.
 
@@ -1590,7 +1590,7 @@ Single-word quotation quotes a single Lojban word. Compound cmavo are not allowe
 |     |       |          |                        |
 | --- | ----- | -------- | ---------------------- |
 | mi  | cusku | zo       | .ai                    |
-| I   | say   | the-word | *[ai.](/glossary/#ai)* |
+| I   | say   | the-word | *[ai.](/glossary/?mode=exact&word=ai)* |
 
 :::
 
@@ -1609,11 +1609,11 @@ Non-Lojban quotation can quote anything, Lojban or not, even non-speech such as 
 
 I say “I'm John”.
 
-The implicit quantifier for all types of quotation is *[su'o](/glossary/#suo)* (at least one), because quotations are analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which actually are words or sequences of words.
+The implicit quantifier for all types of quotation is *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one), because quotations are analogous to *[lo](/glossary/?mode=exact&word=lo)* descriptions: they refer to things which actually are words or sequences of words.
 
 ## 6.12. Number summary
 
-The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of selma'o LI) followed by an arbitrary Lojban mekso, or mathematical expression. This can be anything from a simple number up to the most complicated combination of numbers, variables, operators, and so on. Much more information on numbers is given in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). Here are a few examples of increasing complexity:
+The sumti which refer to numbers consist of the cmavo *[li](/glossary/?mode=exact&word=li)* (of selma'o LI) followed by an arbitrary Lojban mekso, or mathematical expression. This can be anything from a simple number up to the most complicated combination of numbers, variables, operators, and so on. Much more information on numbers is given in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"). Here are a few examples of increasing complexity:
 
 ##### Example 6.95.
 
@@ -1654,7 +1654,7 @@ The sumti which refer to numbers consist of the cmavo *[li](/glossary/#li)* (of 
 
 $ax^{2} + bx + c$
 
-An alternative to *[li](/glossary/#li)* is *[me'o](/glossary/#meo)*, also of selma'o LI. Number expressions beginning with *[me'o](/glossary/#meo)* refer to the actual expression, rather than its value. Thus [Example 6.95](/chapter06/#example-695 "Example 6.95.") and [Example 6.96](/chapter06/#example-696 "Example 6.96.") above have the same meaning, the number four, whereas
+An alternative to *[li](/glossary/?mode=exact&word=li)* is *[me'o](/glossary/?mode=exact&word=me%27o)*, also of selma'o LI. Number expressions beginning with *[me'o](/glossary/?mode=exact&word=me%27o)* refer to the actual expression, rather than its value. Thus [Example 6.95](/chapter06/#example-695 "Example 6.95.") and [Example 6.96](/chapter06/#example-696 "Example 6.96.") above have the same meaning, the number four, whereas
 
 ##### Example 6.98.
 
@@ -1686,5 +1686,5 @@ and
 
 refer to different pieces of text.
 
-The implicit quantifier for numbers and mathematical expressions is *[su'o](/glossary/#suo)*, because these sumti are analogous to *[lo](/glossary/#lo)* descriptions: they refer to things which actually are numbers or pieces of text. In the case of numbers (with *[li](/glossary/#li)*), this is a distinction without a difference, as there is only one number which is 4; but there are many texts “4”, as many as there are documents in which that numeral appears.
+The implicit quantifier for numbers and mathematical expressions is *[su'o](/glossary/?mode=exact&word=su%27o)*, because these sumti are analogous to *[lo](/glossary/?mode=exact&word=lo)* descriptions: they refer to things which actually are numbers or pieces of text. In the case of numbers (with *[li](/glossary/?mode=exact&word=li)*), this is a distinction without a difference, as there is only one number which is 4; but there are many texts “4”, as many as there are documents in which that numeral appears.
 

@@ -2,16 +2,24 @@
 
 @theme {
   --font-sans:
-    'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP', 'Noto Sans CJK JP', 'Noto Sans SC',
-    'Segoe UI', sans-serif, system-ui;
+    'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
+    'Noto Sans CJK JP', 'Noto Sans SC', 'Segoe UI', sans-serif, system-ui;
   --font-serif:
-    'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif CJK JP', 'Noto Serif SC',
-    'Segoe UI', serif, system-ui;
+    'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif CJK JP',
+    'Noto Serif SC', 'Segoe UI', serif, system-ui;
   --font-ipa: var(--font-serif);
-  --color-violet-950-dull: oklch(from var(--color-violet-950) l calc(c - 0.08) h);
-  --color-violet-950-dulldull: oklch(from var(--color-violet-950) calc(l - 0.1) calc(c - 0.1) h);
-  --color-violet-900-dull: oklch(from var(--color-violet-900) l calc(c - 0.06) h);
-  --color-violet-800-dull: oklch(from var(--color-violet-800) l calc(c - 0.06) h);
+  --color-violet-950-dull: oklch(
+    from var(--color-violet-950) l calc(c - 0.08) h
+  );
+  --color-violet-950-dulldull: oklch(
+    from var(--color-violet-950) calc(l - 0.1) calc(c - 0.1) h
+  );
+  --color-violet-900-dull: oklch(
+    from var(--color-violet-900) l calc(c - 0.06) h
+  );
+  --color-violet-800-dull: oklch(
+    from var(--color-violet-800) l calc(c - 0.06) h
+  );
   --color-bg: #fff;
   --color-d-bg: var(--color-violet-950-dulldull);
   --color-side: var(--color-violet-50);
@@ -61,9 +69,11 @@
   --default-transition-duration: 110ms;
   --s-paragraph: 1.25rem;
   --s-header: 3rem;
+  --s-footer: 3rem;
   --s-figure: 2rem;
-  --columns-1: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
+  --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
     minmax(min(18rem, 50%), 1fr);
+  --cols-glossary: minmax(min(18rem, 100%), 1fr) minmax(0, 98rem);
 }
 
 @utility cbg-* {
@@ -111,12 +121,12 @@
     @apply underline hover:opacity-60 transition-opacity;
   }
 
-  footer {
-    @apply flex justify-center my-2;
-  }
-
   button {
     @apply cursor-pointer;
+  }
+
+  input[type='text'] {
+    @apply font-mono border cborder-border rounded px-1;
   }
 
   h1:where(#title) {
@@ -124,7 +134,19 @@
   }
 
   :is(h2, h3, h4) {
-    @apply font-normal text-2xl;
+    @apply font-normal;
+  }
+
+  h2 {
+    @apply text-3xl;
+  }
+
+  h3 {
+    @apply text-2xl;
+  }
+
+  h4 {
+    @apply text-xl;
   }
 
   :is(h5, h6) {
@@ -180,7 +202,7 @@
   }
 
   :is(ul, ol) {
-    @apply ps-5;
+    @apply ps-6;
   }
 
   li > :where(p) {

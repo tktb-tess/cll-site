@@ -7,7 +7,7 @@ title: 'Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Loj
 
 The purpose of the feature of Lojban known as “abstraction” is to provide a means for taking whole bridi and packaging them up, as it were, into simple selbri. Syntactically, abstractions are very simple and uniform; semantically, they are rich and complex, with few features in common between one variety of abstraction and another. We will begin by discussing syntax without regard to semantics; as a result, the notion of abstraction may seem unmotivated at first. Bear with this difficulty until [Section 11.2](/chapter11/#112-event-abstraction "11.2. Event abstraction").
 
-An abstraction selbri is formed by taking a full bridi and preceding it by any cmavo of selma'o NU. There are twelve such cmavo; they are known as “abstractors”. The bridi is closed by the elidable terminator *[kei](/glossary/#kei)*, of selma'o KEI. Thus, to change the bridi
+An abstraction selbri is formed by taking a full bridi and preceding it by any cmavo of selma'o NU. There are twelve such cmavo; they are known as “abstractors”. The bridi is closed by the elidable terminator *[kei](/glossary/?mode=exact&word=kei)*, of selma'o KEI. Thus, to change the bridi
 
 ##### Example 11.1.
 
@@ -20,7 +20,7 @@ An abstraction selbri is formed by taking a full bridi and preceding it by any c
 
 :::
 
-into an abstraction using *[nu](/glossary/#nu)*, one of the members of selma'o NU, we change it into
+into an abstraction using *[nu](/glossary/?mode=exact&word=nu)*, one of the members of selma'o NU, we change it into
 
 ##### Example 11.2.
 
@@ -33,9 +33,9 @@ into an abstraction using *[nu](/glossary/#nu)*, one of the members of selma'o N
 
 :::
 
-The bridi may be a simple selbri, or it may have associated sumti, as here. It is important to beware of eliding *[kei](/glossary/#kei)* improperly, as many of the common uses of abstraction selbri involve following them with words that would appear to be part of the abstraction if *[kei](/glossary/#kei)* had been elided.
+The bridi may be a simple selbri, or it may have associated sumti, as here. It is important to beware of eliding *[kei](/glossary/?mode=exact&word=kei)* improperly, as many of the common uses of abstraction selbri involve following them with words that would appear to be part of the abstraction if *[kei](/glossary/?mode=exact&word=kei)* had been elided.
 
-(Technically, *[kei](/glossary/#kei)* is never necessary, because the elidable terminator *[vau](/glossary/#vau)* that closes every bridi can substitute for it; however, *[kei](/glossary/#kei)* is specific to abstractions, and using it is almost always clearer.)
+(Technically, *[kei](/glossary/?mode=exact&word=kei)* is never necessary, because the elidable terminator *[vau](/glossary/?mode=exact&word=vau)* that closes every bridi can substitute for it; however, *[kei](/glossary/?mode=exact&word=kei)* is specific to abstractions, and using it is almost always clearer.)
 
 The grammatical uses of an abstraction selbri are exactly the same as those of a simple brivla. In particular, abstraction selbri may be used as observatives, as in [Example 11.2](/chapter11/#example-112 "Example 11.2."), or used in tanru:
 
@@ -52,7 +52,7 @@ The grammatical uses of an abstraction selbri are exactly the same as those of a
 
 John wants to be a soldier.
 
-Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary/#le)* (or any other member of selma'o LE):
+Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary/?mode=exact&word=le)* (or any other member of selma'o LE):
 
 ##### Example 11.4.
 
@@ -65,7 +65,7 @@ Abstraction selbri may also be used in descriptions, preceded by *[le](/glossary
 
 :::
 
-We will most often use descriptions containing abstraction either at the end of a bridi, or just before the main selbri with its *[cu](/glossary/#cu)*; in either of these circumstances, *[kei](/glossary/#kei)* can normally be elided.
+We will most often use descriptions containing abstraction either at the end of a bridi, or just before the main selbri with its *[cu](/glossary/?mode=exact&word=cu)*; in either of these circumstances, *[kei](/glossary/?mode=exact&word=kei)* can normally be elided.
 
 The place structure of an abstraction selbri depends on the particular abstractor, and will be explained individually in the following sections.
 
@@ -79,7 +79,7 @@ The following cmavo is discussed in this section:
 | --- | --- | ---------------- |
 | nu  | NU  | event abstractor |
 
-The examples in [Section 11.1](/chapter11/#111-the-syntax-of-abstraction "11.1. The syntax of abstraction") made use of *[nu](/glossary/#nu)* as the abstractor, and it is certainly the most common abstractor in Lojban text. Its purpose is to capture the event or state of the bridi considered as a whole. Do not confuse the *[le](/glossary/#le)* description built on a *[nu](/glossary/#nu)* abstraction with ordinary descriptions based on *[le](/glossary/#le)* alone. The following sumti are quite distinct:
+The examples in [Section 11.1](/chapter11/#111-the-syntax-of-abstraction "11.1. The syntax of abstraction") made use of *[nu](/glossary/?mode=exact&word=nu)* as the abstractor, and it is certainly the most common abstractor in Lojban text. Its purpose is to capture the event or state of the bridi considered as a whole. Do not confuse the *[le](/glossary/?mode=exact&word=le)* description built on a *[nu](/glossary/?mode=exact&word=nu)* abstraction with ordinary descriptions based on *[le](/glossary/?mode=exact&word=le)* alone. The following sumti are quite distinct:
 
 ##### Example 11.5.
 
@@ -153,7 +153,7 @@ the means of transportation
 
 the event of someone coming to somewhere from somewhere by some route using some means
 
-[Example 11.5](/chapter11/#example-115 "Example 11.5.") through [Example 11.9](/chapter11/#example-119 "Example 11.9.") are descriptions that isolate the five individual sumti places of the selbri *[klama](/glossary/#klama)*. [Example 11.10](/chapter11/#example-1110 "Example 11.10.") describes something associated with the bridi as a whole: the event of it.
+[Example 11.5](/chapter11/#example-115 "Example 11.5.") through [Example 11.9](/chapter11/#example-119 "Example 11.9.") are descriptions that isolate the five individual sumti places of the selbri *[klama](/glossary/?mode=exact&word=klama)*. [Example 11.10](/chapter11/#example-1110 "Example 11.10.") describes something associated with the bridi as a whole: the event of it.
 
 In Lojban, the term “event” is divorced from its ordinary English sense of something that happens over a short period of time. The description:
 
@@ -183,7 +183,7 @@ is an event which lasts for the whole of my life (under normal circumstances). O
 
 is relatively brief by comparison (again, under normal circumstances).
 
-We can see from [Example 11.10](/chapter11/#example-1110 "Example 11.10.") through [Example 11.12](/chapter11/#example-1112 "Example 11.12.") that ellipsis of sumti is valid in the bridi of abstraction selbri, just as in the main bridi of a sentence. Any sumti may be ellipsized if the listener will be able to figure out from context what the proper value of it is, or else to recognize that the proper value is unimportant. It is extremely common for *[nu](/glossary/#nu)* abstractions in descriptions to have the x1 place ellipsized:
+We can see from [Example 11.10](/chapter11/#example-1110 "Example 11.10.") through [Example 11.12](/chapter11/#example-1112 "Example 11.12.") that ellipsis of sumti is valid in the bridi of abstraction selbri, just as in the main bridi of a sentence. Any sumti may be ellipsized if the listener will be able to figure out from context what the proper value of it is, or else to recognize that the proper value is unimportant. It is extremely common for *[nu](/glossary/?mode=exact&word=nu)* abstractions in descriptions to have the x1 place ellipsized:
 
 ##### Example 11.13.
 
@@ -254,7 +254,7 @@ Lojban is easy for me when I study.
 
 (The “when” of the English would also be appropriate for a construction involving a Lojban tense, but the Lojban sentence says more than that the studying is concurrent with the ease.)
 
-The place structure of a *[nu](/glossary/#nu)* abstraction selbri is simply:
+The place structure of a *[nu](/glossary/?mode=exact&word=nu)* abstraction selbri is simply:
 
 > x1 is an event of (the bridi)
 
@@ -269,9 +269,9 @@ The following cmavo are discussed in this section:
 | zu'o | NU  | activity abstractor    |
 | za'i | NU  | state abstractor       |
 
-Event abstractions with *[nu](/glossary/#nu)* suffice to express all kinds of events, whether long, short, unique, repetitive, or whatever. Lojban also has more finely discriminating machinery for talking about events, however. There are four other abstractors of selma'o NU for talking about four specific types of events, or four ways of looking at the same event.
+Event abstractions with *[nu](/glossary/?mode=exact&word=nu)* suffice to express all kinds of events, whether long, short, unique, repetitive, or whatever. Lojban also has more finely discriminating machinery for talking about events, however. There are four other abstractors of selma'o NU for talking about four specific types of events, or four ways of looking at the same event.
 
-An event considered as a point in time is called a “point-event”, or sometimes an “achievement”. (This latter word should be divorced, in this context, from all connotations of success or triumph.) A point-event can be extended in duration, but it is still a point-event if it is thought of as unitary, having no internal structure. The abstractor *[mu'e](/glossary/#mue)* means “point-event-of”:
+An event considered as a point in time is called a “point-event”, or sometimes an “achievement”. (This latter word should be divorced, in this context, from all connotations of success or triumph.) A point-event can be extended in duration, but it is still a point-event if it is thought of as unitary, having no internal structure. The abstractor *[mu'e](/glossary/?mode=exact&word=mu%27e)* means “point-event-of”:
 
 ##### Example 11.17.
 
@@ -286,7 +286,7 @@ An event considered as a point in time is called a “point-event”, or sometim
 
 John's killing Jim (considered as a point in time) is a crime.
 
-An event considered as extended in time, and structured with a beginning, a middle containing one or more stages, and an end, is called a “process”. The abstractor *[pu'u](/glossary/#puu)* means “process-of”:
+An event considered as extended in time, and structured with a beginning, a middle containing one or more stages, and an end, is called a “process”. The abstractor *[pu'u](/glossary/?mode=exact&word=pu%27u)* means “process-of”:
 
 ##### Example 11.18.
 
@@ -306,7 +306,7 @@ An event considered as extended in time, and structured with a beginning, a midd
 
 During the fall of the Roman Empire, many Emperors were killed.
 
-An event considered as extended in time and cyclic or repetitive is called an “activity”. The abstractor *[zu'o](/glossary/#zuo)* means “activity-of”:
+An event considered as extended in time and cyclic or repetitive is called an “activity”. The abstractor *[zu'o](/glossary/?mode=exact&word=zu%27o)* means “activity-of”:
 
 ##### Example 11.19.
 
@@ -321,7 +321,7 @@ An event considered as extended in time and cyclic or repetitive is called an �
 
 I am tired because I jump.
 
-An event considered as something that is either happening or not happening, with sharp boundaries, is called a “state”. The abstractor *[za'i](/glossary/#zai)* means “state-of”:
+An event considered as something that is either happening or not happening, with sharp boundaries, is called a “state”. The abstractor *[za'i](/glossary/?mode=exact&word=za%27i)* means “state-of”:
 
 ##### Example 11.20.
 
@@ -336,7 +336,7 @@ An event considered as something that is either happening or not happening, with
 
 My being alive is dangerous to you.
 
-The abstractors in [Example 11.17](/chapter11/#example-1117 "Example 11.17.") through [Example 11.20](/chapter11/#example-1120 "Example 11.20.") could all have been replaced by *[nu](/glossary/#nu)*, with some loss of precision. Note that Lojban allows every sort of event to be viewed in any of these four ways:
+The abstractors in [Example 11.17](/chapter11/#example-1117 "Example 11.17.") through [Example 11.20](/chapter11/#example-1120 "Example 11.20.") could all have been replaced by *[nu](/glossary/?mode=exact&word=nu)*, with some loss of precision. Note that Lojban allows every sort of event to be viewed in any of these four ways:
 
 - the “state of running” begins when the runner starts and ends when the runner stops;
 
@@ -364,7 +364,7 @@ The following cmavo are discussed in this section:
 | ka   | NU   | property abstractor |
 | ce'u | KOhA | abstraction focus   |
 
-The things described by *le nu* descriptions (or, to put it another way, the things of which *[nu](/glossary/#nu)* selbri may correctly be predicated) are only moderately “abstract”. They are still closely tied to happenings in space and time. Properties, however, are much more ethereal. What is “the property of being blue”, or “the property of being a go-er”? They are what logicians call “intensions”. If John has a heart, then “the property of having a heart” is an abstract object which, when applied to John, is true. In fact,
+The things described by *le nu* descriptions (or, to put it another way, the things of which *[nu](/glossary/?mode=exact&word=nu)* selbri may correctly be predicated) are only moderately “abstract”. They are still closely tied to happenings in space and time. Properties, however, are much more ethereal. What is “the property of being blue”, or “the property of being a go-er”? They are what logicians call “intensions”. If John has a heart, then “the property of having a heart” is an abstract object which, when applied to John, is true. In fact,
 
 ##### Example 11.21.
 
@@ -493,7 +493,7 @@ I love John more than I love George.
 
 John loves me more than George loves me.
 
-The “X” used in the glosses of [Example 11.27](/chapter11/#example-1127 "Example 11.27.") through [Example 11.28](/chapter11/#example-1128 "Example 11.28.") as a place-holder cannot be represented only by ellipsis in Lojban, because ellipsis means that there must be a specific value that can fill the ellipsis, as mentioned in [Section 11.2](/chapter11/#112-event-abstraction "11.2. Event abstraction"). Instead, the cmavo *[ce'u](/glossary/#ceu)* of selma'o KOhA is employed when an explicit sumti is wanted. (The form “X” will be used in literal translations.)Therefore, an explicit equivalent of [Example 11.27](/chapter11/#example-1127 "Example 11.27."), with no ellipsis, is:
+The “X” used in the glosses of [Example 11.27](/chapter11/#example-1127 "Example 11.27.") through [Example 11.28](/chapter11/#example-1128 "Example 11.28.") as a place-holder cannot be represented only by ellipsis in Lojban, because ellipsis means that there must be a specific value that can fill the ellipsis, as mentioned in [Section 11.2](/chapter11/#112-event-abstraction "11.2. Event abstraction"). Instead, the cmavo *[ce'u](/glossary/?mode=exact&word=ce%27u)* of selma'o KOhA is employed when an explicit sumti is wanted. (The form “X” will be used in literal translations.)Therefore, an explicit equivalent of [Example 11.27](/chapter11/#example-1127 "Example 11.27."), with no ellipsis, is:
 
 ##### Example 11.29.
 
@@ -572,13 +572,13 @@ the property of being one to whom the horse is given
 
 which is also a possible interpretation.
 
-It is also possible to have more than one *[ce'u](/glossary/#ceu)* in a *[ka](/glossary/#ka)* abstraction, which transforms it from a property abstraction into a relationship abstraction. Relationship abstractions “package up” a complex relationship for future use; such an abstraction can be translated back into a selbri by placing it in the x2 place of the selbri *[bridi](/glossary/#bridi)*, whose place structure is:
+It is also possible to have more than one *[ce'u](/glossary/?mode=exact&word=ce%27u)* in a *[ka](/glossary/?mode=exact&word=ka)* abstraction, which transforms it from a property abstraction into a relationship abstraction. Relationship abstractions “package up” a complex relationship for future use; such an abstraction can be translated back into a selbri by placing it in the x2 place of the selbri *[bridi](/glossary/?mode=exact&word=bridi)*, whose place structure is:
 
-> *[bridi](/glossary/#bridi)* x1 is a predicate relationship with relation x2 (abstraction) among arguments (sequence/set) x3
+> *[bridi](/glossary/?mode=exact&word=bridi)* x1 is a predicate relationship with relation x2 (abstraction) among arguments (sequence/set) x3
 
-The place structure of *[ka](/glossary/#ka)* abstraction selbri is simply:
+The place structure of *[ka](/glossary/?mode=exact&word=ka)* abstraction selbri is simply:
 
-> *[ka](/glossary/#ka)* x1 is a property of (the bridi)## Amount abstractions
+> *[ka](/glossary/?mode=exact&word=ka)* x1 is a property of (the bridi)## Amount abstractions
 
 The following cmavo is discussed in this section:
 
@@ -619,7 +619,7 @@ the amount of Jane's mother-ness (?)
 
 makes very little sense in either Lojban or English. We simply do not have any sort of measurement scale for being a mother.
 
-Semantically, a sumti with *le ni* is a number; however, it cannot be treated grammatically as a quantifier in Lojban unless prefixed by the mathematical cmavo *[mo'e](/glossary/#moe)*:
+Semantically, a sumti with *le ni* is a number; however, it cannot be treated grammatically as a quantifier in Lojban unless prefixed by the mathematical cmavo *[mo'e](/glossary/?mode=exact&word=mo%27e)*:
 
 ##### Example 11.36.
 
@@ -641,7 +641,7 @@ Semantically, a sumti with *le ni* is a number; however, it cannot be treated gr
 
 Mathematical Lojban is beyond the scope of this chapter, and is explained more fully in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban").
 
-There are contexts where either property or amount abstractions make sense, and in such constructions, amount abstractions can make use of *[ce'u](/glossary/#ceu)* just like property abstractors. Thus,
+There are contexts where either property or amount abstractions make sense, and in such constructions, amount abstractions can make use of *[ce'u](/glossary/?mode=exact&word=ce%27u)* just like property abstractors. Thus,
 
 ##### Example 11.37.
 
@@ -675,12 +675,12 @@ The picture varies in how blue it is.
 
 [Example 11.37](/chapter11/#example-1137 "Example 11.37.") conveys that the blueness comes and goes, whereas [Example 11.38](/chapter11/#example-1138 "Example 11.38.") conveys that its quantity changes over time.
 
-Whenever we talk of measurement of an amount, there is some sort of scale, and so the place structure of *[ni](/glossary/#ni)* abstraction selbri is:
-> *[*ni*](/glossary/#ni)* x1 is the amount of (the bridi) on scale x2 Note: the best way to express the x2 places of abstract sumti is to use something like *le ni ... kei be*. See [Example 11.62](/chapter11/#example-1162 "Example 11.62.") for the use of this construction.
+Whenever we talk of measurement of an amount, there is some sort of scale, and so the place structure of *[ni](/glossary/?mode=exact&word=ni)* abstraction selbri is:
+> *[*ni*](/glossary/?mode=exact&word=%2Ani%2A)* x1 is the amount of (the bridi) on scale x2 Note: the best way to express the x2 places of abstract sumti is to use something like *le ni ... kei be*. See [Example 11.62](/chapter11/#example-1162 "Example 11.62.") for the use of this construction.
 
 ## 11.5. Truth-value abstraction: *jei*
 
-The “blueness of the picture” discussed in [Section 11.5](/chapter11/#115-amount-abstractions "11.5. Amount abstractions") refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Lojban using *[jei](/glossary/#jei)*, which is closely related semantically to *[ni](/glossary/#ni)*. In the simplest cases, *le jei* produces not a number but a truth value:
+The “blueness of the picture” discussed in [Section 11.5](/chapter11/#115-amount-abstractions "11.5. Amount abstractions") refers to the measurable amount of blue pigment (or other source of blueness), not to the degree of truth of the claim that blueness is present. That abstraction is expressed in Lojban using *[jei](/glossary/?mode=exact&word=jei)*, which is closely related semantically to *[ni](/glossary/?mode=exact&word=ni)*. In the simplest cases, *le jei* produces not a number but a truth value:
 
 ##### Example 11.39.
 
@@ -710,7 +710,7 @@ the truth of 2 + 2 being 5
 
 is equivalent to “falsehood”.
 
-However, not everything in life (or even in Lojban) is simply true or false. There are shades of gray even in truth value, and *[jei](/glossary/#jei)* is Lojban's mechanism for indicating the shade of grey intended:
+However, not everything in life (or even in Lojban) is simply true or false. There are shades of gray even in truth value, and *[jei](/glossary/?mode=exact&word=jei)* is Lojban's mechanism for indicating the shade of grey intended:
 
 ##### Example 11.41.
 
@@ -730,11 +730,11 @@ However, not everything in life (or even in Lojban) is simply true or false. The
 
 I will decide whether George is a criminal.
 
-[Example 11.41](/chapter11/#example-1141 "Example 11.41.") does not imply that George is, or is not, definitely a criminal. Depending on the legal system I am using, I may make some intermediate decision. As a result, *[jei](/glossary/#jei)* requires an x2 place analogous to that of *[ni](/glossary/#ni)*:
+[Example 11.41](/chapter11/#example-1141 "Example 11.41.") does not imply that George is, or is not, definitely a criminal. Depending on the legal system I am using, I may make some intermediate decision. As a result, *[jei](/glossary/?mode=exact&word=jei)* requires an x2 place analogous to that of *[ni](/glossary/?mode=exact&word=ni)*:
 
-> *[jei](/glossary/#jei)* x1 is the truth value of (the bridi) under epistemology x2
+> *[jei](/glossary/?mode=exact&word=jei)* x1 is the truth value of (the bridi) under epistemology x2
 
-Abstractions using *[jei](/glossary/#jei)* are the mechanism for fuzzy logic in Lojban; the *[jei](/glossary/#jei)* abstraction refers to a number between 0 and 1 inclusive (as distinct from *[ni](/glossary/#ni)* abstractions, which are often on open-ended scales). The detailed conventions for using *[jei](/glossary/#jei)* in fuzzy-logic contexts have not yet been established.
+Abstractions using *[jei](/glossary/?mode=exact&word=jei)* are the mechanism for fuzzy logic in Lojban; the *[jei](/glossary/?mode=exact&word=jei)* abstraction refers to a number between 0 and 1 inclusive (as distinct from *[ni](/glossary/?mode=exact&word=ni)* abstractions, which are often on open-ended scales). The detailed conventions for using *[jei](/glossary/?mode=exact&word=jei)* in fuzzy-logic contexts have not yet been established.
 
 ## 11.6. Predication/sentence abstraction
 
@@ -794,7 +794,7 @@ Closer. [Example 11.44](/chapter11/#example-1144 "Example 11.44.") says that I k
 
 I know the predication that Frank is a fool.
 
-Now we have it. Note that the implied assertion “Frank is a fool” is not a property of *le du'u* abstraction, but of *[djuno](/glossary/#djuno)*; we can only know what is in fact true. (As a result, *[djuno](/glossary/#djuno)* like *[jei](/glossary/#jei)* has a place for epistemology, which specifies how we know.) [Example 11.46](/chapter11/#example-1146 "Example 11.46.") has no such implied assertion:
+Now we have it. Note that the implied assertion “Frank is a fool” is not a property of *le du'u* abstraction, but of *[djuno](/glossary/?mode=exact&word=djuno)*; we can only know what is in fact true. (As a result, *[djuno](/glossary/?mode=exact&word=djuno)* like *[jei](/glossary/?mode=exact&word=jei)* has a place for epistemology, which specifies how we know.) [Example 11.46](/chapter11/#example-1146 "Example 11.46.") has no such implied assertion:
 
 ##### Example 11.46.
 
@@ -808,7 +808,7 @@ Now we have it. Note that the implied assertion “Frank is a fool” is not a p
 
 I am curious about whether Frank is a fool.
 
-and here *[du'u](/glossary/#duu)* could probably be replaced by *[jei](/glossary/#jei)* without much change in meaning:
+and here *[du'u](/glossary/?mode=exact&word=du%27u)* could probably be replaced by *[jei](/glossary/?mode=exact&word=jei)* without much change in meaning:
 
 ##### Example 11.47.
 
@@ -822,8 +822,8 @@ and here *[du'u](/glossary/#duu)* could probably be replaced by *[jei](/glossary
 
 I am curious about how true it is that Frank is a fool.
 
-As a matter of convenience rather than logical necessity, *[du'u](/glossary/#duu)* has been given an x2 place, which is a sentence (piece of language) expressing the bridi:
-> *[du'u](/glossary/#duu)* x1 is the predication (the bridi), expressed in sentence x2and *le se du'u ...* is very useful in filling places of selbri which refer to speaking, writing, or other linguistic behavior regarding bridi:
+As a matter of convenience rather than logical necessity, *[du'u](/glossary/?mode=exact&word=du%27u)* has been given an x2 place, which is a sentence (piece of language) expressing the bridi:
+> *[du'u](/glossary/?mode=exact&word=du%27u)* x1 is the predication (the bridi), expressed in sentence x2and *le se du'u ...* is very useful in filling places of selbri which refer to speaking, writing, or other linguistic behavior regarding bridi:
 
 ##### Example 11.48.
 
@@ -861,7 +861,7 @@ John says that George goes to the store.
 
 John says “George goes to the store”.
 
-because [Example 11.49](/chapter11/#example-1149 "Example 11.49.") claims that John actually said the quoted words, whereas [Example 11.48](/chapter11/#example-1148 "Example 11.48.") claims only that he said some words or other which were to the same purpose.*le se du'u* is much the same as *lu'e le du'u*, a symbol for the predication, but *se du'u* can be used as a selbri, whereas *[lu'e](/glossary/#lue)* is ungrammatical in a selbri. (See [Section 6.10](/chapter06/#610-sumti-qualifiers "6.10. sumti qualifiers") for a discussion of *[lu'e](/glossary/#lue)*.)## Indirect questions
+because [Example 11.49](/chapter11/#example-1149 "Example 11.49.") claims that John actually said the quoted words, whereas [Example 11.48](/chapter11/#example-1148 "Example 11.48.") claims only that he said some words or other which were to the same purpose.*le se du'u* is much the same as *lu'e le du'u*, a symbol for the predication, but *se du'u* can be used as a selbri, whereas *[lu'e](/glossary/?mode=exact&word=lu%27e)* is ungrammatical in a selbri. (See [Section 6.10](/chapter06/#610-sumti-qualifiers "6.10. sumti qualifiers") for a discussion of *[lu'e](/glossary/?mode=exact&word=lu%27e)*.)## Indirect questions
 
 The following cmavo is discussed in this section:
 
@@ -869,7 +869,7 @@ The following cmavo is discussed in this section:
 | --- | --- | ------------------------ |
 | kau | UI  | indirect question marker |
 
-There is an alternative type of sentence involving *[du'u](/glossary/#duu)* and a selbri expressing a propositional attitude. In addition to sentences like##### Example 11.50.
+There is an alternative type of sentence involving *[du'u](/glossary/?mode=exact&word=du%27u)* and a selbri expressing a propositional attitude. In addition to sentences like##### Example 11.50.
 
 I know that John went to the store.we can also say things like##### Example 11.51.
 
@@ -877,7 +877,7 @@ I know who went to the store.
 
 This form is called an “indirect question” in English because the embedded English sentence is a question: “Who went to the store?” A person who says [Example 11.51](/chapter11/#example-1151 "Example 11.51.") is claiming to know the answer to this question. Indirect questions can occur with many other English verbs as well: I can wonder, or doubt, or see, or hear, as well as know who went to the store.
 
-To express indirect questions in Lojban, we use a *le du'u* abstraction, but rather than using a question word like “who” (*[ma](/glossary/#ma)* in Lojban), we use any word that will fit grammatically and mark it with the suffix particle *[kau](/glossary/#kau)*. This cmavo belongs to selma'o UI, so grammatically it can appear anywhere. The simplest Lojban translation of [Example 11.51](/chapter11/#example-1151 "Example 11.51.") is therefore:
+To express indirect questions in Lojban, we use a *le du'u* abstraction, but rather than using a question word like “who” (*[ma](/glossary/?mode=exact&word=ma)* in Lojban), we use any word that will fit grammatically and mark it with the suffix particle *[kau](/glossary/?mode=exact&word=kau)*. This cmavo belongs to selma'o UI, so grammatically it can appear anywhere. The simplest Lojban translation of [Example 11.51](/chapter11/#example-1151 "Example 11.51.") is therefore:
 
 ##### Example 11.52.
 
@@ -895,7 +895,7 @@ To express indirect questions in Lojban, we use a *le du'u* abstraction, but rat
 | ma  | kau                   | pu       | klama    | le  | zarci  |
 | X   | \[indirect-question\] | \[past\] | going-to | the | store. |
 
-In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to use *[ma](/glossary/#ma)* as the word marked by *[kau](/glossary/#kau)*. In fact, any other sumti would have done as well: *[zo'e](/glossary/#zoe)* or *[da](/glossary/#da)* or even *la djan.*. Using *la djan.* would suggest that it was John who I knew had gone to the store, however:
+In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to use *[ma](/glossary/?mode=exact&word=ma)* as the word marked by *[kau](/glossary/?mode=exact&word=kau)*. In fact, any other sumti would have done as well: *[zo'e](/glossary/?mode=exact&word=zo%27e)* or *[da](/glossary/?mode=exact&word=da)* or even *la djan.*. Using *la djan.* would suggest that it was John who I knew had gone to the store, however:
 
 ##### Example 11.53.
 
@@ -916,9 +916,9 @@ In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to
 I know who went to the store, namely John.
 | I know that it was John who went to the store. |
 
-Using one of the indefinite pro-sumti such as *[ma](/glossary/#ma)*, *[zo'e](/glossary/#zoe)*, or *[da](/glossary/#da)* does not suggest any particular value.
+Using one of the indefinite pro-sumti such as *[ma](/glossary/?mode=exact&word=ma)*, *[zo'e](/glossary/?mode=exact&word=zo%27e)*, or *[da](/glossary/?mode=exact&word=da)* does not suggest any particular value.
 
-Why does Lojban require the *[kau](/glossary/#kau)* marker, rather than using *[ma](/glossary/#ma)* as English and Chinese and many other languages do? Because *[ma](/glossary/#ma)* always signals a direct question, and so##### Example 11.54.
+Why does Lojban require the *[kau](/glossary/?mode=exact&word=kau)* marker, rather than using *[ma](/glossary/?mode=exact&word=ma)* as English and Chinese and many other languages do? Because *[ma](/glossary/?mode=exact&word=ma)* always signals a direct question, and so##### Example 11.54.
 
 :::jbomupli
 
@@ -935,7 +935,7 @@ means
 
 Who is it that I know goes to the store?
 
-It is actually not necessary to use *le du'u* and *[kau](/glossary/#kau)* at all if the indirect question involves a sumti; there is generally a paraphrase of the type:
+It is actually not necessary to use *le du'u* and *[kau](/glossary/?mode=exact&word=kau)* at all if the indirect question involves a sumti; there is generally a paraphrase of the type:
 
 ##### Example 11.56.
 
@@ -950,7 +950,7 @@ It is actually not necessary to use *le du'u* and *[kau](/glossary/#kau)* at all
 
 I know something about the one who went to the store (namely, his identity).
 
-because the x3 place of *[djuno](/glossary/#djuno)* is the subject of knowledge, as opposed to the fact that is known. But when the questioned point is not a sumti, but (say) a logical connection, then there is no good alternative to *[kau](/glossary/#kau)*:
+because the x3 place of *[djuno](/glossary/?mode=exact&word=djuno)* is the subject of knowledge, as opposed to the fact that is known. But when the questioned point is not a sumti, but (say) a logical connection, then there is no good alternative to *[kau](/glossary/?mode=exact&word=kau)*:
 
 ##### Example 11.57.
 
@@ -982,7 +982,7 @@ The following cmavo are discussed in this section:
 | si'o | NU  | concept abstractor    |
 | su'u | NU  | general abstractor    |
 
-There are three more abstractors in Lojban, all of them little used so far. The abstractor *[li'i](/glossary/#lii)* expresses experience:
+There are three more abstractors in Lojban, all of them little used so far. The abstractor *[li'i](/glossary/?mode=exact&word=li%27i)* expresses experience:
 
 ##### Example 11.58.
 
@@ -995,7 +995,7 @@ There are three more abstractors in Lojban, all of them little used so far. The 
 
 :::
 
-The abstractor *[si'o](/glossary/#sio)* expresses a mental image, a concept, an idea:
+The abstractor *[si'o](/glossary/?mode=exact&word=si%27o)* expresses a mental image, a concept, an idea:
 
 ##### Example 11.59.
 
@@ -1008,7 +1008,7 @@ The abstractor *[si'o](/glossary/#sio)* expresses a mental image, a concept, an 
 
 :::
 
-Finally, the abstractor *[su'u](/glossary/#suu)* is a vague abstractor, whose meaning must be grasped from context:
+Finally, the abstractor *[su'u](/glossary/?mode=exact&word=su%27u)* is a vague abstractor, whose meaning must be grasped from context:
 
 ##### Example 11.60.
 
@@ -1023,19 +1023,19 @@ Finally, the abstractor *[su'u](/glossary/#suu)* is a vague abstractor, whose me
 
 See how the three mice run!
 
-All three of these abstractors have an x2 place. An experience requires an experiencer, so the place structure of *[li'i](/glossary/#lii)* is:
+All three of these abstractors have an x2 place. An experience requires an experiencer, so the place structure of *[li'i](/glossary/?mode=exact&word=li%27i)* is:
 
-> *[li'i](/glossary/#lii)* x1 is the experience of (the bridi) as experienced by x2
+> *[li'i](/glossary/?mode=exact&word=li%27i)* x1 is the experience of (the bridi) as experienced by x2
 
-Similarly, an idea requires a mind to hold it, so the place structure of *[si'o](/glossary/#sio)* is:
+Similarly, an idea requires a mind to hold it, so the place structure of *[si'o](/glossary/?mode=exact&word=si%27o)* is:
 
-> *[si'o](/glossary/#sio)* x1 is the idea/concept of (the bridi) in the mind of x2
+> *[si'o](/glossary/?mode=exact&word=si%27o)* x1 is the idea/concept of (the bridi) in the mind of x2
 
-Finally, there needs to be some way of specifying just what sort of abstraction *[su'u](/glossary/#suu)* is representing, so its place structure is:
+Finally, there needs to be some way of specifying just what sort of abstraction *[su'u](/glossary/?mode=exact&word=su%27u)* is representing, so its place structure is:
 
-> *[su'u](/glossary/#suu)* x1 is an abstract nature of (the bridi) of type x2
+> *[su'u](/glossary/?mode=exact&word=su%27u)* x1 is an abstract nature of (the bridi) of type x2
 
-The x2 place of *[su'u](/glossary/#suu)* allows it to serve as a substitute for any of the other abstractors, or as a template for creating new ones. For example,
+The x2 place of *[su'u](/glossary/?mode=exact&word=su%27u)* allows it to serve as a substitute for any of the other abstractors, or as a template for creating new ones. For example,
 
 ##### Example 11.61.
 
@@ -1091,7 +1091,7 @@ and there is a book whose title might be rendered in Lojban as:
 
 The Crucifixion of Jesus Considered As A Downhill Bicycle Race
 
-Note the importance of using *[kei](/glossary/#kei)* after *[su'u](/glossary/#suu)* when the x2 of *[su'u](/glossary/#suu)* (or any other abstractor) is being specified; otherwise, the *be lo* ends up inside the abstraction bridi.
+Note the importance of using *[kei](/glossary/?mode=exact&word=kei)* after *[su'u](/glossary/?mode=exact&word=su%27u)* when the x2 of *[su'u](/glossary/?mode=exact&word=su%27u)* (or any other abstractor) is being specified; otherwise, the *be lo* ends up inside the abstraction bridi.
 
 ## 11.8. Lojban sumti raising
 
@@ -1128,7 +1128,7 @@ which has an abstract description within an abstract description, quite a comple
 
 ##### Example 11.66.
 
-I try the door.where it is understood that what I try is actually not the door itself, but the act of opening it. The same simplification can be done in Lojban, but it must be marked explicitly using a cmavo. The relevant cmavo is *[tu'a](/glossary/#tua)*, which belongs to selma'o LAhE. The Lojban equivalent of [Example 11.66](/chapter11/#example-1166 "Example 11.66.") is:
+I try the door.where it is understood that what I try is actually not the door itself, but the act of opening it. The same simplification can be done in Lojban, but it must be marked explicitly using a cmavo. The relevant cmavo is *[tu'a](/glossary/?mode=exact&word=tu%27a)*, which belongs to selma'o LAhE. The Lojban equivalent of [Example 11.66](/chapter11/#example-1166 "Example 11.66.") is:
 
 ##### Example 11.67.
 
@@ -1143,7 +1143,7 @@ I try the door.where it is understood that what I try is actually not the door i
 
 The term “sumti-raising”, as in the title of this section, signifies that a sumti which logically belongs within an abstraction (or even within an abstraction which is itself inside an intermediate abstraction) is “raised” to the main bridi level. This transformation from [Example 11.65](/chapter11/#example-1165 "Example 11.65.") to [Example 11.67](/chapter11/#example-1167 "Example 11.67.") loses information: nothing except convention tells us what the abstraction was.
 
-Using *[tu'a](/glossary/#tua)* is a kind of laziness: it makes speaking easier at the possible expense of clarity for the listener. The speaker must be prepared for the listener to respond something like:
+Using *[tu'a](/glossary/?mode=exact&word=tu%27a)* is a kind of laziness: it makes speaking easier at the possible expense of clarity for the listener. The speaker must be prepared for the listener to respond something like:
 
 ##### Example 11.68.
 
@@ -1156,7 +1156,7 @@ Using *[tu'a](/glossary/#tua)* is a kind of laziness: it makes speaking easier a
 
 :::
 
-which indicates that *tu'a le vorme* cannot be understood. (The terminator for *[tu'a](/glossary/#tua)* is *[lu'u](/glossary/#luu)*, and is used in [Example 11.68](/chapter11/#example-1168 "Example 11.68.") to make clear just what is being questioned: the sumti-raising, rather than the word *[vorme](/glossary/#vorme)* as such.) An example of a confusing raised sumti might be:
+which indicates that *tu'a le vorme* cannot be understood. (The terminator for *[tu'a](/glossary/?mode=exact&word=tu%27a)* is *[lu'u](/glossary/?mode=exact&word=lu%27u)*, and is used in [Example 11.68](/chapter11/#example-1168 "Example 11.68.") to make clear just what is being questioned: the sumti-raising, rather than the word *[vorme](/glossary/?mode=exact&word=vorme)* as such.) An example of a confusing raised sumti might be:
 
 ##### Example 11.69.
 
@@ -1169,7 +1169,7 @@ which indicates that *tu'a le vorme* cannot be understood. (The terminator for *
 
 :::
 
-This must mean that something which John does, or which happens to John, occurs frequently: but without more context there is no way to figure out what. Note that without the *[tu'a](/glossary/#tua)*, [Example 11.69](/chapter11/#example-1169 "Example 11.69.") would mean that John considered as an event frequently occurs – in other words, that John has some sort of on-and-off existence! Normally we do not think of people as events in English, but the x1 place of *[cafne](/glossary/#cafne)* is an event, and if something that does not seem to be an event is put there, the Lojbanic listener will attempt to construe it as one. (Of course, this analysis assumes that *djan.* is the name of a person, and not the name of some event.)Logically, a counterpart of some sort is needed to *[tu'a](/glossary/#tua)* which transposes an abstract sumti into a concrete one. This is achieved at the selbri level by the cmavo *[jai](/glossary/#jai)* (of selma'o JAI). This cmavo has more than one function, discussed in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#1022-conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI"); for the purposes of this chapter, it operates as a conversion of selbri, similarly to the cmavo of selma'o SE. This conversion changes
+This must mean that something which John does, or which happens to John, occurs frequently: but without more context there is no way to figure out what. Note that without the *[tu'a](/glossary/?mode=exact&word=tu%27a)*, [Example 11.69](/chapter11/#example-1169 "Example 11.69.") would mean that John considered as an event frequently occurs – in other words, that John has some sort of on-and-off existence! Normally we do not think of people as events in English, but the x1 place of *[cafne](/glossary/?mode=exact&word=cafne)* is an event, and if something that does not seem to be an event is put there, the Lojbanic listener will attempt to construe it as one. (Of course, this analysis assumes that *djan.* is the name of a person, and not the name of some event.)Logically, a counterpart of some sort is needed to *[tu'a](/glossary/?mode=exact&word=tu%27a)* which transposes an abstract sumti into a concrete one. This is achieved at the selbri level by the cmavo *[jai](/glossary/?mode=exact&word=jai)* (of selma'o JAI). This cmavo has more than one function, discussed in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI") and [Section 10.22](/chapter10/#1022-conversion-of-sumti-tcita-jai "10.22. Conversion of sumti tcita: JAI"); for the purposes of this chapter, it operates as a conversion of selbri, similarly to the cmavo of selma'o SE. This conversion changes
 
 ##### Example 11.70.
 
@@ -1197,7 +1197,7 @@ into##### Example 11.71.
 
 I cause your death.
 
-In English, the subject of “cause” can either be the actual cause (an event), or else the agent of the cause (a person, typically); not so in Lojban, where the x1 of *[rinka](/glossary/#rinka)* is always an event. [Example 11.70](/chapter11/#example-1170 "Example 11.70.") and [Example 11.71](/chapter11/#example-1171 "Example 11.71.") look equally convenient (or inconvenient), but in making descriptions, [Example 11.71](/chapter11/#example-1171 "Example 11.71.") can be altered to:
+In English, the subject of “cause” can either be the actual cause (an event), or else the agent of the cause (a person, typically); not so in Lojban, where the x1 of *[rinka](/glossary/?mode=exact&word=rinka)* is always an event. [Example 11.70](/chapter11/#example-1170 "Example 11.70.") and [Example 11.71](/chapter11/#example-1171 "Example 11.71.") look equally convenient (or inconvenient), but in making descriptions, [Example 11.71](/chapter11/#example-1171 "Example 11.71.") can be altered to:
 
 ##### Example 11.72.
 
@@ -1212,9 +1212,9 @@ In English, the subject of “cause” can either be the actual cause (an event)
 
 the one who caused your death
 
-because *[jai](/glossary/#jai)* modifies the selbri and can be incorporated into the description – not so for *[tu'a](/glossary/#tua)*.
+because *[jai](/glossary/?mode=exact&word=jai)* modifies the selbri and can be incorporated into the description – not so for *[tu'a](/glossary/?mode=exact&word=tu%27a)*.
 
-The weakness of *[jai](/glossary/#jai)* used in descriptions in this way is that it does not specify which argument of the implicit abstraction is being raised into the x1 place of the description selbri. One can be more specific by using the modal form of *[jai](/glossary/#jai)* explained in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI"):
+The weakness of *[jai](/glossary/?mode=exact&word=jai)* used in descriptions in this way is that it does not specify which argument of the implicit abstraction is being raised into the x1 place of the description selbri. One can be more specific by using the modal form of *[jai](/glossary/?mode=exact&word=jai)* explained in [Section 9.12](/chapter09/#912-modal-conversion-jai "9.12. Modal conversion: JAI"):
 
 ##### Example 11.73.
 
@@ -1233,21 +1233,21 @@ This section is a logical continuation of [Section 11.3](/chapter11/#113-types-o
 
 There exists a relationship between the four types of events explained in [Section 11.3](/chapter11/#113-types-of-event-abstractions "11.3. Types of event abstractions") and the event contour tense cmavo of selma'o ZAhO. The specific cmavo of NU and of ZAhO are mutually interdefining; the ZAhO contours were chosen to fit the needs of the NU event types and vice versa. Event contours are explained in full in [Section 10.10](/chapter10/#1010-event-contours-zaho-and-reu "10.10. Event contours: ZAhO and re'u"), and only summarized here.
 
-The purpose of ZAhO cmavo is to represent the natural portions of an event, such as the beginning, the middle, and the end. They fall into several groups:* The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/glossary/#bao)* represent spans of time: before an event begins, while it is going on, and after it is over, respectively.
+The purpose of ZAhO cmavo is to represent the natural portions of an event, such as the beginning, the middle, and the end. They fall into several groups:* The cmavo *[pu'o](/glossary/?mode=exact&word=pu%27o)*, *[ca'o](/glossary/?mode=exact&word=ca%27o)*, and *[ba'o](/glossary/?mode=exact&word=ba%27o)* represent spans of time: before an event begins, while it is going on, and after it is over, respectively.
 
-- The cmavo *[co'a](/glossary/#coa)*, *[de'a](/glossary/#dea)*, *[di'a](/glossary/#dia)*, and *[co'u](/glossary/#cou)* represent points of time: the start of an event, the temporary stopping of an event, the resumption of an event after a stop, and the end of an event, respectively. Not all events can have breaks in them, in which case *[de'a](/glossary/#dea)* and *[di'a](/glossary/#dia)* do not apply.
+- The cmavo *[co'a](/glossary/?mode=exact&word=co%27a)*, *[de'a](/glossary/?mode=exact&word=de%27a)*, *[di'a](/glossary/?mode=exact&word=di%27a)*, and *[co'u](/glossary/?mode=exact&word=co%27u)* represent points of time: the start of an event, the temporary stopping of an event, the resumption of an event after a stop, and the end of an event, respectively. Not all events can have breaks in them, in which case *[de'a](/glossary/?mode=exact&word=de%27a)* and *[di'a](/glossary/?mode=exact&word=di%27a)* do not apply.
 
-- The cmavo *[mo'u](/glossary/#mou)* and *[za'o](/glossary/#zao)* correspond to *[co'u](/glossary/#cou)* and *[ba'o](/glossary/#bao)* respectively, in the case of those events which have a natural ending point that may not be the same as the actual ending point: *[mo'u](/glossary/#mou)* refers to the natural ending point, and *[za'o](/glossary/#zao)* to the time between the natural ending point and the actual ending point (the “excessive” or “superfective” part of the event).
+- The cmavo *[mo'u](/glossary/?mode=exact&word=mo%27u)* and *[za'o](/glossary/?mode=exact&word=za%27o)* correspond to *[co'u](/glossary/?mode=exact&word=co%27u)* and *[ba'o](/glossary/?mode=exact&word=ba%27o)* respectively, in the case of those events which have a natural ending point that may not be the same as the actual ending point: *[mo'u](/glossary/?mode=exact&word=mo%27u)* refers to the natural ending point, and *[za'o](/glossary/?mode=exact&word=za%27o)* to the time between the natural ending point and the actual ending point (the “excessive” or “superfective” part of the event).
 
-- The cmavo *[co'i](/glossary/#coi)* represents an entire event considered as a point-event or achievement.
+- The cmavo *[co'i](/glossary/?mode=exact&word=co%27i)* represents an entire event considered as a point-event or achievement.
 
-All these cmavo are applicable to events seen as processes and abstracted with *[pu'u](/glossary/#puu)*. Only processes have enough internal structure to make all these points and spans of time meaningful.
+All these cmavo are applicable to events seen as processes and abstracted with *[pu'u](/glossary/?mode=exact&word=pu%27u)*. Only processes have enough internal structure to make all these points and spans of time meaningful.
 
-For events seen as states and abstracted with *[za'i](/glossary/#zai)*, the meaningful event contours are the spans *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/glossary/#bao)*; the starting and ending points *[co'a](/glossary/#coa)* and *[co'u](/glossary/#cou)*, and the achievement contour *[co'i](/glossary/#coi)*. States do not have natural endings distinct from their actual endings. (It is an open question whether states can be stopped and resumed.)For events seen as activities and abstracted with *[zu'o](/glossary/#zuo)*, the meaningful event contours are the spans *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/glossary/#bao)*, and the achievement contour *[co'i](/glossary/#coi)*. Because activities are inherently cyclic and repetitive, the beginning and ending points are not well-defined: you do not know whether an activity has truly begun until it begins to repeat.
+For events seen as states and abstracted with *[za'i](/glossary/?mode=exact&word=za%27i)*, the meaningful event contours are the spans *[pu'o](/glossary/?mode=exact&word=pu%27o)*, *[ca'o](/glossary/?mode=exact&word=ca%27o)*, and *[ba'o](/glossary/?mode=exact&word=ba%27o)*; the starting and ending points *[co'a](/glossary/?mode=exact&word=co%27a)* and *[co'u](/glossary/?mode=exact&word=co%27u)*, and the achievement contour *[co'i](/glossary/?mode=exact&word=co%27i)*. States do not have natural endings distinct from their actual endings. (It is an open question whether states can be stopped and resumed.)For events seen as activities and abstracted with *[zu'o](/glossary/?mode=exact&word=zu%27o)*, the meaningful event contours are the spans *[pu'o](/glossary/?mode=exact&word=pu%27o)*, *[ca'o](/glossary/?mode=exact&word=ca%27o)*, and *[ba'o](/glossary/?mode=exact&word=ba%27o)*, and the achievement contour *[co'i](/glossary/?mode=exact&word=co%27i)*. Because activities are inherently cyclic and repetitive, the beginning and ending points are not well-defined: you do not know whether an activity has truly begun until it begins to repeat.
 
-For events seen as point-events and abstracted with *[mu'e](/glossary/#mue)*, the meaningful event contours are the spans *[pu'o](/glossary/#puo)* and *[ba'o](/glossary/#bao)* but not *[ca'o](/glossary/#cao)* (a point-event has no duration), and the achievement contour *[co'i](/glossary/#coi)*.
+For events seen as point-events and abstracted with *[mu'e](/glossary/?mode=exact&word=mu%27e)*, the meaningful event contours are the spans *[pu'o](/glossary/?mode=exact&word=pu%27o)* and *[ba'o](/glossary/?mode=exact&word=ba%27o)* but not *[ca'o](/glossary/?mode=exact&word=ca%27o)* (a point-event has no duration), and the achievement contour *[co'i](/glossary/?mode=exact&word=co%27i)*.
 
-Note that the parts of events are themselves events, and may be treated as such. The points in time may be seen as *[mu'e](/glossary/#mue)* point-events; the spans of time may constitute processes or activities. Therefore, Lojban allows us to refer to processes within processes, activities within states, and many other complicated abstract things.
+Note that the parts of events are themselves events, and may be treated as such. The points in time may be seen as *[mu'e](/glossary/?mode=exact&word=mu%27e)* point-events; the spans of time may constitute processes or activities. Therefore, Lojban allows us to refer to processes within processes, activities within states, and many other complicated abstract things.
 
 ## 11.10. Abstractor connection
 

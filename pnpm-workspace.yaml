@@ -2,6 +2,7 @@ minimumReleaseAge: 2880
 
 onlyBuiltDependencies:
   - '@tailwindcss/oxide'
+  - '@tktb-tess/my-zod-schema'
   - esbuild
   - sharp
 

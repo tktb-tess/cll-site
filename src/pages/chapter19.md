@@ -17,7 +17,7 @@ The following cmavo is discussed in this section:
 | --- | --- | ------------------ |
 | .i  | I   | sentence separator |
 
-Since Lojban is audio-visually isomorphic, there needs to be a spoken and written way of signaling the end of a sentence and the start of the following one. In written English, a period serves this purpose; in spoken English, a tone contour (rising or falling) usually does the job, or sometimes a long pause. Lojban uses a single separator: the cmavo *[i](/glossary/#i)* (of selma'o I):
+Since Lojban is audio-visually isomorphic, there needs to be a spoken and written way of signaling the end of a sentence and the start of the following one. In written English, a period serves this purpose; in spoken English, a tone contour (rising or falling) usually does the job, or sometimes a long pause. Lojban uses a single separator: the cmavo *[i](/glossary/?mode=exact&word=i)* (of selma'o I):
 
 ##### Example 19.1.
 
@@ -30,17 +30,17 @@ Since Lojban is audio-visually isomorphic, there needs to be a spoken and writte
 
 :::
 
-The word “separator” should be noted. *[i](/glossary/#i)* is not normally used after the last sentence nor before the first one, although both positions are technically grammatical. *[i](/glossary/#i)* signals a new sentence on the same topic, not necessarily by the same speaker. The relationship between the sentences is left vague, except in stories, where the relationship usually is temporal, and the following sentence states something that happened after the previous sentence.
+The word “separator” should be noted. *[i](/glossary/?mode=exact&word=i)* is not normally used after the last sentence nor before the first one, although both positions are technically grammatical. *[i](/glossary/?mode=exact&word=i)* signals a new sentence on the same topic, not necessarily by the same speaker. The relationship between the sentences is left vague, except in stories, where the relationship usually is temporal, and the following sentence states something that happened after the previous sentence.
 
-Note that although the first letter of an English sentence is capitalized, the cmavo *[i](/glossary/#i)* is never capitalized. In writing, it is appropriate to place extra space before *[i](/glossary/#i)* to make it stand out better for the reader. In some styles of Lojban writing, every *[i](/glossary/#i)* is placed at the beginning of a line, possibly leaving space at the end of the previous line.
+Note that although the first letter of an English sentence is capitalized, the cmavo *[i](/glossary/?mode=exact&word=i)* is never capitalized. In writing, it is appropriate to place extra space before *[i](/glossary/?mode=exact&word=i)* to make it stand out better for the reader. In some styles of Lojban writing, every *[i](/glossary/?mode=exact&word=i)* is placed at the beginning of a line, possibly leaving space at the end of the previous line.
 
-An *[i](/glossary/#i)* cmavo may or may not be used when the speaker of the following sentence is different from the speaker of the preceding sentence, depending on whether the sentences are felt to be connected or not.
+An *[i](/glossary/?mode=exact&word=i)* cmavo may or may not be used when the speaker of the following sentence is different from the speaker of the preceding sentence, depending on whether the sentences are felt to be connected or not.
 
-An *[i](/glossary/#i)* cmavo can be compounded with a logical or non-logical connective (a jek or joik), a modal or tense connective, or both: these constructs are explained in [Section 9.8](/chapter09/#98-other-modal-connections "9.8. Other modal connections"), [Section 10.16](/chapter10/#1016-tense-relations-between-sentences "10.16. Tense relations between sentences"), and [Section 14.4](/chapter14/#144-logical-connection-of-bridi "14.4. Logical connection of bridi"). In all cases, the *[i](/glossary/#i)* comes first in the compound. Attitudinals can also be attached to an *[i](/glossary/#i)* if they are meant to apply to the whole sentence: see [Section 13.9](/chapter13/#139-the-uses-of-indicators "13.9. The uses of indicators").
+An *[i](/glossary/?mode=exact&word=i)* cmavo can be compounded with a logical or non-logical connective (a jek or joik), a modal or tense connective, or both: these constructs are explained in [Section 9.8](/chapter09/#98-other-modal-connections "9.8. Other modal connections"), [Section 10.16](/chapter10/#1016-tense-relations-between-sentences "10.16. Tense relations between sentences"), and [Section 14.4](/chapter14/#144-logical-connection-of-bridi "14.4. Logical connection of bridi"). In all cases, the *[i](/glossary/?mode=exact&word=i)* comes first in the compound. Attitudinals can also be attached to an *[i](/glossary/?mode=exact&word=i)* if they are meant to apply to the whole sentence: see [Section 13.9](/chapter13/#139-the-uses-of-indicators "13.9. The uses of indicators").
 
-There exist a pair of mechanisms for binding a sequence of sentences closely together. If the *[i](/glossary/#i)* (with or without connectives) is followed by *[bo](/glossary/#bo)* (of selma'o BO), then the two sentences being separated are understood to be more closely grouped than sentences connected by *[i](/glossary/#i)* alone.
+There exist a pair of mechanisms for binding a sequence of sentences closely together. If the *[i](/glossary/?mode=exact&word=i)* (with or without connectives) is followed by *[bo](/glossary/?mode=exact&word=bo)* (of selma'o BO), then the two sentences being separated are understood to be more closely grouped than sentences connected by *[i](/glossary/?mode=exact&word=i)* alone.
 
-Similarly, a group of sentences can be preceded by *[tu'e](/glossary/#tue)* (of selma'o TUhE) and followed by *[tu'u](/glossary/#tuu)* (of selma'o TUhU) to fuse them into a single unit. A common use of *[tu'u](/glossary/#tuu)* is to group the sentences which compose a poem: the title sentence would precede the group, separated from it by *[i](/glossary/#i)*. Another use might be a set of directions, where each numbered direction might be surrounded by *[tu'u](/glossary/#tuu)* and contain one or more sentences separated by *[i](/glossary/#i)*. Grouping with *[tu'e](/glossary/#tue)* and *[tu'u](/glossary/#tuu)* is analogous to grouping with *[ke](/glossary/#ke)* and *[ke'e](/glossary/#kee)* to establish the scope of logical or non-logical connectives (see [Section 14.8](/chapter14/#148-grouping-of-afterthought-connectives "14.8. Grouping of afterthought connectives")).
+Similarly, a group of sentences can be preceded by *[tu'e](/glossary/?mode=exact&word=tu%27e)* (of selma'o TUhE) and followed by *[tu'u](/glossary/?mode=exact&word=tu%27u)* (of selma'o TUhU) to fuse them into a single unit. A common use of *[tu'u](/glossary/?mode=exact&word=tu%27u)* is to group the sentences which compose a poem: the title sentence would precede the group, separated from it by *[i](/glossary/?mode=exact&word=i)*. Another use might be a set of directions, where each numbered direction might be surrounded by *[tu'u](/glossary/?mode=exact&word=tu%27u)* and contain one or more sentences separated by *[i](/glossary/?mode=exact&word=i)*. Grouping with *[tu'e](/glossary/?mode=exact&word=tu%27e)* and *[tu'u](/glossary/?mode=exact&word=tu%27u)* is analogous to grouping with *[ke](/glossary/?mode=exact&word=ke)* and *[ke'e](/glossary/?mode=exact&word=ke%27e)* to establish the scope of logical or non-logical connectives (see [Section 14.8](/chapter14/#148-grouping-of-afterthought-connectives "14.8. Grouping of afterthought connectives")).
 
 ## 19.3. Paragraphs: NIhO
 
@@ -52,17 +52,17 @@ The following cmavo are discussed in this section:
 | no'i | NIhO | old topic                |
 | da'o | DAhO | cancel cmavo assignments |
 
-The paragraph is a concept used in writing systems for two purposes: to indicate changes of topic, and to break up the hard-to-read appearance of large blocks of text on the page. The former function is represented in both spoken and written Lojban by the cmavo *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)*, both of selma'o NIhO. Of these two, *[ni'o](/glossary/#nio)* is the more common. By convention, written Lojban is broken into paragraphs just before any *[ni'o](/glossary/#nio)* or *[no'i](/glossary/#noi)*, but a very long passage on a single topic might be paragraphed before an *[i](/glossary/#i)*. On the other hand, it is conventional in English to start a new paragraph in dialogue when a new speaker starts, but this convention is not commonly observed in Lojban dialogues. Of course, none of these conventions affect meaning in any way.
+The paragraph is a concept used in writing systems for two purposes: to indicate changes of topic, and to break up the hard-to-read appearance of large blocks of text on the page. The former function is represented in both spoken and written Lojban by the cmavo *[ni'o](/glossary/?mode=exact&word=ni%27o)* and *[no'i](/glossary/?mode=exact&word=no%27i)*, both of selma'o NIhO. Of these two, *[ni'o](/glossary/?mode=exact&word=ni%27o)* is the more common. By convention, written Lojban is broken into paragraphs just before any *[ni'o](/glossary/?mode=exact&word=ni%27o)* or *[no'i](/glossary/?mode=exact&word=no%27i)*, but a very long passage on a single topic might be paragraphed before an *[i](/glossary/?mode=exact&word=i)*. On the other hand, it is conventional in English to start a new paragraph in dialogue when a new speaker starts, but this convention is not commonly observed in Lojban dialogues. Of course, none of these conventions affect meaning in any way.
 
-A *[ni'o](/glossary/#nio)* can take the place of an *[i](/glossary/#i)* as a sentence separator, and in addition signals a new topic or paragraph. Grammatically, any number of *[ni'o](/glossary/#nio)* cmavo can appear consecutively and are equivalent to a single one; semantically, a greater number of *[ni'o](/glossary/#nio)* cmavo indicates a larger-scale change of topic. This feature allows complexly structured text, with topics, subtopics, and sub-subtopics, to be represented clearly and unambiguously in both spoken and written Lojban. However, some conventional differences do exist between *[ni'o](/glossary/#nio)* in writing and in conversation.
+A *[ni'o](/glossary/?mode=exact&word=ni%27o)* can take the place of an *[i](/glossary/?mode=exact&word=i)* as a sentence separator, and in addition signals a new topic or paragraph. Grammatically, any number of *[ni'o](/glossary/?mode=exact&word=ni%27o)* cmavo can appear consecutively and are equivalent to a single one; semantically, a greater number of *[ni'o](/glossary/?mode=exact&word=ni%27o)* cmavo indicates a larger-scale change of topic. This feature allows complexly structured text, with topics, subtopics, and sub-subtopics, to be represented clearly and unambiguously in both spoken and written Lojban. However, some conventional differences do exist between *[ni'o](/glossary/?mode=exact&word=ni%27o)* in writing and in conversation.
 
-In written text, a single *[ni'o](/glossary/#nio)* is a mere discursive indicator of a new subject, whereas *ni'oni'o* marks a change in the context. In this situation, *ni'oni'o* implicitly cancels the definitions of all pro-sumti of selma'o KOhA as well as pro-bridi of selma'o GOhA. (Explicit cancelling is expressed by the cmavo *[da'o](/glossary/#dao)* of selma'o DAhO, which has the free grammar of an indicator – it can appear almost anywhere.) The use of *ni'oni'o* does not affect indicators (of selma'o UI) or tense references, but *ni'oni'oni'o*, indicating a drastic change of topic, would serve to reset both indicators and tenses. (See [Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO") for a discussion of indicator scope.)
+In written text, a single *[ni'o](/glossary/?mode=exact&word=ni%27o)* is a mere discursive indicator of a new subject, whereas *ni'oni'o* marks a change in the context. In this situation, *ni'oni'o* implicitly cancels the definitions of all pro-sumti of selma'o KOhA as well as pro-bridi of selma'o GOhA. (Explicit cancelling is expressed by the cmavo *[da'o](/glossary/?mode=exact&word=da%27o)* of selma'o DAhO, which has the free grammar of an indicator – it can appear almost anywhere.) The use of *ni'oni'o* does not affect indicators (of selma'o UI) or tense references, but *ni'oni'oni'o*, indicating a drastic change of topic, would serve to reset both indicators and tenses. (See [Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO") for a discussion of indicator scope.)
 
-In spoken text, which is inherently less structured, these levels are reduced by one, with *[ni'o](/glossary/#nio)* indicating a change in context sufficient to cancel pro-sumti and pro-bridi assignment. On the other hand, in a book, or in stories within stories such as “The Arabian Nights”, further levels may be expressed by extending the *[ni'o](/glossary/#nio)* string as needed. Normally, a written text will begin with the number of *[ni'o](/glossary/#nio)* cmavo needed to signal the largest scale division which the text contains. *[ni'o](/glossary/#nio)* strings may be subscripted to label each context of discourse: see [Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI").
+In spoken text, which is inherently less structured, these levels are reduced by one, with *[ni'o](/glossary/?mode=exact&word=ni%27o)* indicating a change in context sufficient to cancel pro-sumti and pro-bridi assignment. On the other hand, in a book, or in stories within stories such as “The Arabian Nights”, further levels may be expressed by extending the *[ni'o](/glossary/?mode=exact&word=ni%27o)* string as needed. Normally, a written text will begin with the number of *[ni'o](/glossary/?mode=exact&word=ni%27o)* cmavo needed to signal the largest scale division which the text contains. *[ni'o](/glossary/?mode=exact&word=ni%27o)* strings may be subscripted to label each context of discourse: see [Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI").
 
-[*no'i*](/glossary/#noi) is similar in effect to *[ni'o](/glossary/#nio)*, but indicates the resumption of a previous topic. In speech, it is analogous to (but much shorter than) such English discursive phrases as “But getting back to the point ...”. By default, the topic resumed is that in effect before the last *[ni'o](/glossary/#nio)*. When subtopics are nested within topics, then *[no'i](/glossary/#noi)* would resume the previous subtopic and *no'ino'i* the previous topic. Note that *[no'i](/glossary/#noi)* also resumes tense and pro-sumti assignments dropped at the previous *[ni'o](/glossary/#nio)*.
+[*no'i*](/glossary/?mode=exact&word=%2Ano%27i%2A) is similar in effect to *[ni'o](/glossary/?mode=exact&word=ni%27o)*, but indicates the resumption of a previous topic. In speech, it is analogous to (but much shorter than) such English discursive phrases as “But getting back to the point ...”. By default, the topic resumed is that in effect before the last *[ni'o](/glossary/?mode=exact&word=ni%27o)*. When subtopics are nested within topics, then *[no'i](/glossary/?mode=exact&word=no%27i)* would resume the previous subtopic and *no'ino'i* the previous topic. Note that *[no'i](/glossary/?mode=exact&word=no%27i)* also resumes tense and pro-sumti assignments dropped at the previous *[ni'o](/glossary/?mode=exact&word=ni%27o)*.
 
-If a *[ni'o](/glossary/#nio)* is subscripted, then a *[no'i](/glossary/#noi)* with the same subscript is assumed to be a continuation of it. A *[no'i](/glossary/#noi)* may also have a negative subscript, which would specify counting backwards a number of paragraphs and resuming the topic found thereby.
+If a *[ni'o](/glossary/?mode=exact&word=ni%27o)* is subscripted, then a *[no'i](/glossary/?mode=exact&word=no%27i)* with the same subscript is assumed to be a continuation of it. A *[no'i](/glossary/?mode=exact&word=no%27i)* may also have a negative subscript, which would specify counting backwards a number of paragraphs and resuming the topic found thereby.
 
 ## 19.4. Topic-comment sentences: ZOhU
 
@@ -100,7 +100,7 @@ In Chinese, the normal sentence form is different: a topic is stated, and a comm
 
 The colon in the first two versions of [Example 19.3](/chapter19/#example-193 "Example 19.3.") separate the topic (“this news”) from the comment (“I know already”).
 
-Lojban uses the cmavo *[zo'u](/glossary/#zou)* (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):
+Lojban uses the cmavo *[zo'u](/glossary/?mode=exact&word=zo%27u)* (of selma'o ZOhU) to separate topic (a sumti) from comment (a bridi):
 
 ##### Example 19.4.
 
@@ -149,7 +149,7 @@ Is the fish eating or being eaten? The sentence doesn't say. The Chinese equival
 
 which is vague in exactly the same way.
 
-Grammatically, it is possible to have more than one sumti before *[zo'u](/glossary/#zou)*. This is not normally useful in topic-comment sentences, but is necessary in the other use of *[zo'u](/glossary/#zou)*: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Lojban (see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")), but an example would be:
+Grammatically, it is possible to have more than one sumti before *[zo'u](/glossary/?mode=exact&word=zo%27u)*. This is not normally useful in topic-comment sentences, but is necessary in the other use of *[zo'u](/glossary/?mode=exact&word=zo%27u)*: to separate a quantifying section from a bridi containing quantified variables. This usage belongs to a discussion of quantifier logic in Lojban (see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")), but an example would be:
 
 ##### Example 19.8.
 
@@ -169,7 +169,7 @@ Grammatically, it is possible to have more than one sumti before *[zo'u](/glossa
 
 Every person has a father.
 
-The string of sumti before *[zo'u](/glossary/#zou)* (called the “prenex”: see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")) may contain both a topic and bound variables:
+The string of sumti before *[zo'u](/glossary/?mode=exact&word=zo%27u)* (called the “prenex”: see [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables")) may contain both a topic and bound variables:
 
 ##### Example 19.9.
 
@@ -189,7 +189,7 @@ The string of sumti before *[zo'u](/glossary/#zou)* (called the “prenex”: se
 
 As for fathers, every person has one.
 
-To specify a topic which affects more than one sentence, wrap the sentences in *[tu'u](/glossary/#tuu)* brackets and place the topic and the *[zo'u](/glossary/#zou)* directly in front. This is the exception to the rule that a topic attaches directly to a sentence:
+To specify a topic which affects more than one sentence, wrap the sentences in *[tu'u](/glossary/?mode=exact&word=tu%27u)* brackets and place the topic and the *[zo'u](/glossary/?mode=exact&word=zo%27u)* directly in front. This is the exception to the rule that a topic attaches directly to a sentence:
 
 ##### Example 19.10.
 
@@ -204,7 +204,7 @@ To specify a topic which affects more than one sentence, wrap the sentences in *
 
 Money: if you have it, you want it.
 
-Note: In Lojban, you do not “want money”; you “want to have money” or something of the sort, as the x2 place of *[djica](/glossary/#djica)* demands an event. As a result, the straightforward rendering of [Example 19.9](/chapter19/#example-199 "Example 19.9.") without a topic is not:
+Note: In Lojban, you do not “want money”; you “want to have money” or something of the sort, as the x2 place of *[djica](/glossary/?mode=exact&word=djica)* demands an event. As a result, the straightforward rendering of [Example 19.9](/chapter19/#example-199 "Example 19.9.") without a topic is not:
 
 ##### Example 19.11.
 
@@ -217,7 +217,7 @@ Note: In Lojban, you do not “want money”; you “want to have money” or so
 
 :::
 
-where *[ri](/glossary/#ri)* means *loi jdini* and is interpreted as “the mere existence of money”, but rather:
+where *[ri](/glossary/?mode=exact&word=ri)* means *loi jdini* and is interpreted as “the mere existence of money”, but rather:
 
 ##### Example 19.12.
 
@@ -230,7 +230,7 @@ where *[ri](/glossary/#ri)* means *loi jdini* and is interpreted as “the mere 
 
 :::
 
-namely, the possession of money. But topic-comment sentences like [Example 19.10](/chapter19/#example-1910 "Example 19.10.") are inherently vague, and this difference between *[ponse](/glossary/#ponse)* (which expects a physical object in x2) and *[djica](/glossary/#djica)* is ignored. See [Example 19.45](/chapter19/#example-1945 "Example 19.45.") for another topic/comment sentence.
+namely, the possession of money. But topic-comment sentences like [Example 19.10](/chapter19/#example-1910 "Example 19.10.") are inherently vague, and this difference between *[ponse](/glossary/?mode=exact&word=ponse)* (which expects a physical object in x2) and *[djica](/glossary/?mode=exact&word=djica)* is ignored. See [Example 19.45](/chapter19/#example-1945 "Example 19.45.") for another topic/comment sentence.
 
 The subject of an English sentence is often the topic as well, but in Lojban the sumti in the x1 place is not necessarily the topic, especially if it is the normal (unconverted) x1 for the selbri. Thus Lojban sentences don't necessarily have a “subject” in the English sense.
 
@@ -254,7 +254,7 @@ The following cmavo are discussed in this section:
 | cu'e | CUhE | tense/modal question                  |
 | pau  | UI   | question premarker                    |
 
-Lojban questions are not at all like English questions. There are two basic types: truth questions, of the form “Is it true that ...”, and fill-in-the-blank questions. Truth questions are marked by preceding the bridi, or following any part of it specifically questioned, with the cmavo *[xu](/glossary/#xu)* (of selma'o UI):
+Lojban questions are not at all like English questions. There are two basic types: truth questions, of the form “Is it true that ...”, and fill-in-the-blank questions. Truth questions are marked by preceding the bridi, or following any part of it specifically questioned, with the cmavo *[xu](/glossary/?mode=exact&word=xu)* (of selma'o UI):
 
 ##### Example 19.13.
 
@@ -273,7 +273,7 @@ Are you going to the store/Did you go to the store?
 
 Fill-in-the-blank questions have a cmavo representing some Lojban word or phrase which is not known to the questioner, and which the answerer is to supply. There are a variety of cmavo belonging to different selma'o which provide different kinds of blanks.
 
-Where a sumti is not known, a question may be formed with *[ma](/glossary/#ma)* (of selma'o KOhA), which is a kind of pro-sumti:
+Where a sumti is not known, a question may be formed with *[ma](/glossary/?mode=exact&word=ma)* (of selma'o KOhA), which is a kind of pro-sumti:
 
 ##### Example 19.14.
 
@@ -288,7 +288,7 @@ Where a sumti is not known, a question may be formed with *[ma](/glossary/#ma)* 
 
 Who is going to the store?
 
-Of course, the *[ma](/glossary/#ma)* need not be in the x1 place:
+Of course, the *[ma](/glossary/?mode=exact&word=ma)* need not be in the x1 place:
 
 ##### Example 19.15.
 
@@ -313,7 +313,7 @@ The store.
 
 A sumti, then, is a legal utterance, although it does not by itself constitute a bridi – it does not claim anything, but merely completes the open-ended claim of the previous bridi.
 
-There can be two *[ma](/glossary/#ma)* cmavo in a single question:
+There can be two *[ma](/glossary/?mode=exact&word=ma)* cmavo in a single question:
 
 ##### Example 19.17.
 
@@ -321,7 +321,7 @@ ma klama ma
 
 Who goes where?
 
-and the answer would be two sumti, which are meant to fill in the two *[ma](/glossary/#ma)* cmavo in order:
+and the answer would be two sumti, which are meant to fill in the two *[ma](/glossary/?mode=exact&word=ma)* cmavo in order:
 
 ##### Example 19.18.
 
@@ -334,7 +334,7 @@ and the answer would be two sumti, which are meant to fill in the two *[ma](/glo
 
 :::
 
-An even more complex example, depending on the non-logical connective *[fa'u](/glossary/#fau)* (of selma'o JOI), which is like the English “and ... respectively”:
+An even more complex example, depending on the non-logical connective *[fa'u](/glossary/?mode=exact&word=fa%27u)* (of selma'o JOI), which is like the English “and ... respectively”:
 
 ##### Example 19.19.
 
@@ -363,9 +363,9 @@ An answer might be
 
 John and Marsha go to the store and the office, respectively.
 
-(Note: A mechanical substitution of [Example 19.20](/chapter19/#example-1920 "Example 19.20.") into [Example 19.19](/chapter19/#example-1919 "Example 19.19.") produces an ungrammatical result, because *\* ... le zarci fa'u le briju* is ungrammatical Lojban: the first *le zarci* has to be closed with its proper terminator *[ku](/glossary/#ku)*, for reasons explained in [Section 14.14](/chapter14/#1414-non-logical-connectives "14.14. Non-logical connectives"). This effect is not important: Lojban behaves as if all elided terminators have been supplied in both question and answer before inserting the latter into the former. The exchange is grammatical if question and answer are each separately grammatical.)
+(Note: A mechanical substitution of [Example 19.20](/chapter19/#example-1920 "Example 19.20.") into [Example 19.19](/chapter19/#example-1919 "Example 19.19.") produces an ungrammatical result, because *\* ... le zarci fa'u le briju* is ungrammatical Lojban: the first *le zarci* has to be closed with its proper terminator *[ku](/glossary/?mode=exact&word=ku)*, for reasons explained in [Section 14.14](/chapter14/#1414-non-logical-connectives "14.14. Non-logical connectives"). This effect is not important: Lojban behaves as if all elided terminators have been supplied in both question and answer before inserting the latter into the former. The exchange is grammatical if question and answer are each separately grammatical.)
 
-Questions to be answered with a selbri are expressed with *[mo](/glossary/#mo)* of selma'o GOhA, which is a kind of pro-bridi:
+Questions to be answered with a selbri are expressed with *[mo](/glossary/?mode=exact&word=mo)* of selma'o GOhA, which is a kind of pro-bridi:
 
 ##### Example 19.21.
 
@@ -380,9 +380,9 @@ Questions to be answered with a selbri are expressed with *[mo](/glossary/#mo)* 
 
 What is Lojban?
 
-Here the answerer is to supply some predicate which is true of Lojban. Such questions are extremely open-ended, due to the enormous range of possible predicate answers. The answer might be just a selbri, or might be a full bridi, in which case the sumti in the answer override those provided by the questioner. To limit the range of a *[mo](/glossary/#mo)* question, make it part of a tanru.
+Here the answerer is to supply some predicate which is true of Lojban. Such questions are extremely open-ended, due to the enormous range of possible predicate answers. The answer might be just a selbri, or might be a full bridi, in which case the sumti in the answer override those provided by the questioner. To limit the range of a *[mo](/glossary/?mode=exact&word=mo)* question, make it part of a tanru.
 
-Questions about numbers are expressed with *[xo](/glossary/#xo)* of selma'o PA:
+Questions about numbers are expressed with *[xo](/glossary/?mode=exact&word=xo)* of selma'o PA:
 
 ##### Example 19.22.
 
@@ -404,33 +404,33 @@ The answer would be a simple number, another kind of non-bridi utterance:
 vomu
 | Forty-five. |
 
-Fill-in-the-blank questions may also be asked about: logical connectives (using cmavo *[ji](/glossary/#ji)* of A, *[ge'i](/glossary/#gei)* of GA, *[gi'i](/glossary/#gii)* of GIhA, *[gu'i](/glossary/#gui)* of GUhA, or *[je'i](/glossary/#jei)* of JA, and receiving an ek, gihek, ijek, or ijoik as an answer) – see [Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"); attitudes (using *[pei](/glossary/#pei)* of UI, and receiving an attitudinal as an answer) – see [Section 13.10](/chapter13/#1310-attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"); place structures (using *[fi'a](/glossary/#fia)* of FA, and receiving a cmavo of FA as an answer) – see [Section 9.3](/chapter09/#93-tagging-places-fa "9.3. Tagging places: FA"); tenses and modals (using *[cu'e](/glossary/#cue)* of CUhE, and receiving any tense or BAI cmavo as an answer) – see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
+Fill-in-the-blank questions may also be asked about: logical connectives (using cmavo *[ji](/glossary/?mode=exact&word=ji)* of A, *[ge'i](/glossary/?mode=exact&word=ge%27i)* of GA, *[gi'i](/glossary/?mode=exact&word=gi%27i)* of GIhA, *[gu'i](/glossary/?mode=exact&word=gu%27i)* of GUhA, or *[je'i](/glossary/?mode=exact&word=je%27i)* of JA, and receiving an ek, gihek, ijek, or ijoik as an answer) – see [Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"); attitudes (using *[pei](/glossary/?mode=exact&word=pei)* of UI, and receiving an attitudinal as an answer) – see [Section 13.10](/chapter13/#1310-attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"); place structures (using *[fi'a](/glossary/?mode=exact&word=fi%27a)* of FA, and receiving a cmavo of FA as an answer) – see [Section 9.3](/chapter09/#93-tagging-places-fa "9.3. Tagging places: FA"); tenses and modals (using *[cu'e](/glossary/?mode=exact&word=cu%27e)* of CUhE, and receiving any tense or BAI cmavo as an answer) – see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
 
-Questions can be marked by placing *[pau](/glossary/#pau)* (of selma'o UI) before the question bridi. See [Section 13.13](/chapter13/#1313-miscellaneous-indicators "13.13. Miscellaneous indicators") for details.
+Questions can be marked by placing *[pau](/glossary/?mode=exact&word=pau)* (of selma'o UI) before the question bridi. See [Section 13.13](/chapter13/#1313-miscellaneous-indicators "13.13. Miscellaneous indicators") for details.
 
 The full list of non-bridi utterances suitable as answers to questions is:
 
-- any number of sumti (with elidable terminator *[vau](/glossary/#vau)*, see [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti"))
+- any number of sumti (with elidable terminator *[vau](/glossary/?mode=exact&word=vau)*, see [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti"))
 
 - an ek or gihek (logical connectives, see [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System"))
 
 - a number, or any mathematical expression placed in parentheses (see [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban"))
 
-- a bare *[na](/glossary/#na)* negator (to negate some previously expressed bridi), or corresponding *[ja'a](/glossary/#jaa)* affirmer (see [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"))
+- a bare *[na](/glossary/?mode=exact&word=na)* negator (to negate some previously expressed bridi), or corresponding *[ja'a](/glossary/?mode=exact&word=ja%27a)* affirmer (see [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"))
 
 - a relative clause (to modify some previously expressed sumti, see [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated"))
 
 - a prenex/topic (to modify some previously expressed bridi, see [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic"))
 
-- linked arguments (beginning with *[be](/glossary/#be)* or *[bei](/glossary/#bei)* and attached to some previously expressed selbri, often in a description, see [Section 5.7](/chapter05/#57-linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o"))
+- linked arguments (beginning with *[be](/glossary/?mode=exact&word=be)* or *[bei](/glossary/?mode=exact&word=bei)* and attached to some previously expressed selbri, often in a description, see [Section 5.7](/chapter05/#57-linked-sumti-be-bei-beo "5.7. Linked sumti: be-bei-be'o"))
 
 At the beginning of a text, the following non-bridi are also permitted:
 
-- one or more names (to indicate direct address without *[doi](/glossary/#doi)*, see [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti"))
+- one or more names (to indicate direct address without *[doi](/glossary/?mode=exact&word=doi)*, see [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti"))
 
 - indicators (to express a prevailing attitude, see [Chapter 13](/chapter13/ "Chapter 13. Oooh! Arrgh! Ugh! Yecch! Attitudinal and Emotional Indicators"))
 
-- *[nai](/glossary/#nai)* (to vaguely negate something or other, see [Section 15.7](/chapter15/#157-negation-of-minor-grammatical-constructs "15.7. Negation of minor grammatical constructs"))
+- *[nai](/glossary/?mode=exact&word=nai)* (to vaguely negate something or other, see [Section 15.7](/chapter15/#157-negation-of-minor-grammatical-constructs "15.7. Negation of minor grammatical constructs"))
 
 Where not needed for the expression of answers, most of these are made grammatical for pragmatic reasons: people will say them in conversation, and there is no reason to rule them out as ungrammatical merely because most of them are vague.
 
@@ -442,7 +442,7 @@ The following cmavo is discussed in this section:
 | --- | --- | --------- |
 | xi  | XI  | subscript |
 
-The cmavo *[xi](/glossary/#xi)* (of selma'o XI) indicates that a subscript (a number, a lerfu string, or a parenthesized mekso) follows. Subscripts can be attached to almost any construction and are placed following the construction (or its terminator word, which is generally required). They are useful either to extend the finite cmavo list to infinite length, or to make more refined distinctions than the standard cmavo list permits. The remainder of this section mentions some places where subscripts might naturally be used.
+The cmavo *[xi](/glossary/?mode=exact&word=xi)* (of selma'o XI) indicates that a subscript (a number, a lerfu string, or a parenthesized mekso) follows. Subscripts can be attached to almost any construction and are placed following the construction (or its terminator word, which is generally required). They are useful either to extend the finite cmavo list to infinite length, or to make more refined distinctions than the standard cmavo list permits. The remainder of this section mentions some places where subscripts might naturally be used.
 
 Lojban gismu have at most five places:
 
@@ -457,7 +457,7 @@ Lojban gismu have at most five places:
 
 :::
 
-Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of [Example 19.24](/chapter19/#example-1924 "Example 19.24."), using *[xe](/glossary/#xe)* to swap the x1 and x5 places, would produce:
+Consequently, selma'o SE (which operates on a selbri to change the order of its places) and selma'o FA (which provides place number tags for individual sumti) have only enough members to handle up to five places. Conversion of [Example 19.24](/chapter19/#example-1924 "Example 19.24."), using *[xe](/glossary/?mode=exact&word=xe)* to swap the x1 and x5 places, would produce:
 
 ##### Example 19.25.
 
@@ -493,7 +493,7 @@ And reordering of the place structures might produce:
 | fe  | le  | zarci   | fu    | le  | karce | cu  | klama |
 | to  | the | market, | using | the | car,  |     | go.   |
 
-[Example 19.24](/chapter19/#example-1924 "Example 19.24.") to [Example 19.26](/chapter19/#example-1926 "Example 19.26.") all mean the same thing. But consider the lujvo *[nunkla](/glossary/#nunkla)*, formed by applying the abstraction operator *[nu](/glossary/#nu)* to *[klama](/glossary/#klama)*:
+[Example 19.24](/chapter19/#example-1924 "Example 19.24.") to [Example 19.26](/chapter19/#example-1926 "Example 19.26.") all mean the same thing. But consider the lujvo *[nunkla](/glossary/?mode=exact&word=nunkla)*, formed by applying the abstraction operator *[nu](/glossary/?mode=exact&word=nu)* to *[klama](/glossary/?mode=exact&word=klama)*:
 
 ##### Example 19.27.
 
@@ -511,7 +511,7 @@ And reordering of the place structures might produce:
 |     | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
 | to  | the | market | from | the | house | via | the | road  | using | the | car.  |
 
-[Example 19.27](/chapter19/#example-1927 "Example 19.27.") shows that *[nunkla](/glossary/#nunkla)* has six places: the five places of *[klama](/glossary/#klama)* plus a new one (placed first) for the event itself. Performing transformations similar to that of [Example 19.25](/chapter19/#example-1925 "Example 19.25.") requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" ([Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI")):
+[Example 19.27](/chapter19/#example-1927 "Example 19.27.") shows that *[nunkla](/glossary/?mode=exact&word=nunkla)* has six places: the five places of *[klama](/glossary/?mode=exact&word=klama)* plus a new one (placed first) for the event itself. Performing transformations similar to that of [Example 19.25](/chapter19/#example-1925 "Example 19.25.") requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" ([Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI")):
 
 ##### Example 19.28.
 
@@ -559,7 +559,7 @@ Likewise, a sixth place tag can be created by using any cmavo of FA with a subsc
 
 [Example 19.27](/chapter19/#example-1927 "Example 19.27.") to [Example 19.29](/chapter19/#example-1929 "Example 19.29.") also all mean the same thing, and each is derived straightforwardly from any of the others, despite the tortured nature of the English glosses. In addition, any other member of SE or FA could be substituted into *sexixa* and *faxixa* without change of meaning: *vexixa* means the same thing as *sexixa*.
 
-Lojban provides two groups of pro-sumti, both belonging to selma'o KOhA. The ko'a-series cmavo are used to refer to explicitly specified sumti to which they have been bound using *[goi](/glossary/#goi)*. The da-series, on the other hand, are existentially or universally quantified variables. (These concepts are explained more fully in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic").) There are ten ko'a-series cmavo and 3 da-series cmavo available.
+Lojban provides two groups of pro-sumti, both belonging to selma'o KOhA. The ko'a-series cmavo are used to refer to explicitly specified sumti to which they have been bound using *[goi](/glossary/?mode=exact&word=goi)*. The da-series, on the other hand, are existentially or universally quantified variables. (These concepts are explained more fully in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic").) There are ten ko'a-series cmavo and 3 da-series cmavo available.
 
 If more are required, any cmavo of the ko'a-series or the da-series can be subscripted:
 
@@ -587,7 +587,7 @@ is the 4th bound variable of the 1st sequence of the da-series, and
 
 :::
 
-is the 18th free variable of the 3rd sequence of the ko'a-series. This convention allows 10 sequences of ko'a-type pro-sumti and 3 sequences of da-type pro-sumti, each with as many members as needed. Note that *daxivo* and *dexivo* are considered to be distinct pro-sumti, unlike the situation with *sexixa* and *vexixa* above. Exactly similar treatment can be given to the bu'a-series of selma'o GOhA and to the gismu pro-bridi *[broda](/glossary/#broda)*, *[brode](/glossary/#brode)*, *[brodi](/glossary/#brodi)*, *[brodo](/glossary/#brodo)*, and *[brodu](/glossary/#brodu)*.
+is the 18th free variable of the 3rd sequence of the ko'a-series. This convention allows 10 sequences of ko'a-type pro-sumti and 3 sequences of da-type pro-sumti, each with as many members as needed. Note that *daxivo* and *dexivo* are considered to be distinct pro-sumti, unlike the situation with *sexixa* and *vexixa* above. Exactly similar treatment can be given to the bu'a-series of selma'o GOhA and to the gismu pro-bridi *[broda](/glossary/?mode=exact&word=broda)*, *[brode](/glossary/?mode=exact&word=brode)*, *[brodi](/glossary/?mode=exact&word=brodi)*, *[brodo](/glossary/?mode=exact&word=brodo)*, and *[brodu](/glossary/?mode=exact&word=brodu)*.
 
 Subscripts on lerfu words are used in the standard mathematical way to extend the number of variables:
 
@@ -603,7 +603,7 @@ Subscripts on lerfu words are used in the standard mathematical way to extend th
 
 :::
 
-and can be used to extend the number of pro-sumti as well, since lerfu strings outside mathematical contexts are grammatically and semantically equivalent to pro-sumti of the ko'a-series. (In [Example 19.32](/chapter19/#example-1932 "Example 19.32."), note the required terminator *[boi](/glossary/#boi)* after each *[xy.](/glossary/#xy)* cmavo; this terminator allows the subscript to be attached without ambiguity.)
+and can be used to extend the number of pro-sumti as well, since lerfu strings outside mathematical contexts are grammatically and semantically equivalent to pro-sumti of the ko'a-series. (In [Example 19.32](/chapter19/#example-1932 "Example 19.32."), note the required terminator *[boi](/glossary/?mode=exact&word=boi)* after each *[xy.](/glossary/?mode=exact&word=xy)* cmavo; this terminator allows the subscript to be attached without ambiguity.)
 
 Names, which are similar to pro-sumti, can also be subscripted to distinguish two individuals with the same name:
 
@@ -620,7 +620,7 @@ Names, which are similar to pro-sumti, can also be subscripted to distinguish tw
 
 Subscripts on tenses allow talking about more than one time or place that is described by the same general cmavo. For example, *puxipa* could refer to one point in the past, and *puxire* a second point (earlier or later).
 
-You can place a subscript on the word *[ja'a](/glossary/#jaa)*, the bridi affirmative of selma'o NA, to express so-called fuzzy truths. The usual machinery for fuzzy logic (statements whose truth value is not merely “true” or “false”, but is expressed by a number in the range 0 to 1) in Lojban is the abstractor *[jei](/glossary/#jei)*:
+You can place a subscript on the word *[ja'a](/glossary/?mode=exact&word=ja%27a)*, the bridi affirmative of selma'o NA, to express so-called fuzzy truths. The usual machinery for fuzzy logic (statements whose truth value is not merely “true” or “false”, but is expressed by a number in the range 0 to 1) in Lojban is the abstractor *[jei](/glossary/?mode=exact&word=jei)*:
 
 ##### Example 19.34.
 
@@ -633,7 +633,7 @@ You can place a subscript on the word *[ja'a](/glossary/#jaa)*, the bridi affirm
 
 :::
 
-However, by convention we can attach a subscript to *[ja'a](/glossary/#jaa)* to indicate fuzzy truth (or to *[na](/glossary/#na)* if we change the amount):
+However, by convention we can attach a subscript to *[ja'a](/glossary/?mode=exact&word=ja%27a)* to indicate fuzzy truth (or to *[na](/glossary/?mode=exact&word=na)* if we change the amount):
 
 ##### Example 19.35.
 
@@ -646,7 +646,7 @@ However, by convention we can attach a subscript to *[ja'a](/glossary/#jaa)* to 
 
 :::
 
-Finally, as mentioned in [Section 19.2](/chapter19/#192-sentences-i "19.2. Sentences: I"), *[ni'o](/glossary/#nio)* and *[no'i](/glossary/#noi)* cmavo with matching subscripts mark the start and the continuation of a given topic respectively. Different topics can be assigned to different subscripts.
+Finally, as mentioned in [Section 19.2](/chapter19/#192-sentences-i "19.2. Sentences: I"), *[ni'o](/glossary/?mode=exact&word=ni%27o)* and *[no'i](/glossary/?mode=exact&word=no%27i)* cmavo with matching subscripts mark the start and the continuation of a given topic respectively. Different topics can be assigned to different subscripts.
 
 Other uses of subscripts will doubtless be devised in future.
 
@@ -659,7 +659,7 @@ The following cmavo are discussed in this section:
 | mai  | MAI | utterance ordinal, -thly       |
 | mo'o | MAI | higher order utterance ordinal |
 
-Numerical free modifiers, corresponding to English “firstly”, “secondly”, and so on, can be created by suffixing *[mai](/glossary/#mai)* or *[mo'o](/glossary/#moo)* of selma'o MAI to a number or a lerfu string. Here are some examples:
+Numerical free modifiers, corresponding to English “firstly”, “secondly”, and so on, can be created by suffixing *[mai](/glossary/?mode=exact&word=mai)* or *[mo'o](/glossary/?mode=exact&word=mo%27o)* of selma'o MAI to a number or a lerfu string. Here are some examples:
 
 ##### Example 19.36.
 
@@ -674,9 +674,9 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 
 This does not imply that I go to the store before I go to the house: that meaning requires a tense. The sumti are simply numbered for convenience of reference. Like other free modifiers, the utterance ordinals can be inserted almost anywhere in a sentence without affecting its grammar or its meaning.
 
-Any of the Lojban numbers can be used with MAI: *[romai](/glossary/#romai)*, for example, means “all-thly” or “lastly”. Likewise, if you are enumerating a long list and have forgotten which number is wanted next, you can say *ny.mai*, or “Nthly”.
+Any of the Lojban numbers can be used with MAI: *[romai](/glossary/?mode=exact&word=romai)*, for example, means “all-thly” or “lastly”. Likewise, if you are enumerating a long list and have forgotten which number is wanted next, you can say *ny.mai*, or “Nthly”.
 
-The difference between *[mai](/glossary/#mai)* and *[mo'o](/glossary/#moo)* is that *[mo'o](/glossary/#moo)* enumerates larger subdivisions of a text; *[mai](/glossary/#mai)* was designed for lists of numbered items, whereas *[mo'o](/glossary/#moo)* was intended to subdivide structured works. If this chapter were translated into Lojban, it might number each section with *[mo'o](/glossary/#moo)*: this section would then be introduced with *zemo'o*, or “Section 7.”
+The difference between *[mai](/glossary/?mode=exact&word=mai)* and *[mo'o](/glossary/?mode=exact&word=mo%27o)* is that *[mo'o](/glossary/?mode=exact&word=mo%27o)* enumerates larger subdivisions of a text; *[mai](/glossary/?mode=exact&word=mai)* was designed for lists of numbered items, whereas *[mo'o](/glossary/?mode=exact&word=mo%27o)* was intended to subdivide structured works. If this chapter were translated into Lojban, it might number each section with *[mo'o](/glossary/?mode=exact&word=mo%27o)*: this section would then be introduced with *zemo'o*, or “Section 7.”
 
 ## 19.8. Attitude scope markers: FUhE/FUhO
 
@@ -743,7 +743,7 @@ I see what I believe to be a blue house.
 
 I see what I believe to be a blue house.
 
-An attitudinal meant to cover a whole sentence can be attached to the preceding *[i](/glossary/#i)*, expressed or understood:
+An attitudinal meant to cover a whole sentence can be attached to the preceding *[i](/glossary/?mode=exact&word=i)*, expressed or understood:
 
 ##### Example 19.41.
 
@@ -758,11 +758,11 @@ An attitudinal meant to cover a whole sentence can be attached to the preceding 
 
 I believe I see a blue house.
 
-or to an explicit *[vau](/glossary/#vau)* placed at the end of a bridi.
+or to an explicit *[vau](/glossary/?mode=exact&word=vau)* placed at the end of a bridi.
 
-Likewise, an attitudinal meant to cover a whole paragraph can be attached to *[ni'o](/glossary/#nio)* or *[no'i](/glossary/#noi)*. An attitudinal at the beginning of a text applies to the whole text.
+Likewise, an attitudinal meant to cover a whole paragraph can be attached to *[ni'o](/glossary/?mode=exact&word=ni%27o)* or *[no'i](/glossary/?mode=exact&word=no%27i)*. An attitudinal at the beginning of a text applies to the whole text.
 
-However, sometimes it is necessary to be more specific about the range of one or more attitudinals, particularly if the range crosses the boundaries of standard Lojban syntactic constructions. The cmavo *[fu'e](/glossary/#fue)* (of selma'o FUhE) and *[fu'o](/glossary/#fuo)* (of selma'o FUhO) provide explicit scope markers. Placing *[fu'e](/glossary/#fue)* in front of an attitudinal disconnects it from what precedes it, and instead says that it applies to all following words until further notice. The notice is given by *[fu'o](/glossary/#fuo)*, which can appear anywhere and cancels all in-force attitudinals. For example:
+However, sometimes it is necessary to be more specific about the range of one or more attitudinals, particularly if the range crosses the boundaries of standard Lojban syntactic constructions. The cmavo *[fu'e](/glossary/?mode=exact&word=fu%27e)* (of selma'o FUhE) and *[fu'o](/glossary/?mode=exact&word=fu%27o)* (of selma'o FUhO) provide explicit scope markers. Placing *[fu'e](/glossary/?mode=exact&word=fu%27e)* in front of an attitudinal disconnects it from what precedes it, and instead says that it applies to all following words until further notice. The notice is given by *[fu'o](/glossary/?mode=exact&word=fu%27o)*, which can appear anywhere and cancels all in-force attitudinals. For example:
 
 ##### Example 19.42.
 
@@ -777,7 +777,7 @@ However, sometimes it is necessary to be more specific about the range of one or
 
 I see the owner of what I believe to be a blue house.
 
-Here, only the *blanu zdani* portion of the three-part tanru *blanu zdani ponse* is marked as a belief of the speaker. Naturally, the attitudinal scope markers do not affect the rules for interpreting multi-part tanru: *blanu zdani* groups first because tanru group from left to right unless overridden with *[ke](/glossary/#ke)* or *[bo](/glossary/#bo)*.
+Here, only the *blanu zdani* portion of the three-part tanru *blanu zdani ponse* is marked as a belief of the speaker. Naturally, the attitudinal scope markers do not affect the rules for interpreting multi-part tanru: *blanu zdani* groups first because tanru group from left to right unless overridden with *[ke](/glossary/?mode=exact&word=ke)* or *[bo](/glossary/?mode=exact&word=bo)*.
 
 Other attitudinals of more local scope can appear after attitudinals marked by FUhE; these attitudinals are added to the globally active attitudinals rather than superseding them.
 
@@ -809,9 +809,9 @@ I said, “I'm John”.
 
 But in fact there are four different flavors of quotation in the language, involving six cmavo of six different selma'o. This being the case, quotation deserves some elaboration.
 
-The simplest kind of quotation, exhibited in [Example 19.43](/chapter19/#example-1943 "Example 19.43."), uses the cmavo *[lu](/glossary/#lu)* (of selma'o LU) as the opening quotation mark, and the cmavo *[li'u](/glossary/#liu)* (of selma'o LIhU) as the closing quotation mark. The text between *[lu](/glossary/#lu)* and *[li'u](/glossary/#liu)* must be a valid, parseable Lojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo *[li'u](/glossary/#liu)* is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
+The simplest kind of quotation, exhibited in [Example 19.43](/chapter19/#example-1943 "Example 19.43."), uses the cmavo *[lu](/glossary/?mode=exact&word=lu)* (of selma'o LU) as the opening quotation mark, and the cmavo *[li'u](/glossary/?mode=exact&word=li%27u)* (of selma'o LIhU) as the closing quotation mark. The text between *[lu](/glossary/?mode=exact&word=lu)* and *[li'u](/glossary/?mode=exact&word=li%27u)* must be a valid, parseable Lojban text. If the quotation is ungrammatical, so is the surrounding expression. The cmavo *[li'u](/glossary/?mode=exact&word=li%27u)* is technically an elidable terminator, but it's almost never possible to elide it except at the end of text.
 
-The cmavo *[lo'u](/glossary/#lou)* (of selma'o LOhU) and *[le'u](/glossary/#leu)* (of selma'o LEhU) are used to surround a quotation that is not necessarily grammatical Lojban. However, the text must consist of morphologically correct Lojban words (as defined in [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")), so that the *[le'u](/glossary/#leu)* can be picked out reliably. The words need not be meaningful, but they must be recognizable as cmavo, brivla, or cmene. Quotation with *[lo'u](/glossary/#lou)* is essential to quoting ungrammatical Lojban for teaching in the language, the equivalent of the \* that is used in English to mark such errors:
+The cmavo *[lo'u](/glossary/?mode=exact&word=lo%27u)* (of selma'o LOhU) and *[le'u](/glossary/?mode=exact&word=le%27u)* (of selma'o LEhU) are used to surround a quotation that is not necessarily grammatical Lojban. However, the text must consist of morphologically correct Lojban words (as defined in [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")), so that the *[le'u](/glossary/?mode=exact&word=le%27u)* can be picked out reliably. The words need not be meaningful, but they must be recognizable as cmavo, brivla, or cmene. Quotation with *[lo'u](/glossary/?mode=exact&word=lo%27u)* is essential to quoting ungrammatical Lojban for teaching in the language, the equivalent of the \* that is used in English to mark such errors:
 
 ##### Example 19.44.
 
@@ -829,7 +829,7 @@ The cmavo *[lo'u](/glossary/#lou)* (of selma'o LOhU) and *[le'u](/glossary/#leu)
 | na     | tergerna                | la  | lojban. |
 | is-not | a-grammatical-structure | in  | Lojban. |
 
-[Example 19.44](/chapter19/#example-1944 "Example 19.44.") is grammatical even though the embedded quotation is not. Similarly, *[lo'u](/glossary/#lou)* quotation can quote fragments of a text which themselves do not constitute grammatical utterances:
+[Example 19.44](/chapter19/#example-1944 "Example 19.44.") is grammatical even though the embedded quotation is not. Similarly, *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation can quote fragments of a text which themselves do not constitute grammatical utterances:
 
 ##### Example 19.45.
 
@@ -854,9 +854,9 @@ The cmavo *[lo'u](/glossary/#lou)* (of selma'o LOhU) and *[le'u](/glossary/#leu)
 
 In the sentence *viska lo*.
 
-Note the topic-comment formulation ([Section 19.4](/chapter19/#194-topic-comment-sentences-zohu "19.4. Topic-comment sentences: ZOhU")) and the indicator applying to the selbri only ([Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO")). Neither *viska le* nor *viska lo* is a valid Lojban utterance, and both require *[lo'u](/glossary/#lou)* quotation.
+Note the topic-comment formulation ([Section 19.4](/chapter19/#194-topic-comment-sentences-zohu "19.4. Topic-comment sentences: ZOhU")) and the indicator applying to the selbri only ([Section 19.8](/chapter19/#198-attitude-scope-markers-fuhefuho "19.8. Attitude scope markers: FUhE/FUhO")). Neither *viska le* nor *viska lo* is a valid Lojban utterance, and both require *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation.
 
-Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words appearing in the quoted sentence when *[li'u](/glossary/#liu)* is used, but not when *lo'u ... le'u* is used:
+Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words appearing in the quoted sentence when *[li'u](/glossary/?mode=exact&word=li%27u)* is used, but not when *lo'u ... le'u* is used:
 
 ##### Example 19.46.
 
@@ -876,7 +876,7 @@ Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words 
 
 Charlie says “The woman is dead”, but she is alive.
 
-In [Example 19.46](/chapter19/#example-1946 "Example 19.46."), *[ri](/glossary/#ri)* is a pro-sumti which refers to the most recent previous sumti, namely *le ninmu*. Compare:
+In [Example 19.46](/chapter19/#example-1946 "Example 19.46."), *[ri](/glossary/?mode=exact&word=ri)* is a pro-sumti which refers to the most recent previous sumti, namely *le ninmu*. Compare:
 
 ##### Example 19.47.
 
@@ -896,9 +896,9 @@ In [Example 19.46](/chapter19/#example-1946 "Example 19.46."), *[ri](/glossary/#
 
 Charlie says *le ninmu cu morsi*, but he is alive.
 
-In [Example 19.47](/chapter19/#example-1947 "Example 19.47."), *[ri](/glossary/#ri)* cannot refer to the referent of the alleged sumti *le ninmu*, because *le ninmu cu morsi* is a mere uninterpreted sequence of Lojban words. Instead, *[ri](/glossary/#ri)* ends up referring to the referent of the sumti *la tcarlis.*, and so it is Charlie who is alive.
+In [Example 19.47](/chapter19/#example-1947 "Example 19.47."), *[ri](/glossary/?mode=exact&word=ri)* cannot refer to the referent of the alleged sumti *le ninmu*, because *le ninmu cu morsi* is a mere uninterpreted sequence of Lojban words. Instead, *[ri](/glossary/?mode=exact&word=ri)* ends up referring to the referent of the sumti *la tcarlis.*, and so it is Charlie who is alive.
 
-The metalinguistic erasers *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, and *[su](/glossary/#su)*, discussed in [Section 19.13](/chapter19/#1913-erasure-si-sa-su "19.13. Erasure: SI, SA, SU"), do not operate in text between *[lo'u](/glossary/#lou)* and *[le'u](/glossary/#leu)*. Since the first *[le'u](/glossary/#leu)* terminates a *[lo'u](/glossary/#lou)* quotation, it is not directly possible to have a *[lo'u](/glossary/#lou)* quotation within another *[lo'u](/glossary/#lou)* quotation. However, it is possible for a *[le'u](/glossary/#leu)* to occur within a *lo'u ... le'u* quotation by preceding it with the cmavo *[zo](/glossary/#zo)*, discussed in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Note that *[le'u](/glossary/#leu)* is not an elidable terminator; it is required.
+The metalinguistic erasers *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, and *[su](/glossary/?mode=exact&word=su)*, discussed in [Section 19.13](/chapter19/#1913-erasure-si-sa-su "19.13. Erasure: SI, SA, SU"), do not operate in text between *[lo'u](/glossary/?mode=exact&word=lo%27u)* and *[le'u](/glossary/?mode=exact&word=le%27u)*. Since the first *[le'u](/glossary/?mode=exact&word=le%27u)* terminates a *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation, it is not directly possible to have a *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation within another *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation. However, it is possible for a *[le'u](/glossary/?mode=exact&word=le%27u)* to occur within a *lo'u ... le'u* quotation by preceding it with the cmavo *[zo](/glossary/?mode=exact&word=zo)*, discussed in [Section 19.10](/chapter19/#1910-more-on-quotations-zo-zoi "19.10. More on quotations: ZO, ZOI"). Note that *[le'u](/glossary/?mode=exact&word=le%27u)* is not an elidable terminator; it is required.
 
 ## 19.10. More on quotations: ZO, ZOI
 
@@ -910,17 +910,17 @@ The following cmavo are discussed in this section:
 | zoi  | ZOI | non-Lojban quotation |
 | la'o | ZOI | non-Lojban name      |
 
-The cmavo *[zo](/glossary/#zo)* (of selma'o ZO) is a strong quotation mark for the single following word, which can be any Lojban word whatsoever. Among other uses, *[zo](/glossary/#zo)* allows a metalinguistic word to be referenced without having it act on the surrounding text. The word must be a morphologically legal (but not necessarily meaningful) single Lojban word; compound cmavo are not permitted. For example:
+The cmavo *[zo](/glossary/?mode=exact&word=zo)* (of selma'o ZO) is a strong quotation mark for the single following word, which can be any Lojban word whatsoever. Among other uses, *[zo](/glossary/?mode=exact&word=zo)* allows a metalinguistic word to be referenced without having it act on the surrounding text. The word must be a morphologically legal (but not necessarily meaningful) single Lojban word; compound cmavo are not permitted. For example:
 
 ##### Example 19.48.
 
 zo si cu lojbo valsi
 
-*[si](/glossary/#si)* is a Lojbanic word.
+*[si](/glossary/?mode=exact&word=si)* is a Lojbanic word.
 
-Since *[zo](/glossary/#zo)* acts on a single word only, there is no corresponding terminator. Brevity, then, is a great advantage of *[zo](/glossary/#zo)*, since the terminators for other kinds of quotation are rarely or never elidable.
+Since *[zo](/glossary/?mode=exact&word=zo)* acts on a single word only, there is no corresponding terminator. Brevity, then, is a great advantage of *[zo](/glossary/?mode=exact&word=zo)*, since the terminators for other kinds of quotation are rarely or never elidable.
 
-The cmavo *[zoi](/glossary/#zoi)* (of selma'o ZOI) is a quotation mark for quoting non-Lojban text. Its syntax is *zoi X. text .X*, where X is a Lojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Lojban name of the language being quoted:
+The cmavo *[zoi](/glossary/?mode=exact&word=zoi)* (of selma'o ZOI) is a quotation mark for quoting non-Lojban text. Its syntax is *zoi X. text .X*, where X is a Lojban word (called the delimiting word) which is separated from the quoted text by pauses, and which is not found in the written text or spoken phoneme stream. It is common, but not required, to use the lerfu word (of selma'o BY) which corresponds to the Lojban name of the language being quoted:
 
 ##### Example 19.49.
 
@@ -928,7 +928,7 @@ zoi gy. John is a man .gy. cu glico jufra
 
 “John is a man” is an English sentence.
 
-where *[gy](/glossary/#gy)* stands for *[glico](/glossary/#glico)*. Other popular choices of delimiting words are *.kuot.*, a Lojban name which sounds like the English word “quote”, and the word *[zoi](/glossary/#zoi)* itself. Another possibility is a Lojban word suggesting the topic of the quotation.
+where *[gy](/glossary/?mode=exact&word=gy)* stands for *[glico](/glossary/?mode=exact&word=glico)*. Other popular choices of delimiting words are *.kuot.*, a Lojban name which sounds like the English word “quote”, and the word *[zoi](/glossary/?mode=exact&word=zoi)* itself. Another possibility is a Lojban word suggesting the topic of the quotation.
 
 Within written text, the Lojban written word used as a delimiting word may not appear, whereas within spoken text, the sound of the delimiting word may not be uttered. This leads to occasional breakdowns of audio-visual isomorphism: [Example 19.50](/chapter19/#example-1950 "Example 19.50.") is fine in speech but ungrammatical as written, whereas [Example 19.51](/chapter19/#example-1951 "Example 19.51.") is correct when written but ungrammatical in speech.
 
@@ -944,17 +944,17 @@ mi djuno fi le valsi po'u zoi jai. gyrations .jai
 
 I know about the word which-is “gyrations”.
 
-The text *[gy](/glossary/#gy)* appears in the written word “gyrations”, whereas the sound represented in Lojban by *[jai](/glossary/#jai)* appears in the spoken word “gyrations”. Such borderline cases should be avoided as a matter of good style.
+The text *[gy](/glossary/?mode=exact&word=gy)* appears in the written word “gyrations”, whereas the sound represented in Lojban by *[jai](/glossary/?mode=exact&word=jai)* appears in the spoken word “gyrations”. Such borderline cases should be avoided as a matter of good style.
 
-It should be noted particularly that *[zoi](/glossary/#zoi)* quotation is the only way to quote rafsi, specifically CCV rafsi, because they are not Lojban words, and *[zoi](/glossary/#zoi)* quotation is the only way to quote things which are not Lojban words. (CVC and CVV rafsi look like names and cmavo respectively, and so can be quoted using other methods.) For example:
+It should be noted particularly that *[zoi](/glossary/?mode=exact&word=zoi)* quotation is the only way to quote rafsi, specifically CCV rafsi, because they are not Lojban words, and *[zoi](/glossary/?mode=exact&word=zoi)* quotation is the only way to quote things which are not Lojban words. (CVC and CVV rafsi look like names and cmavo respectively, and so can be quoted using other methods.) For example:
 
 ##### Example 19.52.
 
 zoi ry. sku .ry. cu rafsi zo cusku
 
-“*sku*” is a rafsi of “*[cusku](/glossary/#cusku)*”.
+“*sku*” is a rafsi of “*[cusku](/glossary/?mode=exact&word=cusku)*”.
 
-(A minor note on interaction between *lo'u ... le'u* and *[zoi](/glossary/#zoi)*: The text between *[lo'u](/glossary/#lou)* and *[le'u](/glossary/#leu)* should consist of Lojban words only. In fact, non-Lojban material in the form of a *[zoi](/glossary/#zoi)* quotation may also appear. However, if the word *[le'u](/glossary/#leu)* is used either as the delimiting word for the *[zoi](/glossary/#zoi)* quotation, or within the quotation itself, the outer *[lo'u](/glossary/#lou)* quotation will be prematurely terminated. Therefore, *[le'u](/glossary/#leu)* should be avoided as the delimiting word in any *[zoi](/glossary/#zoi)* quotation.)
+(A minor note on interaction between *lo'u ... le'u* and *[zoi](/glossary/?mode=exact&word=zoi)*: The text between *[lo'u](/glossary/?mode=exact&word=lo%27u)* and *[le'u](/glossary/?mode=exact&word=le%27u)* should consist of Lojban words only. In fact, non-Lojban material in the form of a *[zoi](/glossary/?mode=exact&word=zoi)* quotation may also appear. However, if the word *[le'u](/glossary/?mode=exact&word=le%27u)* is used either as the delimiting word for the *[zoi](/glossary/?mode=exact&word=zoi)* quotation, or within the quotation itself, the outer *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation will be prematurely terminated. Therefore, *[le'u](/glossary/?mode=exact&word=le%27u)* should be avoided as the delimiting word in any *[zoi](/glossary/?mode=exact&word=zoi)* quotation.)
 
 Lojban strictly avoids any confusion between things and the names of things:
 
@@ -969,7 +969,7 @@ Lojban strictly avoids any confusion between things and the names of things:
 
 :::
 
-In [Example 19.53](/chapter19/#example-1953 "Example 19.53."), *zo .bab.* is the word, whereas *la bab.* is the thing named by the word. The cmavo *[la'e](/glossary/#lae)* and *[lu'e](/glossary/#lue)* (of selma'o LAhE) convert back and forth between references and their referents:
+In [Example 19.53](/chapter19/#example-1953 "Example 19.53."), *zo .bab.* is the word, whereas *la bab.* is the thing named by the word. The cmavo *[la'e](/glossary/?mode=exact&word=la%27e)* and *[lu'e](/glossary/?mode=exact&word=lu%27e)* (of selma'o LAhE) convert back and forth between references and their referents:
 
 ##### Example 19.54.
 
@@ -1003,9 +1003,9 @@ Bob is the name of Bob.
 
 and says that Bob is both the name and the thing named, an unlikely situation. People are not names.
 
-(In [Example 19.53](/chapter19/#example-1953 "Example 19.53.") through [Example 19.54](/chapter19/#example-1954 "Example 19.54."), the name *bab.* was separated from a preceding *[zo](/glossary/#zo)* by a pause, thus: *zo .bab.*. The reason for this extra pause is that all Lojban names must be separated by pause from any preceding word other than *[la](/glossary/#la)*, *[lai](/glossary/#lai)*, *[la'i](/glossary/#lai)* (all of selma'o LA) and *[doi](/glossary/#doi)* (of selma'o DOI). There are numerous other cmavo that may precede a name: of these, *[zo](/glossary/#zo)* is one of the most common.)
+(In [Example 19.53](/chapter19/#example-1953 "Example 19.53.") through [Example 19.54](/chapter19/#example-1954 "Example 19.54."), the name *bab.* was separated from a preceding *[zo](/glossary/?mode=exact&word=zo)* by a pause, thus: *zo .bab.*. The reason for this extra pause is that all Lojban names must be separated by pause from any preceding word other than *[la](/glossary/?mode=exact&word=la)*, *[lai](/glossary/?mode=exact&word=lai)*, *[la'i](/glossary/?mode=exact&word=la%27i)* (all of selma'o LA) and *[doi](/glossary/?mode=exact&word=doi)* (of selma'o DOI). There are numerous other cmavo that may precede a name: of these, *[zo](/glossary/?mode=exact&word=zo)* is one of the most common.)
 
-The cmavo *[la'o](/glossary/#lao)* also belongs to selma'o ZOI, and is mentioned here for completeness, although it does not signal the beginning of a quotation. Instead, *[la'o](/glossary/#lao)* serves to mark non-Lojban names, especially the Linnaean binomial names (such as “Homo sapiens”) which are the internationally standardized names for species of animals and plants. Internationally known names which can more easily be recognized by spelling rather than pronunciation, such as “Goethe”, can also appear in Lojban text with *[la'o](/glossary/#lao)*:
+The cmavo *[la'o](/glossary/?mode=exact&word=la%27o)* also belongs to selma'o ZOI, and is mentioned here for completeness, although it does not signal the beginning of a quotation. Instead, *[la'o](/glossary/?mode=exact&word=la%27o)* serves to mark non-Lojban names, especially the Linnaean binomial names (such as “Homo sapiens”) which are the internationally standardized names for species of animals and plants. Internationally known names which can more easily be recognized by spelling rather than pronunciation, such as “Goethe”, can also appear in Lojban text with *[la'o](/glossary/?mode=exact&word=la%27o)*:
 
 ##### Example 19.57.
 
@@ -1013,7 +1013,7 @@ la'o dy. Goethe .dy. cu me la'o ly. Homo sapiens .ly.
 
 Goethe is a Homo sapiens.
 
-Using *[la'o](/glossary/#lao)* for all names rather than Lojbanizing, however, makes for very cumbersome text. A rough equivalent of *[la'o](/glossary/#lao)* might be *la me zoi*.
+Using *[la'o](/glossary/?mode=exact&word=la%27o)* for all names rather than Lojbanizing, however, makes for very cumbersome text. A rough equivalent of *[la'o](/glossary/?mode=exact&word=la%27o)* might be *la me zoi*.
 
 ## 19.11. Contrastive emphasis: BAhE
 
@@ -1042,7 +1042,7 @@ The heavy stress on “*George*” (represented in writing by *italics*) indicat
 
 It was George whom I saw.
 
-In Lojban, the cmavo *[ba'e](/glossary/#bae)* (of selma'o BAhE) precedes a single word which is to be emphasized:
+In Lojban, the cmavo *[ba'e](/glossary/?mode=exact&word=ba%27e)* (of selma'o BAhE) precedes a single word which is to be emphasized:
 
 ##### Example 19.61.
 
@@ -1057,7 +1057,7 @@ In Lojban, the cmavo *[ba'e](/glossary/#bae)* (of selma'o BAhE) precedes a singl
 
 I saw *George*.
 
-Note the pause before the name *djordj.*, which serves to separate it unambiguously from the *[ba'e](/glossary/#bae)*. Alternatively, the *[ba'e](/glossary/#bae)* can be moved to a position before the *[la](/glossary/#la)*, which in effect emphasizes the whole construct *la djordj.*:
+Note the pause before the name *djordj.*, which serves to separate it unambiguously from the *[ba'e](/glossary/?mode=exact&word=ba%27e)*. Alternatively, the *[ba'e](/glossary/?mode=exact&word=ba%27e)* can be moved to a position before the *[la](/glossary/?mode=exact&word=la)*, which in effect emphasizes the whole construct *la djordj.*:
 
 ##### Example 19.62.
 
@@ -1088,7 +1088,7 @@ I saw (not heard or smelled) George.
 
 Emphasis on one of the structural components of a Lojban bridi can also be achieved by rearranging it into an order that is not the speaker's or writer's usual order. Any sumti moved out of place, or the selbri when moved out of place, is emphatic to some degree.
 
-For completeness, the cmavo *[za'e](/glossary/#zae)* should be mentioned, also of selma'o BAhE. It marks a word as possibly irregular, non-standard, or nonce (created for the occasion):
+For completeness, the cmavo *[za'e](/glossary/?mode=exact&word=za%27e)* should be mentioned, also of selma'o BAhE. It marks a word as possibly irregular, non-standard, or nonce (created for the occasion):
 
 ##### Example 19.65.
 
@@ -1103,7 +1103,7 @@ For completeness, the cmavo *[za'e](/glossary/#zae)* should be mentioned, also o
 
 marks a Lojbanization of an English name, where a more appropriate standard form might be something like *la ckiipyris.*, reflecting the country's name in Albanian.
 
-Before a lujvo or fu'ivla, *[za'e](/glossary/#zae)* indicates that the word has been made up on the spot and may be used in a sense that is not found in the unabridged dictionary (when we have an unabridged dictionary!).
+Before a lujvo or fu'ivla, *[za'e](/glossary/?mode=exact&word=za%27e)* indicates that the word has been made up on the spot and may be used in a sense that is not found in the unabridged dictionary (when we have an unabridged dictionary!).
 
 ## 19.12. Parenthesis and metalinguistic commentary: TO, TOI, SEI
 
@@ -1116,7 +1116,7 @@ The following cmavo are discussed in this section:
 | toi  | TOI | close parenthesis           |
 | sei  | SEI | metalinguistic bridi marker |
 
-The cmavo *[to](/glossary/#to)* and *[toi](/glossary/#toi)* are discursive (non-mathematical) parentheses, for inserting parenthetical remarks. Any text whatsoever can go within the parentheses, and it is completely invisible to its context. It can, however, refer to the context by the use of pro-sumti and pro-bridi: any that have been assigned in the context are still assigned in the parenthetical remarks, but the reverse is not true.
+The cmavo *[to](/glossary/?mode=exact&word=to)* and *[toi](/glossary/?mode=exact&word=toi)* are discursive (non-mathematical) parentheses, for inserting parenthetical remarks. Any text whatsoever can go within the parentheses, and it is completely invisible to its context. It can, however, refer to the context by the use of pro-sumti and pro-bridi: any that have been assigned in the context are still assigned in the parenthetical remarks, but the reverse is not true.
 
 ##### Example 19.66.
 
@@ -1136,9 +1136,9 @@ The cmavo *[to](/glossary/#to)* and *[toi](/glossary/#toi)* are discursive (non-
 
 Lisa, I want you to (Frank! Stop!) see the cat.
 
-[Example 19.66](/chapter19/#example-1966 "Example 19.66.") implicitly redefines *[do](/glossary/#do)* within the parentheses: the listener is changed by *doi frank.* When the context sentence resumes, however, the old listener, Lisa, is automatically restored.
+[Example 19.66](/chapter19/#example-1966 "Example 19.66.") implicitly redefines *[do](/glossary/?mode=exact&word=do)* within the parentheses: the listener is changed by *doi frank.* When the context sentence resumes, however, the old listener, Lisa, is automatically restored.
 
-There is another cmavo of selma'o TO: *[to'i](/glossary/#toi)*. The difference between *[to](/glossary/#to)* and *[to'i](/glossary/#toi)* is the difference between parentheses and square brackets in English prose. Remarks within *to ... toi* cmavo are implicitly by the same speaker, whereas remarks within *to'i ... toi* are implicitly by someone else, perhaps an editor:
+There is another cmavo of selma'o TO: *[to'i](/glossary/?mode=exact&word=to%27i)*. The difference between *[to](/glossary/?mode=exact&word=to)* and *[to'i](/glossary/?mode=exact&word=to%27i)* is the difference between parentheses and square brackets in English prose. Remarks within *to ... toi* cmavo are implicitly by the same speaker, whereas remarks within *to'i ... toi* are implicitly by someone else, perhaps an editor:
 
 ##### Example 19.67.
 
@@ -1146,13 +1146,13 @@ la frank. cusku lu mi prami do to'isa'a do du la djein. toi li'u
 
 Frank expresses “I love you \[you = Jane\]”
 
-The *[sa'a](/glossary/#saa)* suffix is a discursive cmavo (of selma'o UI) meaning “editorial insertion”, and indicating that the marked word or construct (in this case, the entire bracketed remark) is not part of the quotation. It is required whenever the *to'i ... toi* remark is physically within quotation marks, at least when speaking to literal-minded listeners; the convention may be relaxed if no actual confusion results.
+The *[sa'a](/glossary/?mode=exact&word=sa%27a)* suffix is a discursive cmavo (of selma'o UI) meaning “editorial insertion”, and indicating that the marked word or construct (in this case, the entire bracketed remark) is not part of the quotation. It is required whenever the *to'i ... toi* remark is physically within quotation marks, at least when speaking to literal-minded listeners; the convention may be relaxed if no actual confusion results.
 
 Note: The parser believes that parentheses are attached to the previous word or construct, because it treats them as syntactic equivalents of subscripts and other such so-called “free modifiers”. Semantically, however, parenthetical remarks are not necessarily attached either to what precedes them or what follows them.
 
-The cmavo *[sei](/glossary/#sei)* (of selma'o SEI) begins an embedded discursive bridi. Comments added with *[sei](/glossary/#sei)* are called “metalinguistic”, because they are comments about the discourse itself rather than about the subject matter of the discourse. This sense of the term “metalinguistic” is used throughout this chapter, and is not to be confused with the sense “language for expressing other languages”.
+The cmavo *[sei](/glossary/?mode=exact&word=sei)* (of selma'o SEI) begins an embedded discursive bridi. Comments added with *[sei](/glossary/?mode=exact&word=sei)* are called “metalinguistic”, because they are comments about the discourse itself rather than about the subject matter of the discourse. This sense of the term “metalinguistic” is used throughout this chapter, and is not to be confused with the sense “language for expressing other languages”.
 
-When marked with *[sei](/glossary/#sei)*, a metalinguistic utterance can be embedded in another utterance as a discursive. In this way, discursives which do not have cmavo assigned in selma'o UI can be expressed:
+When marked with *[sei](/glossary/?mode=exact&word=sei)*, a metalinguistic utterance can be embedded in another utterance as a discursive. In this way, discursives which do not have cmavo assigned in selma'o UI can be expressed:
 
 ##### Example 19.68.
 
@@ -1160,7 +1160,7 @@ la frank. prami sei la frank. gleki la djein.
 
 Frank loves (Frank is happy) Jane.
 
-Using the happiness attitudinal, *[.ui](/glossary/#ui)*, would imply that the speaker was happy. Instead, the speaker attributes happiness to Frank. It would probably be safe to elide the one who is happy, and say:
+Using the happiness attitudinal, *[.ui](/glossary/?mode=exact&word=ui)*, would imply that the speaker was happy. Instead, the speaker attributes happiness to Frank. It would probably be safe to elide the one who is happy, and say:
 
 ##### Example 19.69.
 
@@ -1168,7 +1168,7 @@ la frank. prami sei gleki la djein.
 
 Frank loves (he is happy) Jane.
 
-The grammar of the bridi following *[sei](/glossary/#sei)* has an unusual limitation: the sumti must either precede the selbri, or must be glued into the selbri with *[be](/glossary/#be)* and *[bei](/glossary/#bei)*:
+The grammar of the bridi following *[sei](/glossary/?mode=exact&word=sei)* has an unusual limitation: the sumti must either precede the selbri, or must be glued into the selbri with *[be](/glossary/?mode=exact&word=be)* and *[bei](/glossary/?mode=exact&word=bei)*:
 
 ##### Example 19.70.
 
@@ -1176,7 +1176,7 @@ la frank. prami sei gleki be fa la suzn. la djein.
 
 Frank loves (Susan is happy) Jane.
 
-This restriction allows the terminator cmavo *[se'u](/glossary/#seu)* to almost always be elided.
+This restriction allows the terminator cmavo *[se'u](/glossary/?mode=exact&word=se%27u)* to almost always be elided.
 
 Since a discursive utterance is working at a “higher” level of abstraction than a non-discursive utterance, a non-discursive utterance cannot refer to a discursive utterance. Specifically, the various back-counting, reciprocal, and reflexive constructs in selma'o KOhA ignore the utterances at “higher” metalinguistic levels in determining their referent. It is possible, and sometimes necessary, to refer to lower metalinguistic levels. For example, the English “he said” in a conversation is metalinguistic. For this purpose, quotations are considered to be at a lower metalinguistic level than the surrounding context (a quoted text cannot refer to the statements of the one who quotes it), whereas parenthetical remarks are considered to be at a higher level than the context.
 
@@ -1227,9 +1227,9 @@ lu mi klama seisa'a la djan cusku le zarci
 
 “I go”, John said, “to the store”.
 
-Note the *[sa'a](/glossary/#saa)* following each *[sei](/glossary/#sei)*, marking the *[sei](/glossary/#sei)* and its attached bridi as an editorial insert, not part of the quotation. In a more relaxed style, these *[sa'a](/glossary/#saa)* cmavo would probably be dropped.
+Note the *[sa'a](/glossary/?mode=exact&word=sa%27a)* following each *[sei](/glossary/?mode=exact&word=sei)*, marking the *[sei](/glossary/?mode=exact&word=sei)* and its attached bridi as an editorial insert, not part of the quotation. In a more relaxed style, these *[sa'a](/glossary/?mode=exact&word=sa%27a)* cmavo would probably be dropped.
 
-The elidable terminator for *[sei](/glossary/#sei)* is *[se'u](/glossary/#seu)* (of selma'o SEhU); it is rarely needed, except to separate a selbri within the *[sei](/glossary/#sei)* comment from an immediately following selbri (or component) outside the comment.
+The elidable terminator for *[sei](/glossary/?mode=exact&word=sei)* is *[se'u](/glossary/?mode=exact&word=se%27u)* (of selma'o SEhU); it is rarely needed, except to separate a selbri within the *[sei](/glossary/?mode=exact&word=sei)* comment from an immediately following selbri (or component) outside the comment.
 
 ## 19.13. Erasure: SI, SA, SU
 
@@ -1241,7 +1241,7 @@ The following cmavo are discussed in this section:
 | sa  | SA  | erase phrase    |
 | su  | SU  | erase discourse |
 
-The cmavo *[si](/glossary/#si)* (of selma'o SI) is a metalinguistic operator that erases the preceding word, as if it had never been spoken:
+The cmavo *[si](/glossary/?mode=exact&word=si)* (of selma'o SI) is a metalinguistic operator that erases the preceding word, as if it had never been spoken:
 
 ##### Example 19.75.
 
@@ -1254,7 +1254,7 @@ The cmavo *[si](/glossary/#si)* (of selma'o SI) is a metalinguistic operator tha
 
 :::
 
-means the same thing as *ti mlatu*. Multiple *[si](/glossary/#si)* cmavo in succession erase the appropriate number of words:
+means the same thing as *ti mlatu*. Multiple *[si](/glossary/?mode=exact&word=si)* cmavo in succession erase the appropriate number of words:
 
 ##### Example 19.76.
 
@@ -1267,7 +1267,7 @@ means the same thing as *ti mlatu*. Multiple *[si](/glossary/#si)* cmavo in succ
 
 :::
 
-In order to erase the word *[zo](/glossary/#zo)*, it is necessary to use three *[si](/glossary/#si)* cmavo in a row:
+In order to erase the word *[zo](/glossary/?mode=exact&word=zo)*, it is necessary to use three *[si](/glossary/?mode=exact&word=si)* cmavo in a row:
 
 ##### Example 19.77.
 
@@ -1276,13 +1276,13 @@ In order to erase the word *[zo](/glossary/#zo)*, it is necessary to use three *
 |          |       |                |       |      |                       |     |     |     |      |
 | -------- | ----- | -------------- | ----- | ---- | --------------------- | --- | --- | --- | ---- |
 | zo       | .bab. | se             | cmene | zo   | si                    | si  | si  | la  | bab. |
-| The-word | “Bob” | is-the-name-of | the   | word | *[si](/glossary/#si)* | ,   | er, | er, | Bob. |
+| The-word | “Bob” | is-the-name-of | the   | word | *[si](/glossary/?mode=exact&word=si)* | ,   | er, | er, | Bob. |
 
 :::
 
-The first use of *[si](/glossary/#si)* does not erase anything, but completes the *[zo](/glossary/#zo)* quotation. Two more *[si](/glossary/#si)* cmavo are then necessary to erase the first *[si](/glossary/#si)* and the *[zo](/glossary/#zo)*.
+The first use of *[si](/glossary/?mode=exact&word=si)* does not erase anything, but completes the *[zo](/glossary/?mode=exact&word=zo)* quotation. Two more *[si](/glossary/?mode=exact&word=si)* cmavo are then necessary to erase the first *[si](/glossary/?mode=exact&word=si)* and the *[zo](/glossary/?mode=exact&word=zo)*.
 
-Incorrect names can likewise cause trouble with *[si](/glossary/#si)*:
+Incorrect names can likewise cause trouble with *[si](/glossary/?mode=exact&word=si)*:
 
 ##### Example 19.78.
 
@@ -1300,9 +1300,9 @@ Incorrect names can likewise cause trouble with *[si](/glossary/#si)*:
 | si  | si  | .esperanton. |
 | er, | er, | Esperanto.   |
 
-The Lojbanized spelling *.esperanto* breaks up, as a consequence of the Lojban morphology rules (see [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")) into two Lojban words, the cmavo *[e](/glossary/#e)* and the undefined lujvo *speranto*. Therefore, two *[si](/glossary/#si)* cmavo are needed to erase them. Of course, *.e speranto* is not grammatical after *[la](/glossary/#la)*, but recognition of *[si](/glossary/#si)* is done before grammatical analysis.
+The Lojbanized spelling *.esperanto* breaks up, as a consequence of the Lojban morphology rules (see [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")) into two Lojban words, the cmavo *[e](/glossary/?mode=exact&word=e)* and the undefined lujvo *speranto*. Therefore, two *[si](/glossary/?mode=exact&word=si)* cmavo are needed to erase them. Of course, *.e speranto* is not grammatical after *[la](/glossary/?mode=exact&word=la)*, but recognition of *[si](/glossary/?mode=exact&word=si)* is done before grammatical analysis.
 
-Even more messy is the result of an incorrect *[zoi](/glossary/#zoi)*:
+Even more messy is the result of an incorrect *[zoi](/glossary/?mode=exact&word=zoi)*:
 
 ##### Example 19.79.
 
@@ -1311,13 +1311,13 @@ Even more messy is the result of an incorrect *[zoi](/glossary/#zoi)*:
 |     |         |             |           |                       |              |     |     |     |     |          |     |
 | --- | ------- | ----------- | --------- | --------------------- | ------------ | --- | --- | --- | --- | -------- | --- |
 | mi  | cusku   | zoi         | fy.       | gy.                   | .fy.         | si  | si  | si  | si  | zo .djan |     |
-| I   | express | \[foreign\] | \[quote\] | *[gy](/glossary/#gy)* | \[unquote\], | er, | er, | er, | er, | “John”   | .   |
+| I   | express | \[foreign\] | \[quote\] | *[gy](/glossary/?mode=exact&word=gy)* | \[unquote\], | er, | er, | er, | er, | “John”   | .   |
 
 :::
 
-In [Example 19.79](/chapter19/#example-1979 "Example 19.79."), the first *[fy](/glossary/#fy)* is taken to be the delimiting word. The next word must be different from the delimiting word, and *[gy.](/glossary/#gy)*, the Lojban name for the letter *g*, was chosen arbitrarily. Then the delimiting word must be repeated. For purposes of *[si](/glossary/#si)* erasure, the entire quoted text is taken to be a word, so four words have been uttered, and four more *[si](/glossary/#si)* cmavo are needed to erase them altogether. Similarly, a stray *[lo'u](/glossary/#lou)* quotation mark must be erased with *fy. le'u si si si*, by completing the quotation and then erasing it all with three *[si](/glossary/#si)* cmavo.
+In [Example 19.79](/chapter19/#example-1979 "Example 19.79."), the first *[fy](/glossary/?mode=exact&word=fy)* is taken to be the delimiting word. The next word must be different from the delimiting word, and *[gy.](/glossary/?mode=exact&word=gy)*, the Lojban name for the letter *g*, was chosen arbitrarily. Then the delimiting word must be repeated. For purposes of *[si](/glossary/?mode=exact&word=si)* erasure, the entire quoted text is taken to be a word, so four words have been uttered, and four more *[si](/glossary/?mode=exact&word=si)* cmavo are needed to erase them altogether. Similarly, a stray *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation mark must be erased with *fy. le'u si si si*, by completing the quotation and then erasing it all with three *[si](/glossary/?mode=exact&word=si)* cmavo.
 
-What if less than the entire *[zo](/glossary/#zo)* or *[zoi](/glossary/#zoi)* construct is erased? The result is something which has a loose *[zo](/glossary/#zo)* or *[zoi](/glossary/#zoi)* in it, without its expected sequels, and which is incurably ungrammatical. Thus, to erase just the word quoted by *[zo](/glossary/#zo)*, it turns out to be necessary to erase the *[zo](/glossary/#zo)* as well:
+What if less than the entire *[zo](/glossary/?mode=exact&word=zo)* or *[zoi](/glossary/?mode=exact&word=zoi)* construct is erased? The result is something which has a loose *[zo](/glossary/?mode=exact&word=zo)* or *[zoi](/glossary/?mode=exact&word=zoi)* in it, without its expected sequels, and which is incurably ungrammatical. Thus, to erase just the word quoted by *[zo](/glossary/?mode=exact&word=zo)*, it turns out to be necessary to erase the *[zo](/glossary/?mode=exact&word=zo)* as well:
 
 ##### Example 19.80.
 
@@ -1332,9 +1332,9 @@ What if less than the entire *[zo](/glossary/#zo)* or *[zoi](/glossary/#zoi)* co
 
 The parser will reject *zo .djan. si .djordj.*, because in that context *djordj.* is a name (of selma'o CMENE) rather than a quoted word.
 
-Note: The current machine parser does not implement *[si](/glossary/#si)* erasure.
+Note: The current machine parser does not implement *[si](/glossary/?mode=exact&word=si)* erasure.
 
-As the above examples plainly show, precise erasures with *[si](/glossary/#si)* can be extremely hard to get right. Therefore, the cmavo *[sa](/glossary/#sa)* (of selma'o SA) is provided for erasing more than one word. The cmavo following *[sa](/glossary/#sa)* should be the starting marker of some grammatical construct. The effect of the *[sa](/glossary/#sa)* is to erase back to and including the last starting marker of the same kind. For example:
+As the above examples plainly show, precise erasures with *[si](/glossary/?mode=exact&word=si)* can be extremely hard to get right. Therefore, the cmavo *[sa](/glossary/?mode=exact&word=sa)* (of selma'o SA) is provided for erasing more than one word. The cmavo following *[sa](/glossary/?mode=exact&word=sa)* should be the starting marker of some grammatical construct. The effect of the *[sa](/glossary/?mode=exact&word=sa)* is to erase back to and including the last starting marker of the same kind. For example:
 
 ##### Example 19.81.
 
@@ -1347,7 +1347,7 @@ As the above examples plainly show, precise erasures with *[si](/glossary/#si)* 
 
 :::
 
-Since the word following *[sa](/glossary/#sa)* is *[i](/glossary/#i)*, the sentence separator, its effect is to erase the preceding sentence. So [Example 19.81](/chapter19/#example-1981 "Example 19.81.") is equivalent to:
+Since the word following *[sa](/glossary/?mode=exact&word=sa)* is *[i](/glossary/?mode=exact&word=i)*, the sentence separator, its effect is to erase the preceding sentence. So [Example 19.81](/chapter19/#example-1981 "Example 19.81.") is equivalent to:
 
 ##### Example 19.82.
 
@@ -1366,13 +1366,13 @@ Another example, erasing a partial description rather than a partial sentence:
 
 :::
 
-In [Example 19.83](/chapter19/#example-1983 "Example 19.83."), *le blanu .zdan.* is ungrammatical, but clearly reflects the speaker's original intention to say *le blanu zdani*. However, the *[zdani](/glossary/#zdani)* was cut off before the end and changed into a name. The entire ungrammatical *[le](/glossary/#le)* construct is erased and replaced by *le xekri zdani*.
+In [Example 19.83](/chapter19/#example-1983 "Example 19.83."), *le blanu .zdan.* is ungrammatical, but clearly reflects the speaker's original intention to say *le blanu zdani*. However, the *[zdani](/glossary/?mode=exact&word=zdani)* was cut off before the end and changed into a name. The entire ungrammatical *[le](/glossary/?mode=exact&word=le)* construct is erased and replaced by *le xekri zdani*.
 
-Note: The current machine parser does not implement *[sa](/glossary/#sa)* erasure. Getting *[sa](/glossary/#sa)* right is even more difficult (for a computer) than getting *[si](/glossary/#si)* right, as the behavior of *[si](/glossary/#si)* is defined in terms of words rather than in terms of grammatical constructs (possibly incorrect ones) and words are conceptually simpler entities. On the other hand, *[sa](/glossary/#sa)* is generally easier for human beings, because the rules for using it correctly are less finicky.
+Note: The current machine parser does not implement *[sa](/glossary/?mode=exact&word=sa)* erasure. Getting *[sa](/glossary/?mode=exact&word=sa)* right is even more difficult (for a computer) than getting *[si](/glossary/?mode=exact&word=si)* right, as the behavior of *[si](/glossary/?mode=exact&word=si)* is defined in terms of words rather than in terms of grammatical constructs (possibly incorrect ones) and words are conceptually simpler entities. On the other hand, *[sa](/glossary/?mode=exact&word=sa)* is generally easier for human beings, because the rules for using it correctly are less finicky.
 
-The cmavo *[su](/glossary/#su)* (of selma'o SU) is yet another metalinguistic operator that erases the entire text. However, if the text involves multiple speakers, then *[su](/glossary/#su)* will only erase the remarks made by the one who said it, unless that speaker has said nothing. Therefore *susu* is needed to eradicate a whole discussion in conversation.
+The cmavo *[su](/glossary/?mode=exact&word=su)* (of selma'o SU) is yet another metalinguistic operator that erases the entire text. However, if the text involves multiple speakers, then *[su](/glossary/?mode=exact&word=su)* will only erase the remarks made by the one who said it, unless that speaker has said nothing. Therefore *susu* is needed to eradicate a whole discussion in conversation.
 
-Note: The current machine parser does not implement either *[su](/glossary/#su)* or *susu* erasure.
+Note: The current machine parser does not implement either *[su](/glossary/?mode=exact&word=su)* or *susu* erasure.
 
 ## 19.14. Hesitation: Y
 
@@ -1382,9 +1382,9 @@ The following cmavo is discussed in this section:
 | --- | --- | ---------------- |
 | .y. | Y   | hesitation noise |
 
-Speakers often need to hesitate to think of what to say next or for some extra-linguistic reason. There are two ways to hesitate in Lojban: to pause between words (that is, to say nothing) or to use the cmavo *[.y.](/glossary/#y)* (of selma'o Y). This resembles in sound the English hesitation noise written “uh” (or “er”), but differs from it in the requirement for pauses before and after. Unlike a long pause, it cannot be mistaken for having nothing more to say: it holds the floor for the speaker. Since vowel length is not significant in Lojban, the *y* sound can be dragged out for as long as necessary. Furthermore, the sound can be repeated, provided the required pauses are respected.
+Speakers often need to hesitate to think of what to say next or for some extra-linguistic reason. There are two ways to hesitate in Lojban: to pause between words (that is, to say nothing) or to use the cmavo *[.y.](/glossary/?mode=exact&word=y)* (of selma'o Y). This resembles in sound the English hesitation noise written “uh” (or “er”), but differs from it in the requirement for pauses before and after. Unlike a long pause, it cannot be mistaken for having nothing more to say: it holds the floor for the speaker. Since vowel length is not significant in Lojban, the *y* sound can be dragged out for as long as necessary. Furthermore, the sound can be repeated, provided the required pauses are respected.
 
-Since the hesitation sound in English is outside the formal language, English-speakers may question the need for a formal cmavo. Speakers of other languages, however, often hesitate by saying (or, if necessary, repeating) a word (“este” in some dialects of Spanish, roughly meaning “that is”), and Lojban's audio-visual isomorphism requires a written representation of all meaningful spoken behavior. Of course, *[.y.](/glossary/#y)* has no grammatical significance: it can appear anywhere at all in a Lojban sentence except in the middle of a word.
+Since the hesitation sound in English is outside the formal language, English-speakers may question the need for a formal cmavo. Speakers of other languages, however, often hesitate by saying (or, if necessary, repeating) a word (“este” in some dialects of Spanish, roughly meaning “that is”), and Lojban's audio-visual isomorphism requires a written representation of all meaningful spoken behavior. Of course, *[.y.](/glossary/?mode=exact&word=y)* has no grammatical significance: it can appear anywhere at all in a Lojban sentence except in the middle of a word.
 
 ## 19.15. No more to say: FAhO
 
@@ -1394,35 +1394,35 @@ The following cmavo is discussed in this section:
 | ---- | ---- | ----------- |
 | fa'o | FAhO | end of text |
 
-The cmavo *[fa'o](/glossary/#fao)* (of selma'o FAhO) is the usually omitted marker for the end of a text; it can be used in computer interaction to indicate the end of input or output, or for explicitly giving up the floor during a discussion. It is outside the regular grammar, and the machine parser takes it as an unconditional signal to stop parsing unless it is quoted with *[zo](/glossary/#zo)* or with *lo'u ... le'u*. In particular, it is not used at the end of subordinate texts quoted with *[li'u](/glossary/#liu)* or parenthesized with *to ... toi*.
+The cmavo *[fa'o](/glossary/?mode=exact&word=fa%27o)* (of selma'o FAhO) is the usually omitted marker for the end of a text; it can be used in computer interaction to indicate the end of input or output, or for explicitly giving up the floor during a discussion. It is outside the regular grammar, and the machine parser takes it as an unconditional signal to stop parsing unless it is quoted with *[zo](/glossary/?mode=exact&word=zo)* or with *lo'u ... le'u*. In particular, it is not used at the end of subordinate texts quoted with *[li'u](/glossary/?mode=exact&word=li%27u)* or parenthesized with *to ... toi*.
 
 ## 19.16. List of cmavo interactions
 
 The following list gives the cmavo and selma'o that are recognized by the earliest stages of the parser, and specifies exactly which of them interact with which others. All of the cmavo are at least mentioned in this chapter. The cmavo are written in lower case, and the selma'o in UPPER CASE.
 
-- *[zo](/glossary/#zo)* quotes the following word, no matter what it is.
+- *[zo](/glossary/?mode=exact&word=zo)* quotes the following word, no matter what it is.
 
-- *[si](/glossary/#si)* erases the preceding word unless it is a *[zo](/glossary/#zo)*.
+- *[si](/glossary/?mode=exact&word=si)* erases the preceding word unless it is a *[zo](/glossary/?mode=exact&word=zo)*.
 
-- *[sa](/glossary/#sa)* erases the preceding word and other words, unless the preceding word is a *[zo](/glossary/#zo)*.
+- *[sa](/glossary/?mode=exact&word=sa)* erases the preceding word and other words, unless the preceding word is a *[zo](/glossary/?mode=exact&word=zo)*.
 
-- *[su](/glossary/#su)* is the same as *[sa](/glossary/#sa)*, but erases more words.
+- *[su](/glossary/?mode=exact&word=su)* is the same as *[sa](/glossary/?mode=exact&word=sa)*, but erases more words.
 
-- *[lo'u](/glossary/#lou)* quotes all following words up to a *[le'u](/glossary/#leu)* (but not a *zo le'u*).
+- *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotes all following words up to a *[le'u](/glossary/?mode=exact&word=le%27u)* (but not a *zo le'u*).
 
-- *[le'u](/glossary/#leu)* is ungrammatical except at the end of a “lo'u quotation.
+- *[le'u](/glossary/?mode=exact&word=le%27u)* is ungrammatical except at the end of a “lo'u quotation.
 
-- ZOI cmavo use the following word as a delimiting word, no matter what it is, but using *[le'u](/glossary/#leu)* may create difficulties.
+- ZOI cmavo use the following word as a delimiting word, no matter what it is, but using *[le'u](/glossary/?mode=exact&word=le%27u)* may create difficulties.
 
-- *[zei](/glossary/#zei)* combines the preceding and the following word into a lujvo, but does not affect *[zo](/glossary/#zo)*, *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, *[su](/glossary/#su)*, *[lo'u](/glossary/#lou)*, ZOI cmavo, *[fa'o](/glossary/#fao)*, and *[zei](/glossary/#zei)*.
+- *[zei](/glossary/?mode=exact&word=zei)* combines the preceding and the following word into a lujvo, but does not affect *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI cmavo, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, and *[zei](/glossary/?mode=exact&word=zei)*.
 
-- BAhE cmavo mark the following word, unless it is *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, or *[su](/glossary/#su)*, or unless it is preceded by *[zo](/glossary/#zo)*. Multiple BAhE cmavo may be used in succession.
+- BAhE cmavo mark the following word, unless it is *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, or *[su](/glossary/?mode=exact&word=su)*, or unless it is preceded by *[zo](/glossary/?mode=exact&word=zo)*. Multiple BAhE cmavo may be used in succession.
 
-- *[bu](/glossary/#bu)* makes the preceding word into a lerfu word, except for *[zo](/glossary/#zo)*, *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, *[su](/glossary/#su)*, *[lo'u](/glossary/#lou)*, ZOI cmavo, *[fa'o](/glossary/#fao)*, *[zei](/glossary/#zei)*, BAhE cmavo, and *[bu](/glossary/#bu)*. Multiple *[bu](/glossary/#bu)* cmavo may be used in succession.
+- *[bu](/glossary/?mode=exact&word=bu)* makes the preceding word into a lerfu word, except for *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI cmavo, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, *[zei](/glossary/?mode=exact&word=zei)*, BAhE cmavo, and *[bu](/glossary/?mode=exact&word=bu)*. Multiple *[bu](/glossary/?mode=exact&word=bu)* cmavo may be used in succession.
 
-- UI and CAI cmavo mark the previous word, except for *[zo](/glossary/#zo)*, *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, *[su](/glossary/#su)*, *[lo'u](/glossary/#lou)*, ZOI, *[fa'o](/glossary/#fao)*, *[zei](/glossary/#zei)*, BAhE cmavo, and *[bu](/glossary/#bu)*. Multiple UI cmavo may be used in succession. A following *[nai](/glossary/#nai)* is made part of the UI.
+- UI and CAI cmavo mark the previous word, except for *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, *[zei](/glossary/?mode=exact&word=zei)*, BAhE cmavo, and *[bu](/glossary/?mode=exact&word=bu)*. Multiple UI cmavo may be used in succession. A following *[nai](/glossary/?mode=exact&word=nai)* is made part of the UI.
 
-- *[.y.](/glossary/#y)*, *[da'o](/glossary/#dao)*, *[fu'e](/glossary/#fue)*, and *[fu'o](/glossary/#fuo)* are the same as UI, but do not absorb a following *[nai](/glossary/#nai)*.
+- *[.y.](/glossary/?mode=exact&word=y)*, *[da'o](/glossary/?mode=exact&word=da%27o)*, *[fu'e](/glossary/?mode=exact&word=fu%27e)*, and *[fu'o](/glossary/?mode=exact&word=fu%27o)* are the same as UI, but do not absorb a following *[nai](/glossary/?mode=exact&word=nai)*.
 
 ## 19.17. List of Elidable Terminators
 

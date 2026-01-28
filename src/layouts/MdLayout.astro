@@ -1,16 +1,14 @@
 ---
-import '../styles/globals.css';
 import type { MarkdownLayoutProps } from 'astro';
-import Head from './Head.astro';
-import ListIcon from '../components/ListIcon.svg';
 import type { H2Content } from '../components/Toc.astro';
+import Head from './Head.astro';
 import { Image } from 'astro:assets';
 import Sidemenu from '../components/Sidemenu.astro';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import Toc from '../components/Toc.astro';
-import LinkExt from '../components/LinkExt.astro';
-import CloseIcon from '../components/CloseIcon.svg';
-import JboLogo from '../components/JboLogo.svg';
+import MyFooter from '../components/MyFooter.astro';
+import MyHeader from '../components/MyHeader.astro';
+import Drawer from '../components/Drawer.astro';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -97,44 +95,15 @@ const contents = getContents();
 ---
 
 <Head title={shortTitle} {url} description={frontmatter.description}>
-  <header class='gbg-accent h-(--s-header) sticky top-0 z-100'>
-    <nav class='flex h-full items-center *:mb-0 *:min-w-0 px-8'>
-      <a
-        href='/'
-        class='flex gap-1 no-underline items-center h-full opacity-100
-        hover:cbg-sidemenu-bg hover:ctext-sidemenu-text transition-colors ps-1 pe-2'
-        title='Top Page'
-      >
-        <JboLogo class='block h-8' />
-        <span class='text-3xl font-extralight'>CLL</span>
-      </a>
-      <button
-        type='button'
-        id='drawer-btn'
-        class='block lg:hidden ms-auto hover:text-black/60 transition-colors'
-        title='Open sidemenu'
-      >
-        <ListIcon class='size-6 fill-current inline-block' />
-      </button>
-    </nav>
-  </header>
-  <main class='flow-root lg:grid grid-cols-(--columns-1) *:min-w-0'>
-    <div id='drawer-backdrop'>
-      <aside id='drawer'>
-        <button id='drawer-close-btn' type='button' title='Close sidemenu'>
-          <CloseIcon class='inline-block fill-current size-6' />
-        </button>
-        <Sidemenu currentUrl={url} />
-      </aside>
-    </div>
-    <aside class='hidden lg:block'>
-      <div
-        class='h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky top-(--s-header) z-0 px-1 py-2'
-      >
+  <MyHeader />
+  <main>
+    <Drawer {url} />
+    <aside>
+      <div class='__sidebar-root'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
-    <section aria-label='The text' class='flow-root cbg-bg px-4'>
+    <section aria-label='The text'>
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
@@ -143,71 +112,34 @@ const contents = getContents();
       }
       <slot />
     </section>
-    <aside class='hidden lg:block'>
-      <div
-        class='h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky top-(--s-header) z-0 px-3 py-2'
-      >
+    <aside>
+      <div class='__sidebar-root px-3'>
         <Toc {contents} isAside />
       </div>
     </aside>
   </main>
-  <footer>
-    <LinkExt class='no-underline' href='https://github.com/tktb-tess/cll-site'>
-      Go to Repository
-    </LinkExt>
-  </footer>
+  <MyFooter />
   <ToTopBtn />
 </Head>
 
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    #drawer-backdrop {
-      @apply fixed z-1000 invisible data-drawer-open:visible inset-0 w-dvw h-dvh bg-transparent
-      data-drawer-open:bg-black/40 transition-[background-color,visibility];
-    }
+    main {
+      @apply flow-root lg:grid grid-cols-(--cols-main) *:min-w-0;
 
-    #drawer {
-      @apply -translate-x-full h-full w-64
-      cbg-side overflow-x-auto px-2 py-2 transition-transform;
-
-      [data-drawer-open] > & {
-        @apply translate-x-0;
+      > :where(aside) {
+        @apply hidden lg:block;
       }
-    }
 
-    #drawer-close-btn {
-      @apply block ms-auto p-2 hover:text-black/60 transition-colors;
-    }
+      > * > :where(.__sidebar-root) {
+        @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
+        top-[calc(var(--s-header)+.5rem)] z-0 px-1 py-2;
+      }
 
-    :global(:where(html, body):has([data-drawer-open])) {
-      @apply overflow-y-clip;
+      > :where(section) {
+        @apply flow-root cbg-bg px-4;
+      }
     }
   }
 </style>
-
-<script>
-  const drawerBackdrop = document.getElementById(
-    'drawer-backdrop',
-  ) as HTMLDivElement;
-  const drawerBtn = document.getElementById('drawer-btn') as HTMLButtonElement;
-  const drawerCloseBtn = document.getElementById(
-    'drawer-close-btn',
-  ) as HTMLButtonElement;
-  drawerBtn.addEventListener('click', () => {
-    drawerBackdrop.dataset.drawerOpen = '';
-
-    setTimeout(() => {
-      drawerCloseBtn.focus();
-    }, 10);
-  });
-
-  drawerBackdrop.addEventListener('click', (ev) => {
-    if (ev.target !== ev.currentTarget) return;
-    delete drawerBackdrop.dataset.drawerOpen;
-  });
-
-  drawerCloseBtn.addEventListener('click', () => {
-    delete drawerBackdrop.dataset.drawerOpen;
-  });
-</script>

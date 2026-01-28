@@ -1,0 +1,78 @@
+---
+import ListIcon from './ListIcon.svg';
+import CloseIcon from './CloseIcon.svg';
+import Sidemenu from './Sidemenu.astro';
+interface Props {
+  readonly url: string;
+}
+const { url } = Astro.props;
+---
+
+<button type='button' id='drawer-btn' title='Open sidemenu'>
+  <ListIcon class='size-6 inline-block' />
+</button>
+<div id='drawer-backdrop'>
+  <aside id='drawer'>
+    <button id='drawer-close-btn' type='button' title='Close sidemenu'>
+      <CloseIcon class='inline-block fill-current size-6' />
+    </button>
+    <Sidemenu currentUrl={url} />
+  </aside>
+</div>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer components {
+    #drawer-backdrop {
+      @apply fixed z-1000 invisible data-drawer-open:visible inset-0 w-dvw h-dvh bg-transparent
+      data-drawer-open:bg-black/40 transition-[background-color,visibility];
+    }
+
+    #drawer {
+      @apply -translate-x-full h-full w-64
+      cbg-side overflow-x-auto px-2 py-2 transition-transform;
+
+      :where([data-drawer-open]) > & {
+        @apply translate-x-0;
+      }
+    }
+
+    #drawer-close-btn {
+      @apply block ms-auto p-2 hover:text-black/60 transition-colors;
+    }
+
+    #drawer-btn {
+      @apply block lg:hidden fixed z-150 top-0 end-8 h-(--s-header) w-auto ms-auto hover:text-black/60 transition-colors;
+    }
+
+    :global(:where(html, body):has([data-drawer-open])) {
+      @apply overflow-y-clip;
+    }
+  }
+</style>
+
+<script>
+  const drawerBackdrop = document.getElementById(
+    'drawer-backdrop',
+  ) as HTMLDivElement;
+  const drawerBtn = document.getElementById('drawer-btn') as HTMLButtonElement;
+  const drawerCloseBtn = document.getElementById(
+    'drawer-close-btn',
+  ) as HTMLButtonElement;
+  drawerBtn.addEventListener('click', () => {
+    drawerBackdrop.dataset.drawerOpen = '';
+
+    setTimeout(() => {
+      drawerCloseBtn.focus();
+    }, 10);
+  });
+
+  drawerBackdrop.addEventListener('click', (ev) => {
+    if (ev.target !== ev.currentTarget) return;
+    delete drawerBackdrop.dataset.drawerOpen;
+  });
+
+  drawerCloseBtn.addEventListener('click', () => {
+    delete drawerBackdrop.dataset.drawerOpen;
+  });
+</script>

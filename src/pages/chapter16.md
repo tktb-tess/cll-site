@@ -35,7 +35,7 @@ There are Lojban words or phrases corresponding to the problematic English words
 
 This chapter will explore the Lojban mechanisms that allow the correct and consistent construction of sentences like those in the dialogue. There are no new grammatical constructs explained in this chapter; instead, it discusses the way in which existing facilities that allow Lojban-speakers to resolve problems like the above, using the concepts of modern logic. However, we will not approach the matter from the viewpoint of logicians, although readers who know something of logic will discover familiar notions in Lojban guise.
 
-Although Lojban is called a logical language, not every feature of it is “logical”. In particular, the use of *[le](/glossary/#le)* is incompatible with logical reasoning based on the description selbri, because that selbri may not truthfully apply: you cannot conclude from my statement that
+Although Lojban is called a logical language, not every feature of it is “logical”. In particular, the use of *[le](/glossary/?mode=exact&word=le)* is incompatible with logical reasoning based on the description selbri, because that selbri may not truthfully apply: you cannot conclude from my statement that
 
 ##### Example 16.6.
 
@@ -75,7 +75,7 @@ There are two plausible Lojban translations of [Example 16.7](/chapter16/#exampl
 
 :::
 
-The cmavo *[zo'e](/glossary/#zoe)* indicates that a sumti has been omitted (indeed, even *[zo'e](/glossary/#zoe)* itself can be omitted in this case, as explained in [Section 7.7](/chapter07/#section-zohe-cohe-series)) and the listener must fill in the correct value from context. In other words, [Example 16.8](/chapter16/#example-random-id-b9pV) means “‘You-know-what’ sees me.”
+The cmavo *[zo'e](/glossary/?mode=exact&word=zo%27e)* indicates that a sumti has been omitted (indeed, even *[zo'e](/glossary/?mode=exact&word=zo%27e)* itself can be omitted in this case, as explained in [Section 7.7](/chapter07/#section-zohe-cohe-series)) and the listener must fill in the correct value from context. In other words, [Example 16.8](/chapter16/#example-random-id-b9pV) means “‘You-know-what’ sees me.”
 
 However, [Example 16.7](/chapter16/#example-random-id-Mxj3) is just as likely to assert simply that there is someone who sees me, in which case a correct translation is:
 
@@ -92,7 +92,7 @@ However, [Example 16.7](/chapter16/#example-random-id-Mxj3) is just as likely to
 
 [Example 16.9](/chapter16/#example-169 "Example 16.9.") does not presuppose that the listener knows who sees the speaker, but simply tells the listener that there is someone who sees the speaker. Statements of this kind are called “existential claims”. (Formally, the one doing the seeing is not restricted to being a person; it could be an animal or – in principle – an inanimate object. We will see in [Section 16.4](/chapter16/#164-restricted-claims-da-poi "16.4. Restricted claims: da poi") how to represent such restrictions.)
 
-[Example 16.9](/chapter16/#example-169 "Example 16.9.") has a two-part structure: there is the part *da zo'u*, called the prenex, and the part *da viska mi*, the main bridi. Almost any Lojban bridi can be preceded by a prenex, which syntactically is any number of sumti followed by the cmavo *[zo'u](/glossary/#zou)* (of selma'o ZOhU). For the moment, the sumti will consist of one or more of the cmavo *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* (of selma'o KOhA), glossed in the literal translations as “X”, “Y”, and “Z” respectively. By analogy to the terminology of symbolic logic, these cmavo are called “variables”.
+[Example 16.9](/chapter16/#example-169 "Example 16.9.") has a two-part structure: there is the part *da zo'u*, called the prenex, and the part *da viska mi*, the main bridi. Almost any Lojban bridi can be preceded by a prenex, which syntactically is any number of sumti followed by the cmavo *[zo'u](/glossary/?mode=exact&word=zo%27u)* (of selma'o ZOhU). For the moment, the sumti will consist of one or more of the cmavo *[da](/glossary/?mode=exact&word=da)*, *[de](/glossary/?mode=exact&word=de)*, and *[di](/glossary/?mode=exact&word=di)* (of selma'o KOhA), glossed in the literal translations as “X”, “Y”, and “Z” respectively. By analogy to the terminology of symbolic logic, these cmavo are called “variables”.
 
 Here is an example of a prenex with two variables:
 
@@ -109,7 +109,7 @@ Here is an example of a prenex with two variables:
 
 Somebody loves somebody.
 
-In [Example 16.10](/chapter16/#example-1610 "Example 16.10."), the literal interpretation of the two variables *[da](/glossary/#da)* and *[de](/glossary/#de)* as “there-is-an-X” and “there-is-a-Y” tells us that there are two things which stand in the relationship that one loves the other. It might be the case that the supposed two things are really just a single thing that loves itself; nothing in the Lojban version of [Example 16.10](/chapter16/#example-1610 "Example 16.10.") rules out that interpretation, which is why the colloquial translation does not say “Somebody loves somebody else.” The things referred to by different variables may be different or the same. (We use “somebody” here rather than “something” for naturalness; lovers and beloveds are usually persons, though the Lojban does not say so.)
+In [Example 16.10](/chapter16/#example-1610 "Example 16.10."), the literal interpretation of the two variables *[da](/glossary/?mode=exact&word=da)* and *[de](/glossary/?mode=exact&word=de)* as “there-is-an-X” and “there-is-a-Y” tells us that there are two things which stand in the relationship that one loves the other. It might be the case that the supposed two things are really just a single thing that loves itself; nothing in the Lojban version of [Example 16.10](/chapter16/#example-1610 "Example 16.10.") rules out that interpretation, which is why the colloquial translation does not say “Somebody loves somebody else.” The things referred to by different variables may be different or the same. (We use “somebody” here rather than “something” for naturalness; lovers and beloveds are usually persons, though the Lojban does not say so.)
 
 It is perfectly all right for the variables to appear more than once in the main bridi:
 
@@ -156,7 +156,7 @@ It is not necessary for a variable to be a sumti of the main bridi directly:
 
 Somebody's dog sees me
 
-is perfectly correct even though the *[da](/glossary/#da)* is used only in a possessive construction. (Possessives are explained in [Section 8.7](/chapter08/#87-possessive-sumti "8.7. Possessive sumti").)
+is perfectly correct even though the *[da](/glossary/?mode=exact&word=da)* is used only in a possessive construction. (Possessives are explained in [Section 8.7](/chapter08/#87-possessive-sumti "8.7. Possessive sumti").)
 
 It is very peculiar, however, even if technically grammatical, for the variable not to appear in the main bridi at all:
 
@@ -198,7 +198,7 @@ The Lojban translation of [Example 16.15](/chapter16/#example-1615 "Example 16.1
 
 :::
 
-When the variable cmavo *[da](/glossary/#da)* is preceded by *[ro](/glossary/#ro)*, the combination means “For every X” rather than “There is an X”. Superficially, these English formulations look totally unrelated: [Section 16.6](/chapter16/#166-variables-with-generalized-quantifiers "16.6. Variables with generalized quantifiers") will bring them within a common viewpoint. For the moment, accept the use of *ro da* for “everything” on faith.
+When the variable cmavo *[da](/glossary/?mode=exact&word=da)* is preceded by *[ro](/glossary/?mode=exact&word=ro)*, the combination means “For every X” rather than “There is an X”. Superficially, these English formulations look totally unrelated: [Section 16.6](/chapter16/#166-variables-with-generalized-quantifiers "16.6. Variables with generalized quantifiers") will bring them within a common viewpoint. For the moment, accept the use of *ro da* for “everything” on faith.
 
 Here is a universal claim with two variables:
 
@@ -217,7 +217,7 @@ Everything loves everything.
 
 Again, X and Y can represent the same thing, so [Example 16.17](/chapter16/#example-1617 "Example 16.17.") does not mean “Everything loves everything else.” Furthermore, because the claim is universal, it is about every thing, not merely every person, so we cannot use “everyone” or “everybody” in the translation.
 
-Note that *[ro](/glossary/#ro)* appears before both *[da](/glossary/#da)* and *[de](/glossary/#de)*. If *[ro](/glossary/#ro)* is omitted before either variable, we get a mixed claim, partly existential like those of [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables"), partly universal.
+Note that *[ro](/glossary/?mode=exact&word=ro)* appears before both *[da](/glossary/?mode=exact&word=da)* and *[de](/glossary/?mode=exact&word=de)*. If *[ro](/glossary/?mode=exact&word=ro)* is omitted before either variable, we get a mixed claim, partly existential like those of [Section 16.2](/chapter16/#162-existential-claims-prenexes-and-variables "16.2. Existential claims, prenexes, and variables"), partly universal.
 
 ##### Example 16.18.
 
@@ -253,7 +253,7 @@ There are various possible translations of universal claims in English: sometime
 
 The universal claims of [Section 16.3](/chapter16/#163-universal-claims "16.3. Universal claims") are not only false but absurd: there is really very little to be said that is both true and non-trivial about every object whatsoever. Furthermore, we have been glossing over the distinction between “everything” and “everybody” and the other pairs ending in “-thing” and “-body”. It is time to bring up the most useful feature of Lojban variables: the ability to restrict their ranges.
 
-In Lojban, a variable *[da](/glossary/#da)*, *[de](/glossary/#de)*, or *[di](/glossary/#di)* may be followed by a *[poi](/glossary/#poi)* relative clause in order to restrict the range of things that the variable describes. Relative clauses are described in detail in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated"), but the kind we will need at present consist of *[poi](/glossary/#poi)* followed by a bridi (often just a selbri) terminated with *[ku'o](/glossary/#kuo)* or *[vau](/glossary/#vau)* (which can usually be elided). Consider the difference between
+In Lojban, a variable *[da](/glossary/?mode=exact&word=da)*, *[de](/glossary/?mode=exact&word=de)*, or *[di](/glossary/?mode=exact&word=di)* may be followed by a *[poi](/glossary/?mode=exact&word=poi)* relative clause in order to restrict the range of things that the variable describes. Relative clauses are described in detail in [Chapter 8](/chapter08/ "Chapter 8. Relative Clauses, Which Make sumti Even More Complicated"), but the kind we will need at present consist of *[poi](/glossary/?mode=exact&word=poi)* followed by a bridi (often just a selbri) terminated with *[ku'o](/glossary/?mode=exact&word=ku%27o)* or *[vau](/glossary/?mode=exact&word=vau)* (which can usually be elided). Consider the difference between
 
 ##### Example 16.20.
 
@@ -283,7 +283,7 @@ and
 
 Someone sees Jim.
 
-In [Example 16.20](/chapter16/#example-1620 "Example 16.20."), the variable *[da](/glossary/#da)* can refer to any object whatever; there are no restrictions on it. In [Example 16.21](/chapter16/#example-1621 "Example 16.21."), *[da](/glossary/#da)* is restricted by the *poi prenu* relative clause to persons only, and so *da poi prenu* translates as “someone.” (The difference between “someone” and “somebody” is a matter of English style, with no real counterpart in Lojban.) If [Example 16.21](/chapter16/#example-1621 "Example 16.21.") is true, then [Example 16.20](/chapter16/#example-1620 "Example 16.20.") must be true, but not necessarily vice versa.
+In [Example 16.20](/chapter16/#example-1620 "Example 16.20."), the variable *[da](/glossary/?mode=exact&word=da)* can refer to any object whatever; there are no restrictions on it. In [Example 16.21](/chapter16/#example-1621 "Example 16.21."), *[da](/glossary/?mode=exact&word=da)* is restricted by the *poi prenu* relative clause to persons only, and so *da poi prenu* translates as “someone.” (The difference between “someone” and “somebody” is a matter of English style, with no real counterpart in Lojban.) If [Example 16.21](/chapter16/#example-1621 "Example 16.21.") is true, then [Example 16.20](/chapter16/#example-1620 "Example 16.20.") must be true, but not necessarily vice versa.
 
 Universal claims benefit even more from the existence of relative clauses. Consider
 
@@ -336,7 +336,7 @@ Some dog breathes.
 
 ## 16.5. Dropping the prenex
 
-It isn't really necessary for every Lojban bridi involving variables to have a prenex on the front. In fact, none of the examples we've seen so far required prenexes at all! The rule for dropping the prenex is simple: if the variables appear in the same order within the bridi as they did in the prenex, then the prenex is superfluous. However, any *[ro](/glossary/#ro)* or *[poi](/glossary/#poi)* appearing in the prenex must be transferred to the first occurrence of the variable in the main part of the bridi. Thus, [Example 16.9](/chapter16/#example-169 "Example 16.9.") becomes just:
+It isn't really necessary for every Lojban bridi involving variables to have a prenex on the front. In fact, none of the examples we've seen so far required prenexes at all! The rule for dropping the prenex is simple: if the variables appear in the same order within the bridi as they did in the prenex, then the prenex is superfluous. However, any *[ro](/glossary/?mode=exact&word=ro)* or *[poi](/glossary/?mode=exact&word=poi)* appearing in the prenex must be transferred to the first occurrence of the variable in the main part of the bridi. Thus, [Example 16.9](/chapter16/#example-169 "Example 16.9.") becomes just:
 
 ##### Example 16.25.
 
@@ -384,13 +384,13 @@ You might well suppose, then, that the purpose of the prenex is to allow the var
 | poi   | gerku    | ku'o | zo'u | de  | batci | da  |
 | which | is-a-dog |      | :    | Y   | bites | X.  |
 
-The prenex of [Example 16.27](/chapter16/#example-1627 "Example 16.27.") is like that of [Example 16.18](/chapter16/#example-1618 "Example 16.18.") (but with relative clauses): it notes that the following bridi is true of every person with respect to some dog, not necessarily the same dog for each. But in the main bridi part, the *[de](/glossary/#de)* appears before the *[da](/glossary/#da)*. Therefore, the true translation is
+The prenex of [Example 16.27](/chapter16/#example-1627 "Example 16.27.") is like that of [Example 16.18](/chapter16/#example-1618 "Example 16.18.") (but with relative clauses): it notes that the following bridi is true of every person with respect to some dog, not necessarily the same dog for each. But in the main bridi part, the *[de](/glossary/?mode=exact&word=de)* appears before the *[da](/glossary/?mode=exact&word=da)*. Therefore, the true translation is
 
 ##### Example 16.28.
 
 Every person is bitten by some dog (or other).
 
-If we tried to omit the prenex and move the *[ro](/glossary/#ro)* and the relative clauses into the main bridi, we would get:
+If we tried to omit the prenex and move the *[ro](/glossary/?mode=exact&word=ro)* and the relative clauses into the main bridi, we would get:
 
 ##### Example 16.29.
 
@@ -422,9 +422,9 @@ How can we express [Example 16.27](/chapter16/#example-1627 "Example 16.27.") in
 
 :::
 
-using the conversion operator *[se](/glossary/#se)* (explained in [Section 5.11](/chapter05/#511-conversion-of-simple-selbri "5.11. Conversion of simple selbri")) to change the selbri *[batci](/glossary/#batci)* (“bites”) into *se batci* (“is bitten by”). The translation given in [Example 16.28](/chapter16/#example-1628 "Example 16.28.") uses the corresponding strategy in English, since English does not have prenexes (except in strained “logician's English”). This implies that a sentence with both a universal and an existential variable can't be freely converted with *[se](/glossary/#se)*; one must be careful to preserve the order of the variables.
+using the conversion operator *[se](/glossary/?mode=exact&word=se)* (explained in [Section 5.11](/chapter05/#511-conversion-of-simple-selbri "5.11. Conversion of simple selbri")) to change the selbri *[batci](/glossary/?mode=exact&word=batci)* (“bites”) into *se batci* (“is bitten by”). The translation given in [Example 16.28](/chapter16/#example-1628 "Example 16.28.") uses the corresponding strategy in English, since English does not have prenexes (except in strained “logician's English”). This implies that a sentence with both a universal and an existential variable can't be freely converted with *[se](/glossary/?mode=exact&word=se)*; one must be careful to preserve the order of the variables.
 
-If a variable occurs more than once, then any *[ro](/glossary/#ro)* or *[poi](/glossary/#poi)* decorations are moved only to the first occurrence of the variable when the prenex is dropped. For example,
+If a variable occurs more than once, then any *[ro](/glossary/?mode=exact&word=ro)* or *[poi](/glossary/?mode=exact&word=poi)* decorations are moved only to the first occurrence of the variable when the prenex is dropped. For example,
 
 ##### Example 16.31.
 
@@ -444,7 +444,7 @@ If a variable occurs more than once, then any *[ro](/glossary/#ro)* or *[poi](/g
 
 This is a weapon for someone to use against himself/herself.
 
-(in which *[di](/glossary/#di)* is used rather than *[da](/glossary/#da)* just for variety) loses its prenex as follows:
+(in which *[di](/glossary/?mode=exact&word=di)* is used rather than *[da](/glossary/?mode=exact&word=da)* just for variety) loses its prenex as follows:
 
 ##### Example 16.32.
 
@@ -461,7 +461,7 @@ As the examples in this section show, dropping the prenex makes for terseness of
 
 ## 16.6. Variables with generalized quantifiers
 
-So far, we have seen variables with either nothing in front, or with the cmavo *[ro](/glossary/#ro)* in front. Now *[ro](/glossary/#ro)* is a Lojban number, and means “all”; thus *ro prenu* means “all persons”, just as *re prenu* means “two persons”. In fact, unadorned *[da](/glossary/#da)* is also taken to have an implicit number in front of it, namely *[su'o](/glossary/#suo)*, which means “at least one”. Why is this? Consider [Example 16.9](/chapter16/#example-169 "Example 16.9.") again, this time with an explicit *[su'o](/glossary/#suo)*:
+So far, we have seen variables with either nothing in front, or with the cmavo *[ro](/glossary/?mode=exact&word=ro)* in front. Now *[ro](/glossary/?mode=exact&word=ro)* is a Lojban number, and means “all”; thus *ro prenu* means “all persons”, just as *re prenu* means “two persons”. In fact, unadorned *[da](/glossary/?mode=exact&word=da)* is also taken to have an implicit number in front of it, namely *[su'o](/glossary/?mode=exact&word=su%27o)*, which means “at least one”. Why is this? Consider [Example 16.9](/chapter16/#example-169 "Example 16.9.") again, this time with an explicit *[su'o](/glossary/?mode=exact&word=su%27o)*:
 
 ##### Example 16.33.
 
@@ -478,7 +478,7 @@ Something sees me.
 
 From this version of [Example 16.9](/chapter16/#example-169 "Example 16.9."), we understand the speaker's claim to be that of all the things that there are, at least one of them sees him or her. The corresponding universal claim, [Example 16.16](/chapter16/#example-1616 "Example 16.16."), says that of all the things that exist, every one of them can see the speaker.
 
-Any other number can be used instead of *[ro](/glossary/#ro)* or *[su'o](/glossary/#suo)* to precede a variable. Then we get claims like:
+Any other number can be used instead of *[ro](/glossary/?mode=exact&word=ro)* or *[su'o](/glossary/?mode=exact&word=su%27o)* to precede a variable. Then we get claims like:
 
 ##### Example 16.34.
 
@@ -506,7 +506,7 @@ This means that exactly two things, no more or less, saw the speaker on the rele
 
 :::
 
-which would be false if nothing, or only one thing, saw the speaker, but not otherwise. We note the *[su'o](/glossary/#suo)* here meaning “at least”; *[su'o](/glossary/#suo)* by itself is short for *su'opa* where *[pa](/glossary/#pa)* means “one”, as is explained in [Section 18.9](/chapter18/#189-approximation-and-inexact-numbers "18.9. Approximation and inexact numbers").
+which would be false if nothing, or only one thing, saw the speaker, but not otherwise. We note the *[su'o](/glossary/?mode=exact&word=su%27o)* here meaning “at least”; *[su'o](/glossary/?mode=exact&word=su%27o)* by itself is short for *su'opa* where *[pa](/glossary/?mode=exact&word=pa)* means “one”, as is explained in [Section 18.9](/chapter18/#189-approximation-and-inexact-numbers "18.9. Approximation and inexact numbers").
 
 The prenex may be removed from [Example 16.34](/chapter16/#example-1634 "Example 16.34.") and [Example 16.35](/chapter16/#example-1635 "Example 16.35.") as from the others, leading to:
 
@@ -536,7 +536,7 @@ and
 
 respectively, subject to the rules prescribed in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping the prenex").
 
-Now we can explain the constructions *ro prenu* for “all persons” and *re prenu* for “two persons” which were casually mentioned at the beginning of this Section. In fact, *ro prenu*, a so-called “indefinite description”, is shorthand for *ro DA poi prenu*, where “DA” represents a fictitious variable that hasn't been used yet and will not be used in future. (Even if all three of *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* have been used up, it does not matter, for there are ways of getting more variables, discussed in [Section 16.14](/chapter16/#1614-a-few-notes-on-variables "16.14. A few notes on variables").) So in fact
+Now we can explain the constructions *ro prenu* for “all persons” and *re prenu* for “two persons” which were casually mentioned at the beginning of this Section. In fact, *ro prenu*, a so-called “indefinite description”, is shorthand for *ro DA poi prenu*, where “DA” represents a fictitious variable that hasn't been used yet and will not be used in future. (Even if all three of *[da](/glossary/?mode=exact&word=da)*, *[de](/glossary/?mode=exact&word=de)*, and *[di](/glossary/?mode=exact&word=di)* have been used up, it does not matter, for there are ways of getting more variables, discussed in [Section 16.14](/chapter16/#1614-a-few-notes-on-variables "16.14. A few notes on variables").) So in fact
 
 ##### Example 16.38.
 
@@ -579,7 +579,7 @@ Note that when we move more than one variable to the prenex (along with its atta
 
 ## 16.7. Grouping of quantifiers
 
-Let us consider a sentence containing two quantifier expressions neither of which is *[ro](/glossary/#ro)* or *[su'o](/glossary/#suo)* (remembering that *[su'o](/glossary/#suo)* is implicit where no explicit quantifier is given):
+Let us consider a sentence containing two quantifier expressions neither of which is *[ro](/glossary/?mode=exact&word=ro)* or *[su'o](/glossary/?mode=exact&word=su%27o)* (remembering that *[su'o](/glossary/?mode=exact&word=su%27o)* is implicit where no explicit quantifier is given):
 
 ##### Example 16.41.
 
@@ -605,7 +605,7 @@ The question raised by [Example 16.41](/chapter16/#example-1641 "Example 16.41."
 
 :::
 
-(Note that we need separate variables *[da](/glossary/#da)* and *[de](/glossary/#de)*, because of the rule that says each indefinite description gets a variable never used before or since.)
+(Note that we need separate variables *[da](/glossary/?mode=exact&word=da)* and *[de](/glossary/?mode=exact&word=de)*, because of the rule that says each indefinite description gets a variable never used before or since.)
 
 ##### Example 16.43.
 
@@ -645,7 +645,7 @@ How then are we to express the other interpretation, in which just two men are i
 
 for although we have now limited the number of men to exactly two, we end up with an indeterminate number of dogs, from three to six. The distinction is called a “scope distinction”: in [Example 16.42](/chapter16/#example-1642 "Example 16.42."), *ci gerku* is said to have wider scope than *re nanmu*, and therefore precedes it in the prenex. In [Example 16.44](/chapter16/#example-1644 "Example 16.44.") the reverse is true.
 
-The solution is to use a termset, which is a group of terms either joined by *[ce'e](/glossary/#cee)* (of selma'o CEhE) between each term, or else surrounded by *[nu'i](/glossary/#nui)* (of selma'o NUhI) on the front and *[nu'u](/glossary/#nuu)* (of selma'o NUhU) on the rear. Terms (which are either sumti or sumti prefixed by tense or modal tags) that are grouped into a termset are understood to have equal scope:
+The solution is to use a termset, which is a group of terms either joined by *[ce'e](/glossary/?mode=exact&word=ce%27e)* (of selma'o CEhE) between each term, or else surrounded by *[nu'i](/glossary/?mode=exact&word=nu%27i)* (of selma'o NUhI) on the front and *[nu'u](/glossary/?mode=exact&word=nu%27u)* (of selma'o NUhU) on the rear. Terms (which are either sumti or sumti prefixed by tense or modal tags) that are grouped into a termset are understood to have equal scope:
 
 ##### Example 16.45.
 
@@ -659,9 +659,9 @@ The solution is to use a termset, which is a group of terms either joined by *[c
 
 :::
 
-which picks out two groups, one of three dogs and the other of two men, and says that every one of the dogs bites each of the men. The second Lojban version uses forethought; note that *[nu'u](/glossary/#nuu)* is an elidable terminator, and in this case can be freely elided.
+which picks out two groups, one of three dogs and the other of two men, and says that every one of the dogs bites each of the men. The second Lojban version uses forethought; note that *[nu'u](/glossary/?mode=exact&word=nu%27u)* is an elidable terminator, and in this case can be freely elided.
 
-What about descriptors, like *ci lo gerku*, *le nanmu* or *re le ci mlatu*? They too can be grouped in termsets, but usually need not be, except for the *[lo](/glossary/#lo)* case which functions like the case without a descriptor. Unless an actual quantifier precedes it, *le nanmu* means *ro le nanmu*, as is explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Two sumti with *[ro](/glossary/#ro)* quantifiers are independent of order, so:
+What about descriptors, like *ci lo gerku*, *le nanmu* or *re le ci mlatu*? They too can be grouped in termsets, but usually need not be, except for the *[lo](/glossary/?mode=exact&word=lo)* case which functions like the case without a descriptor. Unless an actual quantifier precedes it, *le nanmu* means *ro le nanmu*, as is explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Two sumti with *[ro](/glossary/?mode=exact&word=ro)* quantifiers are independent of order, so:
 
 ##### Example 16.46.
 
@@ -674,7 +674,7 @@ What about descriptors, like *ci lo gerku*, *le nanmu* or *re le ci mlatu*? They
 
 :::
 
-means that each of the dogs specified bites each of the men specified, for six acts of biting altogether. However, if there is an explicit quantifier before *[le](/glossary/#le)* other than *[ro](/glossary/#ro)*, the problems of this section reappear.
+means that each of the dogs specified bites each of the men specified, for six acts of biting altogether. However, if there is an explicit quantifier before *[le](/glossary/?mode=exact&word=le)* other than *[ro](/glossary/?mode=exact&word=ro)*, the problems of this section reappear.
 
 ## 16.8. The problem of “any”
 
@@ -699,7 +699,7 @@ Using the facilities already discussed, a plausible translation might be
 
 Everyone who goes to the store walks across the field.
 
-But there is a subtle difference between [Example 16.47](/chapter16/#example-1647 "Example 16.47.") and [Example 16.48](/chapter16/#example-1648 "Example 16.48."). [Example 16.48](/chapter16/#example-1648 "Example 16.48.") tells us that, in fact, there are people who go to the store, and that they walk across the field. A sumti of the type *ro da poi klama* requires that there are things which *[klama](/glossary/#klama)*: Lojban universal claims always imply the corresponding existential claims as well. [Example 16.47](/chapter16/#example-1647 "Example 16.47."), on the other hand, does not require that there are any people who go to the store: it simply states, conditionally, that if there is anyone who goes to the store, he or she walks across the field as well. This conditional form mirrors the true Lojban translation of [Example 16.47](/chapter16/#example-1647 "Example 16.47."):
+But there is a subtle difference between [Example 16.47](/chapter16/#example-1647 "Example 16.47.") and [Example 16.48](/chapter16/#example-1648 "Example 16.48."). [Example 16.48](/chapter16/#example-1648 "Example 16.48.") tells us that, in fact, there are people who go to the store, and that they walk across the field. A sumti of the type *ro da poi klama* requires that there are things which *[klama](/glossary/?mode=exact&word=klama)*: Lojban universal claims always imply the corresponding existential claims as well. [Example 16.47](/chapter16/#example-1647 "Example 16.47."), on the other hand, does not require that there are any people who go to the store: it simply states, conditionally, that if there is anyone who goes to the store, he or she walks across the field as well. This conditional form mirrors the true Lojban translation of [Example 16.47](/chapter16/#example-1647 "Example 16.47."):
 
 ##### Example 16.49.
 
@@ -751,7 +751,7 @@ does not work either, because it asserts that there really is such a box, as the
 
 :::
 
-What to do? Well, the x2 place of *[nitcu](/glossary/#nitcu)* can be filled with an event as well as an object, and in fact [Example 16.51](/chapter16/#example-1651 "Example 16.51.") can also be paraphrased as:
+What to do? Well, the x2 place of *[nitcu](/glossary/?mode=exact&word=nitcu)* can be filled with an event as well as an object, and in fact [Example 16.51](/chapter16/#example-1651 "Example 16.51.") can also be paraphrased as:
 
 ##### Example 16.53.
 
@@ -810,7 +810,7 @@ So we see that a prenex can be attached to a bridi that is within a sentence. By
 | mi  | nitcu | le  | nu       | mi  | ponse      | da  |
 | I   | need  | the | event-of | my  | possessing | X.  |
 
-But what are the implications of [Example 16.53](/chapter16/#example-1653 "Example 16.53.") and [Example 16.55](/chapter16/#example-1655 "Example 16.55.")? The main difference is that in [Example 16.55](/chapter16/#example-1655 "Example 16.55."), the *[da](/glossary/#da)* is said to exist in the real world of the outer bridi; but in [Example 16.53](/chapter16/#example-1653 "Example 16.53."), the existence is only within the inner bridi, which is a mere event that need not necessarily come to pass. So [Example 16.55](/chapter16/#example-1655 "Example 16.55.") means
+But what are the implications of [Example 16.53](/chapter16/#example-1653 "Example 16.53.") and [Example 16.55](/chapter16/#example-1655 "Example 16.55.")? The main difference is that in [Example 16.55](/chapter16/#example-1655 "Example 16.55."), the *[da](/glossary/?mode=exact&word=da)* is said to exist in the real world of the outer bridi; but in [Example 16.53](/chapter16/#example-1653 "Example 16.53."), the existence is only within the inner bridi, which is a mere event that need not necessarily come to pass. So [Example 16.55](/chapter16/#example-1655 "Example 16.55.") means
 
 ##### Example 16.56.
 
@@ -822,7 +822,7 @@ which is what [Example 16.52](/chapter16/#example-1652 "Example 16.52.") says, w
 
 This section, as well as [Section 16.10](/chapter16/#1610-bridi-negation-and-logical-connectives "16.10. bridi negation and logical connectives") through [Section 16.12](/chapter16/#1612-logical-connectives-and-demorgans-law "16.12. Logical Connectives and DeMorgan's Law"), are in effect a continuation of [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation"), introducing features of Lojban negation that require an understanding of prenexes and variables. In the examples below, “there is a Y” and the like must be understood as “there is at least one Y, possibly more”.
 
-As explained in [Section 15.2](/chapter15/#152-bridi-negation "15.2. bridi negation"), the negation of a bridi is usually accomplished by inserting *[na](/glossary/#na)* at the beginning of the selbri:
+As explained in [Section 15.2](/chapter15/#152-bridi-negation "15.2. bridi negation"), the negation of a bridi is usually accomplished by inserting *[na](/glossary/?mode=exact&word=na)* at the beginning of the selbri:
 
 ##### Example 16.57.
 
@@ -840,7 +840,7 @@ It is false that I go to the store.
 
 The other form of bridi negation is expressed by using the compound cmavo *naku* in the prenex, which is identified and compounded by the lexer before looking at the sentence grammar. In Lojban grammar, *naku* is then treated like a sumti. In a prenex, *naku* means precisely the same thing as the logician's “it is not the case that” in a similar English context. (Outside of a prenex, *naku* is also grammatically treated as a single entity – the equivalent of a sumti – but does not have this exact meaning; we'll discuss these other situations in [Section 16.11](/chapter16/#1611-using-naku-outside-a-prenex "16.11. Using naku outside a prenex").)
 
-To represent a bridi negation using a prenex, remove the *[na](/glossary/#na)* from before the selbri and place *naku* at the left end of the prenex. This form is called “external bridi negation”, as opposed to “internal bridi negation” using *[na](/glossary/#na)*. The prenex version of [Example 16.57](/chapter16/#example-1657 "Example 16.57.") is
+To represent a bridi negation using a prenex, remove the *[na](/glossary/?mode=exact&word=na)* from before the selbri and place *naku* at the left end of the prenex. This form is called “external bridi negation”, as opposed to “internal bridi negation” using *[na](/glossary/?mode=exact&word=na)*. The prenex version of [Example 16.57](/chapter16/#example-1657 "Example 16.57.") is
 
 ##### Example 16.58.
 
@@ -951,7 +951,7 @@ It is false that: there is at least one thing that is loved by everybody.
 
 the negation of [Example 16.62](/chapter16/#example-1662 "Example 16.62.").
 
-The rules of formal logic require that, to move a negation boundary within a prenex, you must “invert any quantifier” that the negation boundary passes across. Inverting a quantifier means that any *[ro](/glossary/#ro)* (all) is changed to *[su'o](/glossary/#suo)* (at least one) and vice versa. Thus, [Example 16.63](/chapter16/#example-1663 "Example 16.63.") and [Example 16.64](/chapter16/#example-1664 "Example 16.64.") can be restated as, respectively:
+The rules of formal logic require that, to move a negation boundary within a prenex, you must “invert any quantifier” that the negation boundary passes across. Inverting a quantifier means that any *[ro](/glossary/?mode=exact&word=ro)* (all) is changed to *[su'o](/glossary/?mode=exact&word=su%27o)* (at least one) and vice versa. Thus, [Example 16.63](/chapter16/#example-1663 "Example 16.63.") and [Example 16.64](/chapter16/#example-1664 "Example 16.64.") can be restated as, respectively:
 
 ##### Example 16.65.
 
@@ -1013,7 +1013,7 @@ For each thing there is someone who doesn't love it.
 
 Investigation will show that, indeed, each transformation preserves the meanings of [Example 16.63](/chapter16/#example-1663 "Example 16.63.") and [Example 16.64](/chapter16/#example-1664 "Example 16.64.").
 
-The quantifier *[no](/glossary/#no)* (meaning “zero of”) also involves a negation boundary. To transform a bridi containing a variable quantified with *[no](/glossary/#no)*, we must first expand it. Consider
+The quantifier *[no](/glossary/?mode=exact&word=no)* (meaning “zero of”) also involves a negation boundary. To transform a bridi containing a variable quantified with *[no](/glossary/?mode=exact&word=no)*, we must first expand it. Consider
 
 ##### Example 16.69.
 
@@ -1043,7 +1043,7 @@ which is negated by:
 
 It is false that there is nobody who loves everything.
 
-We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by transforming the prenex. To move the negation phrase within the prenex, we must first expand the *[no](/glossary/#no)* quantifier. Thus “for no x” means the same thing as “it is false for some x”, and the corresponding Lojban *[noda](/glossary/#noda)* can be replaced by *naku su'oda*. Making this substitution, we get:
+We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by transforming the prenex. To move the negation phrase within the prenex, we must first expand the *[no](/glossary/?mode=exact&word=no)* quantifier. Thus “for no x” means the same thing as “it is false for some x”, and the corresponding Lojban *[noda](/glossary/?mode=exact&word=noda)* can be replaced by *naku su'oda*. Making this substitution, we get:
 
 ##### Example 16.71.
 
@@ -1088,17 +1088,17 @@ A complete discussion of logical connectives appears in [Chapter 14](/chapter14/
 
 A logical connective is a cmavo or compound cmavo. In this chapter, we will make use of the logical connectives “and” and “or” (where “or” really means “and/or”, “either or both”). The following simplified recipes explain how to make some logical connectives:
 
-- To logically connect two Lojban sumti with “and”, put them both in the bridi and separate them with the cmavo *[e](/glossary/#e)*.
+- To logically connect two Lojban sumti with “and”, put them both in the bridi and separate them with the cmavo *[e](/glossary/?mode=exact&word=e)*.
 
-- To logically connect two Lojban bridi with “and”, replace the regular separator cmavo *[i](/glossary/#i)* with the compound cmavo *[.ije](/glossary/#ije)*.
+- To logically connect two Lojban bridi with “and”, replace the regular separator cmavo *[i](/glossary/?mode=exact&word=i)* with the compound cmavo *[.ije](/glossary/?mode=exact&word=ije)*.
 
-- To logically connect two Lojban sumti with “or”, put them both in the bridi and separate them with the cmavo *[a](/glossary/#a)*.
+- To logically connect two Lojban sumti with “or”, put them both in the bridi and separate them with the cmavo *[a](/glossary/?mode=exact&word=a)*.
 
-- To logically connect two Lojban bridi with “or”, replace the regular separator cmavo *[i](/glossary/#i)* with the compound cmavo *[.ija](/glossary/#ija)*.
+- To logically connect two Lojban bridi with “or”, replace the regular separator cmavo *[i](/glossary/?mode=exact&word=i)* with the compound cmavo *[.ija](/glossary/?mode=exact&word=ija)*.
 
-More complex logical connectives also exist; in particular, one may place *[na](/glossary/#na)* before *[e](/glossary/#e)* or *[a](/glossary/#a)*, or between *[i](/glossary/#i)* and *[je](/glossary/#je)* or *[ja](/glossary/#ja)*; likewise, one may place *[nai](/glossary/#nai)* at the end of a connective. Both *[na](/glossary/#na)* and *[nai](/glossary/#nai)* have negative effects on the sumti or bridi being connected. Specifically, *[na](/glossary/#na)* negates the first or left-hand sumti or bridi, and *[nai](/glossary/#nai)* negates the second or right-hand one.
+More complex logical connectives also exist; in particular, one may place *[na](/glossary/?mode=exact&word=na)* before *[e](/glossary/?mode=exact&word=e)* or *[a](/glossary/?mode=exact&word=a)*, or between *[i](/glossary/?mode=exact&word=i)* and *[je](/glossary/?mode=exact&word=je)* or *[ja](/glossary/?mode=exact&word=ja)*; likewise, one may place *[nai](/glossary/?mode=exact&word=nai)* at the end of a connective. Both *[na](/glossary/?mode=exact&word=na)* and *[nai](/glossary/?mode=exact&word=nai)* have negative effects on the sumti or bridi being connected. Specifically, *[na](/glossary/?mode=exact&word=na)* negates the first or left-hand sumti or bridi, and *[nai](/glossary/?mode=exact&word=nai)* negates the second or right-hand one.
 
-Whenever a logical connective occurs in a sentence, that sentence can be expanded into two sentences by repeating the common terms and joining the sentences by a logical connective beginning with *[i](/glossary/#i)*. Thus the following sentence:
+Whenever a logical connective occurs in a sentence, that sentence can be expanded into two sentences by repeating the common terms and joining the sentences by a logical connective beginning with *[i](/glossary/?mode=exact&word=i)*. Thus the following sentence:
 
 ##### Example 16.73.
 
@@ -1128,7 +1128,7 @@ can be expanded to:
 
 I come here, and, you come here.
 
-The same type of expansion can be performed for any logical connective, with any valid combination of *[na](/glossary/#na)* or *[nai](/glossary/#nai)* attached. No change in meaning occurs under such a transformation.
+The same type of expansion can be performed for any logical connective, with any valid combination of *[na](/glossary/?mode=exact&word=na)* or *[nai](/glossary/?mode=exact&word=nai)* attached. No change in meaning occurs under such a transformation.
 
 Clearly, if we know what negation means in the expanded sentence forms, then we know what it means in all of the other forms. But what does negation mean between sentences?
 
@@ -1180,7 +1180,7 @@ and then into prenex form as:
 
 For each thing: I love it, and it is false that you love (the same) it.
 
-By the rules of predicate logic, the *[ro](/glossary/#ro)* quantifier on *[da](/glossary/#da)* has scope over both sentences. That is, once you've picked a value for *[da](/glossary/#da)* for the first sentence, it stays the same for both sentences. (The *[da](/glossary/#da)* continues with the same fixed value until a new paragraph or a new prenex resets the meaning.)
+By the rules of predicate logic, the *[ro](/glossary/?mode=exact&word=ro)* quantifier on *[da](/glossary/?mode=exact&word=da)* has scope over both sentences. That is, once you've picked a value for *[da](/glossary/?mode=exact&word=da)* for the first sentence, it stays the same for both sentences. (The *[da](/glossary/?mode=exact&word=da)* continues with the same fixed value until a new paragraph or a new prenex resets the meaning.)
 
 Thus the following example has the indicated translation:
 
@@ -1206,7 +1206,7 @@ If you remember only two rules for prenex manipulation of negations, you won't g
 
 - Within a prenex, whenever you move *naku* past a bound variable (da, de, di, etc.), you must invert the quantifier.
 
-- A *[na](/glossary/#na)* before the selbri is always transformed into a *naku* at the left-hand end of the prenex, and vice versa.
+- A *[na](/glossary/?mode=exact&word=na)* before the selbri is always transformed into a *naku* at the left-hand end of the prenex, and vice versa.
 
 ## 16.11. Using *naku* outside a prenex
 
@@ -1216,7 +1216,7 @@ Let us consider the English sentence
 
 Some children do not go to school.
 
-We cannot express this directly with *[na](/glossary/#na)*; the apparently obvious translation
+We cannot express this directly with *[na](/glossary/?mode=exact&word=na)*; the apparently obvious translation
 
 ##### Example 16.80.
 
@@ -1254,7 +1254,7 @@ when converted to the external negation form produces:
 
 All children don't go to some school (not just some children).
 
-Lojban provides a negation form which more closely emulates natural language negation. This involves putting *naku* before the selbri, instead of a *[na](/glossary/#na)*. *naku* is clearly a contradictory negation, given its parallel with prenex bridi negation. Using *naku*, [Example 16.79](/chapter16/#example-1679 "Example 16.79.") can be expressed as:
+Lojban provides a negation form which more closely emulates natural language negation. This involves putting *naku* before the selbri, instead of a *[na](/glossary/?mode=exact&word=na)*. *naku* is clearly a contradictory negation, given its parallel with prenex bridi negation. Using *naku*, [Example 16.79](/chapter16/#example-1679 "Example 16.79.") can be expressed as:
 
 ##### Example 16.82.
 
@@ -1309,7 +1309,7 @@ Some children don't go to (some) school(s).
 
 It is false that all children go to some school(s).
 
-In [Example 16.83](/chapter16/#example-1683 "Example 16.83."), we moved the negation boundary rightward across the quantifier of *[de](/glossary/#de)*, forcing us to invert it. In [Example 16.85](/chapter16/#example-1685 "Example 16.85.") we moved the negation boundary across the quantifier of *[da](/glossary/#da)*, forcing us to invert it instead. [Example 16.84](/chapter16/#example-1684 "Example 16.84.") merely switched the selbri and the negation boundary, with no effect on the quantifiers.
+In [Example 16.83](/chapter16/#example-1683 "Example 16.83."), we moved the negation boundary rightward across the quantifier of *[de](/glossary/?mode=exact&word=de)*, forcing us to invert it. In [Example 16.85](/chapter16/#example-1685 "Example 16.85.") we moved the negation boundary across the quantifier of *[da](/glossary/?mode=exact&word=da)*, forcing us to invert it instead. [Example 16.84](/chapter16/#example-1684 "Example 16.84.") merely switched the selbri and the negation boundary, with no effect on the quantifiers.
 
 The same rules apply if you rearrange the sentence so that the quantifier crosses an otherwise fixed negation. You can't just convert the selbri of [Example 16.82](/chapter16/#example-1682 "Example 16.82.") and rearrange the sumti to produce
 
@@ -1325,7 +1325,7 @@ The same rules apply if you rearrange the sentence so that the quantifier crosse
 
 Some schools aren't gone-to-by every child.
 
-or rather, [Example 16.86](/chapter16/#example-1686 "Example 16.86.") means something completely different from [Example 16.82](/chapter16/#example-1682 "Example 16.82."). Conversion with *[se](/glossary/#se)* under *naku* negation is not symmetric; not all sumti are treated identically, and some sumti are not invariant under conversion. Thus, internal negation with *naku* is considered an advanced technique, used to achieve stylistic compatibility with natural languages.
+or rather, [Example 16.86](/chapter16/#example-1686 "Example 16.86.") means something completely different from [Example 16.82](/chapter16/#example-1682 "Example 16.82."). Conversion with *[se](/glossary/?mode=exact&word=se)* under *naku* negation is not symmetric; not all sumti are treated identically, and some sumti are not invariant under conversion. Thus, internal negation with *naku* is considered an advanced technique, used to achieve stylistic compatibility with natural languages.
 
 It isn't always easy to see which quantifiers have to be inverted in a sentence. [Example 16.82](/chapter16/#example-1682 "Example 16.82.") is identical in meaning to:
 
@@ -1340,9 +1340,9 @@ It isn't always easy to see which quantifiers have to be inverted in a sentence.
 
 :::
 
-but in [Example 16.87](/chapter16/#example-1687 "Example 16.87."), the bound variables *[da](/glossary/#da)* and *[de](/glossary/#de)* have been hidden.
+but in [Example 16.87](/chapter16/#example-1687 "Example 16.87."), the bound variables *[da](/glossary/?mode=exact&word=da)* and *[de](/glossary/?mode=exact&word=de)* have been hidden.
 
-It is trivial to export an internal bridi negation expressed with *[na](/glossary/#na)* to the prenex, as we saw in [Section 16.9](/chapter16/#169-negation-boundaries "16.9. Negation boundaries"); you just move it to the left end of the prenex. In comparison, it is non-trivial to export a *naku* to the prenex because of the quantifiers. The rules for exporting *naku* require that you export all of the quantified variables (implicit or explicit) along with *naku*, and you must export them from left to right, in the same order that they appear in the sentence. Thus [Example 16.82](/chapter16/#example-1682 "Example 16.82.") goes into prenex form as:
+It is trivial to export an internal bridi negation expressed with *[na](/glossary/?mode=exact&word=na)* to the prenex, as we saw in [Section 16.9](/chapter16/#169-negation-boundaries "16.9. Negation boundaries"); you just move it to the left end of the prenex. In comparison, it is non-trivial to export a *naku* to the prenex because of the quantifiers. The rules for exporting *naku* require that you export all of the quantified variables (implicit or explicit) along with *naku*, and you must export them from left to right, in the same order that they appear in the sentence. Thus [Example 16.82](/chapter16/#example-1682 "Example 16.82.") goes into prenex form as:
 
 ##### Example 16.88.
 
@@ -1360,7 +1360,7 @@ It is trivial to export an internal bridi negation expressed with *[na](/glossar
 | su'ode       | poi   | ckule       | zo'u       | da  | klama | de  |     |
 | there-is-a-Y | which | is-a-school | such-that: | X   | goes  | to  | Y.  |
 
-We can now move the *naku* to the left end of the prenex, getting a contradictory negation that can be expressed with *[na](/glossary/#na)*:
+We can now move the *naku* to the left end of the prenex, getting a contradictory negation that can be expressed with *[na](/glossary/?mode=exact&word=na)*:
 
 ##### Example 16.89.
 
@@ -1405,7 +1405,7 @@ or more briefly
 
 :::
 
-As noted in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping the prenex"), a sentence with two different quantified variables, such as [Example 16.91](/chapter16/#example-1691 "Example 16.91."), cannot always be converted with *[se](/glossary/#se)* without first exporting the quantified variables. When the variables have been exported, the sentence proper can be converted, but the quantifier order in the prenex must remain unchanged:
+As noted in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping the prenex"), a sentence with two different quantified variables, such as [Example 16.91](/chapter16/#example-1691 "Example 16.91."), cannot always be converted with *[se](/glossary/?mode=exact&word=se)* without first exporting the quantified variables. When the variables have been exported, the sentence proper can be converted, but the quantifier order in the prenex must remain unchanged:
 
 ##### Example 16.92.
 
@@ -1423,11 +1423,11 @@ As noted in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping t
 | poi   | ckule       | zo'u       | de  | na  | se  | klama         | da  |
 | which | is-a-school | such-that: | Y   |     |     | is-gone-to-by | X.  |
 
-While you can't freely convert with *[se](/glossary/#se)* when you have two quantified variables in a sentence, you can still freely move sumti to either side of the selbri, as long as the order isn't changed. If you use *[na](/glossary/#na)* negation in such a sentence, nothing special need be done. If you use *naku* negation, then quantified variables that cross the negation boundary must be inverted.
+While you can't freely convert with *[se](/glossary/?mode=exact&word=se)* when you have two quantified variables in a sentence, you can still freely move sumti to either side of the selbri, as long as the order isn't changed. If you use *[na](/glossary/?mode=exact&word=na)* negation in such a sentence, nothing special need be done. If you use *naku* negation, then quantified variables that cross the negation boundary must be inverted.
 
-Clearly, if all of Lojban negation was built on *naku* negation instead of *[na](/glossary/#na)* negation, logical manipulation in Lojban would be as difficult as in natural languages. In [Section 16.12](/chapter16/#1612-logical-connectives-and-demorgans-law "16.12. Logical Connectives and DeMorgan's Law"), for example, we'll discuss DeMorgan's Law, which must be used whenever a sumti with a logical connection is moved across a negation boundary.
+Clearly, if all of Lojban negation was built on *naku* negation instead of *[na](/glossary/?mode=exact&word=na)* negation, logical manipulation in Lojban would be as difficult as in natural languages. In [Section 16.12](/chapter16/#1612-logical-connectives-and-demorgans-law "16.12. Logical Connectives and DeMorgan's Law"), for example, we'll discuss DeMorgan's Law, which must be used whenever a sumti with a logical connection is moved across a negation boundary.
 
-Since *naku* has the grammar of a sumti, it can be placed almost anywhere a sumti can go, including *[be](/glossary/#be)* and *[bei](/glossary/#bei)* clauses; it isn't clear what these mean, and we recommend avoiding such constructs.
+Since *naku* has the grammar of a sumti, it can be placed almost anywhere a sumti can go, including *[be](/glossary/?mode=exact&word=be)* and *[bei](/glossary/?mode=exact&word=bei)* clauses; it isn't clear what these mean, and we recommend avoiding such constructs.
 
 You can put multiple *naku* compounds in a sentence, each forming a separate negation boundary. Two adjacent *naku* compounds in a bridi are a double negative and cancel out:
 
@@ -1443,13 +1443,13 @@ Negation with internal *naku* is clumsy and non-intuitive for logical manipulati
 
 DeMorgan's Law states that when a logical connective between terms falls within a negation, then expanding the negation requires a change in the connective. Thus (where “p” and “q” stand for terms or sentences) “not (p or q)” is identical to “not p and not q”, and “not (p and q)” is identical to “not p or not q”. The corresponding changes for the other two basic Lojban connectives are: “not (p equivalent to q)” is identical to “not p exclusive-or not q”, and “not (p whether-or-not q)” is identical to both “not p whether-or-not q” and “not p whether-or-not not q”. In any Lojban sentence having one of the basic connectives, you can substitute in either direction from these identities. (These basic connectives are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System").)
 
-The effects of DeMorgan's Law on the logical connectives made by modifying the basic connectives with *[nai](/glossary/#nai)*, *[na](/glossary/#na)* and *[se](/glossary/#se)* can be derived directly from these rules; modify the basic connective for DeMorgan's Law by substituting from the above identities, and then, apply each *[nai](/glossary/#nai)*, *[na](/glossary/#na)* and *[se](/glossary/#se)* modifier of the original connectives. Cancel any double negatives that result.
+The effects of DeMorgan's Law on the logical connectives made by modifying the basic connectives with *[nai](/glossary/?mode=exact&word=nai)*, *[na](/glossary/?mode=exact&word=na)* and *[se](/glossary/?mode=exact&word=se)* can be derived directly from these rules; modify the basic connective for DeMorgan's Law by substituting from the above identities, and then, apply each *[nai](/glossary/?mode=exact&word=nai)*, *[na](/glossary/?mode=exact&word=na)* and *[se](/glossary/?mode=exact&word=se)* modifier of the original connectives. Cancel any double negatives that result.
 
 When do we apply DeMorgan's Law? Whenever we wish to “distribute” a negation over a logical connective; and, for internal *naku* negation, whenever a logical connective moves in to, or out of, the scope of a negation – when it crosses a negation boundary.
 
-Let us apply DeMorgan's Law to some sample sentences. These sentences make use of forethought logical connectives, which are explained in [Section 14.5](/chapter14/#145-forethought-bridi-connection "14.5. Forethought bridi connection"). It suffices to know that *[ga](/glossary/#ga)* and *[gi](/glossary/#gi)*, used before each of a pair of sumti or bridi, mean “either” and “or” respectively, and that *[ge](/glossary/#ge)* and *[gi](/glossary/#gi)* used similarly mean “both” and “and”. Furthermore, *[ga](/glossary/#ga)*, *[ge](/glossary/#ge)*, and *[gi](/glossary/#gi)* can all be suffixed with *[nai](/glossary/#nai)* to negate the bridi or sumti that follows.
+Let us apply DeMorgan's Law to some sample sentences. These sentences make use of forethought logical connectives, which are explained in [Section 14.5](/chapter14/#145-forethought-bridi-connection "14.5. Forethought bridi connection"). It suffices to know that *[ga](/glossary/?mode=exact&word=ga)* and *[gi](/glossary/?mode=exact&word=gi)*, used before each of a pair of sumti or bridi, mean “either” and “or” respectively, and that *[ge](/glossary/?mode=exact&word=ge)* and *[gi](/glossary/?mode=exact&word=gi)* used similarly mean “both” and “and”. Furthermore, *[ga](/glossary/?mode=exact&word=ga)*, *[ge](/glossary/?mode=exact&word=ge)*, and *[gi](/glossary/?mode=exact&word=gi)* can all be suffixed with *[nai](/glossary/?mode=exact&word=nai)* to negate the bridi or sumti that follows.
 
-We have defined *[na](/glossary/#na)* and *naku zo'u* as, respectively, internal and external bridi negation. These forms being identical, the negation boundary always remains at the left end of the prenex. Thus, exporting or importing negation between external and internal bridi negation forms never requires DeMorgan's Law to be applied. [Example 16.94](/chapter16/#example-1694 "Example 16.94.") and [Example 16.95](/chapter16/#example-1695 "Example 16.95.") are exactly equivalent:
+We have defined *[na](/glossary/?mode=exact&word=na)* and *naku zo'u* as, respectively, internal and external bridi negation. These forms being identical, the negation boundary always remains at the left end of the prenex. Thus, exporting or importing negation between external and internal bridi negation forms never requires DeMorgan's Law to be applied. [Example 16.94](/chapter16/#example-1694 "Example 16.94.") and [Example 16.95](/chapter16/#example-1695 "Example 16.95.") are exactly equivalent:
 
 ##### Example 16.94.
 
@@ -1501,7 +1501,7 @@ It is not an acceptable logical manipulation to move a negator from the bridi le
 | gi  | la         | djan. | la            | rom.  | na        | klama |
 | and | that-named | John, | to-that-named | Rome, | \[false\] | goes. |
 
-The *[ga](/glossary/#ga)* and *[gi](/glossary/#gi)*, meaning “either-or”, have become *[ge](/glossary/#ge)* and *[gi](/glossary/#gi)*, meaning “both-and”, as a consequence of moving the negators into the individual bridi.
+The *[ga](/glossary/?mode=exact&word=ga)* and *[gi](/glossary/?mode=exact&word=gi)*, meaning “either-or”, have become *[ge](/glossary/?mode=exact&word=ge)* and *[gi](/glossary/?mode=exact&word=gi)*, meaning “both-and”, as a consequence of moving the negators into the individual bridi.
 
 Here is another example of DeMorgan's Law in action, involving bridi-tail logical connection (explained in [Section 14.9](/chapter14/#149-compound-bridi "14.9. Compound bridi")):
 
@@ -1530,7 +1530,7 @@ Here is another example of DeMorgan's Law in action, involving bridi-tail logica
 
 (Placing *le zarci* before the selbri makes sure that it is properly associated with both parts of the logical connection. Otherwise, it is easy to erroneously leave it off one of the two sentences.)
 
-It is wise, before freely doing transformations such as the one from [Example 16.97](/chapter16/#example-1697 "Example 16.97.") to [Example 16.98](/chapter16/#example-1698 "Example 16.98."), that you become familiar with expanding logical connectives to separate sentences, transforming the sentences, and then recondensing. Thus, you would prove the transformation correct by the following steps. By moving its *[na](/glossary/#na)* to the beginning of the prenex as a *naku*, [Example 16.97](/chapter16/#example-1697 "Example 16.97.") becomes:
+It is wise, before freely doing transformations such as the one from [Example 16.97](/chapter16/#example-1697 "Example 16.97.") to [Example 16.98](/chapter16/#example-1698 "Example 16.98."), that you become familiar with expanding logical connectives to separate sentences, transforming the sentences, and then recondensing. Thus, you would prove the transformation correct by the following steps. By moving its *[na](/glossary/?mode=exact&word=na)* to the beginning of the prenex as a *naku*, [Example 16.97](/chapter16/#example-1697 "Example 16.97.") becomes:
 
 ##### Example 16.99.
 
@@ -1646,7 +1646,7 @@ That [Example 16.103](/chapter16/#example-16103 "Example 16.103.") and [Example 
 
 ## 16.13. selbri variables
 
-In addition to the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* that we have seen so far, which function as sumti and belong to selma'o KOhA, there are three corresponding variables *[bu'a](/glossary/#bua)*, *[bu'e](/glossary/#bue)*, and *[bu'i](/glossary/#bui)* which function as selbri and belong to selma'o GOhA. These new variables allow existential or universal claims which are about the relationships between objects rather than the objects themselves. We will start with the usual silly examples; the literal translation will represent *[bu'a](/glossary/#bua)*, *[bu'e](/glossary/#bue)* and *[bu'i](/glossary/#bui)* with F, G, and H respectively.
+In addition to the variables *[da](/glossary/?mode=exact&word=da)*, *[de](/glossary/?mode=exact&word=de)*, and *[di](/glossary/?mode=exact&word=di)* that we have seen so far, which function as sumti and belong to selma'o KOhA, there are three corresponding variables *[bu'a](/glossary/?mode=exact&word=bu%27a)*, *[bu'e](/glossary/?mode=exact&word=bu%27e)*, and *[bu'i](/glossary/?mode=exact&word=bu%27i)* which function as selbri and belong to selma'o GOhA. These new variables allow existential or universal claims which are about the relationships between objects rather than the objects themselves. We will start with the usual silly examples; the literal translation will represent *[bu'a](/glossary/?mode=exact&word=bu%27a)*, *[bu'e](/glossary/?mode=exact&word=bu%27e)* and *[bu'i](/glossary/?mode=exact&word=bu%27i)* with F, G, and H respectively.
 
 ##### Example 16.105.
 
@@ -1666,7 +1666,7 @@ In addition to the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *
 
 There's some relationship between Jim and John.
 
-The translations of [Example 16.105](/chapter16/#example-16105 "Example 16.105.") show how unidiomatic selbri variables are in English; Lojban sentences like [Example 16.105](/chapter16/#example-16105 "Example 16.105.") need to be totally reworded in English. Furthermore, when a selbri variable appears in the prenex, it is necessary to precede it with a quantifier such as *[su'o](/glossary/#suo)*; it is ungrammatical to just say *bu'a zo'u*. This rule is necessary because only sumti can appear in the prenex, and *su'o bu'a* is technically a sumti – in fact, it is an indefinite description like *re nanmu*, since *[bu'a](/glossary/#bua)* is grammatically equivalent to a brivla like *[nanmu](/glossary/#nanmu)*. However, indefinite descriptions involving the bu'a-series cannot be imported from the prenex.
+The translations of [Example 16.105](/chapter16/#example-16105 "Example 16.105.") show how unidiomatic selbri variables are in English; Lojban sentences like [Example 16.105](/chapter16/#example-16105 "Example 16.105.") need to be totally reworded in English. Furthermore, when a selbri variable appears in the prenex, it is necessary to precede it with a quantifier such as *[su'o](/glossary/?mode=exact&word=su%27o)*; it is ungrammatical to just say *bu'a zo'u*. This rule is necessary because only sumti can appear in the prenex, and *su'o bu'a* is technically a sumti – in fact, it is an indefinite description like *re nanmu*, since *[bu'a](/glossary/?mode=exact&word=bu%27a)* is grammatically equivalent to a brivla like *[nanmu](/glossary/?mode=exact&word=nanmu)*. However, indefinite descriptions involving the bu'a-series cannot be imported from the prenex.
 
 When the prenex is omitted, the preceding number has to be omitted too:
 
@@ -1681,7 +1681,7 @@ When the prenex is omitted, the preceding number has to be omitted too:
 
 :::
 
-As a result, if the number before the variable is anything but *[su'o](/glossary/#suo)*, the prenex is required:
+As a result, if the number before the variable is anything but *[su'o](/glossary/?mode=exact&word=su%27o)*, the prenex is required:
 
 ##### Example 16.107.
 
@@ -1718,11 +1718,11 @@ A variable may have a quantifier placed in front of it even though it has alread
 
 :::
 
-What does [Example 16.108](/chapter16/#example-16108 "Example 16.108.") mean? The appearance of *ci da* quantifies *[da](/glossary/#da)* as referring to three things, which are restricted by the relative clause to be cats. When *re da* appears later, it refers to two of those three things – there is no saying which ones. Further uses of *[da](/glossary/#da)* alone, if there were any, would refer once more to the three cats, so the requantification of *[da](/glossary/#da)* is purely local.
+What does [Example 16.108](/chapter16/#example-16108 "Example 16.108.") mean? The appearance of *ci da* quantifies *[da](/glossary/?mode=exact&word=da)* as referring to three things, which are restricted by the relative clause to be cats. When *re da* appears later, it refers to two of those three things – there is no saying which ones. Further uses of *[da](/glossary/?mode=exact&word=da)* alone, if there were any, would refer once more to the three cats, so the requantification of *[da](/glossary/?mode=exact&word=da)* is purely local.
 
-In general, the scope of a prenex that precedes a sentence extends to following sentences that are joined by ijeks (explained in [Section 14.4](/chapter14/#144-logical-connection-of-bridi "14.4. Logical connection of bridi")) such as the *[.ije](/glossary/#ije)* in [Example 16.108](/chapter16/#example-16108 "Example 16.108."). Theoretically, a bare *[i](/glossary/#i)* terminates the scope of the prenex. Informally, however, variables may persist for a while even after an *[i](/glossary/#i)*, as if it were an *[.ije](/glossary/#ije)*. Prenexes that precede embedded bridi such as relative clauses and abstractions extend only to the end of the clause, as explained in [Section 16.8](/chapter16/#168-the-problem-of-any "16.8. The problem of “any”"). A prenex preceding *[tu'u](/glossary/#tuu)* long-scope brackets persists until the *[tu'u](/glossary/#tuu)*, which may be many sentences or even paragraphs later.
+In general, the scope of a prenex that precedes a sentence extends to following sentences that are joined by ijeks (explained in [Section 14.4](/chapter14/#144-logical-connection-of-bridi "14.4. Logical connection of bridi")) such as the *[.ije](/glossary/?mode=exact&word=ije)* in [Example 16.108](/chapter16/#example-16108 "Example 16.108."). Theoretically, a bare *[i](/glossary/?mode=exact&word=i)* terminates the scope of the prenex. Informally, however, variables may persist for a while even after an *[i](/glossary/?mode=exact&word=i)*, as if it were an *[.ije](/glossary/?mode=exact&word=ije)*. Prenexes that precede embedded bridi such as relative clauses and abstractions extend only to the end of the clause, as explained in [Section 16.8](/chapter16/#168-the-problem-of-any "16.8. The problem of “any”"). A prenex preceding *[tu'u](/glossary/?mode=exact&word=tu%27u)* long-scope brackets persists until the *[tu'u](/glossary/?mode=exact&word=tu%27u)*, which may be many sentences or even paragraphs later.
 
-If the variables *[da](/glossary/#da)*, *[de](/glossary/#de)*, and *[di](/glossary/#di)* (or the selbri variables *[bu'a](/glossary/#bua)*, *[bu'e](/glossary/#bue)*, and *[bu'i](/glossary/#bui)*) are insufficient in number for handling a particular problem, the Lojban approach is to add a subscript to any of them. Each possible different combination of a subscript and a variable cmavo counts as a distinct variable in Lojban. Subscripts are explained in full in [Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI"), but in general consist of the cmavo *[xi](/glossary/#xi)* (of selma'o XI) followed by a number, one or more lerfu words forming a single string, or a general mathematical expression enclosed in parentheses.
+If the variables *[da](/glossary/?mode=exact&word=da)*, *[de](/glossary/?mode=exact&word=de)*, and *[di](/glossary/?mode=exact&word=di)* (or the selbri variables *[bu'a](/glossary/?mode=exact&word=bu%27a)*, *[bu'e](/glossary/?mode=exact&word=bu%27e)*, and *[bu'i](/glossary/?mode=exact&word=bu%27i)*) are insufficient in number for handling a particular problem, the Lojban approach is to add a subscript to any of them. Each possible different combination of a subscript and a variable cmavo counts as a distinct variable in Lojban. Subscripts are explained in full in [Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI"), but in general consist of the cmavo *[xi](/glossary/?mode=exact&word=xi)* (of selma'o XI) followed by a number, one or more lerfu words forming a single string, or a general mathematical expression enclosed in parentheses.
 
 A quantifier can be prefixed to a variable that has already been bound either in a prenex or earlier in the bridi, thus:
 
@@ -1739,7 +1739,7 @@ A quantifier can be prefixed to a variable that has already been bound either in
 
 Three people are led by one of them.
 
-The *pa da* in [Example 16.109](/chapter16/#example-16109 "Example 16.109.") does not specify the number of things to which *[da](/glossary/#da)* refers, as the preceding *ci da* does. Instead, it selects one of them for use in this sumti only. The number of referents of *[da](/glossary/#da)* remains three, but a single one (there is no way of knowing which one) is selected to be the leader.
+The *pa da* in [Example 16.109](/chapter16/#example-16109 "Example 16.109.") does not specify the number of things to which *[da](/glossary/?mode=exact&word=da)* refers, as the preceding *ci da* does. Instead, it selects one of them for use in this sumti only. The number of referents of *[da](/glossary/?mode=exact&word=da)* remains three, but a single one (there is no way of knowing which one) is selected to be the leader.
 
 ## 16.15. Conclusion
 

@@ -85,7 +85,7 @@ one billion, two hundred and thirty-four million, five hundred and sixty-seven t
 
 Therefore, there are no separate cmavo for “ten”, “hundred”, etc.
 
-There is a pattern to the digit cmavo (except for *[no](/glossary/#no)*, 0) which is worth explaining. The cmavo from 1 to 5 end in the vowels *a*, *e*, *i*, *o*, *u* respectively; and the cmavo from 6 to 9 likewise end in the vowels *a*, *e*, *i*, and *o* respectively. None of the digit cmavo begin with the same consonant, to make them easy to tell apart in noisy environments.
+There is a pattern to the digit cmavo (except for *[no](/glossary/?mode=exact&word=no)*, 0) which is worth explaining. The cmavo from 1 to 5 end in the vowels *a*, *e*, *i*, *o*, *u* respectively; and the cmavo from 6 to 9 likewise end in the vowels *a*, *e*, *i*, and *o* respectively. None of the digit cmavo begin with the same consonant, to make them easy to tell apart in noisy environments.
 
 ## 18.3. Signs and numerical punctuation
 
@@ -101,7 +101,7 @@ The following cmavo are discussed in this section:
 | ce'i | PA  | percent sign         |
 | ki'o | PA  | comma between digits |
 
-A number can be given an explicit sign by the use of *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)*, which are the positive and negative signs as distinct from the addition, subtraction, and negation operators. For example:
+A number can be given an explicit sign by the use of *[ma'u](/glossary/?mode=exact&word=ma%27u)* and *[ni'u](/glossary/?mode=exact&word=ni%27u)*, which are the positive and negative signs as distinct from the addition, subtraction, and negation operators. For example:
 
 ##### Example 18.5.
 
@@ -116,7 +116,7 @@ A number can be given an explicit sign by the use of *[ma'u](/glossary/#mau)* an
 
 $-1$
 
-Grammatically, the signs are part of the number to which they are attached. It is also possible to use *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)* by themselves as numbers; the meaning of these numbers is explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers").
+Grammatically, the signs are part of the number to which they are attached. It is also possible to use *[ma'u](/glossary/?mode=exact&word=ma%27u)* and *[ni'u](/glossary/?mode=exact&word=ni%27u)* by themselves as numbers; the meaning of these numbers is explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers").
 
 Various numerical punctuation marks are likewise expressed by cmavo, as illustrated in the following examples:
 
@@ -133,7 +133,7 @@ Various numerical punctuation marks are likewise expressed by cmavo, as illustra
 
 $3.1415$
 
-(In some cultures, a comma is used instead of a period in the symbolic version of [Example 18.6](/chapter18/#example-186 "Example 18.6."); *[pi](/glossary/#pi)* is still the Lojban representation for the decimal point.)
+(In some cultures, a comma is used instead of a period in the symbolic version of [Example 18.6](/chapter18/#example-186 "Example 18.6."); *[pi](/glossary/?mode=exact&word=pi)* is still the Lojban representation for the decimal point.)
 
 ##### Example 18.7.
 
@@ -176,7 +176,7 @@ $\dfrac{1}{7}$
 
 $.35142857142857...$
 
-Note that the *[ra'e](/glossary/#rae)* marks unambiguously where the repeating portion “142857” begins.
+Note that the *[ra'e](/glossary/?mode=exact&word=ra%27e)* marks unambiguously where the repeating portion “142857” begins.
 
 ##### Example 18.10.
 
@@ -204,9 +204,9 @@ $35\%$
 
 $1,234,567$
 
-(In some cultures, spaces are used in the symbolic representation of [Example 18.11](/chapter18/#example-1811 "Example 18.11."); *[ki'o](/glossary/#kio)* is still the Lojban representation.)
+(In some cultures, spaces are used in the symbolic representation of [Example 18.11](/chapter18/#example-1811 "Example 18.11."); *[ki'o](/glossary/?mode=exact&word=ki%27o)* is still the Lojban representation.)
 
-It is also possible to have less than three digits between successive *[ki'o](/glossary/#kio)* s, in which case zeros are assumed to have been elided:
+It is also possible to have less than three digits between successive *[ki'o](/glossary/?mode=exact&word=ki%27o)* s, in which case zeros are assumed to have been elided:
 
 ##### Example 18.12.
 
@@ -222,7 +222,7 @@ It is also possible to have less than three digits between successive *[ki'o](/g
 
 $1,023,004$
 
-In the same way, *[ki'o](/glossary/#kio)* can be used after *[pi](/glossary/#pi)* to divide fractions into groups of three:
+In the same way, *[ki'o](/glossary/?mode=exact&word=ki%27o)* can be used after *[pi](/glossary/?mode=exact&word=pi)* to divide fractions into groups of three:
 
 ##### Example 18.13.
 
@@ -290,7 +290,7 @@ $+\infty$
 
 3i2 (a complex number equivalent to $3 + 2i$)
 
-Note that *[ka'o](/glossary/#kao)* is both a special number (meaning $i$) and a number punctuation mark (separating the real and the imaginary parts of a complex number).
+Note that *[ka'o](/glossary/?mode=exact&word=ka%27o)* is both a special number (meaning $i$) and a number punctuation mark (separating the real and the imaginary parts of a complex number).
 
 ##### Example 18.17.
 
@@ -305,7 +305,7 @@ Note that *[ka'o](/glossary/#kao)* is both a special number (meaning $i$) and a 
 infinity zero  
 $\aleph_0$ (a transfinite cardinal)
 
-The special numbers *[pai](/glossary/#pai)* and *[te'o](/glossary/#teo)* are mathematically important, which is why they are given their own cmavo:
+The special numbers *[pai](/glossary/?mode=exact&word=pai)* and *[te'o](/glossary/?mode=exact&word=te%27o)* are mathematically important, which is why they are given their own cmavo:
 
 ##### Example 18.18.
 
@@ -380,9 +380,9 @@ $1 + 1 = 2$
 
 :::
 
-[Example 18.22](/chapter18/#example-1822 "Example 18.22."), a mekso sentence, is a regular Lojban bridi that exploits mekso features. *[du](/glossary/#du)* is the predicate meaning “x1 is mathematically equal to x2”. It is a cmavo for conciseness, but it has the same grammatical uses as any brivla. Outside mathematical contexts, *[du](/glossary/#du)* means “x1 is identical with x2” or “x1 is the same object as x2”.
+[Example 18.22](/chapter18/#example-1822 "Example 18.22."), a mekso sentence, is a regular Lojban bridi that exploits mekso features. *[du](/glossary/?mode=exact&word=du)* is the predicate meaning “x1 is mathematically equal to x2”. It is a cmavo for conciseness, but it has the same grammatical uses as any brivla. Outside mathematical contexts, *[du](/glossary/?mode=exact&word=du)* means “x1 is identical with x2” or “x1 is the same object as x2”.
 
-The cmavo *[li](/glossary/#li)* is the number article. It is required whenever a sentence talks about numbers as numbers, as opposed to using numbers to quantify things. For example:
+The cmavo *[li](/glossary/?mode=exact&word=li)* is the number article. It is required whenever a sentence talks about numbers as numbers, as opposed to using numbers to quantify things. For example:
 
 ##### Example 18.23.
 
@@ -396,7 +396,7 @@ The cmavo *[li](/glossary/#li)* is the number article. It is required whenever a
 
 the three persons
 
-requires no *[li](/glossary/#li)* article, because the *[ci](/glossary/#ci)* is being used to specify the number of *[prenu](/glossary/#prenu)*. However, the sentence
+requires no *[li](/glossary/?mode=exact&word=li)* article, because the *[ci](/glossary/?mode=exact&word=ci)* is being used to specify the number of *[prenu](/glossary/?mode=exact&word=prenu)*. However, the sentence
 
 ##### Example 18.24.
 
@@ -411,7 +411,7 @@ requires no *[li](/glossary/#li)* article, because the *[ci](/glossary/#ci)* is 
 
 This fly has a mass of 3 grams.
 
-requires *[li](/glossary/#li)* because *[ci](/glossary/#ci)* is being used as a sumti. Note that this is the way in which measurements are stated in Lojban: all the predicates for units of length, mass, temperature, and so on have the measured object as the first place and a number as the second place. Using *[li](/glossary/#li)* for *[le](/glossary/#le)* in [Example 18.23](/chapter18/#example-1823 "Example 18.23.") would produce
+requires *[li](/glossary/?mode=exact&word=li)* because *[ci](/glossary/?mode=exact&word=ci)* is being used as a sumti. Note that this is the way in which measurements are stated in Lojban: all the predicates for units of length, mass, temperature, and so on have the measured object as the first place and a number as the second place. Using *[li](/glossary/?mode=exact&word=li)* for *[le](/glossary/?mode=exact&word=le)* in [Example 18.23](/chapter18/#example-1823 "Example 18.23.") would produce
 
 ##### Example 18.25.
 
@@ -426,7 +426,7 @@ requires *[li](/glossary/#li)* because *[ci](/glossary/#ci)* is being used as a 
 
 which is grammatical but nonsensical: numbers are not persons.
 
-The cmavo *[su'i](/glossary/#sui)* belongs to selma'o VUhU, which is composed of mathematical operators, and means “addition”. As mentioned before, it is distinct from *[ma'u](/glossary/#mau)* which means the positive sign as an indication of a positive number:
+The cmavo *[su'i](/glossary/?mode=exact&word=su%27i)* belongs to selma'o VUhU, which is composed of mathematical operators, and means “addition”. As mentioned before, it is distinct from *[ma'u](/glossary/?mode=exact&word=ma%27u)* which means the positive sign as an indication of a positive number:
 
 ##### Example 18.26.
 
@@ -446,7 +446,7 @@ The cmavo *[su'i](/glossary/#sui)* belongs to selma'o VUhU, which is composed of
 
 ${+1} + {-1} = 0$
 
-Of course, it is legal to have complex mekso on both sides of *[du](/glossary/#du)*:
+Of course, it is legal to have complex mekso on both sides of *[du](/glossary/?mode=exact&word=du)*:
 
 ##### Example 18.27.
 
@@ -461,9 +461,9 @@ $5 + 1 = 3 + 3$
 
 :::
 
-Why don't we say *li mu su'i li pa* rather than just *li mu su'i pa*? The answer is that VUhU operators connect mekso operands (numbers, in [Example 18.27](/chapter18/#example-1827 "Example 18.27.")), not general sumti. *[li](/glossary/#li)* is used to make the entire mekso into a sumti, which then plays the roles applicable to other sumti: in [Example 18.27](/chapter18/#example-1827 "Example 18.27."), filling the places of a bridi
+Why don't we say *li mu su'i li pa* rather than just *li mu su'i pa*? The answer is that VUhU operators connect mekso operands (numbers, in [Example 18.27](/chapter18/#example-1827 "Example 18.27.")), not general sumti. *[li](/glossary/?mode=exact&word=li)* is used to make the entire mekso into a sumti, which then plays the roles applicable to other sumti: in [Example 18.27](/chapter18/#example-1827 "Example 18.27."), filling the places of a bridi
 
-By default, Lojban mathematics is like simple calculator mathematics: there is no notion of “operator precedence”. Consider the following example, where *[pi'i](/glossary/#pii)* means “times”, the multiplication operator:
+By default, Lojban mathematics is like simple calculator mathematics: there is no notion of “operator precedence”. Consider the following example, where *[pi'i](/glossary/?mode=exact&word=pi%27i)* means “times”, the multiplication operator:
 
 ##### Example 18.28.
 
@@ -501,7 +501,7 @@ There are three solutions, all of which will probably be used to some degree. Th
 
 The second solution is to use explicit means to specify the precedence of operators. This approach is fully general, but clumsy, and will be explained in [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence").
 
-The third solution is simple but not very general. When an operator is prefixed with the cmavo *[bi'e](/glossary/#bie)* (of selma'o BIhE), it becomes automatically of higher precedence than other operators not so prefixed. Thus,
+The third solution is simple but not very general. When an operator is prefixed with the cmavo *[bi'e](/glossary/?mode=exact&word=bi%27e)* (of selma'o BIhE), it becomes automatically of higher precedence than other operators not so prefixed. Thus,
 
 ##### Example 18.30.
 
@@ -516,9 +516,9 @@ $3 + 4 \times 5 = 23$
 
 :::
 
-is a truthful Lojban bridi. If more than one operator has a *[bi'e](/glossary/#bie)* prefix, grouping is from the right; multiple *[bi'e](/glossary/#bie)* prefixes on a single operator are not allowed.
+is a truthful Lojban bridi. If more than one operator has a *[bi'e](/glossary/?mode=exact&word=bi%27e)* prefix, grouping is from the right; multiple *[bi'e](/glossary/?mode=exact&word=bi%27e)* prefixes on a single operator are not allowed.
 
-In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary/#vei)* and *[ve'o](/glossary/#veo)*, which can be used just like their written equivalents “(” and “)” to group expressions in any way desired:
+In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary/?mode=exact&word=vei)* and *[ve'o](/glossary/?mode=exact&word=ve%27o)*, which can be used just like their written equivalents “(” and “)” to group expressions in any way desired:
 
 ##### Example 18.31.
 
@@ -533,9 +533,9 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 
 $(n+1)(n+1) = n^{2} + 2n + 1$
 
-There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/#tea)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/#ny)*, representing the letter $n$. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a \times b \times c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
+There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/?mode=exact&word=te%27a)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/?mode=exact&word=ny)*, representing the letter $n$. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a \times b \times c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
 
-The explicit operator *[pi'i](/glossary/#pii)* is required in the Lojban verbal form whereas multiplication is implicit in the symbolic form. Note that *[ve'o](/glossary/#veo)* (the right parenthesis) is an elidable terminator: the first use of it in [Example 18.31](/chapter18/#example-1831 "Example 18.31.") is required, but the second use (marked by square brackets) could be elided. Additionally, the first *[bi'e](/glossary/#bie)* (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
+The explicit operator *[pi'i](/glossary/?mode=exact&word=pi%27i)* is required in the Lojban verbal form whereas multiplication is implicit in the symbolic form. Note that *[ve'o](/glossary/?mode=exact&word=ve%27o)* (the right parenthesis) is an elidable terminator: the first use of it in [Example 18.31](/chapter18/#example-1831 "Example 18.31.") is required, but the second use (marked by square brackets) could be elided. Additionally, the first *[bi'e](/glossary/?mode=exact&word=bi%27e)* (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
 
 ## 18.6. Forethought operators (Polish notation, functions)
 
@@ -570,9 +570,9 @@ But there are many operators which do not have two operands, or which have a var
 
 $sum(1,2,3) = 6$
 
-Note that the normally elidable number terminator *[boi](/glossary/#boi)* is required after *[pa](/glossary/#pa)* and *[re](/glossary/#re)* because otherwise the reading would be *pareci*= 123. It is not required after *[ci](/glossary/#ci)* but is inserted here in brackets for the sake of symmetry. The only time *[boi](/glossary/#boi)* is required is, as in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), when there are two consecutive numbers or lerfu strings.
+Note that the normally elidable number terminator *[boi](/glossary/?mode=exact&word=boi)* is required after *[pa](/glossary/?mode=exact&word=pa)* and *[re](/glossary/?mode=exact&word=re)* because otherwise the reading would be *pareci*= 123. It is not required after *[ci](/glossary/?mode=exact&word=ci)* but is inserted here in brackets for the sake of symmetry. The only time *[boi](/glossary/?mode=exact&word=boi)* is required is, as in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), when there are two consecutive numbers or lerfu strings.
 
-Forethought mekso can use any number of operands, in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), three. How do we know how many operands there are in ambiguous circumstances? The usual Lojban solution is employed: an elidable terminator, namely *[ku'e](/glossary/#kue)*. Here is an example:
+Forethought mekso can use any number of operands, in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), three. How do we know how many operands there are in ambiguous circumstances? The usual Lojban solution is employed: an elidable terminator, namely *[ku'e](/glossary/?mode=exact&word=ku%27e)*. Here is an example:
 
 ##### Example 18.33.
 
@@ -587,11 +587,11 @@ Forethought mekso can use any number of operands, in [Example 18.32](/chapter18/
 
 $p + {-n} + z = x$
 
-where we know that *[va'a](/glossary/#vaa)* is a forethought operator because there is no operand preceding it.
+where we know that *[va'a](/glossary/?mode=exact&word=va%27a)* is a forethought operator because there is no operand preceding it.
 
-*[va'a](/glossary/#vaa)* is the numerical negation operator, of selma'o VUhU. In contrast, *[vu'u](/glossary/#vuu)* is not used for numerical negation, but only for subtraction, as it always has two or more operands. Do not confuse *[va'a](/glossary/#vaa)* and *[vu'u](/glossary/#vuu)*, which are operators, with *[ni'u](/glossary/#niu)*, which is part of a number.
+*[va'a](/glossary/?mode=exact&word=va%27a)* is the numerical negation operator, of selma'o VUhU. In contrast, *[vu'u](/glossary/?mode=exact&word=vu%27u)* is not used for numerical negation, but only for subtraction, as it always has two or more operands. Do not confuse *[va'a](/glossary/?mode=exact&word=va%27a)* and *[vu'u](/glossary/?mode=exact&word=vu%27u)*, which are operators, with *[ni'u](/glossary/?mode=exact&word=ni%27u)*, which is part of a number.
 
-In [Example 18.33](/chapter18/#example-1833 "Example 18.33."), the operator *[va'a](/glossary/#vaa)* and the terminator *[ku'e](/glossary/#kue)* serve in effect as parentheses. (The regular parentheses *[vei](/glossary/#vei)* and *[ve'o](/glossary/#veo)* are NOT used for this purpose.) If the *[ku'e](/glossary/#kue)* were omitted, the *su'i zy* would be swallowed up by the *[va'a](/glossary/#vaa)* forethought operator, which would then appear to have two operands, *[ny](/glossary/#ny)* and *su'i zy.*, where the latter is also a forethought expression.
+In [Example 18.33](/chapter18/#example-1833 "Example 18.33."), the operator *[va'a](/glossary/?mode=exact&word=va%27a)* and the terminator *[ku'e](/glossary/?mode=exact&word=ku%27e)* serve in effect as parentheses. (The regular parentheses *[vei](/glossary/?mode=exact&word=vei)* and *[ve'o](/glossary/?mode=exact&word=ve%27o)* are NOT used for this purpose.) If the *[ku'e](/glossary/?mode=exact&word=ku%27e)* were omitted, the *su'i zy* would be swallowed up by the *[va'a](/glossary/?mode=exact&word=va%27a)* forethought operator, which would then appear to have two operands, *[ny](/glossary/?mode=exact&word=ny)* and *su'i zy.*, where the latter is also a forethought expression.
 
 Forethought mekso is also useful for matching standard functional notation. How do we represent “z = f(x)”? The answer is:
 
@@ -607,9 +607,9 @@ Forethought mekso is also useful for matching standard functional notation. How 
 
 :::
 
-Again, no parentheses are used. The construct *ma'o fy.boi* is the equivalent of an operator, and appears in forethought here (although it could also be used as a regular infix operator). In mathematics, letters sometimes mean functions and sometimes mean variables, with only the context to tell which. Lojban chooses to accept the variable interpretation as the default, and uses the special flag *[ma'o](/glossary/#mao)* to mark a lerfu string as an operator. The cmavo *[xy.](/glossary/#xy)* and *[zy.](/glossary/#zy)* are variables, but *[fy.](/glossary/#fy)* is an operator (a function) because *[ma'o](/glossary/#mao)* marks it as such. The *[boi](/glossary/#boi)* is required because otherwise the *[xy.](/glossary/#xy)* would look like part of the operator name. (The use of *[ma'o](/glossary/#mao)* can be generalized from lerfu strings to any mekso operand: see [Section 18.21](/chapter18/#1821-miscellany "18.21. Miscellany").)
+Again, no parentheses are used. The construct *ma'o fy.boi* is the equivalent of an operator, and appears in forethought here (although it could also be used as a regular infix operator). In mathematics, letters sometimes mean functions and sometimes mean variables, with only the context to tell which. Lojban chooses to accept the variable interpretation as the default, and uses the special flag *[ma'o](/glossary/?mode=exact&word=ma%27o)* to mark a lerfu string as an operator. The cmavo *[xy.](/glossary/?mode=exact&word=xy)* and *[zy.](/glossary/?mode=exact&word=zy)* are variables, but *[fy.](/glossary/?mode=exact&word=fy)* is an operator (a function) because *[ma'o](/glossary/?mode=exact&word=ma%27o)* marks it as such. The *[boi](/glossary/?mode=exact&word=boi)* is required because otherwise the *[xy.](/glossary/?mode=exact&word=xy)* would look like part of the operator name. (The use of *[ma'o](/glossary/?mode=exact&word=ma%27o)* can be generalized from lerfu strings to any mekso operand: see [Section 18.21](/chapter18/#1821-miscellany "18.21. Miscellany").)
 
-When using forethought mekso, the optional marker *[pe'o](/glossary/#peo)* may be placed in front of the operator. This usage can help avoid confusion by providing clearly marked *[pe'o](/glossary/#peo)* and *[ku'e](/glossary/#kue)* pairs to delimit the operand list. [Example 18.32](/chapter18/#example-1832 "Example 18.32.") to [Example 18.34](/chapter18/#example-1834 "Example 18.34."), respectively, with explicit *[pe'o](/glossary/#peo)* and *[ku'e](/glossary/#kue)*:
+When using forethought mekso, the optional marker *[pe'o](/glossary/?mode=exact&word=pe%27o)* may be placed in front of the operator. This usage can help avoid confusion by providing clearly marked *[pe'o](/glossary/?mode=exact&word=pe%27o)* and *[ku'e](/glossary/?mode=exact&word=ku%27e)* pairs to delimit the operand list. [Example 18.32](/chapter18/#example-1832 "Example 18.32.") to [Example 18.34](/chapter18/#example-1834 "Example 18.34."), respectively, with explicit *[pe'o](/glossary/?mode=exact&word=pe%27o)* and *[ku'e](/glossary/?mode=exact&word=ku%27e)*:
 
 ##### Example 18.35.
 
@@ -623,11 +623,11 @@ li py. su'i pe'o va'a ny. ku'e su'i zy du li xy.
 
 li zy du li pe'o ma'o fy.boi xy. ku'e
 
-Note: When using forethought mekso, be sure that the operands really are operands: they cannot contain regular infix expressions unless parenthesized with *[vei](/glossary/#vei)* and *[ve'o](/glossary/#veo)*. An earlier version of the complex [Example 18.119](/chapter18/#example-18119 "Example 18.119.") came to grief because I forgot this rule.
+Note: When using forethought mekso, be sure that the operands really are operands: they cannot contain regular infix expressions unless parenthesized with *[vei](/glossary/?mode=exact&word=vei)* and *[ve'o](/glossary/?mode=exact&word=ve%27o)*. An earlier version of the complex [Example 18.119](/chapter18/#example-18119 "Example 18.119.") came to grief because I forgot this rule.
 
 ## 18.7. Other useful selbri for mekso bridi
 
-So far our examples have been isolated mekso (it is legal to have a bare mekso as a sentence in Lojban) and equation bridi involving *[du](/glossary/#du)*. What about inequalities such as “x < 5”? The answer is to use a bridi with an appropriate selbri, thus:
+So far our examples have been isolated mekso (it is legal to have a bare mekso as a sentence in Lojban) and equation bridi involving *[du](/glossary/?mode=exact&word=du)*. What about inequalities such as “x < 5”? The answer is to use a bridi with an appropriate selbri, thus:
 
 ##### Example 18.38.
 
@@ -644,20 +644,20 @@ Here is a partial list of selbri useful in mathematical bridi:
 
 |                                      |                                                                                     |
 | ------------------------------------ | ----------------------------------------------------------------------------------- |
-| *[du](/glossary/#du)*                | x1 is identical to x2, x3, x4, ...                                                  |
-| *[dunli](/glossary/#dunli)*          | x1 is equal/congruent to x2 in/on property/quality/dimension/quantity x3            |
-| *[mleca](/glossary/#mleca)*          | x1 is less than x2                                                                  |
-| *[zmadu](/glossary/#zmadu)*          | x1 is greater than x2                                                               |
-| *[dubjavme'a](/glossary/#dubjavmea)* | x1 is less than or equal to x2 \[*[mleca\](/glossary/#mleca)*, equal or less]       |
-| *[dubjavmau](/glossary/#dubjavmau)*  | x1 is greater than or equal to x2 \[*[zmadu\](/glossary/#zmadu)*, equal or greater] |
-| *[tamdu'i](/glossary/#tamdui)*       | x1 is similar to x2 \[*[dunli\](/glossary/#dunli)*, shape-equal]                    |
-| *turdu'i*                            | x1 is isomorphic to x2 \[*[dunli\](/glossary/#dunli)*, structure-equal]             |
-| *[cmima](/glossary/#cmima)*          | x1 is a member of set x2                                                            |
-| *gripau*                             | x1 is a subset of set x2 \[*[pagbu\](/glossary/#pagbu)*, set-part]                  |
-| *[na'ujbi](/glossary/#naujbi)*       | x1 is approximately equal to x2 \[*[jibni\](/glossary/#jibni)*, number-near]        |
+| *[du](/glossary/?mode=exact&word=du)*                | x1 is identical to x2, x3, x4, ...                                                  |
+| *[dunli](/glossary/?mode=exact&word=dunli)*          | x1 is equal/congruent to x2 in/on property/quality/dimension/quantity x3            |
+| *[mleca](/glossary/?mode=exact&word=mleca)*          | x1 is less than x2                                                                  |
+| *[zmadu](/glossary/?mode=exact&word=zmadu)*          | x1 is greater than x2                                                               |
+| *[dubjavme'a](/glossary/?mode=exact&word=dubjavme%27a)* | x1 is less than or equal to x2 \[*[mleca\](/glossary/?mode=exact&word=%2A%5Bmleca%5C)*, equal or less]       |
+| *[dubjavmau](/glossary/?mode=exact&word=dubjavmau)*  | x1 is greater than or equal to x2 \[*[zmadu\](/glossary/?mode=exact&word=%2A%5Bzmadu%5C)*, equal or greater] |
+| *[tamdu'i](/glossary/?mode=exact&word=tamdu%27i)*       | x1 is similar to x2 \[*[dunli\](/glossary/?mode=exact&word=%2A%5Bdunli%5C)*, shape-equal]                    |
+| *turdu'i*                            | x1 is isomorphic to x2 \[*[dunli\](/glossary/?mode=exact&word=%2A%5Bdunli%5C)*, structure-equal]             |
+| *[cmima](/glossary/?mode=exact&word=cmima)*          | x1 is a member of set x2                                                            |
+| *gripau*                             | x1 is a subset of set x2 \[*[pagbu\](/glossary/?mode=exact&word=%2A%5Bpagbu%5C)*, set-part]                  |
+| *[na'ujbi](/glossary/?mode=exact&word=na%27ujbi)*       | x1 is approximately equal to x2 \[*[jibni\](/glossary/?mode=exact&word=%2A%5Bjibni%5C)*, number-near]        |
 | *terci'e*                            | x1 is a component with function x2 of system x3                                     |
 
-Note the difference between *[dunli](/glossary/#dunli)* and *[du](/glossary/#du)*; *[dunli](/glossary/#dunli)* has a third place that specifies the kind of equality that is meant. *[du](/glossary/#du)* refers to actual identity, and can have any number of places:
+Note the difference between *[dunli](/glossary/?mode=exact&word=dunli)* and *[du](/glossary/?mode=exact&word=du)*; *[dunli](/glossary/?mode=exact&word=dunli)* has a third place that specifies the kind of equality that is meant. *[du](/glossary/?mode=exact&word=du)* refers to actual identity, and can have any number of places:
 
 ##### Example 18.39.
 
@@ -671,9 +671,9 @@ Note the difference between *[dunli](/glossary/#dunli)* and *[du](/glossary/#du)
 
 :::
 
-Lojban bridi can have only one predicate, so the *[du](/glossary/#du)* is not repeated.
+Lojban bridi can have only one predicate, so the *[du](/glossary/?mode=exact&word=du)* is not repeated.
 
-Any of these selbri may usefully be prefixed with *[na](/glossary/#na)*, the contradictory negation cmavo, to indicate that the relation is false:
+Any of these selbri may usefully be prefixed with *[na](/glossary/?mode=exact&word=na)*, the contradictory negation cmavo, to indicate that the relation is false:
 
 ##### Example 18.40.
 
@@ -717,7 +717,7 @@ The following cmavo are discussed in this section:
 | pidu'e | PA+PA | too much of            |
 | pimo'a | PA+PA | too little of          |
 
-Not all the cmavo of PA represent numbers in the usual mathematical sense. For example, the cmavo *[ro](/glossary/#ro)* means “all” or “each”. This number does not have a definite value in the abstract: *li ro* is undefined. But when used to count or quantify something, the parallel between *[ro](/glossary/#ro)* and *[pa](/glossary/#pa)* is clearer:
+Not all the cmavo of PA represent numbers in the usual mathematical sense. For example, the cmavo *[ro](/glossary/?mode=exact&word=ro)* means “all” or “each”. This number does not have a definite value in the abstract: *li ro* is undefined. But when used to count or quantify something, the parallel between *[ro](/glossary/?mode=exact&word=ro)* and *[pa](/glossary/?mode=exact&word=pa)* is clearer:
 
 ##### Example 18.41.
 
@@ -743,7 +743,7 @@ Not all the cmavo of PA represent numbers in the usual mathematical sense. For e
 
 [Example 18.41](/chapter18/#example-1841 "Example 18.41.") might be true, whereas [Example 18.42](/chapter18/#example-1842 "Example 18.42.") is almost certainly false.
 
-The cmavo *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/#soi)*, *[so'o](/glossary/#soo)*, and *[so'u](/glossary/#sou)* represent a set of indefinite numbers less than *[ro](/glossary/#ro)*. As you go down an alphabetical list, the magnitude decreases:
+The cmavo *[so'a](/glossary/?mode=exact&word=so%27a)*, *[so'e](/glossary/?mode=exact&word=so%27e)*, *[so'i](/glossary/?mode=exact&word=so%27i)*, *[so'o](/glossary/?mode=exact&word=so%27o)*, and *[so'u](/glossary/?mode=exact&word=so%27u)* represent a set of indefinite numbers less than *[ro](/glossary/?mode=exact&word=ro)*. As you go down an alphabetical list, the magnitude decreases:
 
 ##### Example 18.43.
 
@@ -800,9 +800,9 @@ The cmavo *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/
 
 :::
 
-The English equivalents are only rough: the cmavo provide space for up to five indefinite numbers between *[ro](/glossary/#ro)* and *[no](/glossary/#no)*, with a built-in ordering. In particular, *[so'e](/glossary/#soe)* does not mean “most” in the sense of “a majority” or “more than half”.
+The English equivalents are only rough: the cmavo provide space for up to five indefinite numbers between *[ro](/glossary/?mode=exact&word=ro)* and *[no](/glossary/?mode=exact&word=no)*, with a built-in ordering. In particular, *[so'e](/glossary/?mode=exact&word=so%27e)* does not mean “most” in the sense of “a majority” or “more than half”.
 
-Each of these numbers, plus *[ro](/glossary/#ro)*, may be prefixed with *[pi](/glossary/#pi)* (the decimal point) in order to make a fractional form which represents part of a whole rather than some elements of a totality. *[piro](/glossary/#piro)* therefore means “the whole of”:
+Each of these numbers, plus *[ro](/glossary/?mode=exact&word=ro)*, may be prefixed with *[pi](/glossary/?mode=exact&word=pi)* (the decimal point) in order to make a fractional form which represents part of a whole rather than some elements of a totality. *[piro](/glossary/?mode=exact&word=piro)* therefore means “the whole of”:
 
 ##### Example 18.48.
 
@@ -815,9 +815,9 @@ Each of these numbers, plus *[ro](/glossary/#ro)*, may be prefixed with *[pi](/g
 
 :::
 
-Similarly, *[piso'a](/glossary/#pisoa)* means “almost the whole of”; and so on down to *[piso'u](/glossary/#pisou)*, “a tiny part of”. These numbers are particularly appropriate with masses, which are usually measured rather than counted, as [Example 18.48](/chapter18/#example-1848 "Example 18.48.") shows.
+Similarly, *[piso'a](/glossary/?mode=exact&word=piso%27a)* means “almost the whole of”; and so on down to *[piso'u](/glossary/?mode=exact&word=piso%27u)*, “a tiny part of”. These numbers are particularly appropriate with masses, which are usually measured rather than counted, as [Example 18.48](/chapter18/#example-1848 "Example 18.48.") shows.
 
-In addition to these cmavo, there is *[no'o](/glossary/#noo)*, meaning “the typical value”, and *pino'o*, meaning “the typical portion”: Sometimes *[no'o](/glossary/#noo)* can be translated “the average value”, but the average in question is not, in general, a mathematical mean, median, or mode; these would be more appropriately represented by operators.
+In addition to these cmavo, there is *[no'o](/glossary/?mode=exact&word=no%27o)*, meaning “the typical value”, and *pino'o*, meaning “the typical portion”: Sometimes *[no'o](/glossary/?mode=exact&word=no%27o)* can be translated “the average value”, but the average in question is not, in general, a mathematical mean, median, or mode; these would be more appropriately represented by operators.
 
 ##### Example 18.49.
 
@@ -841,7 +841,7 @@ In addition to these cmavo, there is *[no'o](/glossary/#noo)*, meaning “the ty
 
 :::
 
-[*da'a*](/glossary/#daa) is a related cmavo meaning “all but”:
+[*da'a*](/glossary/?mode=exact&word=%2Ada%27a%2A) is a related cmavo meaning “all but”:
 
 ##### Example 18.51.
 
@@ -867,7 +867,7 @@ In addition to these cmavo, there is *[no'o](/glossary/#noo)*, meaning “the ty
 
 [Example 18.52](/chapter18/#example-1852 "Example 18.52.") is similar in meaning to [Example 18.43](/chapter18/#example-1843 "Example 18.43.").
 
-If no number follows *[da'a](/glossary/#daa)*, then *[pa](/glossary/#pa)* is assumed; *[da'a](/glossary/#daa)* by itself means “all but one”, or in ordinal contexts “all but the last”:
+If no number follows *[da'a](/glossary/?mode=exact&word=da%27a)*, then *[pa](/glossary/?mode=exact&word=pa)* is assumed; *[da'a](/glossary/?mode=exact&word=da%27a)* by itself means “all but one”, or in ordinal contexts “all but the last”:
 
 ##### Example 18.53.
 
@@ -882,9 +882,9 @@ If no number follows *[da'a](/glossary/#daa)*, then *[pa](/glossary/#pa)* is ass
 
 All rats can eat all other rats.
 
-(The use of *[da'a](/glossary/#daa)* means that [Example 18.53](/chapter18/#example-1853 "Example 18.53.") does not require that all rats can eat themselves, but does allow it. Each rat has one rat it cannot eat, but that one might be some rat other than itself. Context often dictates that “itself” is, indeed, the “other” rat.)
+(The use of *[da'a](/glossary/?mode=exact&word=da%27a)* means that [Example 18.53](/chapter18/#example-1853 "Example 18.53.") does not require that all rats can eat themselves, but does allow it. Each rat has one rat it cannot eat, but that one might be some rat other than itself. Context often dictates that “itself” is, indeed, the “other” rat.)
 
-As mentioned in [Section 18.3](/chapter18/#183-signs-and-numerical-punctuation "18.3. Signs and numerical punctuation"), *[ma'u](/glossary/#mau)* and *[ni'u](/glossary/#niu)* are also legal numbers, and they mean “some positive number” and “some negative number” respectively.
+As mentioned in [Section 18.3](/chapter18/#183-signs-and-numerical-punctuation "18.3. Signs and numerical punctuation"), *[ma'u](/glossary/?mode=exact&word=ma%27u)* and *[ni'u](/glossary/?mode=exact&word=ni%27u)* are also legal numbers, and they mean “some positive number” and “some negative number” respectively.
 
 ##### Example 18.54.
 
@@ -919,7 +919,7 @@ As mentioned in [Section 18.3](/chapter18/#183-signs-and-numerical-punctuation "
 
 :::
 
-All of the numbers discussed so far are objective, even if indefinite. If there are exactly six superpowers (*rairgugde*, “superlative-states”) in the world, then *ro rairgugde* means the same as *xa rairgugde*. It is often useful, however, to express subjective indefinite values. The cmavo *[rau](/glossary/#rau)* (enough), *[du'e](/glossary/#due)* (too many), and *[mo'a](/glossary/#moa)* (too few) are then appropriate:
+All of the numbers discussed so far are objective, even if indefinite. If there are exactly six superpowers (*rairgugde*, “superlative-states”) in the world, then *ro rairgugde* means the same as *xa rairgugde*. It is often useful, however, to express subjective indefinite values. The cmavo *[rau](/glossary/?mode=exact&word=rau)* (enough), *[du'e](/glossary/?mode=exact&word=du%27e)* (too many), and *[mo'a](/glossary/?mode=exact&word=mo%27a)* (too few) are then appropriate:
 
 ##### Example 18.57.
 
@@ -932,7 +932,7 @@ All of the numbers discussed so far are objective, even if indefinite. If there 
 
 :::
 
-Like the *[so'a](/glossary/#soa)*-series, *[rau](/glossary/#rau)*, *[du'e](/glossary/#due)*, and *[mo'a](/glossary/#moa)* can be preceded by *[pi](/glossary/#pi)*; for example, *pirau* means “a sufficient part of.”
+Like the *[so'a](/glossary/?mode=exact&word=so%27a)*-series, *[rau](/glossary/?mode=exact&word=rau)*, *[du'e](/glossary/?mode=exact&word=du%27e)*, and *[mo'a](/glossary/?mode=exact&word=mo%27a)* can be preceded by *[pi](/glossary/?mode=exact&word=pi)*; for example, *pirau* means “a sufficient part of.”
 
 Another possibility is that of combining definite and indefinite numbers into a single number. This usage implies that the two kinds of numbers have the same value in the given context:
 
@@ -976,7 +976,7 @@ The following cmavo are discussed in this section:
 | me'i | PA  | less than     |
 | za'u | PA  | more than     |
 
-The cmavo *[ji'i](/glossary/#jii)* (of selma'o PA) is used in several ways to indicate approximate or rounded numbers. If it appears at the beginning of a number, the whole number is approximate:
+The cmavo *[ji'i](/glossary/?mode=exact&word=ji%27i)* (of selma'o PA) is used in several ways to indicate approximate or rounded numbers. If it appears at the beginning of a number, the whole number is approximate:
 
 ##### Example 18.60.
 
@@ -991,7 +991,7 @@ The cmavo *[ji'i](/glossary/#jii)* (of selma'o PA) is used in several ways to in
 
 approximately 40
 
-If *[ji'i](/glossary/#jii)* appears in the middle of a number, all the digits following it are approximate:
+If *[ji'i](/glossary/?mode=exact&word=ji%27i)* appears in the middle of a number, all the digits following it are approximate:
 
 ##### Example 18.61.
 
@@ -1006,7 +1006,7 @@ If *[ji'i](/glossary/#jii)* appears in the middle of a number, all the digits fo
 
 roughly 4050 (where the “four thousand” is exact, but the “fifty” is approximate)
 
-If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncation towards positive or negative infinity respectively.
+If *[ma'u](/glossary/?mode=exact&word=ma%27u)* or *[ni'u](/glossary/?mode=exact&word=ni%27u)*), which indicate truncation towards positive or negative infinity respectively.
 
 ##### Example 18.62.
 
@@ -1047,9 +1047,9 @@ If *[ma'u](/glossary/#mau)* or *[ni'u](/glossary/#niu)*), which indicate truncat
 
 2.71 (rounded down)
 
-[Example 18.62](/chapter18/#example-1862 "Example 18.62.") through [Example 18.64](/chapter18/#example-1864 "Example 18.64.") are all approximations to *[te'o](/glossary/#teo)* (exponential e). *[ji'i](/glossary/#jii)* can also appear by itself, in which case it means “approximately the typical value in this context”.
+[Example 18.62](/chapter18/#example-1862 "Example 18.62.") through [Example 18.64](/chapter18/#example-1864 "Example 18.64.") are all approximations to *[te'o](/glossary/?mode=exact&word=te%27o)* (exponential e). *[ji'i](/glossary/?mode=exact&word=ji%27i)* can also appear by itself, in which case it means “approximately the typical value in this context”.
 
-The four cmavo *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[me'i](/glossary/#mei)*, and *[za'u](/glossary/#zau)*, also of selma'o PA, express inexact numbers with upper or lower bounds:
+The four cmavo *[su'e](/glossary/?mode=exact&word=su%27e)*, *[su'o](/glossary/?mode=exact&word=su%27o)*, *[me'i](/glossary/?mode=exact&word=me%27i)*, and *[za'u](/glossary/?mode=exact&word=za%27u)*, also of selma'o PA, express inexact numbers with upper or lower bounds:
 
 ##### Example 18.65.
 
@@ -1095,9 +1095,9 @@ The four cmavo *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[me'i](/glos
 
 :::
 
-Each of these is a subtly different claim: [Example 18.66](/chapter18/#example-1866 "Example 18.66.") is true of two or any greater number, whereas [Example 18.68](/chapter18/#example-1868 "Example 18.68.") requires three persons or more. Likewise, [Example 18.65](/chapter18/#example-1865 "Example 18.65.") refers to zero, one, or two; [Example 18.67](/chapter18/#example-1867 "Example 18.67.") to zero or one. (Of course, when the context allows numbers other than non-negative integers, *me'i re* can be any number less than 2, and likewise with the other cases.) The exact quantifier, “exactly 2, neither more nor less” is just *[re](/glossary/#re)*. Note that *su'ore* is the exact Lojban equivalent of English plurals.
+Each of these is a subtly different claim: [Example 18.66](/chapter18/#example-1866 "Example 18.66.") is true of two or any greater number, whereas [Example 18.68](/chapter18/#example-1868 "Example 18.68.") requires three persons or more. Likewise, [Example 18.65](/chapter18/#example-1865 "Example 18.65.") refers to zero, one, or two; [Example 18.67](/chapter18/#example-1867 "Example 18.67.") to zero or one. (Of course, when the context allows numbers other than non-negative integers, *me'i re* can be any number less than 2, and likewise with the other cases.) The exact quantifier, “exactly 2, neither more nor less” is just *[re](/glossary/?mode=exact&word=re)*. Note that *su'ore* is the exact Lojban equivalent of English plurals.
 
-If no number follows one of these cmavo, *[pa](/glossary/#pa)* is understood: therefore,
+If no number follows one of these cmavo, *[pa](/glossary/?mode=exact&word=pa)* is understood: therefore,
 
 ##### Example 18.69.
 
@@ -1112,7 +1112,7 @@ If no number follows one of these cmavo, *[pa](/glossary/#pa)* is understood: th
 
 is a meaningful claim.
 
-Like the numbers in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers"), all of these cmavo may be preceded by *[pi](/glossary/#pi)* to make the corresponding quantifiers for part of a whole. For example, *[pisu'o](/glossary/#pisuo)* means “at least some part of”. The quantifiers *[ro](/glossary/#ro)*, *[su'o](/glossary/#suo)*, *[piro](/glossary/#piro)*, and *[pisu'o](/glossary/#pisuo)* are particularly important in Lojban, as they are implicitly used in the descriptions introduced by the cmavo of selma'o LA and LE, as explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Descriptions in general are outside the scope of this chapter.
+Like the numbers in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers"), all of these cmavo may be preceded by *[pi](/glossary/?mode=exact&word=pi)* to make the corresponding quantifiers for part of a whole. For example, *[pisu'o](/glossary/?mode=exact&word=pisu%27o)* means “at least some part of”. The quantifiers *[ro](/glossary/?mode=exact&word=ro)*, *[su'o](/glossary/?mode=exact&word=su%27o)*, *[piro](/glossary/?mode=exact&word=piro)*, and *[pisu'o](/glossary/?mode=exact&word=pisu%27o)* are particularly important in Lojban, as they are implicitly used in the descriptions introduced by the cmavo of selma'o LA and LE, as explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Descriptions in general are outside the scope of this chapter.
 
 ## 18.10. Non-decimal and compound bases
 
@@ -1131,7 +1131,7 @@ The following cmavo are discussed in this section:
 
 In normal contexts, Lojban assumes that all numbers are expressed in the decimal (base 10) system. However, other bases are possible, and may be appropriate in particular circumstances.
 
-To specify a number in a particular base, the VUhU operator *[ju'u](/glossary/#juu)* is suitable:
+To specify a number in a particular base, the VUhU operator *[ju'u](/glossary/?mode=exact&word=ju%27u)* is suitable:
 
 ##### Example 18.70.
 
@@ -1170,9 +1170,9 @@ Lojban has digits for representing bases up to 16, because 16 is a base often us
 
 :::
 
-Note the pattern in the cmavo: the diphthongs *[au](/glossary/#au)*, *[ei](/glossary/#ei)*, *[ai](/glossary/#ai)* are used twice in the same order. The digits for A to D use consonants different from those used in the decimal digit cmavo; E and F unfortunately overlap 2 and 4 – there was simply not enough available cmavo space to make a full differentiation possible. The cmavo are also in alphabetical order.
+Note the pattern in the cmavo: the diphthongs *[au](/glossary/?mode=exact&word=au)*, *[ei](/glossary/?mode=exact&word=ei)*, *[ai](/glossary/?mode=exact&word=ai)* are used twice in the same order. The digits for A to D use consonants different from those used in the decimal digit cmavo; E and F unfortunately overlap 2 and 4 – there was simply not enough available cmavo space to make a full differentiation possible. The cmavo are also in alphabetical order.
 
-The base point *[pi](/glossary/#pi)* is used in non-decimal bases just as in base 10:
+The base point *[pi](/glossary/?mode=exact&word=pi)* is used in non-decimal bases just as in base 10:
 
 ##### Example 18.73.
 
@@ -1185,9 +1185,9 @@ The base point *[pi](/glossary/#pi)* is used in non-decimal bases just as in bas
 
 :::
 
-Since *[ju'u](/glossary/#juu)* is an operator of selma'o VUhU, it is grammatical to use any operand as the left argument. Semantically, however, it is undefined to use anything but a numeral string on the left. The reason for making *[ju'u](/glossary/#juu)* an operator is to allow reference to a base which is not a constant.
+Since *[ju'u](/glossary/?mode=exact&word=ju%27u)* is an operator of selma'o VUhU, it is grammatical to use any operand as the left argument. Semantically, however, it is undefined to use anything but a numeral string on the left. The reason for making *[ju'u](/glossary/?mode=exact&word=ju%27u)* an operator is to allow reference to a base which is not a constant.
 
-There are some numerical values that require a “base” that varies from digit to digit. For example, times represented in hours, minutes, and seconds have, in effect, three “digits”: the first is base 24, the second and third are base 60. To express such numbers, the compound base separator *[pi'e](/glossary/#pie)* is used:
+There are some numerical values that require a “base” that varies from digit to digit. For example, times represented in hours, minutes, and seconds have, in effect, three “digits”: the first is base 24, the second and third are base 60. To express such numbers, the compound base separator *[pi'e](/glossary/?mode=exact&word=pi%27e)* is used:
 
 ##### Example 18.74.
 
@@ -1200,7 +1200,7 @@ There are some numerical values that require a “base” that varies from digit
 
 :::
 
-Each digit sequence separated by instances of *[pi'e](/glossary/#pie)* is expressed in decimal notation, but the number as a whole is not decimal and can only be added and subtracted by special rules:
+Each digit sequence separated by instances of *[pi'e](/glossary/?mode=exact&word=pi%27e)* is expressed in decimal notation, but the number as a whole is not decimal and can only be added and subtracted by special rules:
 
 ##### Example 18.75.
 
@@ -1221,7 +1221,7 @@ Each digit sequence separated by instances of *[pi'e](/glossary/#pie)* is expres
 
 Of course, only context tells you that the first part of the numbers in [Example 18.74](/chapter18/#example-1874 "Example 18.74.") and [Example 18.75](/chapter18/#example-1875 "Example 18.75.") is hours, the second minutes, and the third seconds.
 
-The same mechanism using *[pi'e](/glossary/#pie)* can be used to express numbers which have a base larger than 16. For example, base-20 Mayan mathematics might use digits from *[no](/glossary/#no)* to *[paso](/glossary/#paso)*, each separated by *[pi'e](/glossary/#pie)*:
+The same mechanism using *[pi'e](/glossary/?mode=exact&word=pi%27e)* can be used to express numbers which have a base larger than 16. For example, base-20 Mayan mathematics might use digits from *[no](/glossary/?mode=exact&word=no)* to *[paso](/glossary/?mode=exact&word=paso)*, each separated by *[pi'e](/glossary/?mode=exact&word=pi%27e)*:
 
 ##### Example 18.76.
 
@@ -1262,7 +1262,7 @@ which is equal to ten, and:
 
 which is equal to twenty.
 
-Both *[pi](/glossary/#pi)* and *[pi'e](/glossary/#pie)* can be used to express large-base fractions:
+Both *[pi](/glossary/?mode=exact&word=pi)* and *[pi'e](/glossary/?mode=exact&word=pi%27e)* can be used to express large-base fractions:
 
 ##### Example 18.79.
 
@@ -1280,7 +1280,7 @@ Both *[pi](/glossary/#pi)* and *[pi'e](/glossary/#pie)* can be used to express l
 | du     | li         | revo | pi  | cimu |
 | equals | the-number | 24   | .   | 35   |
 
-[*pi'e*](/glossary/#pie) is also used where the base of each digit is vague, as in the numbering of the examples in this chapter:
+[*pi'e*](/glossary/?mode=exact&word=%2Api%27e%2A) is also used where the base of each digit is vague, as in the numbering of the examples in this chapter:
 
 ##### Example 18.80.
 
@@ -1311,7 +1311,7 @@ The following cmavo are discussed in this section:
 
 Lojban possesses a special category of selbri which are based on mekso. The simplest kind of such selbri are made by suffixing a member of selma'o MOI to a number. There are five members of MOI, each of which serves to create number-based selbri with specific place structures.
 
-The cmavo *[mei](/glossary/#mei)* creates cardinal selbri. The basic place structure is:
+The cmavo *[mei](/glossary/?mode=exact&word=mei)* creates cardinal selbri. The basic place structure is:
 
 > x1 is a mass formed from the set x2 of n members, one or more of which is/are x3
 
@@ -1348,7 +1348,7 @@ Another example, with one element this time:
 
 :::
 
-In [Example 18.82](/chapter18/#example-1882 "Example 18.82."), *[mi](/glossary/#mi)* refers to a mass, “the mass consisting of me”. Personal pronouns are vague between masses, sets, and individuals.
+In [Example 18.82](/chapter18/#example-1882 "Example 18.82."), *[mi](/glossary/?mode=exact&word=mi)* refers to a mass, “the mass consisting of me”. Personal pronouns are vague between masses, sets, and individuals.
 
 However, when the number expressed before *-mei* is an objective indefinite number of the kind explained in [Section 18.8](/chapter18/#188-indefinite-numbers "18.8. Indefinite numbers"), a slightly different place structure is required:
 
@@ -1389,11 +1389,11 @@ In [Example 18.83](/chapter18/#example-1883 "Example 18.83."), the x2 and x3 pla
 
 There are many rats in the park.
 
-In [Example 18.84](/chapter18/#example-1884 "Example 18.84."), the conversion cmavo *[se](/glossary/#se)* swaps the x1 and the x2 places, so that the new x1 is the set. The x4 set is unspecified, so the implication is that the rats are “many” with respect to some unspecified comparison set.
+In [Example 18.84](/chapter18/#example-1884 "Example 18.84."), the conversion cmavo *[se](/glossary/?mode=exact&word=se)* swaps the x1 and the x2 places, so that the new x1 is the set. The x4 set is unspecified, so the implication is that the rats are “many” with respect to some unspecified comparison set.
 
 More explanations about the interrelationship of sets, masses, and individuals can be found in [Section 6.3](/chapter06/#63-individuals-and-masses "6.3. Individuals and masses").
 
-The cmavo *[moi](/glossary/#moi)* creates ordinal selbri. The place structure is:
+The cmavo *[moi](/glossary/?mode=exact&word=moi)* creates ordinal selbri. The place structure is:
 
 > x1 is the (n)th member of set x2 when ordered by rule x3
 
@@ -1440,7 +1440,7 @@ I am enough-th in the movie line.
 
 [Example 18.87](/chapter18/#example-1887 "Example 18.87.") means, in the appropriate context, that my position in line is sufficiently far to the front that I will get a seat for the movie.
 
-The cmavo *[si'e](/glossary/#sie)* creates portion selbri. The place structure is:
+The cmavo *[si'e](/glossary/?mode=exact&word=si%27e)* creates portion selbri. The place structure is:
 
 > x1 is an (n)th portion of mass x2
 
@@ -1459,7 +1459,7 @@ Some examples:
 
 This meal is one-third of my daily food.
 
-The cmavo *[cu'o](/glossary/#cuo)* creates probability selbri. The place structure is:
+The cmavo *[cu'o](/glossary/?mode=exact&word=cu%27o)* creates probability selbri. The place structure is:
 
 > event x1 has probability (n) of occurring under conditions x2
 
@@ -1476,7 +1476,7 @@ The number must be between 0 and 1 inclusive. For example:
 
 :::
 
-The cmavo *[va'e](/glossary/#vae)* creates a scale selbri. The place structure is:
+The cmavo *[va'e](/glossary/?mode=exact&word=va%27e)* creates a scale selbri. The place structure is:
 
 > x1 is at scale position (n) on the scale x2
 
@@ -1496,7 +1496,7 @@ If the scale is granular rather than continuous, a form like *cifi'uxa* (3/6) ma
 This rose is 8 out of 10 on the scale of redness.  
 This rose is very red.
 
-When the quantifier preceding any MOI cmavo includes the subjective numbers *[rau](/glossary/#rau)*, *[du'e](/glossary/#due)*, or *[mo'a](/glossary/#moa)* (enough, too many, too few) then an additional place is added for “by standard”. For example:
+When the quantifier preceding any MOI cmavo includes the subjective numbers *[rau](/glossary/?mode=exact&word=rau)*, *[du'e](/glossary/?mode=exact&word=du%27e)*, or *[mo'a](/glossary/?mode=exact&word=mo%27a)* (enough, too many, too few) then an additional place is added for “by standard”. For example:
 
 ##### Example 18.91.
 
@@ -1516,7 +1516,7 @@ When the quantifier preceding any MOI cmavo includes the subjective numbers *[ra
 
 There are too many rats in the park for me.
 
-The extra place (which for *-mei* is the x4 place labeled by *[fo](/glossary/#fo)*) is provided rather than using a BAI tag such as *[ma'i](/glossary/#mai)* because a specification of the standard for judgment is essential to the meaning of subjective words like “enough”.
+The extra place (which for *-mei* is the x4 place labeled by *[fo](/glossary/?mode=exact&word=fo)*) is provided rather than using a BAI tag such as *[ma'i](/glossary/?mode=exact&word=ma%27i)* because a specification of the standard for judgment is essential to the meaning of subjective words like “enough”.
 
 This place is not normally explicit when using one of the subjective numbers directly as a number. Therefore, *du'e ratcu* means “too many rats” without specifying any standard.
 
@@ -1537,7 +1537,7 @@ That is my $n$-th rat.
 
 More complex mekso cannot be placed directly in front of MOI, due to the resulting grammatical ambiguities. Instead, a somewhat artificial form of expression is required.
 
-The cmavo *[me](/glossary/#me)* (of selma'o ME) has the function of making a sumti into a selbri. A whole *[me](/glossary/#me)* construction can have a member of MOI added to the end to create a complex mekso selbri:
+The cmavo *[me](/glossary/?mode=exact&word=me)* (of selma'o ME) has the function of making a sumti into a selbri. A whole *[me](/glossary/?mode=exact&word=me)* construction can have a member of MOI added to the end to create a complex mekso selbri:
 
 ##### Example 18.93.
 
@@ -1557,9 +1557,9 @@ The cmavo *[me](/glossary/#me)* (of selma'o ME) has the function of making a sum
 
 That is my $(n+1)$-th rat.
 
-Here the mekso *ny. su'i pa* is made into a sumti (with *[li](/glossary/#li)*) and then changed into a mekso selbri with *[me](/glossary/#me)* and *me'u moi*. The elidable terminator *[me'u](/glossary/#meu)* is required here in order to keep the *[pa](/glossary/#pa)* and the *[moi](/glossary/#moi)* separate; otherwise, the parser will combine them into the compound *[pamoi](/glossary/#pamoi)* and reject the sentence as ungrammatical.
+Here the mekso *ny. su'i pa* is made into a sumti (with *[li](/glossary/?mode=exact&word=li)*) and then changed into a mekso selbri with *[me](/glossary/?mode=exact&word=me)* and *me'u moi*. The elidable terminator *[me'u](/glossary/?mode=exact&word=me%27u)* is required here in order to keep the *[pa](/glossary/?mode=exact&word=pa)* and the *[moi](/glossary/?mode=exact&word=moi)* separate; otherwise, the parser will combine them into the compound *[pamoi](/glossary/?mode=exact&word=pamoi)* and reject the sentence as ungrammatical.
 
-It is perfectly possible to use non-numerical sumti after *[me](/glossary/#me)* and before a member of MOI, producing strange results indeed:
+It is perfectly possible to use non-numerical sumti after *[me](/glossary/?mode=exact&word=me)* and before a member of MOI, producing strange results indeed:
 
 ##### Example 18.94.
 
@@ -1579,7 +1579,7 @@ It is perfectly possible to use non-numerical sumti after *[me](/glossary/#me)* 
 
 I have a snowball's chance in Hell of being king.
 
-Note: the elidable terminator *[boi](/glossary/#boi)* is not used between a number and a member of MOI. As a result, the *[me'u](/glossary/#meu)* in [Example 18.93](/chapter18/#example-1893 "Example 18.93.") could also be replaced by a *[boi](/glossary/#boi)*, which would serve the same function of preventing the *[pa](/glossary/#pa)* and *[moi](/glossary/#moi)* from joining into a compound.
+Note: the elidable terminator *[boi](/glossary/?mode=exact&word=boi)* is not used between a number and a member of MOI. As a result, the *[me'u](/glossary/?mode=exact&word=me%27u)* in [Example 18.93](/chapter18/#example-1893 "Example 18.93.") could also be replaced by a *[boi](/glossary/?mode=exact&word=boi)*, which would serve the same function of preventing the *[pa](/glossary/?mode=exact&word=pa)* and *[moi](/glossary/?mode=exact&word=moi)* from joining into a compound.
 
 ## 18.12. Number questions
 
@@ -1589,7 +1589,7 @@ The following cmavo is discussed in this section:
 | --- | --- | --------------- |
 | xo  | PA  | number question |
 
-The cmavo *[xo](/glossary/#xo)*, a member of selma'o PA, is used to ask questions whose answers are numbers. Like most Lojban question words, it fills the blank where the answer should go. (See [Section 19.5](/chapter19/#195-questions-and-answers "19.5. Questions and answers") for more on Lojban questions.)
+The cmavo *[xo](/glossary/?mode=exact&word=xo)*, a member of selma'o PA, is used to ask questions whose answers are numbers. Like most Lojban question words, it fills the blank where the answer should go. (See [Section 19.5](/chapter19/#195-questions-and-answers "19.5. Questions and answers") for more on Lojban questions.)
 
 ##### Example 18.95.
 
@@ -1617,7 +1617,7 @@ What is $2 + 2$?
 
 Which person \[as in a police lineup\] hit you?
 
-[*xo*](/glossary/#xo) can also be combined with other digits to ask questions whose answers are already partly specified. This ability could be very useful in writing tests of elementary arithmetical knowledge:
+[*xo*](/glossary/?mode=exact&word=%2Axo%2A) can also be combined with other digits to ask questions whose answers are already partly specified. This ability could be very useful in writing tests of elementary arithmetical knowledge:
 
 ##### Example 18.97.
 
@@ -1630,7 +1630,7 @@ Which person \[as in a police lineup\] hit you?
 
 :::
 
-to which the correct reply would be *[mu](/glossary/#mu)*, or 5. The ability to utter bare numbers as grammatical Lojban sentences is primarily intended for giving answers to *[xo](/glossary/#xo)* questions. (Another use, obviously, is for counting off physical objects one by one.)
+to which the correct reply would be *[mu](/glossary/?mode=exact&word=mu)*, or 5. The ability to utter bare numbers as grammatical Lojban sentences is primarily intended for giving answers to *[xo](/glossary/?mode=exact&word=xo)* questions. (Another use, obviously, is for counting off physical objects one by one.)
 
 ## 18.13. Subscripts
 
@@ -1655,7 +1655,7 @@ Subscripting is a general Lojban feature, not used only in mekso; there are many
 
 $x_3 = x_1 + x_2$
 
-Subscripts always begin with the flag *[xi](/glossary/#xi)* (of selma'o XI). *[xi](/glossary/#xi)* may be followed by a number, a lerfu string, or a general mekso expression in parentheses:
+Subscripts always begin with the flag *[xi](/glossary/?mode=exact&word=xi)* (of selma'o XI). *[xi](/glossary/?mode=exact&word=xi)* may be followed by a number, a lerfu string, or a general mekso expression in parentheses:
 
 ##### Example 18.99.
 
@@ -1681,11 +1681,11 @@ $x_n$
 
 $x_{(n+1)}$
 
-Note that subscripts attached directly to lerfu words (variables) generally need a *[boi](/glossary/#boi)* terminating the variable. Free modifiers, of which subscripts are one variety, generally require the explicit presence of an otherwise elidable terminator.
+Note that subscripts attached directly to lerfu words (variables) generally need a *[boi](/glossary/?mode=exact&word=boi)* terminating the variable. Free modifiers, of which subscripts are one variety, generally require the explicit presence of an otherwise elidable terminator.
 
 There is no standard way of handling superscripts (other than those used as exponents) or for subscripts or superscripts that come before the main expression. If necessary, further cmavo could be assigned to selma'o XI for these purposes.
 
-The elidable terminator for a subscript is that for a general number or lerfu string, namely *[boi](/glossary/#boi)*. By convention, a subscript following another subscript is taken to be a sub-subscript:
+The elidable terminator for a subscript is that for a general number or lerfu string, namely *[boi](/glossary/?mode=exact&word=boi)*. By convention, a subscript following another subscript is taken to be a sub-subscript:
 
 ##### Example 18.102.
 
@@ -1713,7 +1713,7 @@ The following cmavo are discussed in this section:
 | ge'a | VUhU | null operator        |
 | gei  | VUhU | exponential notation |
 
-The infix operators presented so far have always had exactly two operands, and for more or fewer operands forethought notation has been required. However, it is possible to use an operator in infix style even though it has more or fewer than two operands, through the use of a pair of tricks: the null operand *[tu'o](/glossary/#tuo)* and the null operator *[ge'a](/glossary/#gea)*. The first is suitable when there are too few operands, the second when there are too many. For example, suppose we wanted to express the numerical negation operator *[va'a](/glossary/#vaa)* in infix form. We would use:
+The infix operators presented so far have always had exactly two operands, and for more or fewer operands forethought notation has been required. However, it is possible to use an operator in infix style even though it has more or fewer than two operands, through the use of a pair of tricks: the null operand *[tu'o](/glossary/?mode=exact&word=tu%27o)* and the null operator *[ge'a](/glossary/?mode=exact&word=ge%27a)*. The first is suitable when there are too few operands, the second when there are too many. For example, suppose we wanted to express the numerical negation operator *[va'a](/glossary/?mode=exact&word=va%27a)* in infix form. We would use:
 
 ##### Example 18.103.
 
@@ -1727,9 +1727,9 @@ The infix operators presented so far have always had exactly two operands, and f
 
 :::
 
-The *[tu'o](/glossary/#tuo)* fulfills the grammatical requirement for a left operand for the infix use of *[va'a](/glossary/#vaa)*, even though semantically none is needed or wanted.
+The *[tu'o](/glossary/?mode=exact&word=tu%27o)* fulfills the grammatical requirement for a left operand for the infix use of *[va'a](/glossary/?mode=exact&word=va%27a)*, even though semantically none is needed or wanted.
 
-Finding a suitable example of *[ge'a](/glossary/#gea)* requires exhibiting a ternary operator, and ternary operators are not common. The operator *[gei](/glossary/#gei)*, however, has both a binary and a ternary use. As a binary operator, it provides a terse representation of scientific (also called “exponential”) notation. The first operand of *[gei](/glossary/#gei)* is the exponent, and the second operand is the mantissa or fraction:
+Finding a suitable example of *[ge'a](/glossary/?mode=exact&word=ge%27a)* requires exhibiting a ternary operator, and ternary operators are not common. The operator *[gei](/glossary/?mode=exact&word=gei)*, however, has both a binary and a ternary use. As a binary operator, it provides a terse representation of scientific (also called “exponential”) notation. The first operand of *[gei](/glossary/?mode=exact&word=gei)* is the exponent, and the second operand is the mantissa or fraction:
 
 ##### Example 18.104.
 
@@ -1748,7 +1748,7 @@ Finding a suitable example of *[ge'a](/glossary/#gea)* requires exhibiting a ter
 | the-number                 | eight | scientific | three. |
 | 300,000,000 = 3 \times 108 |       |            |        |
 
-Why are the arguments to *[gei](/glossary/#gei)* in reverse order from the conventional symbolic notation? So that *[gei](/glossary/#gei)* can be used in forethought to allow easy specification of a large (or small) imprecise number:
+Why are the arguments to *[gei](/glossary/?mode=exact&word=gei)* in reverse order from the conventional symbolic notation? So that *[gei](/glossary/?mode=exact&word=gei)* can be used in forethought to allow easy specification of a large (or small) imprecise number:
 
 ##### Example 18.105.
 
@@ -1763,7 +1763,7 @@ Why are the arguments to *[gei](/glossary/#gei)* in reverse order from the conve
 
 $10^{20}$
 
-Note, however, that although 10 is far and away the most common exponent base, it is not the only possible one. The third operand of *[gei](/glossary/#gei)*, therefore, is the base, with 10 as the default value. Most computers internally store so-called “floating-point” numbers using 2 as the exponent base. (This has nothing to do with the fact that computers also represent all integers in base 2; the IBM 360 series used an exponent base of 16 for floating point, although each component of the number was expressed in base 2.) Here is a computer floating-point number with a value of 40:
+Note, however, that although 10 is far and away the most common exponent base, it is not the only possible one. The third operand of *[gei](/glossary/?mode=exact&word=gei)*, therefore, is the base, with 10 as the default value. Most computers internally store so-called “floating-point” numbers using 2 as the exponent base. (This has nothing to do with the fact that computers also represent all integers in base 2; the IBM 360 series used an exponent base of 16 for floating point, although each component of the number was expressed in base 2.) Here is a computer floating-point number with a value of 40:
 
 ##### Example 18.106.
 
@@ -1796,7 +1796,7 @@ The following cmavo are discussed in this section:
 
 A mathematical vector is a list of numbers, and a mathematical matrix is a table of numbers. Lojban considers matrices to be built up out of vectors, which are in turn built up out of operands.
 
-[*jo'i*](/glossary/#joi), the only cmavo of selma'o JOhI, is the vector indicator: it has a syntax reminiscent of a forethought operator, but has very high precedence. The components must be simple operands rather than full expressions (unless parenthesized). A vector can have any number of components; *[te'u](/glossary/#teu)* is the elidable terminator. An example:
+[*jo'i*](/glossary/?mode=exact&word=%2Ajo%27i%2A), the only cmavo of selma'o JOhI, is the vector indicator: it has a syntax reminiscent of a forethought operator, but has very high precedence. The components must be simple operands rather than full expressions (unless parenthesized). A vector can have any number of components; *[te'u](/glossary/?mode=exact&word=te%27u)* is the elidable terminator. An example:
 
 ##### Example 18.107.
 
@@ -1816,7 +1816,7 @@ A mathematical vector is a list of numbers, and a mathematical matrix is a table
 
 $(1,2) + (3,4) = (4,6)$
 
-Vectors can be combined into matrices using either *[pi'a](/glossary/#pia)*, the matrix row operator, or *[sa'i](/glossary/#sai)*, the matrix column operator. The first combines vectors representing rows of the matrix, and the second combines vectors representing columns of the matrix. Both of them allow any number of arguments: additional arguments are tacked on with the null operator *[ge'a](/glossary/#gea)*.
+Vectors can be combined into matrices using either *[pi'a](/glossary/?mode=exact&word=pi%27a)*, the matrix row operator, or *[sa'i](/glossary/?mode=exact&word=sa%27i)*, the matrix column operator. The first combines vectors representing rows of the matrix, and the second combines vectors representing columns of the matrix. Both of them allow any number of arguments: additional arguments are tacked on with the null operator *[ge'a](/glossary/?mode=exact&word=ge%27a)*.
 
 Therefore, the “magic square” matrix
 
@@ -1862,9 +1862,9 @@ or as
 | ge'a | jo'i       | xaboi | zeboi | re  |
 |      | the-vector | (6    | 7     | 2)  |
 
-The regular mekso operators can be applied to vectors and to matrices, since grammatically both of these are expressions. It is usually necessary to parenthesize matrices when used with operators in order to avoid incorrect groupings. There are no VUhU operators for the matrix operators of inner or outer products, but appropriate operators can be created using a suitable symbolic lerfu word or string prefixed by *[ma'o](/glossary/#mao)*.
+The regular mekso operators can be applied to vectors and to matrices, since grammatically both of these are expressions. It is usually necessary to parenthesize matrices when used with operators in order to avoid incorrect groupings. There are no VUhU operators for the matrix operators of inner or outer products, but appropriate operators can be created using a suitable symbolic lerfu word or string prefixed by *[ma'o](/glossary/?mode=exact&word=ma%27o)*.
 
-Matrices of more than two dimensions can be built up using either *[pi'a](/glossary/#pia)* or *[sa'i](/glossary/#sai)* with an appropriate subscript numbering the dimension. When subscripted, there is no difference between *[pi'a](/glossary/#pia)* and *[sa'i](/glossary/#sai)*.
+Matrices of more than two dimensions can be built up using either *[pi'a](/glossary/?mode=exact&word=pi%27a)* or *[sa'i](/glossary/?mode=exact&word=sa%27i)* with an appropriate subscript numbering the dimension. When subscripted, there is no difference between *[pi'a](/glossary/?mode=exact&word=pi%27a)* and *[sa'i](/glossary/?mode=exact&word=sa%27i)*.
 
 ## 18.16. Reverse Polish notation
 
@@ -1876,7 +1876,7 @@ The following cmavo is discussed in this section:
 
 So far, the Lojban notational conventions have mapped fairly familiar kinds of mathematical discourse. The use of forethought operators may have seemed odd when applied to “+”, but when applied to $f$ they appear as the usual functional notation. Now comes a sharp break. Reverse Polish (RP) notation represents something completely different; even mathematicians don't use it much. (The only common uses of RP, in fact, are in some kinds of calculators and in the implementation of some programming languages.)
 
-In RP notation, the operator follows the operands. (Polish notation, where the operator precedes its operands, is another name for forethought mekso of the kind explained in [Section 18.6](/chapter18/#186-forethought-operators-polish-notation-functions "18.6. Forethought operators (Polish notation, functions)").) The number of operands per operator is always fixed. No parentheses are required or permitted. In Lojban, RP notation is always explicitly marked by a *[fu'a](/glossary/#fua)* at the beginning of the expression; there is no terminator. Here is a simple example:
+In RP notation, the operator follows the operands. (Polish notation, where the operator precedes its operands, is another name for forethought mekso of the kind explained in [Section 18.6](/chapter18/#186-forethought-operators-polish-notation-functions "18.6. Forethought operators (Polish notation, functions)").) The number of operands per operator is always fixed. No parentheses are required or permitted. In Lojban, RP notation is always explicitly marked by a *[fu'a](/glossary/?mode=exact&word=fu%27a)* at the beginning of the expression; there is no terminator. Here is a simple example:
 
 ##### Example 18.110.
 
@@ -1889,7 +1889,7 @@ In RP notation, the operator follows the operands. (Polish notation, where the o
 
 :::
 
-The operands are *[re](/glossary/#re)* and *[ci](/glossary/#ci)*; the operator is *[su'i](/glossary/#sui)*.
+The operands are *[re](/glossary/?mode=exact&word=re)* and *[ci](/glossary/?mode=exact&word=ci)*; the operator is *[su'i](/glossary/?mode=exact&word=su%27i)*.
 
 Here is a more complex example:
 
@@ -1904,11 +1904,11 @@ Here is a more complex example:
 
 :::
 
-Here the operands of the first *[pi'i](/glossary/#pii)* are *[re](/glossary/#re)* and *[ci](/glossary/#ci)*; the operands of the second *[pi'i](/glossary/#pii)* are *[vo](/glossary/#vo)* and *[mu](/glossary/#mu)* (with *[boi](/glossary/#boi)* inserted where needed), and the operands of the *[su'i](/glossary/#sui)* are *reboi ci pi'i*, or 6, and *voboi mu pi'i*, or 20. As you can see, it is easy to get lost in the world of reverse Polish notation; on the other hand, it is especially easy for a mechanical listener (who has a deep mental stack and doesn't get lost) to comprehend.
+Here the operands of the first *[pi'i](/glossary/?mode=exact&word=pi%27i)* are *[re](/glossary/?mode=exact&word=re)* and *[ci](/glossary/?mode=exact&word=ci)*; the operands of the second *[pi'i](/glossary/?mode=exact&word=pi%27i)* are *[vo](/glossary/?mode=exact&word=vo)* and *[mu](/glossary/?mode=exact&word=mu)* (with *[boi](/glossary/?mode=exact&word=boi)* inserted where needed), and the operands of the *[su'i](/glossary/?mode=exact&word=su%27i)* are *reboi ci pi'i*, or 6, and *voboi mu pi'i*, or 20. As you can see, it is easy to get lost in the world of reverse Polish notation; on the other hand, it is especially easy for a mechanical listener (who has a deep mental stack and doesn't get lost) to comprehend.
 
 The operands of an RP operator can be any legal mekso operand, including parenthesized mekso that can contain any valid syntax, whether more RP or something more conventional.
 
-In Lojban, RP operators are always parsed with exactly two operands. What about operators which require only one operand, or more than two operands? The null operand *[tu'o](/glossary/#tuo)* and the null operator *[ge'a](/glossary/#gea)* provide a simple solution. A one-operand operator like *[va'a](/glossary/#vaa)* always appears in a reverse Polish context as *tu'o va'a*. The *[tu'o](/glossary/#tuo)* provides the second operand, which is semantically ignored but grammatically necessary. Likewise, the three-operand version of *[gei](/glossary/#gei)* appears in reverse Polish as *ge'a gei*, where the *[ge'a](/glossary/#gea)* effectively merges the 2nd and 3rd operands into a single operand. Here are some examples:
+In Lojban, RP operators are always parsed with exactly two operands. What about operators which require only one operand, or more than two operands? The null operand *[tu'o](/glossary/?mode=exact&word=tu%27o)* and the null operator *[ge'a](/glossary/?mode=exact&word=ge%27a)* provide a simple solution. A one-operand operator like *[va'a](/glossary/?mode=exact&word=va%27a)* always appears in a reverse Polish context as *tu'o va'a*. The *[tu'o](/glossary/?mode=exact&word=tu%27o)* provides the second operand, which is semantically ignored but grammatically necessary. Likewise, the three-operand version of *[gei](/glossary/?mode=exact&word=gei)* appears in reverse Polish as *ge'a gei*, where the *[ge'a](/glossary/?mode=exact&word=ge%27a)* effectively merges the 2nd and 3rd operands into a single operand. Here are some examples:
 
 ##### Example 18.112.
 
@@ -1950,7 +1950,7 @@ The following cmavo are discussed in this section:
 
 As befits a logical language, Lojban has extensive provision for logical connectives within both operators and operands. Full details on logical and non-logical connectives are provided in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System"). Operands are connected in afterthought with selma'o A and in forethought with selma'o GA, just like sumti. Operators are connected in afterthought with selma'o JA and in forethought with selma'o GUhA, just like tanru components. This parallelism is no accident.
 
-In addition, A+BO and A+KE constructs are allowed for grouping logically connected operands, and *[ke'e](/glossary/#kee)* is allowed for grouping logically connected operators, although there are no analogues of tanru among the operators.
+In addition, A+BO and A+KE constructs are allowed for grouping logically connected operands, and *[ke'e](/glossary/?mode=exact&word=ke%27e)* is allowed for grouping logically connected operators, although there are no analogues of tanru among the operators.
 
 Despite the large number of rules required to support this feature, it is of relatively minor importance in the mekso scheme of things. [Example 18.114](/chapter18/#example-18114 "Example 18.114.") exhibits afterthought logical connection between operands:
 
@@ -1978,9 +1978,9 @@ Despite the large number of rules required to support this feature, it is of rel
 
 :::
 
-Note that the mekso here are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in parentheses when used as a quantifier. This rule prevents ambiguities that do not exist when using *[li](/glossary/#li)*.
+Note that the mekso here are being used as quantifiers. Lojban requires that any mekso other than a simple number be enclosed in parentheses when used as a quantifier. This rule prevents ambiguities that do not exist when using *[li](/glossary/?mode=exact&word=li)*.
 
-By the way, *[li](/glossary/#li)* has an elidable terminator, *[lo'o](/glossary/#loo)*, which is needed when a *[li](/glossary/#li)* sumti is followed by a logical connective that could seem to be within the mekso. For example:
+By the way, *[li](/glossary/?mode=exact&word=li)* has an elidable terminator, *[lo'o](/glossary/?mode=exact&word=lo%27o)*, which is needed when a *[li](/glossary/?mode=exact&word=li)* sumti is followed by a logical connective that could seem to be within the mekso. For example:
 
 ##### Example 18.116.
 
@@ -1993,7 +1993,7 @@ By the way, *[li](/glossary/#li)* has an elidable terminator, *[lo'o](/glossary/
 
 :::
 
-Omitting the *[lo'o](/glossary/#loo)* would cause the parser to assume that another operand followed the *[.onai](/glossary/#onai)* and reject *[lo](/glossary/#lo)* as an invalid operand.
+Omitting the *[lo'o](/glossary/?mode=exact&word=lo%27o)* would cause the parser to assume that another operand followed the *[.onai](/glossary/?mode=exact&word=onai)* and reject *[lo](/glossary/?mode=exact&word=lo)* as an invalid operand.
 
 Simple examples of logical connection between operators are hard to come by. A contrived example is:
 
@@ -2040,9 +2040,9 @@ Here is a classic example of operand logical connection:
 
 Iff $ax^{2} + bx + c = 0$, then $x = \dfrac{-b\plusmn \sqrt{b^{2} - 4ac}}{2a}$
 
-Note the mixture of styles in [Example 18.119](/chapter18/#example-18119 "Example 18.119."): the negation of b and the square root are represented by forethought and most of the operator precedence by prefixed *[bi'e](/glossary/#bie)*, but explicit parentheses had to be added to group the numerator properly. In addition, the square root parentheses cannot be removed here in favor of simple *[fe'a](/glossary/#fea)* and *[ku'e](/glossary/#kue)* bracketing, because infix operators are present in the operand. Getting [Example 18.119](/chapter18/#example-18119 "Example 18.119.") to parse perfectly using the current parser took several tries: a more relaxed style would dispense with most of the *[bi'e](/glossary/#bie)* cmavo and just let the standard precedence rules be understood.
+Note the mixture of styles in [Example 18.119](/chapter18/#example-18119 "Example 18.119."): the negation of b and the square root are represented by forethought and most of the operator precedence by prefixed *[bi'e](/glossary/?mode=exact&word=bi%27e)*, but explicit parentheses had to be added to group the numerator properly. In addition, the square root parentheses cannot be removed here in favor of simple *[fe'a](/glossary/?mode=exact&word=fe%27a)* and *[ku'e](/glossary/?mode=exact&word=ku%27e)* bracketing, because infix operators are present in the operand. Getting [Example 18.119](/chapter18/#example-18119 "Example 18.119.") to parse perfectly using the current parser took several tries: a more relaxed style would dispense with most of the *[bi'e](/glossary/?mode=exact&word=bi%27e)* cmavo and just let the standard precedence rules be understood.
 
-Non-logical connection with JOI and BIhI is also permitted between operands and between operators. One use for this construct is to connect operands with *[bi'o](/glossary/#bio)* to create intervals:
+Non-logical connection with JOI and BIhI is also permitted between operands and between operators. One use for this construct is to connect operands with *[bi'o](/glossary/?mode=exact&word=bi%27o)* to create intervals:
 
 ##### Example 18.120.
 
@@ -2059,7 +2059,7 @@ $[0, 1)$
 
 the numbers from zero to one, including zero but not including one
 
-Intervals defined by a midpoint and range rather than beginning and end points can be expressed by *[mi'i](/glossary/#mii)*
+Intervals defined by a midpoint and range rather than beginning and end points can be expressed by *[mi'i](/glossary/?mode=exact&word=0%2C%201%29%24%0A%0Athe%20numbers%20from%20zero%20to%20one%2C%20including%20zero%20but%20not%20including%20one%0A%0AIntervals%20defined%20by%20a%20midpoint%20and%20range%20rather%20than%20beginning%20and%20end%20points%20can%20be%20expressed%20by%20%2A%5Bmi%27i)*
 
 ##### Example 18.121.
 
@@ -2072,7 +2072,7 @@ Intervals defined by a midpoint and range rather than beginning and end points c
 
 :::
 
-which expresses the same interval as [Example 18.120](/chapter18/#example-18120 "Example 18.120."). Note that the *[ga'o](/glossary/#gao)* and *[ke'i](/glossary/#kei)* still refer to the endpoints, although these are now implied rather than expressed. Another way of expressing the same thing:
+which expresses the same interval as [Example 18.120](/chapter18/#example-18120 "Example 18.120."). Note that the *[ga'o](/glossary/?mode=exact&word=ga%27o)* and *[ke'i](/glossary/?mode=exact&word=ke%27i)* still refer to the endpoints, although these are now implied rather than expressed. Another way of expressing the same thing:
 
 ##### Example 18.122.
 
@@ -2087,7 +2087,7 @@ which expresses the same interval as [Example 18.120](/chapter18/#example-18120 
 
 Here we have the sum of a number and an interval, which produces another interval centered on the number. As [Example 18.122](/chapter18/#example-18122 "Example 18.122.") shows, non-logical (or logical) connection of operands has higher precedence than any mekso operator.
 
-You can also combine two operands with *[ce'o](/glossary/#ceo)*, the sequence connective of selma'o JOI, to make a compound subscript:
+You can also combine two operands with *[ce'o](/glossary/?mode=exact&word=ce%27o)*, the sequence connective of selma'o JOI, to make a compound subscript:
 
 ##### Example 18.123.
 
@@ -2112,9 +2112,9 @@ The following cmavo are discussed in this section:
 | mo'e | MOhE | sumti to operand         |
 | te'u | TEhU | terminator for all three |
 
-One of the mekso design goals requires the ability to make use of Lojban's vocabulary resources within mekso to extend the built-in cmavo for operands and operators. There are three relevant constructs: all three share the elidable terminator *[te'u](/glossary/#teu)* (which is also used to terminate vectors marked with *[jo'i](/glossary/#joi)*)
+One of the mekso design goals requires the ability to make use of Lojban's vocabulary resources within mekso to extend the built-in cmavo for operands and operators. There are three relevant constructs: all three share the elidable terminator *[te'u](/glossary/?mode=exact&word=te%27u)* (which is also used to terminate vectors marked with *[jo'i](/glossary/?mode=exact&word=jo%27i)*)
 
-The cmavo *[na'u](/glossary/#nau)* makes a selbri into an operator. In general, the first place of the selbri specifies the result of the operator, and the other unfilled places specify the operands:
+The cmavo *[na'u](/glossary/?mode=exact&word=na%27u)* makes a selbri into an operator. In general, the first place of the selbri specifies the result of the operator, and the other unfilled places specify the operands:
 
 ##### Example 18.124.
 
@@ -2129,9 +2129,9 @@ The cmavo *[na'u](/glossary/#nau)* makes a selbri into an operator. In general, 
 
 $\tan{\dfrac{\pi}{2}} = \infty$
 
-*[tanjo](/glossary/#tanjo)* is the gismu for “x1 is the tangent of x2”, and the *[na'u](/glossary/#nau)* here makes it into an operator which is then used in forethought
+*[tanjo](/glossary/?mode=exact&word=tanjo)* is the gismu for “x1 is the tangent of x2”, and the *[na'u](/glossary/?mode=exact&word=na%27u)* here makes it into an operator which is then used in forethought
 
-The cmavo *[ni'e](/glossary/#nie)* makes a selbri into an operand. The x1 place of the selbri generally represents a number, and therefore is often a *[ni](/glossary/#ni)* abstraction, since *[ni](/glossary/#ni)* abstractions represent numbers. The *[ni'e](/glossary/#nie)* makes that number available as a mekso operand. A common application is to make equations relating pure dimensions:
+The cmavo *[ni'e](/glossary/?mode=exact&word=ni%27e)* makes a selbri into an operand. The x1 place of the selbri generally represents a number, and therefore is often a *[ni](/glossary/?mode=exact&word=ni)* abstraction, since *[ni](/glossary/?mode=exact&word=ni)* abstractions represent numbers. The *[ni'e](/glossary/?mode=exact&word=ni%27e)* makes that number available as a mekso operand. A common application is to make equations relating pure dimensions:
 
 ##### Example 18.125.
 
@@ -2146,7 +2146,7 @@ The cmavo *[ni'e](/glossary/#nie)* makes a selbri into an operand. The x1 place 
 
 $\text{Length} \times \text{Width} \times \text{Depth} = \text{Volume}$
 
-The cmavo *[mo'e](/glossary/#moe)* operates similarly to *[ni'e](/glossary/#nie)*, but makes a sumti (rather than a selbri) into an operand. This construction is useful in stating equations involving dimensioned numbers:
+The cmavo *[mo'e](/glossary/?mode=exact&word=mo%27e)* operates similarly to *[ni'e](/glossary/?mode=exact&word=ni%27e)*, but makes a sumti (rather than a selbri) into an operand. This construction is useful in stating equations involving dimensioned numbers:
 
 ##### Example 18.126.
 
@@ -2188,9 +2188,9 @@ The following cmavo are discussed in this section:
 | mo'o | MAI  | higher order utterance ordinal |
 | roi  | ROI  | quantified tense               |
 
-So far we have seen mekso used as sumti (with *[li](/glossary/#li)*), as quantifiers (often parenthesized), and in MOI and ME-MOI selbri. There are a few other minor uses of mekso within Lojban.
+So far we have seen mekso used as sumti (with *[li](/glossary/?mode=exact&word=li)*), as quantifiers (often parenthesized), and in MOI and ME-MOI selbri. There are a few other minor uses of mekso within Lojban.
 
-The cmavo *[me'o](/glossary/#meo)* has the same grammatical use as *[li](/glossary/#li)* but slightly different semantics. *[li](/glossary/#li)* means “the number which is the value of the mekso ...”, whereas *[me'o](/glossary/#meo)* just means “the mekso ...” So it is true that:
+The cmavo *[me'o](/glossary/?mode=exact&word=me%27o)* has the same grammatical use as *[li](/glossary/?mode=exact&word=li)* but slightly different semantics. *[li](/glossary/?mode=exact&word=li)* means “the number which is the value of the mekso ...”, whereas *[me'o](/glossary/?mode=exact&word=me%27o)* just means “the mekso ...” So it is true that:
 
 ##### Example 18.128.
 
@@ -2220,9 +2220,9 @@ but false that:
 
 “2 + 2” = “4”
 
-since the expressions “2 + 2” and “4” are not the same. The relationship between *[li](/glossary/#li)* and *[me'o](/glossary/#meo)* is related to that between *la djan.*, the person named John, and *zo .djan.*, the name “John”
+since the expressions “2 + 2” and “4” are not the same. The relationship between *[li](/glossary/?mode=exact&word=li)* and *[me'o](/glossary/?mode=exact&word=me%27o)* is related to that between *la djan.*, the person named John, and *zo .djan.*, the name “John”
 
-The cmavo *[nu'a](/glossary/#nua)* is the inverse of *[na'u](/glossary/#nau)*, and allows a mekso operator to be used as a normal selbri, with the place structure:
+The cmavo *[nu'a](/glossary/?mode=exact&word=nu%27a)* is the inverse of *[na'u](/glossary/?mode=exact&word=na%27u)*, and allows a mekso operator to be used as a normal selbri, with the place structure:
 
 > x1 is the result of applying (operator) to x2, x3, ...
 
@@ -2239,9 +2239,9 @@ for as many places as may be required. For example:
 
 :::
 
-uses *[nu'a](/glossary/#nua)* to make the operator *[va'a](/glossary/#vaa)* into a two-place bridi
+uses *[nu'a](/glossary/?mode=exact&word=nu%27a)* to make the operator *[va'a](/glossary/?mode=exact&word=va%27a)* into a two-place bridi
 
-Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it possible to ask questions about mekso operators, even though there is no specific cmavo for an operator question, nor is it grammatical to utter an operator in isolation. Consider [Example 18.131](/chapter18/#example-18131 "Example 18.131."), to which [Example 18.132](/chapter18/#example-18132 "Example 18.132.") is one correct answer:
+Used together, *[nu'a](/glossary/?mode=exact&word=nu%27a)* and *[na'u](/glossary/?mode=exact&word=na%27u)* make it possible to ask questions about mekso operators, even though there is no specific cmavo for an operator question, nor is it grammatical to utter an operator in isolation. Consider [Example 18.131](/chapter18/#example-18131 "Example 18.131."), to which [Example 18.132](/chapter18/#example-18132 "Example 18.132.") is one correct answer:
 
 ##### Example 18.131.
 
@@ -2273,7 +2273,7 @@ Used together, *[nu'a](/glossary/#nua)* and *[na'u](/glossary/#nau)* make it pos
 
 plus
 
-In [Example 18.131](/chapter18/#example-18131 "Example 18.131."), *na'u mo* is an operator question, because *[mo](/glossary/#mo)* is the selbri question cmavo and *[na'u](/glossary/#nau)* makes the selbri into an operator. [Example 18.132](/chapter18/#example-18132 "Example 18.132.") makes the true answer *[su'i](/glossary/#sui)* into a selbri (which is a legal utterance) with the inverse cmavo *[nu'a](/glossary/#nua)*. Mechanically speaking, inserting [Example 18.132](/chapter18/#example-18132 "Example 18.132.") into [Example 18.131](/chapter18/#example-18131 "Example 18.131.") produces:
+In [Example 18.131](/chapter18/#example-18131 "Example 18.131."), *na'u mo* is an operator question, because *[mo](/glossary/?mode=exact&word=mo)* is the selbri question cmavo and *[na'u](/glossary/?mode=exact&word=na%27u)* makes the selbri into an operator. [Example 18.132](/chapter18/#example-18132 "Example 18.132.") makes the true answer *[su'i](/glossary/?mode=exact&word=su%27i)* into a selbri (which is a legal utterance) with the inverse cmavo *[nu'a](/glossary/?mode=exact&word=nu%27a)*. Mechanically speaking, inserting [Example 18.132](/chapter18/#example-18132 "Example 18.132.") into [Example 18.131](/chapter18/#example-18131 "Example 18.131.") produces:
 
 ##### Example 18.133.
 
@@ -2347,25 +2347,25 @@ Numerical free modifiers, corresponding to English “firstly”, “secondly”
 
 :::
 
-The difference between *[mai](/glossary/#mai)* and *[mo'o](/glossary/#moo)* is that *[mo'o](/glossary/#moo)* enumerates larger subdivisions of a text. Each *[mo'o](/glossary/#moo)* subdivision can then be divided into pieces and internally numbered with *[mai](/glossary/#mai)*. If this chapter were translated into Lojban, each section would be numbered with *[mo'o](/glossary/#moo)*. (See [Section 19.7](/chapter19/#197-utterance-ordinals-mai "19.7. Utterance ordinals: MAI") for more on these words.)
+The difference between *[mai](/glossary/?mode=exact&word=mai)* and *[mo'o](/glossary/?mode=exact&word=mo%27o)* is that *[mo'o](/glossary/?mode=exact&word=mo%27o)* enumerates larger subdivisions of a text. Each *[mo'o](/glossary/?mode=exact&word=mo%27o)* subdivision can then be divided into pieces and internally numbered with *[mai](/glossary/?mode=exact&word=mai)*. If this chapter were translated into Lojban, each section would be numbered with *[mo'o](/glossary/?mode=exact&word=mo%27o)*. (See [Section 19.7](/chapter19/#197-utterance-ordinals-mai "19.7. Utterance ordinals: MAI") for more on these words.)
 
-A numerical tense can be created by suffixing a digit string with *[roi](/glossary/#roi)*. This usage generates tenses corresponding to English “once”, “twice”, and so on. This topic belongs to a detailed discussion of Lojban tenses, and is explained further in [Section 10.9](/chapter10/#109-interval-properties-tahe-and-roi "10.9. Interval properties: TAhE and roi").
+A numerical tense can be created by suffixing a digit string with *[roi](/glossary/?mode=exact&word=roi)*. This usage generates tenses corresponding to English “once”, “twice”, and so on. This topic belongs to a detailed discussion of Lojban tenses, and is explained further in [Section 10.9](/chapter10/#109-interval-properties-tahe-and-roi "10.9. Interval properties: TAhE and roi").
 
-Note: the elidable terminator *[boi](/glossary/#boi)* is not used between a number and a member of MAI or ROI.
+Note: the elidable terminator *[boi](/glossary/?mode=exact&word=boi)* is not used between a number and a member of MAI or ROI.
 
 ## 18.20. Explicit operator precedence
 
 As mentioned earlier, Lojban does provide a way for the precedences of operators to be explicitly declared, although current parsers do not understand these declarations.
 
-The declaration is made in the form of a metalinguistic comment using *[ti'o](/glossary/#tio)*, a member of selma'o SEI. *[sei](/glossary/#sei)*, the other member of SEI, is used to insert metalinguistic comments on a bridi which give information about the discourse which the bridi comprises. The format of a *[ti'o](/glossary/#tio)* declaration has not been formally established, but presumably would take the form of mentioning a mekso operator and then giving it either an absolute numerical precedence on some pre-established scale, or else specifying relative precedences between new operators and existing operators.
+The declaration is made in the form of a metalinguistic comment using *[ti'o](/glossary/?mode=exact&word=ti%27o)*, a member of selma'o SEI. *[sei](/glossary/?mode=exact&word=sei)*, the other member of SEI, is used to insert metalinguistic comments on a bridi which give information about the discourse which the bridi comprises. The format of a *[ti'o](/glossary/?mode=exact&word=ti%27o)* declaration has not been formally established, but presumably would take the form of mentioning a mekso operator and then giving it either an absolute numerical precedence on some pre-established scale, or else specifying relative precedences between new operators and existing operators.
 
-In future, we hope to create an improved machine parser that can understand declarations of the precedences of simple operators belonging to selma'o VUhU. Originally, all operators would have the same precedence. Declarations would have the effect of raising the specified cmavo of VUhU to higher precedence levels. Complex operators formed with *[na'u](/glossary/#nau)*, *[ni'e](/glossary/#nie)*, or *[ma'o](/glossary/#mao)* would remain at the standard low precedence; declarations with respect to them are for future implementation efforts. It is probable that such a parser would have a set of “commonly assumed precedences” built into it (selectable by a special *[ti'o](/glossary/#tio)* declaration) that would match mathematical intuition: times higher than plus, and so on.
+In future, we hope to create an improved machine parser that can understand declarations of the precedences of simple operators belonging to selma'o VUhU. Originally, all operators would have the same precedence. Declarations would have the effect of raising the specified cmavo of VUhU to higher precedence levels. Complex operators formed with *[na'u](/glossary/?mode=exact&word=na%27u)*, *[ni'e](/glossary/?mode=exact&word=ni%27e)*, or *[ma'o](/glossary/?mode=exact&word=ma%27o)* would remain at the standard low precedence; declarations with respect to them are for future implementation efforts. It is probable that such a parser would have a set of “commonly assumed precedences” built into it (selectable by a special *[ti'o](/glossary/?mode=exact&word=ti%27o)* declaration) that would match mathematical intuition: times higher than plus, and so on.
 
 ## 18.21. Miscellany
 
 A few other points:
 
-*[se](/glossary/#se)* can be used to convert an operator as if it were a selbri, so that its arguments are exchanged. For example:
+*[se](/glossary/?mode=exact&word=se)* can be used to convert an operator as if it were a selbri, so that its arguments are exchanged. For example:
 
 ##### Example 18.139.
 
@@ -2408,7 +2408,7 @@ Members of selma'o NAhE are also legal on an operator to produce a scalar negati
 
 The sense in which “plus” is the opposite of “minus” is not a mathematical but rather a linguistic one; negated operators are defined only loosely.
 
-*[la'e](/glossary/#lae)* and *[lu'e](/glossary/#lue)* can be used on operands with the usual semantics to get the referent of or a symbol for an operand. Likewise, a member of selma'o NAhE followed by *[bo](/glossary/#bo)* serves to scalar-negate an operand, implying that some other operand would make the bridi true:
+*[la'e](/glossary/?mode=exact&word=la%27e)* and *[lu'e](/glossary/?mode=exact&word=lu%27e)* can be used on operands with the usual semantics to get the referent of or a symbol for an operand. Likewise, a member of selma'o NAhE followed by *[bo](/glossary/?mode=exact&word=bo)* serves to scalar-negate an operand, implying that some other operand would make the bridi true:
 
 ##### Example 18.142.
 
@@ -2451,15 +2451,15 @@ Of course, there is no guarantee that the name *zel.* is connected with the numb
 
 :::
 
-Certain other members of PA also have assigned rafsi: *[so'a](/glossary/#soa)*, *[so'e](/glossary/#soe)*, *[so'i](/glossary/#soi)*, *[so'o](/glossary/#soo)*, *[so'u](/glossary/#sou)*, *[da'a](/glossary/#daa)*, *[ro](/glossary/#ro)*, *[su'e](/glossary/#sue)*, *[su'o](/glossary/#suo)*, *[pi](/glossary/#pi)*, and *[ce'i](/glossary/#cei)*. Furthermore, although the cmavo *[fi'u](/glossary/#fiu)* does not have a rafsi as such, it is closely related to the gismu [*frinu*](/glossary/#frinu), meaning “fraction”; therefore, in a context of numeric rafsi, you can use any of the rafsi for *[frinu](/glossary/#frinu)* to indicate a fraction slash.
+Certain other members of PA also have assigned rafsi: *[so'a](/glossary/?mode=exact&word=so%27a)*, *[so'e](/glossary/?mode=exact&word=so%27e)*, *[so'i](/glossary/?mode=exact&word=so%27i)*, *[so'o](/glossary/?mode=exact&word=so%27o)*, *[so'u](/glossary/?mode=exact&word=so%27u)*, *[da'a](/glossary/?mode=exact&word=da%27a)*, *[ro](/glossary/?mode=exact&word=ro)*, *[su'e](/glossary/?mode=exact&word=su%27e)*, *[su'o](/glossary/?mode=exact&word=su%27o)*, *[pi](/glossary/?mode=exact&word=pi)*, and *[ce'i](/glossary/?mode=exact&word=ce%27i)*. Furthermore, although the cmavo *[fi'u](/glossary/?mode=exact&word=fi%27u)* does not have a rafsi as such, it is closely related to the gismu [*frinu*](/glossary/?mode=exact&word=%2Afrinu%2A), meaning “fraction”; therefore, in a context of numeric rafsi, you can use any of the rafsi for *[frinu](/glossary/?mode=exact&word=frinu)* to indicate a fraction slash.
 
-A similar convention is used for the cmavo *[cu'o](/glossary/#cuo)* of selma'o MOI, which is closely related to *[cunso](/glossary/#cunso)* (probability); use a rafsi for *[cunso](/glossary/#cunso)* in order to create lujvo based on *[cu'o](/glossary/#cuo)*. The cmavo *[mei](/glossary/#mei)* and *[moi](/glossary/#moi)* of MOI have their own rafsi, two each in fact: *mem* / *mei* and *mom* / *moi* respectively.
+A similar convention is used for the cmavo *[cu'o](/glossary/?mode=exact&word=cu%27o)* of selma'o MOI, which is closely related to *[cunso](/glossary/?mode=exact&word=cunso)* (probability); use a rafsi for *[cunso](/glossary/?mode=exact&word=cunso)* in order to create lujvo based on *[cu'o](/glossary/?mode=exact&word=cu%27o)*. The cmavo *[mei](/glossary/?mode=exact&word=mei)* and *[moi](/glossary/?mode=exact&word=moi)* of MOI have their own rafsi, two each in fact: *mem* / *mei* and *mom* / *moi* respectively.
 
 The grammar of mekso as described so far imposes a rigid distinction between operators and operands. Some flavors of mathematics (lambda calculus, algebra of functions) blur this distinction, and Lojban must have a method of doing the same. An operator can be changed into an operand with *ni'enu'a*, which transforms the operator into a matching selbri and then the selbri into an operand.
 
-To change an operand into an operator, we use the cmavo *[ma'o](/glossary/#mao)*, already introduced as a means of changing a lerfu string such as *[fy.](/glossary/#fy)* into an operator. In fact, *[ma'o](/glossary/#mao)* can be followed by any mekso operand, using the elidable terminator *[te'u](/glossary/#teu)* if necessary.
+To change an operand into an operator, we use the cmavo *[ma'o](/glossary/?mode=exact&word=ma%27o)*, already introduced as a means of changing a lerfu string such as *[fy.](/glossary/?mode=exact&word=fy)* into an operator. In fact, *[ma'o](/glossary/?mode=exact&word=ma%27o)* can be followed by any mekso operand, using the elidable terminator *[te'u](/glossary/?mode=exact&word=te%27u)* if necessary.
 
-There is a potential semantic ambiguity in *ma'o fy. \[te'u\]* if *[fy.](/glossary/#fy)* is already in use as a variable: it comes to mean “the function whose value is always $f$”. However, mathematicians do not normally use the same lerfu words or strings as both functions and variables, so this case should not arise in practice.
+There is a potential semantic ambiguity in *ma'o fy. \[te'u\]* if *[fy.](/glossary/?mode=exact&word=fy)* is already in use as a variable: it comes to mean “the function whose value is always $f$”. However, mathematicians do not normally use the same lerfu words or strings as both functions and variables, so this case should not arise in practice.
 
 ## 18.22. Four score and seven: a mekso problem
 
@@ -2506,7 +2506,7 @@ $4\times 20+7$
 
 :::
 
-In [Example 18.147](/chapter18/#example-18147 "Example 18.147."), *voboi renomei* is a sumti signifying four things each of which are groups of twenty; the *[mo'e](/glossary/#moe)* and *[te'u](/glossary/#teu)* then make this sumti into a number in order to allow it to be the operand of *[su'i](/glossary/#sui)*.
+In [Example 18.147](/chapter18/#example-18147 "Example 18.147."), *voboi renomei* is a sumti signifying four things each of which are groups of twenty; the *[mo'e](/glossary/?mode=exact&word=mo%27e)* and *[te'u](/glossary/?mode=exact&word=te%27u)* then make this sumti into a number in order to allow it to be the operand of *[su'i](/glossary/?mode=exact&word=su%27i)*.
 
 Another approach is to think of “score” as setting a representation base. There are remnants of base-20 arithmetic in some languages, notably French, in which 87 is “quatre-vingt-sept”, literally “four-twenties-seven”. (This fact makes the Gettysburg Address hard to translate into French!) If “score” is the representation base, then we have:
 
@@ -2534,12 +2534,12 @@ Except as noted, each selma'o has only one cmavo.
 | BOI  | elidable terminator for numerals and lerfu strings                                                                                                                                           |
 | BY   | lerfu for variables and functions (see [Section 17.11](/chapter17/#1711-mathematical-uses-of-lerfu-strings "17.11. Mathematical uses of lerfu strings"))                                     |
 | FUhA | reverse-Polish flag                                                                                                                                                                          |
-| GOhA | includes *[du](/glossary/#du)* (mathematical equality) and other non-mekso cmavo                                                                                                             |
+| GOhA | includes *[du](/glossary/?mode=exact&word=du)* (mathematical equality) and other non-mekso cmavo                                                                                                             |
 | JOhI | array flag                                                                                                                                                                                   |
 | KUhE | elidable terminator for forethought mekso                                                                                                                                                    |
-| LI   | mekso articles (*[me'o](/glossary/#meo)*)                                                                                                                                                    |
+| LI   | mekso articles (*[me'o](/glossary/?mode=exact&word=me%27o)*)                                                                                                                                                    |
 | MAhO | make operand into operator                                                                                                                                                                   |
-| MOI  | creates mekso selbri (*[cu'o](/glossary/#cuo)*, see [Section 18.11](/chapter18/#1811-special-mekso-selbri "18.11. Special mekso selbri"))                                                    |
+| MOI  | creates mekso selbri (*[cu'o](/glossary/?mode=exact&word=cu%27o)*, see [Section 18.11](/chapter18/#1811-special-mekso-selbri "18.11. Special mekso selbri"))                                                    |
 | MOhE | make sumti into operand                                                                                                                                                                      |
 | NAhU | make selbri into operator                                                                                                                                                                    |
 | NIhE | make selbri into operand                                                                                                                                                                     |
@@ -2682,7 +2682,7 @@ x1 is an (n)th portion of mass x2 \[by standard x3\]
 
 |      |                                                                                                                                                            |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| cu'o | cu'o (borrowed from *[cunso](/glossary/#cunso)*; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) |
+| cu'o | cu'o (borrowed from *[cunso](/glossary/?mode=exact&word=cunso)*; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) |
 
 event x1 has probability (n) of occurring under conditions x2 \[by standard x3\]
 

@@ -1,0 +1,23 @@
+---
+import LinkExt from './LinkExt.astro';
+interface Props {
+  readonly class?: string;
+}
+
+const { class: className } = Astro.props;
+---
+
+<footer class={className}>
+  <LinkExt class='no-underline hover:underline' href='https://github.com/tktb-tess/cll-site'>
+    GitHub
+  </LinkExt>
+</footer>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer components {
+    footer {
+      @apply flex justify-center items-center h-(--s-footer);
+    }
+  }
+</style>

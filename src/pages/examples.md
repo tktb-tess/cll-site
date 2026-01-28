@@ -14,7 +14,7 @@ title: 'Examples Index'
 - +1 + -1 = 0: [Simple infix expressions and equations](/chapter18/#idm47077875672544)
     -1: [Signs and numerical punctuation](/chapter18/#idm47077876049968)
 - 1 + 1 = 2: [Simple infix expressions and equations](/chapter18/#idm47077875757264)
-- $10^20$: [Infix operators revisited](/chapter18/#idm47077873805296)
+- $10^{20}$: [Infix operators revisited](/chapter18/#idm47077873805296)
 - 12-point: [Alien alphabets](/chapter17/#idm47077877686832)
 - 123: [Lojban numbers](/chapter18/#idm47077876142336)
 - 2 + 2: [Truth-value abstraction: jei](/chapter11/#idm47077891964896)
