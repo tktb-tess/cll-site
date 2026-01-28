@@ -6,8 +6,8 @@ interface Props {
   readonly class?: string;
 }
 
-const lis = data.map(({ title, longTitle, url }) => {
-  const cond = title === 'The Complete Lojban Language';
+const lis = data.map(({ title, longTitle, url }, i) => {
+  const cond = i === 0;
   return {
     title: cond ? 'Top' : title,
     url: url,
