@@ -73,6 +73,7 @@
   --s-figure: 2rem;
   --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
     minmax(min(18rem, 50%), 1fr);
+  --cols-glossary: minmax(min(18rem, 100%), 1fr) minmax(0, 80rem);
 }
 
 @utility cbg-* {
@@ -124,8 +125,8 @@
     @apply cursor-pointer;
   }
 
-  input {
-    @apply font-mono cborder-border;
+  input[type="text"] {
+    @apply font-mono border cborder-border rounded px-1;
   }
 
   h1:where(#title) {

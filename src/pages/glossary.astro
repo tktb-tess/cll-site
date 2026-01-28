@@ -2,17 +2,50 @@
 import Head from '../layouts/Head.astro';
 import Search from '../components/Search.svelte';
 import MyFooter from '../components/MyFooter.astro';
+import MyHeader from '../components/MyHeader.astro';
+import Drawer from '../components/Drawer.astro';
+import Sidemenu from '../components/Sidemenu.astro';
+
 const title = `Lojban Word Glossary`;
+const url = '/glossary/';
 ---
 
-<Head url='/glossary/' {title}>
-  <header></header>
+<Head {url} {title}>
+  <MyHeader />
   <main>
-    <aside></aside>
-    <section>
-      <h1>{title}</h1>
+    <Drawer {url} />
+    <aside>
+      <div class='__sidebar-root'>
+        <Sidemenu currentUrl={url} />
+      </div>
+    </aside>
+    <section aria-label='The text'>
+      <h1 id='title'>{title}</h1>
       <Search client:only='svelte' />
     </section>
   </main>
   <MyFooter />
 </Head>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer properties, theme, base, components, utilities;
+  @layer components {
+    main {
+      @apply flow-root lg:grid grid-cols-(--cols-glossary) *:min-w-0;
+
+      > :where(aside) {
+        @apply hidden lg:block;
+      }
+
+      > * > :where(.__sidebar-root) {
+        @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
+        top-[calc(var(--s-header)+.5rem)] z-0 px-1 py-2;
+      }
+
+      > :where(section) {
+        @apply flow-root cbg-bg px-4;
+      }
+    }
+  }
+</style>

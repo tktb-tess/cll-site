@@ -13,6 +13,7 @@
 
   let searchWord = $state('');
   let searchMode = $state<SearchMode>('former');
+
   const url = $derived.by(() => {
     const url = new URL(document.URL);
     url.searchParams.set('mode', searchMode);
@@ -26,8 +27,22 @@
 
   const results = $derived.by(() => {
     return wordData.filter((w) => {
-      const wo = w.word.slice(0, searchWord.length);
-      return searchWord === wo;
+      switch (searchMode) {
+        case 'former': {
+          const wo = w.word.slice(0, searchWord.length);
+          return searchWord === wo;
+        }
+        case 'latter': {
+          const wo = w.word.slice(-searchWord.length);
+          return searchWord === wo;
+        }
+        case 'exact': {
+          return searchWord === w.word;
+        }
+        case 'partial': {
+          return w.word.includes(searchWord);
+        }
+      }
     });
   });
 
