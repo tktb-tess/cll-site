@@ -11,7 +11,7 @@ James Cooke Brown, the founder of the Loglan Project, coined the word “lettera
 
 There are fourteen occurrences of the letteral “e” in this sentence.
 
-(Don't forget the one within quotation marks.) Using the word “letteral” avoids confusion with “letter”, the kind you write to someone. Not surprisingly, there is a Lojban gismu for “letteral”, namely *[lerfu](/glossary/#lerfu)*, and this word will be used in the rest of this chapter.
+(Don't forget the one within quotation marks.) Using the word “letteral” avoids confusion with “letter”, the kind you write to someone. Not surprisingly, there is a Lojban gismu for “letteral”, namely *[lerfu](/glossary/?mode=exact&word=lerfu)*, and this word will be used in the rest of this chapter.
 
 Lojban uses the Latin alphabet, just as English does, right? Then why is there a need for a chapter like this? After all, everyone who can read it already knows the alphabet. The answer is twofold:
 
@@ -21,7 +21,7 @@ Second, English has names only for the lerfu used in writing English. (There are
 
 Letterals have several uses in Lojban: in forming acronyms and abbreviations, as mathematical symbols, and as pro-sumti – the equivalent of English pronouns.
 
-In earlier writings about Lojban, there has been a tendency to use the word *[lerfu](/glossary/#lerfu)* for both the letterals themselves and for the Lojban words which represent them. In this chapter, that tendency will be ruthlessly suppressed, and the term “lerfu word” will invariably be used for the latter. The Lojban equivalent would be *lerfu valsi* or *[lervla](/glossary/#lervla)*.
+In earlier writings about Lojban, there has been a tendency to use the word *[lerfu](/glossary/?mode=exact&word=lerfu)* for both the letterals themselves and for the Lojban words which represent them. In this chapter, that tendency will be ruthlessly suppressed, and the term “lerfu word” will invariably be used for the latter. The Lojban equivalent would be *lerfu valsi* or *[lervla](/glossary/?mode=exact&word=lervla)*.
 
 ## 17.2. A to Z in Lojban, plus one
 
@@ -29,11 +29,11 @@ The first requirement of a system of lerfu words for any language is that they m
 
 All of Lojban's basic lerfu words are made by one of three rules:
 
-- to get a lerfu word for a vowel, add *[bu](/glossary/#bu)*;
+- to get a lerfu word for a vowel, add *[bu](/glossary/?mode=exact&word=bu)*;
 
 - to get a lerfu word for a consonant, add *y*;
 
-- the lerfu word for *'* is *[.y'y](/glossary/#yy)*.
+- the lerfu word for *'* is *[.y'y](/glossary/?mode=exact&word=y%27y)*.
 
 Therefore, the following table represents the basic Lojban alphabet:
 
@@ -44,7 +44,7 @@ Therefore, the following table represents the basic Lojban alphabet:
 | m&#xA;my.   | n&#xA;ny.  | o&#xA;.obu | p&#xA;py. | r&#xA;ry.  | s&#xA;sy.  |
 | t&#xA;ty.   | u&#xA;.ubu | v&#xA;vy.  | x&#xA;xy. | y&#xA;.ybu | z&#xA;zy.  |
 
-There are several things to note about this table. The consonant lerfu words are a single syllable, whereas the vowel and *'* lerfu words are two syllables and must be preceded by pause (since they all begin with a vowel). Another fact, not evident from the table but important nonetheless, is that *[by](/glossary/#by)* and its like are single cmavo of selma'o BY, as is *[.y'y](/glossary/#yy)*. The vowel lerfu words, on the other hand, are compound cmavo, made from a single vowel cmavo plus the cmavo *[bu](/glossary/#bu)* (which belongs to its own selma'o, BU). All of the vowel cmavo have other meanings in Lojban (logical connectives, sentence separator, hesitation noise), but those meanings are irrelevant when *[bu](/glossary/#bu)* follows.
+There are several things to note about this table. The consonant lerfu words are a single syllable, whereas the vowel and *'* lerfu words are two syllables and must be preceded by pause (since they all begin with a vowel). Another fact, not evident from the table but important nonetheless, is that *[by](/glossary/?mode=exact&word=by)* and its like are single cmavo of selma'o BY, as is *[.y'y](/glossary/?mode=exact&word=y%27y)*. The vowel lerfu words, on the other hand, are compound cmavo, made from a single vowel cmavo plus the cmavo *[bu](/glossary/?mode=exact&word=bu)* (which belongs to its own selma'o, BU). All of the vowel cmavo have other meanings in Lojban (logical connectives, sentence separator, hesitation noise), but those meanings are irrelevant when *[bu](/glossary/?mode=exact&word=bu)* follows.
 
 Here are some illustrations of common Lojban words spelled out using the alphabet above:
 
@@ -87,7 +87,7 @@ Note that the lerfu words ending in *y* were written (in [Example 17.2](/chapter
 
 I am without (whatever is referred to by) the letter “c”.
 
-without a pause after *[cy](/glossary/#cy)* would be interpreted as:
+without a pause after *[cy](/glossary/?mode=exact&word=cy)* would be interpreted as:
 
 ##### Example 17.5.
 
@@ -108,9 +108,9 @@ Lojban doesn't use lower-case (small) letters and upper-case (capital) letters i
 
 the name “Ivan” in Russian/Slavic pronunciation.
 
-It would require far too many cmavo to assign one for each upper-case and one for each lower-case lerfu, so instead we have two special cmavo *[ga'e](/glossary/#gae)* and *[to'a](/glossary/#toa)* representing upper case and lower case respectively. They belong to the same selma'o as the basic lerfu words, namely BY, and they may be freely interspersed with them.
+It would require far too many cmavo to assign one for each upper-case and one for each lower-case lerfu, so instead we have two special cmavo *[ga'e](/glossary/?mode=exact&word=ga%27e)* and *[to'a](/glossary/?mode=exact&word=to%27a)* representing upper case and lower case respectively. They belong to the same selma'o as the basic lerfu words, namely BY, and they may be freely interspersed with them.
 
-The effect of *[ga'e](/glossary/#gae)* is to change the interpretation of all lerfu words following it to be the upper-case version of the lerfu. An occurrence of *[to'a](/glossary/#toa)* causes the interpretation to revert to lower case. Thus, *ga'e .abu* means not “a” but “A”, and Ivan's name may be spelled out thus:
+The effect of *[ga'e](/glossary/?mode=exact&word=ga%27e)* is to change the interpretation of all lerfu words following it to be the upper-case version of the lerfu. An occurrence of *[to'a](/glossary/?mode=exact&word=to%27a)* causes the interpretation to revert to lower case. Thus, *ga'e .abu* means not “a” but “A”, and Ivan's name may be spelled out thus:
 
 ##### Example 17.7.
 
@@ -127,9 +127,9 @@ The cmavo and compound cmavo of this type will be called “shift words”.
 
 How long does a shift word last? Theoretically, until the next shift word that contradicts it or until the end of text. In practice, it is common to presume that a shift word is only in effect until the next word other than a lerfu word is found.
 
-It is often convenient to shift just a single letter to upper case. The cmavo *[tau](/glossary/#tau)*, of selma'o LAU, is useful for the purpose. A LAU cmavo must always be immediately followed by a BY cmavo or its equivalent: the combination is grammatically equivalent to a single BY. (See [Section 17.14](/chapter17/#1714-list-of-all-auxiliary-lerfu-word-cmavo "17.14. List of all auxiliary lerfu-word cmavo") for details.)
+It is often convenient to shift just a single letter to upper case. The cmavo *[tau](/glossary/?mode=exact&word=tau)*, of selma'o LAU, is useful for the purpose. A LAU cmavo must always be immediately followed by a BY cmavo or its equivalent: the combination is grammatically equivalent to a single BY. (See [Section 17.14](/chapter17/#1714-list-of-all-auxiliary-lerfu-word-cmavo "17.14. List of all auxiliary lerfu-word cmavo") for details.)
 
-A likely use of *[tau](/glossary/#tau)* is in the internationally standardized symbols for the chemical elements. Each element is represented using either a single upper-case lerfu or one upper-case lerfu followed by one lower-case lerfu:
+A likely use of *[tau](/glossary/?mode=exact&word=tau)* is in the internationally standardized symbols for the chemical elements. Each element is represented using either a single upper-case lerfu or one upper-case lerfu followed by one lower-case lerfu:
 
 ##### Example 17.8.
 
@@ -157,13 +157,13 @@ S (chemical symbol for sulfur)
 
 Si (chemical symbol for silicon)
 
-If a shift to upper-case is in effect when *[tau](/glossary/#tau)* appears, it shifts the next lerfu word only to lower case, reversing its usual effect.
+If a shift to upper-case is in effect when *[tau](/glossary/?mode=exact&word=tau)* appears, it shifts the next lerfu word only to lower case, reversing its usual effect.
 
 ## 17.4. The universal *bu*
 
-So far we have seen *[bu](/glossary/#bu)* only as a suffix to vowel cmavo to produce vowel lerfu words. Originally, this was the only use of *[bu](/glossary/#bu)*. In developing the lerfu word system, however, it proved to be useful to allow *[bu](/glossary/#bu)* to be attached to any word whatsoever, in order to allow arbitrary extensions of the basic lerfu word set.
+So far we have seen *[bu](/glossary/?mode=exact&word=bu)* only as a suffix to vowel cmavo to produce vowel lerfu words. Originally, this was the only use of *[bu](/glossary/?mode=exact&word=bu)*. In developing the lerfu word system, however, it proved to be useful to allow *[bu](/glossary/?mode=exact&word=bu)* to be attached to any word whatsoever, in order to allow arbitrary extensions of the basic lerfu word set.
 
-Formally, *[bu](/glossary/#bu)* may be attached to any single Lojban word. Compound cmavo do not count as words for this purpose. The special cmavo *[ba'e](/glossary/#bae)*, *[za'e](/glossary/#zae)*, *[zei](/glossary/#zei)*, *[zo](/glossary/#zo)*, *[zoi](/glossary/#zoi)*, *[la'o](/glossary/#lao)*, *[lo'u](/glossary/#lou)*, *[si](/glossary/#si)*, *[sa](/glossary/#sa)*, *[su](/glossary/#su)*, and *[fa'o](/glossary/#fao)* may not have *[bu](/glossary/#bu)* attached, because they are interpreted before *[bu](/glossary/#bu)* detection is done; in particular,
+Formally, *[bu](/glossary/?mode=exact&word=bu)* may be attached to any single Lojban word. Compound cmavo do not count as words for this purpose. The special cmavo *[ba'e](/glossary/?mode=exact&word=ba%27e)*, *[za'e](/glossary/?mode=exact&word=za%27e)*, *[zei](/glossary/?mode=exact&word=zei)*, *[zo](/glossary/?mode=exact&word=zo)*, *[zoi](/glossary/?mode=exact&word=zoi)*, *[la'o](/glossary/?mode=exact&word=la%27o)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, and *[fa'o](/glossary/?mode=exact&word=fa%27o)* may not have *[bu](/glossary/?mode=exact&word=bu)* attached, because they are interpreted before *[bu](/glossary/?mode=exact&word=bu)* detection is done; in particular,
 
 ##### Example 17.10.
 
@@ -178,13 +178,13 @@ Formally, *[bu](/glossary/#bu)* may be attached to any single Lojban word. Compo
 
 the word “bu”
 
-is needed when discussing *[bu](/glossary/#bu)* in Lojban. It is also illegal to attach *[bu](/glossary/#bu)* to itself, but more than one *[bu](/glossary/#bu)* may be attached to a word; thus *.abubu* is legal, if ugly. (Its meaning is not defined, but it is presumably different from *[.abu](/glossary/#abu)*.) It does not matter if the word is a cmavo, a cmene, or a brivla. All such words suffixed by *[bu](/glossary/#bu)* are treated grammatically as if they were cmavo belonging to selma'o BY. However, if the word is a cmene it is always necessary to precede and follow it by a pause, because otherwise the cmene may absorb preceding or following words.
+is needed when discussing *[bu](/glossary/?mode=exact&word=bu)* in Lojban. It is also illegal to attach *[bu](/glossary/?mode=exact&word=bu)* to itself, but more than one *[bu](/glossary/?mode=exact&word=bu)* may be attached to a word; thus *.abubu* is legal, if ugly. (Its meaning is not defined, but it is presumably different from *[.abu](/glossary/?mode=exact&word=abu)*.) It does not matter if the word is a cmavo, a cmene, or a brivla. All such words suffixed by *[bu](/glossary/?mode=exact&word=bu)* are treated grammatically as if they were cmavo belonging to selma'o BY. However, if the word is a cmene it is always necessary to precede and follow it by a pause, because otherwise the cmene may absorb preceding or following words.
 
-The ability to attach *[bu](/glossary/#bu)* to words has been used primarily to make names for various logograms and other unusual characters. For example, the Lojban name for the “happy face” is *.uibu*, based on the attitudinal *[.ui](/glossary/#ui)* that means “happiness”. Likewise, the “smiley face”, written “:-)” and used on computer networks to indicate humor, is called *zo'obu* The existence of these names does not mean that you should insert *.uibu* into running Lojban text to indicate that you are happy, or *zo'obu* when something is funny; instead, use the appropriate attitudinal directly.
+The ability to attach *[bu](/glossary/?mode=exact&word=bu)* to words has been used primarily to make names for various logograms and other unusual characters. For example, the Lojban name for the “happy face” is *.uibu*, based on the attitudinal *[.ui](/glossary/?mode=exact&word=ui)* that means “happiness”. Likewise, the “smiley face”, written “:-)” and used on computer networks to indicate humor, is called *zo'obu* The existence of these names does not mean that you should insert *.uibu* into running Lojban text to indicate that you are happy, or *zo'obu* when something is funny; instead, use the appropriate attitudinal directly.
 
-Likewise, *joibu* represents the ampersand character, “&”, based on the cmavo *[joi](/glossary/#joi)* meaning “mixed and”. Many more such lerfu words will probably be invented in future.
+Likewise, *joibu* represents the ampersand character, “&”, based on the cmavo *[joi](/glossary/?mode=exact&word=joi)* meaning “mixed and”. Many more such lerfu words will probably be invented in future.
 
-The *.* and *,* characters used in Lojbanic writing to represent pause and syllable break respectively have been assigned the lerfu words *denpa bu* (literally, “pause bu”) and *slaka bu* (literally, “syllable bu”). The written space is mandatory here, because *[denpa](/glossary/#denpa)* and *[slaka](/glossary/#slaka)* are normal gismu with normal stress: *denpabu* would be a fu'ivla (word borrowed from another language into Lojban) stressed *denPAbu*. No pause is required between *[denpa](/glossary/#denpa)* (or *[slaka](/glossary/#slaka)*) and *[bu](/glossary/#bu)*, though.
+The *.* and *,* characters used in Lojbanic writing to represent pause and syllable break respectively have been assigned the lerfu words *denpa bu* (literally, “pause bu”) and *slaka bu* (literally, “syllable bu”). The written space is mandatory here, because *[denpa](/glossary/?mode=exact&word=denpa)* and *[slaka](/glossary/?mode=exact&word=slaka)* are normal gismu with normal stress: *denpabu* would be a fu'ivla (word borrowed from another language into Lojban) stressed *denPAbu*. No pause is required between *[denpa](/glossary/?mode=exact&word=denpa)* (or *[slaka](/glossary/?mode=exact&word=slaka)*) and *[bu](/glossary/?mode=exact&word=bu)*, though.
 
 ## 17.5. Alien alphabets
 
@@ -192,9 +192,9 @@ As stated in [Section 17.1](/chapter17/#171-whats-a-letteral-anyway "17.1. What'
 
 There are certainly hundreds of alphabets and other writing systems in use around the world, and it is probably an unachievable goal to create a single system which can express all of them, but if perfection is not demanded, a usable system can be created from the raw material which Lojban provides.
 
-One possibility would be to use the lerfu word associated with the language itself, Lojbanized and with *[bu](/glossary/#bu)* added. Indeed, an isolated Greek “alpha” in running Lojban text is probably most easily handled by calling it *.alfas. bu*. Here the Greek lerfu word has been made into a Lojbanized name by adding *s* and then into a Lojban lerfu word by adding *[bu](/glossary/#bu)*. Note that the pause after *.alfas.* is still needed.
+One possibility would be to use the lerfu word associated with the language itself, Lojbanized and with *[bu](/glossary/?mode=exact&word=bu)* added. Indeed, an isolated Greek “alpha” in running Lojban text is probably most easily handled by calling it *.alfas. bu*. Here the Greek lerfu word has been made into a Lojbanized name by adding *s* and then into a Lojban lerfu word by adding *[bu](/glossary/?mode=exact&word=bu)*. Note that the pause after *.alfas.* is still needed.
 
-Likewise, the easiest way to handle the Latin letters “h”, “q”, and “w” that are not used in Lojban is by a consonant lerfu word with *[bu](/glossary/#bu)* attached. The following assignments have been made:
+Likewise, the easiest way to handle the Latin letters “h”, “q”, and “w” that are not used in Lojban is by a consonant lerfu word with *[bu](/glossary/?mode=exact&word=bu)* attached. The following assignments have been made:
 
 |           |     |
 | --------- | --- |
@@ -224,23 +224,23 @@ A few more possibilities for Latin-alphabet letters used in languages other than
 | *ty.bu* | þ (thorn) |
 | *dy.bu* | ð (edh)   |
 
-However, this system is not ideal for all purposes. For one thing, it is verbose. The native lerfu words are often quite long, and with *[bu](/glossary/#bu)* added they become even longer: the worst-case Greek lerfu word would be *.Omikron. bu*, with four syllables and two mandatory pauses. In addition, alphabets that are used by many languages have separate sets of lerfu words for each language, and which set is Lojban to choose?
+However, this system is not ideal for all purposes. For one thing, it is verbose. The native lerfu words are often quite long, and with *[bu](/glossary/?mode=exact&word=bu)* added they become even longer: the worst-case Greek lerfu word would be *.Omikron. bu*, with four syllables and two mandatory pauses. In addition, alphabets that are used by many languages have separate sets of lerfu words for each language, and which set is Lojban to choose?
 
-The alternative plan, therefore, is to use a shift word similar to those introduced in [Section 17.3](/chapter17/#173-upper-and-lower-cases "17.3. Upper and lower cases"). After the appearance of such a shift word, the regular lerfu words are re-interpreted to represent the lerfu of the alphabet now in use. After a shift to the Greek alphabet, for example, the lerfu word *[ty](/glossary/#ty)* would represent not Latin “t” but Greek “tau”. Why “tau”? Because it is, in some sense, the closest counterpart of “t” within the Greek lerfu system. In principle it would be all right to map *[ty.](/glossary/#ty)* to “phi” or even “omega”, but such an arbitrary relationship would be extremely hard to remember.
+The alternative plan, therefore, is to use a shift word similar to those introduced in [Section 17.3](/chapter17/#173-upper-and-lower-cases "17.3. Upper and lower cases"). After the appearance of such a shift word, the regular lerfu words are re-interpreted to represent the lerfu of the alphabet now in use. After a shift to the Greek alphabet, for example, the lerfu word *[ty](/glossary/?mode=exact&word=ty)* would represent not Latin “t” but Greek “tau”. Why “tau”? Because it is, in some sense, the closest counterpart of “t” within the Greek lerfu system. In principle it would be all right to map *[ty.](/glossary/?mode=exact&word=ty)* to “phi” or even “omega”, but such an arbitrary relationship would be extremely hard to remember.
 
-Where no obvious closest counterpart exists, some more or less arbitrary choice must be made. Some alien lerfu may simply not have any shifted equivalent, forcing the speaker to fall back on a *[bu](/glossary/#bu)* form. Since a *[bu](/glossary/#bu)* form may mean different things in different alphabets, it is safest to employ a shift word even when *[bu](/glossary/#bu)* forms are in use.
+Where no obvious closest counterpart exists, some more or less arbitrary choice must be made. Some alien lerfu may simply not have any shifted equivalent, forcing the speaker to fall back on a *[bu](/glossary/?mode=exact&word=bu)* form. Since a *[bu](/glossary/?mode=exact&word=bu)* form may mean different things in different alphabets, it is safest to employ a shift word even when *[bu](/glossary/?mode=exact&word=bu)* forms are in use.
 
 Shifts for several alphabets have been assigned cmavo of selma'o BY:
 
 |                          |                             |
 | ------------------------ | --------------------------- |
-| *[lo'a](/glossary/#loa)* | Latin/Roman/Lojban alphabet |
-| *[ge'o](/glossary/#geo)* | Greek alphabet              |
-| *[je'o](/glossary/#jeo)* | Hebrew alphabet             |
-| *[jo'o](/glossary/#joo)* | Arabic alphabet             |
-| *[ru'o](/glossary/#ruo)* | Cyrillic alphabet           |
+| *[lo'a](/glossary/?mode=exact&word=lo%27a)* | Latin/Roman/Lojban alphabet |
+| *[ge'o](/glossary/?mode=exact&word=ge%27o)* | Greek alphabet              |
+| *[je'o](/glossary/?mode=exact&word=je%27o)* | Hebrew alphabet             |
+| *[jo'o](/glossary/?mode=exact&word=jo%27o)* | Arabic alphabet             |
+| *[ru'o](/glossary/?mode=exact&word=ru%27o)* | Cyrillic alphabet           |
 
-The cmavo *[zai](/glossary/#zai)* (of selma'o LAU) is used to create shift words to still other alphabets. The BY word which must follow any LAU cmavo would typically be a name representing the alphabet with *[bu](/glossary/#bu)* suffixed:
+The cmavo *[zai](/glossary/?mode=exact&word=zai)* (of selma'o LAU) is used to create shift words to still other alphabets. The BY word which must follow any LAU cmavo would typically be a name representing the alphabet with *[bu](/glossary/?mode=exact&word=bu)* suffixed:
 
 ##### Example 17.12.
 
@@ -262,7 +262,7 @@ Japanese hiragana syllabary
 
 Unlike the cmavo above, these shift words have not been standardized and probably will not be until someone actually has a need for them. (Note the *.* characters marking leading and following pauses.)
 
-In addition, there may be multiple visible representations within a single alphabet for a given letter: roman vs. italics, handwriting vs. print, Bodoni vs. Helvetica. These traditional “font and face” distinctions are also represented by shift words, indicated with the cmavo *[ce'a](/glossary/#cea)* (of selma'o LAU) and a following BY word:
+In addition, there may be multiple visible representations within a single alphabet for a given letter: roman vs. italics, handwriting vs. print, Bodoni vs. Helvetica. These traditional “font and face” distinctions are also represented by shift words, indicated with the cmavo *[ce'a](/glossary/?mode=exact&word=ce%27a)* (of selma'o LAU) and a following BY word:
 
 ##### Example 17.15.
 
@@ -282,7 +282,7 @@ ce'a .pavrel. bu
 
 12-point font size
 
-The cmavo *[na'a](/glossary/#naa)* (of selma'o BY) is a universal shift-word cancel: it returns the interpretation of lerfu words to the default of lower-case Lojban with no specific font. It is more general than *[lo'a](/glossary/#loa)*, which changes the alphabet only, potentially leaving font and case shifts in place.
+The cmavo *[na'a](/glossary/?mode=exact&word=na%27a)* (of selma'o BY) is a universal shift-word cancel: it returns the interpretation of lerfu words to the default of lower-case Lojban with no specific font. It is more general than *[lo'a](/glossary/?mode=exact&word=lo%27a)*, which changes the alphabet only, potentially leaving font and case shifts in place.
 
 Several sections at the end of this chapter contain tables of proposed lerfu word assignments for various languages.
 
@@ -292,7 +292,7 @@ Many languages that make use of the Latin alphabet add special marks to some of 
 
 These marks may be considered lerfu, and each has a corresponding lerfu word in Lojban. So far, no problem. But the marks appear over lerfu, whereas the words must be spoken (or written) either before or after the lerfu word representing the basic lerfu. Typewriters (for mechanical reasons) and the computer programs that emulate them usually require their users to type the accent mark before the basic lerfu, whereas in speech the accent mark is often pronounced afterwards (for example, in German “a umlaut” is preferred to “umlaut a”).
 
-Lojban cannot settle this question by fiat. Either it must be left up to default interpretation depending on the language in question, or the lerfu-word compounding cmavo *[tei](/glossary/#tei)* (of selma'o TEI) and *[foi](/glossary/#foi)* (of selma'o FOI) must be used. These cmavo are always used in pairs; any number of lerfu words may appear between them, and the whole is treated as a single compound lerfu word. The French word “été”, with acute accent marks on both “e” lerfu, could be spelled as:
+Lojban cannot settle this question by fiat. Either it must be left up to default interpretation depending on the language in question, or the lerfu-word compounding cmavo *[tei](/glossary/?mode=exact&word=tei)* (of selma'o TEI) and *[foi](/glossary/?mode=exact&word=foi)* (of selma'o FOI) must be used. These cmavo are always used in pairs; any number of lerfu words may appear between them, and the whole is treated as a single compound lerfu word. The French word “été”, with acute accent marks on both “e” lerfu, could be spelled as:
 
 ##### Example 17.18.
 
@@ -305,27 +305,27 @@ Lojban cannot settle this question by fiat. Either it must be left up to default
 
 :::
 
-and it does not matter whether *akut. bu* appears before or after *[.ebu](/glossary/#ebu)*; the *[foi](/glossary/#foi)* grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by [Example 17.18](/chapter17/#example-1718 "Example 17.18.") would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
+and it does not matter whether *akut. bu* appears before or after *[.ebu](/glossary/?mode=exact&word=ebu)*; the *[foi](/glossary/?mode=exact&word=foi)* grouping guarantees that the acute accent is associated with the correct lerfu. Of course, the level of precision represented by [Example 17.18](/chapter17/#example-1718 "Example 17.18.") would rarely be required: it might be needed by a Lojban-speaker when spelling out a French word for exact transcription by another Lojban-speaker who did not know French.
 
 This system breaks down in languages which use more than one accent mark on a single lerfu; some other convention must be used for showing which accent marks are written where in that case. The obvious convention is to represent the mark nearest the basic lerfu by the lerfu word closest to the word representing the basic lerfu. Any remaining ambiguities must be resolved by further conventions not yet established.
 
-Some languages, like Swedish and Finnish, consider certain accented lerfu to be completely distinct from their unaccented equivalents, but Lojban does not make a formal distinction, since the printed characters look the same whether they are reckoned as separate letters or not. In addition, some languages consider certain 2-letter combinations (like “ll” and “ch” in Spanish) to be letters; this may be represented by enclosing the combination in *[foi](/glossary/#foi)*.
+Some languages, like Swedish and Finnish, consider certain accented lerfu to be completely distinct from their unaccented equivalents, but Lojban does not make a formal distinction, since the printed characters look the same whether they are reckoned as separate letters or not. In addition, some languages consider certain 2-letter combinations (like “ll” and “ch” in Spanish) to be letters; this may be represented by enclosing the combination in *[foi](/glossary/?mode=exact&word=foi)*.
 
-In addition, when discussing a specific language, it is permissible to make up new lerfu words, as long as they are either explained locally or well understood from context: thus Spanish “ll” or Croatian “lj” could be called *[.ibu](/glossary/#ibu)*, but that usage would not necessarily be universally understood.
+In addition, when discussing a specific language, it is permissible to make up new lerfu words, as long as they are either explained locally or well understood from context: thus Spanish “ll” or Croatian “lj” could be called *[.ibu](/glossary/?mode=exact&word=ibu)*, but that usage would not necessarily be universally understood.
 
 [Section 17.19](/chapter17/#1719-proposed-lerfu-words-for-some-accent-marks-and-multiple-letters "17.19. Proposed lerfu words for some accent marks and multiple letters") contains a table of proposed lerfu words for some common accent marks.
 
 ## 17.7. Punctuation marks
 
-Lojban does not have punctuation marks as such: the denpa bu and the slaka bu are really a part of the alphabet. Other languages, however, use punctuation marks extensively. As yet, Lojban does not have any words for these punctuation marks, but a mechanism exists for devising them: the cmavo *[lau](/glossary/#lau)* of selma'o LAU. *[lau](/glossary/#lau)* must always be followed by a BY word; the interpretation of the BY word is changed from a lerfu to a punctuation mark. Typically, this BY word would be a name or brivla with a *[bu](/glossary/#bu)* suffix.
+Lojban does not have punctuation marks as such: the denpa bu and the slaka bu are really a part of the alphabet. Other languages, however, use punctuation marks extensively. As yet, Lojban does not have any words for these punctuation marks, but a mechanism exists for devising them: the cmavo *[lau](/glossary/?mode=exact&word=lau)* of selma'o LAU. *[lau](/glossary/?mode=exact&word=lau)* must always be followed by a BY word; the interpretation of the BY word is changed from a lerfu to a punctuation mark. Typically, this BY word would be a name or brivla with a *[bu](/glossary/?mode=exact&word=bu)* suffix.
 
-Why is *[lau](/glossary/#lau)* necessary at all? Why not just use a *[bu](/glossary/#bu)*-marked word and announce that it is always to be interpreted as a punctuation mark? Primarily to avoid ambiguity. The *[bu](/glossary/#bu)* mechanism is extremely open-ended, and it is easy for Lojban users to make up *[bu](/glossary/#bu)* words without bothering to explain what they mean. Using the *[lau](/glossary/#lau)* cmavo flags at least the most important of such nonce lerfu words as having a special function: punctuation. (Exactly the same argument applies to the use of *[zai](/glossary/#zai)* to signal an alphabet shift or *[ce'a](/glossary/#cea)* to signal a font shift.)
+Why is *[lau](/glossary/?mode=exact&word=lau)* necessary at all? Why not just use a *[bu](/glossary/?mode=exact&word=bu)*-marked word and announce that it is always to be interpreted as a punctuation mark? Primarily to avoid ambiguity. The *[bu](/glossary/?mode=exact&word=bu)* mechanism is extremely open-ended, and it is easy for Lojban users to make up *[bu](/glossary/?mode=exact&word=bu)* words without bothering to explain what they mean. Using the *[lau](/glossary/?mode=exact&word=lau)* cmavo flags at least the most important of such nonce lerfu words as having a special function: punctuation. (Exactly the same argument applies to the use of *[zai](/glossary/?mode=exact&word=zai)* to signal an alphabet shift or *[ce'a](/glossary/?mode=exact&word=ce%27a)* to signal a font shift.)
 
-Since different alphabets require different punctuation marks, the interpretation of a *[lau](/glossary/#lau)*-marked lerfu word is affected by the current alphabet shift and the current font shift.
+Since different alphabets require different punctuation marks, the interpretation of a *[lau](/glossary/?mode=exact&word=lau)*-marked lerfu word is affected by the current alphabet shift and the current font shift.
 
 ## 17.8. What about Chinese characters?
 
-Chinese characters (“漢字”, *han4 zi4* in Chinese, *[kanji](/glossary/#kanji)* in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
+Chinese characters (“漢字”, *han4 zi4* in Chinese, *[kanji](/glossary/?mode=exact&word=kanji)* in Japanese) represent an entirely different approach to writing from alphabets or syllabaries. (A syllabary, such as Japanese hiragana or Amharic writing, has one lerfu for each syllable of the spoken language.) Very roughly, Chinese characters represent single elements of meaning; also very roughly, they represent single syllables of spoken Chinese. There is in principle no limit to the number of Chinese characters that can exist, and many thousands are in regular use.
 
 It is hopeless for Lojban, with its limited lerfu and shift words, to create an alphabet which will match this diversity. However, there are various possible ways around the problem.
 
@@ -342,7 +342,7 @@ First, both Chinese and Japanese have standard Latin-alphabet representations, k
 
 :::
 
-The cmavo *[vo](/glossary/#vo)* is the Lojban digit “4”. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in [Section 17.6](/chapter17/#176-accent-marks-and-compound-lerfu-words "17.6. Accent marks and compound lerfu words").
+The cmavo *[vo](/glossary/?mode=exact&word=vo)* is the Lojban digit “4”. It is grammatical to intersperse digits (of selma'o PA) into a string of lerfu words; as long as the first cmavo is a lerfu word, the whole will be interpreted as a string of lerfu words. In Chinese, the digits can be used to represent tones. Pinyin is more usually written using accent marks, the mechanism for which was explained in [Section 17.6](/chapter17/#176-accent-marks-and-compound-lerfu-words "17.6. Accent marks and compound lerfu words").
 
 The Japanese company named “Mitsubishi” in English is spelled the same way in romaji, and could be spelled out in Lojban thus:
 
@@ -357,13 +357,13 @@ The Japanese company named “Mitsubishi” in English is spelled the same way i
 
 :::
 
-Alternatively, a really ambitious Lojbanist could assign lerfu words to the individual strokes used to write Chinese characters (there are about seven or eight of them if you are a flexible human being, or about 40 if you are a rigid computer program), and then represent each character with a *[tei](/glossary/#tei)*, the stroke lerfu words in the order of writing (which is standardized for each character), and a *[foi](/glossary/#foi)*. No one has as yet attempted this project.
+Alternatively, a really ambitious Lojbanist could assign lerfu words to the individual strokes used to write Chinese characters (there are about seven or eight of them if you are a flexible human being, or about 40 if you are a rigid computer program), and then represent each character with a *[tei](/glossary/?mode=exact&word=tei)*, the stroke lerfu words in the order of writing (which is standardized for each character), and a *[foi](/glossary/?mode=exact&word=foi)*. No one has as yet attempted this project.
 
 ## 17.9. lerfu words as pro-sumti
 
 So far, lerfu words have only appeared in Lojban text when spelling out words. There are several other grammatical uses of lerfu words within Lojban. In each case, a single lerfu word or more than one may be used. Therefore, the term “lerfu string” is introduced: it is short for “sequence of one or more lerfu words”.
 
-A lerfu string may be used as a pro-sumti (a sumti which refers to some previous sumti), just like the pro-sumti *[ko'a](/glossary/#koa)*, *[ko'e](/glossary/#koe)*, and so on:
+A lerfu string may be used as a pro-sumti (a sumti which refers to some previous sumti), just like the pro-sumti *[ko'a](/glossary/?mode=exact&word=ko%27a)*, *[ko'e](/glossary/?mode=exact&word=ko%27e)*, and so on:
 
 ##### Example 17.21.
 
@@ -371,9 +371,9 @@ A lerfu string may be used as a pro-sumti (a sumti which refers to some previous
 
 A loves B
 
-In [Example 17.21](/chapter17/#example-1721 "Example 17.21."), *[.abu](/glossary/#abu)* and *[by.](/glossary/#by)* represent specific sumti, but which sumti they represent must be inferred from context.
+In [Example 17.21](/chapter17/#example-1721 "Example 17.21."), *[.abu](/glossary/?mode=exact&word=abu)* and *[by.](/glossary/?mode=exact&word=by)* represent specific sumti, but which sumti they represent must be inferred from context.
 
-Alternatively, lerfu strings may be assigned by *[goi](/glossary/#goi)*, the regular pro-sumti assignment cmavo:
+Alternatively, lerfu strings may be assigned by *[goi](/glossary/?mode=exact&word=goi)*, the regular pro-sumti assignment cmavo:
 
 ##### Example 17.22.
 
@@ -419,7 +419,7 @@ What about
 
 :::
 
-Does this mean that A gives B to C? No. *by. cy.* is a single lerfu string, although written as two words, and represents a single pro-sumti. The true interpretation is that A gives BC to someone unspecified. To solve this problem, we need to introduce the elidable terminator *[boi](/glossary/#boi)* (of selma'o BOI). This cmavo is used to terminate lerfu strings and also strings of numerals; it is required when two of these appear in a row, as here. (The other reason to use *[boi](/glossary/#boi)* is to attach a free modifier – subscript, parenthesis, or what have you – to a lerfu string.) The correct version is:
+Does this mean that A gives B to C? No. *by. cy.* is a single lerfu string, although written as two words, and represents a single pro-sumti. The true interpretation is that A gives BC to someone unspecified. To solve this problem, we need to introduce the elidable terminator *[boi](/glossary/?mode=exact&word=boi)* (of selma'o BOI). This cmavo is used to terminate lerfu strings and also strings of numerals; it is required when two of these appear in a row, as here. (The other reason to use *[boi](/glossary/?mode=exact&word=boi)* is to attach a free modifier – subscript, parenthesis, or what have you – to a lerfu string.) The correct version is:
 
 ##### Example 17.26.
 
@@ -427,7 +427,7 @@ Does this mean that A gives B to C? No. *by. cy.* is a single lerfu string, alth
 
 A gives B to C
 
-where the two occurrences of *[boi](/glossary/#boi)* in brackets are elidable, but the remaining occurrence is not. Likewise:
+where the two occurrences of *[boi](/glossary/?mode=exact&word=boi)* in brackets are elidable, but the remaining occurrence is not. Likewise:
 
 ##### Example 17.27.
 
@@ -442,7 +442,7 @@ where the two occurrences of *[boi](/glossary/#boi)* in brackets are elidable, b
 
 X loves everybody.
 
-requires the first *[boi](/glossary/#boi)* to separate the lerfu string *[xy.](/glossary/#xy)* from the digit string *[ro](/glossary/#ro)*.
+requires the first *[boi](/glossary/?mode=exact&word=boi)* to separate the lerfu string *[xy.](/glossary/?mode=exact&word=xy)* from the digit string *[ro](/glossary/?mode=exact&word=ro)*.
 
 ## 17.10. References to lerfu
 
@@ -459,7 +459,7 @@ The rules of [Section 17.9](/chapter17/#179-lerfu-words-as-pro-sumti "17.9. lerf
 
 :::
 
-the hearer would try to find what previous sumti *[.abu](/glossary/#abu)* refers to. The solution to this problem makes use of the cmavo *[me'o](/glossary/#meo)* of selma'o LI, which makes a lerfu string into a sumti representing that very string of lerfu. This use of *[me'o](/glossary/#meo)* is a special case of its mathematical use, which is to introduce a mathematical expression used literally rather than for its value.
+the hearer would try to find what previous sumti *[.abu](/glossary/?mode=exact&word=abu)* refers to. The solution to this problem makes use of the cmavo *[me'o](/glossary/?mode=exact&word=me%27o)* of selma'o LI, which makes a lerfu string into a sumti representing that very string of lerfu. This use of *[me'o](/glossary/?mode=exact&word=me%27o)* is a special case of its mathematical use, which is to introduce a mathematical expression used literally rather than for its value.
 
 ##### Example 17.29.
 
@@ -490,7 +490,7 @@ This sentence contains four “e” s.
 
 Since the Lojban sentence has only four *e* lerfu rather than fourteen, the translation is not a literal one – but [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is a Lojban truth just as [Example 17.1](/chapter17/#example-171 "Example 17.1.") is an English truth. Coincidentally, the colloquial English translation of [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is also true!
 
-The reader might be tempted to use quotation with *[li'u](/glossary/#liu)* instead of *[me'o](/glossary/#meo)*, producing:
+The reader might be tempted to use quotation with *[li'u](/glossary/?mode=exact&word=li%27u)* instead of *[me'o](/glossary/?mode=exact&word=me%27o)*, producing:
 
 ##### Example 17.31.
 
@@ -503,13 +503,13 @@ The reader might be tempted to use quotation with *[li'u](/glossary/#liu)* inste
 
 :::
 
-(The single-word quote *[zo](/glossary/#zo)* cannot be used, because *[.abu](/glossary/#abu)* is a compound cmavo.) But [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is false, because it says:
+(The single-word quote *[zo](/glossary/?mode=exact&word=zo)* cannot be used, because *[.abu](/glossary/?mode=exact&word=abu)* is a compound cmavo.) But [Example 17.31](/chapter17/#example-1731 "Example 17.31.") is false, because it says:
 
 ##### Example 17.32.
 
-The word *[.abu](/glossary/#abu)* is a letteral
+The word *[.abu](/glossary/?mode=exact&word=abu)* is a letteral
 
-which is not the case; rather, the thing symbolized by the word *[.abu](/glossary/#abu)* is a letteral. In Lojban, that would be:
+which is not the case; rather, the thing symbolized by the word *[.abu](/glossary/?mode=exact&word=abu)* is a letteral. In Lojban, that would be:
 
 ##### Example 17.33.
 
@@ -543,7 +543,7 @@ This chapter is not about Lojban mathematics, which is explained in [Chapter 18]
 
 $a = b + c$
 
-- A lerfu string as function name (preceded by *[ma'o](/glossary/#mao)* of selma'o MAhO):
+- A lerfu string as function name (preceded by *[ma'o](/glossary/?mode=exact&word=ma%27o)* of selma'o MAhO):
 
 ##### Example 17.35.
 
@@ -558,7 +558,7 @@ $a = b + c$
 
 $y = f(x)$
 
-Note the *[boi](/glossary/#boi)* here to separate the lerfu strings *[fy](/glossary/#fy)* and *[xy](/glossary/#xy)*.
+Note the *[boi](/glossary/?mode=exact&word=boi)* here to separate the lerfu strings *[fy](/glossary/?mode=exact&word=fy)* and *[xy](/glossary/?mode=exact&word=xy)*.
 
 - A lerfu string as selbri (followed by a cmavo of selma'o MOI):
 
@@ -583,7 +583,7 @@ ny.mai
 
 Nthly
 
-- A lerfu string as subscript (preceded by *[xi](/glossary/#xi)* of selma'o XI):
+- A lerfu string as subscript (preceded by *[xi](/glossary/?mode=exact&word=xi)* of selma'o XI):
 
 ##### Example 17.38.
 
@@ -596,7 +596,7 @@ Nthly
 
 :::
 
-- A lerfu string as quantifier (enclosed in *[ve'o](/glossary/#veo)* parentheses):
+- A lerfu string as quantifier (enclosed in *[ve'o](/glossary/?mode=exact&word=ve%27o)* parentheses):
 
 ##### Example 17.39.
 
@@ -609,7 +609,7 @@ Nthly
 
 :::
 
-The parentheses are required because *ny. lo prenu* would be two separate sumti, *[ny.](/glossary/#ny)* and *lo prenu*. In general, any mathematical expression other than a simple number must be in parentheses when used as a quantifier; the right parenthesis mark, the cmavo *[ve'o](/glossary/#veo)*, can usually be elided.
+The parentheses are required because *ny. lo prenu* would be two separate sumti, *[ny.](/glossary/?mode=exact&word=ny)* and *lo prenu*. In general, any mathematical expression other than a simple number must be in parentheses when used as a quantifier; the right parenthesis mark, the cmavo *[ve'o](/glossary/?mode=exact&word=ve%27o)*, can usually be elided.
 
 All the examples above have exhibited single lerfu words rather than lerfu strings, in accordance with the conventions of ordinary mathematics. A longer lerfu string would still be treated as a single variable or function name: in Lojban, *.abu by. cy.* is not the multiplication “a × b × c” but is the variable `abc`. (Of course, a local convention could be employed that made the value of a variable like `abc`, with a multi-lerfu-word name, equal to the values of the variables `a`, `b`, and `c` multiplied together.)
 
@@ -633,7 +633,7 @@ DNA. NATO. CIA.
 
 There is no fixed convention for assigning the final consonant. In [Example 17.40](/chapter17/#example-1740 "Example 17.40."), the last consonant of the lerfu string has been replicated into final position.
 
-Some compression can be done by leaving out *[bu](/glossary/#bu)* after vowel lerfu words (except for *[.y.bu](/glossary/#ybu)*, wherein the *[bu](/glossary/#bu)* cannot be omitted without ambiguity). Compression is moderately important because it's hard to say long names without introducing an involuntary (and illegal) pause:
+Some compression can be done by leaving out *[bu](/glossary/?mode=exact&word=bu)* after vowel lerfu words (except for *[.y.bu](/glossary/?mode=exact&word=ybu)*, wherein the *[bu](/glossary/?mode=exact&word=bu)* cannot be omitted without ambiguity). Compression is moderately important because it's hard to say long names without introducing an involuntary (and illegal) pause:
 
 ##### Example 17.41.
 
@@ -645,7 +645,7 @@ DNA. NATO. CIA.
 
 … SQL. IBM. NYC.
 
-In [Example 17.41](/chapter17/#example-1741 "Example 17.41."), the final consonant *m* stands for *[merko](/glossary/#merko)*, indicating the source culture of these acronyms.
+In [Example 17.41](/chapter17/#example-1741 "Example 17.41."), the final consonant *m* stands for *[merko](/glossary/?mode=exact&word=merko)*, indicating the source culture of these acronyms.
 
 Another approach, which some may find easier to say and which is compatible with older versions of the language that did not have a *'* character, is to use the consonant *z* instead of *'* :
 
@@ -659,7 +659,7 @@ DNA. NATO. CIA.
 
 … SQL. IBM. NYC.
 
-One more alternative to these lengthy names is to use the lerfu string itself prefixed with *[me](/glossary/#me)*, the cmavo that makes sumti into selbri:
+One more alternative to these lengthy names is to use the lerfu string itself prefixed with *[me](/glossary/?mode=exact&word=me)*, the cmavo that makes sumti into selbri:
 
 ##### Example 17.43.
 
@@ -672,7 +672,7 @@ One more alternative to these lengthy names is to use the lerfu string itself pr
 
 :::
 
-This works because *[la](/glossary/#la)*, the cmavo that normally introduces names used as sumti, may also be used before a predicate to indicate that the predicate is a (meaningful) name:
+This works because *[la](/glossary/?mode=exact&word=la)*, the cmavo that normally introduces names used as sumti, may also be used before a predicate to indicate that the predicate is a (meaningful) name:
 
 ##### Example 17.44.
 
@@ -691,7 +691,7 @@ Bear is a writer.
 
 ## 17.13. Computerized character codes
 
-Since the first application of computers to non-numerical information, character sets have existed, mapping numbers (called “character codes”) into selected lerfu, digits, and punctuation marks (collectively called “characters”). Historically, these character sets have only covered the English alphabet and a few selected punctuation marks. International efforts have now created Unicode, a unified character set that can represent essentially all the characters in essentially all the world's writing systems. Lojban can take advantage of these encoding schemes by using the cmavo *[se'e](/glossary/#see)* (of selma'o BY). This cmavo is conventionally followed by digit cmavo of selma'o PA representing the character code, and the whole string indicates a single character in some computerized character set:
+Since the first application of computers to non-numerical information, character sets have existed, mapping numbers (called “character codes”) into selected lerfu, digits, and punctuation marks (collectively called “characters”). Historically, these character sets have only covered the English alphabet and a few selected punctuation marks. International efforts have now created Unicode, a unified character set that can represent essentially all the characters in essentially all the world's writing systems. Lojban can take advantage of these encoding schemes by using the cmavo *[se'e](/glossary/?mode=exact&word=se%27e)* (of selma'o BY). This cmavo is conventionally followed by digit cmavo of selma'o PA representing the character code, and the whole string indicates a single character in some computerized character set:
 
 ##### Example 17.45.
 
@@ -707,7 +707,7 @@ Since the first application of computers to non-numerical information, character
 The character code 36 in ASCII represents American dollars.  
 “$” represents American dollars.
 
-Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45.") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/#see)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
+Understanding [Example 17.45](/chapter17/#example-1745 "Example 17.45.") depends on knowing the value in the ASCII character set (one of the simplest and oldest) of the “$” character. Therefore, the *[se'e](/glossary/?mode=exact&word=se%27e)* convention is only intelligible to those who know the underlying character set. For precisely specifying a particular character, however, it has the advantages of unambiguity and (relative) cultural neutrality, and therefore Lojban provides a means for those with access to descriptions of such character sets to take advantage of them.
 
 As another example, the Unicode character set (also known as ISO 10646) represents the international symbol of peace, an inverted trident in a circle, using the base-16 value 262E. In a suitable context, a Lojbanist may say:
 
@@ -722,7 +722,7 @@ As another example, the Unicode character set (also known as ISO 10646) represen
 
 :::
 
-When a *[se'e](/glossary/#see)* string appears in running discourse, some metalinguistic convention must specify whether the number is base 10 or some other base, and which character set is in use.
+When a *[se'e](/glossary/?mode=exact&word=se%27e)* string appears in running discourse, some metalinguistic convention must specify whether the number is base 10 or some other base, and which character set is in use.
 
 ## 17.14. List of all auxiliary lerfu-word cmavo
 
@@ -745,7 +745,7 @@ When a *[se'e](/glossary/#see)* string appears in running discourse, some metali
 | tei  | TEI | start compound lerfu word               |
 | foi  | FOI | end compound lerfu word                 |
 
-Note that LAU cmavo must be followed by a BY cmavo or the equivalent, where “equivalent” means: either any Lojban word followed by *[bu](/glossary/#bu)*, another LAU cmavo (and its required sequel), or a *[foi](/glossary/#foi)* compound cmavo.
+Note that LAU cmavo must be followed by a BY cmavo or the equivalent, where “equivalent” means: either any Lojban word followed by *[bu](/glossary/?mode=exact&word=bu)*, another LAU cmavo (and its required sequel), or a *[foi](/glossary/?mode=exact&word=foi)* compound cmavo.
 
 ## 17.15. Proposed lerfu words – introduction
 
@@ -759,31 +759,31 @@ For Latin-alphabet lerfu words, see [Section 17.2](/chapter17/#172-a-to-z-in-loj
 
 |         |                 |                          |
 | ------- | --------------- | ------------------------ |
-| alpha   | *.alfas. bu*    | *[.abu](/glossary/#abu)* |
-| beta    | *.betas. bu*    | *[by](/glossary/#by)*    |
-| gamma   | *.gamas. bu*    | *[gy](/glossary/#gy)*    |
-| delta   | *.deltas. bu*   | *[dy](/glossary/#dy)*    |
-| epsilon | *.Epsilon. bu*  | *[.ebu](/glossary/#ebu)* |
-| zeta    | *.zetas. bu*    | *[zy](/glossary/#zy)*    |
+| alpha   | *.alfas. bu*    | *[.abu](/glossary/?mode=exact&word=abu)* |
+| beta    | *.betas. bu*    | *[by](/glossary/?mode=exact&word=by)*    |
+| gamma   | *.gamas. bu*    | *[gy](/glossary/?mode=exact&word=gy)*    |
+| delta   | *.deltas. bu*   | *[dy](/glossary/?mode=exact&word=dy)*    |
+| epsilon | *.Epsilon. bu*  | *[.ebu](/glossary/?mode=exact&word=ebu)* |
+| zeta    | *.zetas. bu*    | *[zy](/glossary/?mode=exact&word=zy)*    |
 | eta     | *.etas. bu*     | *.e'ebu*                 |
 | theta   | *.tetas. bu*    | *ty. bu*                 |
-| iota    | *.iotas. bu*    | *[.ibu](/glossary/#ibu)* |
-| kappa   | *.kapas. bu*    | *[ky](/glossary/#ky)*    |
-| lambda  | *.lymdas. bu*   | *[ly](/glossary/#ly)*    |
-| mu      | *.mus. bu*      | *[my](/glossary/#my)*    |
-| nu      | *.nus. bu*      | *[ny](/glossary/#ny)*    |
+| iota    | *.iotas. bu*    | *[.ibu](/glossary/?mode=exact&word=ibu)* |
+| kappa   | *.kapas. bu*    | *[ky](/glossary/?mode=exact&word=ky)*    |
+| lambda  | *.lymdas. bu*   | *[ly](/glossary/?mode=exact&word=ly)*    |
+| mu      | *.mus. bu*      | *[my](/glossary/?mode=exact&word=my)*    |
+| nu      | *.nus. bu*      | *[ny](/glossary/?mode=exact&word=ny)*    |
 | xi      | *.ksis. bu*     | *ksis. bu*               |
-| omicron | *.Omikron. bu*  | *[.obu](/glossary/#obu)* |
-| pi      | *.pis. bu*      | *[py](/glossary/#py)*    |
-| rho     | *.ros. bu*      | *[ry](/glossary/#ry)*    |
-| sigma   | *.sigmas. bu*   | *[sy](/glossary/#sy)*    |
-| tau     | *.taus. bu*     | *[ty](/glossary/#ty)*    |
-| upsilon | *.Upsilon. bu*  | *[.ubu](/glossary/#ubu)* |
+| omicron | *.Omikron. bu*  | *[.obu](/glossary/?mode=exact&word=obu)* |
+| pi      | *.pis. bu*      | *[py](/glossary/?mode=exact&word=py)*    |
+| rho     | *.ros. bu*      | *[ry](/glossary/?mode=exact&word=ry)*    |
+| sigma   | *.sigmas. bu*   | *[sy](/glossary/?mode=exact&word=sy)*    |
+| tau     | *.taus. bu*     | *[ty](/glossary/?mode=exact&word=ty)*    |
+| upsilon | *.Upsilon. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)* |
 | phi     | *.fis. bu*      | *py. bu*                 |
 | chi     | *.xis. bu*      | *ky. bu*                 |
 | psi     | *.psis. bu*     | *psis. bu*               |
 | omega   | *.omegas. bu*   | *.o'obu*                 |
-| rough   | *.dasei,as. bu* | *[.y'y](/glossary/#yy)*  |
+| rough   | *.dasei,as. bu* | *[.y'y](/glossary/?mode=exact&word=y%27y)*  |
 | smooth  | *.psiles. bu*   | *xutla bu*               |
 
 ## 17.17. Proposed lerfu words for the Cyrillic alphabet
@@ -792,34 +792,34 @@ The second column in this listing is based on the historical names of the letter
 
 |            |                  |                           |
 | ---------- | ---------------- | ------------------------- |
-| a          | *.azys. bu*      | *[.abu](/glossary/#abu)*  |
-| b          | *.bukys. bu*     | *[by](/glossary/#by)*     |
-| v          | *.vedis. bu*     | *[vy](/glossary/#vy)*     |
-| g          | *.glagolis. bu*  | *[gy](/glossary/#gy)*     |
-| d          | *.dobros. bu*    | *[dy](/glossary/#dy)*     |
-| e          | *.iestys. bu*    | *[.ebu](/glossary/#ebu)*  |
-| zh         | *.jivet. bu*     | *[jy](/glossary/#jy)*     |
-| z          | *.zemlias. bu*   | *[zy](/glossary/#zy)*     |
-| i          | *.ije,is. bu*    | *[.ibu](/glossary/#ibu)*  |
+| a          | *.azys. bu*      | *[.abu](/glossary/?mode=exact&word=abu)*  |
+| b          | *.bukys. bu*     | *[by](/glossary/?mode=exact&word=by)*     |
+| v          | *.vedis. bu*     | *[vy](/glossary/?mode=exact&word=vy)*     |
+| g          | *.glagolis. bu*  | *[gy](/glossary/?mode=exact&word=gy)*     |
+| d          | *.dobros. bu*    | *[dy](/glossary/?mode=exact&word=dy)*     |
+| e          | *.iestys. bu*    | *[.ebu](/glossary/?mode=exact&word=ebu)*  |
+| zh         | *.jivet. bu*     | *[jy](/glossary/?mode=exact&word=jy)*     |
+| z          | *.zemlias. bu*   | *[zy](/glossary/?mode=exact&word=zy)*     |
+| i          | *.ije,is. bu*    | *[.ibu](/glossary/?mode=exact&word=ibu)*  |
 | short i    | *.itord. bu*     | *.itord. bu*              |
-| k          | *.kakos. bu*     | *[ky](/glossary/#ky)*     |
-| l          | *.liudi,ies. bu* | *[ly](/glossary/#ly)*     |
-| m          | *.myslites. bu*  | *[my](/glossary/#my)*     |
-| n          | *.naciys. bu*    | *[ny](/glossary/#ny)*     |
-| o          | *.onys. bu*      | *[.obu](/glossary/#obu)*  |
-| p          | *.pokois. bu*    | *[py](/glossary/#py)*     |
-| r          | *.riytsis. bu*   | *[ry](/glossary/#ry)*     |
-| s          | *.slovos. bu*    | *[sy](/glossary/#sy)*     |
-| t          | *.tyvriydos. bu* | *[ty](/glossary/#ty)*     |
-| u          | *.ukys. bu*      | *[.ubu](/glossary/#ubu)*  |
-| f          | *.friytys. bu*   | *[fy](/glossary/#fy)*     |
-| kh         | *.xerys. bu*     | *[xy](/glossary/#xy)*     |
+| k          | *.kakos. bu*     | *[ky](/glossary/?mode=exact&word=ky)*     |
+| l          | *.liudi,ies. bu* | *[ly](/glossary/?mode=exact&word=ly)*     |
+| m          | *.myslites. bu*  | *[my](/glossary/?mode=exact&word=my)*     |
+| n          | *.naciys. bu*    | *[ny](/glossary/?mode=exact&word=ny)*     |
+| o          | *.onys. bu*      | *[.obu](/glossary/?mode=exact&word=obu)*  |
+| p          | *.pokois. bu*    | *[py](/glossary/?mode=exact&word=py)*     |
+| r          | *.riytsis. bu*   | *[ry](/glossary/?mode=exact&word=ry)*     |
+| s          | *.slovos. bu*    | *[sy](/glossary/?mode=exact&word=sy)*     |
+| t          | *.tyvriydos. bu* | *[ty](/glossary/?mode=exact&word=ty)*     |
+| u          | *.ukys. bu*      | *[.ubu](/glossary/?mode=exact&word=ubu)*  |
+| f          | *.friytys. bu*   | *[fy](/glossary/?mode=exact&word=fy)*     |
+| kh         | *.xerys. bu*     | *[xy](/glossary/?mode=exact&word=xy)*     |
 | ts         | *.tsis. bu*      | *tsys. bu*                |
 | ch         | *.tcriyviys. bu* | *tcys. bu*                |
-| sh         | *.cas. bu*       | *[cy](/glossary/#cy)*     |
+| sh         | *.cas. bu*       | *[cy](/glossary/?mode=exact&word=cy)*     |
 | shch       | *.ctas. bu*      | *ctcys. bu*               |
 | hard sign  | *.ier. bu*       | *jdari bu*                |
-| yeri       | *.ierys. bu*     | *[.y.bu](/glossary/#ybu)* |
+| yeri       | *.ierys. bu*     | *[.y.bu](/glossary/?mode=exact&word=ybu)* |
 | soft sign  | *.ieriys. bu*    | *ranti bu*                |
 | reversed e | *.ecarn. bu*     | *.ecarn. bu*              |
 | yu         | *.ius. bu*       | *.iubu*                   |
@@ -830,37 +830,37 @@ The second column in this listing is based on the historical names of the letter
 |          |                |                           |
 | -------- | -------------- | ------------------------- |
 | aleph    | *.alef. bu*    | *.alef. bu*               |
-| bet      | *.bet. bu*     | *[by](/glossary/#by)*     |
-| gimel    | *.gimel. bu*   | *[gy](/glossary/#gy)*     |
-| daled    | *.daled. bu*   | *[dy](/glossary/#dy)*     |
-| he       | *.xex. bu*     | *[.y'y](/glossary/#yy)*   |
-| vav      | *.vav. bu*     | *[vy](/glossary/#vy)*     |
-| zayin    | *.zai,in. bu*  | *[zy](/glossary/#zy)*     |
+| bet      | *.bet. bu*     | *[by](/glossary/?mode=exact&word=by)*     |
+| gimel    | *.gimel. bu*   | *[gy](/glossary/?mode=exact&word=gy)*     |
+| daled    | *.daled. bu*   | *[dy](/glossary/?mode=exact&word=dy)*     |
+| he       | *.xex. bu*     | *[.y'y](/glossary/?mode=exact&word=y%27y)*   |
+| vav      | *.vav. bu*     | *[vy](/glossary/?mode=exact&word=vy)*     |
+| zayin    | *.zai,in. bu*  | *[zy](/glossary/?mode=exact&word=zy)*     |
 | khet     | *.xet. bu*     | *xy. bu*                  |
 | tet      | *.tet. bu*     | *ty. bu*                  |
 | yud      | *.iud. bu*     | *.iud. bu*                |
-| kaf      | *.kaf. bu*     | *[ky](/glossary/#ky)*     |
-| lamed    | *.LYmed. bu*   | *[ly](/glossary/#ly)*     |
-| mem      | *.mem. bu*     | *[my](/glossary/#my)*     |
-| nun      | *.nun. bu*     | *[ny](/glossary/#ny)*     |
+| kaf      | *.kaf. bu*     | *[ky](/glossary/?mode=exact&word=ky)*     |
+| lamed    | *.LYmed. bu*   | *[ly](/glossary/?mode=exact&word=ly)*     |
+| mem      | *.mem. bu*     | *[my](/glossary/?mode=exact&word=my)*     |
+| nun      | *.nun. bu*     | *[ny](/glossary/?mode=exact&word=ny)*     |
 | samekh   | *.samex. bu*   | *samex. bu*               |
 | ayin     | *.ai,in. bu*   | *.ai,in bu*               |
-| pe       | *.pex. bu*     | *[py](/glossary/#py)*     |
+| pe       | *.pex. bu*     | *[py](/glossary/?mode=exact&word=py)*     |
 | tzadi    | *.tsadik. bu*  | *tsadik. bu*              |
 | quf      | *.kuf. bu*     | *ky. bu*                  |
-| resh     | *.rec. bu*     | *[ry](/glossary/#ry)*     |
-| shin     | *.cin. bu*     | *[cy](/glossary/#cy)*     |
-| sin      | *.sin. bu*     | *[sy](/glossary/#sy)*     |
-| taf      | *.taf. bu*     | *[ty.](/glossary/#ty)*    |
+| resh     | *.rec. bu*     | *[ry](/glossary/?mode=exact&word=ry)*     |
+| shin     | *.cin. bu*     | *[cy](/glossary/?mode=exact&word=cy)*     |
+| sin      | *.sin. bu*     | *[sy](/glossary/?mode=exact&word=sy)*     |
+| taf      | *.taf. bu*     | *[ty.](/glossary/?mode=exact&word=ty)*    |
 | dagesh   | *.daGEC. bu*   | *daGEC. bu*               |
-| hiriq    | *.xirik. bu*   | *[.ibu](/glossary/#ibu)*  |
+| hiriq    | *.xirik. bu*   | *[.ibu](/glossary/?mode=exact&word=ibu)*  |
 | tzeirekh | *.tseirex. bu* | *.eibu*                   |
-| segol    | *.seGOL. bu*   | *[.ebu](/glossary/#ebu)*  |
-| qubbutz  | *.kubuts. bu*  | *[.ubu](/glossary/#ubu)*  |
-| qamatz   | *.kamats. bu*  | *[.abu](/glossary/#abu)*  |
+| segol    | *.seGOL. bu*   | *[.ebu](/glossary/?mode=exact&word=ebu)*  |
+| qubbutz  | *.kubuts. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)*  |
+| qamatz   | *.kamats. bu*  | *[.abu](/glossary/?mode=exact&word=abu)*  |
 | patach   | *.patax. bu*   | *.a'abu*                  |
-| sheva    | *.cyVAS. bu*   | *[.y.bu](/glossary/#ybu)* |
-| kholem   | *.xolem. bu*   | *[.obu](/glossary/#obu)*  |
+| sheva    | *.cyVAS. bu*   | *[.y.bu](/glossary/?mode=exact&word=ybu)* |
+| kholem   | *.xolem. bu*   | *[.obu](/glossary/?mode=exact&word=obu)*  |
 | shuruq   | *.curuk. bu*   | *.u'ubu*                  |
 
 ## 17.19. Proposed lerfu words for some accent marks and multiple letters
@@ -869,15 +869,15 @@ This list is intended to be suggestive, not complete: there are lerfu such as Po
 
 |                    |                                                                                               |
 | ------------------ | --------------------------------------------------------------------------------------------- |
-| acute              | *.akut. bu* or *.pritygal. bu* \[*[pritu](/glossary/#pritu) [galtu](/glossary/#galtu)*\]      |
-| grave              | *.grav. bu* or *.zulgal. bu* \[*[zunle](/glossary/#zunle) [galtu](/glossary/#galtu)*\]        |
-| circumflex         | *.cirkumfleks. bu* or *.midgal. bu* \[*[midju](/glossary/#midju) [galtu](/glossary/#galtu)*\] |
+| acute              | *.akut. bu* or *.pritygal. bu* \[*[pritu](/glossary/?mode=exact&word=%2A%5Bpritu) [galtu](/glossary/?mode=exact&word=galtu)*\]      |
+| grave              | *.grav. bu* or *.zulgal. bu* \[*[zunle](/glossary/?mode=exact&word=%2A%5Bzunle) [galtu](/glossary/?mode=exact&word=galtu)*\]        |
+| circumflex         | *.cirkumfleks. bu* or *.midgal. bu* \[*[midju](/glossary/?mode=exact&word=%2A%5Bmidju) [galtu](/glossary/?mode=exact&word=galtu)*\] |
 | tilde              | *.tildes. bu*                                                                                 |
 | macron             | *.makron. bu*                                                                                 |
 | breve              | *.brevis. bu*                                                                                 |
-| over-dot           | *.gapmoc. bu* \[*[gapru](/glossary/#gapru) [mokca](/glossary/#mokca)*\]                       |
-| umlaut/trema       | *.relmoc. bu* \[*[re](/glossary/#re) [mokca](/glossary/#mokca)*\]                             |
-| over-ring          | *.gapyjin. bu* \[*[gapru](/glossary/#gapru) [djine](/glossary/#djine)*\]                      |
+| over-dot           | *.gapmoc. bu* \[*[gapru](/glossary/?mode=exact&word=%2A%5Bgapru) [mokca](/glossary/?mode=exact&word=mokca)*\]                       |
+| umlaut/trema       | *.relmoc. bu* \[*[re](/glossary/?mode=exact&word=%2A%5Bre) [mokca](/glossary/?mode=exact&word=mokca)*\]                             |
+| over-ring          | *.gapyjin. bu* \[*[gapru](/glossary/?mode=exact&word=%2A%5Bgapru) [djine](/glossary/?mode=exact&word=djine)*\]                      |
 | cedilla            | *.seDIlys. bu*                                                                                |
 | double-acute       | *.re'akut. bu \[re akut.\]*                                                                   |
 | ogonek             | *.ogoniek. bu*                                                                                |

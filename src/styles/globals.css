@@ -125,7 +125,7 @@
     @apply cursor-pointer;
   }
 
-  input[type="text"] {
+  input[type='text'] {
     @apply font-mono border cborder-border rounded px-1;
   }
 
@@ -134,7 +134,19 @@
   }
 
   :is(h2, h3, h4) {
-    @apply font-normal text-2xl;
+    @apply font-normal;
+  }
+
+  h2 {
+    @apply text-3xl;
+  }
+
+  h3 {
+    @apply text-2xl;
+  }
+
+  h4 {
+    @apply text-xl;
   }
 
   :is(h5, h6) {

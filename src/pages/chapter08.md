@@ -13,7 +13,7 @@ The following cmavo are discussed in this section:
 | ke'a | GOhA | relative pro-sumti                     |
 | ku'o | KUhO | relative clause terminator             |
 
-Let us think about the problem of communicating what it is that we are pointing at when we are pointing at something. In Lojban, we can refer to what we are pointing at by using the pro-sumti *[ti](/glossary/#ti)* if it is nearby, or *[ta](/glossary/#ta)* if it is somewhat further away, or *[tu](/glossary/#tu)* if it is distant. (Pro-sumti are explained in full in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").)
+Let us think about the problem of communicating what it is that we are pointing at when we are pointing at something. In Lojban, we can refer to what we are pointing at by using the pro-sumti *[ti](/glossary/?mode=exact&word=ti)* if it is nearby, or *[ta](/glossary/?mode=exact&word=ta)* if it is somewhat further away, or *[tu](/glossary/?mode=exact&word=tu)* if it is distant. (Pro-sumti are explained in full in [Chapter 7](/chapter07/ "Chapter 7. Brevity Is The Soul Of Language: Pro-sumti And Pro-bridi").)
 
 However, even with the assistance of a pointing finger, or pointing lips, or whatever may be appropriate in the local culture, it is often hard for a listener to tell just what is being pointed at. Suppose one is pointing at a person (in particular, in the direction of his or her face), and says:
 
@@ -28,11 +28,11 @@ However, even with the assistance of a pointing finger, or pointing lips, or wha
 
 :::
 
-What is the referent of *[ti](/glossary/#ti)*? Is it the person? Or perhaps it is the person's nose? Or even (for *[ti](/glossary/#ti)* can be plural as well as singular, and mean “these ones” as well as “this one”) the pores on the person's nose?
+What is the referent of *[ti](/glossary/?mode=exact&word=ti)*? Is it the person? Or perhaps it is the person's nose? Or even (for *[ti](/glossary/?mode=exact&word=ti)* can be plural as well as singular, and mean “these ones” as well as “this one”) the pores on the person's nose?
 
-To help solve this problem, Lojban uses a construction called a “relative clause”. Relative clauses are usually attached to the end of sumti, but there are other places where they can go as well, as explained later in this chapter. A relative clause begins with a word of selma'o NOI, and ends with the elidable terminator *[ku'o](/glossary/#kuo)* (of selma'o KUhO). As you might suppose, *[noi](/glossary/#noi)* is a cmavo of selma'o NOI; however, first we will discuss the cmavo *[poi](/glossary/#poi)*, which also belongs to selma'o NOI.
+To help solve this problem, Lojban uses a construction called a “relative clause”. Relative clauses are usually attached to the end of sumti, but there are other places where they can go as well, as explained later in this chapter. A relative clause begins with a word of selma'o NOI, and ends with the elidable terminator *[ku'o](/glossary/?mode=exact&word=ku%27o)* (of selma'o KUhO). As you might suppose, *[noi](/glossary/?mode=exact&word=noi)* is a cmavo of selma'o NOI; however, first we will discuss the cmavo *[poi](/glossary/?mode=exact&word=poi)*, which also belongs to selma'o NOI.
 
-In between the *[poi](/glossary/#poi)* and the *[ku'o](/glossary/#kuo)* appears a full bridi, with the same syntax as any other bridi. Anywhere within the bridi of a relative clause, the pro-sumti *[ke'a](/glossary/#kea)* (of selma'o KOhA) may be used, and it stands for the sumti to which the relative clause is attached (called the “relativized sumti”). Here are some examples before we go any further:
+In between the *[poi](/glossary/?mode=exact&word=poi)* and the *[ku'o](/glossary/?mode=exact&word=ku%27o)* appears a full bridi, with the same syntax as any other bridi. Anywhere within the bridi of a relative clause, the pro-sumti *[ke'a](/glossary/?mode=exact&word=ke%27a)* (of selma'o KOhA) may be used, and it stands for the sumti to which the relative clause is attached (called the “relativized sumti”). Here are some examples before we go any further:
 
 ##### Example 8.2.
 
@@ -76,9 +76,9 @@ This thing which is a nose is big.
 These things which are nose-pores are big.
 | These nose-pores are big.                  |
 
-In the literal translations throughout this chapter, the word “IT”, capitalized, is used to represent the cmavo *[ke'a](/glossary/#kea)*. In each case, it serves to represent the sumti (in [Example 8.2](/chapter08/#example-82 "Example 8.2.") through [Example 8.4](/chapter08/#example-84 "Example 8.4."), the cmavo *[ti](/glossary/#ti)*) to which the relative clause is attached.
+In the literal translations throughout this chapter, the word “IT”, capitalized, is used to represent the cmavo *[ke'a](/glossary/?mode=exact&word=ke%27a)*. In each case, it serves to represent the sumti (in [Example 8.2](/chapter08/#example-82 "Example 8.2.") through [Example 8.4](/chapter08/#example-84 "Example 8.4."), the cmavo *[ti](/glossary/?mode=exact&word=ti)*) to which the relative clause is attached.
 
-Of course, there is no reason why *[ke'a](/glossary/#kea)* needs to appear in the x1 place of a relative clause bridi; it can appear in any place, or indeed even in a sub-bridi within the relative clause bridi. Here are two more examples:
+Of course, there is no reason why *[ke'a](/glossary/?mode=exact&word=ke%27a)* needs to appear in the x1 place of a relative clause bridi; it can appear in any place, or indeed even in a sub-bridi within the relative clause bridi. Here are two more examples:
 
 ##### Example 8.5.
 
@@ -112,9 +112,9 @@ That thing which the cat dragged is a rat.
 
 That thing that I want to own is a boat.
 
-In [Example 8.6](/chapter08/#example-86 "Example 8.6."), *[ke'a](/glossary/#kea)* appears in an abstraction clause (abstractions are explained in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction")) within a relative clause.
+In [Example 8.6](/chapter08/#example-86 "Example 8.6."), *[ke'a](/glossary/?mode=exact&word=ke%27a)* appears in an abstraction clause (abstractions are explained in [Chapter 11](/chapter11/ "Chapter 11. Events, Qualities, Quantities, And Other Vague Words: On Lojban Abstraction")) within a relative clause.
 
-Like any sumti, *[ke'a](/glossary/#kea)* can be omitted. The usual presumption in that case is that it then falls into the x1 place:
+Like any sumti, *[ke'a](/glossary/?mode=exact&word=ke%27a)* can be omitted. The usual presumption in that case is that it then falls into the x1 place:
 
 ##### Example 8.7.
 
@@ -127,7 +127,7 @@ Like any sumti, *[ke'a](/glossary/#kea)* can be omitted. The usual presumption i
 
 :::
 
-almost certainly means the same thing as [Example 8.3](/chapter08/#example-83 "Example 8.3."). However, *[ke'a](/glossary/#kea)* can be omitted if it is clear to the listener that it belongs in some place other than x1:
+almost certainly means the same thing as [Example 8.3](/chapter08/#example-83 "Example 8.3."). However, *[ke'a](/glossary/?mode=exact&word=ke%27a)* can be omitted if it is clear to the listener that it belongs in some place other than x1:
 
 ##### Example 8.8.
 
@@ -142,7 +142,7 @@ almost certainly means the same thing as [Example 8.3](/chapter08/#example-83 "E
 
 is equivalent to [Example 8.4](/chapter08/#example-84 "Example 8.4.").
 
-As stated before, *[ku'o](/glossary/#kuo)* is an elidable terminator, and in fact it is almost always elidable. Throughout the rest of this chapter, *[ku'o](/glossary/#kuo)* will not be written in any of the examples unless it is absolutely required: thus, [Example 8.2](/chapter08/#example-82 "Example 8.2.") can be written:
+As stated before, *[ku'o](/glossary/?mode=exact&word=ku%27o)* is an elidable terminator, and in fact it is almost always elidable. Throughout the rest of this chapter, *[ku'o](/glossary/?mode=exact&word=ku%27o)* will not be written in any of the examples unless it is absolutely required: thus, [Example 8.2](/chapter08/#example-82 "Example 8.2.") can be written:
 
 ##### Example 8.9.
 
@@ -157,7 +157,7 @@ As stated before, *[ku'o](/glossary/#kuo)* is an elidable terminator, and in fac
 
 That person is big.
 
-without any change in meaning. Note that *[poi](/glossary/#poi)* is translated “which” rather than “such-that” when *[ke'a](/glossary/#kea)* has been omitted from the x1 place of the relative clause bridi. The word “which” is used in English to introduce English relative clauses: other words that can be used are “who” and “that”, as in:
+without any change in meaning. Note that *[poi](/glossary/?mode=exact&word=poi)* is translated “which” rather than “such-that” when *[ke'a](/glossary/?mode=exact&word=ke%27a)* has been omitted from the x1 place of the relative clause bridi. The word “which” is used in English to introduce English relative clauses: other words that can be used are “who” and “that”, as in:
 
 ##### Example 8.10.
 
@@ -179,7 +179,7 @@ The following cmavo is discussed in this section:
 | --- | --- | ------------------------------------- |
 | noi | NOI | incidental relative clause introducer |
 
-There are two basic kinds of relative clauses: restrictive relative clauses introduced by *[poi](/glossary/#poi)*, and incidental (sometimes called simply “non-restrictive”) relative clauses introduced by *[noi](/glossary/#noi)*. The difference between restrictive and incidental relative clauses is that restrictive clauses provide information that is essential to identifying the referent of the sumti to which they are attached, whereas incidental relative clauses provide additional information which is helpful to the listener but is not essential for identifying the referent of the sumti. All of the examples in [Section 8.1](/chapter08/#81-what-are-you-pointing-at "8.1. What are you pointing at?") are restrictive relative clauses: the information in the relative clause is essential to identification. (The title of this chapter, though, uses an incidental relative clause.)
+There are two basic kinds of relative clauses: restrictive relative clauses introduced by *[poi](/glossary/?mode=exact&word=poi)*, and incidental (sometimes called simply “non-restrictive”) relative clauses introduced by *[noi](/glossary/?mode=exact&word=noi)*. The difference between restrictive and incidental relative clauses is that restrictive clauses provide information that is essential to identifying the referent of the sumti to which they are attached, whereas incidental relative clauses provide additional information which is helpful to the listener but is not essential for identifying the referent of the sumti. All of the examples in [Section 8.1](/chapter08/#81-what-are-you-pointing-at "8.1. What are you pointing at?") are restrictive relative clauses: the information in the relative clause is essential to identification. (The title of this chapter, though, uses an incidental relative clause.)
 
 Consider the following examples:
 
@@ -209,9 +209,9 @@ The dog which is blue is large.
 
 The dog, which is blue, is large.
 
-In [Example 8.12](/chapter08/#example-812 "Example 8.12."), the information conveyed by *poi blanu* is essential to identifying the dog in question: it restricts the possible referents from dogs in general to dogs that are blue. This is why *[poi](/glossary/#poi)* relative clauses are called restrictive. In [Example 8.13](/chapter08/#example-813 "Example 8.13."), on the other hand, the dog which is referred to has presumably already been identified clearly, and the relative clause *noi blanu* just provides additional information about it. (If in fact the dog hasn't been identified clearly, then the relative clause does not help identify it further.)
+In [Example 8.12](/chapter08/#example-812 "Example 8.12."), the information conveyed by *poi blanu* is essential to identifying the dog in question: it restricts the possible referents from dogs in general to dogs that are blue. This is why *[poi](/glossary/?mode=exact&word=poi)* relative clauses are called restrictive. In [Example 8.13](/chapter08/#example-813 "Example 8.13."), on the other hand, the dog which is referred to has presumably already been identified clearly, and the relative clause *noi blanu* just provides additional information about it. (If in fact the dog hasn't been identified clearly, then the relative clause does not help identify it further.)
 
-In English, the distinction between restrictive and incidental relative clauses is expressed in writing by surrounding incidental, but not restrictive, clauses with commas. These commas are functioning as parentheses, because incidental relative clauses are essentially parenthetical. This distinction in punctuation is represented in speech by a difference in tone of voice. In addition, English restrictive relative clauses can be introduced by “that” as well as “which” and “who”, whereas incidental relative clauses cannot begin with “that”. Lojban, however, always uses the cmavo *[poi](/glossary/#poi)* and *[noi](/glossary/#noi)* rather than punctuation or intonation to make the distinction.
+In English, the distinction between restrictive and incidental relative clauses is expressed in writing by surrounding incidental, but not restrictive, clauses with commas. These commas are functioning as parentheses, because incidental relative clauses are essentially parenthetical. This distinction in punctuation is represented in speech by a difference in tone of voice. In addition, English restrictive relative clauses can be introduced by “that” as well as “which” and “who”, whereas incidental relative clauses cannot begin with “that”. Lojban, however, always uses the cmavo *[poi](/glossary/?mode=exact&word=poi)* and *[noi](/glossary/?mode=exact&word=noi)* rather than punctuation or intonation to make the distinction.
 
 Here are more examples of incidental relative clauses:
 
@@ -228,7 +228,7 @@ Here are more examples of incidental relative clauses:
 
 I, a judge, am present.
 
-In this example, *[mi](/glossary/#mi)* is already sufficiently restricted, and the additional information that I am a judge is being provided solely for the listener's edification.
+In this example, *[mi](/glossary/?mode=exact&word=mi)* is already sufficiently restricted, and the additional information that I am a judge is being provided solely for the listener's edification.
 
 ##### Example 8.15.
 
@@ -292,7 +292,7 @@ The following cmavo are discussed in this section:
 
 There are types of relative clauses (those which have a certain selbri) which are frequently wanted in Lojban, and can be expressed using a shortcut called a relative phrase. Relative phrases are introduced by cmavo of selma'o GOI, and consist of a GOI cmavo followed by a single sumti.
 
-Here is an example of *[pe](/glossary/#pe)*, plus an equivalent sentence using a relative clause:
+Here is an example of *[pe](/glossary/?mode=exact&word=pe)*, plus an equivalent sentence using a relative clause:
 
 ##### Example 8.18.
 
@@ -320,7 +320,7 @@ My chair is blue.
 
 In [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.19](/chapter08/#example-819 "Example 8.19."), the link between the chair and the speaker is of the loosest kind.
 
-Here is an example of *[po](/glossary/#po)*:
+Here is an example of *[po](/glossary/?mode=exact&word=po)*:
 
 ##### Example 8.20.
 
@@ -346,9 +346,9 @@ Here is an example of *[po](/glossary/#po)*:
 
 [Example 8.20](/chapter08/#example-820 "Example 8.20.") and [Example 8.21](/chapter08/#example-821 "Example 8.21.") contrast with [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.19](/chapter08/#example-819 "Example 8.19."): the chair is more permanently connected with the speaker. A plausible (though not the only possible) contrast between [Example 8.18](/chapter08/#example-818 "Example 8.18.") and [Example 8.20](/chapter08/#example-820 "Example 8.20.") is that *pe mi* would be appropriate for a chair the speaker is currently sitting on (whether or not the speaker owned that chair), and *po mi* for a chair owned by the speaker (whether or not he or she was currently occupying it).
 
-As a result, the relationship expressed between two sumti by *[po](/glossary/#po)* is usually called “possession”, although it does not necessarily imply ownership, legal or otherwise. The central concept is that of specificity (*[steci](/glossary/#steci)* in Lojban).
+As a result, the relationship expressed between two sumti by *[po](/glossary/?mode=exact&word=po)* is usually called “possession”, although it does not necessarily imply ownership, legal or otherwise. The central concept is that of specificity (*[steci](/glossary/?mode=exact&word=steci)* in Lojban).
 
-Here is an example of *[po'e](/glossary/#poe)*, as well as another example of *[po](/glossary/#po)*:
+Here is an example of *[po'e](/glossary/?mode=exact&word=po%27e)*, as well as another example of *[po](/glossary/?mode=exact&word=po)*:
 
 ##### Example 8.22.
 
@@ -405,9 +405,9 @@ Note that [Example 8.22](/chapter08/#example-822 "Example 8.22.") can also be ex
 
 :::
 
-reflecting the fact that the gismu *[birka](/glossary/#birka)* has an x2 place representing the body to which the arm belongs. Many, but not all, cases of intrinsic possession can be thus covered without using *[po'e](/glossary/#poe)* by placing the possessor into the appropriate place of the description selbri.
+reflecting the fact that the gismu *[birka](/glossary/?mode=exact&word=birka)* has an x2 place representing the body to which the arm belongs. Many, but not all, cases of intrinsic possession can be thus covered without using *[po'e](/glossary/?mode=exact&word=po%27e)* by placing the possessor into the appropriate place of the description selbri.
 
-Here is an example of *[po'u](/glossary/#pou)*:
+Here is an example of *[po'u](/glossary/?mode=exact&word=po%27u)*:
 
 ##### Example 8.26.
 
@@ -431,9 +431,9 @@ Here is an example of *[po'u](/glossary/#pou)*:
 
 :::
 
-The cmavo *[po'u](/glossary/#pou)* does not represent possession at all, but rather identity. (Note that it means *poi du* and its form was chosen to suggest the relationship.)
+The cmavo *[po'u](/glossary/?mode=exact&word=po%27u)* does not represent possession at all, but rather identity. (Note that it means *poi du* and its form was chosen to suggest the relationship.)
 
-In [Example 8.26](/chapter08/#example-826 "Example 8.26."), the use of *[po'u](/glossary/#pou)* tells us that *le gerku* and *le mi pendo* represent the same thing. Consider the contrast between [Example 8.26](/chapter08/#example-826 "Example 8.26.") and:
+In [Example 8.26](/chapter08/#example-826 "Example 8.26."), the use of *[po'u](/glossary/?mode=exact&word=po%27u)* tells us that *le gerku* and *le mi pendo* represent the same thing. Consider the contrast between [Example 8.26](/chapter08/#example-826 "Example 8.26.") and:
 
 ##### Example 8.28.
 
@@ -504,7 +504,7 @@ My friend, the one with the cup, is small.
 
 [Example 8.31](/chapter08/#example-831 "Example 8.31.") is useful in a context which is about my friend, and states that his or her cup is small, whereas [Example 8.32](/chapter08/#example-832 "Example 8.32.") is useful in a context that is primarily about a certain cup, and makes a claim about “my friend of the cup”, as opposed to some other friend of mine. Here the cup appears to “possess” the person! English can't even express this relationship with a possessive – “the cup's friend of mine” looks like nonsense – but Lojban has no trouble doing so.
 
-Finally, the cmavo *[ne](/glossary/#ne)* and *[no'u](/glossary/#nou)* stand to *[pe](/glossary/#pe)* and *[po'u](/glossary/#pou)*, respectively, as *[noi](/glossary/#noi)* does to *poi-* they provide incidental information:
+Finally, the cmavo *[ne](/glossary/?mode=exact&word=ne)* and *[no'u](/glossary/?mode=exact&word=no%27u)* stand to *[pe](/glossary/?mode=exact&word=pe)* and *[po'u](/glossary/?mode=exact&word=po%27u)*, respectively, as *[noi](/glossary/?mode=exact&word=noi)* does to *poi-* they provide incidental information:
 
 ##### Example 8.33.
 
@@ -521,7 +521,7 @@ The white dog, which is mine, bites you.
 
 In [Example 8.33](/chapter08/#example-833 "Example 8.33."), the white dog is already fully identified (after all, presumably the listener knows which dog bit him or her!). The fact that it is yours is merely incidental to the main bridi claim.
 
-Distinguishing between *[po'u](/glossary/#pou)* and *[no'u](/glossary/#nou)* can be a little tricky. Consider a room with several men in it, one of whom is named Jim. If you don't know their names, I might say:
+Distinguishing between *[po'u](/glossary/?mode=exact&word=po%27u)* and *[no'u](/glossary/?mode=exact&word=no%27u)* can be a little tricky. Consider a room with several men in it, one of whom is named Jim. If you don't know their names, I might say:
 
 ##### Example 8.34.
 
@@ -574,7 +574,7 @@ seems strange to a French- or German-speaking person: whose pockets would he put
 
 is very natural. Of course, if the man is in fact putting his hands into another's pockets, or another's hands into his pockets, the fact can be specified.
 
-Finally, the elidable terminator for GOI cmavo is *[ge'u](/glossary/#geu)* of selma'o GEhU; it is almost never required. However, if a logical connective immediately follows a sumti modified by a relative phrase, then an explicit *[ge'u](/glossary/#geu)* is needed to allow the connective to affect the relativized sumti rather than the sumti of the relative phrase. (What about the cmavo after which selma'o GOI is named? It is discussed in [Section 7.5](/chapter07/#75-assignable-pro-sumti-and-pro-bridi-the-koa-series-and-the-broda-series "7.5. Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series"), as it is not semantically akin to the other kinds of relative phrases, although the syntax is the same.)
+Finally, the elidable terminator for GOI cmavo is *[ge'u](/glossary/?mode=exact&word=ge%27u)* of selma'o GEhU; it is almost never required. However, if a logical connective immediately follows a sumti modified by a relative phrase, then an explicit *[ge'u](/glossary/?mode=exact&word=ge%27u)* is needed to allow the connective to affect the relativized sumti rather than the sumti of the relative phrase. (What about the cmavo after which selma'o GOI is named? It is discussed in [Section 7.5](/chapter07/#75-assignable-pro-sumti-and-pro-bridi-the-koa-series-and-the-broda-series "7.5. Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series"), as it is not semantically akin to the other kinds of relative phrases, although the syntax is the same.)
 
 ## 8.4. Multiple relative clauses: *zi'e*
 
@@ -582,7 +582,7 @@ Finally, the elidable terminator for GOI cmavo is *[ge'u](/glossary/#geu)* of se
 | ---- | ---- | ---------------------- |
 | zi'e | ZIhE | relative clause joiner |
 
-Sometimes it is necessary or useful to attach more than one relative clause to a sumti. This is made possible in Lojban by the cmavo *[zi'e](/glossary/#zie)* (of selma'o ZIhE), which is used to join one or more relative clauses together into a single unit, thus making them apply to the same sumti. For example:
+Sometimes it is necessary or useful to attach more than one relative clause to a sumti. This is made possible in Lojban by the cmavo *[zi'e](/glossary/?mode=exact&word=zi%27e)* (of selma'o ZIhE), which is used to join one or more relative clauses together into a single unit, thus making them apply to the same sumti. For example:
 
 ##### Example 8.38.
 
@@ -596,9 +596,9 @@ Sometimes it is necessary or useful to attach more than one relative clause to a
 
 The dog which is white and which bites the man goes.
 
-The most usual translation of *[zi'e](/glossary/#zie)* in English is “and”, but *[zi'e](/glossary/#zie)* is not really a logical connective: unlike most of the true logical connectives (which are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System")), it cannot be converted into a logical connection between sentences.
+The most usual translation of *[zi'e](/glossary/?mode=exact&word=zi%27e)* in English is “and”, but *[zi'e](/glossary/?mode=exact&word=zi%27e)* is not really a logical connective: unlike most of the true logical connectives (which are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System")), it cannot be converted into a logical connection between sentences.
 
-It is perfectly correct to use *[zi'e](/glossary/#zie)* to connect relative clauses of different kinds:
+It is perfectly correct to use *[zi'e](/glossary/?mode=exact&word=zi%27e)* to connect relative clauses of different kinds:
 
 ##### Example 8.39.
 
@@ -620,7 +620,7 @@ The dog that is white, which my friend owns, is going.
 
 In [Example 8.39](/chapter08/#example-839 "Example 8.39."), the restrictive clause *poi blabi* specifies which dog is referred to, but the incidental clause *noi le mi pendo cu ponse* is mere incidental information: the listener is supposed to already have identified the dog from the *poi blabi*. Of course, the meaning (though not necessarily the emphasis) is the same if the incidental clause appears first.
 
-It is also possible to connect relative phrases with *[zi'e](/glossary/#zie)*, or a relative phrase with a relative clause:
+It is also possible to connect relative phrases with *[zi'e](/glossary/?mode=exact&word=zi%27e)*, or a relative phrase with a relative clause:
 
 ##### Example 8.40.
 
@@ -635,7 +635,7 @@ It is also possible to connect relative phrases with *[zi'e](/glossary/#zie)*, o
 
 My blue bottle is broken.
 
-Note that if the colloquial translation of [Example 8.40](/chapter08/#example-840 "Example 8.40.") were “My bottle, which is blue, is broken”, then *[noi](/glossary/#noi)* rather than *[poi](/glossary/#poi)* would have been correct in the Lojban version, since that version of the English implies that you do not need to know the bottle is blue. As written, [Example 8.40](/chapter08/#example-840 "Example 8.40.") suggests that I probably have more than one bottle, and the one in question needs to be picked out as the blue one.
+Note that if the colloquial translation of [Example 8.40](/chapter08/#example-840 "Example 8.40.") were “My bottle, which is blue, is broken”, then *[noi](/glossary/?mode=exact&word=noi)* rather than *[poi](/glossary/?mode=exact&word=poi)* would have been correct in the Lojban version, since that version of the English implies that you do not need to know the bottle is blue. As written, [Example 8.40](/chapter08/#example-840 "Example 8.40.") suggests that I probably have more than one bottle, and the one in question needs to be picked out as the blue one.
 
 ##### Example 8.41.
 
@@ -655,7 +655,7 @@ Note that if the colloquial translation of [Example 8.40](/chapter08/#example-84
 
 I will sit in my chair (really yours), the red one.
 
-[Example 8.41](/chapter08/#example-841 "Example 8.41.") illustrates that more than two relative phrases or clauses can be connected with *[zi'e](/glossary/#zie)*. It almost defies colloquial translation because of the very un-English contrast between *pe mi*, implying that the chair is temporarily connected with me, and *po do*, implying that the chair has a more permanent association with you. (Perhaps I am a guest in your house, in which case the chair would naturally be your property.)
+[Example 8.41](/chapter08/#example-841 "Example 8.41.") illustrates that more than two relative phrases or clauses can be connected with *[zi'e](/glossary/?mode=exact&word=zi%27e)*. It almost defies colloquial translation because of the very un-English contrast between *pe mi*, implying that the chair is temporarily connected with me, and *po do*, implying that the chair has a more permanent association with you. (Perhaps I am a guest in your house, in which case the chair would naturally be your property.)
 
 Here is another example, mixing a relative phrase and two relative clauses, a restrictive one and a non-restrictive one:
 
@@ -683,7 +683,7 @@ I'll eat my beans that are on my plate, the ones you gave me.
 | --- | --- | ---------------------------------------- |
 | voi | NOI | non-veridical relative clause introducer |
 
-There is another member of selma'o NOI which serves to introduce a third kind of relative clause: *[voi](/glossary/#voi)*. Relative clauses introduced by *[voi](/glossary/#voi)* are restrictive, like those introduced by *[poi](/glossary/#poi)*. However, there is a fundamental difference between *[poi](/glossary/#poi)* and *[voi](/glossary/#voi)* relative clauses. A *[poi](/glossary/#poi)* relative clause is said to be veridical, in the same sense that a description using *[lo](/glossary/#lo)* or *[loi](/glossary/#loi)* is: it is essential to the interpretation that the bridi actually be true. For example:
+There is another member of selma'o NOI which serves to introduce a third kind of relative clause: *[voi](/glossary/?mode=exact&word=voi)*. Relative clauses introduced by *[voi](/glossary/?mode=exact&word=voi)* are restrictive, like those introduced by *[poi](/glossary/?mode=exact&word=poi)*. However, there is a fundamental difference between *[poi](/glossary/?mode=exact&word=poi)* and *[voi](/glossary/?mode=exact&word=voi)* relative clauses. A *[poi](/glossary/?mode=exact&word=poi)* relative clause is said to be veridical, in the same sense that a description using *[lo](/glossary/?mode=exact&word=lo)* or *[loi](/glossary/?mode=exact&word=loi)* is: it is essential to the interpretation that the bridi actually be true. For example:
 
 ##### Example 8.43.
 
@@ -709,7 +709,7 @@ it must actually be true that the dog is white, or the sentence constitutes a mi
 
 :::
 
-puts the listener on notice that the dog in question may not actually meet objective standards (whatever they are) for being white: only the speaker can say exactly what is meant by the term. In this way, *[voi](/glossary/#voi)* is like *[le](/glossary/#le)*; the speaker's intention determines the meaning.
+puts the listener on notice that the dog in question may not actually meet objective standards (whatever they are) for being white: only the speaker can say exactly what is meant by the term. In this way, *[voi](/glossary/?mode=exact&word=voi)* is like *[le](/glossary/?mode=exact&word=le)*; the speaker's intention determines the meaning.
 
 As a result, the following two sentences
 
@@ -737,13 +737,13 @@ The “guy” is actually a gal.
 
 :::
 
-mean essentially the same thing (except that [Example 8.46](/chapter08/#example-846 "Example 8.46.") involves pointing thanks to the use of *[ti](/glossary/#ti)*, whereas [Example 8.45](/chapter08/#example-845 "Example 8.45.") doesn't), and neither one is self-contradictory: it is perfectly all right to describe something as a man (although perhaps confusing to the listener) even if it actually is a woman.
+mean essentially the same thing (except that [Example 8.46](/chapter08/#example-846 "Example 8.46.") involves pointing thanks to the use of *[ti](/glossary/?mode=exact&word=ti)*, whereas [Example 8.45](/chapter08/#example-845 "Example 8.45.") doesn't), and neither one is self-contradictory: it is perfectly all right to describe something as a man (although perhaps confusing to the listener) even if it actually is a woman.
 
 ## 8.6. Relative clauses and descriptors
 
 So far, this chapter has described the various kinds of relative clauses (including relative phrases). The list is now complete, and the rest of the chapter will be concerned with the syntax of sumti that include relative clauses. So far, all relative clauses have appeared directly after the sumti to which they are attached. This is the most common position (and originally the only one), but a variety of other placements are also possible which produce a variety of semantic effects.
 
-There are actually three places where a relative clause can be attached to a description sumti: after the descriptor (*[le](/glossary/#le)*, *[lo](/glossary/#lo)*, or whatever), after the embedded selbri but before the elidable terminator (which is *[ku](/glossary/#ku)*), and after the *[ku](/glossary/#ku)*. The relative clauses attached to descriptors that we have seen have occupied the second position. Thus [Example 8.43](/chapter08/#example-843 "Example 8.43."), if written out with all elidable terminators, would appear as:
+There are actually three places where a relative clause can be attached to a description sumti: after the descriptor (*[le](/glossary/?mode=exact&word=le)*, *[lo](/glossary/?mode=exact&word=lo)*, or whatever), after the embedded selbri but before the elidable terminator (which is *[ku](/glossary/?mode=exact&word=ku)*), and after the *[ku](/glossary/?mode=exact&word=ku)*. The relative clauses attached to descriptors that we have seen have occupied the second position. Thus [Example 8.43](/chapter08/#example-843 "Example 8.43."), if written out with all elidable terminators, would appear as:
 
 ##### Example 8.47.
 
@@ -758,9 +758,9 @@ There are actually three places where a relative clause can be attached to a des
 
 The dog which is white is going.
 
-Here *[ku'o](/glossary/#kuo)* is the terminator paired with *[poi](/glossary/#poi)* and *[ku](/glossary/#ku)* with *[le](/glossary/#le)*, and *[vau](/glossary/#vau)* is the terminator of the whole bridi.
+Here *[ku'o](/glossary/?mode=exact&word=ku%27o)* is the terminator paired with *[poi](/glossary/?mode=exact&word=poi)* and *[ku](/glossary/?mode=exact&word=ku)* with *[le](/glossary/?mode=exact&word=le)*, and *[vau](/glossary/?mode=exact&word=vau)* is the terminator of the whole bridi.
 
-When a simple descriptor using *[le](/glossary/#le)*, like *le gerku*, has a relative clause attached, it is purely a matter of style and emphasis where the relative clause should go. Therefore, the following examples are all equivalent in meaning to [Example 8.47](/chapter08/#example-847 "Example 8.47."):
+When a simple descriptor using *[le](/glossary/?mode=exact&word=le)*, like *le gerku*, has a relative clause attached, it is purely a matter of style and emphasis where the relative clause should go. Therefore, the following examples are all equivalent in meaning to [Example 8.47](/chapter08/#example-847 "Example 8.47."):
 
 ##### Example 8.48.
 
@@ -784,7 +784,7 @@ When a simple descriptor using *[le](/glossary/#le)*, like *le gerku*, has a rel
 
 :::
 
-[Example 8.47](/chapter08/#example-847 "Example 8.47.") will seem most natural to speakers of languages like English, which always puts relative clauses after the noun phrases they are attached to; [Example 8.48](/chapter08/#example-848 "Example 8.48."), on the other hand, may seem more natural to Finnish or Chinese speakers, who put the relative clause first. Note that in [Example 8.48](/chapter08/#example-848 "Example 8.48."), the elidable terminator *[gerku](/glossary/#gerku)*), resulting in an ungrammatical sentence. The purpose of the form appearing in [Example 8.49](/chapter08/#example-849 "Example 8.49.") will be apparent shortly.
+[Example 8.47](/chapter08/#example-847 "Example 8.47.") will seem most natural to speakers of languages like English, which always puts relative clauses after the noun phrases they are attached to; [Example 8.48](/chapter08/#example-848 "Example 8.48."), on the other hand, may seem more natural to Finnish or Chinese speakers, who put the relative clause first. Note that in [Example 8.48](/chapter08/#example-848 "Example 8.48."), the elidable terminator *[gerku](/glossary/?mode=exact&word=gerku)*), resulting in an ungrammatical sentence. The purpose of the form appearing in [Example 8.49](/chapter08/#example-849 "Example 8.49.") will be apparent shortly.
 
 As is explained in detail in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"), two different numbers (known as the “inner quantifier” and the “outer quantifier”) can be attached to a description. The inner quantifier specifies how many things the descriptor refers to: it appears between the descriptor and the description selbri. The outer quantifier appears before the descriptor, and specifies how many of the things referred to by the descriptor are involved in this particular bridi. In the following example,
 
@@ -801,7 +801,7 @@ As is explained in detail in [Section 6.7](/chapter06/#67-quantified-description
 
 Two of the five people \[that I have in mind\] are going to the market.
 
-*[mu](/glossary/#mu)* is the inner quantifier and *[re](/glossary/#re)* is the outer quantifier. Now what is meant by attaching a relative clause to the sumti *re le mu prenu*? Suppose the relative clause is *poi ninmu* (meaning “who are women”). Now the three possible attachment points discussed previously take on significance.
+*[mu](/glossary/?mode=exact&word=mu)* is the inner quantifier and *[re](/glossary/?mode=exact&word=re)* is the outer quantifier. Now what is meant by attaching a relative clause to the sumti *re le mu prenu*? Suppose the relative clause is *poi ninmu* (meaning “who are women”). Now the three possible attachment points discussed previously take on significance.
 
 ##### Example 8.51.
 
@@ -847,11 +847,11 @@ Two of the five women go to the market.
 
 Two women out of the five persons go to the market.
 
-As the parentheses show, [Example 8.52](/chapter08/#example-852 "Example 8.52.") means that all five of the persons are women, whereas [Example 8.53](/chapter08/#example-853 "Example 8.53.") means that the two who are going to the market are women. How do we remember which is which? If the relative clause comes after the explicit *[ku](/glossary/#ku)*, as in [Example 8.53](/chapter08/#example-853 "Example 8.53."), then the sumti as a whole is qualified by the relative clause. If there is no *[ku](/glossary/#ku)*, or if the relative clause comes before an explicit *[ku](/glossary/#ku)*, then the relative clause is understood to apply to everything which the underlying selbri applies to.
+As the parentheses show, [Example 8.52](/chapter08/#example-852 "Example 8.52.") means that all five of the persons are women, whereas [Example 8.53](/chapter08/#example-853 "Example 8.53.") means that the two who are going to the market are women. How do we remember which is which? If the relative clause comes after the explicit *[ku](/glossary/?mode=exact&word=ku)*, as in [Example 8.53](/chapter08/#example-853 "Example 8.53."), then the sumti as a whole is qualified by the relative clause. If there is no *[ku](/glossary/?mode=exact&word=ku)*, or if the relative clause comes before an explicit *[ku](/glossary/?mode=exact&word=ku)*, then the relative clause is understood to apply to everything which the underlying selbri applies to.
 
-What about [Example 8.51](/chapter08/#example-851 "Example 8.51.")? By convention, it means the same as [Example 8.53](/chapter08/#example-853 "Example 8.53."), and it requires no *[ku](/glossary/#ku)*, but it does typically require a *[ku'o](/glossary/#kuo)* instead. Note that the relative clause comes before the inner quantifier.
+What about [Example 8.51](/chapter08/#example-851 "Example 8.51.")? By convention, it means the same as [Example 8.53](/chapter08/#example-853 "Example 8.53."), and it requires no *[ku](/glossary/?mode=exact&word=ku)*, but it does typically require a *[ku'o](/glossary/?mode=exact&word=ku%27o)* instead. Note that the relative clause comes before the inner quantifier.
 
-When *[le](/glossary/#le)* is the descriptor being used, and the sumti has no explicit outer quantifier, then the outer quantifier is understood to be *[ro](/glossary/#ro)* (meaning “all”), as is explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Thus *le gerku* is taken to mean “all of the things I refer to as dogs”, possibly all one of them. In that case, there is no difference between a relative clause after the *[ku](/glossary/#ku)* or before it. However, if the descriptor is *[lo](/glossary/#lo)*, the difference is quite important:
+When *[le](/glossary/?mode=exact&word=le)* is the descriptor being used, and the sumti has no explicit outer quantifier, then the outer quantifier is understood to be *[ro](/glossary/?mode=exact&word=ro)* (meaning “all”), as is explained in [Section 6.7](/chapter06/#67-quantified-descriptions "6.7. Quantified descriptions"). Thus *le gerku* is taken to mean “all of the things I refer to as dogs”, possibly all one of them. In that case, there is no difference between a relative clause after the *[ku](/glossary/?mode=exact&word=ku)* or before it. However, if the descriptor is *[lo](/glossary/?mode=exact&word=lo)*, the difference is quite important:
 
 ##### Example 8.54.
 
@@ -879,13 +879,13 @@ Some people, who are white, go to the market.
 
 Some of the people, who by the way are white, go to the market.
 
-Both [Example 8.54](/chapter08/#example-854 "Example 8.54.") and [Example 8.55](/chapter08/#example-855 "Example 8.55.") tell us that one or more persons are going to the market. However, they make very different incidental claims. Now, what does *lo prenu noi blabi* mean? Well, the default inner quantifier is *[ro](/glossary/#ro)* (meaning “all”), and the default outer quantifier is *[su'o](/glossary/#suo)* (meaning “at least one”). Therefore, we must first take all persons, then choose at least one of them. That one or more people will be going.
+Both [Example 8.54](/chapter08/#example-854 "Example 8.54.") and [Example 8.55](/chapter08/#example-855 "Example 8.55.") tell us that one or more persons are going to the market. However, they make very different incidental claims. Now, what does *lo prenu noi blabi* mean? Well, the default inner quantifier is *[ro](/glossary/?mode=exact&word=ro)* (meaning “all”), and the default outer quantifier is *[su'o](/glossary/?mode=exact&word=su%27o)* (meaning “at least one”). Therefore, we must first take all persons, then choose at least one of them. That one or more people will be going.
 
 In [Example 8.54](/chapter08/#example-854 "Example 8.54."), the relative clause described the sumti once the outer quantifier was applied: one or more people, who are white, are going. But in [Example 8.55](/chapter08/#example-855 "Example 8.55."), the relative clause actually describes the sumti before the outer quantification is applied, so that it ends up meaning “First take all persons – by the way, they're all white”. But not all people are white, so the incidental claim being made here is false.
 
-The safe strategy, therefore, is to always use *[ku](/glossary/#ku)* when attaching a *[noi](/glossary/#noi)* relative clause to a *[lo](/glossary/#lo)* descriptor. Otherwise we may end up claiming far too much.
+The safe strategy, therefore, is to always use *[ku](/glossary/?mode=exact&word=ku)* when attaching a *[noi](/glossary/?mode=exact&word=noi)* relative clause to a *[lo](/glossary/?mode=exact&word=lo)* descriptor. Otherwise we may end up claiming far too much.
 
-When the descriptor is *[la](/glossary/#la)*, indicating that what follows is a selbri used for naming, then the positioning of relative clauses has a different significance. A relative clause inside the *[ku](/glossary/#ku)*, whether before or after the selbri, is reckoned part of the name; a relative clause outside the *[ku](/glossary/#ku)* is not. Therefore,
+When the descriptor is *[la](/glossary/?mode=exact&word=la)*, indicating that what follows is a selbri used for naming, then the positioning of relative clauses has a different significance. A relative clause inside the *[ku](/glossary/?mode=exact&word=ku)*, whether before or after the selbri, is reckoned part of the name; a relative clause outside the *[ku](/glossary/?mode=exact&word=ku)* is not. Therefore,
 
 ##### Example 8.56.
 
@@ -917,7 +917,7 @@ I see the person named “Man” who is afraid of his horse.
 
 refers to one (or more) of those named “Man”, namely the one(s) who are afraid of their horses.
 
-Finally, so-called indefinite sumti like *re karce*, which means almost the same as *re lo karce* (which in turn means the same as *re lo ro karce*), can have relative clauses attached; these are taken to be of the outside-the- *[ku](/glossary/#ku)* variety. Here is an example:
+Finally, so-called indefinite sumti like *re karce*, which means almost the same as *re lo karce* (which in turn means the same as *re lo ro karce*), can have relative clauses attached; these are taken to be of the outside-the- *[ku](/glossary/?mode=exact&word=ku)* variety. Here is an example:
 
 ##### Example 8.58.
 
@@ -930,11 +930,11 @@ Finally, so-called indefinite sumti like *re karce*, which means almost the same
 
 :::
 
-The restrictive relative clause only affects the two cars being affected by the main bridi, not all cars that exist. It is ungrammatical to try to place a relative clause within an indefinite sumti (that is, before an explicitly expressed terminating *[ku](/glossary/#ku)*.) Use an explicit *[lo](/glossary/#lo)* instead.
+The restrictive relative clause only affects the two cars being affected by the main bridi, not all cars that exist. It is ungrammatical to try to place a relative clause within an indefinite sumti (that is, before an explicitly expressed terminating *[ku](/glossary/?mode=exact&word=ku)*.) Use an explicit *[lo](/glossary/?mode=exact&word=lo)* instead.
 
 ## 8.7. Possessive sumti
 
-In [Example 8.15](/chapter08/#example-815 "Example 8.15.") through [Example 8.17](/chapter08/#example-817 "Example 8.17."), the sumti *le mi karce* appears, glossed as “my car”. Although it might not seem so, this sumti actually contains a relative phrase. When a sumti appears between a descriptor and its description selbri, it is actually a *[pe](/glossary/#pe)* relative phrase. So
+In [Example 8.15](/chapter08/#example-815 "Example 8.15.") through [Example 8.17](/chapter08/#example-817 "Example 8.17."), the sumti *le mi karce* appears, glossed as “my car”. Although it might not seem so, this sumti actually contains a relative phrase. When a sumti appears between a descriptor and its description selbri, it is actually a *[pe](/glossary/?mode=exact&word=pe)* relative phrase. So
 
 ##### Example 8.59.
 
@@ -973,11 +973,11 @@ mean exactly the same thing. Furthermore, since there are no special considerati
 
 :::
 
-means the same thing as well. A sumti like the one in [Example 8.59](/chapter08/#example-859 "Example 8.59.") is called a “possessive sumti”. Of course, it does not really indicate possession in the sense of ownership, but like *[pe](/glossary/#pe)* relative phrases, indicates only weak association; you can say *le mi karce* even if you've only borrowed it for the night. (In English, “my car” usually means *le karce po mi*, but we do not have the same sense of possession in “my seat on the bus”; Lojban simply makes the weaker sense the standard one.) The inner sumti, *[mi](/glossary/#mi)* in [Example 8.59](/chapter08/#example-859 "Example 8.59."), is correspondingly called the “possessor sumti”.
+means the same thing as well. A sumti like the one in [Example 8.59](/chapter08/#example-859 "Example 8.59.") is called a “possessive sumti”. Of course, it does not really indicate possession in the sense of ownership, but like *[pe](/glossary/?mode=exact&word=pe)* relative phrases, indicates only weak association; you can say *le mi karce* even if you've only borrowed it for the night. (In English, “my car” usually means *le karce po mi*, but we do not have the same sense of possession in “my seat on the bus”; Lojban simply makes the weaker sense the standard one.) The inner sumti, *[mi](/glossary/?mode=exact&word=mi)* in [Example 8.59](/chapter08/#example-859 "Example 8.59."), is correspondingly called the “possessor sumti”.
 
 Historically, possessive sumti existed before any other kind of relative phrase or clause, and were retained when the machinery of relative phrases and clauses as detailed in this chapter so far was slowly built up. When preposed relative clauses of the [Example 8.60](/chapter08/#example-860 "Example 8.60.") type were devised, possessive sumti were most easily viewed as a special case of them.
 
-Although any sumti, however complex, can appear in a full-fledged relative phrase, only simple sumti can appear as possessor sumti, without a *[pe](/glossary/#pe)*. Roughly speaking, the legal possessor sumti are: pro-sumti, quotations, names and descriptions, and numbers. In addition, the possessor sumti may not be preceded by a quantifier, as such a form would be interpreted as the unusual “descriptor + quantifier + sumti” type of description. All these sumti forms are explained in full in [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti").
+Although any sumti, however complex, can appear in a full-fledged relative phrase, only simple sumti can appear as possessor sumti, without a *[pe](/glossary/?mode=exact&word=pe)*. Roughly speaking, the legal possessor sumti are: pro-sumti, quotations, names and descriptions, and numbers. In addition, the possessor sumti may not be preceded by a quantifier, as such a form would be interpreted as the unusual “descriptor + quantifier + sumti” type of description. All these sumti forms are explained in full in [Chapter 6](/chapter06/ "Chapter 6. To Speak Of Many Things: The Lojban sumti").
 
 Here is an example of a description used in a possessive sumti:
 
@@ -994,7 +994,7 @@ Here is an example of a description used in a possessive sumti:
 
 The man's car is blue.
 
-Note the explicit *[ku](/glossary/#ku)* at the end of the possessor sumti, which prevents the selbri of the possessor sumti from merging with the selbri of the main description sumti. Because of the need for this *[ku](/glossary/#ku)*, the most common kind of possessor sumti are pro-sumti, especially personal pro-sumti, which require no elidable terminator. Descriptions are more likely to be attached with relative phrases.
+Note the explicit *[ku](/glossary/?mode=exact&word=ku)* at the end of the possessor sumti, which prevents the selbri of the possessor sumti from merging with the selbri of the main description sumti. Because of the need for this *[ku](/glossary/?mode=exact&word=ku)*, the most common kind of possessor sumti are pro-sumti, especially personal pro-sumti, which require no elidable terminator. Descriptions are more likely to be attached with relative phrases.
 
 And here is a number used as a possessor sumti:
 
@@ -1039,7 +1039,7 @@ means that my car isn't going; the incidental claim of *noi sipna* applies to me
 
 :::
 
-Note that [Example 8.64](/chapter08/#example-864 "Example 8.64.") uses *[vau](/glossary/#vau)* rather than *[ku'o](/glossary/#kuo)* at the end of the relative clause: this terminator ends every simple bridi and is almost always elidable; in this case, though, it is a syllable shorter than the equally valid alternative, *[ku'o](/glossary/#kuo)*.
+Note that [Example 8.64](/chapter08/#example-864 "Example 8.64.") uses *[vau](/glossary/?mode=exact&word=vau)* rather than *[ku'o](/glossary/?mode=exact&word=ku%27o)* at the end of the relative clause: this terminator ends every simple bridi and is almost always elidable; in this case, though, it is a syllable shorter than the equally valid alternative, *[ku'o](/glossary/?mode=exact&word=ku%27o)*.
 
 ## 8.8. Relative clauses and complex sumti: *vu'o*
 
@@ -1106,7 +1106,7 @@ In addition, sumti with attached sumti qualifiers of selma'o LAhE or NAhE+BO (wh
 
 An old “The Red Pony” is in the far room.
 
-[Example 8.68](/chapter08/#example-868 "Example 8.68.") is a bit complex, and may need some picking apart. The quotation *lu le xunre cmaxirma li'u* means the string of words “The Red Pony”. If the *[la'e](/glossary/#lae)* at the beginning of the sentence were omitted, [Example 8.68](/chapter08/#example-868 "Example 8.68.") would claim that a certain string of words is in a room distant from the speaker. But obviously a string of words can't be in a room! The effect of the *[la'e](/glossary/#lae)* is to modify the sumti so that it refers not to the words themselves, but to the referent of those words, a novel by John Steinbeck (presumably in Lojban translation). The particular copy of “The Red Pony” is identified by the restrictive relative clause. [Example 8.68](/chapter08/#example-868 "Example 8.68.") means exactly the same as:
+[Example 8.68](/chapter08/#example-868 "Example 8.68.") is a bit complex, and may need some picking apart. The quotation *lu le xunre cmaxirma li'u* means the string of words “The Red Pony”. If the *[la'e](/glossary/?mode=exact&word=la%27e)* at the beginning of the sentence were omitted, [Example 8.68](/chapter08/#example-868 "Example 8.68.") would claim that a certain string of words is in a room distant from the speaker. But obviously a string of words can't be in a room! The effect of the *[la'e](/glossary/?mode=exact&word=la%27e)* is to modify the sumti so that it refers not to the words themselves, but to the referent of those words, a novel by John Steinbeck (presumably in Lojban translation). The particular copy of “The Red Pony” is identified by the restrictive relative clause. [Example 8.68](/chapter08/#example-868 "Example 8.68.") means exactly the same as:
 
 ##### Example 8.69.
 
@@ -1124,7 +1124,7 @@ An old “The Red Pony” is in the far room.
 | poi   | to'ercitno | cu  | zvati | le  | vu               | kumfa |
 | which | is-old     |     | is-at | the | \[far-distance\] | room. |
 
-and the two sentences can be considered stylistic variants. Note the required *[lu'u](/glossary/#luu)* terminator, which prevents the relative clause from attaching to the quotation itself: we do not wish to refer to an old quotation!
+and the two sentences can be considered stylistic variants. Note the required *[lu'u](/glossary/?mode=exact&word=lu%27u)* terminator, which prevents the relative clause from attaching to the quotation itself: we do not wish to refer to an old quotation!
 
 Sometimes, however, it is important to make a relative clause apply to the whole of a more complex sumti, one which involves logical or non-logical connection (explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System")). For example,
 
@@ -1148,7 +1148,7 @@ Frank and George, who is a man, go to the house.
 
 The incidental claim in [Example 8.70](/chapter08/#example-870 "Example 8.70.") is not that Frank and George are men, but only that George is a man, because the incidental relative clause attaches only to *la djordj*, the immediately preceding simple sumti.
 
-To make a relative clause attach to both parts of the logically connected sumti in [Example 8.70](/chapter08/#example-870 "Example 8.70."), a new cmavo is needed, *[vu'o](/glossary/#vuo)* (of selma'o VUhO). It is placed between the sumti and the relative clause, and extends the sphere of influence of that relative clause to the entire preceding sumti, including however many logical or non-logical connectives there may be.
+To make a relative clause attach to both parts of the logically connected sumti in [Example 8.70](/chapter08/#example-870 "Example 8.70."), a new cmavo is needed, *[vu'o](/glossary/?mode=exact&word=vu%27o)* (of selma'o VUhO). It is placed between the sumti and the relative clause, and extends the sphere of influence of that relative clause to the entire preceding sumti, including however many logical or non-logical connectives there may be.
 
 ##### Example 8.71.
 
@@ -1168,9 +1168,9 @@ To make a relative clause attach to both parts of the logically connected sumti 
 
 Frank and George, who are men, go to the house.
 
-The presence of *[vu'o](/glossary/#vuo)* here means that the relative clause *noi nanmu* extends to the entire logically connected sumti *la frank. .e la djordj.*; in other words, both Frank and George are claimed to be men, as the colloquial translation shows.
+The presence of *[vu'o](/glossary/?mode=exact&word=vu%27o)* here means that the relative clause *noi nanmu* extends to the entire logically connected sumti *la frank. .e la djordj.*; in other words, both Frank and George are claimed to be men, as the colloquial translation shows.
 
-English is able to resolve the distinction correctly in the case of [Example 8.70](/chapter08/#example-870 "Example 8.70.") and [Example 8.71](/chapter08/#example-871 "Example 8.71.") by making use of number: “who is” rather than “who are”. Lojban doesn't distinguish between singular and plural verbs: *[nanmu](/glossary/#nanmu)* can mean “is a man” or “are men”, so another means is required. Furthermore, Lojban's mechanism works correctly in general: if *[nanmu](/glossary/#nanmu)* (meaning “is-a-man”) were replaced with *pu bajra* (“ran”), English would have to make the distinction some other way:
+English is able to resolve the distinction correctly in the case of [Example 8.70](/chapter08/#example-870 "Example 8.70.") and [Example 8.71](/chapter08/#example-871 "Example 8.71.") by making use of number: “who is” rather than “who are”. Lojban doesn't distinguish between singular and plural verbs: *[nanmu](/glossary/?mode=exact&word=nanmu)* can mean “is a man” or “are men”, so another means is required. Furthermore, Lojban's mechanism works correctly in general: if *[nanmu](/glossary/?mode=exact&word=nanmu)* (meaning “is-a-man”) were replaced with *pu bajra* (“ran”), English would have to make the distinction some other way:
 
 ##### Example 8.72.
 
@@ -1309,7 +1309,7 @@ For the most part, these are straightforward and uncomplicated: a sumti that is 
 
 :::
 
-However, an ambiguity can exist if *[ke'a](/glossary/#kea)* is used in a relative clause within a relative clause: does it refer to the outermost sumti, or to the sumti within the outer relative clause to which the inner relative clause is attached? The latter. To refer to the former, use a subscript on *[ke'a](/glossary/#kea)*:
+However, an ambiguity can exist if *[ke'a](/glossary/?mode=exact&word=ke%27a)* is used in a relative clause within a relative clause: does it refer to the outermost sumti, or to the sumti within the outer relative clause to which the inner relative clause is attached? The latter. To refer to the former, use a subscript on *[ke'a](/glossary/?mode=exact&word=ke%27a)*:
 
 ##### Example 8.82.
 
@@ -1324,9 +1324,9 @@ However, an ambiguity can exist if *[ke'a](/glossary/#kea)* is used in a relativ
 
 The person who is in the room which he built is slow.
 
-Here, the meaning of “IT-sub-2” is that sumti attached to the second relative clause, counting from the innermost, is used. Therefore, *ke'axipa* (IT-sub-1) means the same as plain *[ke'a](/glossary/#kea)*.
+Here, the meaning of “IT-sub-2” is that sumti attached to the second relative clause, counting from the innermost, is used. Therefore, *ke'axipa* (IT-sub-1) means the same as plain *[ke'a](/glossary/?mode=exact&word=ke%27a)*.
 
-Alternatively, you can use a prenex (explained in full in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")), which is syntactically a series of sumti followed by the special cmavo *[zo'u](/glossary/#zou)*, prefixed to the relative clause bridi:
+Alternatively, you can use a prenex (explained in full in [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")), which is syntactically a series of sumti followed by the special cmavo *[zo'u](/glossary/?mode=exact&word=zo%27u)*, prefixed to the relative clause bridi:
 
 ##### Example 8.83.
 
@@ -1349,7 +1349,7 @@ Alternatively, you can use a prenex (explained in full in [Chapter 16](/chapter1
 | ko'a | zbasu | ko'e | cu  | masno    |
 | it1  | built | it2) |     | is-slow. |
 
-[Example 8.83](/chapter08/#example-883 "Example 8.83.") is more verbose than [Example 8.82](/chapter08/#example-882 "Example 8.82."), but may be clearer, since it explicitly spells out the two *[ke'a](/glossary/#kea)* cmavo, each on its own level, and assigns them to the assignable cmavo *[ko'a](/glossary/#koa)* and *[ko'e](/glossary/#koe)* (explained in [Section 7.5](/chapter07/#75-assignable-pro-sumti-and-pro-bridi-the-koa-series-and-the-broda-series "7.5. Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series")).
+[Example 8.83](/chapter08/#example-883 "Example 8.83.") is more verbose than [Example 8.82](/chapter08/#example-882 "Example 8.82."), but may be clearer, since it explicitly spells out the two *[ke'a](/glossary/?mode=exact&word=ke%27a)* cmavo, each on its own level, and assigns them to the assignable cmavo *[ko'a](/glossary/?mode=exact&word=ko%27a)* and *[ko'e](/glossary/?mode=exact&word=ko%27e)* (explained in [Section 7.5](/chapter07/#75-assignable-pro-sumti-and-pro-bridi-the-koa-series-and-the-broda-series "7.5. Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series")).
 
 ## 8.11. Index of relative clause cmavo
 

@@ -40,7 +40,7 @@ can be understood as:
 
 as well as many other possibilities: context resolves which is correct.
 
-The placement of a tense construct within a Lojban bridi is easy: right before the selbri. It goes immediately after the *[cu](/glossary/#cu)*, and can in fact always replace the *[cu](/glossary/#cu)* (although in very complex sentences the rules for eliding terminators may be changed as a result). In the following examples, *[pu](/glossary/#pu)* is the tense marker for “past time”:
+The placement of a tense construct within a Lojban bridi is easy: right before the selbri. It goes immediately after the *[cu](/glossary/?mode=exact&word=cu)*, and can in fact always replace the *[cu](/glossary/?mode=exact&word=cu)* (although in very complex sentences the rules for eliding terminators may be changed as a result). In the following examples, *[pu](/glossary/?mode=exact&word=pu)* is the tense marker for “past time”:
 
 ##### Example 10.2.
 
@@ -56,7 +56,7 @@ The placement of a tense construct within a Lojban bridi is easy: right before t
 
 I went to the market.
 
-It is also possible to put the tense somewhere else in the bridi by adding *[ku](/glossary/#ku)* after it. This *[ku](/glossary/#ku)* is an elidable terminator, but it's almost never possible to actually elide it except at the end of the bridi:
+It is also possible to put the tense somewhere else in the bridi by adding *[ku](/glossary/?mode=exact&word=ku)* after it. This *[ku](/glossary/?mode=exact&word=ku)* is an elidable terminator, but it's almost never possible to actually elide it except at the end of the bridi:
 
 ##### Example 10.3.
 
@@ -97,7 +97,7 @@ I went earlier to the market.
 
 I went to the market earlier.
 
-[Example 10.2](/chapter10/#example-102 "Example 10.2.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") are different only in emphasis. Abnormal order, such as [Example 10.3](/chapter10/#example-103 "Example 10.3.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") exhibit, adds emphasis to the words that have been moved; in this case, the tense cmavo *[pu](/glossary/#pu)*. Words at either end of the sentence tend to be more noticeable.
+[Example 10.2](/chapter10/#example-102 "Example 10.2.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") are different only in emphasis. Abnormal order, such as [Example 10.3](/chapter10/#example-103 "Example 10.3.") through [Example 10.5](/chapter10/#example-105 "Example 10.5.") exhibit, adds emphasis to the words that have been moved; in this case, the tense cmavo *[pu](/glossary/?mode=exact&word=pu)*. Words at either end of the sentence tend to be more noticeable.
 
 ## 10.2. Spatial tenses: FAhA and VA
 
@@ -137,7 +137,7 @@ Lojban specifies the spatial tense of a bridi (the place at which it occurs) by 
 
 Over there the man is biting the dog.
 
-What is at a medium distance? The event referred to by the bridi: the man biting the dog. What is this event at a medium distance from? The speaker's location. We can understand the *[va](/glossary/#va)* as saying: “If you want to get from the speaker's location to the location of the bridi, journey for a medium distance (in some direction unspecified).” This “imaginary journey” can be used to understand not only [Example 10.6](/chapter10/#example-106 "Example 10.6."), but also every other spatial tense construct.
+What is at a medium distance? The event referred to by the bridi: the man biting the dog. What is this event at a medium distance from? The speaker's location. We can understand the *[va](/glossary/?mode=exact&word=va)* as saying: “If you want to get from the speaker's location to the location of the bridi, journey for a medium distance (in some direction unspecified).” This “imaginary journey” can be used to understand not only [Example 10.6](/chapter10/#example-106 "Example 10.6."), but also every other spatial tense construct.
 
 Suppose you specify a direction with a FAhA cmavo, rather than a distance with a VA cmavo:
 
@@ -158,7 +158,7 @@ Here the imaginary journey is again from the speaker's location to the location 
 
 The “my” does not have an explicit equivalent in the Lojban, because the speaker's location is understood as the starting point.
 
-(Etymologically, by the way, *[zu'a](/glossary/#zua)* is derived from *[zunle](/glossary/#zunle)*, the gismu for “left”, whereas *[vi](/glossary/#vi)*, *[va](/glossary/#va)*, and *[vu](/glossary/#vu)* are intended to be reminiscent of *[ti](/glossary/#ti)*, *[ta](/glossary/#ta)*, and *[tu](/glossary/#tu)*, the demonstrative pronouns “this-here”, “that-there”, and “that-yonder”.)
+(Etymologically, by the way, *[zu'a](/glossary/?mode=exact&word=zu%27a)* is derived from *[zunle](/glossary/?mode=exact&word=zunle)*, the gismu for “left”, whereas *[vi](/glossary/?mode=exact&word=vi)*, *[va](/glossary/?mode=exact&word=va)*, and *[vu](/glossary/?mode=exact&word=vu)* are intended to be reminiscent of *[ti](/glossary/?mode=exact&word=ti)*, *[ta](/glossary/?mode=exact&word=ta)*, and *[tu](/glossary/?mode=exact&word=tu)*, the demonstrative pronouns “this-here”, “that-there”, and “that-yonder”.)
 
 What about specifying both a direction and a distance? The rule here is that the direction must come before the distance:
 
@@ -175,7 +175,7 @@ What about specifying both a direction and a distance? The rule here is that the
 
 Slightly to my left, the man bites the dog.
 
-As explained in [Section 10.1](/chapter10/#101-introductory "10.1. Introductory"), it would be perfectly correct to use *[ku](/glossary/#ku)* to move this tense to the beginning or the end of the sentence to emphasize it:
+As explained in [Section 10.1](/chapter10/#101-introductory "10.1. Introductory"), it would be perfectly correct to use *[ku](/glossary/?mode=exact&word=ku)* to move this tense to the beginning or the end of the sentence to emphasize it:
 
 ##### Example 10.9.
 
@@ -192,7 +192,7 @@ Slightly to my left, the man bites the dog.
 
 ## 10.3. Compound spatial tenses
 
-Humph, says the reader: this talk of “imaginary journeys” is all very well, but what's the point of it? – *[zu'a](/glossary/#zua)* means “on the left” and *[vi](/glossary/#vi)* means “nearby”, and there's no more to be said. The imaginary-journey model becomes more useful when so-called compound tenses are involved. A compound tense is exactly like a simple tense, but has several FAhAs run together:
+Humph, says the reader: this talk of “imaginary journeys” is all very well, but what's the point of it? – *[zu'a](/glossary/?mode=exact&word=zu%27a)* means “on the left” and *[vi](/glossary/?mode=exact&word=vi)* means “nearby”, and there's no more to be said. The imaginary-journey model becomes more useful when so-called compound tenses are involved. A compound tense is exactly like a simple tense, but has several FAhAs run together:
 
 ##### Example 10.10.
 
@@ -309,9 +309,9 @@ The man bit the dog.
 
 means that to reach the dog-biting, you must take an imaginary journey through time, moving towards the past an unspecified distance. (Of course, this journey is even more imaginary than the ones talked about in the previous sections, since time-travel is not an available option.)
 
-Lojban recognizes three temporal directions: *[pu](/glossary/#pu)* for the past, *[ca](/glossary/#ca)* for the present, and *[ba](/glossary/#ba)* for the future. (Etymologically, these derive from the corresponding gismu *[purci](/glossary/#purci)*, *[cabna](/glossary/#cabna)*, and *[balvi](/glossary/#balvi)*. See [Section 10.23](/chapter10/#1023-tenses-versus-modals "10.23. Tenses versus modals") for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as “direction-like relationships” like “surrounding”, “within”, “touching”, etc. (See [Section 10.27](/chapter10/#1027-summary-of-tense-selmao "10.27. Summary of tense selma'o") for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
+Lojban recognizes three temporal directions: *[pu](/glossary/?mode=exact&word=pu)* for the past, *[ca](/glossary/?mode=exact&word=ca)* for the present, and *[ba](/glossary/?mode=exact&word=ba)* for the future. (Etymologically, these derive from the corresponding gismu *[purci](/glossary/?mode=exact&word=purci)*, *[cabna](/glossary/?mode=exact&word=cabna)*, and *[balvi](/glossary/?mode=exact&word=balvi)*. See [Section 10.23](/chapter10/#1023-tenses-versus-modals "10.23. Tenses versus modals") for an explanation of the exact relationship between the cmavo and the gismu.) There are many more spatial directions, since there are FAhA cmavo for both absolute and relative directions as well as “direction-like relationships” like “surrounding”, “within”, “touching”, etc. (See [Section 10.27](/chapter10/#1027-summary-of-tense-selmao "10.27. Summary of tense selma'o") for a complete list.) But there are really only two directions in time: forward and backward, toward the future and toward the past. Why, then, are there three cmavo of selma'o PU?
 
-The reason is that tense is subjective: human beings perceive space and time in a way that does not necessarily agree with objective measurements. We have a sense of “now” which includes part of the objective past and part of the objective future, and so we naturally segment the time line into three parts. The Lojban design recognizes this human reality by providing a separate time-direction cmavo for the “zero direction”, Similarly, there is a FAhA cmavo for the zero space direction: *[bu'u](/glossary/#buu)*, which means something like “coinciding”.
+The reason is that tense is subjective: human beings perceive space and time in a way that does not necessarily agree with objective measurements. We have a sense of “now” which includes part of the objective past and part of the objective future, and so we naturally segment the time line into three parts. The Lojban design recognizes this human reality by providing a separate time-direction cmavo for the “zero direction”, Similarly, there is a FAhA cmavo for the zero space direction: *[bu'u](/glossary/?mode=exact&word=bu%27u)*, which means something like “coinciding”.
 
 (Technical note for readers conversant with relativity theory: The Lojban time tenses reflect time as seen by the speaker, who is assumed to be a “point-like observer” in the relativistic sense: they do not say anything about physical relationships of relativistic interval, still less about implicit causality. The nature of tense is not only subjective but also observer-based.)
 
@@ -391,7 +391,7 @@ Before a short time from or before now, the man bit or will bite the dog.
 
 A long time from or before now, the man will bite or bit the dog.
 
-[Example 10.19](/chapter10/#example-1019 "Example 10.19.") and [Example 10.20](/chapter10/#example-1020 "Example 10.20.") are perfectly legitimate, but may not be very much used: *[zi](/glossary/#zi)* by itself signals an event that happens at a time close to the present, but without saying whether it is in the past or the future. A rough translation might be “about now, but not exactly now”.
+[Example 10.19](/chapter10/#example-1019 "Example 10.19.") and [Example 10.20](/chapter10/#example-1020 "Example 10.20.") are perfectly legitimate, but may not be very much used: *[zi](/glossary/?mode=exact&word=zi)* by itself signals an event that happens at a time close to the present, but without saying whether it is in the past or the future. A rough translation might be “about now, but not exactly now”.
 
 Because we can move in any direction in space, we are comfortable with the idea of events happening in an unspecified space direction (“nearby” or “far away”), but we live only from past to future, and the idea of an event which happens “nearby in time” is a peculiar one. Lojban provides lots of such possibilities that don't seem all that useful to English-speakers, even though you can put them together productively; this fact may be a limitation of English.
 
@@ -504,7 +504,7 @@ In [Example 10.25](/chapter10/#example-1025 "Example 10.25."), the relationship 
 
 I am now saying this sentence.
 
-means that for an interval starting a short time in the past and extending to a short time in the future, I am expressing the utterance which is [Example 10.26](/chapter10/#example-1026 "Example 10.26."). Of course, “short” is relative, as always in tenses. Even a long sentence takes up only a short part of a whole day; in a geological context, the era of *Homo sapiens* would only be a *[ze'i](/glossary/#zei)* interval.
+means that for an interval starting a short time in the past and extending to a short time in the future, I am expressing the utterance which is [Example 10.26](/chapter10/#example-1026 "Example 10.26."). Of course, “short” is relative, as always in tenses. Even a long sentence takes up only a short part of a whole day; in a geological context, the era of *Homo sapiens* would only be a *[ze'i](/glossary/?mode=exact&word=ze%27i)* interval.
 
 By contrast,
 
@@ -539,7 +539,7 @@ means that for a short time interval extending from the past to the present I ha
 | For a medium time afterward, I ate my meal. |
 | I ate my meal for a while.                  |
 
-With *[ca](/glossary/#ca)* instead of *[ba](/glossary/#ba)*, [Example 10.28](/chapter10/#example-1028 "Example 10.28.") becomes [Example 10.29](/chapter10/#example-1029 "Example 10.29."),
+With *[ca](/glossary/?mode=exact&word=ca)* instead of *[ba](/glossary/?mode=exact&word=ba)*, [Example 10.28](/chapter10/#example-1028 "Example 10.28.") becomes [Example 10.29](/chapter10/#example-1029 "Example 10.29."),
 
 ##### Example 10.29.
 
@@ -612,7 +612,7 @@ really means:
 
 The vague or unspecified interval contains an instant in the speaker's past. However, there is no indication whether or not the whole interval is in the speaker's past! It is entirely possible that the interval during which the going-to-the-market is happening stretches into the speaker's present or even future.
 
-[Example 10.32](/chapter10/#example-1032 "Example 10.32.") points up a fundamental difference between Lojban tenses and English tenses. An English past-tense sentence like “I went to the market” generally signifies that the going-to-the-market is entirely in the past; that is, that the event is complete at the time of speaking. Lojban *[pu](/glossary/#pu)* has no such implication.
+[Example 10.32](/chapter10/#example-1032 "Example 10.32.") points up a fundamental difference between Lojban tenses and English tenses. An English past-tense sentence like “I went to the market” generally signifies that the going-to-the-market is entirely in the past; that is, that the event is complete at the time of speaking. Lojban *[pu](/glossary/?mode=exact&word=pu)* has no such implication.
 
 This property of a past tense is sometimes called “aorist”, in reference to a similar concept in the tense system of Classical Greek. All of the Lojban tenses have the same property, however:
 
@@ -663,9 +663,9 @@ In a medium-sized area, the child walks on the ice.
 
 Space intervals can contain either VEhA or VIhA or both, but if both, VEhA must come first, as [Example 10.34](/chapter10/#example-1034 "Example 10.34.") shows.
 
-The reader may wish to raise a philosophical point here. (Readers who don't wish to, should skip this paragraph.) The ice may be two-dimensional, or more accurately its surface may be, but since the child is three-dimensional, her walking must also be. The subjective nature of Lojban tense comes to the rescue here: the action is essentially planar, and the third dimension of height is simply irrelevant to walking. Even walking on a mountain could be called *[vi'a](/glossary/#via)*, because relatively speaking the mountain is associated with an essentially two-dimensional surface. Motion which is not confined to such a surface (e.g., flying, or walking through a three-dimensional network of tunnels, or climbing among mountains rather than on a single mountain) would be properly described with *[vi'u](/glossary/#viu)*. So the cognitive, rather than the physical, dimensionality controls the choice of VIhA cmavo.
+The reader may wish to raise a philosophical point here. (Readers who don't wish to, should skip this paragraph.) The ice may be two-dimensional, or more accurately its surface may be, but since the child is three-dimensional, her walking must also be. The subjective nature of Lojban tense comes to the rescue here: the action is essentially planar, and the third dimension of height is simply irrelevant to walking. Even walking on a mountain could be called *[vi'a](/glossary/?mode=exact&word=vi%27a)*, because relatively speaking the mountain is associated with an essentially two-dimensional surface. Motion which is not confined to such a surface (e.g., flying, or walking through a three-dimensional network of tunnels, or climbing among mountains rather than on a single mountain) would be properly described with *[vi'u](/glossary/?mode=exact&word=vi%27u)*. So the cognitive, rather than the physical, dimensionality controls the choice of VIhA cmavo.
 
-VIhA has a member *[vi'e](/glossary/#vie)* which indicates a 4-dimensional interval, one that involves both space and time. This allows the spatial tenses to invade, to some degree, the temporal tenses; it is possible to make statements about space-time considered as an Einsteinian whole. (There are presently no cmavo of FAhA assigned to “pastward” and “futureward” considered as space rather than time directions – they could be added, though, if Lojbanists find space-time expression useful.) If a temporal tense cmavo is used in the same tense construct with a *[vi'e](/glossary/#vie)* interval, the resulting tense may be self-contradictory.
+VIhA has a member *[vi'e](/glossary/?mode=exact&word=vi%27e)* which indicates a 4-dimensional interval, one that involves both space and time. This allows the spatial tenses to invade, to some degree, the temporal tenses; it is possible to make statements about space-time considered as an Einsteinian whole. (There are presently no cmavo of FAhA assigned to “pastward” and “futureward” considered as space rather than time directions – they could be added, though, if Lojbanists find space-time expression useful.) If a temporal tense cmavo is used in the same tense construct with a *[vi'e](/glossary/?mode=exact&word=vi%27e)* interval, the resulting tense may be self-contradictory.
 
 ## 10.8. Movement in space: MOhI
 
@@ -675,7 +675,7 @@ The following cmavo is discussed in this section:
 | ---- | ---- | ------------- |
 | mo'i | MOhI | movement flag |
 
-All the information carried by the tense constructs so far presented has been presumed to be static: the bridi is occurring somewhere or other in space and time, more or less remote from the speaker. Suppose the truth of the bridi itself depends on the result of a movement, or represents an action being done while the speaker is moving? This too can be represented by the tense system, using the cmavo *[mo'i](/glossary/#moi)* (of selma'o MOhI) plus a spatial direction and optional distance; the direction now refers to a direction of motion rather than a static direction from the speaker.
+All the information carried by the tense constructs so far presented has been presumed to be static: the bridi is occurring somewhere or other in space and time, more or less remote from the speaker. Suppose the truth of the bridi itself depends on the result of a movement, or represents an action being done while the speaker is moving? This too can be represented by the tense system, using the cmavo *[mo'i](/glossary/?mode=exact&word=mo%27i)* (of selma'o MOhI) plus a spatial direction and optional distance; the direction now refers to a direction of motion rather than a static direction from the speaker.
 
 ##### Example 10.35.
 
@@ -725,9 +725,9 @@ In either case, however, the reference frame for defining “right” and “lef
 
 The child walks toward her right on the ice.
 
-[Example 10.37](/chapter10/#example-1037 "Example 10.37.") is analogous to [Example 10.35](/chapter10/#example-1035 "Example 10.35."). The cmavo *[ma'i](/glossary/#mai)* belongs to selma'o BAI (explained in [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")), and allows specifying a reference frame.
+[Example 10.37](/chapter10/#example-1037 "Example 10.37.") is analogous to [Example 10.35](/chapter10/#example-1035 "Example 10.35."). The cmavo *[ma'i](/glossary/?mode=exact&word=ma%27i)* belongs to selma'o BAI (explained in [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")), and allows specifying a reference frame.
 
-Both a regular and a *[mo'i](/glossary/#moi)*-flagged spatial tense can be combined, with the *[mo'i](/glossary/#moi)* construct coming last:
+Both a regular and a *[mo'i](/glossary/?mode=exact&word=mo%27i)*-flagged spatial tense can be combined, with the *[mo'i](/glossary/?mode=exact&word=mo%27i)* construct coming last:
 
 ##### Example 10.38.
 
@@ -742,7 +742,7 @@ Both a regular and a *[mo'i](/glossary/#moi)*-flagged spatial tense can be combi
 
 Far to the left of me, the child walks a short distance toward my right on the ice.
 
-It is not grammatical to use multiple directions like *zu'a ca'u* after *[mo'i](/glossary/#moi)*, but complex movements can be expressed in a separate bridi.
+It is not grammatical to use multiple directions like *zu'a ca'u* after *[mo'i](/glossary/?mode=exact&word=mo%27i)*, but complex movements can be expressed in a separate bridi.
 
 Here is an example of a movement tense on a bridi not inherently involving movement:
 
@@ -812,7 +812,7 @@ probably does not mean that I attended school continuously throughout the whole 
 
 Long ago I regularly attended school for a long time.
 
-The four TAhE cmavo are differentiated as follows: *[ru'i](/glossary/#rui)* covers the entirety of the interval, *[di'i](/glossary/#dii)* covers the parts of the interval which are systematically spaced subintervals; *[na'o](/glossary/#nao)* covers part of the interval, but exactly which part is determined by context; *[ta'e](/glossary/#tae)* covers part of the interval, selected with reference to the behavior of the actor (who often, but not always, appears in the x1 place of the bridi).
+The four TAhE cmavo are differentiated as follows: *[ru'i](/glossary/?mode=exact&word=ru%27i)* covers the entirety of the interval, *[di'i](/glossary/?mode=exact&word=di%27i)* covers the parts of the interval which are systematically spaced subintervals; *[na'o](/glossary/?mode=exact&word=na%27o)* covers part of the interval, but exactly which part is determined by context; *[ta'e](/glossary/?mode=exact&word=ta%27e)* covers part of the interval, selected with reference to the behavior of the actor (who often, but not always, appears in the x1 place of the bridi).
 
 Using TAhE does not require being so specific. Either the time direction or the time interval or both may be omitted (in which case they are vague). For example:
 
@@ -847,7 +847,7 @@ I typically go/went/will go to the market.
 
 illustrates an interval property in isolation. There are no distance or direction cmavo, so the point of time is vague; likewise, there is no interval cmavo, so the length of the interval during which these goings-to-the-market take place is also vague. As always, context will determine these vague values.
 
-“Intermittently” is the polar opposite notion to “continuously”, and is expressed not with its own cmavo, but by adding the negation suffix *-nai* (which belongs to selma'o NAI) to *[ru'i](/glossary/#rui)*. For example:
+“Intermittently” is the polar opposite notion to “continuously”, and is expressed not with its own cmavo, but by adding the negation suffix *-nai* (which belongs to selma'o NAI) to *[ru'i](/glossary/?mode=exact&word=ru%27i)*. For example:
 
 ##### Example 10.44.
 
@@ -862,9 +862,9 @@ illustrates an interval property in isolation. There are no distance or directio
 
 The child intermittently walks on the ice.
 
-As shown in the cmavo table above, all the cmavo of TAhE may be negated with *-nai*; *[ru'inai](/glossary/#ruinai)* and *[di'inai](/glossary/#diinai)* are probably the most useful.
+As shown in the cmavo table above, all the cmavo of TAhE may be negated with *-nai*; *[ru'inai](/glossary/?mode=exact&word=ru%27inai)* and *[di'inai](/glossary/?mode=exact&word=di%27inai)* are probably the most useful.
 
-An intermittent event can also be specified by counting the number of times during the interval that it takes place. The cmavo *[roi](/glossary/#roi)* (which belongs to selma'o ROI) can be appended to a number to make a quantified tense. Quantified tenses are common in English, but not so commonly named: they are exemplified by the adverbs “never”, “once”, “twice”, “thrice”, ... “always”, and by the related phrases “many times”, “a few times”, “too many times”, and so on. All of these are handled in Lojban by a number plus *-roi*:
+An intermittent event can also be specified by counting the number of times during the interval that it takes place. The cmavo *[roi](/glossary/?mode=exact&word=roi)* (which belongs to selma'o ROI) can be appended to a number to make a quantified tense. Quantified tenses are common in English, but not so commonly named: they are exemplified by the adverbs “never”, “once”, “twice”, “thrice”, ... “always”, and by the related phrases “many times”, “a few times”, “too many times”, and so on. All of these are handled in Lojban by a number plus *-roi*:
 
 ##### Example 10.45.
 
@@ -909,7 +909,7 @@ I went to the market twice.
 
 The English is slightly over-specific here: it entails that both goings-to-the-market were in the past, which may or may not be true in the Lojban sentence, since the implied interval is vague. Therefore, the interval may start in the past but extend into the present or even the future.
 
-Adding *-nai* to *[roi](/glossary/#roi)* is also permitted, and has the meaning “other than (the number specified)”:
+Adding *-nai* to *[roi](/glossary/?mode=exact&word=roi)* is also permitted, and has the meaning “other than (the number specified)”:
 
 ##### Example 10.48.
 
@@ -926,7 +926,7 @@ The rat eats the cheese other than twice.
 
 This may mean that the rat eats the cheese fewer times, or more times, or not at all.
 
-It is necessary to be careful with sentences like [Example 10.45](/chapter10/#example-1045 "Example 10.45.") and [Example 10.47](/chapter10/#example-1047 "Example 10.47."), where a quantified tense appears without an interval. What [Example 10.47](/chapter10/#example-1047 "Example 10.47.") really says is that during an interval of unspecified size, at least part of which was set in the past, the event of my going to the market happened twice. The example says nothing about what happened outside that vague time interval. This is often less than we mean. If we want to nail down that I went to the market once and only once, we can use the cmavo *[ze'e](/glossary/#zee)* which represents the “whole time interval”: conceptually, an interval which stretches from time's beginning to its end:
+It is necessary to be careful with sentences like [Example 10.45](/chapter10/#example-1045 "Example 10.45.") and [Example 10.47](/chapter10/#example-1047 "Example 10.47."), where a quantified tense appears without an interval. What [Example 10.47](/chapter10/#example-1047 "Example 10.47.") really says is that during an interval of unspecified size, at least part of which was set in the past, the event of my going to the market happened twice. The example says nothing about what happened outside that vague time interval. This is often less than we mean. If we want to nail down that I went to the market once and only once, we can use the cmavo *[ze'e](/glossary/?mode=exact&word=ze%27e)* which represents the “whole time interval”: conceptually, an interval which stretches from time's beginning to its end:
 
 ##### Example 10.49.
 
@@ -941,7 +941,7 @@ It is necessary to be careful with sentences like [Example 10.45](/chapter10/#ex
 
 Since specifying no ZEhA leaves the interval vague, [Example 10.47](/chapter10/#example-1047 "Example 10.47.") might in appropriate context mean the same as [Example 10.49](/chapter10/#example-1049 "Example 10.49.") after all – but [Example 10.49](/chapter10/#example-1049 "Example 10.49.") allows us to be specific when specificity is necessary.
 
-A PU cmavo following *[ze'e](/glossary/#zee)* has a slightly different meaning from one that follows another ZEhA cmavo. The compound cmavo *ze'epu* signifies the interval stretching from the infinite past to the reference point (wherever the imaginary journey has taken you); *ze'eba* is the interval stretching from the reference point to the infinite future. The remaining form, *ze'eca*, makes specific the “whole of time” interpretation just given. These compound forms make it possible to assert that something has never happened without asserting that it never will.
+A PU cmavo following *[ze'e](/glossary/?mode=exact&word=ze%27e)* has a slightly different meaning from one that follows another ZEhA cmavo. The compound cmavo *ze'epu* signifies the interval stretching from the infinite past to the reference point (wherever the imaginary journey has taken you); *ze'eba* is the interval stretching from the reference point to the infinite future. The remaining form, *ze'eca*, makes specific the “whole of time” interpretation just given. These compound forms make it possible to assert that something has never happened without asserting that it never will.
 
 ##### Example 10.50.
 
@@ -958,7 +958,7 @@ I have never gone to the market.
 
 says nothing about whether I might go in future.
 
-The space equivalent of *[ze'e](/glossary/#zee)* is *[ve'e](/glossary/#vee)*, and it can be used in the same way with a quantified space tense: see [Section 10.11](/chapter10/#1011-space-interval-modifiers-fehe "10.11. Space interval modifiers: FEhE") for an explanation of space interval modifiers.
+The space equivalent of *[ze'e](/glossary/?mode=exact&word=ze%27e)* is *[ve'e](/glossary/?mode=exact&word=ve%27e)*, and it can be used in the same way with a quantified space tense: see [Section 10.11](/chapter10/#1011-space-interval-modifiers-fehe "10.11. Space interval modifiers: FEhE") for an explanation of space interval modifiers.
 
 ## 10.10. Event contours: ZAhO and *re'u*
 
@@ -984,7 +984,7 @@ The “event contours” of selma'o ZAhO, with their bizarre keywords, represent
 
 It is important to understand that ZAhO cmavo, unlike the other tense cmavo, specify characteristic portions of the event, and are seen from an essentially timeless perspective. The “beginning” of an event is the same whether the event is in the speaker's present, past, or future. It is especially important not to confuse the speaker-relative viewpoint of the PU tenses with the event-relative viewpoint of the ZAhO tenses.
 
-The cmavo *[pu'o](/glossary/#puo)*, *[ca'o](/glossary/#cao)*, and *[ba'o](/glossary/#bao)* (etymologically derived from the PU cmavo) refer to an event that has not yet begun, that is in progress, or that has ended, respectively:
+The cmavo *[pu'o](/glossary/?mode=exact&word=pu%27o)*, *[ca'o](/glossary/?mode=exact&word=ca%27o)*, and *[ba'o](/glossary/?mode=exact&word=ba%27o)* (etymologically derived from the PU cmavo) refer to an event that has not yet begun, that is in progress, or that has ended, respectively:
 
 ##### Example 10.51.
 
@@ -1027,9 +1027,9 @@ The child is finished walking on the ice.
 
 As discussed in [Section 10.6](/chapter10/#106-vague-intervals-and-non-specific-tenses "10.6. Vague intervals and non-specific tenses"), the simple PU cmavo make no assumptions about whether the scope of a past, present, or future event extends into one of the other tenses as well. [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through [Example 10.53](/chapter10/#example-1053 "Example 10.53.") illustrate that these ZAhO cmavo do make such assumptions possible: the event in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") has not yet begun, definitively; likewise, the event in [Example 10.53](/chapter10/#example-1053 "Example 10.53.") is definitely over.
 
-Note that in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") and [Example 10.53](/chapter10/#example-1053 "Example 10.53."), *[pu'o](/glossary/#puo)* and *[ba'o](/glossary/#bao)* may appear to be reversed: *[pu'o](/glossary/#puo)*, although etymologically connected with *[pu](/glossary/#pu)*, is referring to a future event; whereas *[ba'o](/glossary/#bao)*, connected with *[ba](/glossary/#ba)*, is referring to a past event. This is the natural result of the event-centered view of ZAhO cmavo. The inchoative, or *[pu'o](/glossary/#puo)*, part of an event, is in the “pastward” portion of that event, when seen from the perspective of the event itself. It is only by inference that we suppose that [Example 10.51](/chapter10/#example-1051 "Example 10.51.") refers to the speaker's future: in fact, no PU tense is given, so the inchoative part of the event need not be coincident with the speaker's present: *[pu'o](/glossary/#puo)* is not necessarily, though in fact often is, the same as *ca pu'o*.
+Note that in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") and [Example 10.53](/chapter10/#example-1053 "Example 10.53."), *[pu'o](/glossary/?mode=exact&word=pu%27o)* and *[ba'o](/glossary/?mode=exact&word=ba%27o)* may appear to be reversed: *[pu'o](/glossary/?mode=exact&word=pu%27o)*, although etymologically connected with *[pu](/glossary/?mode=exact&word=pu)*, is referring to a future event; whereas *[ba'o](/glossary/?mode=exact&word=ba%27o)*, connected with *[ba](/glossary/?mode=exact&word=ba)*, is referring to a past event. This is the natural result of the event-centered view of ZAhO cmavo. The inchoative, or *[pu'o](/glossary/?mode=exact&word=pu%27o)*, part of an event, is in the “pastward” portion of that event, when seen from the perspective of the event itself. It is only by inference that we suppose that [Example 10.51](/chapter10/#example-1051 "Example 10.51.") refers to the speaker's future: in fact, no PU tense is given, so the inchoative part of the event need not be coincident with the speaker's present: *[pu'o](/glossary/?mode=exact&word=pu%27o)* is not necessarily, though in fact often is, the same as *ca pu'o*.
 
-The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through [Example 10.53](/chapter10/#example-1053 "Example 10.53.") refer to spans of time. There are also two points of time that can be usefully associated with an event: the beginning, marked by *[co'a](/glossary/#coa)*, and the end, marked by *[co'u](/glossary/#cou)*. Specifically, *[co'a](/glossary/#coa)* marks the boundary between the *[pu'o](/glossary/#puo)* and *[ca'o](/glossary/#cao)* parts of an event, and *[co'u](/glossary/#cou)* marks the boundary between the *[ca'o](/glossary/#cao)* and *[ba'o](/glossary/#bao)* parts:
+The cmavo in [Example 10.51](/chapter10/#example-1051 "Example 10.51.") through [Example 10.53](/chapter10/#example-1053 "Example 10.53.") refer to spans of time. There are also two points of time that can be usefully associated with an event: the beginning, marked by *[co'a](/glossary/?mode=exact&word=co%27a)*, and the end, marked by *[co'u](/glossary/?mode=exact&word=co%27u)*. Specifically, *[co'a](/glossary/?mode=exact&word=co%27a)* marks the boundary between the *[pu'o](/glossary/?mode=exact&word=pu%27o)* and *[ca'o](/glossary/?mode=exact&word=ca%27o)* parts of an event, and *[co'u](/glossary/?mode=exact&word=co%27u)* marks the boundary between the *[ca'o](/glossary/?mode=exact&word=ca%27o)* and *[ba'o](/glossary/?mode=exact&word=ba%27o)* parts:
 
 ##### Example 10.54.
 
@@ -1091,7 +1091,7 @@ I finished eating my meal.
 
 In [Example 10.57](/chapter10/#example-1057 "Example 10.57."), the meal has reached its natural end; in [Example 10.55](/chapter10/#example-1055 "Example 10.55."), the meal has merely ceased, without necessarily reaching its natural end.
 
-A process such as eating a meal does not necessarily proceed uninterrupted. If it is interrupted, there are two more relevant point events: the point just before the interruption, marked by *[de'a](/glossary/#dea)*, and the point just after the interruption, marked by *[di'a](/glossary/#dia)*. Some examples:
+A process such as eating a meal does not necessarily proceed uninterrupted. If it is interrupted, there are two more relevant point events: the point just before the interruption, marked by *[de'a](/glossary/?mode=exact&word=de%27a)*, and the point just after the interruption, marked by *[di'a](/glossary/?mode=exact&word=di%27a)*. Some examples:
 
 ##### Example 10.58.
 
@@ -1119,7 +1119,7 @@ I stopped eating my meal (with the intention of resuming).
 
 I will resume eating my meal.
 
-In addition, it is possible for a process to continue beyond its natural end. The span of time between the natural and the actual end points is represented by *[za'o](/glossary/#zao)*:
+In addition, it is possible for a process to continue beyond its natural end. The span of time between the natural and the actual end points is represented by *[za'o](/glossary/?mode=exact&word=za%27o)*:
 
 ##### Example 10.60.
 
@@ -1141,7 +1141,7 @@ The teacher kept on explaining the mathematics problem to the class too long.
 
 That is, the teacher went on explaining after the class already understood the problem.
 
-An entire event can be treated as a single moment using the cmavo *[co'i](/glossary/#coi)*:
+An entire event can be treated as a single moment using the cmavo *[co'i](/glossary/?mode=exact&word=co%27i)*:
 
 ##### Example 10.61.
 
@@ -1156,7 +1156,7 @@ An entire event can be treated as a single moment using the cmavo *[co'i](/gloss
 
 John was at the point in time where he killed Jim.
 
-Finally, since an activity is cyclical, an individual cycle can be referred to using a number followed by *[re'u](/glossary/#reu)*, which is the other cmavo of selma'o ROI:
+Finally, since an activity is cyclical, an individual cycle can be referred to using a number followed by *[re'u](/glossary/?mode=exact&word=re%27u)*, which is the other cmavo of selma'o ROI:
 
 ##### Example 10.62.
 
@@ -1209,7 +1209,7 @@ The following cmavo is discussed in this section:
 | ---- | ---- | ---------------------------- |
 | fe'e | FEhE | space interval modifier flag |
 
-Like time intervals, space intervals can also be continuous, discontinuous, or repetitive. Rather than having a whole separate set of selma'o for space interval properties, we instead prefix the flag *[fe'e](/glossary/#fee)* to the cmavo used for time interval properties. A space interval property would be placed just after the space interval size and/or dimensionality cmavo:
+Like time intervals, space intervals can also be continuous, discontinuous, or repetitive. Rather than having a whole separate set of selma'o for space interval properties, we instead prefix the flag *[fe'e](/glossary/?mode=exact&word=fe%27e)* to the cmavo used for time interval properties. A space interval property would be placed just after the space interval size and/or dimensionality cmavo:
 
 ##### Example 10.65.
 
@@ -1255,9 +1255,9 @@ I buy salad ingredients in three locations.
 
 Always and everywhere, two plus two is four.
 
-As shown in [Example 10.67](/chapter10/#example-1067 "Example 10.67."), when a tense comes first in a bridi, rather than in its normal position before the selbri (in this case *[du](/glossary/#du)*), it is emphasized.
+As shown in [Example 10.67](/chapter10/#example-1067 "Example 10.67."), when a tense comes first in a bridi, rather than in its normal position before the selbri (in this case *[du](/glossary/?mode=exact&word=du)*), it is emphasized.
 
-The *[fe'e](/glossary/#fee)* marker can also be used for the same purpose before members of ZAhO. (The cmavo *[be'a](/glossary/#bea)* belongs to selma'o FAhA; it is the space direction meaning “north of”.)
+The *[fe'e](/glossary/?mode=exact&word=fe%27e)* marker can also be used for the same purpose before members of ZAhO. (The cmavo *[be'a](/glossary/?mode=exact&word=be%27a)* belongs to selma'o FAhA; it is the space direction meaning “north of”.)
 
 ##### Example 10.68.
 
@@ -1275,15 +1275,15 @@ The *[fe'e](/glossary/#fee)* marker can also be used for the same purpose before
 | That is the beginning of a rock extending to my north. |
 | That is the south face of a rock.                      |
 
-Here the notion of a “beginning point” represented by the cmavo *[co'a](/glossary/#coa)* is transferred from “beginning in time” to “beginning in space” under the influence of the *[fe'e](/glossary/#fee)* flag. Space is not inherently oriented, unlike time, which flows from past to future: therefore, some indication of orientation is necessary, and the *ve'abe'a* provides an orientation in which the south face is the “beginning” and the north face is the “end”, since the rock extends from south (near me) to north (away from me).
+Here the notion of a “beginning point” represented by the cmavo *[co'a](/glossary/?mode=exact&word=co%27a)* is transferred from “beginning in time” to “beginning in space” under the influence of the *[fe'e](/glossary/?mode=exact&word=fe%27e)* flag. Space is not inherently oriented, unlike time, which flows from past to future: therefore, some indication of orientation is necessary, and the *ve'abe'a* provides an orientation in which the south face is the “beginning” and the north face is the “end”, since the rock extends from south (near me) to north (away from me).
 
 Many natural languages represent time by a space-based metaphor: in English, what is past is said to be “behind us”. In other languages, the metaphor is reversed. Here, Lojban is representing space (or space interval modifiers) by a time-based metaphor: the choice of a FAhA cmavo following a VEhA cmavo indicates which direction is mapped onto the future. (The choice of future rather than past is arbitrary, but convenient for English-speakers.)
 
-If both a TAhE (or ROI) and a ZAhO are present as space interval modifiers, the *[fe'e](/glossary/#fee)* flag must be prefixed to each.
+If both a TAhE (or ROI) and a ZAhO are present as space interval modifiers, the *[fe'e](/glossary/?mode=exact&word=fe%27e)* flag must be prefixed to each.
 
 ## 10.12. Tenses as sumti tcita
 
-So far, we have seen tenses only just before the selbri, or (equivalently in meaning) floating about the bridi with *[ku](/glossary/#ku)*. There is another major use for tenses in Lojban: as sumti tcita, or argument tags. A tense may be used to add spatial or temporal information to a bridi as, in effect, an additional place:
+So far, we have seen tenses only just before the selbri, or (equivalently in meaning) floating about the bridi with *[ku](/glossary/?mode=exact&word=ku)*. There is another major use for tenses in Lojban: as sumti tcita, or argument tags. A tense may be used to add spatial or temporal information to a bridi as, in effect, an additional place:
 
 ##### Example 10.69.
 
@@ -1303,7 +1303,7 @@ So far, we have seen tenses only just before the selbri, or (equivalently in mea
 
 I go to the market when you go to the house.
 
-Here *[ca](/glossary/#ca)* does not appear before the selbri, nor with *[ku](/glossary/#ku)*; instead, it governs the following sumti, the *le nu* construct. What [Example 10.69](/chapter10/#example-1069 "Example 10.69.") asserts is that the action of the main bridi is happening at the same time as the event mentioned by that sumti. So *[ca](/glossary/#ca)*, which means “now” when used with a selbri, means “simultaneously-with” when used with a sumti. Consider another example:
+Here *[ca](/glossary/?mode=exact&word=ca)* does not appear before the selbri, nor with *[ku](/glossary/?mode=exact&word=ku)*; instead, it governs the following sumti, the *le nu* construct. What [Example 10.69](/chapter10/#example-1069 "Example 10.69.") asserts is that the action of the main bridi is happening at the same time as the event mentioned by that sumti. So *[ca](/glossary/?mode=exact&word=ca)*, which means “now” when used with a selbri, means “simultaneously-with” when used with a sumti. Consider another example:
 
 ##### Example 10.70.
 
@@ -1321,7 +1321,7 @@ Here *[ca](/glossary/#ca)* does not appear before the selbri, nor with *[ku](/gl
 | le  | zdani  |
 | the | house. |
 
-The second *[pu](/glossary/#pu)* is simply the past tense marker for the event of your going to the house, and says that this event is in the speaker's past. How are we to understand the first *[pu](/glossary/#pu)*, the sumti tcita?
+The second *[pu](/glossary/?mode=exact&word=pu)* is simply the past tense marker for the event of your going to the house, and says that this event is in the speaker's past. How are we to understand the first *[pu](/glossary/?mode=exact&word=pu)*, the sumti tcita?
 
 All of our imaginary journeys so far have started at the speaker's location in space and time. Now we are specifying an imaginary journey that starts at a different location, namely at the event of your going to the house. [Example 10.70](/chapter10/#example-1070 "Example 10.70.") then says that my going to the market is in the past, relative not to the speaker's present moment, but instead relative to the moment when you went to the house. [Example 10.70](/chapter10/#example-1070 "Example 10.70.") can therefore be translated:
 
@@ -1368,7 +1368,7 @@ The rat eats the cheese near the faraway park.
 
 The rat eats the cheese far away from the nearby park.
 
-The event contours of selma'o ZAhO (and their space equivalents, prefixed with *[fe'e](/glossary/#fee)*) are also useful as sumti tcita. The interpretation of ZAhO tcita differs from that of FAhA, VA, PU, and ZI tcita, however. The event described in the sumti is viewed as a process, and the action of the main bridi occurs at the phase of the process which the ZAhO specifies, or at least some part of that phase. The action of the main bridi itself is seen as a point event, so that there is no issue about which phase of the main bridi is intended. For example:
+The event contours of selma'o ZAhO (and their space equivalents, prefixed with *[fe'e](/glossary/?mode=exact&word=fe%27e)*) are also useful as sumti tcita. The interpretation of ZAhO tcita differs from that of FAhA, VA, PU, and ZI tcita, however. The event described in the sumti is viewed as a process, and the action of the main bridi occurs at the phase of the process which the ZAhO specifies, or at least some part of that phase. The action of the main bridi itself is seen as a point event, so that there is no issue about which phase of the main bridi is intended. For example:
 
 ##### Example 10.74.
 
@@ -1500,7 +1500,7 @@ The following cmavo is discussed in this section:
 
 So far we have only considered tenses in isolated bridi. Lojban provides several ways for a tense to continue in effect over more than a single bridi. This property is known as “stickiness”: the tense gets “stuck” and remains in effect until explicitly “unstuck”. In the metaphor of the imaginary journey, the place and time set by a sticky tense may be thought of as a campsite or way-station: it provides a permanent origin with respect to which other tenses are understood. Later imaginary journeys start from that point rather than from the speaker.
 
-To make a tense sticky, suffix *[ki](/glossary/#ki)* to it:
+To make a tense sticky, suffix *[ki](/glossary/?mode=exact&word=ki)* to it:
 
 ##### Example 10.82.
 
@@ -1515,7 +1515,7 @@ To make a tense sticky, suffix *[ki](/glossary/#ki)* to it:
 
 I went to the market. The man bit the dog.
 
-Here the use of *puki* rather than just *[pu](/glossary/#pu)* ensures that the tense will affect the next sentence as well. Otherwise, since the second sentence is tenseless, there would be no way of determining its tense; the event of the second sentence might happen before, after, or simultaneously with that of the first sentence.
+Here the use of *puki* rather than just *[pu](/glossary/?mode=exact&word=pu)* ensures that the tense will affect the next sentence as well. Otherwise, since the second sentence is tenseless, there would be no way of determining its tense; the event of the second sentence might happen before, after, or simultaneously with that of the first sentence.
 
 (The last statement does not apply when the two sentences form part of a narrative. See [Section 10.14](/chapter10/#1014-story-time "10.14. Story time") for an explanation of “story time”, which employs a different set of conventions.)
 
@@ -1532,7 +1532,7 @@ What if the second sentence has a tense anyway?
 
 :::
 
-Here the second *[pu](/glossary/#pu)* does not replace the sticky tense, but adds to it, in the sense that the starting point of its imaginary journey is taken to be the previously set sticky time. So the translation of [Example 10.83](/chapter10/#example-1083 "Example 10.83.") is:
+Here the second *[pu](/glossary/?mode=exact&word=pu)* does not replace the sticky tense, but adds to it, in the sense that the starting point of its imaginary journey is taken to be the previously set sticky time. So the translation of [Example 10.83](/chapter10/#example-1083 "Example 10.83.") is:
 
 ##### Example 10.84.
 
@@ -1571,7 +1571,7 @@ The point has not been discussed so far, but it is perfectly grammatical to have
 
 Earlier, I was going to go to the market.
 
-Here there are two tenses in the same bridi, the first floating free and specified by *puku*, the second in the usual place and specified by *[ba](/glossary/#ba)*. They are considered cumulative in the same way as the two tenses in separate sentences of [Example 10.85](/chapter10/#example-1085 "Example 10.85."). [Example 10.86](/chapter10/#example-1086 "Example 10.86.") is therefore equivalent in meaning, except for emphasis, to:
+Here there are two tenses in the same bridi, the first floating free and specified by *puku*, the second in the usual place and specified by *[ba](/glossary/?mode=exact&word=ba)*. They are considered cumulative in the same way as the two tenses in separate sentences of [Example 10.85](/chapter10/#example-1085 "Example 10.85."). [Example 10.86](/chapter10/#example-1086 "Example 10.86.") is therefore equivalent in meaning, except for emphasis, to:
 
 ##### Example 10.87.
 
@@ -1616,7 +1616,7 @@ I will have gone to the market.
 
 So when multiple tense constructs in a single bridi are involved, order counts – the tenses cannot be shifted around as freely as if there were only one tense to worry about.
 
-But why bother to allow multiple tense constructs at all? They specify separate portions of the imaginary journey, and can be useful in order to make part of a tense sticky. Consider [Example 10.90](/chapter10/#example-1090 "Example 10.90."), which adds a second bridi and a *[ki](/glossary/#ki)* to [Example 10.86](/chapter10/#example-1086 "Example 10.86."):
+But why bother to allow multiple tense constructs at all? They specify separate portions of the imaginary journey, and can be useful in order to make part of a tense sticky. Consider [Example 10.90](/chapter10/#example-1090 "Example 10.90."), which adds a second bridi and a *[ki](/glossary/?mode=exact&word=ki)* to [Example 10.86](/chapter10/#example-1086 "Example 10.86."):
 
 ##### Example 10.90.
 
@@ -1629,7 +1629,7 @@ But why bother to allow multiple tense constructs at all? They specify separate 
 
 :::
 
-What is the implied tense of the second sentence? Not *[puba](/glossary/#puba)*, but only *[pu](/glossary/#pu)*, since only *[pu](/glossary/#pu)* was made sticky with *[ki](/glossary/#ki)*. So the translation is:
+What is the implied tense of the second sentence? Not *[puba](/glossary/?mode=exact&word=puba)*, but only *[pu](/glossary/?mode=exact&word=pu)*, since only *[pu](/glossary/?mode=exact&word=pu)* was made sticky with *[ki](/glossary/?mode=exact&word=ki)*. So the translation is:
 
 > I was going to go to the market. The man bit the dog.
 
@@ -1648,7 +1648,7 @@ Lojban has several ways of embedding a bridi within another bridi: descriptions,
 
 I went to the former market.
 
-The significance of the *[ba'o](/glossary/#bao)* in [Example 10.91](/chapter10/#example-1091 "Example 10.91.") is that the speaker's destination is described as being “in the aftermath of being a market”; that is, it is a market no longer. In particular, the time at which it was no longer a market is in the speaker's past, because the *[ba'o](/glossary/#bao)* is interpreted relative to the *[pu](/glossary/#pu)* tense of the main bridi.
+The significance of the *[ba'o](/glossary/?mode=exact&word=ba%27o)* in [Example 10.91](/chapter10/#example-1091 "Example 10.91.") is that the speaker's destination is described as being “in the aftermath of being a market”; that is, it is a market no longer. In particular, the time at which it was no longer a market is in the speaker's past, because the *[ba'o](/glossary/?mode=exact&word=ba%27o)* is interpreted relative to the *[pu](/glossary/?mode=exact&word=pu)* tense of the main bridi.
 
 Here is an example involving an abstraction bridi:
 
@@ -1667,9 +1667,9 @@ I now believe that I will be dead.
 
 Here the event of being dead is said to be in the future with respect to the opinion, which is in the present.
 
-[*ki*](/glossary/#ki) may also be used as a tense by itself. This cancels all stickiness and returns the bridi and all following bridi to the speaker's location in both space and time.
+[*ki*](/glossary/?mode=exact&word=%2Aki%2A) may also be used as a tense by itself. This cancels all stickiness and returns the bridi and all following bridi to the speaker's location in both space and time.
 
-In complex descriptions, multiple tenses may be saved and then used by adding a subscript to *[ki](/glossary/#ki)*. A time made sticky with *kixipa* (ki-sub-1) can be returned to by specifying *kixipa* as a tense by itself. In the case of written expression, the writer's here-and-now is often different from the reader's, and a pair of subscripted *[ki](/glossary/#ki)* tenses could be used to distinguish the two.
+In complex descriptions, multiple tenses may be saved and then used by adding a subscript to *[ki](/glossary/?mode=exact&word=ki)*. A time made sticky with *kixipa* (ki-sub-1) can be returned to by specifying *kixipa* as a tense by itself. In the case of written expression, the writer's here-and-now is often different from the reader's, and a pair of subscripted *[ki](/glossary/?mode=exact&word=ki)* tenses could be used to distinguish the two.
 
 ## 10.14. Story time
 
@@ -1770,7 +1770,7 @@ It took the meat from her.
 
 It ran out.
 
-[Example 10.93](/chapter10/#example-1093 "Example 10.93.") sets both the time (long ago) and the place (in a cave) using *[ki](/glossary/#ki)*, just like the sentence sequences in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI"). No further space cmavo are used in the rest of the story, so the place is assumed to remain unchanged. The English translation of [Example 10.93](/chapter10/#example-1093 "Example 10.93.") is marked for past tense also, as the conventions of English storytelling require: consequently, all other English translation sentences are also in the past tense. (We don't notice how strange this is; even stories about the future are written in past tense!) This conventional use of past tense is not used in Lojban narratives.
+[Example 10.93](/chapter10/#example-1093 "Example 10.93.") sets both the time (long ago) and the place (in a cave) using *[ki](/glossary/?mode=exact&word=ki)*, just like the sentence sequences in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI"). No further space cmavo are used in the rest of the story, so the place is assumed to remain unchanged. The English translation of [Example 10.93](/chapter10/#example-1093 "Example 10.93.") is marked for past tense also, as the conventions of English storytelling require: consequently, all other English translation sentences are also in the past tense. (We don't notice how strange this is; even stories about the future are written in past tense!) This conventional use of past tense is not used in Lojban narratives.
 
 [Example 10.94](/chapter10/#example-1094 "Example 10.94.") is tenseless. Outside story time, it would be assumed that its event happens simultaneously with that of [Example 10.93](/chapter10/#example-1093 "Example 10.93."), since a sticky tense is in effect; the rules of story time, however, imply that the event occurs afterwards, and that the story time has advanced (changing the sticky time set in [Example 10.93](/chapter10/#example-1093 "Example 10.93.")).
 
@@ -1873,9 +1873,9 @@ Lojban, like Russian and Esperanto, uses a different convention. A tense in a su
 | la         | djordj. | pu       | klama   | le  | zarci   |
 | That-named | George  | \[past\] | goes-to | the | market. |
 
-Probably the most counterintuitive of the Lojban examples is [Example 10.106](/chapter10/#example-10106 "Example 10.106."). The *[ca](/glossary/#ca)* looks quite odd, as if George were going to the market right now, rather than back when John spoke. But this *[ca](/glossary/#ca)* is really a *[ca](/glossary/#ca)* with respect to a reference point specified by the outer *[pu](/glossary/#pu)*. This behavior is the same as the additive behavior of multiple tenses in the same bridi, as explained in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI").
+Probably the most counterintuitive of the Lojban examples is [Example 10.106](/chapter10/#example-10106 "Example 10.106."). The *[ca](/glossary/?mode=exact&word=ca)* looks quite odd, as if George were going to the market right now, rather than back when John spoke. But this *[ca](/glossary/?mode=exact&word=ca)* is really a *[ca](/glossary/?mode=exact&word=ca)* with respect to a reference point specified by the outer *[pu](/glossary/?mode=exact&word=pu)*. This behavior is the same as the additive behavior of multiple tenses in the same bridi, as explained in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI").
 
-There is a special cmavo *[nau](/glossary/#nau)* (of selma'o CUhE) which can be used to override these rules and get to the speaker's current reference point. (Yes, it sounds like English “now”.) It is not grammatical to combine *[nau](/glossary/#nau)* with any other cmavo in a tense, except by way of a logical or non-logical connection (see [Section 10.20](/chapter10/#1020-logical-and-non-logical-connections-between-tenses "10.20. Logical and non-logical connections between tenses")). Here is a convoluted sentence with several nested bridi which uses *[nau](/glossary/#nau)* at the lowest level:
+There is a special cmavo *[nau](/glossary/?mode=exact&word=nau)* (of selma'o CUhE) which can be used to override these rules and get to the speaker's current reference point. (Yes, it sounds like English “now”.) It is not grammatical to combine *[nau](/glossary/?mode=exact&word=nau)* with any other cmavo in a tense, except by way of a logical or non-logical connection (see [Section 10.20](/chapter10/#1020-logical-and-non-logical-connections-between-tenses "10.20. Logical and non-logical connections between tenses")). Here is a convoluted sentence with several nested bridi which uses *[nau](/glossary/?mode=exact&word=nau)* at the lowest level:
 
 ##### Example 10.108.
 
@@ -1905,7 +1905,7 @@ There is a special cmavo *[nau](/glossary/#nau)* (of selma'o CUhE) which can be 
 
 John said that Alice had said that George had earlier said that Mary is now going to the market.
 
-The use of *[nau](/glossary/#nau)* does not affect sticky tenses.
+The use of *[nau](/glossary/?mode=exact&word=nau)* does not affect sticky tenses.
 
 ## 10.16. Tense relations between sentences
 
@@ -1929,7 +1929,7 @@ The sumti tcita method, explained in [Section 10.12](/chapter10/#1012-tenses-as-
 
 The child walks on the ice to the left of where the man bites the dog.
 
-which specifies an imaginary journey leftward from the man biting the dog to the child walking on the ice, claims only that the child walks on the ice. By the nature of *le nu*, the man's biting the dog is merely referred to without being claimed. If it seems desirable to claim both, each event can be expressed as a main sentence bridi, with a special form of *[i](/glossary/#i)* connecting them:
+which specifies an imaginary journey leftward from the man biting the dog to the child walking on the ice, claims only that the child walks on the ice. By the nature of *le nu*, the man's biting the dog is merely referred to without being claimed. If it seems desirable to claim both, each event can be expressed as a main sentence bridi, with a special form of *[i](/glossary/?mode=exact&word=i)* connecting them:
 
 ##### Example 10.110.
 
@@ -1949,7 +1949,7 @@ which specifies an imaginary journey leftward from the man biting the dog to the
 
 The man bites the dog. To the left, the child walks on the ice.
 
-*.izu'abo* is a compound cmavo: the *[i](/glossary/#i)* separates the sentences and the *[zu'a](/glossary/#zua)* is the tense. The *[bo](/glossary/#bo)* is required to prevent the *[zu'a](/glossary/#zua)* from gobbling up the following sumti, namely *le verba*.
+*.izu'abo* is a compound cmavo: the *[i](/glossary/?mode=exact&word=i)* separates the sentences and the *[zu'a](/glossary/?mode=exact&word=zu%27a)* is the tense. The *[bo](/glossary/?mode=exact&word=bo)* is required to prevent the *[zu'a](/glossary/?mode=exact&word=zu%27a)* from gobbling up the following sumti, namely *le verba*.
 
 Note that the bridi in [Example 10.110](/chapter10/#example-10110 "Example 10.110.") appear in the reverse order from their appearance in [Example 10.109](/chapter10/#example-10109 "Example 10.109."). With *.izu'abo* (and all other afterthought tense connectives) the sentence specifying the origin of the journey comes first. This is a natural order for sentences, but requires some care when converting between this form and the sumti tcita form.
 
@@ -1973,7 +1973,7 @@ Note that the bridi in [Example 10.110](/chapter10/#example-10110 "Example 10.11
 
 The man bites the dog. Left of what I just mentioned, the child walks on the ice.
 
-If the *[bo](/glossary/#bo)* is omitted in [Example 10.110](/chapter10/#example-10110 "Example 10.110."), the meaning changes:
+If the *[bo](/glossary/?mode=exact&word=bo)* is omitted in [Example 10.110](/chapter10/#example-10110 "Example 10.110."), the meaning changes:
 
 ##### Example 10.112.
 
@@ -1993,7 +1993,7 @@ If the *[bo](/glossary/#bo)* is omitted in [Example 10.110](/chapter10/#example-
 
 The man bites the dog. To the left of the child, something walks on the ice.
 
-Here the first place of the second sentence is unspecified, because *[zu'a](/glossary/#zua)* has absorbed the sumti *le verba*.
+Here the first place of the second sentence is unspecified, because *[zu'a](/glossary/?mode=exact&word=zu%27a)* has absorbed the sumti *le verba*.
 
 Do not confuse either [Example 10.110](/chapter10/#example-10110 "Example 10.110.") or [Example 10.112](/chapter10/#example-10112 "Example 10.112.") with the following:
 
@@ -2019,7 +2019,7 @@ In [Example 10.113](/chapter10/#example-10113 "Example 10.113."), the origin poi
 
 Two sentences may also be connected in forethought by a tense relationship. Just like afterthought tense connection, forethought tense connection claims both sentences, and in addition claims that the time or space relationship specified by the tense holds between the events the two sentences describe.
 
-The origin sentence is placed first, preceded by a tense plus *[gi](/glossary/#gi)*. Another *[gi](/glossary/#gi)* is used to separate the sentences:
+The origin sentence is placed first, preceded by a tense plus *[gi](/glossary/?mode=exact&word=gi)*. Another *[gi](/glossary/?mode=exact&word=gi)* is used to separate the sentences:
 
 ##### Example 10.114.
 
@@ -2114,7 +2114,7 @@ Terry strokes the cat and strokes the rabbit.
 
 Terry strokes the cat and the rabbit.
 
-Suppose we wish to add a tense relationship to the logical connective “and”? To say that Terry strokes the cat and later strokes the rabbit, we can combine a logical connective with a tense connective by placing the logical connective first, then the tense, and then the cmavo *[bo](/glossary/#bo)*, thus:
+Suppose we wish to add a tense relationship to the logical connective “and”? To say that Terry strokes the cat and later strokes the rabbit, we can combine a logical connective with a tense connective by placing the logical connective first, then the tense, and then the cmavo *[bo](/glossary/?mode=exact&word=bo)*, thus:
 
 ##### Example 10.120.
 
@@ -2152,9 +2152,9 @@ Terry strokes the cat, and then strokes the rabbit.
 
 Terry strokes the cat and then the rabbit.
 
-[Example 10.120](/chapter10/#example-10120 "Example 10.120.") through [Example 10.122](/chapter10/#example-10122 "Example 10.122.") are equivalent in meaning. They are also analogous to [Example 10.117](/chapter10/#example-10117 "Example 10.117.") through [Example 10.119](/chapter10/#example-10119 "Example 10.119.") respectively. The *[bo](/glossary/#bo)* is required for the same reason as in [Example 10.110](/chapter10/#example-10110 "Example 10.110."): to prevent the *[ba](/glossary/#ba)* from functioning as a sumti tcita for the following sumti (or, in [Example 10.121](/chapter10/#example-10121 "Example 10.121."), from being attached to the following selbri).
+[Example 10.120](/chapter10/#example-10120 "Example 10.120.") through [Example 10.122](/chapter10/#example-10122 "Example 10.122.") are equivalent in meaning. They are also analogous to [Example 10.117](/chapter10/#example-10117 "Example 10.117.") through [Example 10.119](/chapter10/#example-10119 "Example 10.119.") respectively. The *[bo](/glossary/?mode=exact&word=bo)* is required for the same reason as in [Example 10.110](/chapter10/#example-10110 "Example 10.110."): to prevent the *[ba](/glossary/?mode=exact&word=ba)* from functioning as a sumti tcita for the following sumti (or, in [Example 10.121](/chapter10/#example-10121 "Example 10.121."), from being attached to the following selbri).
 
-In addition to the *[bo](/glossary/#bo)* construction of [Example 10.120](/chapter10/#example-10120 "Example 10.120.") through [Example 10.122](/chapter10/#example-10122 "Example 10.122."), there is also a form of tensed logical connective with *[tu'u](/glossary/#tuu)* for sentences). The logical connective system makes [Example 10.123](/chapter10/#example-10123 "Example 10.123.") through [Example 10.125](/chapter10/#example-10125 "Example 10.125.") equivalent in meaning:
+In addition to the *[bo](/glossary/?mode=exact&word=bo)* construction of [Example 10.120](/chapter10/#example-10120 "Example 10.120.") through [Example 10.122](/chapter10/#example-10122 "Example 10.122."), there is also a form of tensed logical connective with *[tu'u](/glossary/?mode=exact&word=tu%27u)* for sentences). The logical connective system makes [Example 10.123](/chapter10/#example-10123 "Example 10.123.") through [Example 10.125](/chapter10/#example-10125 "Example 10.125.") equivalent in meaning:
 
 ##### Example 10.123.
 
@@ -2460,11 +2460,11 @@ the resulting [Example 10.139](/chapter10/#example-10139 "Example 10.139.") migh
 
 All ducks are now actually swimming by floating.
 
-A CAhA cmavo is always placed after any other tense cmavo, whether for time or for space. However, a CAhA cmavo comes before *[ki](/glossary/#ki)*, so that a CAhA condition can be made sticky.
+A CAhA cmavo is always placed after any other tense cmavo, whether for time or for space. However, a CAhA cmavo comes before *[ki](/glossary/?mode=exact&word=ki)*, so that a CAhA condition can be made sticky.
 
 [Example 10.140](/chapter10/#example-10140 "Example 10.140.") is false in both Lojban and English, since it claims that the swimming is an actual, present fact, true of every duck that exists, whereas in fact there is at least one duck that is not swimming now.
 
-Furthermore, some ducks are dead (and therefore sink); some ducks have just hatched (and do not know how to swim yet), and some ducks have been eaten by predators (and have ceased to exist as separate objects at all). Nevertheless, all these ducks have the innate capability of swimming – it is part of the nature of duckhood. The cmavo *[ka'e](/glossary/#kae)* expresses this notion of innate capability:
+Furthermore, some ducks are dead (and therefore sink); some ducks have just hatched (and do not know how to swim yet), and some ducks have been eaten by predators (and have ceased to exist as separate objects at all). Nevertheless, all these ducks have the innate capability of swimming – it is part of the nature of duckhood. The cmavo *[ka'e](/glossary/?mode=exact&word=ka%27e)* expresses this notion of innate capability:
 
 ##### Example 10.141.
 
@@ -2514,7 +2514,7 @@ The book can see.
 
 is not true in most epistemologies, since the ability to see is not part of the innate nature of a book.
 
-Consider once again the newly hatched ducks mentioned earlier. They have the potential of swimming, but have not yet demonstrated that potential. This may be expressed using *[nu'o](/glossary/#nuo)*, the cmavo of CAhA for undemonstrated potential:
+Consider once again the newly hatched ducks mentioned earlier. They have the potential of swimming, but have not yet demonstrated that potential. This may be expressed using *[nu'o](/glossary/?mode=exact&word=nu%27o)*, the cmavo of CAhA for undemonstrated potential:
 
 ##### Example 10.144.
 
@@ -2532,7 +2532,7 @@ Consider once again the newly hatched ducks mentioned earlier. They have the pot
 | All infant ducks have an undemonstrated potential for swimming by floating. |
 | Baby ducks can swim but haven't yet.                                        |
 
-Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is appropriate:
+Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/?mode=exact&word=pu%27i)* is appropriate:
 
 ##### Example 10.145.
 
@@ -2550,7 +2550,7 @@ Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/#pui)* is
 | Frank has demonstrated a potential for seeing. |
 | Frank can see and has seen.                    |
 
-Note that the glosses given at the beginning of this section for *[ca'a](/glossary/#caa)*, *[nu'o](/glossary/#nuo)*, and *[pu'i](/glossary/#pui)* incorporate *[ca](/glossary/#ca)* into their meaning, and are really correct for *ca ca'a*, *ca nu'o*, and *ca pu'i*. However, the CAhA cmavo are perfectly meaningful with other tenses than the present:
+Note that the glosses given at the beginning of this section for *[ca'a](/glossary/?mode=exact&word=ca%27a)*, *[nu'o](/glossary/?mode=exact&word=nu%27o)*, and *[pu'i](/glossary/?mode=exact&word=pu%27i)* incorporate *[ca](/glossary/?mode=exact&word=ca)* into their meaning, and are really correct for *ca ca'a*, *ca nu'o*, and *ca pu'i*. However, the CAhA cmavo are perfectly meaningful with other tenses than the present:
 
 ##### Example 10.146.
 
@@ -2701,7 +2701,7 @@ I haven't yet gone to the market, but I will in future.
 
 :::
 
-which only says that I will go, without claiming anything about my past or present. *[ba](/glossary/#ba)* does not imply *punai* or *canai*; to compel that interpretation, either a logical connection or a ZAhO is needed.
+which only says that I will go, without claiming anything about my past or present. *[ba](/glossary/?mode=exact&word=ba)* does not imply *punai* or *canai*; to compel that interpretation, either a logical connection or a ZAhO is needed.
 
 Tense negation can often be removed in favor of negation in the logical connective itself. The following examples are equivalent in meaning:
 
@@ -2733,7 +2733,7 @@ I walk not leftward but rightward.
 
 There are no forethought logical connections between tenses allowed by the grammar, to keep tenses simpler. Nor is there any way to override simple left-grouping of the connectives, the Lojban default.
 
-[*bi'o*](/glossary/#bio) belongs to selma'o BIhI, and connects the end-points of an ordered interval, like English “from ... to”):
+[*bi'o*](/glossary/?mode=exact&word=%2Abi%27o%2A) belongs to selma'o BIhI, and connects the end-points of an ordered interval, like English “from ... to”):
 
 ##### Example 10.158.
 
@@ -2774,7 +2774,7 @@ Another application of non-logical tense connection is to talk about sub-events 
 
 On two occasions, I fire the gun six times.
 
-It would be confusing, though grammatical, to run the *[reroi](/glossary/#reroi)* and the *xaroi* directly together. However, the non-logical connective *[pi'u](/glossary/#piu)* expresses a Cartesian product (also known as a cross product) of two sets. In this case, there is a set of two firings each of which is represented by a set of six shots, for twelve shots in all (hence the name “product”: the product of 2 and 6 is 12). Its use specifies very precisely what occurs.
+It would be confusing, though grammatical, to run the *[reroi](/glossary/?mode=exact&word=reroi)* and the *xaroi* directly together. However, the non-logical connective *[pi'u](/glossary/?mode=exact&word=pi%27u)* expresses a Cartesian product (also known as a cross product) of two sets. In this case, there is a set of two firings each of which is represented by a set of six shots, for twelve shots in all (hence the name “product”: the product of 2 and 6 is 12). Its use specifies very precisely what occurs.
 
 In fact, you can specify strings of interval properties and event contours within a single tense without the use of a logical or non-logical connective cmavo. This allows tenses of the type:
 
@@ -2837,7 +2837,7 @@ Conversion is the regular Lojban process of moving around the places of a place 
 
 :::
 
-It is also possible to bring a place that is specified by a sumti tcita (for the purposes of this chapter, a tense sumti tcita) to the front, by using *[jai](/glossary/#jai)* plus the tense as the grammatical equivalent of SE:
+It is also possible to bring a place that is specified by a sumti tcita (for the purposes of this chapter, a tense sumti tcita) to the front, by using *[jai](/glossary/?mode=exact&word=jai)* plus the tense as the grammatical equivalent of SE:
 
 ##### Example 10.164.
 
@@ -2865,7 +2865,7 @@ The rat eats the cheese in the park.
 
 The park is where the rat eats the cheese.
 
-In [Example 10.165](/chapter10/#example-10165 "Example 10.165."), the construction JAI+tense converts the location sumti into the first place. The previous first place has nowhere to go, since the location sumti is not a numbered place; however, it can be inserted back into the bridi with *[fai](/glossary/#fai)*, the indefinite member of selma'o FA.
+In [Example 10.165](/chapter10/#example-10165 "Example 10.165."), the construction JAI+tense converts the location sumti into the first place. The previous first place has nowhere to go, since the location sumti is not a numbered place; however, it can be inserted back into the bridi with *[fai](/glossary/?mode=exact&word=fai)*, the indefinite member of selma'o FA.
 
 (The other members of FA are used to mark the first, second, etc. places of a bridi explicitly:
 
@@ -2900,7 +2900,7 @@ Like SE conversion, JAI+tense conversion is especially useful in descriptions wi
 
 :::
 
-Here the eater of the cheese is elided, so no *[fai](/glossary/#fai)* appears.
+Here the eater of the cheese is elided, so no *[fai](/glossary/?mode=exact&word=fai)* appears.
 
 Of course, temporal tenses are also usable with JAI:
 
@@ -2937,7 +2937,7 @@ The core distinction is that whereas the modal bridi
 
 I like you because you like me.
 
-places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/#mukti)* (which underlies the modal *[mu'i](/glossary/#mui)*), namely the motivating event, the tensed bridi
+places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/?mode=exact&word=mukti)* (which underlies the modal *[mu'i](/glossary/?mode=exact&word=mu%27i)*), namely the motivating event, the tensed bridi
 
 ##### Example 10.172.
 
@@ -2952,7 +2952,7 @@ places the *le nu* sumti in the x1 place of the gismu *[mukti](/glossary/#mukti)
 
 I like you after you like me.
 
-places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/#balvi)* (which underlies the tense *[ba](/glossary/#ba)*), namely the point of reference for the future tense. Paraphrases of [Example 10.171](/chapter10/#example-10171 "Example 10.171.") and [Example 10.172](/chapter10/#example-10172 "Example 10.172."), employing the brivla *[mukti](/glossary/#mukti)* and *[balvi](/glossary/#balvi)* explicitly, would be:
+places the *le nu* sumti in the x2 place of the gismu *[balvi](/glossary/?mode=exact&word=balvi)* (which underlies the tense *[ba](/glossary/?mode=exact&word=ba)*), namely the point of reference for the future tense. Paraphrases of [Example 10.171](/chapter10/#example-10171 "Example 10.171.") and [Example 10.172](/chapter10/#example-10172 "Example 10.172."), employing the brivla *[mukti](/glossary/?mode=exact&word=mukti)* and *[balvi](/glossary/?mode=exact&word=balvi)* explicitly, would be:
 
 ##### Example 10.173.
 
@@ -3008,7 +3008,7 @@ As a result, the afterthought sentence-connective forms of [Example 10.171](/cha
 
 :::
 
-In [Example 10.175](/chapter10/#example-10175 "Example 10.175."), the order of the two bridi *mi nelci do* and *do nelci mi* is the same as in [Example 10.171](/chapter10/#example-10171 "Example 10.171."). In [Example 10.176](/chapter10/#example-10176 "Example 10.176."), however, the order is reversed: the origin point *do nelci mi* physically appears before the future-time event *mi nelci do*. In both cases, the bridi characterizing the event in the x2 place appears before the bridi characterizing the event in the x1 place of *[mukti](/glossary/#mukti)* or *[balvi](/glossary/#balvi)*.
+In [Example 10.175](/chapter10/#example-10175 "Example 10.175."), the order of the two bridi *mi nelci do* and *do nelci mi* is the same as in [Example 10.171](/chapter10/#example-10171 "Example 10.171."). In [Example 10.176](/chapter10/#example-10176 "Example 10.176."), however, the order is reversed: the origin point *do nelci mi* physically appears before the future-time event *mi nelci do*. In both cases, the bridi characterizing the event in the x2 place appears before the bridi characterizing the event in the x1 place of *[mukti](/glossary/?mode=exact&word=mukti)* or *[balvi](/glossary/?mode=exact&word=balvi)*.
 
 In forethought connections, however, the asymmetry between modals and tenses is not found. The forethought equivalents of [Example 10.175](/chapter10/#example-10175 "Example 10.175.") and [Example 10.176](/chapter10/#example-10176 "Example 10.176.") are
 
@@ -3064,7 +3064,7 @@ The following cmavo is discussed in this section:
 | ---- | ---- | -------------- |
 | cu'e | CUhE | tense question |
 
-There are two main ways to ask questions about tense. The main English tense question words are “When?” and “Where?”. These may be paraphrased respectively as “At what time?” and “At what place?” In these forms, their Lojban equivalents simply involve a tense plus *[ma](/glossary/#ma)*, the Lojban sumti question:
+There are two main ways to ask questions about tense. The main English tense question words are “When?” and “Where?”. These may be paraphrased respectively as “At what time?” and “At what place?” In these forms, their Lojban equivalents simply involve a tense plus *[ma](/glossary/?mode=exact&word=ma)*, the Lojban sumti question:
 
 ##### Example 10.179.
 
@@ -3094,7 +3094,7 @@ When do you go to the house?
 
 Where did the child walk on the ice?
 
-There is also a non-specific tense and modal question, *[cu'e](/glossary/#cue)*, belonging to selma'o CUhE. This can be used wherever a tense or modal construct can be used.
+There is also a non-specific tense and modal question, *[cu'e](/glossary/?mode=exact&word=cu%27e)*, belonging to selma'o CUhE. This can be used wherever a tense or modal construct can be used.
 
 ##### Example 10.181.
 
@@ -3164,7 +3164,7 @@ or even the modal reply (from selma'o BAI; see [Section 9.6](/chapter09/#96-moda
 
 :::
 
-The only way to combine *[cu'e](/glossary/#cue)* with other tense cmavo is through logical connection, which makes a question that pre-specifies some information:
+The only way to combine *[cu'e](/glossary/?mode=exact&word=cu%27e)* with other tense cmavo is through logical connection, which makes a question that pre-specifies some information:
 
 ##### Example 10.187.
 
@@ -3194,7 +3194,7 @@ Additionally, the logical connective itself can be replaced by a question word:
 
 Was Arthur a king or will he be?
 
-Answers to [Example 10.188](/chapter10/#example-10188 "Example 10.188.") would be logical connectives such as *[je](/glossary/#je)*, meaning “both”, *naje* meaning “the latter”, or *[jenai](/glossary/#jenai)* meaning “the former”.
+Answers to [Example 10.188](/chapter10/#example-10188 "Example 10.188.") would be logical connectives such as *[je](/glossary/?mode=exact&word=je)*, meaning “both”, *naje* meaning “the latter”, or *[jenai](/glossary/?mode=exact&word=jenai)* meaning “the former”.
 
 ## 10.25. Explicit magnitudes
 
@@ -3213,7 +3213,7 @@ It is a limitation of the VA and ZI system of specifying magnitudes that they ca
 
 Frank is standing five meters to the left of George.
 
-Here the termset extends from the *[nu'i](/glossary/#nui)* to the implicit *[nu'u](/glossary/#nuu)* at the end of the sentence, and includes the terms *la djordj.*, which is the unmarked origin point, and the tagged sumti *lo mitre be li mu*, which the cmavo *[la'u](/glossary/#lau)* (of selma'o BAI, and meaning “with quantity”; see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")) marks as a quantity. Both terms are governed by the tag *[zu'a](/glossary/#zua)*
+Here the termset extends from the *[nu'i](/glossary/?mode=exact&word=nu%27i)* to the implicit *[nu'u](/glossary/?mode=exact&word=nu%27u)* at the end of the sentence, and includes the terms *la djordj.*, which is the unmarked origin point, and the tagged sumti *lo mitre be li mu*, which the cmavo *[la'u](/glossary/?mode=exact&word=la%27u)* (of selma'o BAI, and meaning “with quantity”; see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI")) marks as a quantity. Both terms are governed by the tag *[zu'a](/glossary/?mode=exact&word=zu%27a)*
 
 It is not necessary to have both an origin point and an explicit magnitude: a termset may have only a single term in it. A less precise version of [Example 10.189](/chapter10/#example-10189 "Example 10.189.") is:
 
@@ -3364,8 +3364,8 @@ set or reset sticky tense
 
 |                             |       |
 | --------------------------- | ----- |
-| tense+*[ki](/glossary/#ki)* | set   |
-| *[ki](/glossary/#ki)* alone | reset |
+| tense+*[ki](/glossary/?mode=exact&word=ki)* | set   |
+| *[ki](/glossary/?mode=exact&word=ki)* alone | reset |
 
 ##### CUhE
 
@@ -3389,7 +3389,7 @@ etc.
 
 ## 10.27. List of spatial directions and direction-like relations
 
-The following list of FAhA cmavo gives rough English glosses for the cmavo, first when used without *[mo'i](/glossary/#moi)* to express a direction, and then when used with *[mo'i](/glossary/#moi)* to express movement in the direction. When possible, the gismu from which the cmavo is derived is also listed.
+The following list of FAhA cmavo gives rough English glosses for the cmavo, first when used without *[mo'i](/glossary/?mode=exact&word=mo%27i)* to express a direction, and then when used with *[mo'i](/glossary/?mode=exact&word=mo%27i)* to express movement in the direction. When possible, the gismu from which the cmavo is derived is also listed.
 
 |      |       |                  |                              |
 | ---- | ----- | ---------------- | ---------------------------- |
@@ -3414,9 +3414,9 @@ The following list of FAhA cmavo gives rough English glosses for the cmavo, firs
 | du'a | stuna | east (of)        | eastward(ly)                 |
 | vu'a |       | west (of)        | westward(ly)                 |
 
-Special note on *[fa'a](/glossary/#faa)*, *[to'o](/glossary/#too)*, *[zo'i](/glossary/#zoi)*, and *[ze'o](/glossary/#zeo)*:
+Special note on *[fa'a](/glossary/?mode=exact&word=fa%27a)*, *[to'o](/glossary/?mode=exact&word=to%27o)*, *[zo'i](/glossary/?mode=exact&word=zo%27i)*, and *[ze'o](/glossary/?mode=exact&word=ze%27o)*:
 
-*[zo'i](/glossary/#zoi)* and *[ze'o](/glossary/#zeo)* refer to direction towards or away from the speaker's location, or whatever the origin is.
+*[zo'i](/glossary/?mode=exact&word=zo%27i)* and *[ze'o](/glossary/?mode=exact&word=ze%27o)* refer to direction towards or away from the speaker's location, or whatever the origin is.
 
-*[fa'a](/glossary/#faa)* and *[to'o](/glossary/#too)* refer to direction towards or away from some other point.
+*[fa'a](/glossary/?mode=exact&word=fa%27a)* and *[to'o](/glossary/?mode=exact&word=to%27o)* refer to direction towards or away from some other point.
 

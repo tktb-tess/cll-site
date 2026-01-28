@@ -69,7 +69,7 @@
       name="search-mode"
       id="radio-1"
       onclick={() => (searchMode = 'former')}
-      checked
+      checked={searchMode === 'former'}
     />
     <label for="radio-1">前方</label>
     <input
@@ -77,6 +77,7 @@
       name="search-mode"
       id="radio-2"
       onclick={() => (searchMode = 'latter')}
+      checked={searchMode === 'latter'}
     />
     <label for="radio-2">後方</label>
     <input
@@ -84,6 +85,7 @@
       name="search-mode"
       id="radio-3"
       onclick={() => (searchMode = 'exact')}
+      checked={searchMode === 'exact'}
     />
     <label for="radio-3">完全</label>
     <input
@@ -91,6 +93,7 @@
       name="search-mode"
       id="radio-4"
       onclick={() => (searchMode = 'partial')}
+      checked={searchMode === 'partial'}
     />
     <label for="radio-4">部分</label>
   </div>
