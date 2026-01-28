@@ -65,41 +65,45 @@
 
 <section aria-labelledby="search" id="search-input">
   <h3 id="search" class="text-center">Search</h3>
-  <input type="text" class="block w-full" bind:value={searchWord} />
+  <input id="search-text" type="text" bind:value={searchWord} />
   <div id="search-radiobtn">
     <span>Match:</span>
-    <input
-      type="radio"
-      name="search-mode"
-      id="radio-1"
-      onclick={() => (searchMode = 'forward')}
-      checked={searchMode === 'forward'}
-    />
-    <label for="radio-1">forward</label>
-    <input
-      type="radio"
-      name="search-mode"
-      id="radio-2"
-      onclick={() => (searchMode = 'backward')}
-      checked={searchMode === 'backward'}
-    />
-    <label for="radio-2">backward</label>
-    <input
-      type="radio"
-      name="search-mode"
-      id="radio-3"
-      onclick={() => (searchMode = 'exact')}
-      checked={searchMode === 'exact'}
-    />
-    <label for="radio-3">exact</label>
-    <input
-      type="radio"
-      name="search-mode"
-      id="radio-4"
-      onclick={() => (searchMode = 'partial')}
-      checked={searchMode === 'partial'}
-    />
-    <label for="radio-4">partial</label>
+    <label>
+      <input
+        type="radio"
+        name="search-mode"
+        onclick={() => (searchMode = 'forward')}
+        checked={searchMode === 'forward'}
+      />
+      forward
+    </label>
+    <label>
+      <input
+        type="radio"
+        name="search-mode"
+        onclick={() => (searchMode = 'backward')}
+        checked={searchMode === 'backward'}
+      />
+      backward
+    </label>
+    <label>
+      <input
+        type="radio"
+        name="search-mode"
+        onclick={() => (searchMode = 'exact')}
+        checked={searchMode === 'exact'}
+      />
+      exact
+    </label>
+    <label>
+      <input
+        type="radio"
+        name="search-mode"
+        onclick={() => (searchMode = 'partial')}
+        checked={searchMode === 'partial'}
+      />
+      partial
+    </label>
   </div>
 </section>
 <ShowResult {results} />
@@ -109,7 +113,11 @@
   @reference '../styles/globals.css';
   @layer components {
     #search-input {
-      @apply flex flex-col gap-1 w-full max-w-80 mx-auto;
+      @apply flex flex-col gap-1 w-full max-w-120 mx-auto;
+    }
+
+    #search-text {
+      @apply w-[80%] block mx-auto;
     }
 
     #search-radiobtn {

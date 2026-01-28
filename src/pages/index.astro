@@ -1,7 +1,7 @@
 ---
 import Head from '../layouts/Head.astro';
 import Toc, { type H2Content } from '../components/Toc.astro';
-import JboLogo from '../assets/jbo_logo.svg';
+import JboLogo from '../assets/JboLogo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import data from '../modules/data.json';
 import MyFooter from '../components/MyFooter.astro';
@@ -24,7 +24,7 @@ const { title, url } = data.at(0)!;
       <span class='text-blue-600'>L</span>ojban
       <span class='text-red-600'>L</span>anguage Viewer
     </h1>
-    <JboLogo class='max-w-95 w-full mx-auto my-6' />
+    <JboLogo class='max-w-95 w-full mx-auto my-6 [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]' />
     <Toc contents={mds} />
   </main>
   <MyFooter />
