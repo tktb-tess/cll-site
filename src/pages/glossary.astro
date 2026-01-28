@@ -1,5 +1,8 @@
 ---
 import Head from '../layouts/Head.astro';
+import Search from '../components/Search.svelte';
 ---
 
-<Head url='' title='' />
+<Head url='/glossary/' title='glossary'>
+    <Search client:only />
+</Head>
