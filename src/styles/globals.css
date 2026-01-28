@@ -69,6 +69,7 @@
   --default-transition-duration: 110ms;
   --s-paragraph: 1.25rem;
   --s-header: 3rem;
+  --s-footer: 3rem;
   --s-figure: 2rem;
   --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
     minmax(min(18rem, 50%), 1fr);
@@ -119,12 +120,12 @@
     @apply underline hover:opacity-60 transition-opacity;
   }
 
-  footer {
-    @apply flex justify-center my-2;
-  }
-
   button {
     @apply cursor-pointer;
+  }
+
+  input {
+    @apply font-mono cborder-border;
   }
 
   h1:where(#title) {

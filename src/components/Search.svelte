@@ -1,38 +1,53 @@
 <script lang="ts">
   import { onMount } from 'svelte';
+  import wordData from '../modules/glossary.json';
+  import ShowResult from './ShowResult.svelte';
 
   type SearchMode = 'former' | 'latter' | 'exact' | 'partial';
-  type WordData = {
-    word: string;
-    contents: string[];
-  };
+
+  const isMode = (str: unknown) =>
+    str === 'former' ||
+    str === 'latter' ||
+    str === 'exact' ||
+    str === 'partial';
+
   let searchWord = $state('');
   let searchMode = $state<SearchMode>('former');
-  let wordData: WordData[] | undefined = $state();
+  const url = $derived.by(() => {
+    const url = new URL(document.URL);
+    url.searchParams.set('mode', searchMode);
+    if (searchWord) {
+      url.searchParams.set('word', searchWord);
+    } else {
+      url.searchParams.delete('word');
+    }
+    return url;
+  });
 
-  onMount(async () => {
-    wordData = (await import('../modules/glossary.json')).default;
+  const results = $derived.by(() => {
+    return wordData.filter((w) => {
+      const wo = w.word.slice(0, searchWord.length);
+      return searchWord === wo;
+    });
+  });
+
+  onMount(() => {
+    const url = new URL(document.URL);
+    const mode = url.searchParams.get('mode');
+    if (isMode(mode)) searchMode = mode;
+    const word = url.searchParams.get('word');
+    if (word) searchWord = word;
   });
 
   $effect(() => {
-    const newUrl = new URL(document.URL);
-    newUrl.searchParams.set('mode', searchMode);
-    if (searchWord) {
-      newUrl.searchParams.set('word', searchWord);
-    } else {
-      newUrl.searchParams.delete('word');
-    }
-    window.history.replaceState(null, '', newUrl);
+    window.history.replaceState(null, '', url);
   });
 </script>
 
-<section
-  aria-labelledby="kensaku"
-  class="flex flex-col gap-1 w-full max-w-80 mx-auto"
->
-  <h3 id="kensaku" class="text-center">検索</h3>
+<section aria-labelledby="search" id="search-input">
+  <h3 id="search" class="text-center">Search</h3>
   <input type="text" class="block w-full" bind:value={searchWord} />
-  <div class="flex justify-center gap-2">
+  <div id="search-radiobtn">
     <span>一致方式:</span>
     <input
       type="radio"
@@ -65,7 +80,17 @@
     <label for="radio-4">部分</label>
   </div>
 </section>
+<ShowResult {results} />
 
 <style lang="postcss">
   @reference '../styles/globals.css';
+  @layer components {
+    #search-input {
+      @apply flex flex-col gap-1 w-full max-w-80 mx-auto;
+    }
+
+    #search-radiobtn {
+      @apply flex justify-center gap-2;
+    }
+  }
 </style>

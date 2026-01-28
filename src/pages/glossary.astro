@@ -1,8 +1,18 @@
 ---
 import Head from '../layouts/Head.astro';
 import Search from '../components/Search.svelte';
+import MyFooter from '../components/MyFooter.astro';
+const title = `Lojban Word Glossary`;
 ---
 
-<Head url='/glossary/' title='glossary'>
-    <Search client:only />
+<Head url='/glossary/' {title}>
+  <header></header>
+  <main>
+    <aside></aside>
+    <section>
+      <h1>{title}</h1>
+      <Search client:only='svelte' />
+    </section>
+  </main>
+  <MyFooter />
 </Head>
