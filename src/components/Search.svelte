@@ -113,7 +113,7 @@
     }
 
     #search-radiobtn {
-      @apply flex justify-center gap-2;
+      @apply flex justify-center gap-2 flex-wrap;
     }
   }
 </style>
