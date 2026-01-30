@@ -65,7 +65,8 @@
   );
 
   --default-transition-duration: 110ms;
-  --s-paragraph: 1.25rem;
+  --s-paragraph: .75rem;
+  --s-heading: 2.5rem;
   --s-header: 3rem;
   --s-footer: 3rem;
   --s-figure: 2rem;
@@ -156,11 +157,15 @@
     @apply font-semibold text-base;
   }
 
-  :is(h2, h3, h4, h5, h6, p, ul, ol) {
+  :is(p, ul, ol, pre, blockquote) {
     @apply mt-(--s-paragraph);
   }
 
-  :is(h2, h3, h5) {
+  :is(h2, h3, h4, h5, h6) {
+    @apply mt-(--s-heading);
+  }
+
+  :is(h2, h3, h4, h5) {
     @apply scroll-mt-[calc(var(--s-header)+.5rem)];
   }
 
