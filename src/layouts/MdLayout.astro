@@ -132,9 +132,9 @@ const contents = getContents();
         @apply hidden lg:block;
       }
 
-      > * > :where(.__sidebar-root) {
+      :where(.__sidebar-root) {
         @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
-        top-[calc(var(--s-header)+.5rem)] z-0 px-1 py-2;
+        top-(--s-header) z-0 px-1 py-2;
       }
 
       > :where(section) {
