@@ -2655,8 +2655,8 @@ thing which is a school and a beautifully small girl
 
 :::
 
-school for things which are beautiful, small, and girls
-| Note: same as [Example 5.152](/chapter05/#example-5152 "Example 5.152.") |
+school for things which are beautiful, small, and girls  
+Note: same as [Example 5.152](/chapter05/#example-5152 "Example 5.152.")
 
 ##### Example 5.137.
 
@@ -2669,8 +2669,8 @@ school for things which are beautiful, small, and girls
 
 :::
 
-thing which is beautifully small, a school, and a girl
-| Note: same as [Example 5.145](/chapter05/#example-5145 "Example 5.145.") |
+thing which is beautifully small, a school, and a girl  
+Note: same as [Example 5.145](/chapter05/#example-5145 "Example 5.145.")
 
 ##### Example 5.138.
 

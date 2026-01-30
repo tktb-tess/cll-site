@@ -9,7 +9,7 @@ const { title, description = title, url } = Astro.props;
 const baseUrl = `https://cll.tktb-tess.dev`;
 const linkCardUrl = new URL('/link_card.png', baseUrl).href;
 const pageUrl = new URL(url, baseUrl).href;
-const siteName = 'The Complete Lojban Language';
+const siteName = 'The Complete Lojban Language Viewer';
 ---
 
 <meta name='description' content={description} />

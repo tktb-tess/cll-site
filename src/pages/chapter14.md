@@ -378,17 +378,12 @@ It must be reiterated here that not every use of English “if ... then” is pr
 
 :::jbomupli
 
-|     |          |      |       |       |     |     |       |
-| --- | -------- | ---- | ----- | ----- | --- | --- | ----- |
-| le  | nu       | do   | cidja | dunda | fi  | le  | xarju |
-| The | event-of | (you | food  | give  | to  | the | pig)  |
+|     |          |      |       |       |     |     |       |     |        |     |          |     |      |        |
+| --- | -------- | ---- | ----- | ----- | --- | --- | ----- | --- | ------ | --- | -------- | --- | ---- | ------ |
+| le  | nu       | do   | cidja | dunda | fi  | le  | xarju | cu  | rinka  | le  | nu       | ri  | ba   | banro  |
+| The | event-of | (you | food  | give  | to  | the | pig)  |     | causes | the | event-of | (it | will | grow). |
 
 :::
-
-|     |        |     |          |     |      |        |
-| --- | ------ | --- | -------- | --- | ---- | ------ |
-| cu  | rinka  | le  | nu       | ri  | ba   | banro  |
-|     | causes | the | event-of | (it | will | grow). |
 
 Causality is discussed in far more detail in [Section 9.7](/chapter09/#97-modal-sentence-connection-the-causals "9.7. Modal sentence connection: the causals").
 
@@ -495,17 +490,12 @@ The afterthought logical connectives between sumti are eks, which contain a conn
 
 :::jbomupli
 
-|            |       |                        |      |
-| ---------- | ----- | ---------------------- | ---- |
-| la         | djan. |                        | .ije |
-| That-named | John  | \[is/does-something\]. | And  |
+|            |       |                        |      |            |        |         |     |         |
+| ---------- | ----- | ---------------------- | ---- | ---------- | ------ | ------- | --- | ------- |
+| la         | djan. |                        | .ije | la         | .alis. | klama   | le  | zarci   |
+| That-named | John  | \[is/does-something\]. | And  | that-named | Alices | goes-to | the | market. |
 
 :::
-
-|            |        |         |     |         |
-| ---------- | ------ | ------- | --- | ------- |
-| la         | .alis. | klama   | le  | zarci   |
-| that-named | Alices | goes-to | the | market. |
 
 leaving the reader uncertain why John is mentioned at all.
 
@@ -616,17 +606,12 @@ There is an additional difficulty with the use of more than two sentences. What 
 
 :::jbomupli
 
-|     |       |            |       |      |     |       |            |         |
-| --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- |
-| mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. |
-| I   | like  | that-named | John. | And  | I   | like  | that-named | Martha. |
+|     |       |            |       |      |     |       |            |         |      |     |       |            |        |
+| --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- | ---- | --- | ----- | ---------- | ------ |
+| mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. | .ija | mi  | nelci | la         | meris. |
+| I   | like  | that-named | John. | And  | I   | like  | that-named | Martha. | Or   | I   | like  | that-named | Mary.  |
 
 :::
-
-|      |     |       |            |        |
-| ---- | --- | ----- | ---------- | ------ |
-| .ija | mi  | nelci | la         | meris. |
-| Or   | I   | like  | that-named | Mary.  |
 
 Does this mean:
 
@@ -646,22 +631,12 @@ Either I like John and I like Martha, or I like Mary, or both.
 
 :::jbomupli
 
-|        |       |     |       |            |       |
-| ------ | ----- | --- | ----- | ---------- | ----- |
-| ga     | ge    | mi  | nelci | la         | djan. |
-| Either | (Both | I   | like  | that-named | John  |
+|        |       |     |       |            |       |     |     |       |            |         |     |     |       |            |        |
+| ------ | ----- | --- | ----- | ---------- | ----- | --- | --- | ----- | ---------- | ------- | --- | --- | ----- | ---------- | ------ |
+| ga     | ge    | mi  | nelci | la         | djan. | gi  | mi  | nelci | la         | martas. | gi  | mi  | nelci | la         | meris. |
+| Either | (Both | I   | like  | that-named | John  | and | I   | like  | that-named | Martha) | or  | I   | like  | that-named | Mary.  |
 
 :::
-
-|     |     |       |            |         |
-| --- | --- | ----- | ---------- | ------- |
-| gi  | mi  | nelci | la         | martas. |
-| and | I   | like  | that-named | Martha) |
-
-|     |     |       |            |        |
-| --- | --- | ----- | ---------- | ------ |
-| gi  | mi  | nelci | la         | meris. |
-| or  | I   | like  | that-named | Mary.  |
 
 is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14.34."), whereas
 
@@ -674,8 +649,6 @@ is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14
 | ge   | mi  | nelci | la         | djan. |
 | Both | I   | like  | that-named | John  |
 
-:::
-
 |     |         |     |       |            |         |
 | --- | ------- | --- | ----- | ---------- | ------- |
 | gi  | ga      | mi  | nelci | la         | martas. |
@@ -685,6 +658,8 @@ is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14
 | --- | --- | ----- | ---------- | ------ |
 | gi  | mi  | nelci | la         | meris. |
 | or  | I   | like  | that-named | Mary). |
+
+:::
 
 is not equivalent to [Example 14.34](/chapter14/#example-1434 "Example 14.34."), but is instead a valid translation into Lojban, using forethought, of [Example 14.35](/chapter14/#example-1435 "Example 14.35.").
 
@@ -701,12 +676,12 @@ There are several ways in Lojban to render [Example 14.35](/chapter14/#example-1
 | mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. |
 | I   | like  | that-named | John, | and  | I   | like  | that-named | Martha  |
 
-:::
-
 |        |     |       |            |        |
 | ------ | --- | ----- | ---------- | ------ |
 | .ijabo | mi  | nelci | la         | meris. |
 | or     | I   | like  | that-named | Mary.  |
+
+:::
 
 The English translation feebly indicates with a comma what the Lojban marks far more clearly: the “I like Martha” and “I like Mary” sentences are joined by *[ja](/glossary/?mode=exact&word=ja)* first, before the result is joined to “I like John” by *[je](/glossary/?mode=exact&word=je)*.
 
@@ -743,12 +718,12 @@ where the semantics tells us that the instances of “and” are meant to have h
 | mi  | cinba | do  | .ije\[bo\] | do  | cinba | mi  |
 | I   | kiss  | you | and        | you | kiss  | me, |
 
-:::
-
 |         |     |       |     |        |     |       |     |
 | ------- | --- | ----- | --- | ------ | --- | ----- | --- |
 | .ijanai | mi  | prami | do  | .ijebo | do  | prami | mi  |
 | if      | I   | love  | you | and    | you | love  | me. |
+
+:::
 
 marking two of the ijeks with *[bo](/glossary/?mode=exact&word=bo)* for high precedence. (The first *[bo](/glossary/?mode=exact&word=bo)* is not strictly necessary, because of the left-grouping rule, and is shown here in brackets.)
 
@@ -1636,7 +1611,9 @@ Alice is not a dog and is not a cat.
 
 ##### Example 14.103.
 
-nagi'o
+|         |
+| ------- |
+| nagi'o  |
 | gi'onai |
 
 Alice is a dog or is a cat but not both (I'm not saying which).
@@ -1796,10 +1773,10 @@ Here the ball is neither wholly blue nor wholly red, but partly blue and partly 
 
 There are several other cmavo in selma'o JOI which can be used in the same grammatical constructions. Not all of them are well-defined as yet in all contexts. All have clear definitions as sumti connectives; those definitions are shown in the following table:
 
-|                              |                                             |
-| ---------------------------- | ------------------------------------------- |
-| A *[joi](/glossary/?mode=exact&word=joi)* B  | the mass with components A and B            |
-| A *[ce](/glossary/?mode=exact&word=ce)* B    | the set with elements A and B               |
+|                                                 |                                             |
+| ----------------------------------------------- | ------------------------------------------- |
+| A *[joi](/glossary/?mode=exact&word=joi)* B     | the mass with components A and B            |
+| A *[ce](/glossary/?mode=exact&word=ce)* B       | the set with elements A and B               |
 | A *[ce'o](/glossary/?mode=exact&word=ce%27o)* B | the sequence with elements A and B in order |
 | A *[ce'o](/glossary/?mode=exact&word=ce%27o)* B | the sequence with elements B and A in order |
 | A *[jo'u](/glossary/?mode=exact&word=jo%27u)* B | A and B considered jointly                  |
@@ -2932,21 +2909,21 @@ A dash indicates that connection of the specified type is not possible.
 
 The following table specifies, for each truth function, the most-often used cmavo or compound cmavo which expresses it for each of the six types of logical connective. (Other compound cmavo are often possible: for example, *[.a](/glossary/?mode=exact&word=a)* means the same as *[a](/glossary/?mode=exact&word=a)*, and could be used instead.)
 
-| truth | ek                                                                 | jek                                                                 | gihek                                                                  | gek-gik                 | guhek-gik               |
-| ----- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | ---------------------------------------------------------------------- | ----------------------- | ----------------------- |
-| TTTF  | *[a](/glossary/?mode=exact&word=a)*                                                | *[ja](/glossary/?mode=exact&word=ja)*                                               | *[gi'a](/glossary/?mode=exact&word=gi%27a)*                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| TTFT  | *[.a](/glossary/?mode=exact&word=a)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[ja](/glossary/?mode=exact&word=ja)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[gi'a](/glossary/?mode=exact&word=gi%27a)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
-| TTFF  | *[u](/glossary/?mode=exact&word=u)*                                                | *[ju](/glossary/?mode=exact&word=ju)*                                               | *[gi'u](/glossary/?mode=exact&word=gi%27u)*                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| TFTT  | *[na](/glossary/?mode=exact&word=na)* *[.a](/glossary/?mode=exact&word=a)*                         | *[na](/glossary/?mode=exact&word=na)* *[ja](/glossary/?mode=exact&word=ja)*                         | *[na](/glossary/?mode=exact&word=na)* *[gi'a](/glossary/?mode=exact&word=gi%27a)*                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| TFTF  | *[se](/glossary/?mode=exact&word=se)* *[.u](/glossary/?mode=exact&word=u)*                         | *[se](/glossary/?mode=exact&word=se)* *[ju](/glossary/?mode=exact&word=ju)*                         | *[se](/glossary/?mode=exact&word=se)* *[gi'u](/glossary/?mode=exact&word=gi%27u)*                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| TFFT  | *[o](/glossary/?mode=exact&word=o)*                                                | *[jo](/glossary/?mode=exact&word=jo)*                                               | *[gi'o](/glossary/?mode=exact&word=gi%27o)*                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| TFFF  | *[e](/glossary/?mode=exact&word=e)*                                                | *[je](/glossary/?mode=exact&word=je)*                                               | *[gi'e](/glossary/?mode=exact&word=gi%27e)*                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| truth | ek                                                                                                                 | jek                                                                                                                 | gihek                                                                                                                     | gek-gik                                 | guhek-gik                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- | --------------------------------------- |
+| TTTF  | *[a](/glossary/?mode=exact&word=a)*                                                                                | *[ja](/glossary/?mode=exact&word=ja)*                                                                               | *[gi'a](/glossary/?mode=exact&word=gi%27a)*                                                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| TTFT  | *[.a](/glossary/?mode=exact&word=a)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[ja](/glossary/?mode=exact&word=ja)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[gi'a](/glossary/?mode=exact&word=gi%27a)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
+| TTFF  | *[u](/glossary/?mode=exact&word=u)*                                                                                | *[ju](/glossary/?mode=exact&word=ju)*                                                                               | *[gi'u](/glossary/?mode=exact&word=gi%27u)*                                                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| TFTT  | *[na](/glossary/?mode=exact&word=na)* *[.a](/glossary/?mode=exact&word=a)*                                         | *[na](/glossary/?mode=exact&word=na)* *[ja](/glossary/?mode=exact&word=ja)*                                         | *[na](/glossary/?mode=exact&word=na)* *[gi'a](/glossary/?mode=exact&word=gi%27a)*                                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| TFTF  | *[se](/glossary/?mode=exact&word=se)* *[.u](/glossary/?mode=exact&word=u)*                                         | *[se](/glossary/?mode=exact&word=se)* *[ju](/glossary/?mode=exact&word=ju)*                                         | *[se](/glossary/?mode=exact&word=se)* *[gi'u](/glossary/?mode=exact&word=gi%27u)*                                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| TFFT  | *[o](/glossary/?mode=exact&word=o)*                                                                                | *[jo](/glossary/?mode=exact&word=jo)*                                                                               | *[gi'o](/glossary/?mode=exact&word=gi%27o)*                                                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| TFFF  | *[e](/glossary/?mode=exact&word=e)*                                                                                | *[je](/glossary/?mode=exact&word=je)*                                                                               | *[gi'e](/glossary/?mode=exact&word=gi%27e)*                                                                               | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
 | FTTT  | *[na](/glossary/?mode=exact&word=na)* *[.a](/glossary/?mode=exact&word=a)* *[nai](/glossary/?mode=exact&word=nai)* | *[na](/glossary/?mode=exact&word=na)* *[ja](/glossary/?mode=exact&word=ja)* *[nai](/glossary/?mode=exact&word=nai)* | *[na](/glossary/?mode=exact&word=na)* *[gi'a](/glossary/?mode=exact&word=gi%27a)* *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
-| FTTF  | *[.o](/glossary/?mode=exact&word=o)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[jo](/glossary/?mode=exact&word=jo)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[gi'o](/glossary/?mode=exact&word=gi%27o)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
+| FTTF  | *[.o](/glossary/?mode=exact&word=o)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[jo](/glossary/?mode=exact&word=jo)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[gi'o](/glossary/?mode=exact&word=gi%27o)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
 | FTFT  | *[se](/glossary/?mode=exact&word=se)* *[.u](/glossary/?mode=exact&word=u)* *[nai](/glossary/?mode=exact&word=nai)* | *[se](/glossary/?mode=exact&word=se)* *[ju](/glossary/?mode=exact&word=ju)* *[nai](/glossary/?mode=exact&word=nai)* | *[se](/glossary/?mode=exact&word=se)* *[gi'u](/glossary/?mode=exact&word=gi%27u)* *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
-| FTFF  | *[.e](/glossary/?mode=exact&word=e)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[je](/glossary/?mode=exact&word=je)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[gi'e](/glossary/?mode=exact&word=gi%27e)* *[nai](/glossary/?mode=exact&word=nai)*                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
-| FFTT  | *[na](/glossary/?mode=exact&word=na)* *[.u](/glossary/?mode=exact&word=u)*                         | *[na](/glossary/?mode=exact&word=na)* *[ju](/glossary/?mode=exact&word=ju)*                         | *[na](/glossary/?mode=exact&word=na)* *[gi'u](/glossary/?mode=exact&word=gi%27u)*                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
-| FFTF  | *[na](/glossary/?mode=exact&word=na)* *[.e](/glossary/?mode=exact&word=e)*                         | *[na](/glossary/?mode=exact&word=na)* *[je](/glossary/?mode=exact&word=je)*                         | *[na](/glossary/?mode=exact&word=na)* *[gi'e](/glossary/?mode=exact&word=gi%27e)*                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| FTFF  | *[.e](/glossary/?mode=exact&word=e)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[je](/glossary/?mode=exact&word=je)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[gi'e](/glossary/?mode=exact&word=gi%27e)* *[nai](/glossary/?mode=exact&word=nai)*                                       | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
+| FFTT  | *[na](/glossary/?mode=exact&word=na)* *[.u](/glossary/?mode=exact&word=u)*                                         | *[na](/glossary/?mode=exact&word=na)* *[ju](/glossary/?mode=exact&word=ju)*                                         | *[na](/glossary/?mode=exact&word=na)* *[gi'u](/glossary/?mode=exact&word=gi%27u)*                                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
+| FFTF  | *[na](/glossary/?mode=exact&word=na)* *[.e](/glossary/?mode=exact&word=e)*                                         | *[na](/glossary/?mode=exact&word=na)* *[je](/glossary/?mode=exact&word=je)*                                         | *[na](/glossary/?mode=exact&word=na)* *[gi'e](/glossary/?mode=exact&word=gi%27e)*                                         | *[gi](/glossary/?mode=exact&word=gi)*   | *[gi](/glossary/?mode=exact&word=gi)*   |
 | FFFT  | *[na](/glossary/?mode=exact&word=na)* *[.e](/glossary/?mode=exact&word=e)* *[nai](/glossary/?mode=exact&word=nai)* | *[na](/glossary/?mode=exact&word=na)* *[je](/glossary/?mode=exact&word=je)* *[nai](/glossary/?mode=exact&word=nai)* | *[na](/glossary/?mode=exact&word=na)* *[gi'e](/glossary/?mode=exact&word=gi%27e)* *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* | *[nai](/glossary/?mode=exact&word=nai)* |
 
 Note: ijeks are exactly the same as the corresponding jeks, except for the prefixed *[i](/glossary/?mode=exact&word=i)*.

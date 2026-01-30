@@ -1,4 +1,4 @@
 export const getRandomId = () => {
-  const rnd = crypto.getRandomValues(Buffer.alloc(6));
+  const rnd = crypto.getRandomValues(Buffer.alloc(18));
   return rnd.toString('base64');
 };

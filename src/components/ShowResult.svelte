@@ -9,7 +9,10 @@
 </script>
 
 <section aria-labelledby="results">
-  <h2 id="results">Search Results</h2>
+  {#if results.length > 0}
+    <h2 id="results">Search Results</h2>
+    <p id="match-num">{results.length} {results.length === 1 ? 'word' : 'words'} matched</p>
+  {/if}
   {#each results as result}
     <div>
       <h4>{result.word}</h4>
@@ -28,7 +31,7 @@
     section {
       @apply flow-root;
 
-      > :where(#results) {
+      > :where(#results, #match-num) {
         @apply text-center;
       }
 
