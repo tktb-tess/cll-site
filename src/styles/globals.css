@@ -137,16 +137,12 @@
     @apply font-extralight text-4xl px-4 my-10 text-balance;
   }
 
-  :is(h2, h3) {
-    @apply font-light;
-  }
-
   :is(h2, h3, h4) {
-    @apply ctext-heading;
+    @apply ctext-heading font-normal;
   }
 
   h2 {
-    @apply text-3xl;
+    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance;
   }
 
   h3 {
@@ -154,7 +150,7 @@
   }
 
   h4 {
-    @apply text-xl font-normal;
+    @apply text-xl;
   }
 
   :is(h5, h6) {
