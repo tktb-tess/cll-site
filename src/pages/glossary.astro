@@ -30,7 +30,6 @@ const title = data.find((d) => d.url === url)!.title;
 
 <style lang="postcss">
   @reference '../styles/globals.css';
-  @layer properties, theme, base, components, utilities;
   @layer components {
     main {
       @apply flow-root lg:grid grid-cols-(--cols-glossary) *:min-w-0;

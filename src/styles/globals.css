@@ -11,9 +11,7 @@
   --color-violet-950-dull: oklch(
     from var(--color-violet-950) l calc(c - 0.08) h
   );
-  --color-violet-950-dulldull: oklch(
-    from var(--color-violet-950) calc(l - 0.1) calc(c - 0.1) h
-  );
+  --color-violet-950-dulldull: oklch(from var(--color-violet-950) 10% 0.05 h);
   --color-violet-900-dull: oklch(
     from var(--color-violet-900) l calc(c - 0.06) h
   );
@@ -108,6 +106,11 @@
 }
 
 @layer base {
+  * {
+    @apply wrap-anywhere hyphens-auto;
+    line-break: strict;
+  }
+
   html {
     -webkit-tap-highlight-color: revert;
     @apply max-sm:text-sm;
@@ -133,8 +136,8 @@
     @apply font-extralight text-4xl px-4 my-10 text-balance;
   }
 
-  :is(h2, h3, h4) {
-    @apply font-normal;
+  :is(h2, h3) {
+    @apply font-light;
   }
 
   h2 {
@@ -146,7 +149,7 @@
   }
 
   h4 {
-    @apply text-xl;
+    @apply text-xl font-normal;
   }
 
   :is(h5, h6) {
