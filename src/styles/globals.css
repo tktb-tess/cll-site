@@ -65,7 +65,7 @@
   );
 
   --default-transition-duration: 110ms;
-  --s-paragraph: .75rem;
+  --s-paragraph: 0.75rem;
   --s-heading: 2.5rem;
   --s-header: 3rem;
   --s-footer: 3rem;
@@ -141,6 +141,10 @@
     @apply font-light;
   }
 
+  :is(h2, h3, h4) {
+    @apply ctext-heading;
+  }
+
   h2 {
     @apply text-3xl;
   }
@@ -162,11 +166,7 @@
   }
 
   :is(h2, h3, h4, h5, h6) {
-    @apply mt-(--s-heading);
-  }
-
-  :is(h2, h3, h4, h5) {
-    @apply scroll-mt-[calc(var(--s-header)+.5rem)];
+    @apply mt-(--s-heading) scroll-mt-[calc(var(--s-header)+.5rem)];
   }
 
   img {
@@ -178,7 +178,7 @@
   }
 
   table {
-    @apply lg:max-w-max lg:me-auto;
+    @apply w-max max-w-full me-auto;
 
     :where(thead > tr:last-child) {
       @apply border-b cborder-border2;
@@ -210,15 +210,15 @@
   }
 
   :is(ul, ol) {
-    @apply ps-6;
+    @apply ps-7;
   }
 
-  li > :where(p) {
-    @apply mt-1;
+  li > :where(p, ul, ol) {
+    @apply mt-0;
   }
 
   li > :where(ul, ol) {
-    @apply mt-2;
+    @apply ps-4;
   }
 
   hr {

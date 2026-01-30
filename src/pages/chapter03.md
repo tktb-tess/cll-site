@@ -28,7 +28,7 @@ Lojban pronunciations are defined using the International Phonetic Alphabet, or 
 
 The standard pronunciations and permitted variants of the Lojban letters are listed in the table below. The descriptions have deliberately been made a bit ambiguous to cover variations in pronunciation by speakers of different native languages and dialects. In all cases except *r* the first IPA symbol shown represents the preferred pronunciation; for *r*, all of the variations (and any other rhotic sound) are equally acceptable.
 
-<div class="contents [&_:where(td:nth-child(2))]:font-ipa table-scrollable">
+<div class="contents [&_:where(td:nth-child(2))]:font-ipa">
 
 | Letter | IPA                                                    | X-SAMPA                                                            | Description                                      |
 | ------ | ------------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------ |
@@ -161,7 +161,7 @@ The six Lojban vowels are *a*, *e*, *i*, *o*, *u*, and *y*. The first five vowel
 
 The Lojban diphthongs are shown in the table below. (Variant pronunciations have been omitted, but are much as one would expect based on the variant pronunciations of the separate vowel letters: *ai* may be pronounced :ipa[\[ɑj\]], for example.)
 
-<div class="contents [&_:where(td:nth-child(2))]:font-ipa table-scrollable">
+<div class="contents [&_:where(td:nth-child(2))]:font-ipa">
 
 | Letters | IPA    | Description                               |
 | ------- | ------ | ----------------------------------------- |

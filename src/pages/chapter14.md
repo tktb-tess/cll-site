@@ -378,17 +378,12 @@ It must be reiterated here that not every use of English “if ... then” is pr
 
 :::jbomupli
 
-|     |          |      |       |       |     |     |       |
-| --- | -------- | ---- | ----- | ----- | --- | --- | ----- |
-| le  | nu       | do   | cidja | dunda | fi  | le  | xarju |
-| The | event-of | (you | food  | give  | to  | the | pig)  |
+|     |          |      |       |       |     |     |       |     |        |     |          |     |      |        |
+| --- | -------- | ---- | ----- | ----- | --- | --- | ----- | --- | ------ | --- | -------- | --- | ---- | ------ |
+| le  | nu       | do   | cidja | dunda | fi  | le  | xarju | cu  | rinka  | le  | nu       | ri  | ba   | banro  |
+| The | event-of | (you | food  | give  | to  | the | pig)  |     | causes | the | event-of | (it | will | grow). |
 
 :::
-
-|     |        |     |          |     |      |        |
-| --- | ------ | --- | -------- | --- | ---- | ------ |
-| cu  | rinka  | le  | nu       | ri  | ba   | banro  |
-|     | causes | the | event-of | (it | will | grow). |
 
 Causality is discussed in far more detail in [Section 9.7](/chapter09/#97-modal-sentence-connection-the-causals "9.7. Modal sentence connection: the causals").
 
@@ -495,17 +490,12 @@ The afterthought logical connectives between sumti are eks, which contain a conn
 
 :::jbomupli
 
-|            |       |                        |      |
-| ---------- | ----- | ---------------------- | ---- |
-| la         | djan. |                        | .ije |
-| That-named | John  | \[is/does-something\]. | And  |
+|            |       |                        |      |            |        |         |     |         |
+| ---------- | ----- | ---------------------- | ---- | ---------- | ------ | ------- | --- | ------- |
+| la         | djan. |                        | .ije | la         | .alis. | klama   | le  | zarci   |
+| That-named | John  | \[is/does-something\]. | And  | that-named | Alices | goes-to | the | market. |
 
 :::
-
-|            |        |         |     |         |
-| ---------- | ------ | ------- | --- | ------- |
-| la         | .alis. | klama   | le  | zarci   |
-| that-named | Alices | goes-to | the | market. |
 
 leaving the reader uncertain why John is mentioned at all.
 
@@ -616,17 +606,12 @@ There is an additional difficulty with the use of more than two sentences. What 
 
 :::jbomupli
 
-|     |       |            |       |      |     |       |            |         |
-| --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- |
-| mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. |
-| I   | like  | that-named | John. | And  | I   | like  | that-named | Martha. |
+|     |       |            |       |      |     |       |            |         |      |     |       |            |        |
+| --- | ----- | ---------- | ----- | ---- | --- | ----- | ---------- | ------- | ---- | --- | ----- | ---------- | ------ |
+| mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. | .ija | mi  | nelci | la         | meris. |
+| I   | like  | that-named | John. | And  | I   | like  | that-named | Martha. | Or   | I   | like  | that-named | Mary.  |
 
 :::
-
-|      |     |       |            |        |
-| ---- | --- | ----- | ---------- | ------ |
-| .ija | mi  | nelci | la         | meris. |
-| Or   | I   | like  | that-named | Mary.  |
 
 Does this mean:
 
@@ -646,22 +631,12 @@ Either I like John and I like Martha, or I like Mary, or both.
 
 :::jbomupli
 
-|        |       |     |       |            |       |
-| ------ | ----- | --- | ----- | ---------- | ----- |
-| ga     | ge    | mi  | nelci | la         | djan. |
-| Either | (Both | I   | like  | that-named | John  |
+|        |       |     |       |            |       |     |     |       |            |         |     |     |       |            |        |
+| ------ | ----- | --- | ----- | ---------- | ----- | --- | --- | ----- | ---------- | ------- | --- | --- | ----- | ---------- | ------ |
+| ga     | ge    | mi  | nelci | la         | djan. | gi  | mi  | nelci | la         | martas. | gi  | mi  | nelci | la         | meris. |
+| Either | (Both | I   | like  | that-named | John  | and | I   | like  | that-named | Martha) | or  | I   | like  | that-named | Mary.  |
 
 :::
-
-|     |     |       |            |         |
-| --- | --- | ----- | ---------- | ------- |
-| gi  | mi  | nelci | la         | martas. |
-| and | I   | like  | that-named | Martha) |
-
-|     |     |       |            |        |
-| --- | --- | ----- | ---------- | ------ |
-| gi  | mi  | nelci | la         | meris. |
-| or  | I   | like  | that-named | Mary.  |
 
 is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14.34."), whereas
 
@@ -674,8 +649,6 @@ is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14
 | ge   | mi  | nelci | la         | djan. |
 | Both | I   | like  | that-named | John  |
 
-:::
-
 |     |         |     |       |            |         |
 | --- | ------- | --- | ----- | ---------- | ------- |
 | gi  | ga      | mi  | nelci | la         | martas. |
@@ -685,6 +658,8 @@ is equivalent in meaning to [Example 14.34](/chapter14/#example-1434 "Example 14
 | --- | --- | ----- | ---------- | ------ |
 | gi  | mi  | nelci | la         | meris. |
 | or  | I   | like  | that-named | Mary). |
+
+:::
 
 is not equivalent to [Example 14.34](/chapter14/#example-1434 "Example 14.34."), but is instead a valid translation into Lojban, using forethought, of [Example 14.35](/chapter14/#example-1435 "Example 14.35.").
 
@@ -701,12 +676,12 @@ There are several ways in Lojban to render [Example 14.35](/chapter14/#example-1
 | mi  | nelci | la         | djan. | .ije | mi  | nelci | la         | martas. |
 | I   | like  | that-named | John, | and  | I   | like  | that-named | Martha  |
 
-:::
-
 |        |     |       |            |        |
 | ------ | --- | ----- | ---------- | ------ |
 | .ijabo | mi  | nelci | la         | meris. |
 | or     | I   | like  | that-named | Mary.  |
+
+:::
 
 The English translation feebly indicates with a comma what the Lojban marks far more clearly: the “I like Martha” and “I like Mary” sentences are joined by *[ja](/glossary/?mode=exact&word=ja)* first, before the result is joined to “I like John” by *[je](/glossary/?mode=exact&word=je)*.
 
@@ -743,12 +718,12 @@ where the semantics tells us that the instances of “and” are meant to have h
 | mi  | cinba | do  | .ije\[bo\] | do  | cinba | mi  |
 | I   | kiss  | you | and        | you | kiss  | me, |
 
-:::
-
 |         |     |       |     |        |     |       |     |
 | ------- | --- | ----- | --- | ------ | --- | ----- | --- |
 | .ijanai | mi  | prami | do  | .ijebo | do  | prami | mi  |
 | if      | I   | love  | you | and    | you | love  | me. |
+
+:::
 
 marking two of the ijeks with *[bo](/glossary/?mode=exact&word=bo)* for high precedence. (The first *[bo](/glossary/?mode=exact&word=bo)* is not strictly necessary, because of the left-grouping rule, and is shown here in brackets.)
 
