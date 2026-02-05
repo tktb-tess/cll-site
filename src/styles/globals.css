@@ -6,6 +6,7 @@
     system-ui;
   --font-serif: 'Charis-Web', 'Times New Roman', serif, 'Segoe UI', system-ui;
   --font-ipa: var(--font-serif);
+
   --color-violet-950-dull: oklch(
     from var(--color-violet-950) l calc(c - 0.08) h
   );
@@ -16,6 +17,7 @@
   --color-violet-800-dull: oklch(
     from var(--color-violet-800) l calc(c - 0.06) h
   );
+
   --color-bg: #fff;
   --color-d-bg: var(--color-violet-950-dulldull);
   --color-side: var(--color-violet-50);

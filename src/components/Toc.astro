@@ -27,7 +27,7 @@ interface Props {
 const { contents, class: className, isAside = false } = Astro.props;
 ---
 
-<ul class={className} data-is-aside={isAside}>
+<ul class={className} data-is-aside={isAside || null}>
   {
     contents.map((content) => (
       <li>
@@ -68,7 +68,7 @@ const { contents, class: className, isAside = false } = Astro.props;
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    ul[data-is-aside="true"]:not(li > &) {
+    ul[data-is-aside]:not(li > &) {
       @apply list-none ps-0 flex flex-col gap-0.5 mt-0;
       a {
         @apply block no-underline any-hover:underline opacity-100;
