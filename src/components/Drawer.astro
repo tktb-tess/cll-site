@@ -24,25 +24,31 @@ const { url } = Astro.props;
   @reference '../styles/globals.css';
   @layer components {
     #drawer-backdrop {
-      @apply fixed z-1000 invisible data-drawer-open:visible inset-0 w-dvw h-dvh bg-transparent
-      data-drawer-open:bg-black/40 transition-[background-color,visibility];
+      @apply fixed z-1000 invisible inset-0 w-dvw h-dvh bg-transparent
+      transition-[background-color,visibility] ease-(--tf-ease-in) ;
+
+      &[data-drawer-open] {
+        @apply visible bg-black/40 ease-(--tf-ease-out);
+      }
     }
 
     #drawer {
       @apply -translate-x-full h-full w-64
-      cbg-side overflow-x-auto px-2 py-2 transition-transform;
+      cbg-side overflow-x-auto px-2 py-2 transition-transform duration-160
+      ease-(--tf-ease-in);
 
       :where([data-drawer-open]) > & {
-        @apply translate-x-0;
+        @apply translate-x-0 ease-(--tf-ease-out);
       }
     }
 
     #drawer-close-btn {
-      @apply block ms-auto p-2 hover:text-black/60 transition-colors;
+      @apply block ms-auto p-2 transition-colors
+      any-hover:cbg-sidemenu-bg any-hover:ctext-text-inv rounded-lg;
     }
 
     #drawer-btn {
-      @apply block lg:hidden fixed z-150 top-0 end-8 h-(--s-header) w-auto ms-auto hover:text-black/60 transition-colors;
+      @apply block lg:hidden fixed z-150 top-0 end-8 h-(--s-header) px-1 w-auto ms-auto any-hover:cbg-sidemenu-bg any-hover:ctext-text-inv transition-colors;
     }
 
     :global(:where(html, body):has([data-drawer-open])) {
