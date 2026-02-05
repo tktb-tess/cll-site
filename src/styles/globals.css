@@ -2,11 +2,9 @@
 
 @theme {
   --font-sans:
-    'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
-    'Noto Sans CJK JP', 'Noto Sans SC', 'Segoe UI', sans-serif, system-ui;
-  --font-serif:
-    'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif CJK JP',
-    'Noto Serif SC', 'Segoe UI', serif, system-ui;
+    'Inter-Variable', 'Arial', 'Helvetica Neue', sans-serif, 'Segoe UI',
+    system-ui;
+  --font-serif: 'Charis-Web', 'Times New Roman', serif, 'Segoe UI', system-ui;
   --font-ipa: var(--font-serif);
   --color-violet-950-dull: oklch(
     from var(--color-violet-950) l calc(c - 0.08) h
@@ -124,7 +122,7 @@
 @layer base {
   :is(html, :host) {
     -webkit-tap-highlight-color: revert;
-    @apply wrap-anywhere hyphens-auto max-sm:text-sm;
+    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans;
     line-break: strict;
   }
 
