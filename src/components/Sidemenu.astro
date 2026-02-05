@@ -41,8 +41,8 @@ const { currentUrl, class: className } = Astro.props;
     }
     
     a {
-      @apply block no-underline opacity-100 hover:cbg-sidemenu-bg
-      hover:ctext-sidemenu-text px-3 py-1.5 transition-colors rounded;
+      @apply block no-underline opacity-100 any-hover:cbg-sidemenu-bg
+      any-hover:ctext-sidemenu-text px-3 py-1.5 transition-colors rounded;
 
       &[aria-current="true"] {
         @apply cbg-sidemenu-bg ctext-sidemenu-text;

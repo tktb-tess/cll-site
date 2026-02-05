@@ -71,7 +71,7 @@ const { contents, class: className, isAside = false } = Astro.props;
     ul[data-is-aside="true"]:not(li > &) {
       @apply list-none ps-0 flex flex-col gap-0.5 mt-0;
       a {
-        @apply block no-underline hover:underline opacity-100;
+        @apply block no-underline any-hover:underline opacity-100;
       }
     }
   }
