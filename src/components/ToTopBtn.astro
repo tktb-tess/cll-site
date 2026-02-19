@@ -2,18 +2,16 @@
 interface Props {}
 ---
 
-<button id='to-top-btn' type='button'>
-  <svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'>
-    <path
-      fill='currentColor'
-      d='M18.78 15.78a.749.749 0 0 1-1.06 0L12 10.061 6.28 15.78a.749.749 0 1 1-1.06-1.06l6.25-6.25a.749.749 0 0 1 1.06 0l6.25 6.25a.749.749 0 0 1 0 1.06Z'
-    >
-    </path>
-  </svg>
+<button id='to-top-btn' type='button' title='Scroll to top'>
+  <div class='__arrow'></div>
 </button>
 
 <script>
-  const btn = document.getElementById(`to-top-btn`) as HTMLButtonElement;
+  const btn = document.getElementById(`to-top-btn`);
+
+  if (!(btn instanceof HTMLButtonElement)) {
+    throw TypeError('!');
+  }
 
   btn.addEventListener('click', () => {
     window.scroll({ top: 0, behavior: 'smooth' });
@@ -35,18 +33,24 @@ interface Props {}
   @reference '../styles/globals.css';
   
   #to-top-btn {
-    @apply block invisible fixed right-6 bottom-6
-    p-0.5 rounded-[50%] border cborder-sidemenu-bg
-    bg-transparent any-hover:cbg-sidemenu-bg any-hover:ctext-sidemenu-text
-    transition-[color,background-color,opacity,visibility]
-    opacity-0 size-10 cursor-pointer;
+    @apply hidden fixed right-5 bottom-5
+    p-0.5 rounded size-10
+    cbg-accent opacity-0 any-hover:cbg-accent-hover
+    transition-[background-color,opacity,display] allow-discrete;
+
+    
 
     &[data-visible] {
-      @apply opacity-100 visible;
+      @apply block;
+
+      @starting-style {
+        @apply opacity-0;
+      }
     }
 
-    svg {
-      @apply inline-block align-baseline;
+    .__arrow {
+      @apply size-4 border-l border-t cborder-text-inv;
+      transform: translateY(-1rem) rotateZ(45deg);
     }
   }
 </style>

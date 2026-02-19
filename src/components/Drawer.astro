@@ -8,7 +8,6 @@ interface Props {
 const { url } = Astro.props;
 ---
 
-
 <div id='drawer-backdrop'>
   <aside id='drawer'>
     <button id='drawer-close-btn' type='button' title='Close sidemenu'>
@@ -42,11 +41,7 @@ const { url } = Astro.props;
 
     #drawer-close-btn {
       @apply block ms-auto p-2 transition-colors
-      any-hover:cbg-sidemenu-bg any-hover:ctext-text-inv rounded-lg;
-    }
-
-    #drawer-btn {
-      @apply block lg:hidden fixed z-150 top-0 end-8 h-(--s-header) px-1 w-auto ms-auto any-hover:cbg-sidemenu-bg any-hover:ctext-text-inv transition-colors;
+      any-hover:cbg-accent any-hover:ctext-text-inv rounded-lg;
     }
 
     :global(:where(html, body):has([data-drawer-open])) {

@@ -10,6 +10,8 @@
   --default-font-feature-settings:
     'case', 'cv01', 'cv05', 'cv08', 'cv10', 'cv07', 'ss03';
 
+  --feature-tnum: var(--default-font-feature-settings), 'tnum';
+
   --color-violet-950-grayish: oklch(
     from var(--color-violet-950) l calc(c * 0.6) h
   );
@@ -27,6 +29,16 @@
   --color-d-side: var(--color-violet-950-grayish);
   --color-accent: var(--color-violet-950-grayish);
   --color-d-accent: var(--color-violet-50);
+  --color-accent-hover: color-mix(
+    in oklch,
+    var(--color-accent) 60%,
+    transparent
+  );
+  --color-d-accent-hover: color-mix(
+    in oklch,
+    var(--color-d-accent) 60%,
+    transparent
+  );
   --color-border: hsl(0 0 0 / 25%);
   --color-border-darker: hsl(0 0 0 / 40%);
   --color-d-border: hsl(0 0 100 / 25%);
@@ -35,8 +47,8 @@
   --color-d-text: #fff;
   --color-text-inv: #fff;
   --color-d-text-inv: #000;
-  --color-link: var(--color-blue-600);
-  --color-d-link: var(--color-sky-300);
+  --color-link: var(--color-blue-700);
+  --color-d-link: var(--color-sky-400);
   --color-link-disabled: hsl(0 0 0 / 60%);
   --color-d-link-disabled: hsl(0 0 100 / 60%);
 
@@ -59,6 +71,17 @@
     to bottom in oklch,
     var(--color-d-accent-2-s),
     var(--color-d-accent-2-e)
+  );
+
+  --grad-header: linear-gradient(
+    in oklch,
+    transparent,
+    oklch(from var(--color-violet-700) l c h / 10%)
+  );
+  --grad-d-header: linear-gradient(
+    in oklch,
+    oklch(from var(--color-violet-400) l c h / 40%),
+    transparent
   );
 
   --default-transition-duration: 110ms;
@@ -118,6 +141,10 @@
       @slot;
     }
   }
+}
+
+@utility font-feat-* {
+  font-feature-settings: --value(--feature-*, [*]);
 }
 
 @utility user-select-* {
@@ -191,7 +218,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance;
+    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance font-feat-tnum;
   }
 
   h3 {
@@ -291,7 +318,7 @@
 
   .jbomupli {
     @apply flex flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      gbg-accent-2 border cborder-border rounded;
+      cbg-side border cborder-border rounded gbg-header;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];

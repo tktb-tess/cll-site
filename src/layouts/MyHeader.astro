@@ -18,13 +18,17 @@ interface Props {}
   @reference '../styles/globals.css';
   @layer components {
     .header {
-      @apply flex h-full items-center *:mb-0 *:min-w-0 px-8;
+      @apply flex h-full items-center *:mb-0 *:min-w-0 px-8 cbg-side gbg-header;
+    }
+
+    #drawer-btn {
+      @apply grid lg:hidden h-full place-items-center
+      any-hover:cbg-accent any-hover:ctext-text-inv transition-colors;
     }
 
     :where(a) {
-      @apply flex gap-1 no-underline items-center h-full
+      @apply flex gap-1 no-underline items-center h-full ctext-accent
       any-hover:cbg-accent any-hover:ctext-text-inv transition-colors ps-1 pe-2;
     }
   }
-  
 </style>

@@ -9,9 +9,9 @@ interface Props {
 const lis = data.map(({ title, longTitle, url }, i) => {
   const cond = i === 0;
   return {
-    title: cond ? 'Top' : title,
+    title: cond ? 'Home' : title,
     url: url,
-    long: cond ? 'Top Page' : (longTitle ?? title),
+    long: cond ? 'Home' : (longTitle ?? title),
   };
 });
 
@@ -41,11 +41,11 @@ const { currentUrl, class: className } = Astro.props;
     }
     
     a {
-      @apply block no-underline opacity-100 any-hover:cbg-sidemenu-bg
-      any-hover:ctext-sidemenu-text px-3 py-1.5 transition-colors rounded;
+      @apply block no-underline opacity-100 ctext-text
+      any-hover:cbg-accent any-hover:ctext-text-inv px-3 py-1.5 transition-colors rounded;
 
       &[aria-current="true"] {
-        @apply cbg-sidemenu-bg ctext-sidemenu-text;
+        @apply cbg-accent ctext-text-inv;
       }
     }
   }

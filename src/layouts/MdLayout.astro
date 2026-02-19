@@ -107,7 +107,7 @@ const contents = getContents();
       </div>
     </aside>
     <Drawer {url} />
-    <main title='The text'>
+    <main aria-labelledby='title'>
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
@@ -147,7 +147,7 @@ const contents = getContents();
     }
 
     header {
-      @apply h-(--s-header);
+      @apply h-(--s-header) sticky top-0 z-(--z-header);
       grid-area: h;
     }
 
@@ -162,8 +162,6 @@ const contents = getContents();
     .__lside, .__rside {
       @apply max-lg:hidden;
     }
-
-    
 
     .__sidebar-root {
       @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
