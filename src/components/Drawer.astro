@@ -8,9 +8,7 @@ interface Props {
 const { url } = Astro.props;
 ---
 
-<button type='button' id='drawer-btn' title='Open sidemenu'>
-  <ListIcon class='size-6 inline-block' />
-</button>
+
 <div id='drawer-backdrop'>
   <aside id='drawer'>
     <button id='drawer-close-btn' type='button' title='Close sidemenu'>
@@ -24,21 +22,21 @@ const { url } = Astro.props;
   @reference '../styles/globals.css';
   @layer components {
     #drawer-backdrop {
-      @apply fixed z-1000 invisible inset-0 w-dvw h-dvh bg-transparent
-      transition-[background-color,visibility] ease-(--tf-ease-in) ;
+      @apply fixed z-(--z-drawer) invisible inset-0 bg-transparent
+      transition-[background-color,visibility] allow-discrete ease-in-out-1 duration-200;
 
       &[data-drawer-open] {
-        @apply visible bg-black/40 ease-(--tf-ease-out);
+        @apply visible bg-black/40;
       }
     }
 
     #drawer {
-      @apply -translate-x-full h-full w-64
-      cbg-side overflow-x-auto px-2 py-2 transition-transform duration-160
-      ease-(--tf-ease-in);
+      @apply fixed inset-0 w-64 me-auto -translate-x-full
+      cbg-side overflow-x-auto px-2 py-2 transition-transform duration-200
+      ease-in-out-1;
 
       :where([data-drawer-open]) > & {
-        @apply translate-x-0 ease-(--tf-ease-out);
+        @apply translate-x-0;
       }
     }
 
@@ -58,19 +56,26 @@ const { url } = Astro.props;
 </style>
 
 <script>
-  const drawerBackdrop = document.getElementById(
-    'drawer-backdrop',
-  ) as HTMLDivElement;
-  const drawerBtn = document.getElementById('drawer-btn') as HTMLButtonElement;
-  const drawerCloseBtn = document.getElementById(
-    'drawer-close-btn',
-  ) as HTMLButtonElement;
+  const drawerBackdrop = document.getElementById('drawer-backdrop');
+  const drawerBtn = document.getElementById('drawer-btn');
+  const drawerCloseBtn = document.getElementById('drawer-close-btn');
+
+  if (
+    !(
+      drawerBackdrop instanceof HTMLDivElement &&
+      drawerBtn instanceof HTMLButtonElement &&
+      drawerCloseBtn instanceof HTMLButtonElement
+    )
+  ) {
+    throw Error('!');
+  }
+
   drawerBtn.addEventListener('click', () => {
     drawerBackdrop.dataset.drawerOpen = '';
 
     setTimeout(() => {
       drawerCloseBtn.focus();
-    }, 10);
+    }, 200);
   });
 
   drawerBackdrop.addEventListener('click', (ev) => {

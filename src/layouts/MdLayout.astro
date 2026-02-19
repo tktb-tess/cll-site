@@ -94,33 +94,37 @@ const getContents = () => {
 const contents = getContents();
 ---
 
-<Head title={shortTitle} {url} description={frontmatter.description}>
-  <MyHeader />
-  <main>
-    <Drawer {url} />
-    <aside>
-      <div class='__sidebar-root'>
-        <Sidemenu currentUrl={url} />
-      </div>
-    </aside>
-    <section aria-label='The text'>
-      <h1 id='title'>{frontmatter.title}</h1>
-      {
-        imgData && (
-          <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
-        )
-      }
-      <slot />
-    </section>
-    <aside>
-      <div class='__sidebar-root px-3'>
-        <Toc {contents} isAside />
-      </div>
-    </aside>
-  </main>
-  <MyFooter />
-  <ToTopBtn />
-</Head>
+<!doctype html>
+<html>
+  <Head title={shortTitle} {url} description={frontmatter.description} />
+  <body>
+    <MyHeader />
+    <main>
+      <Drawer {url} />
+      <aside>
+        <div class='__sidebar-root'>
+          <Sidemenu currentUrl={url} />
+        </div>
+      </aside>
+      <section aria-label='The text'>
+        <h1 id='title'>{frontmatter.title}</h1>
+        {
+          imgData && (
+            <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
+          )
+        }
+        <slot />
+      </section>
+      <aside>
+        <div class='__sidebar-root px-3'>
+          <Toc {contents} isAside />
+        </div>
+      </aside>
+    </main>
+    <MyFooter />
+    <ToTopBtn />
+  </body>
+</html>
 
 <style lang="postcss">
   @reference '../styles/globals.css';

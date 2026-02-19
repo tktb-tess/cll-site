@@ -15,19 +15,13 @@ const siteName = data[0].title;
 const miniTitle = siteName === title ? title : `${title} | CLL`;
 ---
 
-<!doctype html>
-<html lang='en'>
-  <head>
-    <meta charset='utf-8' />
-    <meta name='viewport' content='width=device-width,initial-scale=1' />
-    <meta name='generator' content={Astro.generator} />
-    <meta name='color-scheme' content='light dark' />
-    <Loads />
-    <link rel='icon' href='/icon.svg' type='image/svg+xml' />
-    <OGP title={miniTitle} {url} {description} />
-    <title>{miniTitle}</title>
-  </head>
-  <body>
-    <slot />
-  </body>
-</html>
+<head>
+  <meta charset='utf-8' />
+  <meta name='viewport' content='width=device-width,initial-scale=1' />
+  <meta name='generator' content={Astro.generator} />
+  <meta name='color-scheme' content='light dark' />
+  <Loads />
+  <link rel='icon' href='/icon.svg' type='image/svg+xml' />
+  <OGP title={miniTitle} {url} {description} />
+  <title>{miniTitle}</title>
+</head>

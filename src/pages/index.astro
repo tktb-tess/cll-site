@@ -17,19 +17,25 @@ const mds = data.slice(1).map((d): H2Content => {
 const { title, url } = data.at(0)!;
 ---
 
-<Head {title} {url}>
-  <main>
-    <h1 id='title'>
-      The <span class='text-red-600'>C</span>omplete
-      <span class='text-blue-600'>L</span>ojban
-      <span class='text-red-600'>L</span>anguage Viewer
-    </h1>
-    <JboLogo class='max-w-95 w-full mx-auto my-6 [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]' />
-    <Toc contents={mds} />
-  </main>
-  <MyFooter />
-  <ToTopBtn />
-</Head>
+<!doctype html>
+<html>
+  <Head {title} {url} />
+  <body>
+    <main>
+      <h1 id='title'>
+        The <span class='text-red-600'>C</span>omplete
+        <span class='text-blue-600'>L</span>ojban
+        <span class='text-red-600'>L</span>anguage Viewer
+      </h1>
+      <JboLogo
+        class='max-w-95 w-full mx-auto my-6 [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]'
+      />
+      <Toc contents={mds} />
+    </main>
+    <MyFooter />
+    <ToTopBtn />
+  </body>
+</html>
 
 <style lang="postcss">
   @reference '../styles/globals.css';
