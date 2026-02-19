@@ -2,48 +2,55 @@
 
 @theme {
   --font-sans:
-    'Inter-Variable', 'Arial', 'Helvetica Neue', 'Noto Sans JP',
-    'Noto Sans CJK JP', 'Noto Sans SC', 'Segoe UI', sans-serif, system-ui;
-  --font-serif:
-    'Charis-Web', 'Times New Roman', 'Noto Serif JP', 'Noto Serif CJK JP',
-    'Noto Serif SC', 'Segoe UI', serif, system-ui;
+    'Inter-Variable', 'Arial', 'Helvetica Neue', sans-serif, 'Segoe UI',
+    system-ui;
+  --font-serif: 'Charis-Web', 'Times New Roman', serif, 'Segoe UI', system-ui;
   --font-ipa: var(--font-serif);
-  --color-violet-950-dull: oklch(
-    from var(--color-violet-950) l calc(c - 0.08) h
+
+  --default-font-feature-settings:
+    'case', 'cv01', 'cv05', 'cv08', 'cv10', 'cv07', 'ss03';
+
+  --feature-tnum: var(--default-font-feature-settings), 'tnum';
+
+  --color-violet-950-grayish: oklch(
+    from var(--color-violet-950) l calc(c * 0.6) h
   );
-  --color-violet-950-dulldull: oklch(from var(--color-violet-950) 10% 0.05 h);
-  --color-violet-900-dull: oklch(
-    from var(--color-violet-900) l calc(c - 0.06) h
+  --color-violet-950-darker: oklch(from var(--color-violet-950) 10% 0.05 h);
+  --color-violet-900-grayish: oklch(
+    from var(--color-violet-900) l calc(c * 0.6) h
   );
-  --color-violet-800-dull: oklch(
-    from var(--color-violet-800) l calc(c - 0.06) h
+  --color-violet-800-grayish: oklch(
+    from var(--color-violet-800) l calc(c * 0.6) h
   );
+
   --color-bg: #fff;
-  --color-d-bg: var(--color-violet-950-dulldull);
+  --color-d-bg: var(--color-violet-950-darker);
   --color-side: var(--color-violet-50);
-  --color-d-side: var(--color-violet-950-dull);
-  --color-accent-s: var(--color-violet-100);
-  --color-accent-e: var(--color-violet-200);
-  --color-d-accent-s: var(--color-violet-800-dull);
-  --color-d-accent-e: var(--color-violet-900-dull);
-  --color-accent-2-s: var(--color-violet-50);
-  --color-accent-2-e: var(--color-violet-100);
-  --color-d-accent-2-s: var(--color-violet-900-dull);
-  --color-d-accent-2-e: var(--color-violet-950-dull);
-  --color-border: var(--color-slate-400);
-  --color-d-border: var(--color-slate-500);
-  --color-border2: var(--color-slate-600);
-  --color-d-border2: var(--color-slate-300);
+  --color-d-side: var(--color-violet-950-grayish);
+  --color-accent: var(--color-violet-950-grayish);
+  --color-d-accent: var(--color-violet-50);
+  --color-accent-hover: color-mix(
+    in oklch,
+    var(--color-accent) 60%,
+    transparent
+  );
+  --color-d-accent-hover: color-mix(
+    in oklch,
+    var(--color-d-accent) 60%,
+    transparent
+  );
+  --color-border: hsl(0 0 0 / 25%);
+  --color-border-darker: hsl(0 0 0 / 40%);
+  --color-d-border: hsl(0 0 100 / 25%);
+  --color-d-border-darker: hsl(0 0 100 / 40%);
   --color-text: #000;
   --color-d-text: #fff;
   --color-text-inv: #fff;
   --color-d-text-inv: #000;
-  --color-heading: var(--color-violet-950);
-  --color-d-heading: var(--color-violet-50);
-  --color-sidemenu-bg: var(--color-violet-950-dull);
-  --color-d-sidemenu-bg: var(--color-violet-400);
-  --color-sidemenu-text: #fff;
-  --color-d-sidemenu-text: #000;
+  --color-link: var(--color-blue-700);
+  --color-d-link: var(--color-sky-400);
+  --color-link-disabled: hsl(0 0 0 / 60%);
+  --color-d-link-disabled: hsl(0 0 100 / 60%);
 
   --grad-accent: linear-gradient(
     to bottom in oklch,
@@ -66,6 +73,17 @@
     var(--color-d-accent-2-e)
   );
 
+  --grad-header: linear-gradient(
+    in oklch,
+    transparent,
+    oklch(from var(--color-violet-700) l c h / 10%)
+  );
+  --grad-d-header: linear-gradient(
+    in oklch,
+    oklch(from var(--color-violet-400) l c h / 40%),
+    transparent
+  );
+
   --default-transition-duration: 110ms;
 
   --s-paragraph: 0.75rem;
@@ -74,12 +92,16 @@
   --s-footer: 3rem;
   --s-figure: 2rem;
 
-  --cols-main: minmax(min(18rem, 50%), 1fr) minmax(0, 80rem)
-    minmax(min(18rem, 50%), 1fr);
-  --cols-glossary: minmax(min(18rem, 100%), 1fr) minmax(0, 98rem);
+  --min-w-side: 16rem;
+  --max-w-main: 80rem;
 
-  --tf-ease-in: cubic-bezier(0.5, 0, 1, 0.5);
-  --tf-ease-out: cubic-bezier(0, 0.5, 0.5, 1);
+  --ease-in-1: cubic-bezier(0.5, 0, 1, 0.5);
+  --ease-out-1: cubic-bezier(0, 0.5, 0.5, 1);
+  --ease-in-out-1: cubic-bezier(0, 0.25, 0.1, 1);
+
+  --z-drawer: 1000;
+  --z-header: 100;
+  --z-sidebar: 0;
 }
 
 @utility cbg-* {
@@ -121,26 +143,69 @@
   }
 }
 
+@utility font-feat-* {
+  font-feature-settings: --value(--feature-*, [*]);
+}
+
+@utility user-select-* {
+  user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
+}
+
+@utility cols-auto-fill-* {
+  grid-template-columns: repeat(
+    auto-fill,
+    min(calc(var(--spacing) * --value(integer)), 100%),
+    1fr
+  );
+}
+
+@utility cols-auto-fit-* {
+  grid-template-columns: repeat(
+    auto-fit,
+    min(calc(var(--spacing) * --value(integer)), 100%),
+    1fr
+  );
+}
+
+@utility grid-cols-auto-* {
+  grid-template-columns: repeat(--value(integer), auto);
+}
+
+@utility grid-cols-max-* {
+  grid-template-columns: repeat(--value(integer), max-content);
+}
+
+@utility allow-discrete {
+  @supports (transition-behavior: allow-discrete) {
+    transition-behavior: allow-discrete;
+  }
+}
+
 @layer base {
-  :is(html, :host) {
+  :root {
     -webkit-tap-highlight-color: revert;
-    @apply wrap-anywhere hyphens-auto max-sm:text-sm;
+    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans;
     line-break: strict;
   }
 
   body {
-    @apply cbg-side flow-root ctext-text;
+    @apply cbg-side ctext-text;
   }
 
-  a {
-    @apply underline any-hover:opacity-60 transition-opacity;
+  a:where(:any-link) {
+    @apply any-hover:underline ctext-link;
+  }
+
+  a[aria-disabled='true'] {
+    @apply ctext-link-disabled;
   }
 
   button {
     @apply cursor-pointer;
   }
 
-  input[type='text'] {
+  input[type='text'],
+  textarea {
     @apply font-mono border cborder-border rounded px-1;
   }
 
@@ -149,11 +214,11 @@
   }
 
   :is(h2, h3, h4) {
-    @apply ctext-heading font-normal;
+    @apply ctext-accent font-normal;
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance;
+    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance font-feat-tnum;
   }
 
   h3 {
@@ -164,15 +229,24 @@
     @apply text-xl;
   }
 
-  :is(h5, h6) {
+  h5,
+  h6 {
     @apply font-semibold text-base;
   }
 
-  :is(p, ul, ol, pre, blockquote) {
+  p,
+  ul,
+  ol,
+  pre,
+  blockquote {
     @apply mt-(--s-paragraph);
   }
 
-  :is(h2, h3, h4, h5, h6) {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     @apply mt-(--s-heading) scroll-mt-[calc(var(--s-header)+.5rem)];
   }
 
@@ -180,15 +254,17 @@
     @apply mx-auto w-full max-w-max my-(--s-figure);
   }
 
-  :is(b, strong) {
+  b,
+  strong,
+  th {
     @apply font-semibold;
   }
 
   table {
-    @apply w-max max-w-full me-auto;
+    @apply w-max max-w-full me-auto whitespace-nowrap;
 
     :where(thead > tr:last-child) {
-      @apply border-b cborder-border2;
+      @apply border-b cborder-border-darker;
     }
 
     :where(tr:not(:last-child)) {
@@ -196,7 +272,7 @@
     }
 
     :where(td, th) {
-      @apply text-base py-1.25 px-2.25;
+      @apply text-base py-1 px-2;
     }
 
     :where(th) {
@@ -216,15 +292,16 @@
     @apply list-decimal;
   }
 
-  :is(ul, ol) {
+  ul,
+  ol {
     @apply ps-7;
   }
 
-  li > :where(p, ul, ol) {
+  li > :is(p, ul, ol) {
     @apply mt-0;
   }
 
-  li > :where(ul, ol) {
+  li > :is(ul, ol) {
     @apply ps-4;
   }
 
@@ -241,7 +318,7 @@
 
   .jbomupli {
     @apply flex flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
-      gbg-accent-2 border cborder-border rounded;
+      cbg-side border cborder-border rounded gbg-header;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];
@@ -255,32 +332,4 @@
       }
     }
   }
-}
-
-@utility user-select-* {
-  user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
-}
-
-@utility grid-cols-auto-fill-* {
-  grid-template-columns: repeat(
-    auto-fill,
-    min(calc(var(--spacing) * --value(integer)), 100%),
-    1fr
-  );
-}
-
-@utility grid-cols-auto-fit-* {
-  grid-template-columns: repeat(
-    auto-fit,
-    min(calc(var(--spacing) * --value(integer)), 100%),
-    1fr
-  );
-}
-
-@utility grid-cols-auto-* {
-  grid-template-columns: repeat(--value(integer), auto);
-}
-
-@utility grid-cols-max-* {
-  grid-template-columns: repeat(--value(integer), max-content);
 }

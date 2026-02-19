@@ -32,7 +32,11 @@ const title = data.find((d) => d.url === url)!.title;
   @reference '../styles/globals.css';
   @layer components {
     main {
-      @apply flow-root lg:grid grid-cols-(--cols-glossary) *:min-w-0;
+      @apply flow-root lg:grid *:min-w-0;
+
+      grid-template-columns: 
+        minmax(min(var(--min-w-side), 100%), 1fr)
+        minmax(0, calc(var(--max-w-main) + var(--min-w-side)));
 
       > :where(aside) {
         @apply hidden lg:block;
