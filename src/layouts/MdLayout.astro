@@ -98,30 +98,32 @@ const contents = getContents();
 <html>
   <Head title={shortTitle} {url} description={frontmatter.description} />
   <body>
-    <MyHeader />
-    <main>
-      <Drawer {url} />
-      <aside>
-        <div class='__sidebar-root'>
-          <Sidemenu currentUrl={url} />
-        </div>
-      </aside>
-      <section aria-label='The text'>
-        <h1 id='title'>{frontmatter.title}</h1>
-        {
-          imgData && (
-            <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
-          )
-        }
-        <slot />
-      </section>
-      <aside>
-        <div class='__sidebar-root px-3'>
-          <Toc {contents} isAside />
-        </div>
-      </aside>
+    <header>
+      <MyHeader />
+    </header>
+    <aside class='__lside'>
+      <div class='__sidebar-root'>
+        <Sidemenu currentUrl={url} />
+      </div>
+    </aside>
+    <Drawer {url} />
+    <main title='The text'>
+      <h1 id='title'>{frontmatter.title}</h1>
+      {
+        imgData && (
+          <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
+        )
+      }
+      <slot />
     </main>
-    <MyFooter />
+    <aside class='__rside'>
+      <div class='__sidebar-root px-3'>
+        <Toc {contents} isAside />
+      </div>
+    </aside>
+    <footer>
+      <MyFooter />
+    </footer>
     <ToTopBtn />
   </body>
 </html>
@@ -129,21 +131,53 @@ const contents = getContents();
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
+    body {
+      @apply flow-root lg:grid min-h-lvh;
+
+      grid-template-areas: 
+        'h h h'
+        'l m r'
+        'f f f';
+
+      grid-template-columns:
+        minmax(min(var(--min-w-side), 50%), 1fr)
+        minmax(0, var(--max-w-main))
+        minmax(min(var(--min-w-side), 50%), 1fr);
+      grid-template-rows: auto 1fr auto;
+    }
+
+    header {
+      @apply h-(--s-header);
+      grid-area: h;
+    }
+
+    .__lside {
+      grid-area: l;
+    }
+
+    .__rside {
+      grid-area: r;
+    }
+
+    .__lside, .__rside {
+      @apply max-lg:hidden;
+    }
+
+    
+
+    .__sidebar-root {
+      @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
+      top-(--s-header) z-(--z-sidebar) px-1 py-2;
+    }
+
     main {
-      @apply flow-root lg:grid grid-cols-(--cols-main) *:min-w-0;
+      @apply flow-root cbg-bg px-4;
+      grid-area: m;
+    }
 
-      > :where(aside) {
-        @apply hidden lg:block;
-      }
-
-      :where(.__sidebar-root) {
-        @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
-        top-(--s-header) z-0 px-1 py-2;
-      }
-
-      > :where(section) {
-        @apply flow-root cbg-bg px-4;
-      }
+    footer {
+      @apply h-max;
+      grid-area: f;
     }
   }
 </style>

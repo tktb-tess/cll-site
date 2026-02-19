@@ -37,6 +37,8 @@
   --color-d-text-inv: #000;
   --color-link: var(--color-blue-600);
   --color-d-link: var(--color-sky-300);
+  --color-link-disabled: hsl(0 0 0 / 60%);
+  --color-d-link-disabled: hsl(0 0 100 / 60%);
 
   --grad-accent: linear-gradient(
     to bottom in oklch,
@@ -67,13 +69,8 @@
   --s-footer: 3rem;
   --s-figure: 2rem;
 
-  --min-w-side: 17rem;
+  --min-w-side: 16rem;
   --max-w-main: 80rem;
-
-  --cols-main: minmax(min(var(--min-w-side), 50%), 1fr)
-    minmax(0, var(--max-w-main)) minmax(min(var(--min-w-side), 50%), 1fr);
-  --cols-glossary: minmax(min(var(--min-w-side), 100%), 1fr)
-    minmax(0, calc(var(--max-w-main) + var(--min-w-side)));
 
   --ease-in-1: cubic-bezier(0.5, 0, 1, 0.5);
   --ease-out-1: cubic-bezier(0, 0.5, 0.5, 1);
@@ -81,6 +78,7 @@
 
   --z-drawer: 1000;
   --z-header: 100;
+  --z-sidebar: 0;
 }
 
 @utility cbg-* {
@@ -126,7 +124,7 @@
   user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
 }
 
-@utility grid-cols-auto-fill-* {
+@utility cols-auto-fill-* {
   grid-template-columns: repeat(
     auto-fill,
     min(calc(var(--spacing) * --value(integer)), 100%),
@@ -134,7 +132,7 @@
   );
 }
 
-@utility grid-cols-auto-fit-* {
+@utility cols-auto-fit-* {
   grid-template-columns: repeat(
     auto-fit,
     min(calc(var(--spacing) * --value(integer)), 100%),
@@ -164,18 +162,23 @@
   }
 
   body {
-    @apply cbg-side flow-root ctext-text;
+    @apply cbg-side ctext-text;
   }
 
-  a:any-link {
+  a:where(:any-link) {
     @apply any-hover:underline ctext-link;
+  }
+
+  a[aria-disabled='true'] {
+    @apply ctext-link-disabled;
   }
 
   button {
     @apply cursor-pointer;
   }
 
-  input[type='text'], textarea {
+  input[type='text'],
+  textarea {
     @apply font-mono border cborder-border rounded px-1;
   }
 
