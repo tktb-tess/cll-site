@@ -35,7 +35,7 @@ const { url } = Astro.props;
       ease-in-out-1;
       scrollbar-width: thin;
 
-      :where([data-drawer-open]) > & {
+      [data-drawer-open] > & {
         @apply translate-x-0;
       }
     }
