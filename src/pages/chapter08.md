@@ -98,17 +98,12 @@ That thing which the cat dragged is a rat.
 
 :::jbomupli
 
-|            |             |     |        |     |           |
-| ---------- | ----------- | --- | ------ | --- | --------- |
-| ta         | poi         | mi  | djica  | le  | nu        |
-| That-thing | such-that-( | I   | desire | the | event-of( |
+|            |             |     |        |     |           |     |       |      |         |      |     |            |
+| ---------- | ----------- | --- | ------ | --- | --------- | --- | ----- | ---- | ------- | ---- | --- | ---------- |
+| ta         | poi         | mi  | djica  | le  | nu        | mi  | ponse | ke'a | \[kei\] | ku'o | cu  | bloti      |
+| That-thing | such-that-( | I   | desire | the | event-of( | I   | own   | IT   | )       | )    |     | is-a-boat. |
 
 :::
-
-|     |       |      |         |      |     |            |
-| --- | ----- | ---- | ------- | ---- | --- | ---------- |
-| mi  | ponse | ke'a | \[kei\] | ku'o | cu  | bloti      |
-| I   | own   | IT   | )       | )    |     | is-a-boat. |
 
 That thing that I want to own is a boat.
 
@@ -365,17 +360,12 @@ Here is an example of *[po'e](/glossary/?mode=exact&word=po%27e)*, as well as an
 
 :::jbomupli
 
-|     |       |       |                  |     |              |
-| --- | ----- | ----- | ---------------- | --- | ------------ |
-| le  | birka | poi   | jinzi            | ke  | se steci     |
-| The | arm   | which | is-intrinsically | (   | specifically |
+|     |       |       |                  |     |              |                  |     |     |            |
+| --- | ----- | ----- | ---------------- | --- | ------------ | ---------------- | --- | --- | ---------- |
+| le  | birka | poi   | jinzi            | ke  | se steci     | srana            | mi  | cu  | spofu      |
+| The | arm   | which | is-intrinsically | (   | specifically | associated-with) | me  |     | is-broken. |
 
 :::
-
-|                  |     |     |            |
-| ---------------- | --- | --- | ---------- |
-| srana            | mi  | cu  | spofu      |
-| associated-with) | me  |     | is-broken. |
 
 ##### Example 8.24.
 
@@ -604,17 +594,12 @@ It is perfectly correct to use *[zi'e](/glossary/?mode=exact&word=zi%27e)* to co
 
 :::jbomupli
 
-|     |       |         |         |      |                        |
-| --- | ----- | ------- | ------- | ---- | ---------------------- |
-| le  | gerku | poi     | blabi   | zi'e | noi                    |
-| The | dog   | that-is | (white) | and  | incidentally-such-that |
+|     |       |         |         |      |                        |     |     |        |     |       |      |     |       |
+| --- | ----- | ------- | ------- | ---- | ---------------------- | --- | --- | ------ | --- | ----- | ---- | --- | ----- |
+| le  | gerku | poi     | blabi   | zi'e | noi                    | le  | mi  | pendo  | cu  | ponse | ke'a | cu  | klama |
+| The | dog   | that-is | (white) | and  | incidentally-such-that | (-  | my  | friend |     | owns  | IT   | )   | goes. |
 
 :::
-
-|     |     |        |     |       |      |     |       |
-| --- | --- | ------ | --- | ----- | ---- | --- | ----- |
-| le  | mi  | pendo  | cu  | ponse | ke'a | cu  | klama |
-| (-  | my  | friend |     | owns  | IT   | )   | goes. |
 
 The dog that is white, which my friend owns, is going.
 
@@ -641,17 +626,12 @@ Note that if the colloquial translation of [Example 8.40](/chapter08/#example-84
 
 :::jbomupli
 
-|     |            |        |     |       |                 |
-| --- | ---------- | ------ | --- | ----- | --------------- |
-| mi  | ba         | zutse  | le  | stizu | pe              |
-| I   | \[future\] | sit-in | the | chair | associated-with |
+|     |            |        |     |       |                 |     |      |             |     |      |       |         |
+| --- | ---------- | ------ | --- | ----- | --------------- | --- | ---- | ----------- | --- | ---- | ----- | ------- |
+| mi  | ba         | zutse  | le  | stizu | pe              | mi  | zi'e | po          | do  | zi'e | poi   | xunre   |
+| I   | \[future\] | sit-in | the | chair | associated-with | me  | and  | specific-to | you | and  | which | is-red. |
 
 :::
-
-|     |      |             |     |      |       |         |
-| --- | ---- | ----------- | --- | ---- | ----- | ------- |
-| mi  | zi'e | po          | do  | zi'e | poi   | xunre   |
-| me  | and  | specific-to | you | and  | which | is-red. |
 
 I will sit in my chair (really yours), the red one.
 
@@ -663,17 +643,12 @@ Here is another example, mixing a relative phrase and two relative clauses, a re
 
 :::jbomupli
 
-|     |            |       |     |       |                 |     |      |       |          |
-| --- | ---------- | ----- | --- | ----- | --------------- | --- | ---- | ----- | -------- |
-| mi  | ba         | citka | le  | dembi | pe              | mi  | zi'e | poi   | cpana    |
-| I   | \[future\] | eat   | the | beans | associated-with | me  | and  | which | are-upon |
+|     |            |       |     |       |                 |     |      |       |          |     |     |       |      |                    |     |       |      |     |     |
+| --- | ---------- | ----- | --- | ----- | --------------- | --- | ---- | ----- | -------- | --- | --- | ----- | ---- | ------------------ | --- | ----- | ---- | --- | --- |
+| mi  | ba         | citka | le  | dembi | pe              | mi  | zi'e | poi   | cpana    | le  | mi  | palta | zi'e | noi                | do  | dunda | ke'a |     | mi  |
+| I   | \[future\] | eat   | the | beans | associated-with | me  | and  | which | are-upon |     | my  | plate | and  | which-incidentally | you | gave  | IT   | to  | me. |
 
 :::
-
-|     |     |       |      |                    |     |       |      |     |     |
-| --- | --- | ----- | ---- | ------------------ | --- | ----- | ---- | --- | --- |
-| le  | mi  | palta | zi'e | noi                | do  | dunda | ke'a |     | mi  |
-|     | my  | plate | and  | which-incidentally | you | gave  | IT   | to  | me. |
 
 I'll eat my beans that are on my plate, the ones you gave me.
 
@@ -807,17 +782,12 @@ Two of the five people \[that I have in mind\] are going to the market.
 
 :::jbomupli
 
-|     |     |     |                    |           |      |
-| --- | --- | --- | ------------------ | --------- | ---- |
-| re  |     | le  | poi                | ninmu     | ku'o |
-| Two | of  | the | such-that(\[they\] | are-women | )    |
+|     |     |     |                    |           |      |      |         |     |       |     |         |
+| --- | --- | --- | ------------------ | --------- | ---- | ---- | ------- | --- | ----- | --- | ------- |
+| re  |     | le  | poi                | ninmu     | ku'o | mu   | prenu   | cu  | klama | le  | zarci   |
+| Two | of  | the | such-that(\[they\] | are-women | )    | five | persons |     | go-to | the | market. |
 
 :::
-
-|      |         |     |       |     |         |
-| ---- | ------- | --- | ----- | --- | ------- |
-| mu   | prenu   | cu  | klama | le  | zarci   |
-| five | persons |     | go-to | the | market. |
 
 Two women out of the five persons go to the market.
 
@@ -1070,17 +1040,12 @@ And here is an incidental relative clause attached to a quotation:
 
 :::jbomupli
 
-|           |     |       |     |        |             |
-| --------- | --- | ----- | --- | ------ | ----------- |
-| lu        | mi  | klama | le  | zarci  | li'u        |
-| \[quote\] | I   | go-to | the | market | \[unquote\] |
+|           |     |       |     |        |             |                      |     |         |      |     |                |
+| --------- | --- | ----- | --- | ------ | ----------- | -------------------- | --- | ------- | ---- | --- | -------------- |
+| lu        | mi  | klama | le  | zarci  | li'u        | noi                  | mi  | cusku   | ke'a | cu  | jufra          |
+| \[quote\] | I   | go-to | the | market | \[unquote\] | incidentally-which-( | I   | express | IT   | )   | is-a-sentence. |
 
 :::
-
-|                      |     |         |      |     |                |
-| -------------------- | --- | ------- | ---- | --- | -------------- |
-| noi                  | mi  | cusku   | ke'a | cu  | jufra          |
-| incidentally-which-( | I   | express | IT   | )   | is-a-sentence. |
 
 “I'm going to the market”, which I'd said, is a sentence.
 
@@ -1092,17 +1057,12 @@ In addition, sumti with attached sumti qualifiers of selma'o LAhE or NAhE+BO (wh
 
 :::jbomupli
 
-|               |        |          |     |           |     |       |
-| ------------- | ------ | -------- | --- | --------- | --- | ----- |
-| la'e          | poi    | tolcitno | vau | lu        | le  | xunre |
-| A-referent-of | (which | is-old   | )   | \[quote\] | The | Red   |
+|               |        |          |     |           |     |       |             |             |     |       |     |                  |       |
+| ------------- | ------ | -------- | --- | --------- | --- | ----- | ----------- | ----------- | --- | ----- | --- | ---------------- | ----- |
+| la'e          | poi    | tolcitno | vau | lu        | le  | xunre | cmaxirma    | li'u        | cu  | zvati | le  | vu               | kumfa |
+| A-referent-of | (which | is-old   | )   | \[quote\] | The | Red   | Small-horse | \[unquote\] |     | is-at | the | \[far-distance\] | room. |
 
 :::
-
-|             |             |     |       |     |                  |       |
-| ----------- | ----------- | --- | ----- | --- | ---------------- | ----- |
-| cmaxirma    | li'u        | cu  | zvati | le  | vu               | kumfa |
-| Small-horse | \[unquote\] |     | is-at | the | \[far-distance\] | room. |
 
 An old “The Red Pony” is in the far room.
 
@@ -1112,17 +1072,12 @@ An old “The Red Pony” is in the far room.
 
 :::jbomupli
 
-|               |            |     |       |             |             |      |
-| ------------- | ---------- | --- | ----- | ----------- | ----------- | ---- |
-| la'e          | lu         | le  | xunre | cmaxirma    | li'u        | lu'u |
-| A-referent-of | (\[quote\] | The | Red   | Small-horse | \[unquote\] | )    |
+|               |            |     |       |             |             |      |       |            |     |       |     |                  |       |
+| ------------- | ---------- | --- | ----- | ----------- | ----------- | ---- | ----- | ---------- | --- | ----- | --- | ---------------- | ----- |
+| la'e          | lu         | le  | xunre | cmaxirma    | li'u        | lu'u | poi   | to'ercitno | cu  | zvati | le  | vu               | kumfa |
+| A-referent-of | (\[quote\] | The | Red   | Small-horse | \[unquote\] | )    | which | is-old     |     | is-at | the | \[far-distance\] | room. |
 
 :::
-
-|       |            |     |       |     |                  |       |
-| ----- | ---------- | --- | ----- | --- | ---------------- | ----- |
-| poi   | to'ercitno | cu  | zvati | le  | vu               | kumfa |
-| which | is-old     |     | is-at | the | \[far-distance\] | room. |
 
 and the two sentences can be considered stylistic variants. Note the required *[lu'u](/glossary/?mode=exact&word=lu%27u)* terminator, which prevents the relative clause from attaching to the quotation itself: we do not wish to refer to an old quotation!
 
@@ -1132,17 +1087,12 @@ Sometimes, however, it is important to make a relative clause apply to the whole
 
 :::jbomupli
 
-|            |        |     |            |         |                  |
-| ---------- | ------ | --- | ---------- | ------- | ---------------- |
-| la         | frank. | .e  | la         | djordj. | noi              |
-| That-named | Frank  | and | that-named | George  | incidentally-who |
+|            |        |     |            |         |                  |          |     |       |     |        |
+| ---------- | ------ | --- | ---------- | ------- | ---------------- | -------- | --- | ----- | --- | ------ |
+| la         | frank. | .e  | la         | djordj. | noi              | nanmu    | cu  | klama | le  | zdani  |
+| That-named | Frank  | and | that-named | George  | incidentally-who | is-a-man |     | go-to | the | house. |
 
 :::
-
-|          |     |       |     |        |
-| -------- | --- | ----- | --- | ------ |
-| nanmu    | cu  | klama | le  | zdani  |
-| is-a-man |     | go-to | the | house. |
 
 Frank and George, who is a man, go to the house.
 
@@ -1154,17 +1104,12 @@ To make a relative clause attach to both parts of the logically connected sumti 
 
 :::jbomupli
 
-|             |        |     |            |         |      |
-| ----------- | ------ | --- | ---------- | ------- | ---- |
-| la          | frank. | .e  | la         | djordj. | vu'o |
-| (That-named | Frank  | and | that-named | George  | )    |
+|             |        |     |            |         |      |                  |         |     |       |        |        |
+| ----------- | ------ | --- | ---------- | ------- | ---- | ---------------- | ------- | --- | ----- | ------ | ------ |
+| la          | frank. | .e  | la         | djordj. | vu'o | noi              | nanmu   | cu  | klama | le     | zdani  |
+| (That-named | Frank  | and | that-named | George  | )    | incidentally-who | are-men |     | go    | to-the | house. |
 
 :::
-
-|                  |         |     |       |        |        |
-| ---------------- | ------- | --- | ----- | ------ | ------ |
-| noi              | nanmu   | cu  | klama | le     | zdani  |
-| incidentally-who | are-men |     | go    | to-the | house. |
 
 Frank and George, who are men, go to the house.
 
@@ -1176,17 +1121,12 @@ English is able to resolve the distinction correctly in the case of [Example 8.7
 
 :::jbomupli
 
-|            |        |     |             |         |     |
-| ---------- | ------ | --- | ----------- | ------- | --- |
-| la         | frank. | .e  | la          | djordj. | noi |
-| That-named | Frank  | and | (that-named | George  | who |
+|            |        |     |             |         |     |          |       |     |       |     |        |
+| ---------- | ------ | --- | ----------- | ------- | --- | -------- | ----- | --- | ----- | --- | ------ |
+| la         | frank. | .e  | la          | djordj. | noi | pu       | bajra | cu  | klama | le  | zdani  |
+| That-named | Frank  | and | (that-named | George  | who | \[past\] | runs) |     | go-to | the | house. |
 
 :::
-
-|          |       |     |       |     |        |
-| -------- | ----- | --- | ----- | --- | ------ |
-| pu       | bajra | cu  | klama | le  | zdani  |
-| \[past\] | runs) |     | go-to | the | house. |
 
 Frank and George, who ran, go to the house.
 
@@ -1194,17 +1134,12 @@ Frank and George, who ran, go to the house.
 
 :::jbomupli
 
-|             |        |     |            |         |      |
-| ----------- | ------ | --- | ---------- | ------- | ---- |
-| la          | frank. | .e  | la         | djordj. | vu'o |
-| (That-named | Frank  | and | that-named | George  | )    |
+|             |        |     |            |         |      |     |          |       |     |       |     |        |
+| ----------- | ------ | --- | ---------- | ------- | ---- | --- | -------- | ----- | --- | ----- | --- | ------ |
+| la          | frank. | .e  | la         | djordj. | vu'o | noi | pu       | bajra | cu  | klama | le  | zdani  |
+| (That-named | Frank  | and | that-named | George  | )    | who | \[past\] | run   |     | go-to | the | house. |
 
 :::
-
-|     |          |       |     |       |     |        |
-| --- | -------- | ----- | --- | ----- | --- | ------ |
-| noi | pu       | bajra | cu  | klama | le  | zdani  |
-| who | \[past\] | run   |     | go-to | the | house. |
 
 Frank and George, who ran, go to the house.
 
@@ -1332,22 +1267,12 @@ Alternatively, you can use a prenex (explained in full in [Chapter 16](/chapter1
 
 :::jbomupli
 
-|     |       |     |      |     |      |      |
-| --- | ----- | --- | ---- | --- | ---- | ---- |
-| le  | prenu | poi | ke'a | goi | ko'a | zo'u |
-| The | man   | who | (IT  | =   | it1  | :    |
+|     |       |     |      |     |      |      |      |       |     |       |       |      |     |      |      |      |       |      |     |          |
+| --- | ----- | --- | ---- | --- | ---- | ---- | ---- | ----- | --- | ----- | ----- | ---- | --- | ---- | ---- | ---- | ----- | ---- | --- | -------- |
+| le  | prenu | poi | ke'a | goi | ko'a | zo'u | ko'a | zvati | le  | kumfa | poi   | ke'a | goi | ko'e | zo'u | ko'a | zbasu | ko'e | cu  | masno    |
+| The | man   | who | (IT  | =   | it1  | :    | it1  | is-in | the | room  | which | (IT  | =   | it2  | :    | it1  | built | it2) |     | is-slow. |
 
 :::
-
-|      |       |     |       |       |      |     |      |      |
-| ---- | ----- | --- | ----- | ----- | ---- | --- | ---- | ---- |
-| ko'a | zvati | le  | kumfa | poi   | ke'a | goi | ko'e | zo'u |
-| it1  | is-in | the | room  | which | (IT  | =   | it2  | :    |
-
-|      |       |      |     |          |
-| ---- | ----- | ---- | --- | -------- |
-| ko'a | zbasu | ko'e | cu  | masno    |
-| it1  | built | it2) |     | is-slow. |
 
 [Example 8.83](/chapter08/#example-883 "Example 8.83.") is more verbose than [Example 8.82](/chapter08/#example-882 "Example 8.82."), but may be clearer, since it explicitly spells out the two *[ke'a](/glossary/?mode=exact&word=ke%27a)* cmavo, each on its own level, and assigns them to the assignable cmavo *[ko'a](/glossary/?mode=exact&word=ko%27a)* and *[ko'e](/glossary/?mode=exact&word=ko%27e)* (explained in [Section 7.5](/chapter07/#75-assignable-pro-sumti-and-pro-bridi-the-koa-series-and-the-broda-series "7.5. Assignable pro-sumti and pro-bridi: the ko'a-series and the broda-series")).
 

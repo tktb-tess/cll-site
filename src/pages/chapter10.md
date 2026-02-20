@@ -341,11 +341,9 @@ A short time ago, the man bit the dog.
 
 :::
 
-|                                                             |
-| ----------------------------------------------------------- |
-| Earlier than an earlier time than now, the man bit the dog. |
-| The man had bitten the dog.                                 |
-| The man had been biting the dog.                            |
+Earlier than an earlier time than now, the man bit the dog.  
+The man had bitten the dog.  
+The man had been biting the dog.
 
 ##### Example 10.18.
 
@@ -484,10 +482,8 @@ Note that with no time direction word, [Example 10.24](/chapter10/#example-1024 
 
 :::
 
-|                                                 |
-| ----------------------------------------------- |
-| For a medium time, the child walked on the ice. |
-| The child walked on the ice for a while.        |
+For a medium time, the child walked on the ice.  
+The child walked on the ice for a while.
 
 In [Example 10.25](/chapter10/#example-1025 "Example 10.25."), the relationship of the interval to the specified point in time or space is indeterminate. Does the interval start at the point, end at the point, or is it centered on the point? By adding an additional direction cmavo after the interval, this question can be conclusively answered:
 
@@ -534,10 +530,8 @@ means that for a short time interval extending from the past to the present I ha
 
 :::
 
-|                                             |
-| ------------------------------------------- |
-| For a medium time afterward, I ate my meal. |
-| I ate my meal for a while.                  |
+For a medium time afterward, I ate my meal.  
+I ate my meal for a while.
 
 With *[ca](/glossary/?mode=exact&word=ca)* instead of *[ba](/glossary/?mode=exact&word=ba)*, [Example 10.28](/chapter10/#example-1028 "Example 10.28.") becomes [Example 10.29](/chapter10/#example-1029 "Example 10.29."),
 
@@ -552,10 +546,8 @@ With *[ca](/glossary/?mode=exact&word=ca)* instead of *[ba](/glossary/?mode=exac
 
 :::
 
-|                                                        |
-| ------------------------------------------------------ |
-| For a medium time before and afterward, I ate my meal. |
-| I ate my meal for a while.                             |
+For a medium time before and afterward, I ate my meal.  
+I ate my meal for a while.
 
 because the interval would then be centered on the past moment rather than oriented toward the future of that moment. The colloquial English translations are the same – English is not well-suited to representing this distinction.
 
@@ -711,17 +703,12 @@ In either case, however, the reference frame for defining “right” and “lef
 
 :::jbomupli
 
-|     |       |              |           |          |     |       |
-| --- | ----- | ------------ | --------- | -------- | --- | ----- |
-| le  | verba | mo'i         | ri'u      | cadzu    | le  | bisli |
-| The | child | \[movement\] | \[right\] | walks-on | the | ice   |
+|     |       |              |           |          |     |       |                    |               |
+| --- | ----- | ------------ | --------- | -------- | --- | ----- | ------------------ | ------------- |
+| le  | verba | mo'i         | ri'u      | cadzu    | le  | bisli | ma'i               | vo'a          |
+| The | child | \[movement\] | \[right\] | walks-on | the | ice   | in-reference-frame | the-x1-place. |
 
 :::
-
-|                    |               |
-| ------------------ | ------------- |
-| ma'i               | vo'a          |
-| in-reference-frame | the-x1-place. |
 
 The child walks toward her right on the ice.
 
@@ -1125,20 +1112,14 @@ In addition, it is possible for a process to continue beyond its natural end. Th
 
 :::jbomupli
 
-|     |         |          |                  |           |
-| --- | ------- | -------- | ---------------- | --------- |
-| le  | ctuca   | pu       | za'o             | ciksi     |
-| The | teacher | \[past\] | \[superfective\] | explained |
+|     |         |          |                  |           |     |             |          |        |                |
+| --- | ------- | -------- | ---------------- | --------- | --- | ----------- | -------- | ------ | -------------- |
+| le  | ctuca   | pu       | za'o             | ciksi     | le  | cmaci       | seldanfu | le     | tadgri         |
+| The | teacher | \[past\] | \[superfective\] | explained | the | mathematics | problem  | to-the | student-group. |
 
 :::
 
-|     |             |          |        |                |
-| --- | ----------- | -------- | ------ | -------------- |
-| le  | cmaci       | seldanfu | le     | tadgri         |
-| the | mathematics | problem  | to-the | student-group. |
-
-The teacher kept on explaining the mathematics problem to the class too long.
-
+The teacher kept on explaining the mathematics problem to the class too long.  
 That is, the teacher went on explaining after the class already understood the problem.
 
 An entire event can be treated as a single moment using the cmavo *[co'i](/glossary/?mode=exact&word=co%27i)*:
@@ -1241,17 +1222,12 @@ I buy salad ingredients in three locations.
 
 :::jbomupli
 
-|                |               |                 |            |                |     |
-| -------------- | ------------- | --------------- | ---------- | -------------- | --- |
-| ze'e           | roroi         | ve'e            | fe'e       | roroi          | ku  |
-| \[whole-time\] | \[all-times\] | \[whole-space\] | \[space:\] | \[all-places\] |     |
+|                |               |                 |            |                |     |            |     |      |     |     |            |      |
+| -------------- | ------------- | --------------- | ---------- | -------------- | --- | ---------- | --- | ---- | --- | --- | ---------- | ---- |
+| ze'e           | roroi         | ve'e            | fe'e       | roroi          | ku  | li         | re  | su'i | re  | du  | li         | vo   |
+| \[whole-time\] | \[all-times\] | \[whole-space\] | \[space:\] | \[all-places\] |     | The-number | $2$ | $+$  | $2$ | $=$ | the-number | $4$. |
 
 :::
-
-|            |     |      |     |     |            |     |
-| ---------- | --- | ---- | --- | --- | ---------- | --- |
-| li         | re  | su'i | re  | du  | li         | vo  |
-| The-number | 2   | +    | 2   | =   | the-number | 4.  |
 
 Always and everywhere, two plus two is four.
 
@@ -1270,10 +1246,8 @@ The *[fe'e](/glossary/?mode=exact&word=fe%27e)* marker can also be used for the 
 
 :::
 
-|                                                        |
-| ------------------------------------------------------ |
-| That is the beginning of a rock extending to my north. |
-| That is the south face of a rock.                      |
+That is the beginning of a rock extending to my north.  
+That is the south face of a rock.
 
 Here the notion of a “beginning point” represented by the cmavo *[co'a](/glossary/?mode=exact&word=co%27a)* is transferred from “beginning in time” to “beginning in space” under the influence of the *[fe'e](/glossary/?mode=exact&word=fe%27e)* flag. Space is not inherently oriented, unlike time, which flows from past to future: therefore, some indication of orientation is necessary, and the *ve'abe'a* provides an orientation in which the south face is the “beginning” and the north face is the “end”, since the rock extends from south (near me) to north (away from me).
 
@@ -1289,17 +1263,12 @@ So far, we have seen tenses only just before the selbri, or (equivalently in mea
 
 :::jbomupli
 
-|     |       |     |        |             |     |          |     |       |
-| --- | ----- | --- | ------ | ----------- | --- | -------- | --- | ----- |
-| mi  | klama | le  | zarci  | ca          | le  | nu       | do  | klama |
-| I   | go-to | the | market | \[present\] | the | event-of | you | go-to |
+|     |       |     |        |             |     |          |     |       |     |        |
+| --- | ----- | --- | ------ | ----------- | --- | -------- | --- | ----- | --- | ------ |
+| mi  | klama | le  | zarci  | ca          | le  | nu       | do  | klama | le  | zdani  |
+| I   | go-to | the | market | \[present\] | the | event-of | you | go-to | the | house. |
 
 :::
-
-|     |        |
-| --- | ------ |
-| le  | zdani  |
-| the | house. |
 
 I go to the market when you go to the house.
 
@@ -1309,17 +1278,12 @@ Here *[ca](/glossary/?mode=exact&word=ca)* does not appear before the selbri, no
 
 :::jbomupli
 
-|     |       |     |        |          |     |          |     |          |       |
-| --- | ----- | --- | ------ | -------- | --- | -------- | --- | -------- | ----- |
-| mi  | klama | le  | zarci  | pu       | le  | nu       | do  | pu       | klama |
-| I   | go-to | the | market | \[past\] | the | event-of | you | \[past\] | go-to |
+|     |       |     |        |          |     |          |     |          |       |     |        |
+| --- | ----- | --- | ------ | -------- | --- | -------- | --- | -------- | ----- | --- | ------ |
+| mi  | klama | le  | zarci  | pu       | le  | nu       | do  | pu       | klama | le  | zdani  |
+| I   | go-to | the | market | \[past\] | the | event-of | you | \[past\] | go-to | the | house. |
 
 :::
-
-|     |        |
-| --- | ------ |
-| le  | zdani  |
-| the | house. |
 
 The second *[pu](/glossary/?mode=exact&word=pu)* is simply the past tense marker for the event of your going to the house, and says that this event is in the speaker's past. How are we to understand the first *[pu](/glossary/?mode=exact&word=pu)*, the sumti tcita?
 
@@ -1549,12 +1513,12 @@ and it is equivalent in meaning (when considered in isolation from any other sen
 | mi  | pu       | klama | le  | zarci   |
 | I   | \[past\] | go-to | the | market. |
 
-:::
-
 |     |     |       |               |       |     |       |
 | --- | --- | ----- | ------------- | ----- | --- | ----- |
 | .i  | le  | nanmu | pupu          | batci | le  | gerku |
 |     | The | man   | \[past-past\] | bites | the | dog.  |
+
+:::
 
 The point has not been discussed so far, but it is perfectly grammatical to have more than one tense construct in a sentence:
 
@@ -1816,33 +1780,23 @@ Lojban, like Russian and Esperanto, uses a different convention. A tense in a su
 
 :::jbomupli
 
-|     |       |             |       |     |     |                |
-| --- | ----- | ----------- | ----- | --- | --- | -------------- |
-| la  | djan. | ca          | cusku | le  | se  | du'u           |
-|     | John  | \[present\] | says  | the |     | statement-that |
+|     |       |             |       |     |     |                |            |         |             |         |     |         |
+| --- | ----- | ----------- | ----- | --- | --- | -------------- | ---------- | ------- | ----------- | ------- | --- | ------- |
+| la  | djan. | ca          | cusku | le  | se  | du'u           | la         | djordj. | ca          | klama   | le  | zarci   |
+|     | John  | \[present\] | says  | the |     | statement-that | That-named | George  | \[present\] | goes-to | the | market. |
 
 :::
-
-|            |         |             |         |     |         |
-| ---------- | ------- | ----------- | ------- | --- | ------- |
-| la         | djordj. | ca          | klama   | le  | zarci   |
-| That-named | George  | \[present\] | goes-to | the | market. |
 
 ##### Example 10.105.
 
 :::jbomupli
 
-|            |       |             |       |     |     |                |
-| ---------- | ----- | ----------- | ----- | --- | --- | -------------- |
-| la         | djan. | ca          | cusku | le  | se  | du'u           |
-| That-named | John  | \[present\] | says  | the |     | statement-that |
+|            |       |             |       |     |     |                |            |         |          |         |     |         |
+| ---------- | ----- | ----------- | ----- | --- | --- | -------------- | ---------- | ------- | -------- | ------- | --- | ------- |
+| la         | djan. | ca          | cusku | le  | se  | du'u           | la         | djordj. | pu       | klama   | le  | zarci   |
+| That-named | John  | \[present\] | says  | the |     | statement-that | That-named | George  | \[past\] | goes-to | the | market. |
 
 :::
-
-|            |         |          |         |     |         |
-| ---------- | ------- | -------- | ------- | --- | ------- |
-| la         | djordj. | pu       | klama   | le  | zarci   |
-| That-named | George  | \[past\] | goes-to | the | market. |
 
 ##### Example 10.106.
 
@@ -1861,17 +1815,12 @@ Lojban, like Russian and Esperanto, uses a different convention. A tense in a su
 
 :::jbomupli
 
-|            |       |          |       |     |     |                |
-| ---------- | ----- | -------- | ----- | --- | --- | -------------- |
-| la         | djan. | pu       | cusku | le  | se  | du'u           |
-| That-named | John  | \[past\] | says  | the |     | statement-that |
+|            |       |          |       |     |     |                |            |         |          |         |     |         |
+| ---------- | ----- | -------- | ----- | --- | --- | -------------- | ---------- | ------- | -------- | ------- | --- | ------- |
+| la         | djan. | pu       | cusku | le  | se  | du'u           | la         | djordj. | pu       | klama   | le  | zarci   |
+| That-named | John  | \[past\] | says  | the |     | statement-that | That-named | George  | \[past\] | goes-to | the | market. |
 
 :::
-
-|            |         |          |         |     |         |
-| ---------- | ------- | -------- | ------- | --- | ------- |
-| la         | djordj. | pu       | klama   | le  | zarci   |
-| That-named | George  | \[past\] | goes-to | the | market. |
 
 Probably the most counterintuitive of the Lojban examples is [Example 10.106](/chapter10/#example-10106 "Example 10.106."). The *[ca](/glossary/?mode=exact&word=ca)* looks quite odd, as if George were going to the market right now, rather than back when John spoke. But this *[ca](/glossary/?mode=exact&word=ca)* is really a *[ca](/glossary/?mode=exact&word=ca)* with respect to a reference point specified by the outer *[pu](/glossary/?mode=exact&word=pu)*. This behavior is the same as the additive behavior of multiple tenses in the same bridi, as explained in [Section 10.13](/chapter10/#1013-sticky-and-multiple-tenses-ki "10.13. Sticky and multiple tenses: KI").
 
@@ -1885,8 +1834,6 @@ There is a special cmavo *[nau](/glossary/?mode=exact&word=nau)* (of selma'o CUh
 | ---------- | ----- | -------- | ----- | --- | --- | -------------- |
 | la         | djan. | pu       | cusku | le  | se  | du'u           |
 | That-named | John  | \[past\] | says  | the |     | statement-that |
-
-:::
 
 |            |       |          |       |     |     |                |
 | ---------- | ----- | -------- | ----- | --- | --- | -------------- |
@@ -1903,6 +1850,8 @@ There is a special cmavo *[nau](/glossary/?mode=exact&word=nau)* (of selma'o CUh
 | la         | maris. | nau     | klama   | le  | zarci   |
 | That-named | Mary   | \[now\] | goes-to | the | market. |
 
+:::
+
 John said that Alice had said that George had earlier said that Mary is now going to the market.
 
 The use of *[nau](/glossary/?mode=exact&word=nau)* does not affect sticky tenses.
@@ -1915,17 +1864,12 @@ The sumti tcita method, explained in [Section 10.12](/chapter10/#1012-tenses-as-
 
 :::jbomupli
 
-|     |       |     |          |     |       |
-| --- | ----- | --- | -------- | --- | ----- |
-| le  | verba | cu  | cadzu    | le  | bisli |
-| The | child |     | walks-on | the | ice   |
+|     |       |     |          |     |       |          |     |          |     |       |     |       |     |       |
+| --- | ----- | --- | -------- | --- | ----- | -------- | --- | -------- | --- | ----- | --- | ----- | --- | ----- |
+| le  | verba | cu  | cadzu    | le  | bisli | zu'a     | le  | nu       | le  | nanmu | cu  | batci | le  | gerku |
+| The | child |     | walks-on | the | ice   | \[left\] | the | event-of | the | man   |     | bites | the | dog.  |
 
 :::
-
-|          |     |          |     |       |     |       |     |       |
-| -------- | --- | -------- | --- | ----- | --- | ----- | --- | ----- |
-| zu'a     | le  | nu       | le  | nanmu | cu  | batci | le  | gerku |
-| \[left\] | the | event-of | the | man   |     | bites | the | dog.  |
 
 The child walks on the ice to the left of where the man bites the dog.
 
@@ -1940,12 +1884,12 @@ which specifies an imaginary journey leftward from the man biting the dog to the
 | le  | nanmu | cu  | batci | le  | gerku |
 | The | man   |     | bites | the | dog.  |
 
-:::
-
 |          |     |       |     |          |     |       |
 | -------- | --- | ----- | --- | -------- | --- | ----- |
 | .izu'abo | le  | verba | cu  | cadzu    | le  | bisli |
 | \[Left\] | the | child |     | walks-on | the | ice.  |
+
+:::
 
 The man bites the dog. To the left, the child walks on the ice.
 
@@ -1959,17 +1903,17 @@ Note that the bridi in [Example 10.110](/chapter10/#example-10110 "Example 10.11
 
 :::jbomupli
 
-|     |       |     |       |     |       |     |          |                                   |
-| --- | ----- | --- | ----- | --- | ----- | --- | -------- | --------------------------------- |
-| le  | nanmu | cu  | batci | le  | gerku | .i  | zu'a     | la'edi'u                          |
-| The | man   |     | bites | the | dog.  |     | \[Left\] | the-referent-of-the-last-sentence |
+|     |       |     |       |     |       |
+| --- | ----- | --- | ----- | --- | ----- |
+| le  | nanmu | cu  | batci | le  | gerku |
+| The | man   |     | bites | the | dog.  |
+
+|     |          |                                   |     |       |     |          |     |       |
+| --- | -------- | --------------------------------- | --- | ----- | --- | -------- | --- | ----- |
+| .i  | zu'a     | la'edi'u                          | le  | verba | cu  | cadzu    | le  | bisli |
+|     | \[Left\] | the-referent-of-the-last-sentence | the | child |     | walks-on | the | ice.  |
 
 :::
-
-|     |       |     |          |     |       |
-| --- | ----- | --- | -------- | --- | ----- |
-| le  | verba | cu  | cadzu    | le  | bisli |
-| the | child |     | walks-on | the | ice.  |
 
 The man bites the dog. Left of what I just mentioned, the child walks on the ice.
 
@@ -1984,12 +1928,12 @@ If the *[bo](/glossary/?mode=exact&word=bo)* is omitted in [Example 10.110](/cha
 | le  | nanmu | cu  | batci | le  | gerku |
 | The | man   |     | bites | the | dog.  |
 
-:::
-
 |     |          |     |       |     |               |          |     |       |
 | --- | -------- | --- | ----- | --- | ------------- | -------- | --- | ----- |
 | .i  | zu'a     | le  | verba | cu  |               | cadzu    | le  | bisli |
 |     | \[Left\] | the | child |     | \[something\] | walks-on | the | ice.  |
+
+:::
 
 The man bites the dog. To the left of the child, something walks on the ice.
 
@@ -2006,12 +1950,12 @@ Do not confuse either [Example 10.110](/chapter10/#example-10110 "Example 10.110
 | le  | nanmu | cu  | batci | le  | gerku |
 | The | man   |     | bites | the | dog.  |
 
-:::
-
 |     |          |     |       |     |          |     |       |
 | --- | -------- | --- | ----- | --- | -------- | --- | ----- |
 | .i  | zu'aku   | le  | verba | cu  | cadzu    | le  | bisli |
 |     | \[Left\] | the | child |     | walks-on | the | ice.  |
+
+:::
 
 The man bites the dog. Left of me, the child walks on the ice.
 
@@ -2160,17 +2104,12 @@ In addition to the *[bo](/glossary/?mode=exact&word=bo)* construction of [Exampl
 
 :::jbomupli
 
-|     |       |     |       |      |      |     |       |     |       |
-| --- | ----- | --- | ----- | ---- | ---- | --- | ----- | --- | ----- |
-| mi  | bevri | le  | dakli | .ije | tu'e | mi  | bevri | le  | gerku |
-| I   | carry | the | sack. | And  | (    | I   | carry | the | dog.  |
+|     |       |     |       |      |      |     |       |     |       |        |     |       |     |       |      |
+| --- | ----- | --- | ----- | ---- | ---- | --- | ----- | --- | ----- | ------ | --- | ----- | --- | ----- | ---- |
+| mi  | bevri | le  | dakli | .ije | tu'e | mi  | bevri | le  | gerku | .ija   | mi  | bevri | le  | mlatu | tu'u |
+| I   | carry | the | sack. | And  | (    | I   | carry | the | dog.  | And/or | I   | carry | the | cat   | ).   |
 
 :::
-
-|        |     |       |     |       |      |
-| ------ | --- | ----- | --- | ----- | ---- |
-| .ija   | mi  | bevri | le  | mlatu | tu'u |
-| And/or | I   | carry | the | cat   | ).   |
 
 I carry the sack. And I carry the dog, or I carry the cat, or I carry both.
 
@@ -2178,17 +2117,12 @@ I carry the sack. And I carry the dog, or I carry the cat, or I carry both.
 
 :::jbomupli
 
-|     |       |     |       |        |        |     |       |        |       |
-| --- | ----- | --- | ----- | ------ | ------ | --- | ----- | ------ | ----- |
-| mi  | bevri | le  | dakli | gi'eke | bevri  | le  | gerku | gi'a   | bevri |
-| I   | carry | the | sack  | and    | (carry | the | dog   | and/or | carry |
+|     |       |     |       |        |        |     |       |        |       |     |       |
+| --- | ----- | --- | ----- | ------ | ------ | --- | ----- | ------ | ----- | --- | ----- |
+| mi  | bevri | le  | dakli | gi'eke | bevri  | le  | gerku | gi'a   | bevri | le  | mlatu |
+| I   | carry | the | sack  | and    | (carry | the | dog   | and/or | carry | the | cat). |
 
 :::
-
-|     |       |
-| --- | ----- |
-| le  | mlatu |
-| the | cat). |
 
 I carry the sack, and also carry the dog or carry the cat or carry both.
 
@@ -2218,12 +2152,12 @@ To express that I carry the sack first (earlier in time), and then the dog or th
 | mi  | bevri | le  | dakli | .ije | ba         | tu'e | mi  | bevri | le  | gerku |
 | I   | carry | the | sack. | And  | \[future\] | (    | I   | carry | the | dog.  |
 
-:::
-
 |        |             |     |       |     |       |      |
 | ------ | ----------- | --- | ----- | --- | ----- | ---- |
 | .ija   | cabo        | mi  | bevri | le  | mlatu | tu'u |
 | And/or | \[present\] | I   | carry | the | cat.  | )    |
+
+:::
 
 I carry the sack. And then I will carry the dog or I will carry the cat or I will carry both at once.
 
@@ -2231,17 +2165,12 @@ I carry the sack. And then I will carry the dog or I will carry the cat or I wil
 
 :::jbomupli
 
-|     |       |     |       |      |            |        |     |       |
-| --- | ----- | --- | ----- | ---- | ---------- | ------ | --- | ----- |
-| mi  | bevri | le  | dakli | gi'e | bake       | bevri  | le  | gerku |
-| I   | carry | the | sack  | and  | \[future\] | (carry | the | dog   |
+|     |       |     |       |      |            |        |     |       |        |             |       |     |       |
+| --- | ----- | --- | ----- | ---- | ---------- | ------ | --- | ----- | ------ | ----------- | ----- | --- | ----- |
+| mi  | bevri | le  | dakli | gi'e | bake       | bevri  | le  | gerku | gi'a   | cabo        | bevri | le  | mlatu |
+| I   | carry | the | sack  | and  | \[future\] | (carry | the | dog   | and/or | \[present\] | carry | the | cat). |
 
 :::
-
-|        |             |       |     |       |
-| ------ | ----------- | ----- | --- | ----- |
-| gi'a   | cabo        | bevri | le  | mlatu |
-| and/or | \[present\] | carry | the | cat). |
 
 I carry the sack and then will carry the dog or carry the cat or carry both at once.
 
@@ -2249,17 +2178,12 @@ I carry the sack and then will carry the dog or carry the cat or carry both at o
 
 :::jbomupli
 
-|     |       |     |       |     |            |      |       |
-| --- | ----- | --- | ----- | --- | ---------- | ---- | ----- |
-| mi  | bevri | le  | dakli | .e  | bake       | le   | gerku |
-| I   | carry | the | sack  | and | \[future\] | (the | dog   |
+|     |       |     |       |     |            |      |       |        |             |     |       |
+| --- | ----- | --- | ----- | --- | ---------- | ---- | ----- | ------ | ----------- | --- | ----- |
+| mi  | bevri | le  | dakli | .e  | bake       | le   | gerku | .a     | cabo        | le  | mlatu |
+| I   | carry | the | sack  | and | \[future\] | (the | dog   | and/or | \[present\] | the | cat). |
 
 :::
-
-|        |             |     |       |
-| ------ | ----------- | --- | ----- |
-| .a     | cabo        | le  | mlatu |
-| and/or | \[present\] | the | cat). |
 
 I carry the sack, and then the dog or the cat or both at once.
 
@@ -2288,17 +2212,12 @@ As a contradictory negation, [Example 10.129](/chapter10/#example-10129 "Example
 
 :::jbomupli
 
-|     |       |     |        |             |         |
-| --- | ----- | --- | ------ | ----------- | ------- |
-| mi  | klama | le  | zarci  | ca          | nai     |
-| I   | go-to | the | market | \[present\] | \[not\] |
+|     |       |     |        |             |         |     |          |     |       |     |        |
+| --- | ----- | --- | ------ | ----------- | ------- | --- | -------- | --- | ----- | --- | ------ |
+| mi  | klama | le  | zarci  | ca          | nai     | le  | nu       | do  | klama | le  | zdani  |
+| I   | go-to | the | market | \[present\] | \[not\] | the | event-of | you | go-to | the | house. |
 
 :::
-
-|     |          |     |       |     |        |
-| --- | -------- | --- | ----- | --- | ------ |
-| le  | nu       | do  | klama | le  | zdani  |
-| the | event-of | you | go-to | the | house. |
 
 It is not true that I went to the market at the same time that you went to the house.
 
@@ -2360,17 +2279,12 @@ The man bites the dog outside the room.
 
 :::jbomupli
 
-|     |       |     |        |          |             |     |          |
-| --- | ----- | --- | ------ | -------- | ----------- | --- | -------- |
-| mi  | klama | le  | zarci  | na'e     | ca          | le  | nu       |
-| I   | go-to | the | market | \[non-\] | \[present\] | the | event-of |
+|     |       |     |        |          |             |     |          |     |       |     |        |
+| --- | ----- | --- | ------ | -------- | ----------- | --- | -------- | --- | ----- | --- | ------ |
+| mi  | klama | le  | zarci  | na'e     | ca          | le  | nu       | do  | klama | le  | zdani  |
+| I   | go-to | the | market | \[non-\] | \[present\] | the | event-of | you | go-to | the | house. |
 
 :::
-
-|     |       |     |        |
-| --- | ----- | --- | ------ |
-| do  | klama | le  | zdani  |
-| you | go-to | the | house. |
 
 I went to the market at a time other than the time at which you went to the house.
 
@@ -2492,10 +2406,8 @@ Under some epistemologies, innate capability can be extended in order to apply t
 
 :::
 
-|                                     |
-| ----------------------------------- |
-| John is innately capable of seeing. |
-| John can see.                       |
+John is innately capable of seeing.  
+John can see.
 
 might be true about a human being named John, even though he has been blind since birth, because the ability to see is innately built into his nature as a human being. It is theoretically possible that conditions might occur that would enable John to see (a great medical discovery, for example). On the other hand,
 
@@ -2527,10 +2439,8 @@ Consider once again the newly hatched ducks mentioned earlier. They have the pot
 
 :::
 
-|                                                                             |
-| --------------------------------------------------------------------------- |
-| All infant ducks have an undemonstrated potential for swimming by floating. |
-| Baby ducks can swim but haven't yet.                                        |
+All infant ducks have an undemonstrated potential for swimming by floating.  
+Baby ducks can swim but haven't yet.
 
 Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/?mode=exact&word=pu%27i)* is appropriate:
 
@@ -2545,10 +2455,8 @@ Contrariwise, if Frank is not blind from birth, then *[pu'i](/glossary/?mode=exa
 
 :::
 
-|                                                |
-| ---------------------------------------------- |
-| Frank has demonstrated a potential for seeing. |
-| Frank can see and has seen.                    |
+Frank has demonstrated a potential for seeing.  
+Frank can see and has seen.
 
 Note that the glosses given at the beginning of this section for *[ca'a](/glossary/?mode=exact&word=ca%27a)*, *[nu'o](/glossary/?mode=exact&word=nu%27o)*, and *[pu'i](/glossary/?mode=exact&word=pu%27i)* incorporate *[ca](/glossary/?mode=exact&word=ca)* into their meaning, and are really correct for *ca ca'a*, *ca nu'o*, and *ca pu'i*. However, the CAhA cmavo are perfectly meaningful with other tenses than the present:
 
@@ -2619,10 +2527,8 @@ and
 
 :::
 
-|                             |
-| --------------------------- |
-| That is capable of burning. |
-| That is inflammable.        |
+That is capable of burning.  
+That is inflammable.
 
 When no indication is given, as in the simple observative
 
@@ -2659,17 +2565,12 @@ means the same as:
 
 :::jbomupli
 
-|     |          |       |     |         |
-| --- | -------- | ----- | --- | ------- |
-| mi  | pu       | klama | le  | zarci   |
-| I   | \[past\] | go-to | the | market. |
+|     |          |       |     |         |      |     |            |       |     |         |
+| --- | -------- | ----- | --- | ------- | ---- | --- | ---------- | ----- | --- | ------- |
+| mi  | pu       | klama | le  | zarci   | .ije | mi  | ba         | klama | le  | zarci   |
+| I   | \[past\] | go-to | the | market. | And  | I   | \[future\] | go-to | the | market. |
 
 :::
-
-|      |     |            |       |     |         |
-| ---- | --- | ---------- | ----- | --- | ------- |
-| .ije | mi  | ba         | klama | le  | zarci   |
-| And  | I   | \[future\] | go-to | the | market. |
 
 I went to the market, and I will go to the market.
 
@@ -2760,17 +2661,12 @@ Another application of non-logical tense connection is to talk about sub-events 
 
 :::jbomupli
 
-|     |           |                   |               |       |
-| --- | --------- | ----------------- | ------------- | ----- |
-| mi  | reroi     | pi'u              | xaroi         | cecla |
-| I   | \[twice\] | \[cross-product\] | \[six-times\] | shoot |
+|     |           |                   |               |       |     |                      |
+| --- | --------- | ----------------- | ------------- | ----- | --- | -------------------- |
+| mi  | reroi     | pi'u              | xaroi         | cecla | le  | seldanti             |
+| I   | \[twice\] | \[cross-product\] | \[six-times\] | shoot | the | projectile-launcher. |
 
 :::
-
-|     |                      |
-| --- | -------------------- |
-| le  | seldanti             |
-| the | projectile-launcher. |
 
 On two occasions, I fire the gun six times.
 
@@ -3234,7 +3130,7 @@ Frank stands five meters to the left.
 
 ##### Example 10.191.
 
-- *.a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste*
+*.a'o do pu seju ba roroi ca'o fe'e su'oroi jimpe fi le lojbo temci selsku ciste*
 
 ##### PU
 
@@ -3362,8 +3258,8 @@ see [Section 10.28](/chapter10/#1028-list-of-spatial-directions-and-direction-li
 
 set or reset sticky tense
 
-|                             |       |
-| --------------------------- | ----- |
+|                                             |       |
+| ------------------------------------------- | ----- |
 | tense+*[ki](/glossary/?mode=exact&word=ki)* | set   |
 | *[ki](/glossary/?mode=exact&word=ki)* alone | reset |
 

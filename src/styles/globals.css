@@ -224,7 +224,7 @@
 
   h5,
   h6 {
-    @apply font-semibold text-base;
+    @apply text-base;
   }
 
   p,
@@ -243,6 +243,19 @@
     @apply mt-heading scroll-mt-[calc(var(--spacing-header)+.5rem)];
   }
 
+  h5,
+  h6,
+  b,
+  strong,
+  th {
+    @apply font-semibold;
+  }
+
+  .table-container:where(:has(> table)),
+  img {
+    @apply my-heading;
+  }
+
   img {
     @apply mx-auto w-full max-w-max my-figure;
   }
@@ -257,7 +270,7 @@
     @apply w-max max-w-full me-auto whitespace-nowrap;
 
     :where(thead > tr:last-child) {
-      @apply border-b cborder-border-darker;
+      @apply border-b-3 border-double cborder-border-darker;
     }
 
     :where(tr:not(:last-child)) {
@@ -267,14 +280,10 @@
     :where(td, th) {
       @apply text-base py-1 px-2;
     }
-
-    :where(th) {
-      @apply font-semibold;
-    }
   }
 
   .table-container:where(:has(> table)) {
-    @apply max-w-full overflow-x-auto my-figure;
+    @apply max-w-full overflow-x-auto;
   }
 
   ul {

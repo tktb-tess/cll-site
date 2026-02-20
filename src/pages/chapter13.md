@@ -611,17 +611,12 @@ I blame you for not coming home.
 
 :::jbomupli
 
-|               |     |         |         |              |
-| ------------- | --- | ------- | ------- | ------------ |
-| .ie           | mi  | na      | cusku   | lu'e         |
-| \[agreement\] | I   | did-not | express | a-symbol-for |
+|               |     |         |         |              |     |             |     |     |          |         |
+| ------------- | --- | ------- | ------- | ------------ | --- | ----------- | --- | --- | -------- | ------- |
+| .ie           | mi  | na      | cusku   | lu'e         | le  | tcika       | be  | le  | nu       | xruti   |
+| \[agreement\] | I   | did-not | express | a-symbol-for | the | time-of-day | of  | the | event-of | return. |
 
 :::
-
-|     |             |     |     |          |         |
-| --- | ----------- | --- | --- | -------- | ------- |
-| le  | tcika       | be  | le  | nu       | xruti   |
-| the | time-of-day | of  | the | event-of | return. |
 
 It's true I didn't tell you when to come back.
 
@@ -779,16 +774,16 @@ The implicit metaphors “heart” for emotional and “belly” for physical ar
 
 The following cmavo are discussed in this section:
 
-|      |           |                                      |                       |                                   |
-| ---- | --------- | ------------------------------------ | --------------------- | --------------------------------- |
-| ga'i | \[galtu\] | hauteur; rank                        | equal rank            | meekness; lack of rank            |
-| le'o |           | aggressive                           | passive               | defensive                         |
+|      |           |                                                      |                       |                                                   |
+| ---- | --------- | ---------------------------------------------------- | --------------------- | ------------------------------------------------- |
+| ga'i | \[galtu\] | hauteur; rank                                        | equal rank            | meekness; lack of rank                            |
+| le'o |           | aggressive                                           | passive               | defensive                                         |
 | vu'e | \[vrude\] | virtue (*[zabna](/glossary/?mode=exact&word=zabna)*) |                       | sin (*[mabla](/glossary/?mode=exact&word=mabla)*) |
-| se'i | \[sevzi\] | self-orientation                     |                       | other-orientation                 |
-| ri'e | \[zifre\] | release                              | restraint             | control                           |
-| fu'i | \[frili\] | with help; easily                    | without help          | with opposition; with difficulty  |
-| be'u |           | lack/need                            | presence/satisfaction | satiation                         |
-| se'a | \[sevzi\] | self-sufficiency                     |                       | dependency                        |
+| se'i | \[sevzi\] | self-orientation                                     |                       | other-orientation                                 |
+| ri'e | \[zifre\] | release                                              | restraint             | control                                           |
+| fu'i | \[frili\] | with help; easily                                    | without help          | with opposition; with difficulty                  |
+| be'u |           | lack/need                                            | presence/satisfaction | satiation                                         |
+| se'a | \[sevzi\] | self-sufficiency                                     |                       | dependency                                        |
 
 It turned out that, once we had devised the six emotion categories, we also recognized some other commonalities among emotions. These tended to fit nicely on scales of their own, but generally tend not to be thought of as separate emotions. Some of these are self-explanatory, some need to be placed in context. Some of these tend to go well with only a few of the attitudinals, others go with nearly all of them. To really understand these modifiers, try to use them in combination with one or two of the attitudinals found in [Section 13.2](/chapter13/#132-pure-emotion-indicators "13.2. Pure emotion indicators") and [Section 13.3](/chapter13/#133-propositional-attitude-indicators "13.3. Propositional attitude indicators"), and see what emotional pictures you can build:
 
@@ -995,8 +990,8 @@ means “I but (fortunately) not you”. Attitudinal *[nai](/glossary/?mode=exac
 
 Thus, the complete internal grammar of UI is as follows, with each listed part optionally present or absent without affecting grammaticality, though it obviously would affect meaning.
 
-|             |                         |                |                         |          |                         |                |                         |                    |
-| ----------- | ----------------------- | -------------- | ----------------------- | -------- | ----------------------- | -------------- | ----------------------- | ------------------ |
+|             |                                         |                |                                         |          |                                         |                |                                         |                    |
+| ----------- | --------------------------------------- | -------------- | --------------------------------------- | -------- | --------------------------------------- | -------------- | --------------------------------------- | ------------------ |
 | attitudinal | *[nai](/glossary/?mode=exact&word=nai)* | intensity-word | *[nai](/glossary/?mode=exact&word=nai)* | modifier | *[nai](/glossary/?mode=exact&word=nai)* | intensity-word | *[nai](/glossary/?mode=exact&word=nai)* | (possiblyrepeated) |
 
 *[ge'e](/glossary/?mode=exact&word=ge%27e)*, the non-specific emotion word, functions as an attitudinal. If multiple attitudes are being expressed at once, then in the 2nd or greater position, either *[ge'e](/glossary/?mode=exact&word=ge%27e)* or a VV word must be used to prevent any modifiers from modifying the previous attitudinal.
@@ -1460,17 +1455,12 @@ The discursive *[da'i](/glossary/?mode=exact&word=da%27i)* marks the discourse a
 
 :::jbomupli
 
-|       |                  |     |       |     |       |       |         |
-| ----- | ---------------- | --- | ----- | --- | ----- | ----- | ------- |
-| ganai | da'i             | do  | viska | le  | mi    | citno | mensi   |
-| If    | \[hypothetical\] | you | see   | the | of-me | young | sister, |
+|       |                  |     |       |     |       |       |         |      |             |     |       |     |                |     |              |
+| ----- | ---------------- | --- | ----- | --- | ----- | ----- | ------- | ---- | ----------- | --- | ----- | --- | -------------- | --- | ------------ |
+| ganai | da'i             | do  | viska | le  | mi    | citno | mensi   | gi   | ju'o        | do  | djuno | le  | du'u           | ri  | pazvau       |
+| If    | \[hypothetical\] | you | see   | the | of-me | young | sister, | then | \[certain\] | you | know  | the | predication-of | she | is-pregnant. |
 
 :::
-
-|      |             |     |       |     |                |     |              |
-| ---- | ----------- | --- | ----- | --- | -------------- | --- | ------------ |
-| gi   | ju'o        | do  | djuno | le  | du'u           | ri  | pazvau       |
-| then | \[certain\] | you | know  | the | predication-of | she | is-pregnant. |
 
 If you were to see my younger sister, you would certainly know she is pregnant.
 
@@ -1480,17 +1470,12 @@ and:
 
 :::jbomupli
 
-|       |             |     |       |     |       |       |         |
-| ----- | ----------- | --- | ----- | --- | ----- | ----- | ------- |
-| ganai | da'inai     | do  | viska | le  | mi    | citno | mensi   |
-| If    | \[factual\] | you | see   | the | of-me | young | sister, |
+|       |             |     |       |     |       |       |         |      |               |     |       |     |                |     |              |
+| ----- | ----------- | --- | ----- | --- | ----- | ----- | ------- | ---- | ------------- | --- | ----- | --- | -------------- | --- | ------------ |
+| ganai | da'inai     | do  | viska | le  | mi    | citno | mensi   | gi   | ju'o          | do  | djuno | le  | du'u           | ri  | pazvau       |
+| If    | \[factual\] | you | see   | the | of-me | young | sister, | then | \[certainty\] | you | know  | the | predication-of | she | is-pregnant. |
 
 :::
-
-|      |               |     |       |     |                |     |              |
-| ---- | ------------- | --- | ----- | --- | -------------- | --- | ------------ |
-| gi   | ju'o          | do  | djuno | le  | du'u           | ri  | pazvau       |
-| then | \[certainty\] | you | know  | the | predication-of | she | is-pregnant. |
 
 If you saw my younger sister, you would certainly know she is pregnant.
 
@@ -1527,17 +1512,12 @@ The cmavo *[ki'a](/glossary/?mode=exact&word=ki%27a)* is one of the most common 
 
 :::jbomupli
 
-|     |       |     |          |
-| --- | ----- | --- | -------- |
-| mi  | nelci | le  | ctuca    |
-| I   | like  | the | teacher. |
+|     |       |     |          |     |     |       |          |
+| --- | ----- | --- | -------- | --- | --- | ----- | -------- |
+| mi  | nelci | le  | ctuca    | .i  | le  | ki'a  | ctuca    |
+| I   | like  | the | teacher. |     | The | which | teacher? |
 
 :::
-
-|     |     |       |          |
-| --- | --- | ----- | -------- |
-| .i  | le  | ki'a  | ctuca    |
-|     | The | which | teacher? |
 
 Which teacher?
 
