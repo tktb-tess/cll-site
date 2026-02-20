@@ -18,11 +18,11 @@ interface Props {}
   @reference '../styles/globals.css';
   @layer components {
     .header {
-      @apply flex h-full items-center *:m-0 *:min-w-0 px-8 cbg-side;
+      @apply flex h-full items-center *:m-0 *:min-w-0 gap-2 px-6 cbg-side;
     }
 
     #drawer-btn {
-      @apply grid lg:hidden h-full place-items-center
+      @apply grid lg:hidden h-full place-items-center px-1
       any-hover:cbg-accent any-hover:ctext-text-inv transition-colors;
     }
 
