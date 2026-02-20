@@ -167,9 +167,7 @@
 }
 
 @utility allow-discrete {
-  @supports (transition-behavior: allow-discrete) {
-    transition-behavior: allow-discrete;
-  }
+  transition-behavior: allow-discrete;
 }
 
 @layer base {
@@ -177,6 +175,7 @@
     -webkit-tap-highlight-color: revert;
     @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans;
     line-break: strict;
+    scrollbar-gutter: stable;
   }
 
   body {
@@ -322,10 +321,10 @@
     @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5 
       cbg-side border cborder-border rounded;
 
-    > div {
+    > * {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];
 
-      > p {
+      > * {
         @apply min-w-0 min-h-lh m-0 px-3;
       }
 

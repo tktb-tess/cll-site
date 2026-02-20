@@ -29,7 +29,7 @@ const ipaRender = (mdNode: TextDirective): Element => ({
   children: mdNode.children.map(phrasingToHast),
 });
 
-const _textDirectiveH = (node: TextDirective): ElementContent => {
+const _tdHandler = (node: TextDirective): ElementContent => {
   if (node.name === 'ipa') {
     return ipaRender(node);
   } else {
@@ -46,7 +46,7 @@ const _textDirectiveH = (node: TextDirective): ElementContent => {
 
 const phrasingToHast = (mdNode: PhrasingContent): ElementContent => {
   if (mdNode.type === 'textDirective') {
-    return _textDirectiveH(mdNode);
+    return _tdHandler(mdNode);
   } else {
     const hast = toHast(mdNode, { allowDangerousHtml: true });
 
@@ -127,7 +127,7 @@ export const tableHandler: Handler = (_, node: Table) => {
   };
 };
 
-export const containerDirectiveHandler: Handler = (
+export const cdHandler: Handler = (
   _,
   node: ContainerDirective,
 ) => {
@@ -202,7 +202,7 @@ export const containerDirectiveHandler: Handler = (
   }
 };
 
-export const textDirectiveHandler: Handler = (_, node: TextDirective) => {
-  return _textDirectiveH(node);
+export const tdHandler: Handler = (_, node: TextDirective) => {
+  return _tdHandler(node);
 };
 

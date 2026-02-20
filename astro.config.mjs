@@ -5,11 +5,7 @@ import svelte from '@astrojs/svelte';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import remarkDirective from 'remark-directive';
-import {
-  containerDirectiveHandler,
-  tableHandler,
-  textDirectiveHandler,
-} from './src/plugins/handlers';
+import { cdHandler, tableHandler, tdHandler } from './plugins/handlers';
 
 export default defineConfig({
   vite: {
@@ -26,8 +22,8 @@ export default defineConfig({
     remarkRehype: {
       handlers: {
         table: tableHandler,
-        containerDirective: containerDirectiveHandler,
-        textDirective: textDirectiveHandler,
+        containerDirective: cdHandler,
+        textDirective: tdHandler,
       },
     },
     smartypants: false,
