@@ -8,7 +8,7 @@
   const { results }: Props = $props();
 </script>
 
-<section aria-labelledby="results">
+<section class="__results" aria-labelledby="results">
   {#if results.length > 0}
     <h2 id="results">Search Results</h2>
     <p id="match-num">{results.length} {results.length === 1 ? 'word' : 'words'} matched</p>
@@ -28,7 +28,7 @@
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    section {
+    .__results {
       @apply flow-root;
 
       > :where(#results, #match-num) {

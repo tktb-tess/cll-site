@@ -29,16 +29,8 @@
   --color-d-side: var(--color-violet-950-grayish);
   --color-accent: var(--color-violet-950-grayish);
   --color-d-accent: var(--color-violet-50);
-  --color-accent-hover: color-mix(
-    in oklch,
-    var(--color-accent) 60%,
-    transparent
-  );
-  --color-d-accent-hover: color-mix(
-    in oklch,
-    var(--color-d-accent) 60%,
-    transparent
-  );
+  --color-accent-hover: color-mix(in oklch, var(--color-accent) 80%, #fff);
+  --color-d-accent-hover: color-mix(in oklch, var(--color-d-accent) 80%, #000);
   --color-border: hsl(0 0 0 / 25%);
   --color-border-darker: hsl(0 0 0 / 40%);
   --color-d-border: hsl(0 0 100 / 25%);
@@ -86,14 +78,13 @@
 
   --default-transition-duration: 110ms;
 
-  --s-paragraph: 0.75rem;
-  --s-heading: 2.5rem;
-  --s-header: 3rem;
-  --s-footer: 3rem;
-  --s-figure: 2rem;
-
-  --min-w-side: 16rem;
-  --max-w-main: 80rem;
+  --spacing-paragraph: 0.75rem;
+  --spacing-heading: 2.5rem;
+  --spacing-figure: 2rem;
+  --spacing-title: 2.5rem;
+  --spacing-min-side: 16rem;
+  --spacing-max-main: 80rem;
+  --spacing-header: 3rem;
 
   --ease-in-1: cubic-bezier(0.5, 0, 1, 0.5);
   --ease-out-1: cubic-bezier(0, 0.5, 0.5, 1);
@@ -210,10 +201,12 @@
   }
 
   h1:where(#title) {
-    @apply font-extralight text-4xl px-4 my-10 text-balance;
+    @apply font-extralight text-4xl px-4 my-title text-balance;
   }
 
-  :is(h2, h3, h4) {
+  h2,
+  h3,
+  h4 {
     @apply ctext-accent font-normal;
   }
 
@@ -239,7 +232,7 @@
   ol,
   pre,
   blockquote {
-    @apply mt-(--s-paragraph);
+    @apply mt-paragraph;
   }
 
   h2,
@@ -247,11 +240,11 @@
   h4,
   h5,
   h6 {
-    @apply mt-(--s-heading) scroll-mt-[calc(var(--s-header)+.5rem)];
+    @apply mt-heading scroll-mt-[calc(var(--spacing-header)+.5rem)];
   }
 
   img {
-    @apply mx-auto w-full max-w-max my-(--s-figure);
+    @apply mx-auto w-full max-w-max my-figure;
   }
 
   b,
@@ -281,7 +274,7 @@
   }
 
   .table-container:where(:has(> table)) {
-    @apply max-w-full overflow-x-auto my-(--s-figure);
+    @apply max-w-full overflow-x-auto my-figure;
   }
 
   ul {
@@ -306,7 +299,7 @@
   }
 
   hr {
-    @apply my-4 cborder-border mx-auto w-full max-w-240;
+    @apply my-paragraph cborder-border mx-auto w-full max-w-240;
   }
 
   :where(blockquote p:first-of-type) {
@@ -317,14 +310,14 @@
   }
 
   .jbomupli {
-    @apply flex flex-wrap my-8 gap-y-8 px-0.5 py-1.5 
+    @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5 
       cbg-side border cborder-border rounded gbg-header;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];
 
       > p {
-        @apply min-w-0 min-h-7 m-0 px-3;
+        @apply min-w-0 min-h-lh m-0 px-3;
       }
 
       > :lang(jbo) {

@@ -140,14 +140,14 @@ const contents = getContents();
         'f f f';
 
       grid-template-columns:
-        minmax(min(var(--min-w-side), 50%), 1fr)
-        minmax(0, var(--max-w-main))
-        minmax(min(var(--min-w-side), 50%), 1fr);
+        minmax(min(var(--spacing-min-side), 50%), 1fr)
+        minmax(0, var(--spacing-max-main))
+        minmax(min(var(--spacing-min-side), 50%), 1fr);
       grid-template-rows: auto 1fr auto;
     }
 
     header {
-      @apply h-(--s-header) sticky top-0 z-(--z-header);
+      @apply h-header sticky top-0 z-(--z-header);
       grid-area: h;
     }
 
@@ -164,8 +164,9 @@ const contents = getContents();
     }
 
     .__sidebar-root {
-      @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
-      top-(--s-header) z-(--z-sidebar) px-1 py-2;
+      @apply h-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
+      top-header z-(--z-sidebar) px-1 py-2;
+      scrollbar-width: thin;
     }
 
     main {
@@ -174,7 +175,7 @@ const contents = getContents();
     }
 
     footer {
-      @apply h-max;
+      @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
       grid-area: f;
     }
   }
