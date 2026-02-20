@@ -14,7 +14,7 @@ const mds = data.slice(1).map((d): H2Content => {
   };
 });
 
-const { title, url } = data.at(0)!;
+const { title, url } = data[0];
 ---
 
 <!doctype html>
@@ -23,12 +23,12 @@ const { title, url } = data.at(0)!;
   <body>
     <main>
       <h1 id='title'>
-        The <span class='text-red-600'>C</span>omplete
-        <span class='text-blue-600'>L</span>ojban
-        <span class='text-red-600'>L</span>anguage Viewer
+        The <span class='text-[#f00]'>C</span>omplete
+        <span class='text-[#00f]'>L</span>ojban
+        <span class='text-[#f00]'>L</span>anguage Viewer
       </h1>
       <JboLogo
-        class='max-w-95 w-full mx-auto my-6 [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]'
+        class='max-w-95 w-full mx-auto my-figure [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]'
       />
       <Toc contents={mds} />
     </main>
@@ -49,6 +49,10 @@ const { title, url } = data.at(0)!;
 
     #title {
       @apply text-center;
+    }
+
+    footer {
+      @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
     }
   }
 </style>

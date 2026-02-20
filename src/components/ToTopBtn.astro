@@ -17,7 +17,7 @@ interface Props {}
     window.scroll({ top: 0, behavior: 'smooth' });
   });
 
-  window.addEventListener('scroll', async () => {
+  window.addEventListener('scroll', () => {
     const vis = window.scrollY > 600 ? '' : undefined;
     if (btn.dataset.visible !== vis) {
       if (vis === '') {
@@ -34,14 +34,13 @@ interface Props {}
   
   #to-top-btn {
     @apply hidden fixed right-5 bottom-5
-    p-0.5 rounded size-10
+    place-content-center p-0.5 rounded size-10
     cbg-accent opacity-0 any-hover:cbg-accent-hover
-    transition-[background-color,opacity,display] allow-discrete;
-
-    
+    transition-[background-color,opacity,display]
+    allow-discrete duration-200;
 
     &[data-visible] {
-      @apply block;
+      @apply grid opacity-100;
 
       @starting-style {
         @apply opacity-0;
@@ -49,8 +48,8 @@ interface Props {}
     }
 
     .__arrow {
-      @apply size-4 border-l border-t cborder-text-inv;
-      transform: translateY(-1rem) rotateZ(45deg);
+      @apply size-2 border-l-2 border-t-2 cborder-text-inv;
+      transform: translateY(calc(var(--spacing) * 0.6)) rotateZ(45deg);
     }
   }
 </style>

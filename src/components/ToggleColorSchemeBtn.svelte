@@ -8,6 +8,7 @@
     str === 'default' || str === 'light' || str === 'dark';
 
   const key = 'color-scheme';
+
   onMount(() => {
     const cs = localStorage.getItem(key);
     if (!isColorScheme(cs)) return;

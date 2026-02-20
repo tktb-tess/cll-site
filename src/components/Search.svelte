@@ -107,7 +107,6 @@
   </div>
 </section>
 <ShowResult {results} />
-<div class="h-6"></div>
 
 <style lang="postcss">
   @reference '../styles/globals.css';

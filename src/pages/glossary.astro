@@ -8,52 +8,82 @@ import Search from '../components/Search.svelte';
 import data from '../modules/data.json';
 
 const url = '/glossary/';
-const title = data.find((d) => d.url === url)!.title;
+const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
 ---
 
-<Head {url} {title}>
-  <MyHeader />
-  <main>
+<!doctype html>
+<html>
+  <Head {url} {title} />
+  <body>
+    <header>
+      <MyHeader />
+    </header>
     <Drawer {url} />
-    <aside>
+    <aside class="__lside">
       <div class='__sidebar-root'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
-    <section aria-label='The text'>
+    <main aria-label='The text'>
       <h1 id='title'>{title}</h1>
       <Search client:only='svelte' />
-    </section>
-  </main>
-  <MyFooter />
-</Head>
+    </main>
+    <aside class="__rside"></aside>
+    <footer>
+      <MyFooter />
+    </footer>
+  </body>
+</html>
 
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
+    body {
+      @apply flow-root lg:grid min-h-lvh;
+
+      grid-template-areas: 
+        'h h h'
+        'l m r'
+        'f f f';
+
+      grid-template-columns:
+        minmax(min(var(--spacing-min-side), 50%), 1fr)
+        minmax(0, var(--spacing-max-main))
+        minmax(min(var(--spacing-min-side), 50%), 1fr);
+      grid-template-rows: auto 1fr auto;
+    }
+
+    header {
+      @apply h-header sticky top-0 z-(--z-header);
+      grid-area: h;
+    }
+
+    .__lside {
+      grid-area: l;
+    }
+
+    .__rside {
+      grid-area: r;
+    }
+
+    .__lside, .__rside {
+      @apply max-lg:hidden;
+    }
+
+    .__sidebar-root {
+      @apply h-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
+      top-header z-(--z-sidebar) px-1 py-2;
+      scrollbar-width: thin;
+    }
+
     main {
-      @apply flow-root lg:grid *:min-w-0;
+      @apply flow-root cbg-bg px-4;
+      grid-area: m;
+    }
 
-      grid-template-columns: 
-        minmax(min(var(--min-w-side), 100%), 1fr)
-        minmax(0, calc(var(--max-w-main) + var(--min-w-side)));
-
-      > :where(aside) {
-        @apply hidden lg:block;
-      }
-
-      :where(.__sidebar-root) {
-        @apply h-[calc(100lvh-var(--s-header))] overflow-y-auto sticky 
-        top-[calc(var(--s-header)+.5rem)] z-0 px-1 py-2;
-      }
-
-      > :where(section) {
-        @apply flow-root cbg-bg px-4 min-h-lvh;
-      }
-
-      :where(#title) {
-        @apply text-center;
-      }
+    footer {
+      @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
+      grid-area: f;
     }
   }
 </style>
