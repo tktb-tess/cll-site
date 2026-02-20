@@ -311,7 +311,7 @@
 
   .jbomupli {
     @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5 
-      cbg-side border cborder-border rounded gbg-header;
+      cbg-side border cborder-border rounded;
 
     > div {
       @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_max-content];
