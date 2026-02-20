@@ -13,10 +13,10 @@ There is a close relationship between lujvo and tanru. In fact, lujvo are conden
 
 :::jbomupli
 
-|      |    |       |        |
-| ---- | -- | ----- | ------ |
-| ti   |    | fagri | festi  |
-| That | is | fire  | waste. |
+|      |     |       |        |
+| ---- | --- | ----- | ------ |
+| ti   |     | fagri | festi  |
+| That | is  | fire  | waste. |
 
 :::
 
@@ -80,22 +80,12 @@ As we have seen, no less than five elements are involved in the definition of *g
 
 :::jbomupli
 
-|            |       |       |    |          |    |        |            |       |
-| ---------- | ----- | ----- | -- | -------- | -- | ------ | ---------- | ----- |
-| la         | blabi | zdani | cu | gerku    | be | fa     | la         | spot. |
-| That-named | White | House |    | is-a-dog | (  | namely | that-named | Spot  |
+|            |       |       |     |          |     |        |            |       |          |            |        |          |      |                   |            |      |          |
+| ---------- | ----- | ----- | --- | -------- | --- | ------ | ---------- | ----- | -------- | ---------- | ------ | -------- | ---- | ----------------- | ---------- | ---- | -------- |
+| la         | blabi | zdani | cu  | gerku    | be  | fa     | la         | spot. | bei      | la         | sankt. | berNARD. | be'o | zdani             | la         | bil. | klinton. |
+| That-named | White | House |     | is-a-dog | (   | namely | that-named | Spot  | of-breed | that-named | Saint  | Bernard  | )    | type-of-house-for | that-named | Bill | Clinton. |
 
 :::
-
-|          |            |        |          |      |
-| -------- | ---------- | ------ | -------- | ---- |
-| bei      | la         | sankt. | berNARD. | be'o |
-| of-breed | that-named | Saint  | Bernard  | )    |
-
-|                   |            |      |          |
-| ----------------- | ---------- | ---- | -------- |
-| zdani             | la         | bil. | klinton. |
-| type-of-house-for | that-named | Bill | Clinton. |
 
 Not the most elegant sentence ever written in either Lojban or English. Yet if there is any relation at all between Spot and the White House, [Example 12.5](/chapter12/#example-125 "Example 12.5.") is arguably true. If we concentrate on just one type of relation in interpreting the tanru *gerku zdani*, then the meaning of *gerku zdani* changes. So if we understand *gerku zdani* as having the same meaning as the English word “doghouse”, the White House would no longer be a *gerku zdani* with respect to Spot, because as far as we know Spot does not actually live in the White House, and the White House is not a doghouse (derogatory terms for incumbents notwithstanding).
 
@@ -273,17 +263,12 @@ since that is the interpretation we have given *[gerzda](/glossary/?mode=exact&w
 
 :::jbomupli
 
-|            |      |        |               |            |       |
-| ---------- | ---- | ------ | ------------- | ---------- | ----- |
-| la         | mon. | rePOS. | zdani         | la         | spat  |
-| That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, |
+|            |      |        |               |            |       |          |          |                       |
+| ---------- | ---- | ------ | ------------- | ---------- | ----- | -------- | -------- | --------------------- |
+| la         | mon. | rePOS. | zdani         | la         | spat  | noi ke'a | gerku    | zo'e                  |
+| That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, | who      | is-a-dog | of-unspecified-breed. |
 
 :::
-
-|          |          |                       |
-| -------- | -------- | --------------------- |
-| noi ke'a | gerku    | zo'e                  |
-| who      | is-a-dog | of-unspecified-breed. |
 
 Specifically,
 
@@ -291,17 +276,12 @@ Specifically,
 
 :::jbomupli
 
-|            |      |        |               |            |       |
-| ---------- | ---- | ------ | ------------- | ---------- | ----- |
-| la         | mon. | rePOS. | zdani         | la         | spat. |
-| That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, |
+|            |      |        |               |            |       |          |                   |            |        |          |
+| ---------- | ---- | ------ | ------------- | ---------- | ----- | -------- | ----------------- | ---------- | ------ | -------- |
+| la         | mon. | rePOS. | zdani         | la         | spat. | noi ke'a | gerku             | la         | sankt. | berNARD. |
+| That-named | Mon  | Repos  | is-a-house-of | that-named | Spot, | who      | is-a-dog-of-breed | that-named | St.    | Bernard. |
 
 :::
-
-|          |                   |            |        |          |
-| -------- | ----------------- | ---------- | ------ | -------- |
-| noi ke'a | gerku             | la         | sankt. | berNARD. |
-| who      | is-a-dog-of-breed | that-named | St.    | Bernard. |
 
 and in that case, it makes little sense to say
 
@@ -309,22 +289,12 @@ and in that case, it makes little sense to say
 
 :::jbomupli
 
-|            |      |        |                  |            |       |          |          |
-| ---------- | ---- | ------ | ---------------- | ---------- | ----- | -------- | -------- |
-| la         | mon. | rePOS. | gerzda           | la         | spat. | noi ke'a | gerku    |
-| That-named | Mon  | Repos  | is-a-doghouse-of | that-named | Spot, | who      | is-a-dog |
+|            |      |        |                  |            |       |          |          |          |            |        |          |      |          |            |        |          |
+| ---------- | ---- | ------ | ---------------- | ---------- | ----- | -------- | -------- | -------- | ---------- | ------ | -------- | ---- | -------- | ---------- | ------ | -------- |
+| la         | mon. | rePOS. | gerzda           | la         | spat. | noi ke'a | gerku    |          | la         | sankt. | berNARD. | ku'o |          | la         | sankt. | berNARD. |
+| That-named | Mon  | Repos  | is-a-doghouse-of | that-named | Spot, | who      | is-a-dog | of-breed | that-named | St.    | Bernard, |      | of-breed | that-named | St.    | Bernard. |
 
 :::
-
-|          |            |        |          |      |
-| -------- | ---------- | ------ | -------- | ---- |
-|          | la         | sankt. | berNARD. | ku'o |
-| of-breed | that-named | St.    | Bernard, |      |
-
-|          |            |        |          |
-| -------- | ---------- | ------ | -------- |
-|          | la         | sankt. | berNARD. |
-| of-breed | that-named | St.    | Bernard. |
 
 employing the over-ample place structure of [Example 12.10](/chapter12/#example-1210 "Example 12.10."). The dog breed is redundantly given both in the main selbri and in the relative clause, and (intuitively speaking) is repeated in the wrong place, since the dog breed is supplementary information about the dog, and not about the doghouse.
 
@@ -400,10 +370,10 @@ The motivation for this rule is the parallelism between the lujvo bridi-schema
 
 :::jbomupli
 
-|    |                    |            |                |                |
-| -- | ------------------ | ---------- | -------------- | -------------- |
-| b1 | balsoi             | s2         | b2             | b3             |
-| b1 | is-a-great-soldier | of-army-s2 | in-property-b2 | by-standard-b3 |
+|     |                    |            |                |                |
+| --- | ------------------ | ---------- | -------------- | -------------- |
+| b1  | balsoi             | s2         | b2             | b3             |
+| b1  | is-a-great-soldier | of-army-s2 | in-property-b2 | by-standard-b3 |
 
 :::
 
@@ -413,10 +383,10 @@ and the more or less equivalent bridi-schema
 
 :::jbomupli
 
-|    |              |            |      |          |                |                |
-| -- | ------------ | ---------- | ---- | -------- | -------------- | -------------- |
-| b1 | sonci        | s2         | gi'e | banli    | b2             | b3             |
-| b1 | is-a-soldier | of-army-s2 | and  | is-great | in-property-b2 | by-standard-b3 |
+|     |              |            |      |          |                |                |
+| --- | ------------ | ---------- | ---- | -------- | -------------- | -------------- |
+| b1  | sonci        | s2         | gi'e | banli    | b2             | b3             |
+| b1  | is-a-soldier | of-army-s2 | and  | is-great | in-property-b2 | by-standard-b3 |
 
 :::
 
@@ -531,10 +501,10 @@ because Jack is not an eye, *[kanla](/glossary/?mode=exact&word=kanla)*, but som
 
 :::jbomupli
 
-|            |       |    |                            |
-| ---------- | ----- | -- | -------------------------- |
-| la         | djak. | cu | se blakanla                |
-| That-named | Jack  |    | is-the-bearer-of-blue-eyes |
+|            |       |     |                            |
+| ---------- | ----- | --- | -------------------------- |
+| la         | djak. | cu  | se blakanla                |
+| That-named | Jack  |     | is-the-bearer-of-blue-eyes |
 
 :::
 
@@ -560,10 +530,10 @@ For example, in *[bakrecpa'o](/glossary/?mode=exact&word=bakrecpa%27o)*, meaning
 
 :::jbomupli
 
-|       |        |       |         |       |
-| ----- | ------ | ----- | ------- | ----- |
+|        |        |       |          |       |
+| ------ | ------ | ----- | -------- | ----- |
 | \[ke\] | bakni  | rectu | \[ke'e\] | panlo |
-| (     | bovine | meat  | )       | slice |
+| (      | bovine | meat  | )        | slice |
 
 :::
 
@@ -573,10 +543,10 @@ because of the usual Lojban left-grouping rule. But there doesn't seem to be muc
 
 :::jbomupli
 
-|        |    |       |       |         |
-| ------ | -- | ----- | ----- | ------- |
-| bakni  | ke | rectu | panlo | \[ke'e\] |
-| bovine | (  | meat  | slice | )       |
+|        |     |       |       |          |
+| ------ | --- | ----- | ----- | -------- |
+| bakni  | ke  | rectu | panlo | \[ke'e\] |
+| bovine | (   | meat  | slice | )        |
 
 :::
 
@@ -586,10 +556,10 @@ On the other hand, the lujvo *[zernerkla](/glossary/?mode=exact&word=zernerkla)*
 
 :::jbomupli
 
-|       |    |        |       |         |
-| ----- | -- | ------ | ----- | ------- |
-| zekri | ke | nenri  | klama | \[ke'e\] |
-| crime | (  | inside | go    | )       |
+|       |     |        |       |          |
+| ----- | --- | ------ | ----- | -------- |
+| zekri | ke  | nenri  | klama | \[ke'e\] |
+| crime | (   | inside | go    | )        |
 
 :::
 
@@ -601,10 +571,10 @@ because the alternative,
 
 :::jbomupli
 
-|       |       |        |         |       |
-| ----- | ----- | ------ | ------- | ----- |
+|        |       |        |          |       |
+| ------ | ----- | ------ | -------- | ----- |
 | \[ke\] | zekri | nenri  | \[ke'e\] | klama |
-| (     | crime | inside | )       | go    |
+| (      | crime | inside | )        | go    |
 
 :::
 
@@ -614,10 +584,10 @@ doesn't make much sense. (To go to the inside of a crime? To go into a place whe
 
 :::jbomupli
 
-|       |         |    |       |       |   |
-| ----- | ------- | -- | ----- | ----- | - |
-| xamsi |         | ke | calku | curnu |   |
-| ocean | type-of | (  | shell | worm  | ) |
+|       |         |     |       |       |     |
+| ----- | ------- | --- | ----- | ----- | --- |
+| xamsi |         | ke  | calku | curnu |     |
+| ocean | type-of | (   | shell | worm  | )   |
 
 :::
 
@@ -627,10 +597,10 @@ doesn't make much sense. (To go to the inside of a crime? To go into a place whe
 
 :::jbomupli
 
-|       |       |       |         |         |       |
-| ----- | ----- | ----- | ------- | ------- | ----- |
+|        |       |       |          |         |       |
+| ------ | ----- | ----- | -------- | ------- | ----- |
 | \[ke\] | xamsi | calku | \[ke'e\] |         | curnu |
-| (     | ocean | shell | )       | type-of | worm  |
+| (      | ocean | shell | )        | type-of | worm  |
 
 :::
 
@@ -713,10 +683,10 @@ There is also a rafsi for the cmavo *[jai](/glossary/?mode=exact&word=jai)*, nam
 
 :::jbomupli
 
-|    |                    |         |     |          |      |        |
-| -- | ------------------ | ------- | --- | -------- | ---- | ------ |
-| mi | jai                | rinka   | le  | nu       | do   | morsi  |
-| I  | am-associated-with | causing | the | event-of | your | death. |
+|     |                    |         |     |          |      |        |
+| --- | ------------------ | ------- | --- | -------- | ---- | ------ |
+| mi  | jai                | rinka   | le  | nu       | do   | morsi  |
+| I   | am-associated-with | causing | the | event-of | your | death. |
 
 :::
 
@@ -728,10 +698,10 @@ explained in [Section 11.10](/chapter11/#1110-lojban-sumti-raising "11.10. Lojba
 
 :::jbomupli
 
-|    |                         |     |          |      |        |
-| -- | ----------------------- | --- | -------- | ---- | ------ |
-| mi | jaxri'a                 | le  | nu       | do   | morsi  |
-| I  | am-part-of-the-cause-of | the | event-of | your | dying. |
+|     |                         |     |          |      |        |
+| --- | ----------------------- | --- | -------- | ---- | ------ |
+| mi  | jaxri'a                 | le  | nu       | do   | morsi  |
+| I   | am-part-of-the-cause-of | the | event-of | your | dying. |
 
 :::
 
@@ -889,10 +859,10 @@ Some possible three-part veljvo are (depending on how strictly you want to const
 
 :::jbomupli
 
-|       |       |       |         |         |           |
-| ----- | ----- | ----- | ------- | ------- | --------- |
+|        |       |       |          |         |           |
+| ------ | ----- | ----- | -------- | ------- | --------- |
 | \[ke\] | xance | pilno | \[ke'e\] |         | minde     |
-| (     | hand  | user  | )       | type-of | commander |
+| (      | hand  | user  | )        | type-of | commander |
 
 :::
 
@@ -900,10 +870,10 @@ Some possible three-part veljvo are (depending on how strictly you want to const
 
 :::jbomupli
 
-|       |           |       |         |         |       |
-| ----- | --------- | ----- | ------- | ------- | ----- |
+|        |           |       |          |         |       |
+| ------ | --------- | ----- | -------- | ------- | ----- |
 | \[ke\] | minde     | xance | \[ke'e\] |         | pilno |
-| (     | commander | hand  | )       | type-of | user  |
+| (      | commander | hand  | )        | type-of | user  |
 
 :::
 
@@ -913,10 +883,10 @@ or even
 
 :::jbomupli
 
-|           |         |    |       |       |         |
-| --------- | ------- | -- | ----- | ----- | ------- |
-| minde     |         | ke | xance | pilno | \[ke'e\] |
-| commander | type-of | (  | hand  | user  | )       |
+|           |         |     |       |       |          |
+| --------- | ------- | --- | ----- | ----- | -------- |
+| minde     |         | ke  | xance | pilno | \[ke'e\] |
+| commander | type-of | (   | hand  | user  | )        |
 
 :::
 
@@ -947,10 +917,10 @@ The comparative concept “younger” can be expressed by the lujvo *[citmau](/g
 
 :::jbomupli
 
-|    |                 |     |    |          |               |            |      |
-| -- | --------------- | --- | -- | -------- | ------------- | ---------- | ---- |
-| mi | citmau          | do  | lo | nanca    | be            | li         | xa   |
-| I  | am-younger-than | you | by | one-year | multiplied-by | the-number | six. |
+|     |                 |     |     |          |               |            |      |
+| --- | --------------- | --- | --- | -------- | ------------- | ---------- | ---- |
+| mi  | citmau          | do  | lo  | nanca    | be            | li         | xa   |
+| I   | am-younger-than | you | by  | one-year | multiplied-by | the-number | six. |
 
 :::
 
@@ -968,10 +938,10 @@ Similarly, in Lojban you can say:
 
 :::jbomupli
 
-|     |                     |    |    |          |               |            |      |
-| --- | ------------------- | -- | -- | -------- | ------------- | ---------- | ---- |
-| do  | citme'a             | mi | lo | nanca    | be            | li         | xa   |
-| You | are-less-young-than | me | by | one-year | multiplied-by | the-number | six. |
+|     |                     |     |     |          |               |            |      |
+| --- | ------------------- | --- | --- | -------- | ------------- | ---------- | ---- |
+| do  | citme'a             | mi  | lo  | nanca    | be            | li         | xa   |
+| You | are-less-young-than | me  | by  | one-year | multiplied-by | the-number | six. |
 
 :::
 
@@ -1005,10 +975,10 @@ In such cases, it is best not to use *[zmadu](/glossary/?mode=exact&word=zmadu)*
 
 :::jbomupli
 
-|    |     |              |
-| -- | --- | ------------ |
-| mi | ca  | tsamau       |
-| I  | now | am-stronger. |
+|     |     |              |
+| --- | --- | ------------ |
+| mi  | ca  | tsamau       |
+| I   | now | am-stronger. |
 
 :::
 
@@ -1018,9 +988,9 @@ which implies that I'm currently stronger than somebody else (the elided occupan
 
 :::jbomupli
 
-|    |    |         |
-| -- | -- | ------- |
-| mi | ca | tsaze'a |
+|     |     |         |
+| --- | --- | ------- |
+| mi  | ca  | tsaze'a |
 
 :::
 
@@ -1058,9 +1028,9 @@ But the set against which the t1 place of *[traji](/glossary/?mode=exact&word=tr
 
 :::jbomupli
 
-|    |         |    |        |      |         |
-| -- | ------- | -- | ------ | ---- | ------- |
-| la | djudis. | cu | citrai | lo'i | lobypli |
+|     |         |     |        |      |         |
+| --- | ------- | --- | ------ | ---- | ------- |
+| la  | djudis. | cu  | citrai | lo'i | lobypli |
 
 :::
 
@@ -1070,9 +1040,9 @@ Judy is the youngest of all Lojbanists.
 
 :::jbomupli
 
-|    |            |    |        |      |          |
-| -- | ---------- | -- | ------ | ---- | -------- |
-| la | .ainctain. | cu | balrai | lo'i | skegunka |
+|     |            |     |        |      |          |
+| --- | ---------- | --- | ------ | ---- | -------- |
+| la  | .ainctain. | cu  | balrai | lo'i | skegunka |
 
 :::
 

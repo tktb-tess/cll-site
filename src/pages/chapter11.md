@@ -238,17 +238,12 @@ Event descriptions with *le nu* are commonly used to fill the “under condition
 
 :::jbomupli
 
-|            |         |     |             |     |     |
-| ---------- | ------- | --- | ----------- | --- | --- |
-| la         | lojban. | cu  | frili       |     | mi  |
-| That-named | Lojban  |     | is-easy-for | me  |     |
+|            |         |     |             |     |     |                  |     |          |     |       |         |
+| ---------- | ------- | --- | ----------- | --- | --- | ---------------- | --- | -------- | --- | ----- | ------- |
+| la         | lojban. | cu  | frili       |     | mi  |                  | le  | nu       | mi  | tadni | \[kei\] |
+| That-named | Lojban  |     | is-easy-for | me  |     | under-conditions | the | event-of | I   | study |         |
 
 :::
-
-|                  |     |          |     |       |         |
-| ---------------- | --- | -------- | --- | ----- | ------- |
-|                  | le  | nu       | mi  | tadni | \[kei\] |
-| under-conditions | the | event-of | I   | study |         |
 
 Lojban is easy for me when I study.
 
@@ -292,17 +287,12 @@ An event considered as extended in time, and structured with a beginning, a midd
 
 :::jbomupli
 
-|                  |     |             |     |       |             |     |             |     |
-| ---------------- | --- | ----------- | --- | ----- | ----------- | --- | ----------- | --- |
-| ca'o             | le  | pu'u        | le  | latmo | balje'a     | cu  | porpi       | kei |
-| \[continuitive\] | the | process-of( | the | Latin | great-state |     | breaking-up | )   |
+|                  |     |             |     |       |             |     |             |     |      |              |     |             |
+| ---------------- | --- | ----------- | --- | ----- | ----------- | --- | ----------- | --- | ---- | ------------ | --- | ----------- |
+| ca'o             | le  | pu'u        | le  | latmo | balje'a     | cu  | porpi       | kei | so'i | je'atru      | cu  | selcatra    |
+| \[continuitive\] | the | process-of( | the | Latin | great-state |     | breaking-up | )   | many | state-rulers |     | were-killed |
 
 :::
-
-|      |              |     |             |
-| ---- | ------------ | --- | ----------- |
-| so'i | je'atru      | cu  | selcatra    |
-| many | state-rulers |     | were-killed |
 
 During the fall of the Roman Empire, many Emperors were killed.
 
@@ -385,17 +375,12 @@ has the same truth conditions as
 
 :::jbomupli
 
-|            |       |     |                  |
-| ---------- | ----- | --- | ---------------- |
-| la         | djan. | cu  | ckaji            |
-| That-named | John  |     | has-the-property |
+|            |       |     |                  |     |             |                 |            |         |
+| ---------- | ----- | --- | ---------------- | --- | ----------- | --------------- | ---------- | ------- |
+| la         | djan. | cu  | ckaji            | le  | ka          | se risna        | \[zo'e\]   | \[kei\] |
+| That-named | John  |     | has-the-property | the | property-of | having-as-heart | something. |         |
 
 :::
-
-|     |             |                 |            |         |
-| --- | ----------- | --------------- | ---------- | ------- |
-| le  | ka          | se risna        | \[zo'e\]   | \[kei\] |
-| the | property-of | having-as-heart | something. |         |
 
 John has the property of having a heart.
 
@@ -461,17 +446,12 @@ In particular, sentences like [Example 11.27](/chapter11/#example-1127 "Example 
 
 :::jbomupli
 
-|            |       |     |         |            |         |
-| ---------- | ----- | --- | ------- | ---------- | ------- |
-| la         | djan. | cu  | zmadu   | la         | djordj. |
-| That-named | John  |     | exceeds | that-named | George  |
+|            |       |     |         |            |         |        |             |     |       |     |
+| ---------- | ----- | --- | ------- | ---------- | ------- | ------ | ----------- | --- | ----- | --- |
+| la         | djan. | cu  | zmadu   | la         | djordj. | le     | ka          | mi  | prami |     |
+| That-named | John  |     | exceeds | that-named | George  | in-the | property-of | (I  | love  | X)  |
 
 :::
-
-|        |             |     |       |     |
-| ------ | ----------- | --- | ----- | --- |
-| le     | ka          | mi  | prami |     |
-| in-the | property-of | (I  | love  | X)  |
 
 I love John more than I love George.
 
@@ -479,17 +459,12 @@ I love John more than I love George.
 
 :::jbomupli
 
-|            |       |     |         |            |         |
-| ---------- | ----- | --- | ------- | ---------- | ------- |
-| la         | djan. | cu  | zmadu   | la         | djordj. |
-| That-named | John  |     | exceeds | that-named | George  |
+|            |       |     |         |            |         |        |             |     |       |      |
+| ---------- | ----- | --- | ------- | ---------- | ------- | ------ | ----------- | --- | ----- | ---- |
+| la         | djan. | cu  | zmadu   | la         | djordj. | le     | ka          |     | prami | mi   |
+| That-named | John  |     | exceeds | that-named | George  | in-the | property of | (X  | loves | me). |
 
 :::
-
-|        |             |     |       |      |
-| ------ | ----------- | --- | ----- | ---- |
-| le     | ka          |     | prami | mi   |
-| in-the | property of | (X  | loves | me). |
 
 John loves me more than George loves me.
 
@@ -499,17 +474,12 @@ The “X” used in the glosses of [Example 11.27](/chapter11/#example-1127 "Exa
 
 :::jbomupli
 
-|            |       |     |         |            |         |
-| ---------- | ----- | --- | ------- | ---------- | ------- |
-| la         | djan. | cu  | zmadu   | la         | djordj. |
-| That-named | John  |     | exceeds | that-named | George  |
+|            |       |     |         |            |         |        |             |     |       |      |
+| ---------- | ----- | --- | ------- | ---------- | ------- | ------ | ----------- | --- | ----- | ---- |
+| la         | djan. | cu  | zmadu   | la         | djordj. | le     | ka          | mi  | prami | ce'u |
+| That-named | John  |     | exceeds | that-named | George  | in-the | property-of | (I  | love  | X).  |
 
 :::
-
-|        |             |     |       |      |
-| ------ | ----------- | --- | ----- | ---- |
-| le     | ka          | mi  | prami | ce'u |
-| in-the | property-of | (I  | love  | X).  |
 
 and of [Example 11.28](/chapter11/#example-1128 "Example 11.28.") is:
 
@@ -517,17 +487,12 @@ and of [Example 11.28](/chapter11/#example-1128 "Example 11.28.") is:
 
 :::jbomupli
 
-|            |       |     |         |            |         |
-| ---------- | ----- | --- | ------- | ---------- | ------- |
-| la         | djan. | cu  | zmadu   | la         | djordj. |
-| That-named | John  |     | exceeds | that-named | George  |
+|            |       |     |         |            |         |        |             |      |       |      |
+| ---------- | ----- | --- | ------- | ---------- | ------- | ------ | ----------- | ---- | ----- | ---- |
+| la         | djan. | cu  | zmadu   | la         | djordj. | le     | ka          | ce'u | prami | mi   |
+| That-named | John  |     | exceeds | that-named | George  | in-the | property-of | (X   | loves | me). |
 
 :::
-
-|        |             |      |       |      |
-| ------ | ----------- | ---- | ----- | ---- |
-| le     | ka          | ce'u | prami | mi   |
-| in-the | property-of | (X   | loves | me). |
 
 This convention allows disambiguation of cases like:
 
@@ -625,19 +590,14 @@ Semantically, a sumti with *le ni* is a number; however, it cannot be treated gr
 
 :::jbomupli
 
-|            |     |       |             |     |           |     |
-| ---------- | --- | ----- | ----------- | --- | --------- | --- |
-| li         | pa  | vu'u  | mo'e        | le  | ni        |     |
-| the-number | 1   | minus | the-operand | the | amount-of | (   |
+|            |     |       |             |     |           |     |     |         |     |            |         |
+| ---------- | --- | ----- | ----------- | --- | --------- | --- | --- | ------- | --- | ---------- | ------- |
+| li         | pa  | vu'u  | mo'e        | le  | ni        |     | le  | pixra   | cu  | blanu      | \[kei\] |
+| the-number | $1$ | minus | the-operand | the | amount-of | (   | the | picture |     | being-blue | )       |
 
 :::
 
-|     |         |     |            |         |
-| --- | ------- | --- | ---------- | ------- |
-| le  | pixra   | cu  | blanu      | \[kei\] |
-| the | picture |     | being-blue | )       |
-
-1 - B, where `B` = blueness of the picture
+$1 - B$, where $B$ = blueness of the picture
 
 Mathematical Lojban is beyond the scope of this chapter, and is explained more fully in [Chapter 18](/chapter18/ "Chapter 18. lojbau mekso: Mathematical Expressions in Lojban").
 
@@ -716,17 +676,12 @@ However, not everything in life (or even in Lojban) is simply true or false. The
 
 :::jbomupli
 
-|     |            |        |     |                 |            |         |
-| --- | ---------- | ------ | --- | --------------- | ---------- | ------- |
-| mi  | ba         | jdice  | le  | jei             | la         | djordj. |
-| I   | \[future\] | decide | the | (truth-value of | that-named | George  |
+|     |            |        |     |                 |            |         |     |                |       |         |
+| --- | ---------- | ------ | --- | --------------- | ---------- | ------- | --- | -------------- | ----- | ------- |
+| mi  | ba         | jdice  | le  | jei             | la         | djordj. | cu  | zekri          | gasnu | \[kei\] |
+| I   | \[future\] | decide | the | (truth-value of | that-named | George  |     | being-a-(crime | doer) | ).      |
 
 :::
-
-|     |                |       |         |
-| --- | -------------- | ----- | ------- |
-| cu  | zekri          | gasnu | \[kei\] |
-|     | being-a-(crime | doer) | ).      |
 
 I will decide whether George is a criminal.
 
@@ -829,17 +784,12 @@ As a matter of convenience rather than logical necessity, *[du'u](/glossary/?mod
 
 :::jbomupli
 
-|            |       |           |     |                           |
-| ---------- | ----- | --------- | --- | ------------------------- |
-| la         | djan. | cusku     | le  | se du'u                   |
-| That-named | John  | expresses | the | (sentence-expressing-that |
+|            |       |           |     |                           |            |         |         |     |       |         |
+| ---------- | ----- | --------- | --- | ------------------------- | ---------- | ------- | ------- | --- | ----- | ------- |
+| la         | djan. | cusku     | le  | se du'u                   | la         | djordj. | klama   | le  | zarci | \[kei\] |
+| That-named | John  | expresses | the | (sentence-expressing-that | that-named | George  | goes-to | the | store | )       |
 
 :::
-
-|            |         |         |     |       |         |
-| ---------- | ------- | ------- | --- | ----- | ------- |
-| la         | djordj. | klama   | le  | zarci | \[kei\] |
-| that-named | George  | goes-to | the | store | )       |
 
 John says that George goes to the store.
 
@@ -847,17 +797,12 @@ John says that George goes to the store.
 
 :::jbomupli
 
-|            |      |            |        |
-| ---------- | ---- | ---------- | ------ |
-| la         | djan | cusku      | lu     |
-| That-named | John | expresses, | quote, |
+|            |      |            |        |            |         |       |        |        |          |
+| ---------- | ---- | ---------- | ------ | ---------- | ------- | ----- | ------ | ------ | -------- |
+| la         | djan | cusku      | lu     | la         | djordj. | klama | le     | zarci  | li'u     |
+| That-named | John | expresses, | quote, | that-named | George  | goes  | to-the | store, | unquote. |
 
 :::
-
-|            |         |       |        |        |          |
-| ---------- | ------- | ----- | ------ | ------ | -------- |
-| la         | djordj. | klama | le     | zarci  | li'u     |
-| that-named | George  | goes  | to-the | store, | unquote. |
 
 John says “George goes to the store”.
 
@@ -883,17 +828,12 @@ To express indirect questions in Lojban, we use a *le du'u* abstraction, but rat
 
 :::jbomupli
 
-|     |       |     |                |
-| --- | ----- | --- | -------------- |
-| mi  | djuno | le  | du'u           |
-| I   | know  | the | predication-of |
+|     |       |     |                |     |                       |          |          |     |        |
+| --- | ----- | --- | -------------- | --- | --------------------- | -------- | -------- | --- | ------ |
+| mi  | djuno | le  | du'u           | ma  | kau                   | pu       | klama    | le  | zarci  |
+| I   | know  | the | predication-of | X   | \[indirect-question\] | \[past\] | going-to | the | store. |
 
 :::
-
-|     |                       |          |          |     |        |
-| --- | --------------------- | -------- | -------- | --- | ------ |
-| ma  | kau                   | pu       | klama    | le  | zarci  |
-| X   | \[indirect-question\] | \[past\] | going-to | the | store. |
 
 In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to use *[ma](/glossary/?mode=exact&word=ma)* as the word marked by *[kau](/glossary/?mode=exact&word=kau)*. In fact, any other sumti would have done as well: *[zo'e](/glossary/?mode=exact&word=zo%27e)* or *[da](/glossary/?mode=exact&word=da)* or even *la djan.*. Using *la djan.* would suggest that it was John who I knew had gone to the store, however:
 
@@ -901,17 +841,12 @@ In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to
 
 :::jbomupli
 
-|     |       |     |                          |
-| --- | ----- | --- | ------------------------ |
-| mi  | djuno | le  | du'u                     |
-| I   | know  | the | predication-of/fact-that |
+|     |       |     |                          |            |       |                       |          |          |     |        |
+| --- | ----- | --- | ------------------------ | ---------- | ----- | --------------------- | -------- | -------- | --- | ------ |
+| mi  | djuno | le  | du'u                     | la         | djan. | kau                   | pu       | klama    | le  | zarci  |
+| I   | know  | the | predication-of/fact-that | that-named | John  | \[indirect-question\] | \[past\] | going-to | the | store. |
 
 :::
-
-|            |       |                       |          |          |     |        |
-| ---------- | ----- | --------------------- | -------- | -------- | --- | ------ |
-| la         | djan. | kau                   | pu       | klama    | le  | zarci  |
-| that-named | John  | \[indirect-question\] | \[past\] | going-to | the | store. |
 
 I know who went to the store, namely John.
 | I know that it was John who went to the store. |
@@ -956,17 +891,12 @@ because the x3 place of *[djuno](/glossary/?mode=exact&word=djuno)* is the subje
 
 :::jbomupli
 
-|     |            |         |     |                          |            |       |
-| --- | ---------- | ------- | --- | ------------------------ | ---------- | ----- |
-| mi  | ba         | zgana   | le  | du'u                     | la         | djan. |
-| I   | \[future\] | observe | the | predication-of/fact-that | that-named | John  |
+|     |            |         |     |                          |            |       |                                  |            |         |     |       |     |       |
+| --- | ---------- | ------- | --- | ------------------------ | ---------- | ----- | -------------------------------- | ---------- | ------- | --- | ----- | --- | ----- |
+| mi  | ba         | zgana   | le  | du'u                     | la         | djan. | jikau                            | la         | djordj. | cu  | zvati | le  | panka |
+| I   | \[future\] | observe | the | predication-of/fact-that | that-named | John  | \[connective-indirect-question\] | that-named | George  |     | is-at | the | park. |
 
 :::
-
-|                                  |            |         |     |       |     |       |
-| -------------------------------- | ---------- | ------- | --- | ----- | --- | ----- |
-| jikau                            | la         | djordj. | cu  | zvati | le  | panka |
-| \[connective-indirect-question\] | that-named | George  |     | is-at | the | park. |
 
 I will see whether John or George (or both) is at the park.
 
@@ -1067,27 +997,12 @@ and there is a book whose title might be rendered in Lojban as:
 
 :::jbomupli
 
-|     |                    |             |          |
-| --- | ------------------ | ----------- | -------- |
-| le  | su'u               | la          | .iecuas. |
-| the | abstract-nature-of | (that-named | Jesus    |
+|     |                    |             |          |                       |                    |     |         |     |                     |         |                   |                   |
+| --- | ------------------ | ----------- | -------- | --------------------- | ------------------ | --- | ------- | --- | ------------------- | ------- | ----------------- | ----------------- |
+| le  | su'u               | la          | .iecuas. | kuctai                | selcatra           | kei | be      | lo  | sa'ordzifa'a        | ke      | nalmatma'e        | sutyterjvi        |
+| the | abstract-nature-of | (that-named | Jesus    | is-an-intersect-shape | type-of-killed-one | )   | of-type | a   | slope-low-direction | type-of | non-motor-vehicle | speed-competition |
 
 :::
-
-|                       |                    |     |
-| --------------------- | ------------------ | --- |
-| kuctai                | selcatra           | kei |
-| is-an-intersect-shape | type-of-killed-one | )   |
-
-|         |     |                     |
-| ------- | --- | ------------------- |
-| be      | lo  | sa'ordzifa'a        |
-| of-type | a   | slope-low-direction |
-
-|         |                   |                   |
-| ------- | ----------------- | ----------------- |
-| ke      | nalmatma'e        | sutyterjvi        |
-| type-of | non-motor-vehicle | speed-competition |
 
 The Crucifixion of Jesus Considered As A Downhill Bicycle Race
 
@@ -1112,17 +1027,12 @@ I try to open the door.which in Lojban is:
 
 :::jbomupli
 
-|     |       |     |          |        |             |
-| --- | ----- | --- | -------- | ------ | ----------- |
-| mi  | troci | le  | nu       | \[mi\] | gasnu       |
-| I   | try   | the | event-of | (I     | am-agent-in |
+|     |       |     |          |        |             |     |          |      |       |     |                 |
+| --- | ----- | --- | -------- | ------ | ----------- | --- | -------- | ---- | ----- | --- | --------------- |
+| mi  | troci | le  | nu       | \[mi\] | gasnu       | le  | nu       | le   | vorme | cu  | karbi'o         |
+| I   | try   | the | event-of | (I     | am-agent-in | the | event-of | (the | door  |     | open-becomes)). |
 
 :::
-
-|     |          |      |       |     |                 |
-| --- | -------- | ---- | ----- | --- | --------------- |
-| le  | nu       | le   | vorme | cu  | karbi'o         |
-| the | event-of | (the | door  |     | open-becomes)). |
 
 which has an abstract description within an abstract description, quite a complex structure. In English (but not in all other languages), we may also say:
 
@@ -1257,17 +1167,12 @@ An abstractor may be replaced by two or more abstractors joined by logical or no
 
 :::jbomupli
 
-|     |            |            |        |         |     |         |
-| --- | ---------- | ---------- | ------ | ------- | --- | ------- |
-| le  | ka         | la         | frank. | ciska   | cu  | xlali   |
-| The | quality-of | that-named | Frank  | writing |     | is-bad, |
+|     |            |            |        |         |     |         |      |     |             |            |        |         |     |         |
+| --- | ---------- | ---------- | ------ | ------- | --- | ------- | ---- | --- | ----------- | ---------- | ------ | ------- | --- | ------- |
+| le  | ka         | la         | frank. | ciska   | cu  | xlali   | .ije | le  | ni          | la         | frank. | ciska   | cu  | xlali   |
+| The | quality-of | that-named | Frank  | writing |     | is-bad, | and  | the | quantity-of | that-named | Frank  | writing |     | is-bad. |
 
 :::
-
-|      |     |             |            |        |         |     |         |
-| ---- | --- | ----------- | ---------- | ------ | ------- | --- | ------- |
-| .ije | le  | ni          | la         | frank. | ciska   | cu  | xlali   |
-| and  | the | quantity-of | that-named | Frank  | writing |     | is-bad. |
 
 ##### Example 11.75.
 

@@ -33,27 +33,22 @@ The most usual way of constructing a bridi from a selbri such as *[klama](/gloss
 
 :::jbomupli
 
-|     |     |       |               |        |                 |            |
-| --- | --- | ----- | ------------- | ------ | --------------- | ---------- |
-| mi  | cu  | klama | la            | bastn. | la              | .atlantas. |
-| I   |     | go    | to-that-named | Boston | from-that-named | Atlanta    |
+|     |     |       |               |        |                 |            |         |       |           |       |
+| --- | --- | ----- | ------------- | ------ | --------------- | ---------- | ------- | ----- | --------- | ----- |
+| mi  | cu  | klama | la            | bastn. | la              | .atlantas. | le      | dargu | le        | karce |
+| I   |     | go    | to-that-named | Boston | from-that-named | Atlanta    | via-the | road  | using-the | car.  |
 
 :::
 
-|         |       |           |       |
-| ------- | ----- | --------- | ----- |
-| le      | dargu | le        | karce |
-| via-the | road  | using-the | car.  |
-
 Here the sumti are assigned to the places as follows:
 
-|     |             |                       |
-| --- | ----------- | --------------------- |
+|     |             |                                       |
+| --- | ----------- | ------------------------------------- |
 | x1  | agent       | *[mi](/glossary/?mode=exact&word=mi)* |
-| x2  | destination | *la bastn.*           |
-| x3  | origin      | *la .atlantas.*       |
-| x4  | route       | *le dargu*            |
-| x5  | means       | *le karce*            |
+| x2  | destination | *la bastn.*                           |
+| x3  | origin      | *la .atlantas.*                       |
+| x4  | route       | *le dargu*                            |
+| x5  | means       | *le karce*                            |
 
 (Note: Many of the examples in the rest of this chapter will turn out to have the same meaning as [Example 9.1](/chapter09/#example-91 "Example 9.1."); this fact will not be reiterated.)
 
@@ -63,17 +58,12 @@ This ordering, with the x1 place before the selbri and all other places in natur
 
 :::jbomupli
 
-|     |               |        |                 |            |
-| --- | ------------- | ------ | --------------- | ---------- |
-| mi  | la            | bastn. | la              | .atlantas. |
-| I,  | to-that-named | Boston | from-that-named | Atlanta    |
+|     |               |        |                 |            |         |       |           |       |     |       |
+| --- | ------------- | ------ | --------------- | ---------- | ------- | ----- | --------- | ----- | --- | ----- |
+| mi  | la            | bastn. | la              | .atlantas. | le      | dargu | le        | karce | cu  | klama |
+| I,  | to-that-named | Boston | from-that-named | Atlanta    | via-the | road  | using-the | car,  |     | go.   |
 
 :::
-
-|         |       |           |       |     |       |
-| ------- | ----- | --------- | ----- | --- | ----- |
-| le      | dargu | le        | karce | cu  | klama |
-| via-the | road  | using-the | car,  |     | go.   |
 
 Here the selbri is at the end; all the sumti are placed before it. However, the same order is maintained.
 
@@ -83,17 +73,12 @@ Similarly, we may split up the sumti, putting some before the selbri and others 
 
 :::jbomupli
 
-|     |               |        |     |       |                 |            |
-| --- | ------------- | ------ | --- | ----- | --------------- | ---------- |
-| mi  | la            | bastn. | cu  | klama | la              | .atlantas. |
-| I   | to-that-named | Boston |     | go    | from-that-named | Atlanta    |
+|     |               |        |     |       |                 |            |         |       |           |       |
+| --- | ------------- | ------ | --- | ----- | --------------- | ---------- | ------- | ----- | --------- | ----- |
+| mi  | la            | bastn. | cu  | klama | la              | .atlantas. | le      | dargu | le        | karce |
+| I   | to-that-named | Boston |     | go    | from-that-named | Atlanta    | via-the | road  | using-the | car.  |
 
 :::
-
-|         |       |           |       |
-| ------- | ----- | --------- | ----- |
-| le      | dargu | le        | karce |
-| via-the | road  | using-the | car.  |
 
 All of the variant forms in this section and following sections can be used to place emphasis on the part or parts which have been moved out of their standard places. Thus, [Example 9.2](/chapter09/#example-92 "Example 9.2.") places emphasis on the selbri (because it is at the end); [Example 9.3](/chapter09/#example-93 "Example 9.3.") emphasizes *la bastn.*, because it has been moved before the selbri. Moving more than one component may dilute this emphasis. It is permitted, but no stylistic significance has yet been established for drastic reordering.
 
@@ -105,31 +90,13 @@ The general rule, then, is that the selbri may occur anywhere in the bridi as lo
 
 :::jbomupli
 
-|        |               |           |
-| ------ | ------------- | --------- |
-| klama  | la            | bastn.    |
-| A-goer | to-that-named | Boston    |
-| Goes   |               | to-Boston |
+|        |               |           |                 |              |         |       |           |       |
+| ------ | ------------- | --------- | --------------- | ------------ | ------- | ----- | --------- | ----- |
+| klama  | la            | bastn.    | la              | .atlantas.   | le      | dargu | le        | karce |
+| A-goer | to-that-named | Boston    | from-that-named | Atlanta      | via-the | road  | using-the | car.  |
+| Goes   |               | to-Boston |                 | from-Atlanta | via-the | road  | using-the | car.  |
 
 :::
-
-|                 |              |
-| --------------- | ------------ |
-| la              | .atlantas.   |
-| from-that-named | Atlanta      |
-|                 | from-Atlanta |
-
-|         |       |
-| ------- | ----- |
-| le      | dargu |
-| via-the | road  |
-| via-the | road  |
-
-|           |       |
-| --------- | ----- |
-| le        | karce |
-| using-the | car.  |
-| using-the | car.  |
 
 Look: a goer to Boston from Atlanta via the road using the car!
 
@@ -174,17 +141,12 @@ This is nonsense, since a car cannot be a route. What the speaker presumably mea
 
 :::jbomupli
 
-|     |       |               |        |                 |            |
-| --- | ----- | ------------- | ------ | --------------- | ---------- |
-| mi  | klama | la            | bastn. | la              | .atlantas. |
-| I   | go    | to-that-named | Boston | from-that-named | Atlanta    |
+|     |       |               |        |                 |            |                           |           |       |
+| --- | ----- | ------------- | ------ | --------------- | ---------- | ------------------------- | --------- | ----- |
+| mi  | klama | la            | bastn. | la              | .atlantas. | zo'e                      | le        | karce |
+| I   | go    | to-that-named | Boston | from-that-named | Atlanta    | via-something-unspecified | using-the | car.  |
 
 :::
-
-|                           |           |       |
-| ------------------------- | --------- | ----- |
-| zo'e                      | le        | karce |
-| via-something-unspecified | using-the | car.  |
 
 Here the sumti cmavo *[zo'e](/glossary/?mode=exact&word=zo%27e)* is used to explicitly fill the x4 place; *[zo'e](/glossary/?mode=exact&word=zo%27e)* means “the unspecified thing” and has the same meaning as leaving the place empty: the listener must infer the correct meaning from context.
 
@@ -207,17 +169,12 @@ In sentences like [Example 9.1](/chapter09/#example-91 "Example 9.1."), it is ea
 
 :::jbomupli
 
-|     |     |     |       |     |            |        |     |            |            |
-| --- | --- | --- | ----- | --- | ---------- | ------ | --- | ---------- | ---------- |
-| fa  | mi  | cu  | klama | fe  | la         | bastn. | fi  | la         | .atlantas. |
-| x1= | I   |     | go    | x2= | that-named | Boston | x3= | that-named | Atlanta    |
+|     |     |     |       |     |            |        |     |            |            |     |     |       |     |     |       |
+| --- | --- | --- | ----- | --- | ---------- | ------ | --- | ---------- | ---------- | --- | --- | ----- | --- | --- | ----- |
+| fa  | mi  | cu  | klama | fe  | la         | bastn. | fi  | la         | .atlantas. | fo  | le  | dargu | fu  | le  | karce |
+| x1= | I   |     | go    | x2= | that-named | Boston | x3= | that-named | Atlanta    | x4= | the | road  | x5= | the | car.  |
 
 :::
-
-|     |     |       |     |     |       |
-| --- | --- | ----- | --- | --- | ----- |
-| fo  | le  | dargu | fu  | le  | karce |
-| x4= | the | road  | x5= | the | car.  |
 
 I go to Boston from Atlanta via the road using the car.
 
@@ -229,27 +186,22 @@ In [Example 9.8](/chapter09/#example-98 "Example 9.8."), the tags are overkill; 
 
 :::jbomupli
 
-|     |     |       |     |      |       |     |     |      |       |
-| --- | --- | ----- | --- | ---- | ----- | --- | --- | ---- | ----- |
-| fa  | mi  | klama | fe  | le   | zdani | be  | mi  | be'o | poi   |
-| x1= | I   | go    | x2= | (the | house | of  | me) |      | which |
+|     |     |       |     |      |       |     |     |      |       |          |     |     |            |           |
+| --- | --- | ----- | --- | ---- | ----- | --- | --- | ---- | ----- | -------- | --- | --- | ---------- | --------- |
+| fa  | mi  | klama | fe  | le   | zdani | be  | mi  | be'o | poi   | nurma    | vau | fi  | la         | nu,IORK.  |
+| x1= | I   | go    | x2= | (the | house | of  | me) |      | which | is-rural |     | x3= | that-named | New-York. |
 
 :::
 
-|          |     |     |            |           |
-| -------- | --- | --- | ---------- | --------- |
-| nurma    | vau | fi  | la         | nu,IORK.  |
-| is-rural |     | x3= | that-named | New-York. |
-
 In [Example 9.9](/chapter09/#example-99 "Example 9.9."), the place structure of *[klama](/glossary/?mode=exact&word=klama)* is as follows:
 
-|     |             |                                     |
-| --- | ----------- | ----------------------------------- |
-| x1  | agent       | *[mi](/glossary/?mode=exact&word=mi)*               |
-| x2  | destination | *le zdani be mi be'o poi nurma vau* |
-| x3  | origin      | *la nu,IORK.*                       |
-| x4  | route       | (empty)                             |
-| x5  | means       | (empty)                             |
+|     |             |                                       |
+| --- | ----------- | ------------------------------------- |
+| x1  | agent       | *[mi](/glossary/?mode=exact&word=mi)* |
+| x2  | destination | *le zdani be mi be'o poi nurma vau*   |
+| x3  | origin      | *la nu,IORK.*                         |
+| x4  | route       | (empty)                               |
+| x5  | means       | (empty)                               |
 
 The *[fi](/glossary/?mode=exact&word=fi)* tag serves to remind the hearer that what follows is in the x3 place of *[klama](/glossary/?mode=exact&word=klama)* ; after listening to the complex sumti occupying the x2 place, it's easy to get lost.
 
@@ -259,17 +211,12 @@ Of course, once the sumti have been tagged, the order in which they are specifie
 
 :::jbomupli
 
-|       |     |     |     |            |            |     |     |       |
-| ----- | --- | --- | --- | ---------- | ---------- | --- | --- | ----- |
-| klama | fa  | mi  | fi  | la         | .atlantas. | fu  | le  | karce |
-| go    | x1= | I   | x3= | that-named | Atlanta    | x5= | the | car   |
+|       |     |     |     |            |            |     |     |       |     |            |        |     |     |       |
+| ----- | --- | --- | --- | ---------- | ---------- | --- | --- | ----- | --- | ---------- | ------ | --- | --- | ----- |
+| klama | fa  | mi  | fi  | la         | .atlantas. | fu  | le  | karce | fe  | la         | bastn. | fo  | le  | dargu |
+| go    | x1= | I   | x3= | that-named | Atlanta    | x5= | the | car   | x2= | that-named | Boston | x4= | the | road. |
 
 :::
-
-|     |            |        |     |     |       |
-| --- | ---------- | ------ | --- | --- | ----- |
-| fe  | la         | bastn. | fo  | le  | dargu |
-| x2= | that-named | Boston | x4= | the | road. |
 
 Go I from Atlanta using the car to Boston via the road.
 
@@ -279,17 +226,12 @@ Note that no *[cu](/glossary/?mode=exact&word=cu)* is permitted before the selbr
 
 :::jbomupli
 
-|     |     |       |     |     |       |     |            |            |
-| --- | --- | ----- | --- | --- | ----- | --- | ---------- | ---------- |
-| fu  | le  | karce | fo  | le  | dargu | fi  | la         | .atlantas. |
-| x5= | the | car   | x4= | the | road  | x3= | that-named | Atlanta    |
+|     |     |       |     |     |       |     |            |            |     |            |        |     |       |     |     |
+| --- | --- | ----- | --- | --- | ----- | --- | ---------- | ---------- | --- | ---------- | ------ | --- | ----- | --- | --- |
+| fu  | le  | karce | fo  | le  | dargu | fi  | la         | .atlantas. | fe  | la         | bastn. | cu  | klama | fa  | mi  |
+| x5= | the | car   | x4= | the | road  | x3= | that-named | Atlanta    | x2= | that-named | Boston |     | go    | x1= | I   |
 
 :::
-
-|     |            |        |     |       |     |     |
-| --- | ---------- | ------ | --- | ----- | --- | --- |
-| fe  | la         | bastn. | cu  | klama | fa  | mi  |
-| x2= | that-named | Boston |     | go    | x1= | I   |
 
 Using the car, via the road, from Atlanta to Boston go I.
 
@@ -299,17 +241,12 @@ Using the car, via the road, from Atlanta to Boston go I.
 
 :::jbomupli
 
-|     |       |        |       |                 |            |
-| --- | ----- | ------ | ----- | --------------- | ---------- |
-| le  | karce | le     | dargu | la              | .atlantas. |
-| The | car   | to-the | road  | from-that-named | Atlanta    |
+|     |       |        |       |                 |            |                |        |     |       |           |
+| --- | ----- | ------ | ----- | --------------- | ---------- | -------------- | ------ | --- | ----- | --------- |
+| le  | karce | le     | dargu | la              | .atlantas. | la             | bastn. | cu  | klama | mi        |
+| The | car   | to-the | road  | from-that-named | Atlanta    | via-that-named | Boston |     | goes  | using-me. |
 
 :::
-
-|                |        |     |       |           |
-| -------------- | ------ | --- | ----- | --------- |
-| la             | bastn. | cu  | klama | mi        |
-| via-that-named | Boston |     | goes  | using-me. |
 
 The car goes to the road from Atlanta, with Boston as the route, using me as a means of transport.
 
@@ -321,17 +258,12 @@ Tagging places with FA cmavo makes it easy not only to reorder the places but al
 
 :::jbomupli
 
-|        |     |            |            |     |            |        |
-| ------ | --- | ---------- | ---------- | --- | ---------- | ------ |
-| klama  | fi  | la         | .atlantas. | fe  | la         | bastn. |
-| A-goer | x3= | that-named | Atlanta    | x2= | that-named | Boston |
+|        |     |            |            |     |            |        |     |     |       |
+| ------ | --- | ---------- | ---------- | --- | ---------- | ------ | --- | --- | ----- |
+| klama  | fi  | la         | .atlantas. | fe  | la         | bastn. | fu  | le  | karce |
+| A-goer | x3= | that-named | Atlanta    | x2= | that-named | Boston | x5= | the | car.  |
 
 :::
-
-|     |     |       |
-| --- | --- | ----- |
-| fu  | le  | karce |
-| x5= | the | car.  |
 
 A goer from Atlanta to Boston using the car.
 
@@ -343,17 +275,12 @@ What if some sumti have FA tags and others do not? The rule is that after a FA-t
 
 :::jbomupli
 
-|       |     |     |               |        |               |            |
-| ----- | --- | --- | ------------- | ------ | ------------- | ---------- |
-| klama | fa  | mi  | la            | bastn. | la            | .atlantas. |
-| Go    | x1= | I   | x2=that-named | Boston | x3=that-named | Atlanta    |
+|       |     |     |               |        |               |            |        |       |        |       |
+| ----- | --- | --- | ------------- | ------ | ------------- | ---------- | ------ | ----- | ------ | ----- |
+| klama | fa  | mi  | la            | bastn. | la            | .atlantas. | le     | dargu | le     | karce |
+| Go    | x1= | I   | x2=that-named | Boston | x3=that-named | Atlanta    | x4=the | road  | x5=the | car.  |
 
 :::
-
-|        |       |        |       |
-| ------ | ----- | ------ | ----- |
-| le     | dargu | le     | karce |
-| x4=the | road  | x5=the | car.  |
 
 Go I to Boston from Atlanta via the road using the car.
 
@@ -365,17 +292,12 @@ Here is a more complex (and more confusing) example:
 
 :::jbomupli
 
-|     |       |     |            |            |     |       |
-| --- | ----- | --- | ---------- | ---------- | --- | ----- |
-| mi  | klama | fi  | la         | .atlantas. | le  | dargu |
-| I   | go    | x3= | that-named | Atlanta,   | the | road  |
+|     |       |     |            |            |     |       |     |            |         |     |       |
+| --- | ----- | --- | ---------- | ---------- | --- | ----- | --- | ---------- | ------- | --- | ----- |
+| mi  | klama | fi  | la         | .atlantas. | le  | dargu | fe  | la         | bastn.  | le  | karce |
+| I   | go    | x3= | that-named | Atlanta,   | the | road  | x2= | that-named | Boston, | the | car.  |
 
 :::
-
-|     |            |         |     |       |
-| --- | ---------- | ------- | --- | ----- |
-| fe  | la         | bastn.  | le  | karce |
-| x2= | that-named | Boston, | the | car.  |
 
 I go from Atlanta via the road to Boston using the car.
 
@@ -389,17 +311,12 @@ It is grammatically permitted to tag more than one sumti with the same FA cmavo.
 
 :::jbomupli
 
-|        |            |      |     |            |        |         |
-| ------ | ---------- | ---- | --- | ---------- | ------ | ------- |
-| \[f\]  | la         | rik. | fa  | la         | djein. | klama   |
-| \[x1\] | that-named | Rick | x1= | that-named | Jane   | goes-to |
+|        |            |      |     |            |        |         |        |     |       |     |     |       |     |     |        |
+| ------ | ---------- | ---- | --- | ---------- | ------ | ------- | ------ | --- | ----- | --- | --- | ----- | --- | --- | ------ |
+| \[f\]  | la         | rik. | fa  | la         | djein. | klama   | \[f\]  | le  | skina | fe  | le  | zdani | fe  | le  | zarci  |
+| \[x1\] | that-named | Rick | x1= | that-named | Jane   | goes-to | \[x2\] | the | movie | x2= | the | house | x2= | the | office |
 
 :::
-
-|        |     |       |     |     |       |     |     |        |
-| ------ | --- | ----- | --- | --- | ----- | --- | --- | ------ |
-| \[f\]  | le  | skina | fe  | le  | zdani | fe  | le  | zarci  |
-| \[x2\] | the | movie | x2= | the | house | x2= | the | office |
 
 may be taken to say that both Rick and Jane go to the movie, the house, and the office, merging six claims into one. More likely, however, it will simply confuse the listener. There are better ways, involving logical connectives (explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System")), to say such things in Lojban. In fact, putting more than one sumti into a place is odd enough that it can only be done by explicit FA usage: this is the motivation for the proviso above, that already-occupied places are skipped. In this way, no sumti can be forced into a place already occupied unless it has an explicit FA cmavo tagging it.
 
@@ -686,8 +603,8 @@ The compound cmavo *[sepi'o](/glossary/?mode=exact&word=sepi%27o)* is much short
 
 Some BAI cmavo make sense with as well as without a SE cmavo; for example, *[ka'a](/glossary/?mode=exact&word=ka%27a)* , the BAI corresponding to the gismu *[klama](/glossary/?mode=exact&word=klama)* , has five usable forms corresponding to the five places of *[klama](/glossary/?mode=exact&word=klama)* respectively:
 
-|                              |                         |
-| ---------------------------- | ----------------------- |
+|                                                 |                         |
+| ----------------------------------------------- | ----------------------- |
 | *[ka'a](/glossary/?mode=exact&word=ka%27a)*     | with-goer               |
 | *[seka'a](/glossary/?mode=exact&word=seka%27a)* | with-destination        |
 | *[teka'a](/glossary/?mode=exact&word=teka%27a)* | with-origin             |
@@ -799,8 +716,8 @@ This section has two purposes. On the one hand, it explains the grammatical cons
 
 There are four causal gismu in Lojban, distinguishing different versions of the relationships lumped in English as “causal”:
 
-|                             |                                             |
-| --------------------------- | ------------------------------------------- |
+|                                             |                                             |
+| ------------------------------------------- | ------------------------------------------- |
 | *[rinka](/glossary/?mode=exact&word=rinka)* | event x1 physically causes event x2         |
 | *[krinu](/glossary/?mode=exact&word=krinu)* | event x1 is the justification for event x2  |
 | *[mukti](/glossary/?mode=exact&word=mukti)* | event x1 is the (human) motive for event x2 |
@@ -812,17 +729,12 @@ Each of these gismu has a related modal: *[ri'a](/glossary/?mode=exact&word=ri%2
 
 :::jbomupli
 
-|     |       |     |       |                     |     |          |
-| --- | ----- | --- | ----- | ------------------- | --- | -------- |
-| le  | spati | cu  | banro | ri'a                | le  | nu       |
-| The | plant |     | grows | with-physical-cause | the | event-of |
+|     |       |     |       |                     |     |          |     |       |       |     |     |        |
+| --- | ----- | --- | ----- | ------------------- | --- | -------- | --- | ----- | ----- | --- | --- | ------ |
+| le  | spati | cu  | banro | ri'a                | le  | nu       | do  | djacu | dunda | fi  | le  | spati  |
+| The | plant |     | grows | with-physical-cause | the | event-of | you | water | give  | to  | the | plant. |
 
 :::
-
-|     |       |       |     |     |        |
-| --- | ----- | ----- | --- | --- | ------ |
-| do  | djacu | dunda | fi  | le  | spati  |
-| you | water | give  | to  | the | plant. |
 
 The plant grows because you water it.
 
@@ -830,17 +742,12 @@ The plant grows because you water it.
 
 :::jbomupli
 
-|     |       |       |     |       |          |
-| --- | ----- | ----- | --- | ----- | -------- |
-| la  | djan. | cpacu | le  | pamoi | se jinga |
-|     | John  | gets  | the | first | prize    |
+|     |       |       |     |       |          |                    |     |          |            |       |       |
+| --- | ----- | ----- | --- | ----- | -------- | ------------------ | --- | -------- | ---------- | ----- | ----- |
+| la  | djan. | cpacu | le  | pamoi | se jinga | ki'u               | le  | nu       | la         | djan. | jinga |
+|     | John  | gets  | the | first | prize    | with-justification | the | event-of | that-named | John  | wins. |
 
 :::
-
-|                    |     |          |            |       |       |
-| ------------------ | --- | -------- | ---------- | ----- | ----- |
-| ki'u               | le  | nu       | la         | djan. | jinga |
-| with-justification | the | event-of | that-named | John  | wins. |
 
 John got the first prize because he won.
 
@@ -848,17 +755,12 @@ John got the first prize because he won.
 
 :::jbomupli
 
-|     |       |     |       |                 |
-| --- | ----- | --- | ----- | --------------- |
-| mi  | lebna | le  | cukta | mu'i            |
-| I   | took  | the | book  | with-motivation |
+|     |       |     |       |                 |     |          |     |       |     |       |
+| --- | ----- | --- | ----- | --------------- | --- | -------- | --- | ----- | --- | ----- |
+| mi  | lebna | le  | cukta | mu'i            | le  | nu       | mi  | viska | le  | cukta |
+| I   | took  | the | book  | with-motivation | the | event-of | I   | saw   | the | book. |
 
 :::
-
-|     |          |     |       |     |       |
-| --- | -------- | --- | ----- | --- | ----- |
-| le  | nu       | mi  | viska | le  | cukta |
-| the | event-of | I   | saw   | the | book. |
 
 I took the book because I saw it.
 
@@ -866,17 +768,12 @@ I took the book because I saw it.
 
 :::jbomupli
 
-|     |           |       |        |                            |
-| --- | --------- | ----- | ------ | -------------------------- |
-| la  | sokrates. | morsi | binxo  | ni'i                       |
-|     | Socrates  | dead  | became | with-logical-justification |
+|     |           |       |        |                            |     |          |            |           |           |
+| --- | --------- | ----- | ------ | -------------------------- | --- | -------- | ---------- | --------- | --------- |
+| la  | sokrates. | morsi | binxo  | ni'i                       | le  | nu       | la         | sokrates. | remna     |
+|     | Socrates  | dead  | became | with-logical-justification | the | event-of | that-named | Socrates  | is-human. |
 
 :::
-
-|     |          |            |           |           |
-| --- | -------- | ---------- | --------- | --------- |
-| le  | nu       | la         | sokrates. | remna     |
-| the | event-of | that-named | Socrates  | is-human. |
 
 Socrates died because Socrates is human.
 
@@ -888,17 +785,12 @@ As written, [Example 9.35](/chapter09/#example-935 "Example 9.35.") claims that 
 
 :::jbomupli
 
-|     |       |       |     |     |       |
-| --- | ----- | ----- | --- | --- | ----- |
-| do  | djacu | dunda | fi  | le  | spati |
-| You | water | give  | to  | the | plant |
+|     |       |       |     |     |       |                      |     |          |     |        |
+| --- | ----- | ----- | --- | --- | ----- | -------------------- | --- | -------- | --- | ------ |
+| do  | djacu | dunda | fi  | le  | spati | seri'a               | le  | nu       | ri  | banro  |
+| You | water | give  | to  | the | plant | with-physical-effect | the | event-of | it  | grows. |
 
 :::
-
-|                      |     |          |     |        |
-| -------------------- | --- | -------- | --- | ------ |
-| seri'a               | le  | nu       | ri  | banro  |
-| with-physical-effect | the | event-of | it  | grows. |
 
 You water the plant; therefore, it grows.
 
@@ -908,20 +800,15 @@ with the *[ri'a](/glossary/?mode=exact&word=ri%27a)* changed to *[seri'a](/gloss
 
 :::jbomupli
 
-|     |          |      |       |       |     |     |        |     |
-| --- | -------- | ---- | ----- | ----- | --- | --- | ------ | --- |
-| le  | nu       | do   | djacu | dunda | fi  | le  | spati  | cu  |
-| The | event-of | (you | water | give  | to  | the | plant) |     |
+|     |          |      |       |       |     |     |        |     |        |     |          |      |       |     |         |
+| --- | -------- | ---- | ----- | ----- | --- | --- | ------ | --- | ------ | --- | -------- | ---- | ----- | --- | ------- |
+| le  | nu       | do   | djacu | dunda | fi  | le  | spati  | cu  | rinka  | le  | nu       | le   | spati | cu  | banro   |
+| The | event-of | (you | water | give  | to  | the | plant) |     | causes | the | event-of | (the | plant |     | grows). |
 
 :::
 
-|        |     |          |      |       |     |         |
-| ------ | --- | -------- | ---- | ----- | --- | ------- |
-| rinka  | le  | nu       | le   | spati | cu  | banro   |
-| causes | the | event-of | (the | plant |     | grows). |
-
-Your watering the plant causes its growth.
-| If you water the plant, then it grows.     |
+Your watering the plant causes its growth.  
+If you water the plant, then it grows.
 
 does not claim either event, but asserts only the causal relationship between them. So in [Example 9.40](/chapter09/#example-940 "Example 9.40."), I am not saying that the plant grows nor that you have in fact watered it. The second colloquial translation shows a form of “if-then” in English quite distinct from the logical connective “if-then” explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System").
 
@@ -931,17 +818,12 @@ Suppose we wish to claim both events as well as their causal relationship? We ca
 
 :::jbomupli
 
-|     |       |     |        |          |     |
-| --- | ----- | --- | ------ | -------- | --- |
-| le  | spati | cu  | banro  | .iri'abo | do  |
-| The | plant |     | grows. | Because  | you |
+|     |       |     |        |          |     |       |       |     |     |        |
+| --- | ----- | --- | ------ | -------- | --- | ----- | ----- | --- | --- | ------ |
+| le  | spati | cu  | banro  | .iri'abo | do  | djacu | dunda | fi  | le  | spati  |
+| The | plant |     | grows. | Because  | you | water | give  | to  | the | plant. |
 
 :::
-
-|       |       |     |     |        |
-| ----- | ----- | --- | --- | ------ |
-| djacu | dunda | fi  | le  | spati  |
-| water | give  | to  | the | plant. |
 
 The plant grows because you water it.
 
@@ -949,17 +831,12 @@ The plant grows because you water it.
 
 :::jbomupli
 
-|     |       |       |     |     |        |
-| --- | ----- | ----- | --- | --- | ------ |
-| do  | djacu | dunda | fi  | le  | spati  |
-| You | water | give  | to  | the | plant. |
+|     |       |       |     |     |        |            |     |       |     |        |
+| --- | ----- | ----- | --- | --- | ------ | ---------- | --- | ----- | --- | ------ |
+| do  | djacu | dunda | fi  | le  | spati  | .iseri'abo | le  | spati | cu  | banro  |
+| You | water | give  | to  | the | plant. | Therefore  | the | plant |     | grows. |
 
 :::
-
-|            |     |       |     |        |
-| ---------- | --- | ----- | --- | ------ |
-| .iseri'abo | le  | spati | cu  | banro  |
-| Therefore  | the | plant |     | grows. |
 
 You water the plant; therefore, it grows.
 
@@ -969,17 +846,12 @@ The compound cmavo *.iri'abo* and *.iseri'abo* serve to connect two bridi, as th
 
 :::jbomupli
 
-|     |       |     |        |     |            |      |
-| --- | ----- | --- | ------ | --- | ---------- | ---- |
-| le  | spati | cu  | banro  | .i  | ri'a       | do   |
-| The | plant |     | grows. |     | Because-of | you, |
+|     |       |     |        |     |            |      |              |       |       |     |     |        |
+| --- | ----- | --- | ------ | --- | ---------- | ---- | ------------ | ----- | ----- | --- | --- | ------ |
+| le  | spati | cu  | banro  | .i  | ri'a       | do   |              | djacu | dunda | fi  | le  | spati  |
+| The | plant |     | grows. |     | Because-of | you, | \[somethin\] | water | gives | to  | the | plant. |
 
 :::
-
-|              |       |       |     |     |        |
-| ------------ | ----- | ----- | --- | --- | ------ |
-|              | djacu | dunda | fi  | le  | spati  |
-| \[somethin\] | water | gives | to  | the | plant. |
 
 The plant grows. Because of you, water is given to the plant.
 
@@ -997,20 +869,15 @@ Like many Lojban grammatical constructions, sentence modal connection has both f
 
 :::jbomupli
 
-|     |       |             |       |
-| --- | ----- | ----------- | ----- |
-| mi  | jgari | lei         | djacu |
-| I   | grasp | the-mass-of | water |
+|     |       |             |       |                     |     |       |     |       |
+| --- | ----- | ----------- | ----- | ------------------- | --- | ----- | --- | ----- |
+| mi  | jgari | lei         | djacu | .iri'abo            | mi  | jgari | le  | kabri |
+| I   | grasp | the-mass-of | water | with-physical-cause | I   | grasp | the | cup.  |
 
 :::
 
-|                     |     |       |     |       |
-| ------------------- | --- | ----- | --- | ----- |
-| .iri'abo            | mi  | jgari | le  | kabri |
-| with-physical-cause | I   | grasp | the | cup.  |
-
-Causing the mass of water to be grasped by me, I grasped the cup.
-| I grasp the water because I grasp the cup.                        |
+Causing the mass of water to be grasped by me, I grasped the cup.  
+I grasp the water because I grasp the cup.
 
 An afterthought connection is one that is signaled only by a cmavo (or a compound cmavo, in this case) between the two constructs being connected. Forethought connection uses a signal both before the first construct and between the two: the use of “both” and “and” in the first half of this sentence represents a forethought connection (though not a modal one).
 
@@ -1020,17 +887,12 @@ To make forethought modal sentence connections in Lojban, place the modal plus *
 
 :::jbomupli
 
-|                     |     |       |     |       |     |
-| ------------------- | --- | ----- | --- | ----- | --- |
-| ri'agi              | mi  | jgari | le  | kabri | gi  |
-| With-physical-cause | I   | grasp | the | cup   | ,   |
+|                     |     |       |     |       |     |     |       |             |        |
+| ------------------- | --- | ----- | --- | ----- | --- | --- | ----- | ----------- | ------ |
+| ri'agi              | mi  | jgari | le  | kabri | gi  | mi  | jgari | lei         | djacu  |
+| With-physical-cause | I   | grasp | the | cup   | ,   | I   | grasp | the-mass-of | water. |
 
 :::
-
-|     |       |             |        |
-| --- | ----- | ----------- | ------ |
-| mi  | jgari | lei         | djacu  |
-| I   | grasp | the-mass-of | water. |
 
 Because I grasp the cup, I grasp the water.
 
@@ -1040,17 +902,12 @@ Note that the cause, the x1 of *[rinka](/glossary/?mode=exact&word=rinka)* is no
 
 :::jbomupli
 
-|                      |     |       |             |       |     |
-| -------------------- | --- | ----- | ----------- | ----- | --- |
-| seri'agi             | mi  | jgari | lei         | djacu | gi  |
-| With-physical-effect | I   | grasp | the-mass-of | water | ,   |
+|                      |     |       |             |       |     |     |       |     |       |
+| -------------------- | --- | ----- | ----------- | ----- | --- | --- | ----- | --- | ----- |
+| seri'agi             | mi  | jgari | lei         | djacu | gi  | mi  | jgari | le  | kabri |
+| With-physical-effect | I   | grasp | the-mass-of | water | ,   | I   | grasp | the | cup.  |
 
 :::
-
-|     |       |     |       |
-| --- | ----- | --- | ----- |
-| mi  | jgari | le  | kabri |
-| I   | grasp | the | cup.  |
 
 In English, the sentence “Therefore I grasp the water, I grasp the cup” is ungrammatical, because “therefore” is not grammatically equivalent to “because”. In Lojban, *seri'agi* can be used just like *ri'agi*.
 
@@ -1077,17 +934,12 @@ If the two connected bridi are different in more than one sumti, then a termset 
 
 :::jbomupli
 
-|     |       |     |       |               |       |
-| --- | ----- | --- | ----- | ------------- | ----- |
-| mi  | dunda | le  | cukta | la            | djan. |
-| I   | gave  | the | book  | to-that-named | John. |
+|     |       |     |       |               |       |              |            |       |       |             |       |        |
+| --- | ----- | --- | ----- | ------------- | ----- | ------------ | ---------- | ----- | ----- | ----------- | ----- | ------ |
+| mi  | dunda | le  | cukta | la            | djan. | .imu'ibo     | la         | djan. | dunda | lei         | jdini | mi     |
+| I   | gave  | the | book  | to-that-named | John. | Motivated-by | that-named | John  | gave  | the-mass-of | money | to-me. |
 
 :::
-
-|              |            |       |       |             |       |        |
-| ------------ | ---------- | ----- | ----- | ----------- | ----- | ------ |
-| .imu'ibo     | la         | djan. | dunda | lei         | jdini | mi     |
-| Motivated-by | that-named | John  | gave  | the-mass-of | money | to-me. |
 
 I gave the book to John, because John gave money to me.
 
@@ -1097,17 +949,12 @@ means the same as:
 
 :::jbomupli
 
-|          |         |            |       |             |        |     |     |
-| -------- | ------- | ---------- | ----- | ----------- | ------ | --- | --- |
-| nu'i     | mu'igi  | la         | djan. | lei         | jdini  | mi  | gi  |
-| \[star\] | because | that-named | John, | the-mass-of | money, | me  | ;   |
+|          |         |            |       |             |        |     |     |     |     |       |            |       |        |        |
+| -------- | ------- | ---------- | ----- | ----------- | ------ | --- | --- | --- | --- | ----- | ---------- | ----- | ------ | ------ |
+| nu'i     | mu'igi  | la         | djan. | lei         | jdini  | mi  | gi  | mi  | le  | cukta | la         | djan. | nu'u   | dunda  |
+| \[star\] | because | that-named | John, | the-mass-of | money, | me  | ;   | I,  | the | book, | that-named | John  | \[en\] | gives. |
 
 :::
-
-|     |     |       |            |       |        |        |
-| --- | --- | ----- | ---------- | ----- | ------ | ------ |
-| mi  | le  | cukta | la         | djan. | nu'u   | dunda  |
-| I,  | the | book, | that-named | John  | \[en\] | gives. |
 
 Here there are three sumti in each half of the termset, because the two bridi share only their selbri.
 
@@ -1160,19 +1007,14 @@ Finally, mathematical operands can be modally connected.
 
 :::jbomupli
 
-|            |     |     |            |     |
-| ---------- | --- | --- | ---------- | --- |
-| li         | ny. | du  | li         | vo  |
-| the-number | n   | =   | the-number | 4.  |
+|            |     |     |            |      |             |            |     |     |            |     |      |      |
+| ---------- | --- | --- | ---------- | ---- | ----------- | ---------- | --- | --- | ---------- | --- | ---- | ---- |
+| li         | ny. | du  | li         | vo   | .ini'ibo    | li         | ny. | du  | li         | re  | su'i | re   |
+| the-number | $n$ | $=$ | the-number | $4$. | Entailed-by | the-number | $n$ | $=$ | the-number | $2$ | $+$  | $2$. |
 
 :::
 
-|             |            |     |     |            |     |      |     |
-| ----------- | ---------- | --- | --- | ---------- | --- | ---- | --- |
-| .ini'ibo    | li         | ny. | du  | li         | re  | su'i | re  |
-| Entailed-by | the-number | n   | =   | the-number | 2   | +    | 2.  |
-
-n = 4 because n = 2 + 2.
+$n = 4$ because $n = 2 + 2$.
 
 can be reduced to:
 
@@ -1180,19 +1022,14 @@ can be reduced to:
 
 :::jbomupli
 
-|            |     |     |            |
-| ---------- | --- | --- | ---------- |
-| li         | ny. | du  | li         |
-| the-number | n   | =   | the-number |
+|            |     |     |            |         |     |     |      |     |         |           |      |
+| ---------- | --- | --- | ---------- | ------- | --- | --- | ---- | --- | ------- | --------- | ---- |
+| li         | ny. | du  | li         | ni'igi  | vei | re  | su'i | re  | \[ve'\] | gi        | vo   |
+| the-number | $n$ | $=$ | the-number | because | (   | $2$ | $+$  | $2$ | )       | therefore | $4$. |
 
 :::
 
-|         |     |     |      |     |         |           |     |
-| ------- | --- | --- | ---- | --- | ------- | --------- | --- |
-| ni'igi  | vei | re  | su'i | re  | \[ve'\] | gi        | vo  |
-| because | (   | 2   | +    | 2   | )       | therefore | 4.  |
-
-n is 2 + 2, and is thus 4.
+$n$ is $2 + 2$, and is thus $4$.
 
 The cmavo *[vei](/glossary/?mode=exact&word=vei)* and *[ve'o](/glossary/?mode=exact&word=ve%27o)* represent mathematical parentheses, and are required so that *ni'igi* affects more than just the immediately following operand, namely the first *[re](/glossary/?mode=exact&word=re)* . (The right parenthesis, *[ve'o](/glossary/?mode=exact&word=ve%27o)* , is an elidable terminator.) As usual, no English translation does [Example 9.54](/chapter09/#example-954 "Example 9.54.") justice.
 
@@ -1206,17 +1043,12 @@ Consider the example:
 
 :::jbomupli
 
-|     |       |             |            |         |
-| --- | ----- | ----------- | ---------- | ------- |
-| mi  | tavla | bau         | la         | lojban. |
-| I   | speak | in-language | that-named | Lojban  |
+|     |       |             |            |         |                |             |            |        |
+| --- | ----- | ----------- | ---------- | ------- | -------------- | ----------- | ---------- | ------ |
+| mi  | tavla | bau         | la         | lojban. | bai            | tu'a        | la         | frank. |
+| I   | speak | in-language | that-named | Lojban  | with-compeller | some-act-by | that-named | Frank. |
 
 :::
-
-|                |             |            |        |
-| -------------- | ----------- | ---------- | ------ |
-| bai            | tu'a        | la         | frank. |
-| with-compeller | some-act-by | that-named | Frank. |
 
 I speak in Lojban, under compulsion by Frank.
 
@@ -1239,17 +1071,12 @@ In [Example 9.56](/chapter09/#example-956 "Example 9.56."), the elidable termina
 
 :::jbomupli
 
-|     |       |                  |       |
-| --- | ----- | ---------------- | ----- |
-| mi  | tavla | bau              | \[k\] |
-| I   | speak | in-some-language |       |
+|     |       |                  |       |                     |             |            |        |
+| --- | ----- | ---------------- | ----- | ------------------- | ----------- | ---------- | ------ |
+| mi  | tavla | bau              | \[k\] | bai                 | tu'a        | la         | frank. |
+| I   | speak | in-some-language |       | under-compulsion-by | some-act-by | that-named | Frank. |
 
 :::
-
-|                     |             |            |        |
-| ------------------- | ----------- | ---------- | ------ |
-| bai                 | tu'a        | la         | frank. |
-| under-compulsion-by | some-act-by | that-named | Frank. |
 
 We are also free to move the modal-plus- *[ku](/glossary/?mode=exact&word=ku)* around the bridi:
 
@@ -1313,17 +1140,12 @@ There are two other uses of modals. A modal can be attached to a pair of bridi-t
 
 :::jbomupli
 
-|     |                  |     |      |       |        |        |
-| --- | ---------------- | --- | ---- | ----- | ------ | ------ |
-| mi  | bai              | ke  | ge   | klama | le     | zarci  |
-| I   | under-compulsion | (   | both | go    | to-the | market |
+|     |                  |     |      |       |        |        |     |       |        |       |         |
+| --- | ---------------- | --- | ---- | ----- | ------ | ------ | --- | ----- | ------ | ----- | ------- |
+| mi  | bai              | ke  | ge   | klama | le     | zarci  | gi  | cadzu | le     | bisli | \[ke'\] |
+| I   | under-compulsion | (   | both | go    | to-the | market | and | walk  | on-the | ice   | ).      |
 
 :::
-
-|     |       |        |       |         |
-| --- | ----- | ------ | ----- | ------- |
-| gi  | cadzu | le     | bisli | \[ke'\] |
-| and | walk  | on-the | ice   | ).      |
 
 Under compulsion, I both go to the market and walk on the ice.
 
@@ -1340,12 +1162,12 @@ Similarly, a modal can be attached to multiple sentences that have been combined
 | bai              | tu'e     | mi  | klama | le     | zarci   |
 | Under-compulsion | \[star\] | I   | go    | to-the | market. |
 
-:::
-
 |     |     |       |        |       |         |
 | --- | --- | ----- | ------ | ----- | ------- |
 | .i  | mi  | cadzu | le     | bisli | \[tu'\] |
 |     | I   | walk  | on-the | ice   | \[en\]. |
+
+:::
 
 means the same thing as [Example 9.62](/chapter09/#example-962 "Example 9.62.").
 
@@ -1368,33 +1190,23 @@ Relative phrases and clauses are explained in much more detail in [Chapter 8](/c
 
 :::jbomupli
 
-|     |               |       |                 |
-| --- | ------------- | ----- | --------------- |
-| la  | .apasionatas. | poi   | se cusku        |
-| The | Appassionata  | which | is-expressed-by |
+|     |               |       |                 |            |        |            |     |             |     |
+| --- | ------------- | ----- | --------------- | ---------- | ------ | ---------- | --- | ----------- | --- |
+| la  | .apasionatas. | poi   | se cusku        | la         | .artr. | rubnstain. | cu  | se nelci    | mi  |
+| The | Appassionata  | which | is-expressed-by | that-named | Arthur | Rubinstein |     | is-liked-by | me. |
 
 :::
-
-|            |        |            |     |             |     |
-| ---------- | ------ | ---------- | --- | ----------- | --- |
-| la         | .artr. | rubnstain. | cu  | se nelci    | mi  |
-| that-named | Arthur | Rubinstein |     | is-liked-by | me. |
 
 ##### Example 9.65.
 
 :::jbomupli
 
-|     |               |       |               |
-| --- | ------------- | ----- | ------------- |
-| la  | .apasionatas. | noi   | se finti      |
-| The | Appassionata, | which | is-created-by |
+|     |               |       |               |            |            |     |             |     |
+| --- | ------------- | ----- | ------------- | ---------- | ---------- | --- | ----------- | --- |
+| la  | .apasionatas. | noi   | se finti      | la         | betovn.    | cu  | se nelci    | mi  |
+| The | Appassionata, | which | is-created-by | that-named | Beethoven, |     | is-liked-by | me. |
 
 :::
-
-|            |            |     |             |     |
-| ---------- | ---------- | --- | ----------- | --- |
-| la         | betovn.    | cu  | se nelci    | mi  |
-| that-named | Beethoven, |     | is-liked-by | me. |
 
 In [Example 9.64](/chapter09/#example-964 "Example 9.64."), *la .apasionatas.* refers to a particular performance of the sonata, namely the one performed by Rubinstein. Therefore, the relative clause *poi se cusku* uses the cmavo *[poi](/glossary/?mode=exact&word=poi)* (of selma'o NOI) to restrict the meaning of *la .apasionatas* to the performance in question.
 
@@ -1432,40 +1244,30 @@ It happens that both *[cusku](/glossary/?mode=exact&word=cusku)* and *[finti](/g
 
 :::jbomupli
 
-|     |              |              |
-| --- | ------------ | ------------ |
-| la  | .apasionatas | pe cu'u      |
-| The | Appassionata | expressed-by |
+|     |              |              |            |        |            |     |             |     |
+| --- | ------------ | ------------ | ---------- | ------ | ---------- | --- | ----------- | --- |
+| la  | .apasionatas | pe cu'u      | la         | .artr. | rubnstain. | cu  | se nelci    | mi  |
+| The | Appassionata | expressed-by | that-named | Arthur | Rubinstein |     | is-liked-by | me. |
 
 :::
-
-|            |        |            |     |             |     |
-| ---------- | ------ | ---------- | --- | ----------- | --- |
-| la         | .artr. | rubnstain. | cu  | se nelci    | mi  |
-| that-named | Arthur | Rubinstein |     | is-liked-by | me. |
 
 ##### Example 9.69.
 
 :::jbomupli
 
-|     |               |             |
-| --- | ------------- | ----------- |
-| la  | .apasionatas  | ne fi'e     |
-| The | Appassionata, | invented-by |
+|     |               |             |            |            |     |             |     |
+| --- | ------------- | ----------- | ---------- | ---------- | --- | ----------- | --- |
+| la  | .apasionatas  | ne fi'e     | la         | betovn.    | cu  | se nelci    | mi  |
+| The | Appassionata, | invented-by | that-named | Beethoven, |     | is-liked-by | me. |
 
 :::
-
-|            |            |     |             |     |
-| ---------- | ---------- | --- | ----------- | --- |
-| la         | betovn.    | cu  | se nelci    | mi  |
-| that-named | Beethoven, |     | is-liked-by | me. |
 
 [Example 9.68](/chapter09/#example-968 "Example 9.68.") and [Example 9.69](/chapter09/#example-969 "Example 9.69.") have the full semantic content of [Example 9.64](/chapter09/#example-964 "Example 9.64.") and [Example 9.65](/chapter09/#example-965 "Example 9.65.") respectively.
 
 Modal relative phrases are often used with the BAI cmavo *[mau](/glossary/?mode=exact&word=mau)* and *[me'a](/glossary/?mode=exact&word=me%27a)* , which are based on the comparative gismu *[zmadu](/glossary/?mode=exact&word=zmadu)* (more than) and *[mleca](/glossary/?mode=exact&word=mleca)* (less than) respectively. The place structures are:
 
-|                             |                                                         |
-| --------------------------- | ------------------------------------------------------- |
+|                                             |                                                         |
+| ------------------------------------------- | ------------------------------------------------------- |
 | *[zmadu](/glossary/?mode=exact&word=zmadu)* | x1 is more than x2 in property/quantity x3 by amount x4 |
 | *[mleca](/glossary/?mode=exact&word=mleca)* | x1 is less than x2 in property/quantity x3 by amount x4 |
 
@@ -1475,17 +1277,12 @@ Here are some examples:
 
 :::jbomupli
 
-|            |        |       |            |        |
-| ---------- | ------ | ----- | ---------- | ------ |
-| la         | frank. | nelci | la         | betis. |
-| That-named | Frank  | likes | that-named | Betty, |
+|            |        |       |            |        |          |           |            |         |
+| ---------- | ------ | ----- | ---------- | ------ | -------- | --------- | ---------- | ------- |
+| la         | frank. | nelci | la         | betis. | ne       | semau     | la         | meiris. |
+| That-named | Frank  | likes | that-named | Betty, | which-is | more-than | that-named | Mary.   |
 
 :::
-
-|          |           |            |         |
-| -------- | --------- | ---------- | ------- |
-| ne       | semau     | la         | meiris. |
-| which-is | more-than | that-named | Mary.   |
 
 Frank likes Betty more than (he likes) Mary.
 
@@ -1495,17 +1292,12 @@ Frank likes Betty more than (he likes) Mary.
 
 :::jbomupli
 
-|            |        |       |            |         |
-| ---------- | ------ | ----- | ---------- | ------- |
-| la         | frank. | nelci | la         | meiris. |
-| That-named | Frank  | likes | that-named | Mary,   |
+|            |        |       |            |         |          |           |            |        |
+| ---------- | ------ | ----- | ---------- | ------- | -------- | --------- | ---------- | ------ |
+| la         | frank. | nelci | la         | meiris. | ne       | seme'a    | la         | betis. |
+| That-named | Frank  | likes | that-named | Mary,   | which-is | less-than | that-named | Betty. |
 
 :::
-
-|          |           |            |        |
-| -------- | --------- | ---------- | ------ |
-| ne       | seme'a    | la         | betis. |
-| which-is | less-than | that-named | Betty. |
 
 Frank likes Mary less than (he likes) Betty.
 
@@ -1534,27 +1326,12 @@ Pure comparison, which states only the comparative information but says nothing 
 
 :::jbomupli
 
-|     |             |            |         |
-| --- | ----------- | ---------- | ------- |
-| le  | ni          | la         | frank.  |
-| The | quantity-of | that-named | Frank's |
+|     |             |            |         |        |            |        |     |              |     |             |            |         |        |            |         |
+| --- | ----------- | ---------- | ------- | ------ | ---------- | ------ | --- | ------------ | --- | ----------- | ---------- | ------- | ------ | ---------- | ------- |
+| le  | ni          | la         | frank.  | nelci  | la         | betis. | cu  | zmadu        | le  | ni          | la         | frank.  | nelci  | la         | meiris. |
+| The | quantity-of | that-named | Frank's | liking | that-named | Betty  |     | is-more-than | the | quantity-of | that-named | Frank's | liking | that-named | Mary.   |
 
 :::
-
-|        |            |        |     |
-| ------ | ---------- | ------ | --- |
-| nelci  | la         | betis. | cu  |
-| liking | that-named | Betty  |     |
-
-|              |     |             |            |         |
-| ------------ | --- | ----------- | ---------- | ------- |
-| zmadu        | le  | ni          | la         | frank.  |
-| is-more-than | the | quantity-of | that-named | Frank's |
-
-|        |            |         |
-| ------ | ---------- | ------- |
-| nelci  | la         | meiris. |
-| liking | that-named | Mary.   |
 
 The mechanisms explained in this section are appropriate to many modals other than *[semau](/glossary/?mode=exact&word=semau)* and *[seme'a](/glossary/?mode=exact&word=seme%27a)* . Some other modals that are often associated with relative phrases are: *[seba'i](/glossary/?mode=exact&word=seba%27i)* (“instead of”), *[ci'u](/glossary/?mode=exact&word=ci%27u)* (“on scale”), *[de'i](/glossary/?mode=exact&word=de%27i)* (“dated”), *[du'i](/glossary/?mode=exact&word=du%27i)* (“as much as”). Some BAI tags can be used equally well in relative phrases or attached to bridi; others seem useful only attached to bridi. But it is also possible that the usefulness of particular BAI modals is an English-speaker bias, and that speakers of other languages may find other BAIs useful in divergent ways.
 
@@ -1637,22 +1414,12 @@ The following three complex examples all mean the same thing.
 
 :::jbomupli
 
-|     |       |     |       |
-| --- | ----- | --- | ----- |
-| mi  | bevri | le  | dakli |
-| I   | carry | the | sack. |
+|     |       |     |       |               |      |     |       |     |       |                 |     |       |     |       |         |
+| --- | ----- | --- | ----- | ------------- | ---- | --- | ----- | --- | ----- | --------------- | --- | ----- | --- | ----- | ------- |
+| mi  | bevri | le  | dakli | .ijeseri'abo  | tu'e | mi  | bevri | le  | gerku | .ijadu'ibo      | mi  | bevri | le  | mlatu | \[tu'\] |
+| I   | carry | the | sack. | And-\[effec\] | (    | I   | carry | the | dog.  | And/or-\[equa\] | I   | carry | the | cat.  | )       |
 
 :::
-
-|               |      |     |       |     |       |
-| ------------- | ---- | --- | ----- | --- | ----- |
-| .ijeseri'abo  | tu'e | mi  | bevri | le  | gerku |
-| And-\[effec\] | (    | I   | carry | the | dog.  |
-
-|                 |     |       |     |       |         |
-| --------------- | --- | ----- | --- | ----- | ------- |
-| .ijadu'ibo      | mi  | bevri | le  | mlatu | \[tu'\] |
-| And/or-\[equa\] | I   | carry | the | cat.  | )       |
 
 I carry the sack. As a result I carry the dog or I carry the cat, equally.
 
@@ -1660,22 +1427,12 @@ I carry the sack. As a result I carry the dog or I carry the cat, equally.
 
 :::jbomupli
 
-|     |       |     |       |
-| --- | ----- | --- | ----- |
-| mi  | bevri | le  | dakli |
-| I   | carry | the | sack  |
+|     |       |     |       |               |        |     |       |                 |       |     |       |         |
+| --- | ----- | --- | ----- | ------------- | ------ | --- | ----- | --------------- | ----- | --- | ----- | ------- |
+| mi  | bevri | le  | dakli | gi'eseri'ake  | bevri  | le  | gerku | gi'adu'ibo      | bevri | le  | mlatu | \[ke'\] |
+| I   | carry | the | sack  | and-\[effec\] | (carry | the | dog   | and/or-\[equa\] | carry | the | cat)  |         |
 
 :::
-
-|               |        |     |       |
-| ------------- | ------ | --- | ----- |
-| gi'eseri'ake  | bevri  | le  | gerku |
-| and-\[effec\] | (carry | the | dog   |
-
-|                 |       |     |       |         |
-| --------------- | ----- | --- | ----- | ------- |
-| gi'adu'ibo      | bevri | le  | mlatu | \[ke'\] |
-| and/or-\[equa\] | carry | the | cat)  |         |
 
 I carry the sack and as a result carry the dog or carry the cat equally.
 
@@ -1683,22 +1440,12 @@ I carry the sack and as a result carry the dog or carry the cat equally.
 
 :::jbomupli
 
-|     |       |     |       |
-| --- | ----- | --- | ----- |
-| mi  | bevri | le  | dakli |
-| I   | carry | the | sack  |
+|     |       |     |       |               |      |       |                 |     |       |         |
+| --- | ----- | --- | ----- | ------------- | ---- | ----- | --------------- | --- | ----- | ------- |
+| mi  | bevri | le  | dakli | .eseri'ake    | le   | gerku | .adu'ibo        | le  | mlatu | \[ke'\] |
+| I   | carry | the | sack  | and-\[effec\] | (the | dog   | and/or-\[equa\] | the | cat)  |         |
 
 :::
-
-|               |      |       |
-| ------------- | ---- | ----- |
-| .eseri'ake    | le   | gerku |
-| and-\[effec\] | (the | dog   |
-
-|                 |     |       |         |
-| --------------- | --- | ----- | ------- |
-| .adu'ibo        | le  | mlatu | \[ke'\] |
-| and/or-\[equa\] | the | cat)  |         |
 
 I carry the sack, and as a result the cat or the dog equally.
 
@@ -1753,17 +1500,12 @@ In addition, it is grammatical to use *[jai](/glossary/?mode=exact&word=jai)* wi
 
 :::jbomupli
 
-|     |          |     |       |     |       |     |                 |
-| --- | -------- | --- | ----- | --- | ----- | --- | --------------- |
-| le  | nu       | mi  | lebna | le  | cukta | cu  | se krinu        |
-| The | event-of | (I  | take  | the | book) |     | is-justified-by |
+|     |          |     |       |     |       |     |                 |     |          |     |       |     |        |
+| --- | -------- | --- | ----- | --- | ----- | --- | --------------- | --- | -------- | --- | ----- | --- | ------ |
+| le  | nu       | mi  | lebna | le  | cukta | cu  | se krinu        | le  | nu       | mi  | viska | le  | cukta  |
+| The | event-of | (I  | take  | the | book) |     | is-justified-by | the | event-of | (I  | see   | the | book). |
 
 :::
-
-|     |          |     |       |     |        |
-| --- | -------- | --- | ----- | --- | ------ |
-| le  | nu       | mi  | viska | le  | cukta  |
-| the | event-of | (I  | see   | the | book). |
 
 My taking the book is justified by my seeing it.
 
@@ -1771,17 +1513,12 @@ My taking the book is justified by my seeing it.
 
 :::jbomupli
 
-|     |                 |     |          |     |       |     |       |     |
-| --- | --------------- | --- | -------- | --- | ----- | --- | ----- | --- |
-| mi  | jai se krinu    | le  | nu       | mi  | viska | le  | cukta | kei |
-| I   | am-justified-by | the | event-of | (I  | see   | the | book) |     |
+|     |                 |     |          |     |       |     |       |     |           |     |          |     |       |     |         |
+| --- | --------------- | --- | -------- | --- | ----- | --- | ----- | --- | --------- | --- | -------- | --- | ----- | --- | ------- |
+| mi  | jai se krinu    | le  | nu       | mi  | viska | le  | cukta | kei | \[fai     | le  | nu       | mi  | lebna | le  | cukt\]  |
+| I   | am-justified-by | the | event-of | (I  | see   | the | book) |     | \[namely, | the | event-of | (I  | take  | the | book)\] |
 
 :::
-
-|           |     |          |     |       |     |         |
-| --------- | --- | -------- | --- | ----- | --- | ------- |
-| \[fai     | le  | nu       | mi  | lebna | le  | cukt\]  |
-| \[namely, | the | event-of | (I  | take  | the | book)\] |
 
 I am justified in taking the book by seeing the book.
 
@@ -1815,17 +1552,12 @@ Scalar negation is achieved by prefixing *[na'e](/glossary/?mode=exact&word=na%2
 
 :::jbomupli
 
-|     |       |     |       |                         |     |          |
-| --- | ----- | --- | ----- | ----------------------- | --- | -------- |
-| le  | spati | cu  | banro | na'emu'i                | le  | nu       |
-| The | plant |     | grows | other-than-motivated-by | the | event-of |
+|     |       |     |       |                         |     |          |     |       |       |     |     |        |
+| --- | ----- | --- | ----- | ----------------------- | --- | -------- | --- | ----- | ----- | --- | --- | ------ |
+| le  | spati | cu  | banro | na'emu'i                | le  | nu       | do  | djacu | dunda | fi  | le  | spati  |
+| The | plant |     | grows | other-than-motivated-by | the | event-of | you | water | give  | to  | the | plant. |
 
 :::
-
-|     |       |       |     |     |        |
-| --- | ----- | ----- | --- | --- | ------ |
-| do  | djacu | dunda | fi  | le  | spati  |
-| you | water | give  | to  | the | plant. |
 
 [Example 9.87](/chapter09/#example-987 "Example 9.87.") says that the relationship between the plant's growth and your watering it is not one of motivation: the plant is not motivated to grow, as plants are not something which can have motivation as a rule. Implicitly, some other relationship between watering and growth exists, but [Example 9.87](/chapter09/#example-987 "Example 9.87.") doesn't say what it is (presumably *[ri'a](/glossary/?mode=exact&word=ri%27a)* ).
 
@@ -1845,22 +1577,17 @@ Like tenses, modals can be made persistent from the bridi in which they appear t
 
 :::jbomupli
 
-|     |       |             |            |         |              |
-| --- | ----- | ----------- | ---------- | ------- | ------------ |
-| mi  | tavla | bau         | la         | lojban. | bai          |
-| I   | speak | in-language | that-named | Lojban  | compelled-by |
-
-:::
-
-|     |                  |            |        |
-| --- | ---------------- | ---------- | ------ |
-| ki  | tu'a             | la         | frank. |
-|     | some-property-of | that-named | Frank. |
+|     |       |             |            |         |              |     |                  |            |        |
+| --- | ----- | ----------- | ---------- | ------- | ------------ | --- | ---------------- | ---------- | ------ |
+| mi  | tavla | bau         | la         | lojban. | bai          | ki  | tu'a             | la         | frank. |
+| I   | speak | in-language | that-named | Lojban  | compelled-by |     | some-property-of | that-named | Frank. |
 
 |            |     |       |             |            |          |
 | ---------- | --- | ----- | ----------- | ---------- | -------- |
 | .ibabo     | mi  | tavla | bau         | la         | gliban.  |
 | Afterward, | I   | speak | in-language | that-named | English. |
+
+:::
 
 means the same as:
 
@@ -1868,27 +1595,17 @@ means the same as:
 
 :::jbomupli
 
-|     |       |             |            |         |              |
-| --- | ----- | ----------- | ---------- | ------- | ------------ |
-| mi  | tavla | bau         | la         | lojban. | bai          |
-| I   | speak | in-language | that-named | Lojban  | compelled-by |
+|     |       |             |            |         |              |                  |            |        |
+| --- | ----- | ----------- | ---------- | ------- | ------------ | ---------------- | ---------- | ------ |
+| mi  | tavla | bau         | la         | lojban. | bai          | tu'a             | la         | frank. |
+| I   | speak | in-language | that-named | Lojban  | compelled-by | some-property-of | that-named | Frank. |
+
+|            |     |       |             |            |         |              |                  |            |        |
+| ---------- | --- | ----- | ----------- | ---------- | ------- | ------------ | ---------------- | ---------- | ------ |
+| .ibabo     | mi  | tavla | bau         | la         | gliban. | bai          | tu'a             | la         | frank. |
+| Afterward, | I   | speak | in-language | that-named | English | compelled-by | some-property-of | that-named | Frank. |
 
 :::
-
-|                  |            |        |
-| ---------------- | ---------- | ------ |
-| tu'a             | la         | frank. |
-| some-property-of | that-named | Frank. |
-
-|            |     |       |             |            |         |              |
-| ---------- | --- | ----- | ----------- | ---------- | ------- | ------------ |
-| .ibabo     | mi  | tavla | bau         | la         | gliban. | bai          |
-| Afterward, | I   | speak | in-language | that-named | English | compelled-by |
-
-|                  |            |        |
-| ---------------- | ---------- | ------ |
-| tu'a             | la         | frank. |
-| some-property-of | that-named | Frank. |
 
 In [Example 9.88](/chapter09/#example-988 "Example 9.88."), *[bai](/glossary/?mode=exact&word=bai)* is made sticky, and so Frank's compelling is made applicable to every following bridi. *[bau](/glossary/?mode=exact&word=bau)* is not sticky, and so the language may vary from bridi to bridi, and if not specified in a particular bridi, no assumption can safely be made about its value.
 
@@ -1921,12 +1638,12 @@ Logical and non-logical connectives are explained in detail in [Chapter 14](/cha
 | la         | frank. | bajra | seka'a           | le  | zdani  |
 | That-named | Frank  | runs  | with-destination | the | house. |
 
-:::
-
 |      |            |        |       |             |     |        |
 | ---- | ---------- | ------ | ----- | ----------- | --- | ------ |
 | .ije | la         | frank. | bajra | teka'a      | le  | zdani  |
 | And  | that-named | Frank  | runs  | with-origin | the | house. |
+
+:::
 
 Frank runs to the house, and Frank runs from the house.
 
@@ -1934,17 +1651,12 @@ Frank runs to the house, and Frank runs from the house.
 
 :::jbomupli
 
-|            |        |       |                  |
-| ---------- | ------ | ----- | ---------------- |
-| la         | frank. | bajra | seka'a           |
-| That-named | Frank  | runs  | with-destination |
+|            |        |       |                  |     |             |     |        |
+| ---------- | ------ | ----- | ---------------- | --- | ----------- | --- | ------ |
+| la         | frank. | bajra | seka'a           | je  | teka'a      | le  | zdani  |
+| That-named | Frank  | runs  | with-destination | and | with-origin | the | house. |
 
 :::
-
-|     |             |     |        |
-| --- | ----------- | --- | ------ |
-| je  | teka'a      | le  | zdani  |
-| and | with-origin | the | house. |
 
 Frank runs to and from the house.
 
@@ -1954,17 +1666,12 @@ Neither example implies whether a single act, or two acts, of running is referre
 
 :::jbomupli
 
-|            |        |       |                  |     |       |
-| ---------- | ------ | ----- | ---------------- | --- | ----- |
-| la         | frank. | bajra | seka'a           | le  | zdani |
-| That-named | Frank  | runs  | with-destination | the | house |
+|            |        |       |                  |     |       |              |             |     |        |
+| ---------- | ------ | ----- | ---------------- | --- | ----- | ------------ | ----------- | --- | ------ |
+| la         | frank. | bajra | seka'a           | le  | zdani | ce'e         | teka'a      | le  | zdani  |
+| That-named | Frank  | runs  | with-destination | the | house | \[joined-t\] | with-origin | the | house. |
 
 :::
-
-|              |             |     |        |
-| ------------ | ----------- | --- | ------ |
-| ce'e         | teka'a      | le  | zdani  |
-| \[joined-t\] | with-origin | the | house. |
 
 The cmavo *[ce'e](/glossary/?mode=exact&word=ce%27e)* creates a termset containing two terms (termsets are explained in [Chapter 14](/chapter14/ "Chapter 14. If Wishes Were Horses: The Lojban Connective System") and [Chapter 16](/chapter16/ "Chapter 16. “Who Did You Pass On The Road? Nobody”: Lojban And Logic")). When a termset contains more than one modal tag derived from a single BAI, the convention is that the two tags are derived from a common event.
 
@@ -2034,73 +1741,73 @@ For those cmavo with meaningful *[te](/glossary/?mode=exact&word=te)* , *[ve](/g
 
 It should be emphasized that the place structures of the gismu control the meanings of the BAI cmavo. The English phrases shown here are only suggestive, and are often too broad or too narrow to correctly specify what the acceptable range of uses for the modal tag are.
 
-|                          |                             |                    |                       |                              |                           |                   |
-| ------------------------ | --------------------------- | ------------------ | --------------------- | ---------------------------- | ------------------------- | ----------------- |
-| ba'i                     | basti                       | replaced by        | instead of            |                              |                           |                   |
-| bai                      | bapli                       | compelled by       | compelling            |                              |                           |                   |
-| bau                      | bangu                       | in language        | in language of        |                              |                           |                   |
-| be'i                     | benji                       | sent by            | transmitting          | sent to                      | with transmit origin      | transmitted via   |
-| ca'i                     | catni                       | by authority of    | with authority over   |                              |                           |                   |
-| cau                      | claxu                       | lacked by          | without               |                              |                           |                   |
-| ci'e                     | ciste                       | in system          | with system function  | of system components         |                           |                   |
-| ci'o                     | cinmo                       | felt by            | feeling emotion       |                              |                           |                   |
-| ci'u                     | ckilu                       | on the scale       | on scale measuring    |                              |                           |                   |
-| cu'u                     | cusku                       | as said by         | expressing            | as told to                   | expressed in medium       |                   |
-| de'i                     | detri                       | dated              | on the same date as   |                              |                           |                   |
-| di'o                     | diklo                       | at the locus of    | at specific locus     |                              |                           |                   |
-| *[do'e](/glossary/?mode=exact&word=do%27e)* | -----                       | vaguely related to |                       |                              |                           |                   |
-| du'i                     | dunli                       | as much as         | equal to              |                              |                           |                   |
-| du'o                     | djuno                       | according to       | knowing facts         | knowing about                | under epistemology        |                   |
-| fa'e                     | fatne                       | reverse of         | in reversal of        |                              |                           |                   |
-| *[fau](/glossary/?mode=exact&word=fau)*  | *[fasnu](/glossary/?mode=exact&word=fasnu)* | in the event of    |                       |                              |                           |                   |
-| fi'e                     | finti                       | created by         | creating work         | created for purpose          |                           |                   |
-| ga'a                     | zgana                       | to observer        | observing             | observed by means            | observed under conditions |                   |
-| gau                      | gasnu                       | with agent         | as agent in doing     |                              |                           |                   |
-| ja'e                     | jalge                       | resulting in       | results because of    |                              |                           |                   |
-| ja'i                     | javni                       | by rule            | by rule prescribing   |                              |                           |                   |
-| ji'e                     | jimte                       | up to limit        | as a limit of         |                              |                           |                   |
-| ji'o                     | jitro                       | under direction    | controlling           |                              |                           |                   |
-| ji'u                     | jicmu                       | based on           | supporting            |                              |                           |                   |
-| ka'a                     | klama                       | gone to by         | with destination      | with origin                  | via route                 | by transport mode |
-| ka'i                     | krati                       | represented by     | on behalf of          |                              |                           |                   |
-| kai                      | ckaji                       | characterizing     | with property         |                              |                           |                   |
-| ki'i                     | ckini                       | as relation of     | related to            | with relation                |                           |                   |
-| ki'u                     | krinu                       | justified by       | with justified result |                              |                           |                   |
-| koi                      | korbi                       | bounded by         | as boundary of        | bordering                    |                           |                   |
-| ku'u                     | kulnu                       | in culture         | in culture of         |                              |                           |                   |
-| la'u                     | klani                       | as quantity of     | in quantity           |                              |                           |                   |
-| le'a                     | klesi                       | in category        | as category of        | defined by quality           |                           |                   |
-| li'e                     | lidne                       | led by             | leading               |                              |                           |                   |
-| ma'e                     | marji                       | of material        | made from material    | in material form of          |                           |                   |
-| ma'i                     | manri                       | in reference frame | as a standard of      |                              |                           |                   |
-| mau                      | zmadu                       | exceeded by        | more than             |                              |                           |                   |
-| me'a                     | mleca                       | undercut by        | less than             |                              |                           |                   |
-| me'e                     | cmene                       | with name          | as a name for         |                              |                           |                   |
-| mu'i                     | mukti                       | motivated by       | motive therefore      |                              |                           |                   |
-| mu'u                     | mupli                       | exemplified by     | as an example of      |                              |                           |                   |
-| ni'i                     | nibli                       | entailed by        | entails               |                              |                           |                   |
-| pa'a                     | panra                       | in addition to     | similar to            | similar in pattern           | similar by standard       |                   |
-| pa'u                     | pagbu                       | with component     | as a part of          |                              |                           |                   |
-| pi'o                     | pilno                       | used by            | using tool            |                              |                           |                   |
-| po'i                     | porsi                       | in the sequence    | sequenced by rule     |                              |                           |                   |
-| pu'a                     | pluka                       | pleased by         | in order to please    |                              |                           |                   |
-| pu'e                     | pruce                       | by process         | processing from       | processing into              | passing through stages    |                   |
+|                                             |                                             |                    |                       |                              |                           |                   |
+| ------------------------------------------- | ------------------------------------------- | ------------------ | --------------------- | ---------------------------- | ------------------------- | ----------------- |
+| ba'i                                        | basti                                       | replaced by        | instead of            |                              |                           |                   |
+| bai                                         | bapli                                       | compelled by       | compelling            |                              |                           |                   |
+| bau                                         | bangu                                       | in language        | in language of        |                              |                           |                   |
+| be'i                                        | benji                                       | sent by            | transmitting          | sent to                      | with transmit origin      | transmitted via   |
+| ca'i                                        | catni                                       | by authority of    | with authority over   |                              |                           |                   |
+| cau                                         | claxu                                       | lacked by          | without               |                              |                           |                   |
+| ci'e                                        | ciste                                       | in system          | with system function  | of system components         |                           |                   |
+| ci'o                                        | cinmo                                       | felt by            | feeling emotion       |                              |                           |                   |
+| ci'u                                        | ckilu                                       | on the scale       | on scale measuring    |                              |                           |                   |
+| cu'u                                        | cusku                                       | as said by         | expressing            | as told to                   | expressed in medium       |                   |
+| de'i                                        | detri                                       | dated              | on the same date as   |                              |                           |                   |
+| di'o                                        | diklo                                       | at the locus of    | at specific locus     |                              |                           |                   |
+| *[do'e](/glossary/?mode=exact&word=do%27e)* | -----                                       | vaguely related to |                       |                              |                           |                   |
+| du'i                                        | dunli                                       | as much as         | equal to              |                              |                           |                   |
+| du'o                                        | djuno                                       | according to       | knowing facts         | knowing about                | under epistemology        |                   |
+| fa'e                                        | fatne                                       | reverse of         | in reversal of        |                              |                           |                   |
+| *[fau](/glossary/?mode=exact&word=fau)*     | *[fasnu](/glossary/?mode=exact&word=fasnu)* | in the event of    |                       |                              |                           |                   |
+| fi'e                                        | finti                                       | created by         | creating work         | created for purpose          |                           |                   |
+| ga'a                                        | zgana                                       | to observer        | observing             | observed by means            | observed under conditions |                   |
+| gau                                         | gasnu                                       | with agent         | as agent in doing     |                              |                           |                   |
+| ja'e                                        | jalge                                       | resulting in       | results because of    |                              |                           |                   |
+| ja'i                                        | javni                                       | by rule            | by rule prescribing   |                              |                           |                   |
+| ji'e                                        | jimte                                       | up to limit        | as a limit of         |                              |                           |                   |
+| ji'o                                        | jitro                                       | under direction    | controlling           |                              |                           |                   |
+| ji'u                                        | jicmu                                       | based on           | supporting            |                              |                           |                   |
+| ka'a                                        | klama                                       | gone to by         | with destination      | with origin                  | via route                 | by transport mode |
+| ka'i                                        | krati                                       | represented by     | on behalf of          |                              |                           |                   |
+| kai                                         | ckaji                                       | characterizing     | with property         |                              |                           |                   |
+| ki'i                                        | ckini                                       | as relation of     | related to            | with relation                |                           |                   |
+| ki'u                                        | krinu                                       | justified by       | with justified result |                              |                           |                   |
+| koi                                         | korbi                                       | bounded by         | as boundary of        | bordering                    |                           |                   |
+| ku'u                                        | kulnu                                       | in culture         | in culture of         |                              |                           |                   |
+| la'u                                        | klani                                       | as quantity of     | in quantity           |                              |                           |                   |
+| le'a                                        | klesi                                       | in category        | as category of        | defined by quality           |                           |                   |
+| li'e                                        | lidne                                       | led by             | leading               |                              |                           |                   |
+| ma'e                                        | marji                                       | of material        | made from material    | in material form of          |                           |                   |
+| ma'i                                        | manri                                       | in reference frame | as a standard of      |                              |                           |                   |
+| mau                                         | zmadu                                       | exceeded by        | more than             |                              |                           |                   |
+| me'a                                        | mleca                                       | undercut by        | less than             |                              |                           |                   |
+| me'e                                        | cmene                                       | with name          | as a name for         |                              |                           |                   |
+| mu'i                                        | mukti                                       | motivated by       | motive therefore      |                              |                           |                   |
+| mu'u                                        | mupli                                       | exemplified by     | as an example of      |                              |                           |                   |
+| ni'i                                        | nibli                                       | entailed by        | entails               |                              |                           |                   |
+| pa'a                                        | panra                                       | in addition to     | similar to            | similar in pattern           | similar by standard       |                   |
+| pa'u                                        | pagbu                                       | with component     | as a part of          |                              |                           |                   |
+| pi'o                                        | pilno                                       | used by            | using tool            |                              |                           |                   |
+| po'i                                        | porsi                                       | in the sequence    | sequenced by rule     |                              |                           |                   |
+| pu'a                                        | pluka                                       | pleased by         | in order to please    |                              |                           |                   |
+| pu'e                                        | pruce                                       | by process         | processing from       | processing into              | passing through stages    |                   |
 | *[ra'a](/glossary/?mode=exact&word=ra%27a)* | *[srana](/glossary/?mode=exact&word=srana)* | pertained to by    | concerning            |                              |                           |                   |
 | *[ra'i](/glossary/?mode=exact&word=ra%27i)* | *[krasi](/glossary/?mode=exact&word=krasi)* | from source        | as an origin of       |                              |                           |                   |
-| rai                      | traji                       | with superlative   | superlative in        | at extreme                   | superlative among         |                   |
-| ri'a                     | rinka                       | caused by          | causing               |                              |                           |                   |
-| ri'i                     | lifri                       | experienced by     | experiencing          |                              |                           |                   |
-| sau                      | sarcu                       | requiring          | necessarily for       | necessarily under conditions |                           |                   |
-| si'u                     | sidju                       | aided by           | assisting in          |                              |                           |                   |
-| ta'i                     | tadji                       | by method          | as a method for       |                              |                           |                   |
-| tai                      | tamsmi                      | as a form of       | in form               | in form similar to           |                           |                   |
-| ti'i                     | stidi                       | suggested by       | suggesting            | suggested to                 |                           |                   |
-| ti'u                     | tcika                       | with time          | at the time of        |                              |                           |                   |
-| tu'i                     | stuzi                       | with site          | as location of        |                              |                           |                   |
-| va'o                     | vanbi                       | under conditions   | as conditions for     |                              |                           |                   |
-| va'u                     | xamgu                       | benefiting from    | with beneficiary      |                              |                           |                   |
-| zau                      | zanru                       | approved by        | approving             |                              |                           |                   |
-| zu'e                     | zukte                       | with actor         | with means to goal    | with goal                    |                           |                   |
+| rai                                         | traji                                       | with superlative   | superlative in        | at extreme                   | superlative among         |                   |
+| ri'a                                        | rinka                                       | caused by          | causing               |                              |                           |                   |
+| ri'i                                        | lifri                                       | experienced by     | experiencing          |                              |                           |                   |
+| sau                                         | sarcu                                       | requiring          | necessarily for       | necessarily under conditions |                           |                   |
+| si'u                                        | sidju                                       | aided by           | assisting in          |                              |                           |                   |
+| ta'i                                        | tadji                                       | by method          | as a method for       |                              |                           |                   |
+| tai                                         | tamsmi                                      | as a form of       | in form               | in form similar to           |                           |                   |
+| ti'i                                        | stidi                                       | suggested by       | suggesting            | suggested to                 |                           |                   |
+| ti'u                                        | tcika                                       | with time          | at the time of        |                              |                           |                   |
+| tu'i                                        | stuzi                                       | with site          | as location of        |                              |                           |                   |
+| va'o                                        | vanbi                                       | under conditions   | as conditions for     |                              |                           |                   |
+| va'u                                        | xamgu                                       | benefiting from    | with beneficiary      |                              |                           |                   |
+| zau                                         | zanru                                       | approved by        | approving             |                              |                           |                   |
+| zu'e                                        | zukte                                       | with actor         | with means to goal    | with goal                    |                           |                   |
 
 The lujvo *[tamsmi](/glossary/?mode=exact&word=tamsmi)* on which *[tai](/glossary/?mode=exact&word=tai)* is based is derived from the tanru *tarmi simsa* and has the place structure:
 
