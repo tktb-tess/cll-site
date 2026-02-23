@@ -142,17 +142,12 @@ I am not going to the market now.
 
 :::jbomupli
 
-|            |         |                  |     |
-| ---------- | ------- | ---------------- | --- |
-| lo         | ca      | nolraitru        | be  |
-| The-actual | present | noblest-governor | of  |
+|            |         |                  |     |     |                |     |           |                  |
+| ---------- | ------- | ---------------- | --- | --- | -------------- | --- | --------- | ---------------- |
+| lo         | ca      | nolraitru        | be  | le  | fasygu'e       | cu  | na        | krecau           |
+| The-actual | present | noblest-governor | of  | the | French-country |     | \[false\] | is-hair-without. |
 
 :::
-
-|     |                |     |           |                  |
-| --- | -------------- | --- | --------- | ---------------- |
-| le  | fasygu'e       | cu  | na        | krecau           |
-| the | French-country |     | \[false\] | is-hair-without. |
 
 The current king of France isn't bald.
 
@@ -179,17 +174,12 @@ In Lojban, there are several structures that implicitly contain bridi, so that L
 
 :::jbomupli
 
-|     |           |                |     |          |
-| --- | --------- | -------------- | --- | -------- |
-| mi  | na        | gleki          | le  | nu       |
-| I   | \[false\] | am-happy-about | the | event-of |
+|     |           |                |     |          |            |          |     |          |           |
+| --- | --------- | -------------- | --- | -------- | ---------- | -------- | --- | -------- | --------- |
+| mi  | na        | gleki          | le  | nu       | na         | klama    | le  | nu       | dansu     |
+| I   | \[false\] | am-happy-about | the | event-of | (\[false\] | going-to | the | event-of | dancing). |
 
 :::
-
-|            |          |     |          |           |
-| ---------- | -------- | --- | -------- | --------- |
-| na         | klama    | le  | nu       | dansu     |
-| (\[false\] | going-to | the | event-of | dancing). |
 
 It is not the case that I am happy about it not being the case that I am going to the dance.
 | I am not happy about not going to the dance.                                                 |
@@ -215,17 +205,12 @@ A more extreme (and more indefinite) example is:
 
 :::jbomupli
 
-|     |            |            |            |
-| --- | ---------- | ---------- | ---------- |
-| mi  | nelci      | lo         | na         |
-| I   | am-fond-of | one-who-is | (\[false\] |
+|     |            |            |            |             |           |     |     |                  |
+| --- | ---------- | ---------- | ---------- | ----------- | --------- | --- | --- | ---------------- |
+| mi  | nelci      | lo         | na         | ca          | nolraitru | be  | le  | frasygu'e        |
+| I   | am-fond-of | one-who-is | (\[false\] | the-current | king      | of  | the | French-country). |
 
 :::
-
-|             |           |     |     |                  |
-| ----------- | --------- | --- | --- | ---------------- |
-| ca          | nolraitru | be  | le  | frasygu'e        |
-| the-current | king      | of  | the | French-country). |
 
 I am fond of one who isn't the current king of France.
 
@@ -288,17 +273,12 @@ as:
 
 :::jbomupli
 
-|     |           |       |     |        |            |
-| --- | --------- | ----- | --- | ------ | ---------- |
-| mi  | na        | klama | le  | zarci  | ki'u       |
-| I   | \[false\] | go-to | the | market | because-of |
+|     |           |       |     |        |            |              |     |       |     |            |
+| --- | --------- | ----- | --- | ------ | ---------- | ------------ | --- | ----- | --- | ---------- |
+| mi  | na        | klama | le  | zarci  | ki'u       | lenu         | le  | karce | cu  | spofu      |
+| I   | \[false\] | go-to | the | market | because-of | the-event-of | the | car   |     | is-broken. |
 
 :::
-
-|              |     |       |     |            |
-| ------------ | --- | ----- | --- | ---------- |
-| lenu         | le  | karce | cu  | spofu      |
-| the-event-of | the | car   |     | is-broken. |
 
 It is false that: I go to the market because the car is broken.
 
@@ -310,17 +290,12 @@ Such mistranslations result from the ambiguity of English compounded by the mess
 
 :::jbomupli
 
-|     |          |     |           |          |     |         |     |     |                 |
-| --- | -------- | --- | --------- | -------- | --- | ------- | --- | --- | --------------- |
-| le  | nu       | mi  | na        | klama    | le  | zarci   | cu  | se  | krinu           |
-| The | event-of | (my | \[false\] | going-to | the | market) |     |     | is-justified-by |
+|     |          |     |           |          |     |         |     |     |                 |     |          |      |       |     |                |
+| --- | -------- | --- | --------- | -------- | --- | ------- | --- | --- | --------------- | --- | -------- | ---- | ----- | --- | -------------- |
+| le  | nu       | mi  | na        | klama    | le  | zarci   | cu  | se  | krinu           | le  | nu       | le   | karce | cu  | spofu          |
+| The | event-of | (my | \[false\] | going-to | the | market) |     |     | is-justified-by | the | event-of | (the | car   |     | being-broken). |
 
 :::
-
-|     |          |      |       |     |                |
-| --- | -------- | ---- | ----- | --- | -------------- |
-| le  | nu       | le   | karce | cu  | spofu          |
-| the | event-of | (the | car   |     | being-broken). |
 
 My not going to the market is because the car is broken.
 
@@ -597,17 +572,12 @@ Negations made with *[na'e](/glossary/?mode=exact&word=na%27e)* or *na'eke* also
 
 :::jbomupli
 
-|     |            |     |         |         |     |     |       |         |
-| --- | ---------- | --- | ------- | ------- | --- | --- | ----- | ------- |
-| mi  | na'e       | ke  | sutra   | cadzu   | be  | le  | mi    | birka   |
-| I   | other-than | (   | quickly | walking | on  | the | of-me | arms-ly |
+|     |            |     |         |         |     |     |       |         |      |       |     |         |
+| --- | ---------- | --- | ------- | ------- | --- | --- | ----- | ------- | ---- | ----- | --- | ------- |
+| mi  | na'e       | ke  | sutra   | cadzu   | be  | le  | mi    | birka   | ke'e | klama | le  | zarci   |
+| I   | other-than | (   | quickly | walking | on  | the | of-me | arms-ly | )    | go-to | the | market. |
 
 :::
-
-|      |       |     |         |
-| ---- | ----- | --- | ------- |
-| ke'e | klama | le  | zarci   |
-| )    | go-to | the | market. |
 
 Note that [Example 15.53](/chapter15/#example-1553 "Example 15.53.") and [Example 15.54](/chapter15/#example-1554 "Example 15.54.") do not express the same thing:
 
@@ -688,17 +658,12 @@ Consider the following highly problematic sentence:
 
 :::jbomupli
 
-|           |           |                  |
-| --------- | --------- | ---------------- |
-| lo        | ca        | nolraitru        |
-| An-actual | currently | noblest-governor |
+|           |           |                  |     |     |                |     |                  |
+| --------- | --------- | ---------------- | --- | --- | -------------- | --- | ---------------- |
+| lo        | ca        | nolraitru        | be  | le  | fasygu'e       | cu  | krecau           |
+| An-actual | currently | noblest-governor | of  | the | French-country |     | is-hair-without. |
 
 :::
-
-|     |     |                |     |                  |
-| --- | --- | -------------- | --- | ---------------- |
-| be  | le  | fasygu'e       | cu  | krecau           |
-| of  | the | French-country |     | is-hair-without. |
 
 The current King of France is bald.
 
@@ -708,17 +673,12 @@ The selbri *[krecau](/glossary/?mode=exact&word=krecau)* negates with *[na'e](/g
 
 :::jbomupli
 
-|           |           |                  |
-| --------- | --------- | ---------------- |
-| lo        | ca        | nolraitru        |
-| An-actual | currently | noblest-governor |
+|           |           |                  |     |     |                |     |               |               |
+| --------- | --------- | ---------------- | --- | --- | -------------- | --- | ------------- | ------------- |
+| lo        | ca        | nolraitru        | be  | le  | fasygu'e       | cu  | na'e          | krecau        |
+| An-actual | currently | noblest-governor | of  | the | French-country |     | is-other-than | hair-without. |
 
 :::
-
-|     |     |                |     |               |               |
-| --- | --- | -------------- | --- | ------------- | ------------- |
-| be  | le  | fasygu'e       | cu  | na'e          | krecau        |
-| of  | the | French-country |     | is-other-than | hair-without. |
 
 The current King of France is other-than-bald.
 
@@ -728,17 +688,12 @@ or, as a lujvo:
 
 :::jbomupli
 
-|           |           |                  |
-| --------- | --------- | ---------------- |
-| lo        | ca        | nolraitru        |
-| An-actual | currently | noblest-governor |
+|           |           |                  |     |     |                |     |                      |
+| --------- | --------- | ---------------- | --- | --- | -------------- | --- | -------------------- |
+| lo        | ca        | nolraitru        | be  | le  | fasygu'e       | cu  | nalkrecau            |
+| An-actual | currently | noblest-governor | of  | the | French-country |     | is-non-hair-without. |
 
 :::
-
-|     |     |                |     |                      |
-| --- | --- | -------------- | --- | -------------------- |
-| be  | le  | fasygu'e       | cu  | nalkrecau            |
-| of  | the | French-country |     | is-non-hair-without. |
 
 The current King of France is a non-bald-one.
 
@@ -750,17 +705,12 @@ Since there is no current King of France, it is false to say that he is bald, or
 
 :::jbomupli
 
-|           |         |                  |
-| --------- | ------- | ---------------- |
-| lo        | ca      | nolraitru        |
-| An-actual | current | noblest-governor |
+|           |         |                  |     |     |                |     |           |                  |
+| --------- | ------- | ---------------- | --- | --- | -------------- | --- | --------- | ---------------- |
+| lo        | ca      | nolraitru        | be  | le  | fasygu'e       | cu  | na        | krecau           |
+| An-actual | current | noblest-governor | of  | the | French-country |     | \[false\] | is-hair-without. |
 
 :::
-
-|     |     |                |     |           |                  |
-| --- | --- | -------------- | --- | --------- | ---------------- |
-| be  | le  | fasygu'e       | cu  | na        | krecau           |
-| of  | the | French-country |     | \[false\] | is-hair-without. |
 
 It is false that the current King of France is bald.
 
@@ -828,17 +778,12 @@ We can alternately use the sumti tcita *[teci'e](/glossary/?mode=exact&word=teci
 
 :::jbomupli
 
-|     |       |     |          |       |
-| --- | ----- | --- | -------- | ----- |
-| le  | stizu | cu  | na'e     | xunre |
-| The | chair |     | is-a-non | (red  |
+|     |       |     |          |       |     |          |                     |                |
+| --- | ----- | --- | -------- | ----- | --- | -------- | ------------------- | -------------- |
+| le  | stizu | cu  | na'e     | xunre | be  | teci'e   | le                  | skari          |
+| The | chair |     | is-a-non | (red  | of  | a-system | with-components-the | colors)-thing. |
 
 :::
-
-|     |          |                     |                |
-| --- | -------- | ------------------- | -------------- |
-| be  | teci'e   | le                  | skari          |
-| of  | a-system | with-components-the | colors)-thing. |
 
 Other places of *[ciste](/glossary/?mode=exact&word=ciste)* can be brought out using the grammar of selma'o BAI modals, allowing slightly different forms of expression, thus:
 
@@ -846,17 +791,12 @@ Other places of *[ciste](/glossary/?mode=exact&word=ciste)* can be brought out u
 
 :::jbomupli
 
-|     |       |     |          |       |
-| --- | ----- | --- | -------- | ----- |
-| le  | stizu | cu  | na'e     | xunre |
-| The | chair |     | is-a-non | (red  |
+|     |       |     |          |       |     |          |                     |                |
+| --- | ----- | --- | -------- | ----- | --- | -------- | ------------------- | -------------- |
+| le  | stizu | cu  | na'e     | xunre | be  | ci'e     | lo'i                | skari          |
+| The | chair |     | is-a-non | (red  | of  | a-system | which-is-the-set-of | colors)-thing. |
 
 :::
-
-|     |          |                     |                |
-| --- | -------- | ------------------- | -------------- |
-| be  | ci'e     | lo'i                | skari          |
-| of  | a-system | which-is-the-set-of | colors)-thing. |
 
 The cmavo *[le'a](/glossary/?mode=exact&word=le%27a)*, also in selma'o BAI, can be used to specify a category:
 
@@ -864,17 +804,12 @@ The cmavo *[le'a](/glossary/?mode=exact&word=le%27a)*, also in selma'o BAI, can 
 
 :::jbomupli
 
-|     |       |     |          |       |
-| --- | ----- | --- | -------- | ----- |
-| le  | stizu | cu  | na'e     | xunre |
-| The | chair |     | is-a-non | (red  |
+|     |       |     |          |       |     |            |                     |                |
+| --- | ----- | --- | -------- | ----- | --- | ---------- | ------------------- | -------------- |
+| le  | stizu | cu  | na'e     | xunre | be  | le'a       | lo'i                | skari          |
+| The | chair |     | is-a-non | (red  | of  | a-category | which-is-the-set-of | colors)-thing. |
 
 :::
-
-|     |            |                     |                |
-| --- | ---------- | ------------------- | -------------- |
-| be  | le'a       | lo'i                | skari          |
-| of  | a-category | which-is-the-set-of | colors)-thing. |
 
 which is minimally different in meaning from [Example 15.67](/chapter15/#example-1567 "Example 15.67.").
 
@@ -959,17 +894,12 @@ Let us show examples of each.
 
 :::jbomupli
 
-|      |                  |           |                   |     |
-| ---- | ---------------- | --------- | ----------------- | --- |
-| no   | lo               | ca        | nolraitru         | be  |
-| Zero | of-those-who-are | currently | noblest-governors | of  |
+|      |                  |           |                   |     |     |                |     |                   |
+| ---- | ---------------- | --------- | ----------------- | --- | --- | -------------- | --- | ----------------- |
+| no   | lo               | ca        | nolraitru         | be  | le  | fasygu'e       | cu  | krecau            |
+| Zero | of-those-who-are | currently | noblest-governors | of  | the | French-country |     | are-hair-without. |
 
 :::
-
-|     |                |     |                   |
-| --- | -------------- | --- | ----------------- |
-| le  | fasygu'e       | cu  | krecau            |
-| the | French-country |     | are-hair-without. |
 
 No current king of France is bald.
 
@@ -981,17 +911,12 @@ Now let us look at the same sentence using *na'ebo* negation:
 
 :::jbomupli
 
-|                      |      |         |                  |
-| -------------------- | ---- | ------- | ---------------- |
-| na'ebo               | lo   | ca      | nolraitru        |
-| Something-other-than | (the | current | noblest-governor |
+|                      |      |         |                  |     |     |                 |     |                  |
+| -------------------- | ---- | ------- | ---------------- | --- | --- | --------------- | --- | ---------------- |
+| na'ebo               | lo   | ca      | nolraitru        | be  | le  | fasygu'e        | cu  | krecau           |
+| Something-other-than | (the | current | noblest-governor | of  | the | French-country) |     | is-hair-without. |
 
 :::
-
-|     |     |                 |     |                  |
-| --- | --- | --------------- | --- | ---------------- |
-| be  | le  | fasygu'e        | cu  | krecau           |
-| of  | the | French-country) |     | is-hair-without. |
 
 Something other than the current King of France is bald.
 
@@ -1093,17 +1018,12 @@ One application of negation is in answer to truth questions (those which expect 
 
 :::jbomupli
 
-|                  |             |       |            |         |
-| ---------------- | ----------- | ----- | ---------- | ------- |
-| xu               | la          | djan. | pu         | klama   |
-| Is-it-true-that: | (that-named | John  | previously | went-to |
+|                  |             |       |            |         |            |        |     |            |        |
+| ---------------- | ----------- | ----- | ---------- | ------- | ---------- | ------ | --- | ---------- | ------ |
+| xu               | la          | djan. | pu         | klama   | la         | paris. | .e  | la         | rom.   |
+| Is-it-true-that: | (that-named | John  | previously | went-to | that-named | Paris  | and | that-named | Rome.) |
 
 :::
-
-|            |        |     |            |        |
-| ---------- | ------ | --- | ---------- | ------ |
-| la         | paris. | .e  | la         | rom.   |
-| that-named | Paris  | and | that-named | Rome.) |
 
 You can now use each of the several kinds of negation we've discussed in answer to this (presuming the same question and context for each answer).
 
@@ -1128,17 +1048,12 @@ which means
 
 :::jbomupli
 
-|            |       |           |            |         |       |
-| ---------- | ----- | --------- | ---------- | ------- | ----- |
-| la         | djan. | \[cu\]    | na         | pu      | klama |
-| That-named | John  | \[false\] | previously | went-to |       |
+|            |       |           |            |         |       |            |        |     |            |       |
+| ---------- | ----- | --------- | ---------- | ------- | ----- | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | \[cu\]    | na         | pu      | klama | la         | paris. | .e  | la         | rom.  |
+| That-named | John  | \[false\] | previously | went-to |       | that-named | Paris  | and | that-named | Rome. |
 
 :::
-
-|            |        |     |            |       |
-| ---------- | ------ | --- | ---------- | ----- |
-| la         | paris. | .e  | la         | rom.  |
-| that-named | Paris  | and | that-named | Rome. |
 
 It's not true that John went to Paris and Rome.
 
@@ -1161,17 +1076,12 @@ meaning
 
 :::jbomupli
 
-|            |       |        |           |       |            |
-| ---------- | ----- | ------ | --------- | ----- | ---------- |
-| la         | djan. | \[cu\] | na        | ba    | klama      |
-| That-named | John  |        | \[false\] | later | will-go-to |
+|            |       |        |           |       |            |            |        |     |            |       |
+| ---------- | ----- | ------ | --------- | ----- | ---------- | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | \[cu\] | na        | ba    | klama      | la         | paris. | .e  | la         | rom.  |
+| That-named | John  |        | \[false\] | later | will-go-to | that-named | Paris  | and | that-named | Rome. |
 
 :::
-
-|            |        |     |            |       |
-| ---------- | ------ | --- | ---------- | ----- |
-| la         | paris. | .e  | la         | rom.  |
-| that-named | Paris  | and | that-named | Rome. |
 
 It is false that John will go to Paris and Rome.
 
@@ -1194,17 +1104,12 @@ meaning
 
 :::jbomupli
 
-|            |       |        |            |           |
-| ---------- | ----- | ------ | ---------- | --------- |
-| la         | djan. | \[cu\] | ba         | na        |
-| that-named | John  |        | later-will | \[false\] |
+|            |       |        |            |           |       |            |        |     |            |       |
+| ---------- | ----- | ------ | ---------- | --------- | ----- | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | \[cu\] | ba         | na        | klama | la         | paris. | .e  | la         | rom.  |
+| that-named | John  |        | later-will | \[false\] | go-to | that-named | Paris  | and | that-named | Rome. |
 
 :::
-
-|       |            |        |     |            |       |
-| ----- | ---------- | ------ | --- | ---------- | ----- |
-| klama | la         | paris. | .e  | la         | rom.  |
-| go-to | that-named | Paris  | and | that-named | Rome. |
 
 We stated in [Section 15.3](/chapter15/#153-scalar-negation "15.3. Scalar Negation") that sentences like [Example 15.84](/chapter15/#example-1584 "Example 15.84.") and [Example 15.86](/chapter15/#example-1586 "Example 15.86.") appear to be semantically identical, but that subtle semantic distinctions may eventually be found.
 
@@ -1227,17 +1132,12 @@ which means
 
 :::jbomupli
 
-|            |       |        |            |             |         |          |
-| ---------- | ----- | ------ | ---------- | ----------- | ------- | -------- |
-| la         | djan. | \[cu\] | pu         | na'eke      | klama   | \[ke'e\] |
-| that-named | John  |        | previously | other-than( | went-to | )        |
+|            |       |        |            |             |         |          |            |        |     |            |       |
+| ---------- | ----- | ------ | ---------- | ----------- | ------- | -------- | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | \[cu\] | pu         | na'eke      | klama   | \[ke'e\] | la         | paris. | .e  | la         | rom.  |
+| that-named | John  |        | previously | other-than( | went-to | )        | that-named | Paris  | and | that-named | Rome. |
 
 :::
-
-|            |        |     |            |       |
-| ---------- | ------ | --- | ---------- | ----- |
-| la         | paris. | .e  | la         | rom.  |
-| that-named | Paris  | and | that-named | Rome. |
 
 He might have telephoned the two cities instead of going there. The unnecessary *[ke](/glossary/?mode=exact&word=ke)* and *[ke'e](/glossary/?mode=exact&word=ke%27e)* would have been essential if the selbri had been a tanru.
 
@@ -1262,17 +1162,12 @@ or equivalently
 
 :::jbomupli
 
-|                  |            |       |        |           |            |
-| ---------------- | ---------- | ----- | ------ | --------- | ---------- |
-| xu               | la         | djan. | \[cu\] | na        | pu         |
-| Is-it-true-that: | that-named | John  |        | \[false\] | previously |
+|                  |            |       |        |           |            |         |           |        |     |            |       |
+| ---------------- | ---------- | ----- | ------ | --------- | ---------- | ------- | --------- | ------ | --- | ---------- | ----- |
+| xu               | la         | djan. | \[cu\] | na        | pu         | klama   | la        | paris. | .e  | la         | rom.  |
+| Is-it-true-that: | that-named | John  |        | \[false\] | previously | went-to | that-name | Paris  | and | that-named | Rome. |
 
 :::
-
-|         |           |        |     |            |       |
-| ------- | --------- | ------ | --- | ---------- | ----- |
-| klama   | la        | paris. | .e  | la         | rom.  |
-| went-to | that-name | Paris  | and | that-named | Rome. |
 
 The obvious, but incorrect, positive response to this negative question is:
 
@@ -1474,17 +1369,12 @@ Note that metalinguistic negation gives us another kind of legitimate negative a
 
 :::jbomupli
 
-|                  |     |       |                 |
-| ---------------- | --- | ----- | --------------- |
-| xu               | do  | sisti | lezu'o          |
-| is-it-true-that: | you | cease | the-activity-of |
+|                  |     |       |                 |     |                |      |                |
+| ---------------- | --- | ----- | --------------- | --- | -------------- | ---- | -------------- |
+| xu               | do  | sisti | lezu'o          | do  | rapydarxi      | ledo | fetspe         |
+| is-it-true-that: | you | cease | the-activity-of | you | repeat-hitting | your | female-spouse? |
 
 :::
-
-|     |                |      |                |
-| --- | -------------- | ---- | -------------- |
-| do  | rapydarxi      | ledo | fetspe         |
-| you | repeat-hitting | your | female-spouse? |
 
 Have you stopped beating your wife?
 
@@ -1537,5 +1427,10 @@ Finally, one may metalinguistically affirm a bridi with *[jo'a](/glossary/?mode=
 
 ##### Example 15.114.
 
-na go'i .ije na'e go'i .ije na'i go'i
+:::jbomupli
 
+|                                       |
+| ------------------------------------- |
+| na go'i .ije na'e go'i .ije na'i go'i |
+
+:::

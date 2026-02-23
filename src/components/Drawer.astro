@@ -8,10 +8,11 @@ const { url } = Astro.props;
 ---
 
 <div id='drawer-backdrop'>
-  <aside id='drawer'>
+  <aside aria-labelledby='drawer-title' id='drawer'>
     <button id='drawer-close-btn' type='button' title='Close sidemenu'>
       <CloseIcon class='inline-block size-6' />
     </button>
+    <h2 id='drawer-title'>Menu</h2>
     <Sidemenu currentUrl={url} />
   </aside>
 </div>
@@ -22,7 +23,7 @@ const { url } = Astro.props;
     #drawer-backdrop {
       @apply fixed z-(--z-drawer) invisible inset-0 bg-transparent
       transition-[background-color,visibility] allow-discrete
-      ease-in-out-1 duration-240;
+      ease-in-out-1 duration-300;
 
       &[data-drawer-open] {
         @apply visible bg-black/40;
@@ -31,13 +32,17 @@ const { url } = Astro.props;
 
     #drawer {
       @apply absolute inset-0 w-min-side me-auto -translate-x-full
-      cbg-side overflow-x-auto px-2 py-2 transition-transform duration-240
-      ease-in-out-1;
+      cbg-side overflow-x-auto px-2 py-2 transition-transform duration-300
+      ease-in-out-1 overscroll-contain;
       scrollbar-width: thin;
 
       [data-drawer-open] > & {
         @apply translate-x-0;
       }
+    }
+
+    #drawer-title {
+      @apply m-0 text-3xl border-b-0 border-l-2;
     }
 
     #drawer-close-btn {
@@ -53,33 +58,64 @@ const { url } = Astro.props;
 
 <script>
   const drawerBackdrop = document.getElementById('drawer-backdrop');
-  const drawerBtn = document.getElementById('drawer-btn');
+  const drawerOpenBtn = document.getElementById('drawer-open-btn');
   const drawerCloseBtn = document.getElementById('drawer-close-btn');
+  const drawer = document.getElementById('drawer');
+
+  const waitAnimationEnd = async (elem: HTMLElement) => {
+    const anims = elem.getAnimations();
+    if (anims.length === 0) return;
+    await Promise.allSettled(anims.map((a) => a.finished));
+  };
 
   if (
     !(
       drawerBackdrop instanceof HTMLDivElement &&
-      drawerBtn instanceof HTMLButtonElement &&
-      drawerCloseBtn instanceof HTMLButtonElement
+      drawerOpenBtn instanceof HTMLButtonElement &&
+      drawerCloseBtn instanceof HTMLButtonElement &&
+      drawer instanceof HTMLElement
     )
   ) {
-    throw Error('!');
+    throw Error('Failed to get element', {
+      cause: {
+        drawerBackdrop,
+        drawerOpenBtn,
+        drawerCloseBtn,
+        drawer,
+      },
+    });
   }
 
-  drawerBtn.addEventListener('click', () => {
+  drawerOpenBtn.addEventListener('click', async (ev) => {
+    ev.preventDefault();
     drawerBackdrop.dataset.drawerOpen = '';
 
-    setTimeout(() => {
+    const animations = drawer.getAnimations();
+    if (animations.length === 0) return;
+
+    await waitAnimationEnd(drawer);
+
+    requestAnimationFrame(() => {
       drawerCloseBtn.focus();
-    }, 200);
+    });
   });
 
-  drawerBackdrop.addEventListener('click', (ev) => {
+  drawerBackdrop.addEventListener('click', async (ev) => {
+    ev.preventDefault();
     if (ev.target !== ev.currentTarget) return;
     delete drawerBackdrop.dataset.drawerOpen;
+    await waitAnimationEnd(drawer);
+    requestAnimationFrame(() => {
+      drawerOpenBtn.focus();
+    });
   });
 
-  drawerCloseBtn.addEventListener('click', () => {
+  drawerCloseBtn.addEventListener('click', async (ev) => {
+    ev.preventDefault();
     delete drawerBackdrop.dataset.drawerOpen;
+    await waitAnimationEnd(drawer);
+    requestAnimationFrame(() => {
+      drawerOpenBtn.focus();
+    });
   });
 </script>

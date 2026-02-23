@@ -5,7 +5,7 @@ interface Props {}
 ---
 
 <nav class='header'>
-  <button type='button' id='drawer-btn' title='Open sidemenu'>
+  <button type='button' id='drawer-open-btn' title='Open sidemenu'>
     <ListIcon class='size-6 inline-block' />
   </button>
   <a class="__logo" href='/' title='Top Page'>
@@ -21,7 +21,7 @@ interface Props {}
       @apply flex h-full items-center *:m-0 *:min-w-0 gap-2 px-6 cbg-side;
     }
 
-    #drawer-btn {
+    #drawer-open-btn {
       @apply grid lg:hidden h-full place-items-center px-1
       any-hover:cbg-accent any-hover:ctext-text-inv transition-colors;
     }
