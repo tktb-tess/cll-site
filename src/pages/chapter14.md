@@ -733,17 +733,12 @@ But it may be clearer to use explicit parenthesis words and say:
 
 :::jbomupli
 
-|      |     |       |     |      |     |       |     |      |
-| ---- | --- | ----- | --- | ---- | --- | ----- | --- | ---- |
-| tu'e | mi  | cinba | do  | .ije | do  | cinba | mi  | tu'u |
-| (    | I   | kiss  | you | and  | you | kiss  | me  | )    |
+|      |     |       |     |      |     |       |     |      |         |      |     |       |     |      |     |       |     |          |
+| ---- | --- | ----- | --- | ---- | --- | ----- | --- | ---- | ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | -------- |
+| tu'e | mi  | cinba | do  | .ije | do  | cinba | mi  | tu'u | .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
+| (    | I   | kiss  | you | and  | you | kiss  | me  | )    | if      | (    | I   | love  | you | and  | you | love  | me  | ).       |
 
 :::
-
-|         |      |     |       |     |      |     |       |     |          |
-| ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | -------- |
-| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
-| if      | (    | I   | love  | you | and  | you | love  | me  | ).       |
 
 where the *[tu'u](/glossary/?mode=exact&word=tu%27u)* pairs set off the structure. The cmavo *[tu'u](/glossary/?mode=exact&word=tu%27u)* is an elidable terminator, and its second occurrence in [Example 14.44](/chapter14/#example-1444 "Example 14.44.") is bracketed, because all terminators may be elided at the end of a text.
 
@@ -755,17 +750,12 @@ Because of the left-grouping rule, the first set of *[tu'u](/glossary/?mode=exac
 
 :::jbomupli
 
-|     |       |     |      |     |       |     |
-| --- | ----- | --- | ---- | --- | ----- | --- |
-| mi  | cinba | do  | .ije | do  | cinba | mi  |
-| I   | kiss  | you | and  | you | kiss  | me  |
+|     |       |     |      |     |       |     |         |      |     |       |     |      |     |       |     |          |
+| --- | ----- | --- | ---- | --- | ----- | --- | ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | -------- |
+| mi  | cinba | do  | .ije | do  | cinba | mi  | .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
+| I   | kiss  | you | and  | you | kiss  | me  | if      | (    | I   | love  | you | and  | you | love  | me  | ).       |
 
 :::
-
-|         |      |     |       |     |      |     |       |     |          |
-| ------- | ---- | --- | ----- | --- | ---- | --- | ----- | --- | -------- |
-| .ijanai | tu'e | mi  | prami | do  | .ije | do  | prami | mi  | \[tu'u\] |
-| if      | (    | I   | love  | you | and  | you | love  | me  | ).       |
 
 What about parenthesized sumti connection? Consider
 
@@ -779,17 +769,12 @@ Two pairs of parentheses, analogous to [Example 14.44](/chapter14/#example-1444 
 
 :::jbomupli
 
-|     |         |     |        |     |     |       |
-| --- | ------- | --- | ------ | --- | --- | ----- |
-| mi  | dzukla  | le  | zarci  | .e  | le  | zdani |
-| I   | walk-to | the | market | and | the | house |
+|     |         |     |        |     |     |       |     |     |     |        |     |     |        |          |
+| --- | ------- | --- | ------ | --- | --- | ----- | --- | --- | --- | ------ | --- | --- | ------ | -------- |
+| mi  | dzukla  | le  | zarci  | .e  | le  | zdani | .a  | ke  | le  | ckule  | .e  | le  | briju  | \[ke'e\] |
+| I   | walk-to | the | market | and | the | house | or  | (   | the | school | and | the | office | ).       |
 
 :::
-
-|     |     |     |        |     |     |        |          |
-| --- | --- | --- | ------ | --- | --- | ------ | -------- |
-| .a  | ke  | le  | ckule  | .e  | le  | briju  | \[ke'e\] |
-| or  | (   | the | school | and | the | office | ).       |
 
 If sumti were allowed to begin with *[ke](/glossary/?mode=exact&word=ke)*, unavoidable ambiguities would result, so *[ke](/glossary/?mode=exact&word=ke)* grouping of sumti is allowed only just after a logical connective. This rule does not apply to *[tu'e](/glossary/?mode=exact&word=tu%27e)* grouping of bridi, as [Example 14.44](/chapter14/#example-1444 "Example 14.44.") shows.
 
@@ -799,17 +784,12 @@ Now we have enough facilities to handle the problem of [Example 14.33](/chapter1
 
 :::jbomupli
 
-|          |     |           |                |     |         |          |
-| -------- | --- | --------- | -------------- | --- | ------- | -------- |
-| \[tu'e\] | mi  | dotco     | .ijo           | mi  | ricfu   | \[tu'u\] |
-| (        | I   | am-German | if-and-only-if | I   | am-rich | )        |
+|          |     |           |                |     |         |          |      |      |     |           |                |     |          |          |
+| -------- | --- | --------- | -------------- | --- | ------- | -------- | ---- | ---- | --- | --------- | -------------- | --- | -------- | -------- |
+| \[tu'e\] | mi  | dotco     | .ijo           | mi  | ricfu   | \[tu'u\] | .ije | tu'e | mi  | dotco     | .ijo           | mi  | nanmu    | \[tu'u\] |
+| (        | I   | am-German | if-and-only-if | I   | am-rich | )        | and  | (    | I   | am-German | if-and-only-if | I   | am-a-man | ).       |
 
 :::
-
-|      |      |     |           |                |     |          |          |
-| ---- | ---- | --- | --------- | -------------- | --- | -------- | -------- |
-| .ije | tu'e | mi  | dotco     | .ijo           | mi  | nanmu    | \[tu'u\] |
-| and  | (    | I   | am-German | if-and-only-if | I   | am-a-man | ).       |
 
 The truth table, when worked out, produces T if and only if all three component sentences are true or all three are false.
 
@@ -879,17 +859,12 @@ In [Example 14.52](/chapter14/#example-1452 "Example 14.52."), the first and las
 
 :::jbomupli
 
-|         |     |     |     |       |     |       |
-| ------- | --- | --- | --- | ----- | --- | ----- |
-| fi      | do  | fa  | mi  | dunda | le  | cukta |
-| to/from | you |     | I   | give  | the | book  |
+|         |     |     |     |       |     |       |      |       |      |                 |
+| ------- | --- | --- | --- | ----- | --- | ----- | ---- | ----- | ---- | --------------- |
+| fi      | do  | fa  | mi  | dunda | le  | cukta | gi'e | lebna | lo   | rupnu           |
+| to/from | you |     | I   | give  | the | book  | and  | take  | some | currency-units. |
 
 :::
-
-|      |       |      |                 |
-| ---- | ----- | ---- | --------------- |
-| gi'e | lebna | lo   | rupnu           |
-| and  | take  | some | currency-units. |
 
 where the *[fi](/glossary/?mode=exact&word=fi)* does not have an exact English translation because it merely places *[do](/glossary/?mode=exact&word=do)* in the third place of both *[lebna](/glossary/?mode=exact&word=lebna)* and *[dunda](/glossary/?mode=exact&word=dunda)*. However, a form that preserves natural sumti order also exists in Lojban. Giheks connect two bridi-tails, but also allow sumti to be added following the bridi-tail. These sumti are known as tail-terms, and apply to both bridi. The straightforward gihek version of [Example 14.52](/chapter14/#example-1452 "Example 14.52.") therefore is:
 
@@ -946,27 +921,12 @@ A strong argument for this convention is provided by analysis of the following e
 
 :::jbomupli
 
-|        |               |          |
-| ------ | ------------- | -------- |
-| klama  | la            | nu,IORK. |
-| A-goer | to-that-named | New-York |
+|        |               |          |                 |         |      |        |               |          |                 |       |
+| ------ | ------------- | -------- | --------------- | ------- | ---- | ------ | ------------- | -------- | --------------- | ----- |
+| klama  | la            | nu,IORK. | la              | finyks. | gi'e | klama  | la            | nu,IORK. | la              | rom.  |
+| A-goer | to-that-named | New-York | from-that-named | Phoenix | and  | a-goer | to-that-named | New-York | from-that-named | Rome. |
 
 :::
-
-|                 |         |
-| --------------- | ------- |
-| la              | finyks. |
-| from-that-named | Phoenix |
-
-|      |        |               |          |
-| ---- | ------ | ------------- | -------- |
-| gi'e | klama  | la            | nu,IORK. |
-| and  | a-goer | to-that-named | New-York |
-
-|                 |       |
-| --------------- | ----- |
-| la              | rom.  |
-| from-that-named | Rome. |
 
 If the rule were that the x1 places of the two underlying bridi were considered identical, then (since there is nothing special about x1), the unspecified x4 (route) and x5 (means) places would also have to be the same, leading to the absurd result that the route from Phoenix to New York is the same as the route from Rome to New York. Inserting *[da](/glossary/?mode=exact&word=da)*, meaning roughly “something”, into the x1 place cures the problem:
 
@@ -974,17 +934,12 @@ If the rule were that the x1 places of the two underlying bridi were considered 
 
 :::jbomupli
 
-|           |           |               |          |                 |         |
-| --------- | --------- | ------------- | -------- | --------------- | ------- |
-| da        | klama     | la            | nu,IORK. | la              | finyks. |
-| Something | is-a-goer | to-that-named | New-York | from-that-named | Phoenix |
+|           |           |               |          |                 |         |      |           |               |          |                 |       |
+| --------- | --------- | ------------- | -------- | --------------- | ------- | ---- | --------- | ------------- | -------- | --------------- | ----- |
+| da        | klama     | la            | nu,IORK. | la              | finyks. | gi'e | klama     | la            | nu,IORK. | la              | rom.  |
+| Something | is-a-goer | to-that-named | New-York | from-that-named | Phoenix | and  | is-a-goer | to-that-named | New-York | from-that-named | Rome. |
 
 :::
-
-|      |           |               |          |                 |       |
-| ---- | --------- | ------------- | -------- | --------------- | ----- |
-| gi'e | klama     | la            | nu,IORK. | la              | rom.  |
-| and  | is-a-goer | to-that-named | New-York | from-that-named | Rome. |
 
 The syntax of giheks is:
 
@@ -1014,27 +969,12 @@ is equivalent in meaning to [Example 14.39](/chapter14/#example-1439 "Example 14
 
 :::jbomupli
 
-|     |         |     |        |
-| --- | ------- | --- | ------ |
-| mi  | dzukla  | le  | zarci  |
-| I   | walk-to | the | market |
+|     |         |     |        |      |         |     |        |      |     |         |     |        |      |         |     |         |          |
+| --- | ------- | --- | ------ | ---- | ------- | --- | ------ | ---- | --- | ------- | --- | ------ | ---- | ------- | --- | ------- | -------- |
+| mi  | dzukla  | le  | zarci  | gi'e | dzukla  | le  | zdani  | gi'a | ke  | dzukla  | le  | ckule  | gi'e | dzukla  | le  | briju   | \[ke'e\] |
+| I   | walk-to | the | market | and  | walk-to | the | house, | or   | (   | walk-to | the | school | and  | walk-to | the | office. | )        |
 
 :::
-
-|      |         |     |        |
-| ---- | ------- | --- | ------ |
-| gi'e | dzukla  | le  | zdani  |
-| and  | walk-to | the | house, |
-
-|      |     |         |     |        |
-| ---- | --- | ------- | --- | ------ |
-| gi'a | ke  | dzukla  | le  | ckule  |
-| or   | (   | walk-to | the | school |
-
-|      |         |     |         |          |
-| ---- | ------- | --- | ------- | -------- |
-| gi'e | dzukla  | le  | briju   | \[ke'e\] |
-| and  | walk-to | the | office. | )        |
 
 is the gihek version of [Example 14.47](/chapter14/#example-1447 "Example 14.47."). The same rule about using *[ke'e](/glossary/?mode=exact&word=ke%27e)* bracketing only just after a connective applies to bridi-tails as to sumti, so the first two bridi-tails in [Example 14.61](/chapter14/#example-1461 "Example 14.61.") cannot be explicitly grouped; implicit left-grouping suffices to associate them.
 
@@ -1044,22 +984,12 @@ Each of the pairs of bridi-tails joined by multiple giheks can have its own set 
 
 :::jbomupli
 
-|        |     |       |      |                |               |       |
-| ------ | --- | ----- | ---- | -------------- | ------------- | ----- |
-|        | mi  | dejni | lo   | rupnu          | la            | djan. |
-| \[If\] | I   | owe   | some | currency-units | to-that-named | John, |
+|        |     |       |      |                |               |       |        |     |       |     |       |               |       |        |     |       |     |       |                 |       |
+| ------ | --- | ----- | ---- | -------------- | ------------- | ----- | ------ | --- | ----- | --- | ----- | ------------- | ----- | ------ | --- | ----- | --- | ----- | --------------- | ----- |
+|        | mi  | dejni | lo   | rupnu          | la            | djan. | .inaja | mi  | dunda | le  | cukta | la            | djan. | .ijabo | mi  | lebna | le  | cukta | la              | djan. |
+| \[If\] | I   | owe   | some | currency-units | to-that-named | John, | then   | I   | give  | the | book  | to-that-named | John  | or     | I   | take  | the | book  | from-that-named | John. |
 
 :::
-
-|        |     |       |     |       |               |       |
-| ------ | --- | ----- | --- | ----- | ------------- | ----- |
-| .inaja | mi  | dunda | le  | cukta | la            | djan. |
-| then   | I   | give  | the | book  | to-that-named | John  |
-
-|        |     |       |     |       |                 |       |
-| ------ | --- | ----- | --- | ----- | --------------- | ----- |
-| .ijabo | mi  | lebna | le  | cukta | la              | djan. |
-| or     | I   | take  | the | book  | from-that-named | John. |
 
 is equivalent in meaning to:
 
@@ -1067,17 +997,12 @@ is equivalent in meaning to:
 
 :::jbomupli
 
-|        |     |       |      |                |        |       |
-| ------ | --- | ----- | ---- | -------------- | ------ | ----- |
-|        | mi  | dejni | lo   | rupnu          | nagi'a | dunda |
-| \[If\] | I   | owe   | some | currency-units | then   | (give |
+|        |     |       |      |                |        |       |        |       |     |     |       |     |                    |       |
+| ------ | --- | ----- | ---- | -------------- | ------ | ----- | ------ | ----- | --- | --- | ----- | --- | ------------------ | ----- |
+|        | mi  | dejni | lo   | rupnu          | nagi'a | dunda | gi'abo | lebna | vau | le  | cukta | vau | la                 | djan. |
+| \[If\] | I   | owe   | some | currency-units | then   | (give | or     | take) |     | a   | book  |     | to/from-that-named | John. |
 
 :::
-
-|        |       |     |     |       |     |                    |       |
-| ------ | ----- | --- | --- | ----- | --- | ------------------ | ----- |
-| gi'abo | lebna | vau | le  | cukta | vau | la                 | djan. |
-| or     | take) |     | a   | book  |     | to/from-that-named | John. |
 
 The literal English translation in [Example 14.63](/chapter14/#example-1463 "Example 14.63.") is almost unintelligible, but the Lojban is perfectly grammatical. *[mi](/glossary/?mode=exact&word=mi)* fills the x1 place of all three selbri; *lo rupnu* is the x2 of *[dejni](/glossary/?mode=exact&word=dejni)*, whereas *le cukta* is a tail-term shared between *[dunda](/glossary/?mode=exact&word=dunda)* and *[lebna](/glossary/?mode=exact&word=lebna)*; *la djan.* is a tail-term shared by *[dejni](/glossary/?mode=exact&word=dejni)* and by *dunda gi'abo lebna*. In this case, greater clarity is probably achieved by moving *la djan.* to the beginning of the sentence, as in [Example 14.53](/chapter14/#example-1453 "Example 14.53."):
 
@@ -1085,17 +1010,12 @@ The literal English translation in [Example 14.63](/chapter14/#example-1463 "Exa
 
 :::jbomupli
 
-|         |            |       |        |     |     |       |      |                |
-| ------- | ---------- | ----- | ------ | --- | --- | ----- | ---- | -------------- |
-| fi      | la         | djan. |        | fa  | mi  | dejni | lo   | rupnu          |
-| To/from | that-named | John, | \[if\] |     | I   | owe   | some | currency-units |
+|         |            |       |        |     |     |       |      |                |        |      |       |        |       |     |     |       |
+| ------- | ---------- | ----- | ------ | --- | --- | ----- | ---- | -------------- | ------ | ---- | ----- | ------ | ----- | --- | --- | ----- |
+| fi      | la         | djan. |        | fa  | mi  | dejni | lo   | rupnu          | nagi'a |      | dunda | gi'abo | lebna | vau | le  | cukta |
+| To/from | that-named | John, | \[if\] |     | I   | owe   | some | currency-units | then   | \[I] | give  | or     | take  |     | the | book. |
 
 :::
-
-|        |      |       |        |       |     |     |       |
-| ------ | ---- | ----- | ------ | ----- | --- | --- | ----- |
-| nagi'a |      | dunda | gi'abo | lebna | vau | le  | cukta |
-| then   | \[I] | give  | or     | take  |     | the | book. |
 
 Finally, what about forethought logical connection of bridi-tails? There is no direct mechanism for the purpose. Instead, Lojban grammar allows a pair of forethought-connected sentences to function as a single bridi-tail, and of course the sentences need not have terms before their selbri. For example:
 
@@ -1118,17 +1038,12 @@ Of course, either of the connected sentences may contain giheks:
 
 :::jbomupli
 
-|     |      |       |        |        |      |        |        |        |
-| --- | ---- | ----- | ------ | ------ | ---- | ------ | ------ | ------ |
-| mi  | ge   | klama | le     | zarci  | gi'e | dzukla | le     | zdani  |
-| I   | both | (go   | to-the | market | and  | walk   | to-the | house) |
+|     |      |       |        |        |      |        |        |        |     |       |            |       |
+| --- | ---- | ----- | ------ | ------ | ---- | ------ | ------ | ------ | --- | ----- | ---------- | ----- |
+| mi  | ge   | klama | le     | zarci  | gi'e | dzukla | le     | zdani  | gi  | nelci | la         | djan. |
+| I   | both | (go   | to-the | market | and  | walk   | to-the | house) | and | like  | that-named | John. |
 
 :::
-
-|     |       |            |       |
-| --- | ----- | ---------- | ----- |
-| gi  | nelci | la         | djan. |
-| and | like  | that-named | John. |
 
 The entire gek-connected sentence pair may be negated as a whole by prefixing *[na](/glossary/?mode=exact&word=na)*:
 
@@ -1149,17 +1064,12 @@ Since a pair of sentences joined by geks is the equivalent of a bridi-tail, it m
 
 :::jbomupli
 
-|     |      |       |     |       |
-| --- | ---- | ----- | --- | ----- |
-| mi  | ge   | dunda | le  | cukta |
-| I   | both | (give | the | book) |
+|     |      |       |     |       |     |       |      |                |     |              |
+| --- | ---- | ----- | --- | ----- | --- | ----- | ---- | -------------- | --- | ------------ |
+| mi  | ge   | dunda | le  | cukta | gi  | lebna | lo   | rupnu          | vau | do           |
+| I   | both | (give | the | book) | and | (take | some | currency-units | )   | to/from-you. |
 
 :::
-
-|     |       |      |                |     |              |
-| --- | ----- | ---- | -------------- | --- | ------------ |
-| gi  | lebna | lo   | rupnu          | vau | do           |
-| and | (take | some | currency-units | )   | to/from-you. |
 
 Here is a pair of gek-connected observatives, a forethought equivalent of [Example 14.57](/chapter14/#example-1457 "Example 14.57."):
 
@@ -1203,17 +1113,12 @@ The Lojban version of [Example 14.71](/chapter14/#example-1471 "Example 14.71.")
 
 :::jbomupli
 
-|     |       |        |        |          |          |        |
-| --- | ----- | ------ | ------ | -------- | -------- | ------ |
-| mi  | klama | le     | zarci  | ce'e     | le       | briju  |
-| I   | go    | to-the | market | \[plus\] | from-the | office |
+|     |       |        |        |          |          |        |           |     |        |       |          |          |         |
+| --- | ----- | ------ | ------ | -------- | -------- | ------ | --------- | --- | ------ | ----- | -------- | -------- | ------- |
+| mi  | klama | le     | zarci  | ce'e     | le       | briju  | pe'e      | je  | le     | zdani | ce'e     | le       | ckule   |
+| I   | go    | to-the | market | \[plus\] | from-the | office | \[joint\] | and | to-the | house | \[plus\] | from-the | school. |
 
 :::
-
-|           |     |        |       |          |          |         |
-| --------- | --- | ------ | ----- | -------- | -------- | ------- |
-| pe'e      | je  | le     | zdani | ce'e     | le       | ckule   |
-| \[joint\] | and | to-the | house | \[plus\] | from-the | school. |
 
 The literal translation uses “\[plus\]” to indicate the termset connective, and “\[joint\]” to indicate the position of the logical connective joint. As usual, there is an equivalent bridi-connection form:
 
@@ -1221,17 +1126,12 @@ The literal translation uses “\[plus\]” to indicate the termset connective, 
 
 :::jbomupli
 
-|     |       |        |        |          |         |
-| --- | ----- | ------ | ------ | -------- | ------- |
-| mi  | klama | le     | zarci  | le       | briju   |
-| I   | go    | to-the | market | from-the | office, |
+|     |       |        |        |          |         |      |     |       |        |       |          |         |
+| --- | ----- | ------ | ------ | -------- | ------- | ---- | --- | ----- | ------ | ----- | -------- | ------- |
+| mi  | klama | le     | zarci  | le       | briju   | .ije | mi  | klama | le     | zdani | le       | ckule   |
+| I   | go    | to-the | market | from-the | office, | and  | I   | go    | to-the | house | from-the | school. |
 
 :::
-
-|      |     |       |        |       |          |         |
-| ---- | --- | ----- | ------ | ----- | -------- | ------- |
-| .ije | mi  | klama | le     | zdani | le       | ckule   |
-| and  | I   | go    | to-the | house | from-the | school. |
 
 which illustrates that the two bridi differ in the x2 and x3 places only.
 
@@ -1254,17 +1154,12 @@ can be clearly understood by expansion to:
 
 :::jbomupli
 
-|     |       |        |         |      |     |        |        |     |       |
-| --- | ----- | ------ | ------- | ---- | --- | ------ | ------ | --- | ----- |
-| mi  | klama | le     | briju   | .ija | do  | le     | zarci  | cu  | klama |
-| I   | go    | to-the | office, | or   | you | to-the | market |     | go    |
+|     |       |        |         |      |     |        |        |     |       |          |         |
+| --- | ----- | ------ | ------- | ---- | --- | ------ | ------ | --- | ----- | -------- | ------- |
+| mi  | klama | le     | briju   | .ija | do  | le     | zarci  | cu  | klama | le       | briju   |
+| I   | go    | to-the | office, | or   | you | to-the | market |     | go    | from-the | office. |
 
 :::
-
-|          |         |
-| -------- | ------- |
-| le       | briju   |
-| from-the | office. |
 
 So *le briju* is your origin but my destination, and thus falls in the x2 and x3 places of *[klama](/glossary/?mode=exact&word=klama)* simultaneously! This is legal because even though there is only one selbri, *[klama](/glossary/?mode=exact&word=klama)*, there are two distinct bridi expressed here. In addition, *[mi](/glossary/?mode=exact&word=mi)* in [Example 14.74](/chapter14/#example-1474 "Example 14.74.") is serving as a termset containing only one term. An analogous paradox applies to compound bridi with tail-terms and unequal numbers of sumti within the connected bridi-tails:
 
@@ -1287,17 +1182,12 @@ Forethought termsets also exist, and use *[nu'i](/glossary/?mode=exact&word=nu%2
 
 :::jbomupli
 
-|     |       |                   |      |        |        |          |        |
-| --- | ----- | ----------------- | ---- | ------ | ------ | -------- | ------ |
-| mi  | klama | nu'i              | ge   | le     | zarci  | le       | briju  |
-| I   | go    | \[start-termset\] | both | to-the | market | from-the | office |
+|     |       |                   |      |        |        |          |        |           |     |        |       |          |        |                  |
+| --- | ----- | ----------------- | ---- | ------ | ------ | -------- | ------ | --------- | --- | ------ | ----- | -------- | ------ | ---------------- |
+| mi  | klama | nu'i              | ge   | le     | zarci  | le       | briju  | nu'u      | gi  | le     | zdani | le       | ckule  | \[nu'u\]         |
+| I   | go    | \[start-termset\] | both | to-the | market | from-the | office | \[joint\] | and | to-the | house | from-the | school | \[end-termset\]. |
 
 :::
-
-|           |     |        |       |          |        |                  |
-| --------- | --- | ------ | ----- | -------- | ------ | ---------------- |
-| nu'u      | gi  | le     | zdani | le       | ckule  | \[nu'u\]         |
-| \[joint\] | and | to-the | house | from-the | school | \[end-termset\]. |
 
 Note that even though two termsets are being connected, only one *[nu'i](/glossary/?mode=exact&word=nu%27i)* is used.
 
@@ -1368,17 +1258,12 @@ would be true, because tanru grouping with a jek has higher precedence than unma
 
 :::jbomupli
 
-|            |        |     |      |       |         |
-| ---------- | ------ | --- | ---- | ----- | ------- |
-| la         | .alis. | cu  |      | blanu | prenu   |
-| That-named | Alice  |     | is-a | blue  | person, |
+|            |        |     |      |       |         |      |            |        |     |      |       |         |
+| ---------- | ------ | --- | ---- | ----- | ------- | ---- | ---------- | ------ | --- | ---- | ----- | ------- |
+| la         | .alis. | cu  |      | blanu | prenu   | .ije | la         | .alis. | cu  |      | zdani | prenu   |
+| That-named | Alice  |     | is-a | blue  | person, | and  | that-named | Alice  |     | is-a | house | person. |
 
 :::
-
-|      |            |        |     |      |       |         |
-| ---- | ---------- | ------ | --- | ---- | ----- | ------- |
-| .ije | la         | .alis. | cu  |      | zdani | prenu   |
-| and  | that-named | Alice  |     | is-a | house | person. |
 
 is probably false, because the blueness is associated with the house, not with Alice, even leaving aside the question of what it means to say “Alice is a blue person”. (Perhaps she belongs to the Blue team, or is wearing blue clothes.) The semantic ambiguity of tanru make such logical manipulations impossible.
 
@@ -1401,17 +1286,12 @@ The components of tanru may be grouped with *[ke](/glossary/?mode=exact&word=ke)
 
 :::jbomupli
 
-|            |         |     |        |         |     |         |          |
-| ---------- | ------- | --- | ------ | ------- | --- | ------- | -------- |
-| la         | .teris. | cu  | \[ke\] | ricfu   | ja  | pindi   | \[ke'e\] |
-| That-named | Terry   |     | (      | is-rich | or  | is-poor | )        |
+|            |         |     |        |         |     |         |          |     |     |       |     |        |          |
+| ---------- | ------- | --- | ------ | ------- | --- | ------- | -------- | --- | --- | ----- | --- | ------ | -------- |
+| la         | .teris. | cu  | \[ke\] | ricfu   | ja  | pindi   | \[ke'e\] | je  | ke  | nakni | ja  | fetsi  | \[ke'e\] |
+| That-named | Terry   |     | (      | is-rich | or  | is-poor | )        | and | (   | male  | or  | female | ).       |
 
 :::
-
-|     |     |       |     |        |          |
-| --- | --- | ----- | --- | ------ | -------- |
-| je  | ke  | nakni | ja  | fetsi  | \[ke'e\] |
-| and | (   | male  | or  | female | ).       |
 
 where the first *[ke'e](/glossary/?mode=exact&word=ke%27e)* pair may be omitted altogether by the rule of left-grouping, but is optionally permitted. In any case, the last instance of *[ke'e](/glossary/?mode=exact&word=ke%27e)* may be elided.
 
@@ -1611,10 +1491,8 @@ Alice is not a dog and is not a cat.
 
 ##### Example 14.103.
 
-|         |
-| ------- |
-| nagi'o  |
-| gi'onai |
+nagi'o  
+gi'onai
 
 Alice is a dog or is a cat but not both (I'm not saying which).
 
@@ -1628,17 +1506,12 @@ The answer *[gi'e](/glossary/?mode=exact&word=gi%27e)*, meaning that Alice is a 
 
 :::jbomupli
 
-|     |        |                 |           |        |
-| --- | ------ | --------------- | --------- | ------ |
-| do  | djica  | tu'a            | loi       | ckafi  |
-| You | desire | something-about | a-mass-of | coffee |
+|     |        |                 |           |        |                     |           |       |
+| --- | ------ | --------------- | --------- | ------ | ------------------- | --------- | ----- |
+| do  | djica  | tu'a            | loi       | ckafi  | ji                  | loi       | tcati |
+| You | desire | something-about | a-mass-of | coffee | \[truth-function?\] | a-mass-of | tea?  |
 
 :::
-
-|                     |           |       |
-| ------------------- | --------- | ----- |
-| ji                  | loi       | tcati |
-| \[truth-function?\] | a-mass-of | tea?  |
 
 Do you want coffee or tea?
 
@@ -1650,17 +1523,12 @@ The forethought questions *[ge'i](/glossary/?mode=exact&word=ge%27i)* and *[gu'i
 
 :::jbomupli
 
-|     |        |                 |                     |           |        |
-| --- | ------ | --------------- | ------------------- | --------- | ------ |
-| do  | djica  | tu'a            | ge'i                | loi       | ckafi  |
-| You | desire | something-about | \[truth-function?\] | a-mass-of | coffee |
+|     |        |                 |                     |           |        |        |           |       |
+| --- | ------ | --------------- | ------------------- | --------- | ------ | ------ | --------- | ----- |
+| do  | djica  | tu'a            | ge'i                | loi       | ckafi  | gi     | loi       | tcati |
+| You | desire | something-about | \[truth-function?\] | a-mass-of | coffee | \[or\] | a-mass-of | tea?  |
 
 :::
-
-|        |           |       |
-| ------ | --------- | ----- |
-| gi     | loi       | tcati |
-| \[or\] | a-mass-of | tea?  |
 
 the answer must be in afterthought form.
 
@@ -1692,21 +1560,16 @@ Truth questions may be used in bridi connection. This form of sentence is perfec
 
 :::jbomupli
 
-|       |      |           |      |          |       |           |       |        |
-| ----- | ---- | --------- | ---- | -------- | ----- | --------- | ----- | ------ |
-| ganai | ti   | ckafi     | gi   | ko       | bevri | loi       | tcati | mi     |
-| If    | this | is-coffee | then | \[you!\] | bring | a-mass-of | tea   | to-me, |
+|       |      |           |      |          |       |           |       |        |      |       |      |        |      |          |       |           |        |        |
+| ----- | ---- | --------- | ---- | -------- | ----- | --------- | ----- | ------ | ---- | ----- | ---- | ------ | ---- | -------- | ----- | --------- | ------ | ------ |
+| ganai | ti   | ckafi     | gi   | ko       | bevri | loi       | tcati | mi     | .ije | ganai | ti   | tcati  | gi   | ko       | bevri | loi       | ckafi  | mi     |
+| If    | this | is-coffee | then | \[you!\] | bring | a-mass-of | tea   | to-me, | and  | if    | this | is-tea | then | \[you!\] | bring | a-mass-of | coffee | to-me. |
 
 :::
 
-|      |       |      |        |      |          |       |           |        |        |
-| ---- | ----- | ---- | ------ | ---- | -------- | ----- | --------- | ------ | ------ |
-| .ije | ganai | ti   | tcati  | gi   | ko       | bevri | loi       | ckafi  | mi     |
-| and  | if    | this | is-tea | then | \[you!\] | bring | a-mass-of | coffee | to-me. |
-
 If this is coffee, bring me tea; but if this is tea, bring me coffee.
 
-In logical terms, however, “but” is the same as “and”; the difference is that the sentence after a “but” is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo *[ku'i](/glossary/?mode=exact&word=ku%27i)* (of selma'o UI), which is explained in [Section 13.12](/chapter13/#1312-discursives "13.12. Discursives"), to the logical *[je](/glossary/?mode=exact&word=je)*.)
+In logical terms, however, “but” is the same as “and”; the difference is that the sentence after a “but” is felt to be in tension or opposition to the sentence before it. Lojban represents this distinction by adding the discursive cmavo *[ku'i](/glossary/?mode=exact&word=ku%27i)* (of selma'o UI), which is explained in [Section 13.12](/chapter13/#1312-discursives "13.12. Discursives"), to the logical *[je](/glossary/?mode=exact&word=je)*.
 
 ## 14.14. Non-logical connectives
 
@@ -1793,17 +1656,12 @@ The cmavo *[se](/glossary/?mode=exact&word=se)* is grammatical before any JOI cm
 
 :::jbomupli
 
-|     |        |            |        |                 |        |
-| --- | ------ | ---------- | ------ | --------------- | ------ |
-| mi  | cuxna  | la         | .alis. | la              | frank. |
-| I   | choose | that-named | Alice  | from-that-named | Frank  |
+|     |        |            |        |                 |        |            |            |        |            |            |          |
+| --- | ------ | ---------- | ------ | --------------- | ------ | ---------- | ---------- | ------ | ---------- | ---------- | -------- |
+| mi  | cuxna  | la         | .alis. | la              | frank. | ce         | la         | .alis. | ce         | la         | djeimyz. |
+| I   | choose | that-named | Alice  | from-that-named | Frank  | and-member | that-named | Alice  | and-member | that-named | James.   |
 
 :::
-
-|            |            |        |            |            |          |
-| ---------- | ---------- | ------ | ---------- | ---------- | -------- |
-| ce         | la         | .alis. | ce         | la         | djeimyz. |
-| and-member | that-named | Alice  | and-member | that-named | James.   |
 
 I choose Alice from among Frank, Alice, and James.
 
@@ -1858,17 +1716,12 @@ since that expands to two bridi and means that James is a brother and so is Geor
 
 :::jbomupli
 
-|            |          |                |            |
-| ---------- | -------- | -------------- | ---------- |
-| la         | djeimyz. | jo'u           |            |
-| That-named | James    | in-common-with | that-named |
+|            |          |                |            |        |         |               |                   |       |
+| ---------- | -------- | -------------- | ---------- | ------ | ------- | ------------- | ----------------- | ----- |
+| la         | djeimyz. | jo'u           |            | la     | djordj. | cu            | remei             | bruna |
+| That-named | James    | in-common-with | that-named | George |         | are-a-twosome | type-of-brothers. |       |
 
 :::
-
-|        |         |               |                   |       |
-| ------ | ------- | ------------- | ----------------- | ----- |
-| la     | djordj. | cu            | remei             | bruna |
-| George |         | are-a-twosome | type-of-brothers. |       |
 
 The tanru *remei bruna* is not strictly necessary in this sentence, but is used to make clear that we are not saying that James and George are both brothers of some third person not specified. Alternatively, we could turn the tanru around: the x1 place of *[mei](/glossary/?mode=exact&word=mei)* is a mass with two components, leading to:
 
@@ -1876,17 +1729,12 @@ The tanru *remei bruna* is not strictly necessary in this sentence, but is used 
 
 :::jbomupli
 
-|            |          |             |
-| ---------- | -------- | ----------- |
-| la         | djeimyz. | joi         |
-| That-named | James    | massed-with |
+|            |          |             |            |         |     |               |                  |
+| ---------- | -------- | ----------- | ---------- | ------- | --- | ------------- | ---------------- |
+| la         | djeimyz. | joi         | la         | djordj. | cu  | bruna         | remei            |
+| That-named | James    | massed-with | that-named | George  |     | are-a-brother | type-of-twosome. |
 
 :::
-
-|            |         |     |               |                  |
-| ---------- | ------- | --- | ------------- | ---------------- |
-| la         | djordj. | cu  | bruna         | remei            |
-| that-named | George  |     | are-a-brother | type-of-twosome. |
 
 where *[joi](/glossary/?mode=exact&word=joi)* is used to create the necessary mass.
 
@@ -1896,17 +1744,12 @@ Likewise, *[fa'u](/glossary/?mode=exact&word=fa%27u)* can be used to put two ind
 
 :::jbomupli
 
-|            |          |                       |            |         |
-| ---------- | -------- | --------------------- | ---------- | ------- |
-| la         | djeimyz. | fa'u                  | la         | djordj. |
-| That-named | James    | jointly-in-order-with | that-named | George  |
+|            |          |                       |            |         |       |            |        |                       |            |         |
+| ---------- | -------- | --------------------- | ---------- | ------- | ----- | ---------- | ------ | --------------------- | ---------- | ------- |
+| la         | djeimyz. | fa'u                  | la         | djordj. | prami | la         | meris. | fa'u                  | la         | martas. |
+| That-named | James    | jointly-in-order-with | that-named | George  | loves | that-named | Mary   | jointly-in-order-with | that-named | Martha. |
 
 :::
-
-|       |            |        |                       |            |         |
-| ----- | ---------- | ------ | --------------------- | ---------- | ------- |
-| prami | la         | meris. | fa'u                  | la         | martas. |
-| loves | that-named | Mary   | jointly-in-order-with | that-named | Martha. |
 
 James and George love Mary and Martha, respectively.
 
@@ -1916,17 +1759,12 @@ Here the information carried by the English adverb “respectively”, namely th
 
 :::jbomupli
 
-|            |          |     |            |         |       |
-| ---------- | -------- | --- | ---------- | ------- | ----- |
-| la         | djeimyz. | .e  | la         | djordj. | prami |
-| That-named | James    | and | that-named | George  | love  |
+|            |          |     |            |         |       |            |        |     |            |         |
+| ---------- | -------- | --- | ---------- | ------- | ----- | ---------- | ------ | --- | ---------- | ------- |
+| la         | djeimyz. | .e  | la         | djordj. | prami | la         | meris. | .e  | la         | martas. |
+| That-named | James    | and | that-named | George  | love  | that-named | Mary   | and | that-named | Martha. |
 
 :::
-
-|            |        |     |            |         |
-| ---------- | ------ | --- | ---------- | ------- |
-| la         | meris. | .e  | la         | martas. |
-| that-named | Mary   | and | that-named | Martha. |
 
 which can be transformed to four bridi:
 
@@ -1934,22 +1772,12 @@ which can be transformed to four bridi:
 
 :::jbomupli
 
-|            |          |       |            |        |      |            |         |       |
-| ---------- | -------- | ----- | ---------- | ------ | ---- | ---------- | ------- | ----- |
-| la         | djeimyz. | prami | la         | meris. | .ije | la         | djordj. | prami |
-| That-named | James    | loves | that-named | Mary,  | and  | that-named | George  | loves |
+|            |          |       |            |        |      |            |         |       |            |        |      |            |          |       |            |         |      |            |         |       |            |         |
+| ---------- | -------- | ----- | ---------- | ------ | ---- | ---------- | ------- | ----- | ---------- | ------ | ---- | ---------- | -------- | ----- | ---------- | ------- | ---- | ---------- | ------- | ----- | ---------- | ------- |
+| la         | djeimyz. | prami | la         | meris. | .ije | la         | djordj. | prami | la         | meris. | .ije | la         | djeimyz. | prami | la         | martas. | .ije | la         | djordj. | prami | la         | martas. |
+| That-named | James    | loves | that-named | Mary,  | and  | that-named | George  | loves | that-named | Mary,  | and  | that-named | James    | loves | that-named | Martha, | and  | that-named | George  | loves | that-named | Martha. |
 
 :::
-
-|            |        |      |            |          |       |            |         |
-| ---------- | ------ | ---- | ---------- | -------- | ----- | ---------- | ------- |
-| la         | meris. | .ije | la         | djeimyz. | prami | la         | martas. |
-| that-named | Mary,  | and  | that-named | James    | loves | that-named | Martha, |
-
-|      |            |         |       |            |         |
-| ---- | ---------- | ------- | ----- | ---------- | ------- |
-| .ije | la         | djordj. | prami | la         | martas. |
-| and  | that-named | George  | loves | that-named | Martha. |
 
 which represents quite a different state of affairs from [Example 14.120](/chapter14/#example-14120 "Example 14.120."). The meaning of [Example 14.120](/chapter14/#example-14120 "Example 14.120.") can also be conveyed by a termset:
 
@@ -1957,17 +1785,12 @@ which represents quite a different state of affairs from [Example 14.120](/chapt
 
 :::jbomupli
 
-|            |          |          |            |        |           |
-| ---------- | -------- | -------- | ---------- | ------ | --------- |
-| la         | djeimyz. | ce'e     | la         | meris. | pe'e      |
-| That-named | James    | \[plus\] | that-named | Mary   | \[joint\] |
+|            |          |          |            |        |           |     |            |         |          |            |         |        |
+| ---------- | -------- | -------- | ---------- | ------ | --------- | --- | ---------- | ------- | -------- | ---------- | ------- | ------ |
+| la         | djeimyz. | ce'e     | la         | meris. | pe'e      | .e  | la         | djordj. | ce'e     | la         | martas. | prami  |
+| That-named | James    | \[plus\] | that-named | Mary   | \[joint\] | and | that-named | George  | \[plus\] | that-named | Martha  | loves. |
 
 :::
-
-|     |            |         |          |            |         |        |
-| --- | ---------- | ------- | -------- | ---------- | ------- | ------ |
-| .e  | la         | djordj. | ce'e     | la         | martas. | prami  |
-| and | that-named | George  | \[plus\] | that-named | Martha  | loves. |
 
 at the expense of re-ordering the list of names so as to make the pairs explicit. This option is not available when one of the lists is only described rather than enumerated:
 
@@ -2042,17 +1865,12 @@ The following example uses *se remei*, which is a set (not a mass) of two elemen
 
 :::jbomupli
 
-|            |          |          |            |         |               |
-| ---------- | -------- | -------- | ---------- | ------- | ------------- |
-| la         | djeimyz. | ce\[bo\] | la         | djordj. | pi'u          |
-| That-named | James    | and-set  | that-named | George  | cross-product |
+|            |          |          |            |         |               |            |        |         |            |         |     |           |     |                |
+| ---------- | -------- | -------- | ---------- | ------- | ------------- | ---------- | ------ | ------- | ---------- | ------- | --- | --------- | --- | -------------- |
+| la         | djeimyz. | ce\[bo\] | la         | djordj. | pi'u          | la         | meris. | cebo    | la         | martas. | cu  | prami     | se  | remei          |
+| That-named | James    | and-set  | that-named | George  | cross-product | that-named | Mary   | and-set | that-named | Martha  |     | are-lover |     | type-of-pairs. |
 
 :::
-
-|            |        |         |            |         |     |           |     |                |
-| ---------- | ------ | ------- | ---------- | ------- | --- | --------- | --- | -------------- |
-| la         | meris. | cebo    | la         | martas. | cu  | prami     | se  | remei          |
-| that-named | Mary   | and-set | that-named | Martha  |     | are-lover |     | type-of-pairs. |
 
 means that each of the pairs James/Mary, George/Mary, James/Martha, and George/Martha love each other. Therefore it is similar in meaning to [Example 14.121](/chapter14/#example-14121 "Example 14.121."); however, that example speaks only of the men loving the women, not vice versa.
 
@@ -2062,17 +1880,12 @@ Joiks may be combined with *[bo](/glossary/?mode=exact&word=bo)* or with *[ke](/
 
 :::jbomupli
 
-|     |             |      |     |             |       |             |            |        |
-| --- | ----------- | ---- | --- | ----------- | ----- | ----------- | ---------- | ------ |
-| mi  | joibo       | do   | ce  | la          | djan. | joibo       | la         | djein. |
-| (I  | massed-with | you) | and | (that-named | John  | massed-with | that-named | Jane)  |
+|     |             |      |     |             |       |             |            |        |     |            |     |                 |
+| --- | ----------- | ---- | --- | ----------- | ----- | ----------- | ---------- | ------ | --- | ---------- | --- | --------------- |
+| mi  | joibo       | do   | ce  | la          | djan. | joibo       | la         | djein. | cu  | gunma      | se  | remei           |
+| (I  | massed-with | you) | and | (that-named | John  | massed-with | that-named | Jane)  |     | are-a-mass |     | type-of-two-set |
 
 :::
-
-|     |            |     |                 |
-| --- | ---------- | --- | --------------- |
-| cu  | gunma      | se  | remei           |
-|     | are-a-mass |     | type-of-two-set |
 
 asserts that there is a set of two items each of which is a mass.
 
@@ -2086,17 +1899,12 @@ so the x1 place must be occupied by a mass (for reasons not explained here); how
 
 :::jbomupli
 
-|     |          |             |            |         |           |             |
-| --- | -------- | ----------- | ---------- | ------- | --------- | ----------- |
-| mi  | ce'e     | bau         | la         | lojban. | pe'e      | joi         |
-| (I  | \[plus\] | in-language | that-named | Lojban  | \[joint\] | massed-with |
+|     |          |             |            |         |           |             |     |          |             |            |         |      |          |
+| --- | -------- | ----------- | ---------- | ------- | --------- | ----------- | --- | -------- | ----------- | ---------- | ------- | ---- | -------- |
+| mi  | ce'e     | bau         | la         | lojban. | pe'e      | joi         | do  | ce'e     | bau         | la         | gliban. | nu'u | casnu    |
+| (I  | \[plus\] | in-language | that-named | Lojban  | \[joint\] | massed-with | you | \[plus\] | in-language | that-named | English | )    | discuss. |
 
 :::
-
-|     |          |             |            |         |      |          |
-| --- | -------- | ----------- | ---------- | ------- | ---- | -------- |
-| do  | ce'e     | bau         | la         | gliban. | nu'u | casnu    |
-| you | \[plus\] | in-language | that-named | English | )    | discuss. |
 
 Like all non-logical connectives, the usage shown in [Example 14.131](/chapter14/#example-14131 "Example 14.131.") cannot be mechanically converted into a non-logical connective placed at another location in the bridi. The forethought equivalent of [Example 14.131](/chapter14/#example-14131 "Example 14.131.") is:
 
@@ -2110,27 +1918,12 @@ Non-logical forethought termsets are also useful when the things to be non-logic
 
 :::jbomupli
 
-|            |       |                   |            |        |         |
-| ---------- | ----- | ----------------- | ---------- | ------ | ------- |
-| la         | djan. | fa'u              | la         | frank. | cusku   |
-| That-named | John  | respectively-with | that-named | Frank  | express |
+|            |       |                   |            |        |         |                   |             |            |         |           |                   |                     |                 |            |         |          |
+| ---------- | ----- | ----------------- | ---------- | ------ | ------- | ----------------- | ----------- | ---------- | ------- | --------- | ----------------- | ------------------- | --------------- | ---------- | ------- | -------- |
+| la         | djan. | fa'u              | la         | frank. | cusku   | nu'i              | bau         | la         | lojban. | nu'u      | fa'u              | bai                 | tu'a            | la         | djordj. | \[nu'u\] |
+| That-named | John  | respectively-with | that-named | Frank  | express | \[start-termset\] | in-language | that-named | Lojban  | \[joint\] | respectively-with | under-compulsion-by | something-about | that-named | George. |          |
 
 :::
-
-|                   |             |            |         |
-| ----------------- | ----------- | ---------- | ------- |
-| nu'i              | bau         | la         | lojban. |
-| \[start-termset\] | in-language | that-named | Lojban  |
-
-|           |                   |                     |
-| --------- | ----------------- | ------------------- |
-| nu'u      | fa'u              | bai                 |
-| \[joint\] | respectively-with | under-compulsion-by |
-
-|                 |            |         |          |
-| --------------- | ---------- | ------- | -------- |
-| tu'a            | la         | djordj. | \[nu'u\] |
-| something-about | that-named | George. |          |
 
 John and Frank speak in Lojban and under George's compulsion, respectively.
 
@@ -2142,22 +1935,12 @@ Joiks may be prefixed with *[i](/glossary/?mode=exact&word=i)* to produce ijoiks
 
 :::jbomupli
 
-|     |            |       |                 |                |     |
-| --- | ---------- | ----- | --------------- | -------------- | --- |
-| mi  | ba         | gasnu | la'e            | di'e           | .i  |
-| I   | \[future\] | do    | the-referent-of | the-following: |     |
+|     |            |       |                 |                |     |      |         |     |             |        |          |       |     |       |          |                     |     |       |      |
+| --- | ---------- | ----- | --------------- | -------------- | --- | ---- | ------- | --- | ----------- | ------ | -------- | ----- | --- | ----- | -------- | ------------------- | --- | ----- | ---- |
+| mi  | ba         | gasnu | la'e            | di'e           | .i  | tu'e | kanji   | lo  | ni          | cteki  | .ice'o   | lumci | le  | karce | .ice'o   | dzukansa            | le  | gerku | tu'u |
+| I   | \[future\] | do    | the-referent-of | the-following: |     | (    | Compute | the | quantity-of | taxes. | And-then | wash  | the | car.  | And-then | walkingly-accompany | the | dog.  | )    |
 
 :::
-
-|      |         |     |             |        |          |       |     |       |
-| ---- | ------- | --- | ----------- | ------ | -------- | ----- | --- | ----- |
-| tu'e | kanji   | lo  | ni          | cteki  | .ice'o   | lumci | le  | karce |
-| (    | Compute | the | quantity-of | taxes. | And-then | wash  | the | car.  |
-
-|          |                     |     |       |      |
-| -------- | ------------------- | --- | ----- | ---- |
-| .ice'o   | dzukansa            | le  | gerku | tu'u |
-| And-then | walkingly-accompany | the | dog.  | )    |
 
 List of things to do: Figure taxes. Wash car. Walk dog.
 
@@ -2186,17 +1969,12 @@ There is no joik question cmavo as such; however, joiks and ijoiks may be uttere
 
 :::jbomupli
 
-|     |        |                 |           |        |
-| --- | ------ | --------------- | --------- | ------ |
-| do  | djica  | tu'a            | loi       | ckafi  |
-| You | desire | something-about | a-mass-of | coffee |
+|     |        |                 |           |        |                      |           |       |
+| --- | ------ | --------------- | --------- | ------ | -------------------- | --------- | ----- |
+| do  | djica  | tu'a            | loi       | ckafi  | ji                   | loi       | tcati |
+| You | desire | something-about | a-mass-of | coffee | \[what-connective?\] | a-mass-of | tea?  |
 
 :::
-
-|                      |           |       |
-| -------------------- | --------- | ----- |
-| ji                   | loi       | tcati |
-| \[what-connective?\] | a-mass-of | tea?  |
 
 Do you want coffee or tea?
 
@@ -2219,17 +1997,12 @@ An example of *[bi'i](/glossary/?mode=exact&word=bi%27i)* in sumti connection:
 
 :::jbomupli
 
-|     |             |                  |
-| --- | ----------- | ---------------- |
-| mi  | ca          | sanli            |
-| I   | \[present\] | stand-on-surface |
+|     |             |                  |            |         |              |            |            |
+| --- | ----------- | ---------------- | ---------- | ------- | ------------ | ---------- | ---------- |
+| mi  | ca          | sanli            | la         | drezdn. | bi'i         | la         | frankfurt. |
+| I   | \[present\] | stand-on-surface | that-named | Dresden | \[interval\] | that-named | Frankfurt. |
 
 :::
-
-|            |         |              |            |            |
-| ---------- | ------- | ------------ | ---------- | ---------- |
-| la         | drezdn. | bi'i         | la         | frankfurt. |
-| that-named | Dresden | \[interval\] | that-named | Frankfurt. |
 
 I am standing between Dresden and Frankfurt.
 
@@ -2239,17 +2012,12 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), it is all the 
 
 :::jbomupli
 
-|     |       |                   |     |            |
-| --- | ----- | ----------------- | --- | ---------- |
-| mi  | cadzu | ca                | la  | pacac.     |
-| I   | walk  | simultaneous-with |     | First-hour |
+|     |       |                   |     |            |                      |     |              |
+| --- | ----- | ----------------- | --- | ---------- | -------------------- | --- | ------------ |
+| mi  | cadzu | ca                | la  | pacac.     | bi'o                 | la  | recac.       |
+| I   | walk  | simultaneous-with |     | First-hour | \[ordered-interval\] |     | Second-hour. |
 
 :::
-
-|                      |     |              |
-| -------------------- | --- | ------------ |
-| bi'o                 | la  | recac.       |
-| \[ordered-interval\] |     | Second-hour. |
 
 I walk from one o'clock to two o'clock.
 
@@ -2261,17 +2029,12 @@ In [Example 14.139](/chapter14/#example-14139 "Example 14.139."), on the other h
 
 :::jbomupli
 
-|     |       |                   |     |             |
-| --- | ----- | ----------------- | --- | ----------- |
-| mi  | cadzu | ca                | la  | recac.      |
-| I   | walk  | simultaneous-with |     | Second-hour |
+|     |       |                   |     |             |             |             |     |             |
+| --- | ----- | ----------------- | --- | ----------- | ----------- | ----------- | --- | ----------- |
+| mi  | cadzu | ca                | la  | recac.      | se          | bi'o        | la  | pacac.      |
+| I   | walk  | simultaneous-with |     | Second-hour | \[reverse\] | \[ordered\] |     | First-hour. |
 
 :::
-
-|             |             |     |             |
-| ----------- | ----------- | --- | ----------- |
-| se          | bi'o        | la  | pacac.      |
-| \[reverse\] | \[ordered\] |     | First-hour. |
 
 English cannot readily express *[bi'o](/glossary/?mode=exact&word=bi%27o)*, but its meaning can be understood by reversing the two sumti.
 
@@ -2281,17 +2044,12 @@ The third cmavo of selma'o BIhI, namely *[mi'i](/glossary/?mode=exact&word=mi%27
 
 :::jbomupli
 
-|     |       |          |          |     |            |
-| --- | ----- | -------- | -------- | --- | ---------- |
-| le  | jbama | pu       | daspo    | la  | .uacintyn. |
-| The | bomb  | \[past\] | destroys |     | Washington |
+|     |       |          |          |     |            |            |         |                   |     |     |      |
+| --- | ----- | -------- | -------- | --- | ---------- | ---------- | ------- | ----------------- | --- | --- | ---- |
+| le  | jbama | pu       | daspo    | la  | .uacintyn. | mi'i       | lo      | minli             | be  | li  | muno |
+| The | bomb  | \[past\] | destroys |     | Washington | \[center\] | what-is | measured-in-miles |     | by  | 50.  |
 
 :::
-
-|            |         |                   |     |     |      |
-| ---------- | ------- | ----------------- | --- | --- | ---- |
-| mi'i       | lo      | minli             | be  | li  | muno |
-| \[center\] | what-is | measured-in-miles |     | by  | 50.  |
 
 The bomb destroyed Washington and fifty miles around.
 
@@ -2303,17 +2061,12 @@ In [Example 14.138](/chapter14/#example-14138 "Example 14.138."), is it possible
 
 :::jbomupli
 
-|     |             |       |            |         |               |
-| --- | ----------- | ----- | ---------- | ------- | ------------- |
-| mi  | ca          | sanli | la         | drezdn. | ga'o          |
-| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] |
+|     |             |       |            |         |               |              |               |            |            |
+| --- | ----------- | ----- | ---------- | ------- | ------------- | ------------ | ------------- | ---------- | ---------- |
+| mi  | ca          | sanli | la         | drezdn. | ga'o          | bi'i         | ga'o          | la         | frankfurt. |
+| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] | \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 :::
-
-|              |               |            |            |
-| ------------ | ------------- | ---------- | ---------- |
-| bi'i         | ga'o          | la         | frankfurt. |
-| \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 I am standing between Dresden and Frankfurt, inclusive of both.
 
@@ -2321,17 +2074,12 @@ I am standing between Dresden and Frankfurt, inclusive of both.
 
 :::jbomupli
 
-|     |             |       |            |         |               |
-| --- | ----------- | ----- | ---------- | ------- | ------------- |
-| mi  | ca          | sanli | la         | drezdn. | ga'o          |
-| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] |
+|     |             |       |            |         |               |              |               |            |            |
+| --- | ----------- | ----- | ---------- | ------- | ------------- | ------------ | ------------- | ---------- | ---------- |
+| mi  | ca          | sanli | la         | drezdn. | ga'o          | bi'i         | ke'i          | la         | frankfurt. |
+| I   | \[present\] | stand | that-named | Dresden | \[inclusive\] | \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 :::
-
-|              |               |            |            |
-| ------------ | ------------- | ---------- | ---------- |
-| bi'i         | ke'i          | la         | frankfurt. |
-| \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 I am standing between Dresden (inclusive) and Frankfurt (exclusive).
 
@@ -2339,17 +2087,12 @@ I am standing between Dresden (inclusive) and Frankfurt (exclusive).
 
 :::jbomupli
 
-|     |             |       |            |         |               |
-| --- | ----------- | ----- | ---------- | ------- | ------------- |
-| mi  | ca          | sanli | la         | drezdn. | ke'i          |
-| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] |
+|     |             |       |            |         |               |              |               |            |            |
+| --- | ----------- | ----- | ---------- | ------- | ------------- | ------------ | ------------- | ---------- | ---------- |
+| mi  | ca          | sanli | la         | drezdn. | ke'i          | bi'i         | ga'o          | la         | frankfurt. |
+| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] | \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 :::
-
-|              |               |            |            |
-| ------------ | ------------- | ---------- | ---------- |
-| bi'i         | ga'o          | la         | frankfurt. |
-| \[interval\] | \[inclusive\] | that-named | Frankfurt. |
 
 I am standing between Dresden (exclusive) and Frankfurt (inclusive).
 
@@ -2357,17 +2100,12 @@ I am standing between Dresden (exclusive) and Frankfurt (inclusive).
 
 :::jbomupli
 
-|     |             |       |            |         |               |
-| --- | ----------- | ----- | ---------- | ------- | ------------- |
-| mi  | ca          | sanli | la         | drezdn. | ke'i          |
-| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] |
+|     |             |       |            |         |               |              |               |            |            |
+| --- | ----------- | ----- | ---------- | ------- | ------------- | ------------ | ------------- | ---------- | ---------- |
+| mi  | ca          | sanli | la         | drezdn. | ke'i          | bi'i         | ke'i          | la         | frankfurt. |
+| I   | \[present\] | stand | that-named | Dresden | \[exclusive\] | \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 :::
-
-|              |               |            |            |
-| ------------ | ------------- | ---------- | ---------- |
-| bi'i         | ke'i          | la         | frankfurt. |
-| \[interval\] | \[exclusive\] | that-named | Frankfurt. |
 
 I am standing between Dresden and Frankfurt, exclusive of both.
 
@@ -2383,17 +2121,12 @@ Negated intervals, marked with a *-nai* following the BIhI cmavo, indicate an in
 
 :::jbomupli
 
-|     |         |           |     |     |            |         |
-| --- | ------- | --------- | --- | --- | ---------- | ------- |
-| do  | dicra   | .e'a      | mi  | ca  | la         | daucac. |
-| You | disturb | (allowed) | me  | at  | that-named | 10      |
+|     |         |           |     |     |            |         |               |            |         |
+| --- | ------- | --------- | --- | --- | ---------- | ------- | ------------- | ---------- | ------- |
+| do  | dicra   | .e'a      | mi  | ca  | la         | daucac. | bi'onai       | la         | gaicac. |
+| You | disturb | (allowed) | me  | at  | that-named | 10      | not-from-…-to | that-named | 12      |
 
 :::
-
-|                 |            |         |
-| --------------- | ---------- | ------- |
-| bi'onai         | la         | gaicac. |
-| not-from-...-to | that-named | 12      |
 
 You can contact me except from 10 to 12.
 
@@ -2436,17 +2169,12 @@ The first *[gi](/glossary/?mode=exact&word=gi)* is part of the joigik; the secon
 
 :::jbomupli
 
-|     |             |       |               |         |
-| --- | ----------- | ----- | ------------- | ------- |
-| mi  | ca          | sanli | ke'i          | bi'i    |
-| I   | \[present\] | stand | \[exclusive\] | between |
+|     |             |       |               |         |               |     |            |         |     |            |            |
+| --- | ----------- | ----- | ------------- | ------- | ------------- | --- | ---------- | ------- | --- | ---------- | ---------- |
+| mi  | ca          | sanli | ke'i          | bi'i    | ga'o          | gi  | la         | drezdn. | gi  | la         | frankfurt. |
+| I   | \[present\] | stand | \[exclusive\] | between | \[inclusive\] | and | that-named | Dresden | and | that-named | Frankfurt. |
 
 :::
-
-|               |     |            |         |     |            |            |
-| ------------- | --- | ---------- | ------- | --- | ---------- | ---------- |
-| ga'o          | gi  | la         | drezdn. | gi  | la         | frankfurt. |
-| \[inclusive\] | and | that-named | Dresden | and | that-named | Frankfurt. |
 
 I am standing between Dresden (exclusive) and Frankfurt (inclusive).
 
@@ -2564,17 +2292,12 @@ The two types of interaction between tenses and logical connectives are logicall
 
 :::jbomupli
 
-|            |        |          |                        |
-| ---------- | ------ | -------- | ---------------------- |
-| la         | .artr. | pu       | nolraitru              |
-| That-named | Arthur | \[past\] | is-a-noblest-governor. |
+|            |        |          |                        |      |            |        |            |                        |
+| ---------- | ------ | -------- | ---------------------- | ---- | ---------- | ------ | ---------- | ---------------------- |
+| la         | .artr. | pu       | nolraitru              | .ije | la         | .artr. | ba         | nolraitru              |
+| That-named | Arthur | \[past\] | is-a-noblest-governor. | And  | that-named | Arthur | \[future\] | is-a-noblest-governor. |
 
 :::
-
-|      |            |        |            |                        |
-| ---- | ---------- | ------ | ---------- | ---------------------- |
-| .ije | la         | .artr. | ba         | nolraitru              |
-| And  | that-named | Arthur | \[future\] | is-a-noblest-governor. |
 
 Arthur was a king, and Arthur will be a king.
 
@@ -2639,17 +2362,12 @@ fails to fully represent a feature of the English, namely that the buying came a
 
 :::jbomupli
 
-|     |          |       |     |         |
-| --- | -------- | ----- | --- | ------- |
-| mi  | pu       | klama | le  | zarci   |
-| I   | \[past\] | go-to | the | market. |
+|     |          |       |     |         |      |           |     |          |          |          |       |
+| --- | -------- | ----- | --- | ------- | ---- | --------- | --- | -------- | -------- | -------- | ----- |
+| mi  | pu       | klama | le  | zarci   | .ije | babo      | mi  | pu       | tervecnu | lo       | cidja |
+| I   | \[past\] | go-to | the | market. | And  | \[later\] | I   | \[past\] | buy      | items-of | food. |
 
 :::
-
-|      |           |     |          |          |          |       |
-| ---- | --------- | --- | -------- | -------- | -------- | ----- |
-| .ije | babo      | mi  | pu       | tervecnu | lo       | cidja |
-| And  | \[later\] | I   | \[past\] | buy      | items-of | food. |
 
 Here the *[pu](/glossary/?mode=exact&word=pu)* cmavo in the two bridi-tails express the time of both actions with respect to the speaker: in the past. The *[ba](/glossary/?mode=exact&word=ba)* relates the two items to one another: the second item is later than the first item. The grammar does not permit omitting the *[bo](/glossary/?mode=exact&word=bo)*; if it were omitted, the *[ba](/glossary/?mode=exact&word=ba)* and the second *[pu](/glossary/?mode=exact&word=pu)* would run together to form a compound tense *[bapu](/glossary/?mode=exact&word=bapu)* applying to the second bridi-tail only.
 
@@ -2676,17 +2394,12 @@ Between an ek (or joik) and *[ke](/glossary/?mode=exact&word=ke)*, as in:
 
 :::jbomupli
 
-|     |         |     |        |     |             |
-| --- | ------- | --- | ------ | --- | ----------- |
-| mi  | dzukla  | le  | zarci  | .e  | pu          |
-| I   | walk-to | the | market | and | \[earlier\] |
+|     |         |     |        |     |             |     |     |       |     |     |        |          |
+| --- | ------- | --- | ------ | --- | ----------- | --- | --- | ----- | --- | --- | ------ | -------- |
+| mi  | dzukla  | le  | zarci  | .e  | pu          | ke  | le  | zdani | .a  | le  | ckule  | \[ke'e\] |
+| I   | walk-to | the | market | and | \[earlier\] | (   | the | house | or  | the | school | ).       |
 
 :::
-
-|     |     |       |     |     |        |          |
-| --- | --- | ----- | --- | --- | ------ | -------- |
-| ke  | le  | zdani | .a  | le  | ckule  | \[ke'e\] |
-| (   | the | house | or  | the | school | ).       |
 
 I walk to the market and, before that, to the house or the school.
 
@@ -2696,17 +2409,12 @@ Between a gihek and *[bo](/glossary/?mode=exact&word=bo)*, as in:
 
 :::jbomupli
 
-|     |       |     |       |      |           |
-| --- | ----- | --- | ----- | ---- | --------- |
-| mi  | dunda | le  | cukta | gi'e | babo      |
-| I   | give  | the | book  | and  | \[later\] |
+|     |       |     |       |      |           |       |      |                |     |              |
+| --- | ----- | --- | ----- | ---- | --------- | ----- | ---- | -------------- | --- | ------------ |
+| mi  | dunda | le  | cukta | gi'e | babo      | lebna | lo   | rupnu          | vau | do           |
+| I   | give  | the | book  | and  | \[later\] | take  | some | currency-units |     | from/to-you. |
 
 :::
-
-|       |      |                |     |              |
-| ----- | ---- | -------------- | --- | ------------ |
-| lebna | lo   | rupnu          | vau | do           |
-| take  | some | currency-units |     | from/to-you. |
 
 I give you the book and then take some dollars (pounds, yen) from you.
 
@@ -2716,17 +2424,12 @@ Between a gihek and *[ke](/glossary/?mode=exact&word=ke)*, as in:
 
 :::jbomupli
 
-|     |         |     |        |      |                  |
-| --- | ------- | --- | ------ | ---- | ---------------- |
-| mi  | dzukla  | le  | zarci  | gi'e | ca               |
-| I   | walk-to | the | market | and  | \[simultaneous\] |
+|     |         |     |        |      |                  |     |         |           |               |       |          |
+| --- | ------- | --- | ------ | ---- | ---------------- | --- | ------- | --------- | ------------- | ----- | -------- |
+| mi  | dzukla  | le  | zarci  | gi'e | ca               | ke  | cusku   | zo'e      | la            | djan. | \[ke'e\] |
+| I   | walk-to | the | market | and  | \[simultaneous\] | (   | express | something | to-that-named | John. | )        |
 
 :::
-
-|     |         |           |               |       |          |
-| --- | ------- | --------- | ------------- | ----- | -------- |
-| ke  | cusku   | zo'e      | la            | djan. | \[ke'e\] |
-| (   | express | something | to-that-named | John. | )        |
 
 I walk to the market and at the same time talk to John.
 
@@ -2817,17 +2520,12 @@ Last and (as a matter of fact) least: a logical connective is allowed between ab
 
 :::jbomupli
 
-|     |            |            |         |         |     |         |
-| --- | ---------- | ---------- | ------- | ------- | --- | ------- |
-| le  | ka         | la         | frank.  | ciska   | cu  | xlali   |
-| The | quality-of | that-named | Frank's | writing |     | is-bad, |
+|     |            |            |         |         |     |         |      |     |             |            |         |         |     |         |
+| --- | ---------- | ---------- | ------- | ------- | --- | ------- | ---- | --- | ----------- | ---------- | ------- | ------- | --- | ------- |
+| le  | ka         | la         | frank.  | ciska   | cu  | xlali   | .ije | le  | ni          | la         | frank.  | ciska   | cu  | xlali   |
+| The | quality-of | that-named | Frank's | writing |     | is-bad, | and  | the | quantity-of | that-named | Frank's | writing |     | is-bad. |
 
 :::
-
-|      |     |             |            |         |         |     |         |
-| ---- | --- | ----------- | ---------- | ------- | ------- | --- | ------- |
-| .ije | le  | ni          | la         | frank.  | ciska   | cu  | xlali   |
-| and  | the | quantity-of | that-named | Frank's | writing |     | is-bad. |
 
 ##### Example 14.171.
 
@@ -2848,17 +2546,12 @@ Logical connectives and abstraction are related in another way as well, though. 
 
 :::jbomupli
 
-|     |       |     |           |           |               |
-| --- | ----- | --- | --------- | --------- | ------------- |
-| mi  | jinvi | le  | du'u      | loi       | jmive         |
-| I   | opine | the | fact-that | a-mass-of | living-things |
+|     |       |     |           |           |               |     |        |         |        |       |     |            |           |
+| --- | ----- | --- | --------- | --------- | ------------- | --- | ------ | ------- | ------ | ----- | --- | ---------- | --------- |
+| mi  | jinvi | le  | du'u      | loi       | jmive         | cu  | zvati  | gi'onai | na     | zvati | vau | la         | .iupiter. |
+| I   | opine | the | fact-that | a-mass-of | living-things |     | (is-at | or-else | is-not | at)   |     | that-named | Jupiter.  |
 
 :::
-
-|     |        |         |        |       |     |            |           |
-| --- | ------ | ------- | ------ | ----- | --- | ---------- | --------- |
-| cu  | zvati  | gi'onai | na     | zvati | vau | la         | .iupiter. |
-|     | (is-at | or-else | is-not | at)   |     | that-named | Jupiter.  |
 
 I believe there either is or isn't life on Jupiter.
 
@@ -2868,22 +2561,12 @@ is true, since the embedded sentence is a tautology, but:
 
 :::jbomupli
 
-|     |       |     |           |           |               |     |       |            |           |
-| --- | ----- | --- | --------- | --------- | ------------- | --- | ----- | ---------- | --------- |
-| mi  | jinvi | le  | du'u      | loi       | jmive         | cu  | zvati | la         | .iupiter. |
-| I   | opine | the | fact-that | a-mass-of | living-things |     | is-at | that-named | Jupiter   |
+|     |       |     |           |           |               |     |       |            |           |         |     |       |     |           |           |               |     |          |            |           |
+| --- | ----- | --- | --------- | --------- | ------------- | --- | ----- | ---------- | --------- | ------- | --- | ----- | --- | --------- | --------- | ------------- | --- | -------- | ---------- | --------- |
+| mi  | jinvi | le  | du'u      | loi       | jmive         | cu  | zvati | la         | .iupiter. | .ijonai | mi  | jinvi | le  | du'u      | loi       | jmive         | cu  | zvati    | la         | .iupiter. |
+| I   | opine | the | fact-that | a-mass-of | living-things |     | is-at | that-named | Jupiter   | or-else | I   | opine | the | fact-that | a-mass-of | living-things |     | isn't-at | that-named | Jupiter   |
 
 :::
-
-|         |     |       |     |           |           |               |
-| ------- | --- | ----- | --- | --------- | --------- | ------------- |
-| .ijonai | mi  | jinvi | le  | du'u      | loi       | jmive         |
-| or-else | I   | opine | the | fact-that | a-mass-of | living-things |
-
-|     |          |            |           |
-| --- | -------- | ---------- | --------- |
-| cu  | zvati    | la         | .iupiter. |
-|     | isn't-at | that-named | Jupiter   |
 
 is false, since I have no evidence one way or the other (*[jinvi](/glossary/?mode=exact&word=jinvi)* requires some sort of evidence, real or fancied, unlike *[krici](/glossary/?mode=exact&word=krici)*).
 
@@ -2935,32 +2618,24 @@ The full set of rules for inserting *[na](/glossary/?mode=exact&word=na)*, *[se]
 Afterthought logical connectives (eks, jeks, giheks, ijeks):
 
 - Negate first construct: Place *[na](/glossary/?mode=exact&word=na)* before the connective cmavo (but after the *[i](/glossary/?mode=exact&word=i)* of an ijek).
-
 - Negate second construct: Place *[nai](/glossary/?mode=exact&word=nai)* after the connective cmavo.
-
 - Exchange constructs: Place *[se](/glossary/?mode=exact&word=se)* before the connective cmavo (after *[na](/glossary/?mode=exact&word=na)* if any).
 
 Forethought logical connectives (geks, guheks):
 
 - Negate first construct: Place *[nai](/glossary/?mode=exact&word=nai)* after the connective cmavo.
-
 - Negate second construct: Place *[nai](/glossary/?mode=exact&word=nai)* after the *[gi](/glossary/?mode=exact&word=gi)*.
-
 - Exchange constructs: Place *[se](/glossary/?mode=exact&word=se)* before the connective cmavo.
 
 Non-logical connectives (joiks, joigiks):
 
 - Negate connection: Place *[nai](/glossary/?mode=exact&word=nai)* after the connective cmavo (but before the *[gi](/glossary/?mode=exact&word=gi)* of a joigik).
-
 - Exchange constructs: Place *[se](/glossary/?mode=exact&word=se)* before the connective cmavo.
 
 ## 14.23. Locations of other tables
 
-[Section 14.1](/chapter14/#141-logical-connection-and-truth-tables "14.1. Logical connection and truth tables"): a table explaining the meaning of each truth function in English.
-
-[Section 14.2](/chapter14/#142-the-four-basic-vowels "14.2. The Four basic vowels"): a table relating the truth functions to the four basic vowels.
-
-[Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"): a table of the connective question cmavo.
-
-[Section 14.14](/chapter14/#1414-non-logical-connectives "14.14. Non-logical connectives"): a table of the meanings of JOI cmavo when used to connect sumti.
+- [Section 14.1](/chapter14/#141-logical-connection-and-truth-tables "14.1. Logical connection and truth tables"): a table explaining the meaning of each truth function in English.
+- [Section 14.2](/chapter14/#142-the-four-basic-vowels "14.2. The Four basic vowels"): a table relating the truth functions to the four basic vowels.
+- [Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"): a table of the connective question cmavo.
+- [Section 14.14](/chapter14/#1414-non-logical-connectives "14.14. Non-logical connectives"): a table of the meanings of JOI cmavo when used to connect sumti.
 

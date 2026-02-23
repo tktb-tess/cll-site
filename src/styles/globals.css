@@ -132,6 +132,10 @@
       @slot;
     }
   }
+
+  &:focus-visible {
+    @slot;
+  }
 }
 
 @utility font-feat-* {
@@ -148,6 +152,7 @@
     min(calc(var(--spacing) * --value(integer)), 100%),
     1fr
   );
+  grid-template-columns: repeat(auto-fill, min(--value([*]), 100%), 1fr);
 }
 
 @utility cols-auto-fit-* {
@@ -156,6 +161,7 @@
     min(calc(var(--spacing) * --value(integer)), 100%),
     1fr
   );
+  grid-template-columns: repeat(auto-fit, min(--value([*]), 100%), 1fr);
 }
 
 @utility grid-cols-auto-* {
@@ -171,6 +177,10 @@
 }
 
 @layer base {
+  * {
+    @apply font-[unset];
+  }
+
   :root {
     -webkit-tap-highlight-color: revert;
     @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans;
@@ -182,19 +192,27 @@
     @apply cbg-side ctext-text;
   }
 
-  a:where(:any-link) {
+  a:where(:any-link:not([aria-disabled='true'])) {
     @apply any-hover:underline ctext-link;
   }
 
-  a[aria-disabled='true'] {
-    @apply ctext-link-disabled;
+  a:where([aria-disabled='true']) {
+    @apply ctext-link-disabled pointer-events-none;
   }
 
   button {
     @apply cursor-pointer;
   }
 
-  input[type='text'],
+  input:where(
+    :not([type]),
+    [type='text'],
+    [type='email'],
+    [type='number'],
+    [type='tel'],
+    [type='search'],
+    [type='url']
+  ),
   textarea {
     @apply font-mono border cborder-border rounded px-1;
   }
@@ -267,7 +285,8 @@
   }
 
   table {
-    @apply w-max max-w-full me-auto whitespace-nowrap;
+    @apply w-max max-w-full me-auto;
+    overflow-wrap: revert;
 
     :where(thead > tr:last-child) {
       @apply border-b-3 border-double cborder-border-darker;

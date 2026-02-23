@@ -7,23 +7,24 @@ interface Props {}
 </button>
 
 <script>
-  const btn = document.getElementById(`to-top-btn`);
+  const toTopBtn = document.getElementById('to-top-btn');
 
-  if (!(btn instanceof HTMLButtonElement)) {
-    throw TypeError('!');
+  if (!(toTopBtn instanceof HTMLButtonElement)) {
+    throw Error('Fail to get element', { cause: { toTopBtn } });
   }
 
-  btn.addEventListener('click', () => {
+  toTopBtn.addEventListener('click', (ev) => {
+    ev.preventDefault();
     window.scroll({ top: 0, behavior: 'smooth' });
   });
 
   window.addEventListener('scroll', () => {
     const vis = window.scrollY > 600 ? '' : undefined;
-    if (btn.dataset.visible !== vis) {
+    if (toTopBtn.dataset.visible !== vis) {
       if (vis === '') {
-        btn.dataset.visible = '';
+        toTopBtn.dataset.visible = '';
       } else {
-        delete btn.dataset.visible;
+        delete toTopBtn.dataset.visible;
       }
     }
   });
