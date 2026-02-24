@@ -5,7 +5,7 @@ import MyHeader from '../layouts/MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import Sidemenu from '../components/Sidemenu.astro';
 import Search from '../components/Search.svelte';
-import data from '../modules/data.json';
+import data from '../assets/data.json';
 
 const url = '/glossary/';
 const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';

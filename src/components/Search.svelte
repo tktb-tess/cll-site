@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import wordData from '../modules/glossary.json';
+  import wordData from '../assets/glossary.json';
   import ShowResult from './ShowResult.svelte';
 
   type SearchMode = 'forward' | 'backward' | 'exact' | 'partial';
