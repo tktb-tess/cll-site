@@ -110,27 +110,25 @@ export const tableHandler: Handler = (_, node: Table) => {
     children: bodyTrs,
   };
 
+  const rowsHead = thead?.children.length ?? 0;
+  const rowsBody = bodyTrs.length;
+  const cols = bodyTrs
+    .map((tr) => tr.children.length)
+    .reduce((p, c) => Math.max(p, c), 1);
+
   const table: Element = {
     type: 'element',
     tagName: 'table',
-    properties: {},
+    properties: {
+      style: `--rows-head: ${rowsHead}; --rows-body: ${rowsBody}; --cols: ${cols};`,
+    },
     children: thead ? [thead, tbody] : [tbody],
   };
 
-  return {
-    type: 'element',
-    tagName: 'div',
-    properties: {
-      class: ['table-container'],
-    },
-    children: [table],
-  };
+  return table;
 };
 
-export const cdHandler: Handler = (
-  _,
-  node: ContainerDirective,
-) => {
+export const cdHandler: Handler = (_, node: ContainerDirective) => {
   if (node.name === 'jbomupli') {
     const tables = node.children.filter((node) => node.type === 'table');
     const langPosition = (() => {
@@ -205,4 +203,3 @@ export const cdHandler: Handler = (
 export const tdHandler: Handler = (_, node: TextDirective) => {
   return _tdHandler(node);
 };
-

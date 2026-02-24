@@ -176,6 +176,7 @@
   transition-behavior: allow-discrete;
 }
 
+
 @layer base {
   * {
     @apply font-[unset];
@@ -289,8 +290,33 @@
   }
 
   table {
-    @apply w-max max-w-full me-auto;
+    @apply grid w-max max-w-full me-auto my-figure overflow-auto;
     overflow-wrap: revert;
+    grid-template-rows: repeat(
+      calc(var(--rows-head, 0) + var(--rows-body, 1)),
+      auto
+    );
+    grid-template-columns: repeat(var(--cols, 1), auto);
+
+    :where(thead, tbody, tr) {
+      @apply grid grid-cols-subgrid grid-rows-subgrid col-span-full;
+    }
+
+    :where(thead) {
+      @apply row-span-(--rows-head,0);
+    }
+
+    :where(tbody) {
+      @apply row-span-(--rows-body,1);
+    }
+
+    :where(tr) {
+      @apply row-span-1;
+    }
+
+    :where(td, th) {
+      @apply block py-1 px-2 col-span-(--colspan,1) self-center;
+    }
 
     :where(thead > tr:last-child) {
       @apply border-b-3 border-double cborder-border-darker;
@@ -299,14 +325,6 @@
     :where(tr:not(:last-child)) {
       @apply border-b cborder-border;
     }
-
-    :where(td, th) {
-      @apply py-1 px-2;
-    }
-  }
-
-  .table-container:where(:has(> table)) {
-    @apply max-w-full overflow-x-auto;
   }
 
   ul {
