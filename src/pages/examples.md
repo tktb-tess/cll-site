@@ -36,7 +36,7 @@ title: 'Examples Index'
 - addition problems: [Other kinds of simple selbri](/chapter05/#idm47077909150176)
 - afraid of horse: [Relative clauses and descriptors](/chapter08/#idm47077900732304)
 - after sleep: [Propositional attitude indicators](/chapter13/#idm47077888652704), [Propositional attitude indicators](/chapter13/#idm47077888642320), [Propositional attitude indicators](/chapter13/#idm47077888632016), [Propositional attitude indicators](/chapter13/#idm47077888621088), [Propositional attitude indicators](/chapter13/#idm47077888611264)
-- aleph null: [Special numbers](/chapter18/#idm47077875851680)
+- aleph null $\aleph_{0}$: [Special numbers](/chapter18/#idm47077875851680)
 - Alexander Pavlovitch Kuznetsov: [lerfu words as pro-sumti](/chapter17/#idm47077877461472)
 - all-th: [Special mekso selbri](/chapter18/#idm47077874249904)
 - always and everywhere: [Space interval modifiers: FEhE](/chapter10/#idm47077895224448)
@@ -94,13 +94,10 @@ title: 'Examples Index'
 - Brooklyn: [Linked sumti: be-bei-be'o](/chapter05/#idm47077909732720)
 - brothers: [Non-logical connectives](/chapter14/#idm47077883708832), [Non-logical connectives](/chapter14/#idm47077883699248), [Non-logical connectives](/chapter14/#idm47077883684416), [Non-logical connectives](/chapter14/#idm47077883664976)
 - Brown
-
 - John: [cmene](/chapter04/#idm47077912103216), [cmene](/chapter04/#idm47077912095664)
-
 - Bulgarian: [fu'ivla](/chapter04/#idm47077912245904), [fu'ivla](/chapter04/#idm47077912235008), [fu'ivla](/chapter04/#idm47077912226688)
 - butter is soft: [Individuals and masses](/chapter06/#idm47077906404720)
 - butterfly
-
 - social: [tanru](/chapter02/#idm47077916040128)
 
 ## C
@@ -357,11 +354,9 @@ title: 'Examples Index'
 - once: [Interval properties: TAhE and roi](/chapter10/#idm47077895715728)
 - once and future king: [Tenses, modals, and logical connection](/chapter14/#idm47077882801408), [Tenses, modals, and logical connection](/chapter14/#idm47077882785680)
 - One
-
-- the: [cmene](/chapter04/#idm47077912011232)
-
-- only: [Discursives](/chapter13/#idm47077887321888), [Discursives](/chapter13/#idm47077887307344), [Discursives](/chapter13/#idm47077887293216), [Discursives](/chapter13/#idm47077887278768)
-- only once: [Interval properties: TAhE and roi](/chapter10/#idm47077895654480)
+  - the: [cmene](/chapter04/#idm47077912011232)
+  - only: [Discursives](/chapter13/#idm47077887321888), [Discursives](/chapter13/#idm47077887307344), [Discursives](/chapter13/#idm47077887293216), [Discursives](/chapter13/#idm47077887278768)
+  - only once: [Interval properties: TAhE and roi](/chapter10/#idm47077895654480)
 - opinion: [Evidentials](/chapter13/#idm47077887426704)
 - opposite-of-minus: [Miscellany](/chapter18/#idm47077872816720)
 - owe money: [Multiple compound bridi](/chapter14/#idm47077884689776)
@@ -408,10 +403,8 @@ title: 'Examples Index'
 - rounded down: [Approximation and inexact numbers](/chapter18/#idm47077874737456)
 - rounded up: [Approximation and inexact numbers](/chapter18/#idm47077874748352)
 - rug
-
-- Persian: [rafsi](/chapter04/#idm47077912556128)
-
-- runner shoe: [tanru](/chapter02/#idm47077916055184)
+  - Persian: [rafsi](/chapter04/#idm47077912556128)
+  - runner shoe: [tanru](/chapter02/#idm47077916055184)
 
 ## S
 
@@ -455,18 +448,14 @@ title: 'Examples Index'
 - Steven Mark Jones: [lerfu words as pro-sumti](/chapter17/#idm47077877460720)
 - stroke cat then rabbit: [Tensed logical connectives](/chapter10/#idm47077894179760), [Tensed logical connectives](/chapter10/#idm47077894168768), [Tensed logical connectives](/chapter10/#idm47077894158272)
 - Sun
-
-- the: [cmene](/chapter04/#idm47077911999696)
-
+  - the: [cmene](/chapter04/#idm47077911999696)
 - supper: [rafsi](/chapter04/#idm47077912802512)
 - Susan: [Parenthesis and metalinguistic commentary: TO, TOI, SEI](/chapter19/#idm47077870526032)
 - syllabic pronunciations of consonants
-
   - in fu'ivla: [fu'ivla](/chapter04/#idm47077912411040), [fu'ivla](/chapter04/#idm47077912389408), [fu'ivla](/chapter04/#idm47077912359552), [fu'ivla](/chapter04/#idm47077912342176), [fu'ivla](/chapter04/#idm47077912325488), [fu'ivla](/chapter04/#idm47077912300640), [fu'ivla](/chapter04/#idm47077912248096), [fu'ivla](/chapter04/#idm47077912236016), [fu'ivla](/chapter04/#idm47077912225328), [fu'ivla](/chapter04/#idm47077912215424), [fu'ivla](/chapter04/#idm47077912205488)
   - in fu'ivla category attachment: [fu'ivla](/chapter04/#idm47077912409888), [fu'ivla](/chapter04/#idm47077912390656), [fu'ivla](/chapter04/#idm47077912360800), [fu'ivla](/chapter04/#idm47077912343424), [fu'ivla](/chapter04/#idm47077912326736), [fu'ivla](/chapter04/#idm47077912301776), [fu'ivla](/chapter04/#idm47077912246992), [fu'ivla](/chapter04/#idm47077912237120), [fu'ivla](/chapter04/#idm47077912227936), [fu'ivla](/chapter04/#idm47077912217280), [fu'ivla](/chapter04/#idm47077912208096)
 
 - syllabication
-
   - variants of: [Syllabication And Stress](/chapter03/#idm47077914006992)
 
 ## T
@@ -477,8 +466,7 @@ title: 'Examples Index'
 - taller: [The concept of the bridi](/chapter02/#idm47077916641184)
 - $\tan{(\pi/2)} = \infty$: [Using Lojban resources within mekso](/chapter18/#idm47077873208416)
 - tank
-
-- Sherman: [rafsi](/chapter04/#idm47077912540704)
+  - Sherman: [rafsi](/chapter04/#idm47077912540704)
 
 - the destination: [Conversion: SE](/chapter09/#idm47077899410432)
 - the go-er: [Conversion: SE](/chapter09/#idm47077899426768)
@@ -488,8 +476,7 @@ title: 'Examples Index'
 - this boat: [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904150352), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904133888), [Demonstrative pro-sumti: the ti-series](/chapter07/#idm47077904120560)
 - three bears: [sumti-based descriptions](/chapter06/#idm47077905585696), [sumti-based descriptions](/chapter06/#idm47077905576592), [sumti-based descriptions](/chapter06/#idm47077905567616)
 - three cats white
-
-- and two big: [A few notes on variables](/chapter16/#idm47077878395056)
+  - and two big: [A few notes on variables](/chapter16/#idm47077878395056)
 
 - three dogs bite two men: [Grouping of quantifiers](/chapter16/#idm47077879726480)
 - Three Kings: [selbri based on sumti: me](/chapter05/#idm47077909062464)
@@ -498,10 +485,9 @@ title: 'Examples Index'
 - three rats: [Special mekso selbri](/chapter18/#idm47077874344384)
 - title of book: [sumti qualifiers](/chapter06/#idm47077905415296), [sumti qualifiers](/chapter06/#idm47077905402576)
 - to movie
+  - house
 
-- house
-
-  - office: example: [Tagging places: FA](/chapter09/#idm47077899605680)
+    office: example: [Tagging places: FA](/chapter09/#idm47077899605680)
 
 - to-do list: [More about non-logical connectives](/chapter14/#idm47077883375600)
 - tomorrow: [lujvo with more than two parts.](/chapter12/#idm47077890372128)
