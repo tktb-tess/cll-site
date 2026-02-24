@@ -372,17 +372,12 @@ You might well suppose, then, that the purpose of the prenex is to allow the var
 
 :::jbomupli
 
-|           |     |       |              |      |              |
-| --------- | --- | ----- | ------------ | ---- | ------------ |
-| ro        | da  | poi   | prenu        | ku'o | de           |
-| For-every | X   | which | is-a-person, |      | there-is-a-Y |
+|           |     |       |              |      |              |       |          |      |      |     |       |     |
+| --------- | --- | ----- | ------------ | ---- | ------------ | ----- | -------- | ---- | ---- | --- | ----- | --- |
+| ro        | da  | poi   | prenu        | ku'o | de           | poi   | gerku    | ku'o | zo'u | de  | batci | da  |
+| For-every | X   | which | is-a-person, |      | there-is-a-Y | which | is-a-dog |      | :    | Y   | bites | X.  |
 
 :::
-
-|       |          |      |      |     |       |     |
-| ----- | -------- | ---- | ---- | --- | ----- | --- |
-| poi   | gerku    | ku'o | zo'u | de  | batci | da  |
-| which | is-a-dog |      | :    | Y   | bites | X.  |
 
 The prenex of [Example 16.27](/chapter16/#example-1627 "Example 16.27.") is like that of [Example 16.18](/chapter16/#example-1618 "Example 16.18.") (but with relative clauses): it notes that the following bridi is true of every person with respect to some dog, not necessarily the same dog for each. But in the main bridi part, the *[de](/glossary/?mode=exact&word=de)* appears before the *[da](/glossary/?mode=exact&word=da)*. Therefore, the true translation is
 
@@ -430,17 +425,12 @@ If a variable occurs more than once, then any *[ro](/glossary/?mode=exact&word=r
 
 :::jbomupli
 
-|              |       |             |      |
-| ------------ | ----- | ----------- | ---- |
-| di           | poi   | prenu       | zo'u |
-| There-is-a-Z | which | is-a-person | :    |
+|              |       |             |      |            |             |                   |      |
+| ------------ | ----- | ----------- | ---- | ---------- | ----------- | ----------------- | ---- |
+| di           | poi   | prenu       | zo'u | ti         | xarci       | di                | di   |
+| There-is-a-Z | which | is-a-person | :    | this-thing | is-a-weapon | for-use-against-Z | by-Z |
 
 :::
-
-|            |             |                   |      |
-| ---------- | ----------- | ----------------- | ---- |
-| ti         | xarci       | di                | di   |
-| this-thing | is-a-weapon | for-use-against-Z | by-Z |
 
 This is a weapon for someone to use against himself/herself.
 
@@ -611,17 +601,12 @@ The question raised by [Example 16.41](/chapter16/#example-1641 "Example 16.41."
 
 :::jbomupli
 
-|           |     |       |          |      |         |     |       |         |      |
-| --------- | --- | ----- | -------- | ---- | ------- | --- | ----- | ------- | ---- |
-| ci        | da  | poi   | gerku    | ku'o | re      | de  | poi   | nanmu   | zo'u |
-| For-three | Xes | which | are-dogs | -,   | for-two | Ys  | which | are-men | :    |
+|           |     |       |          |      |         |     |       |         |      |     |       |     |
+| --------- | --- | ----- | -------- | ---- | ------- | --- | ----- | ------- | ---- | --- | ----- | --- |
+| ci        | da  | poi   | gerku    | ku'o | re      | de  | poi   | nanmu   | zo'u | da  | batci | de  |
+| For-three | Xes | which | are-dogs | -,   | for-two | Ys  | which | are-men | :    | X   | bites | Y.  |
 
 :::
-
-|     |       |     |
-| --- | ----- | --- |
-| da  | batci | de  |
-| X   | bites | Y.  |
 
 Here we see that indeed each of the dogs is said to bite two men, and it might be different men each time; a total of six biting events altogether.
 
@@ -631,17 +616,12 @@ How then are we to express the other interpretation, in which just two men are i
 
 :::jbomupli
 
-|         |     |       |         |      |           |     |       |           |      |
-| ------- | --- | ----- | ------- | ---- | --------- | --- | ----- | --------- | ---- |
-| re      | de  | poi   | nanmu   | ku'o | ci        | da  | poi   | gerku     | zo'u |
-| For-two | Ys  | which | are-men | -,   | for-three | Xes | which | are-dogs, | :    |
+|         |     |       |         |      |           |     |       |           |      |     |       |     |
+| ------- | --- | ----- | ------- | ---- | --------- | --- | ----- | --------- | ---- | --- | ----- | --- |
+| re      | de  | poi   | nanmu   | ku'o | ci        | da  | poi   | gerku     | zo'u | da  | batci | de  |
+| For-two | Ys  | which | are-men | -,   | for-three | Xes | which | are-dogs, | :    | X   | bites | Y.  |
 
 :::
-
-|     |       |     |
-| --- | ----- | --- |
-| da  | batci | de  |
-| X   | bites | Y.  |
 
 for although we have now limited the number of men to exactly two, we end up with an indeterminate number of dogs, from three to six. The distinction is called a “scope distinction”: in [Example 16.42](/chapter16/#example-1642 "Example 16.42."), *ci gerku* is said to have wider scope than *re nanmu*, and therefore precedes it in the prenex. In [Example 16.44](/chapter16/#example-1644 "Example 16.44.") the reverse is true.
 
@@ -705,17 +685,12 @@ But there is a subtle difference between [Example 16.47](/chapter16/#example-164
 
 :::jbomupli
 
-|           |     |      |     |                |                 |     |       |
-| --------- | --- | ---- | --- | -------------- | --------------- | --- | ----- |
-| ro        | da  | zo'u | da  | go             | klama           | le  | zarci |
-| For-every | X   | :    | X   | if-and-only-if | it-is-a-goer-to | the | store |
+|           |     |      |     |                |                 |     |       |     |                |     |        |
+| --------- | --- | ---- | --- | -------------- | --------------- | --- | ----- | --- | -------------- | --- | ------ |
+| ro        | da  | zo'u | da  | go             | klama           | le  | zarci | gi  | cadzu          | le  | foldi  |
+| For-every | X   | :    | X   | if-and-only-if | it-is-a-goer-to | the | store |     | is-a-walker-on | the | field. |
 
 :::
-
-|     |                |     |        |
-| --- | -------------- | --- | ------ |
-| gi  | cadzu          | le  | foldi  |
-|     | is-a-walker-on | the | field. |
 
 Although [Example 16.49](/chapter16/#example-1649 "Example 16.49.") is a universal claim as well, its universality only implies that there are objects of some sort or another in the universe of discourse. Because the claim is conditional, nothing is implied about the existence of goers-to-the-store or of walkers-on-the-field, merely that any entity which is one is also the other.
 
@@ -757,17 +732,12 @@ What to do? Well, the x2 place of *[nitcu](/glossary/?mode=exact&word=nitcu)* ca
 
 :::jbomupli
 
-|     |       |     |          |     |         |      |         |
-| --- | ----- | --- | -------- | --- | ------- | ---- | ------- |
-| mi  | nitcu | lo  | nu       | mi  | ponse   | lo   | tanxe   |
-| I   | need  | an  | event-of | I   | possess | some | box(es) |
+|     |       |     |          |     |         |      |         |           |             |           |
+| --- | ----- | --- | -------- | --- | ------- | ---- | ------- | --------- | ----------- | --------- |
+| mi  | nitcu | lo  | nu       | mi  | ponse   | lo   | tanxe   | poi       | bramau      | ti        |
+| I   | need  | an  | event-of | I   | possess | some | box(es) | which-are | bigger-than | this-one. |
 
 :::
-
-|           |             |           |
-| --------- | ----------- | --------- |
-| poi       | bramau      | ti        |
-| which-are | bigger-than | this-one. |
 
 Rewritten using variables, [Example 16.53](/chapter16/#example-1653 "Example 16.53.") becomes
 
@@ -775,22 +745,12 @@ Rewritten using variables, [Example 16.53](/chapter16/#example-1653 "Example 16.
 
 :::jbomupli
 
-|     |       |     |          |                  |            |
-| --- | ----- | --- | -------- | ---------------- | ---------- |
-| mi  | nitcu | lo  | nu       | da               | zo'u       |
-| I   | need  | an  | event-of | there-being-an-X | such-that: |
+|     |       |     |          |                  |            |     |     |                 |     |      |          |      |                |             |
+| --- | ----- | --- | -------- | ---------------- | ---------- | --- | --- | --------------- | --- | ---- | -------- | ---- | -------------- | ----------- |
+| mi  | nitcu | lo  | nu       | da               | zo'u       | da  | se  | ponse           | mi  | gi'e | tanxe    | gi'e | bramau         | ti          |
+| I   | need  | an  | event-of | there-being-an-X | such-that: | X   |     | is-possessed-by | me  | and  | is-a-box | and  | is-bigger-than | this-thing. |
 
 :::
-
-|     |     |                 |     |
-| --- | --- | --------------- | --- |
-| da  | se  | ponse           | mi  |
-| X   |     | is-possessed-by | me  |
-
-|      |          |      |                |             |
-| ---- | -------- | ---- | -------------- | ----------- |
-| gi'e | tanxe    | gi'e | bramau         | ti          |
-| and  | is-a-box | and  | is-bigger-than | this-thing. |
 
 So we see that a prenex can be attached to a bridi that is within a sentence. By default, a variable always behaves as if it is bound in the prenex which (notionally) is attached to the smallest enclosing bridi, and its scope does not extend beyond that bridi. However, the variable may be placed in an outer prenex explicitly:
 
@@ -798,17 +758,12 @@ So we see that a prenex can be attached to a bridi that is within a sentence. By
 
 :::jbomupli
 
-|               |       |          |      |                |          |            |
-| ------------- | ----- | -------- | ---- | -------------- | -------- | ---------- |
-| da            | poi   | tanxe    | gi'e | bramau         | ti       | zo'u       |
-| There-is-an-X | which | is-a-box | and  | is-bigger-than | this-one | such-that: |
+|               |       |          |      |                |          |            |     |       |     |          |     |            |     |
+| ------------- | ----- | -------- | ---- | -------------- | -------- | ---------- | --- | ----- | --- | -------- | --- | ---------- | --- |
+| da            | poi   | tanxe    | gi'e | bramau         | ti       | zo'u       | mi  | nitcu | le  | nu       | mi  | ponse      | da  |
+| There-is-an-X | which | is-a-box | and  | is-bigger-than | this-one | such-that: | I   | need  | the | event-of | my  | possessing | X.  |
 
 :::
-
-|     |       |     |          |     |            |     |
-| --- | ----- | --- | -------- | --- | ---------- | --- |
-| mi  | nitcu | le  | nu       | mi  | ponse      | da  |
-| I   | need  | the | event-of | my  | possessing | X.  |
 
 But what are the implications of [Example 16.53](/chapter16/#example-1653 "Example 16.53.") and [Example 16.55](/chapter16/#example-1655 "Example 16.55.")? The main difference is that in [Example 16.55](/chapter16/#example-1655 "Example 16.55."), the *[da](/glossary/?mode=exact&word=da)* is said to exist in the real world of the outer bridi; but in [Example 16.53](/chapter16/#example-1653 "Example 16.53."), the existence is only within the inner bridi, which is a mere event that need not necessarily come to pass. So [Example 16.55](/chapter16/#example-1655 "Example 16.55.") means
 
@@ -1049,17 +1004,12 @@ We can simplify [Example 16.70](/chapter16/#example-1670 "Example 16.70.") by tr
 
 :::jbomupli
 
-|                  |                  |                           |
-| ---------------- | ---------------- | ------------------------- |
-| naku             | naku             | su'oda                    |
-| It-is-false-that | it-is-false-that | there-is-some-X-such-that |
+|                  |                  |                           |             |      |     |       |     |
+| ---------------- | ---------------- | ------------------------- | ----------- | ---- | --- | ----- | --- |
+| naku             | naku             | su'oda                    | …rode       | zo'u | da  | prami | de  |
+| It-is-false-that | it-is-false-that | there-is-some-X-such-that | for-every-X | :    | X   | loves | Y   |
 
 :::
-
-|             |      |     |       |     |
-| ----------- | ---- | --- | ----- | --- |
-| …rode       | zo'u | da  | prami | de  |
-| for-every-X | :    | X   | loves | Y   |
 
 It is false that it is false that: for an X, for every Y: X loves Y.
 
@@ -1166,17 +1116,12 @@ and then into prenex form as:
 
 :::jbomupli
 
-|                |      |     |       |     |      |
-| -------------- | ---- | --- | ----- | --- | ---- |
-| roda           | zo'u | mi  | prami | da  | .ije |
-| For-each-thing | :    | I   | love  | it, | and  |
+|                |      |     |       |     |      |                  |      |     |       |                |
+| -------------- | ---- | --- | ----- | --- | ---- | ---------------- | ---- | --- | ----- | -------------- |
+| roda           | zo'u | mi  | prami | da  | .ije | naku             | zo'u | do  | prami | da             |
+| For-each-thing | :    | I   | love  | it, | and  | it-is-false-that | :    | you | love  | (the-same)-it. |
 
 :::
-
-|                  |      |     |       |                |
-| ---------------- | ---- | --- | ----- | -------------- |
-| naku             | zo'u | do  | prami | da             |
-| it-is-false-that | :    | you | love  | (the-same)-it. |
 
 For each thing: I love it, and it is false that you love (the same) it.
 
@@ -1188,24 +1133,18 @@ Thus the following example has the indicated translation:
 
 :::jbomupli
 
-|                        |      |     |       |             |
-| ---------------------- | ---- | --- | ----- | ----------- |
-| su'oda                 | zo'u | mi  | prami | da          |
-| For-at-least-one-thing | :    | I   | love  | that-thing. |
+|                        |      |     |       |             |      |                  |      |     |       |                    |
+| ---------------------- | ---- | --- | ----- | ----------- | ---- | ---------------- | ---- | --- | ----- | ------------------ |
+| su'oda                 | zo'u | mi  | prami | da          | .ije | naku             | zo'u | do  | prami | da                 |
+| For-at-least-one-thing | :    | I   | love  | that-thing. | And  | it-is-false-that | :    | you | love  | that-(same)-thing. |
 
 :::
-
-|      |                  |      |     |       |                    |
-| ---- | ---------------- | ---- | --- | ----- | ------------------ |
-| .ije | naku             | zo'u | do  | prami | da                 |
-| And  | it-is-false-that | :    | you | love  | that-(same)-thing. |
 
 There is something that I love that you don't.
 
 If you remember only two rules for prenex manipulation of negations, you won't go wrong:
 
 - Within a prenex, whenever you move *naku* past a bound variable (da, de, di, etc.), you must invert the quantifier.
-
 - A *[na](/glossary/?mode=exact&word=na)* before the selbri is always transformed into a *naku* at the left-hand end of the prenex, and vice versa.
 
 ## 16.11. Using *naku* outside a prenex
@@ -1222,17 +1161,12 @@ We cannot express this directly with *[na](/glossary/?mode=exact&word=na)*; the 
 
 :::jbomupli
 
-|                |           |            |
-| -------------- | --------- | ---------- |
-| su'oda         | poi       | verba      |
-| At-least-one-X | which-are | child(ren) |
+|                |           |            |           |       |                |           |            |
+| -------------- | --------- | ---------- | --------- | ----- | -------------- | --------- | ---------- |
+| su'oda         | poi       | verba      | na        | klama | su'ode         | poi       | ckule      |
+| At-least-one-X | which-are | child(ren) | \[false\] | go-to | at-least-one-Y | which-are | school(s). |
 
 :::
-
-|           |       |                |           |            |
-| --------- | ----- | -------------- | --------- | ---------- |
-| na        | klama | su'ode         | poi       | ckule      |
-| \[false\] | go-to | at-least-one-Y | which-are | school(s). |
 
 when converted to the external negation form produces:
 
@@ -1240,17 +1174,12 @@ when converted to the external negation form produces:
 
 :::jbomupli
 
-|             |      |            |     |          |     |
-| ----------- | ---- | ---------- | --- | -------- | --- |
-| naku        | zo'u | su'oda     | poi | verba    | cu  |
-| It-is-false | that | some-which | are | children |     |
+|             |      |            |     |          |     |       |            |     |          |
+| ----------- | ---- | ---------- | --- | -------- | --- | ----- | ---------- | --- | -------- |
+| naku        | zo'u | su'oda     | poi | verba    | cu  | klama | su'ode     | poi | ckule    |
+| It-is-false | that | some-which | are | children |     | go-to | some-which | are | schools. |
 
 :::
-
-|       |            |     |          |
-| ----- | ---------- | --- | -------- |
-| klama | su'ode     | poi | ckule    |
-| go-to | some-which | are | schools. |
 
 All children don't go to some school (not just some children).
 
@@ -1348,17 +1277,12 @@ It is trivial to export an internal bridi negation expressed with *[na](/glossar
 
 :::jbomupli
 
-|            |       |             |      |                         |
-| ---------- | ----- | ----------- | ---- | ----------------------- |
-| su'oda     | poi   | verba       | ku'o | naku                    |
-| For-some-X | which | is-a-child, |      | it-is-not-the-case-that |
+|            |       |             |      |                         |              |       |             |            |     |       |     |     |
+| ---------- | ----- | ----------- | ---- | ----------------------- | ------------ | ----- | ----------- | ---------- | --- | ----- | --- | --- |
+| su'oda     | poi   | verba       | ku'o | naku                    | su'ode       | poi   | ckule       | zo'u       | da  | klama | de  |     |
+| For-some-X | which | is-a-child, |      | it-is-not-the-case-that | there-is-a-Y | which | is-a-school | such-that: | X   | goes  | to  | Y.  |
 
 :::
-
-|              |       |             |            |     |       |     |     |
-| ------------ | ----- | ----------- | ---------- | --- | ----- | --- | --- |
-| su'ode       | poi   | ckule       | zo'u       | da  | klama | de  |     |
-| there-is-a-Y | which | is-a-school | such-that: | X   | goes  | to  | Y.  |
 
 We can now move the *naku* to the left end of the prenex, getting a contradictory negation that can be expressed with *[na](/glossary/?mode=exact&word=na)*:
 
@@ -1366,17 +1290,12 @@ We can now move the *naku* to the left end of the prenex, getting a contradictor
 
 :::jbomupli
 
-|                         |             |           |           |
-| ----------------------- | ----------- | --------- | --------- |
-| naku                    | roda        | poi       | verba     |
-| It-is-not-the-case-that | for-all-X's | which-are | children, |
+|                         |             |           |           |              |          |          |            |     |         |     |
+| ----------------------- | ----------- | --------- | --------- | ------------ | -------- | -------- | ---------- | --- | ------- | --- |
+| naku                    | roda        | poi       | verba     | su'ode       | poi      | ckule    | zo'u       | da  | klama   | de  |
+| It-is-not-the-case-that | for-all-X's | which-are | children, | there-is-a-Y | which-is | a-school | such-that: | X   | goes-to | Y.  |
 
 :::
-
-|              |          |          |            |     |         |     |
-| ------------ | -------- | -------- | ---------- | --- | ------- | --- |
-| su'ode       | poi      | ckule    | zo'u       | da  | klama   | de  |
-| there-is-a-Y | which-is | a-school | such-that: | X   | goes-to | Y.  |
 
 from which we can restore the quantified variables to the sentence, giving:
 
@@ -1411,17 +1330,12 @@ As noted in [Section 16.5](/chapter16/#165-dropping-the-prenex "16.5. Dropping t
 
 :::jbomupli
 
-|             |           |           |              |
-| ----------- | --------- | --------- | ------------ |
-| roda        | poi       | verba     | su'ode       |
-| for-all-X's | which-are | children, | there-is-a-Y |
+|             |           |           |              |       |             |            |     |     |     |               |     |
+| ----------- | --------- | --------- | ------------ | ----- | ----------- | ---------- | --- | --- | --- | ------------- | --- |
+| roda        | poi       | verba     | su'ode       | poi   | ckule       | zo'u       | de  | na  | se  | klama         | da  |
+| for-all-X's | which-are | children, | there-is-a-Y | which | is-a-school | such-that: | Y   |     |     | is-gone-to-by | X.  |
 
 :::
-
-|       |             |            |     |     |     |               |     |
-| ----- | ----------- | ---------- | --- | --- | --- | ------------- | --- |
-| poi   | ckule       | zo'u       | de  | na  | se  | klama         | da  |
-| which | is-a-school | such-that: | Y   |     |     | is-gone-to-by | X.  |
 
 While you can't freely convert with *[se](/glossary/?mode=exact&word=se)* when you have two quantified variables in a sentence, you can still freely move sumti to either side of the selbri, as long as the order isn't changed. If you use *[na](/glossary/?mode=exact&word=na)* negation in such a sentence, nothing special need be done. If you use *naku* negation, then quantified variables that cross the negation boundary must be inverted.
 
@@ -1455,33 +1369,23 @@ We have defined *[na](/glossary/?mode=exact&word=na)* and *naku zo'u* as, respec
 
 :::jbomupli
 
-|            |       |           |         |        |
-| ---------- | ----- | --------- | ------- | ------ |
-| la         | djan. | na        | klama   | ga     |
-| that-named | John  | \[false\] | goes-to | either |
+|            |       |           |         |        |            |        |     |            |       |
+| ---------- | ----- | --------- | ------- | ------ | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | na        | klama   | ga     | la         | paris. | gi  | la         | rom.  |
+| that-named | John  | \[false\] | goes-to | either | that-named | Paris  | or  | that-named | Rome. |
 
 :::
-
-|            |        |     |            |       |
-| ---------- | ------ | --- | ---------- | ----- |
-| la         | paris. | gi  | la         | rom.  |
-| that-named | Paris  | or  | that-named | Rome. |
 
 ##### Example 16.95.
 
 :::jbomupli
 
-|             |       |            |       |         |
-| ----------- | ----- | ---------- | ----- | ------- |
-| naku        | zo'u  | la         | djan. | klama   |
-| It-is-false | that: | that-named | John  | goes-to |
+|             |       |            |       |         |        |            |        |     |            |       |
+| ----------- | ----- | ---------- | ----- | ------- | ------ | ---------- | ------ | --- | ---------- | ----- |
+| naku        | zo'u  | la         | djan. | klama   | ga     | la         | paris. | gi  | la         | rom.  |
+| It-is-false | that: | that-named | John  | goes-to | either | that-named | Paris  | or  | that-named | Rome. |
 
 :::
-
-|        |            |        |     |            |       |
-| ------ | ---------- | ------ | --- | ---------- | ----- |
-| ga     | la         | paris. | gi  | la         | rom.  |
-| either | that-named | Paris  | or  | that-named | Rome. |
 
 It is not an acceptable logical manipulation to move a negator from the bridi level to one or more sumti. However, [Example 16.94](/chapter16/#example-1694 "Example 16.94.") and related examples are not sumti negations, but rather expand to form two logically connected sentences. In such a situation, DeMorgan's Law must be applied. For instance, [Example 16.95](/chapter16/#example-1695 "Example 16.95.") expands to:
 
@@ -1489,17 +1393,12 @@ It is not an acceptable logical manipulation to move a negator from the bridi le
 
 :::jbomupli
 
-|                     |      |            |       |               |        |           |       |
-| ------------------- | ---- | ---------- | ----- | ------------- | ------ | --------- | ----- |
-|                     | ge   | la         | djan. | la            | paris. | na        | klama |
-| \[It-is-true-that\] | both | that-named | John, | to-that-named | Paris, | \[false\] | goes, |
+|                     |      |            |       |               |        |           |       |     |            |       |               |       |           |       |
+| ------------------- | ---- | ---------- | ----- | ------------- | ------ | --------- | ----- | --- | ---------- | ----- | ------------- | ----- | --------- | ----- |
+|                     | ge   | la         | djan. | la            | paris. | na        | klama | gi  | la         | djan. | la            | rom.  | na        | klama |
+| \[It-is-true-that\] | both | that-named | John, | to-that-named | Paris, | \[false\] | goes, | and | that-named | John, | to-that-named | Rome, | \[false\] | goes. |
 
 :::
-
-|     |            |       |               |       |           |       |
-| --- | ---------- | ----- | ------------- | ----- | --------- | ----- |
-| gi  | la         | djan. | la            | rom.  | na        | klama |
-| and | that-named | John, | to-that-named | Rome, | \[false\] | goes. |
 
 The *[ga](/glossary/?mode=exact&word=ga)* and *[gi](/glossary/?mode=exact&word=gi)*, meaning “either-or”, have become *[ge](/glossary/?mode=exact&word=ge)* and *[gi](/glossary/?mode=exact&word=gi)*, meaning “both-and”, as a consequence of moving the negators into the individual bridi.
 
@@ -1536,17 +1435,12 @@ It is wise, before freely doing transformations such as the one from [Example 16
 
 :::jbomupli
 
-|                  |      |            |        |        |        |
-| ---------------- | ---- | ---------- | ------ | ------ | ------ |
-| naku             | zo'u | la         | djein. | le     | zarci  |
-| It-is-false-that | :    | that-named | Jane   | to-the | market |
+|                  |      |            |        |        |        |       |        |     |          |
+| ---------------- | ---- | ---------- | ------ | ------ | ------ | ----- | ------ | --- | -------- |
+| naku             | zo'u | la         | djein. | le     | zarci  | ge    | dzukla | gi  | bajrykla |
+| It-is-false-that | :    | that-named | Jane   | to-the | market | (both | walks  | and | runs).   |
 
 :::
-
-|       |        |     |          |
-| ----- | ------ | --- | -------- |
-| ge    | dzukla | gi  | bajrykla |
-| (both | walks  | and | runs).   |
 
 And by dividing the bridi with logically connected selbri into two bridi,
 
@@ -1554,17 +1448,12 @@ And by dividing the bridi with logically connected selbri into two bridi,
 
 :::jbomupli
 
-|             |       |      |             |        |        |        |     |        |
-| ----------- | ----- | ---- | ----------- | ------ | ------ | ------ | --- | ------ |
-| naku        | zo'u  | ge   | la          | djein. | le     | zarci  | cu  | dzukla |
-| It-is-false | that: | both | (that-named | Jane   | to-the | market |     | walks) |
+|             |       |      |             |        |        |        |     |        |     |             |        |        |        |     |          |
+| ----------- | ----- | ---- | ----------- | ------ | ------ | ------ | --- | ------ | --- | ----------- | ------ | ------ | ------ | --- | -------- |
+| naku        | zo'u  | ge   | la          | djein. | le     | zarci  | cu  | dzukla | gi  | la          | djein. | le     | zarci  | cu  | bajrykla |
+| It-is-false | that: | both | (that-named | Jane   | to-the | market |     | walks) | and | (that-named | Jane   | to-the | market |     | runs).   |
 
 :::
-
-|     |             |        |        |        |     |          |
-| --- | ----------- | ------ | ------ | ------ | --- | -------- |
-| gi  | la          | djein. | le     | zarci  | cu  | bajrykla |
-| and | (that-named | Jane   | to-the | market |     | runs).   |
 
 is the result.
 
@@ -1574,17 +1463,12 @@ At this expanded level, we apply DeMorgan's Law to distribute the negation in th
 
 :::jbomupli
 
-|        |            |        |        |        |           |        |
-| ------ | ---------- | ------ | ------ | ------ | --------- | ------ |
-| ga     | la         | djein. | le     | zarci  | na        | dzukla |
-| Either | that-named | Jane   | to-the | market | \[false\] | walks, |
+|        |            |        |        |        |           |        |     |            |        |        |        |           |          |
+| ------ | ---------- | ------ | ------ | ------ | --------- | ------ | --- | ---------- | ------ | ------ | ------ | --------- | -------- |
+| ga     | la         | djein. | le     | zarci  | na        | dzukla | gi  | la         | djein. | le     | zarci  | na        | bajrykla |
+| Either | that-named | Jane   | to-the | market | \[false\] | walks, | or  | that-named | Jane   | to-the | market | \[false\] | runs.    |
 
 :::
-
-|     |            |        |        |        |           |          |
-| --- | ---------- | ------ | ------ | ------ | --------- | -------- |
-| gi  | la         | djein. | le     | zarci  | na        | bajrykla |
-| or  | that-named | Jane   | to-the | market | \[false\] | runs.    |
 
 which is the same as
 
@@ -1592,17 +1476,12 @@ which is the same as
 
 :::jbomupli
 
-|       |            |        |        |        |     |        |
-| ----- | ---------- | ------ | ------ | ------ | --- | ------ |
-| ganai | la         | djein. | le     | zarci  | cu  | dzukla |
-| If    | that-named | Jane   | to-the | market |     | walks, |
+|       |            |        |        |        |     |        |                 |            |        |        |        |     |          |
+| ----- | ---------- | ------ | ------ | ------ | --- | ------ | --------------- | ---------- | ------ | ------ | ------ | --- | -------- |
+| ganai | la         | djein. | le     | zarci  | cu  | dzukla | ginai           | la         | djein. | le     | zarci  | cu  | bajrykla |
+| If    | that-named | Jane   | to-the | market |     | walks, | then-(\[false\] | that-named | Jane   | to-the | market |     | runs).   |
 
 :::
-
-|                 |            |        |        |        |     |          |
-| --------------- | ---------- | ------ | ------ | ------ | --- | -------- |
-| ginai           | la         | djein. | le     | zarci  | cu  | bajrykla |
-| then-(\[false\] | that-named | Jane   | to-the | market |     | runs).   |
 
 If Jane walks to the market, then she doesn't run.
 
@@ -1614,33 +1493,23 @@ DeMorgan's Law must also be applied to internal *naku* negations:
 
 :::jbomupli
 
-|         |            |        |     |            |       |
-| ------- | ---------- | ------ | --- | ---------- | ----- |
-| ga      | la         | paris. | gi  | la         | rom.  |
-| (Either | that-named | Paris  | or  | that-named | Rome) |
+|         |            |        |     |            |       |        |            |            |       |       |
+| ------- | ---------- | ------ | --- | ---------- | ----- | ------ | ---------- | ---------- | ----- | ----- |
+| ga      | la         | paris. | gi  | la         | rom.  | naku   | se         | klama      | la    | djan. |
+| (Either | that-named | Paris  | or  | that-named | Rome) | is-not | gone-to-by | that-named | John. |       |
 
 :::
-
-|        |            |            |       |       |
-| ------ | ---------- | ---------- | ----- | ----- |
-| naku   | se         | klama      | la    | djan. |
-| is-not | gone-to-by | that-named | John. |       |
 
 ##### Example 16.104.
 
 :::jbomupli
 
-|            |       |         |       |      |
-| ---------- | ----- | ------- | ----- | ---- |
-| la         | djan. | naku    | klama | ge   |
-| that-named | John  | doesn't | go-to | both |
+|            |       |         |       |      |            |        |     |            |       |
+| ---------- | ----- | ------- | ----- | ---- | ---------- | ------ | --- | ---------- | ----- |
+| la         | djan. | naku    | klama | ge   | la         | paris. | gi  | la         | rom.  |
+| that-named | John  | doesn't | go-to | both | that-named | Paris  | and | that-named | Rome. |
 
 :::
-
-|            |        |     |            |       |
-| ---------- | ------ | --- | ---------- | ----- |
-| la         | paris. | gi  | la         | rom.  |
-| that-named | Paris  | and | that-named | Rome. |
 
 That [Example 16.103](/chapter16/#example-16103 "Example 16.103.") and [Example 16.104](/chapter16/#example-16104 "Example 16.104.") mean the same should become evident by studying the English. It is a good exercise to work through the Lojban and prove that they are the same.
 
@@ -1652,17 +1521,12 @@ In addition to the variables *[da](/glossary/?mode=exact&word=da)*, *[de](/gloss
 
 :::jbomupli
 
-|                  |                |      |            |       |
-| ---------------- | -------------- | ---- | ---------- | ----- |
-| su'o             | bu'a           | zo'u | la         | djim. |
-| For-at-least-one | relationship-F | :    | that-named | Jim   |
+|                  |                |      |            |       |                          |               |       |
+| ---------------- | -------------- | ---- | ---------- | ----- | ------------------------ | ------------- | ----- |
+| su'o             | bu'a           | zo'u | la         | djim. | bu'a                     | la            | djan. |
+| For-at-least-one | relationship-F | :    | that-named | Jim   | stands-in-relationship-F | to-that-named | John. |
 
 :::
-
-|                          |               |       |
-| ------------------------ | ------------- | ----- |
-| bu'a                     | la            | djan. |
-| stands-in-relationship-F | to-that-named | John. |
 
 There's some relationship between Jim and John.
 
@@ -1687,17 +1551,12 @@ As a result, if the number before the variable is anything but *[su'o](/glossary
 
 :::jbomupli
 
-|           |                |      |            |       |
-| --------- | -------------- | ---- | ---------- | ----- |
-| ro        | bu'a           | zo'u | la         | djim. |
-| For-every | relationship-F | :    | that-named | Jim   |
+|           |                |      |            |       |                          |               |       |
+| --------- | -------------- | ---- | ---------- | ----- | ------------------------ | ------------- | ----- |
+| ro        | bu'a           | zo'u | la         | djim. | bu'a                     | la            | djan. |
+| For-every | relationship-F | :    | that-named | Jim   | stands-in-relationship-F | to-that-named | John. |
 
 :::
-
-|                          |               |       |
-| ------------------------ | ------------- | ----- |
-| bu'a                     | la            | djan. |
-| stands-in-relationship-F | to-that-named | John. |
 
 Every relationship exists between Jim and John.
 

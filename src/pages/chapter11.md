@@ -1146,9 +1146,7 @@ There exists a relationship between the four types of events explained in [Secti
 The purpose of ZAhO cmavo is to represent the natural portions of an event, such as the beginning, the middle, and the end. They fall into several groups:* The cmavo *[pu'o](/glossary/?mode=exact&word=pu%27o)*, *[ca'o](/glossary/?mode=exact&word=ca%27o)*, and *[ba'o](/glossary/?mode=exact&word=ba%27o)* represent spans of time: before an event begins, while it is going on, and after it is over, respectively.
 
 - The cmavo *[co'a](/glossary/?mode=exact&word=co%27a)*, *[de'a](/glossary/?mode=exact&word=de%27a)*, *[di'a](/glossary/?mode=exact&word=di%27a)*, and *[co'u](/glossary/?mode=exact&word=co%27u)* represent points of time: the start of an event, the temporary stopping of an event, the resumption of an event after a stop, and the end of an event, respectively. Not all events can have breaks in them, in which case *[de'a](/glossary/?mode=exact&word=de%27a)* and *[di'a](/glossary/?mode=exact&word=di%27a)* do not apply.
-
 - The cmavo *[mo'u](/glossary/?mode=exact&word=mo%27u)* and *[za'o](/glossary/?mode=exact&word=za%27o)* correspond to *[co'u](/glossary/?mode=exact&word=co%27u)* and *[ba'o](/glossary/?mode=exact&word=ba%27o)* respectively, in the case of those events which have a natural ending point that may not be the same as the actual ending point: *[mo'u](/glossary/?mode=exact&word=mo%27u)* refers to the natural ending point, and *[za'o](/glossary/?mode=exact&word=za%27o)* to the time between the natural ending point and the actual ending point (the “excessive” or “superfective” part of the event).
-
 - The cmavo *[co'i](/glossary/?mode=exact&word=co%27i)* represents an entire event considered as a point-event or achievement.
 
 All these cmavo are applicable to events seen as processes and abstracted with *[pu'u](/glossary/?mode=exact&word=pu%27u)*. Only processes have enough internal structure to make all these points and spans of time meaningful.

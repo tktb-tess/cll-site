@@ -155,17 +155,12 @@ Grammatically, it is possible to have more than one sumti before *[zo'u](/glossa
 
 :::jbomupli
 
-|         |     |       |              |      |
-| ------- | --- | ----- | ------------ | ---- |
-| ro      | da  | poi   | prenu        | ku'o |
-| For-all | X   | which | are-persons, |      |
+|         |     |       |              |      |                |     |           |     |                  |     |
+| ------- | --- | ----- | ------------ | ---- | -------------- | --- | --------- | --- | ---------------- | --- |
+| ro      | da  | poi   | prenu        | ku'o | su'o           | de  | zo'u      | de  | patfu            | da  |
+| For-all | X   | which | are-persons, |      | there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 :::
-
-|                |     |           |     |                  |     |
-| -------------- | --- | --------- | --- | ---------------- | --- |
-| su'o           | de  | zo'u      | de  | patfu            | da  |
-| there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 Every person has a father.
 
@@ -175,17 +170,12 @@ The string of sumti before *[zo'u](/glossary/?mode=exact&word=zo%27u)* (called t
 
 :::jbomupli
 
-|                 |         |         |     |       |              |      |
-| --------------- | ------- | ------- | --- | ----- | ------------ | ---- |
-| loi             | patfu   | ro      | da  | poi   | prenu        | ku'o |
-| For-the-mass-of | fathers | for-all | X   | which | are-persons, |      |
+|                 |         |         |     |       |              |      |                |     |           |     |                  |     |
+| --------------- | ------- | ------- | --- | ----- | ------------ | ---- | -------------- | --- | --------- | --- | ---------------- | --- |
+| loi             | patfu   | ro      | da  | poi   | prenu        | ku'o | su'o           | de  | zo'u      | de  | patfu            | da  |
+| For-the-mass-of | fathers | for-all | X   | which | are-persons, |      | there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 :::
-
-|                |     |           |     |                  |     |
-| -------------- | --- | --------- | --- | ---------------- | --- |
-| su'o           | de  | zo'u      | de  | patfu            | da  |
-| there-exists-a | Y   | such-that | Y   | is-the-father-of | X.  |
 
 As for fathers, every person has one.
 
@@ -463,17 +453,12 @@ Consequently, selma'o SE (which operates on a selbri to change the order of its 
 
 :::jbomupli
 
-|     |       |     |                           |     |     |        |
-| --- | ----- | --- | ------------------------- | --- | --- | ------ |
-| le  | karce | cu  | xe-klama                  |     | le  | zarci  |
-| The | car   |     | is-a-transportation-means | to  | the | market |
+|     |       |     |                           |     |     |        |      |     |       |     |     |       |     |     |
+| --- | ----- | --- | ------------------------- | --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | --- | --- |
+| le  | karce | cu  | xe-klama                  |     | le  | zarci  |      | le  | zdani |     | le  | dargu |     | mi  |
+| The | car   |     | is-a-transportation-means | to  | the | market | from | the | house | via | the | road  | for | me. |
 
 :::
-
-|      |     |       |     |     |       |     |     |
-| ---- | --- | ----- | --- | --- | ----- | --- | --- |
-|      | le  | zdani |     | le  | dargu |     | mi  |
-| from | the | house | via | the | road  | for | me. |
 
 And reordering of the place structures might produce:
 
@@ -481,17 +466,12 @@ And reordering of the place structures might produce:
 
 :::jbomupli
 
-|     |     |       |      |     |        |     |     |
-| --- | --- | ----- | ---- | --- | ------ | --- | --- |
-| fo  | le  | dargu | fi   | le  | zdani  | fa  | mi  |
-| Via | the | road, | from | the | house, |     | I,  |
+|     |     |       |      |     |        |     |     |     |     |         |       |     |       |     |       |
+| --- | --- | ----- | ---- | --- | ------ | --- | --- | --- | --- | ------- | ----- | --- | ----- | --- | ----- |
+| fo  | le  | dargu | fi   | le  | zdani  | fa  | mi  | fe  | le  | zarci   | fu    | le  | karce | cu  | klama |
+| Via | the | road, | from | the | house, |     | I,  | to  | the | market, | using | the | car,  |     | go.   |
 
 :::
-
-|     |     |         |       |     |       |     |       |
-| --- | --- | ------- | ----- | --- | ----- | --- | ----- |
-| fe  | le  | zarci   | fu    | le  | karce | cu  | klama |
-| to  | the | market, | using | the | car,  |     | go.   |
 
 [Example 19.24](/chapter19/#example-1924 "Example 19.24.") to [Example 19.26](/chapter19/#example-1926 "Example 19.26.") all mean the same thing. But consider the lujvo *[nunkla](/glossary/?mode=exact&word=nunkla)*, formed by applying the abstraction operator *[nu](/glossary/?mode=exact&word=nu)* to *[klama](/glossary/?mode=exact&word=klama)*:
 
@@ -499,17 +479,12 @@ And reordering of the place structures might produce:
 
 :::jbomupli
 
-|                 |                       |     |                      |     |     |
-| --------------- | --------------------- | --- | -------------------- | --- | --- |
-| la'e            | di'u                  | cu  | nunkla               |     | mi  |
-| The-referent-of | the-previous-sentence |     | is-an-event-of-going | by  | me  |
+|                 |                       |     |                      |     |     |     |     |        |      |     |       |     |     |       |       |     |       |
+| --------------- | --------------------- | --- | -------------------- | --- | --- | --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
+| la'e            | di'u                  | cu  | nunkla               |     | mi  |     | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
+| The-referent-of | the-previous-sentence |     | is-an-event-of-going | by  | me  | to  | the | market | from | the | house | via | the | road  | using | the | car.  |
 
 :::
-
-|     |     |        |      |     |       |     |     |       |       |     |       |
-| --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ----- | --- | ----- |
-|     | le  | zarci  |      | le  | zdani |     | le  | dargu |       | le  | karce |
-| to  | the | market | from | the | house | via | the | road  | using | the | car.  |
 
 [Example 19.27](/chapter19/#example-1927 "Example 19.27.") shows that *[nunkla](/glossary/?mode=exact&word=nunkla)* has six places: the five places of *[klama](/glossary/?mode=exact&word=klama)* plus a new one (placed first) for the event itself. Performing transformations similar to that of [Example 19.25](/chapter19/#example-1925 "Example 19.25.") requires an additional conversion cmavo that exchanges the x1 and x6 places. The solution is to use any cmavo of SE with a subscript "6" ([Section 19.6](/chapter19/#196-subscripts-xi "19.6. Subscripts: XI")):
 
@@ -517,22 +492,12 @@ And reordering of the place structures might produce:
 
 :::jbomupli
 
-|     |       |     |                                                 |     |     |
-| --- | ----- | --- | ----------------------------------------------- | --- | --- |
-| le  | karce | cu  | sexixa nunkla                                   |     | mi  |
-| The | car   |     | is-a-transportation-means-in-the-event-of-going | by  | me  |
+|     |       |     |                                                 |     |     |     |     |        |      |     |       |     |     |       |                                                        |
+| --- | ----- | --- | ----------------------------------------------- | --- | --- | --- | --- | ------ | ---- | --- | ----- | --- | --- | ----- | ------------------------------------------------------ |
+| le  | karce | cu  | sexixa nunkla                                   |     | mi  |     | le  | zarci  |      | le  | zdani |     | le  | dargu | la'edi'u                                               |
+| The | car   |     | is-a-transportation-means-in-the-event-of-going | by  | me  | to  | the | market | from | the | house | via | the | road  | is-an-event-which-is-referred-to-by-the-last-sentence. |
 
 :::
-
-|     |     |        |      |     |       |
-| --- | --- | ------ | ---- | --- | ----- |
-|     | le  | zarci  |      | le  | zdani |
-| to  | the | market | from | the | house |
-
-|     |     |       |                                                        |
-| --- | --- | ----- | ------------------------------------------------------ |
-|     | le  | dargu | la'edi'u                                               |
-| via | the | road  | is-an-event-which-is-referred-to-by-the-last-sentence. |
 
 Likewise, a sixth place tag can be created by using any cmavo of FA with a subscript:
 
@@ -540,22 +505,12 @@ Likewise, a sixth place tag can be created by using any cmavo of FA with a subsc
 
 :::jbomupli
 
-|     |     |       |      |     |        |     |     |
-| --- | --- | ----- | ---- | --- | ------ | --- | --- |
-| fu  | le  | dargu | fo   | le  | zdani  | fe  | mi  |
-| Via | the | road, | from | the | house, | by  | me, |
+|     |     |       |      |     |        |     |     |     |                   |                                      |     |     |         |        |     |       |     |                       |
+| --- | --- | ----- | ---- | --- | ------ | --- | --- | --- | ----------------- | ------------------------------------ | --- | --- | ------- | ------ | --- | ----- | --- | --------------------- |
+| fu  | le  | dargu | fo   | le  | zdani  | fe  | mi  | fa  | la'edi'u          |                                      | fi  | le  | zarci   | faxixa | le  | karce | cu  | nunkla                |
+| Via | the | road, | from | the | house, | by  | me, |     | is-an-event-which | is-referred-to-by-the-last-sentence, | to  | the | market, | using  | the | car,  |     | is-an-event-of-going. |
 
 :::
-
-|     |                   |                                      |
-| --- | ----------------- | ------------------------------------ |
-| fa  | la'edi'u          |                                      |
-|     | is-an-event-which | is-referred-to-by-the-last-sentence, |
-
-|     |     |         |        |     |       |     |                       |
-| --- | --- | ------- | ------ | --- | ----- | --- | --------------------- |
-| fi  | le  | zarci   | faxixa | le  | karce | cu  | nunkla                |
-| to  | the | market, | using  | the | car,  |     | is-an-event-of-going. |
 
 [Example 19.27](/chapter19/#example-1927 "Example 19.27.") to [Example 19.29](/chapter19/#example-1929 "Example 19.29.") also all mean the same thing, and each is derived straightforwardly from any of the others, despite the tortured nature of the English glosses. In addition, any other member of SE or FA could be substituted into *sexixa* and *faxixa* without change of meaning: *vexixa* means the same thing as *sexixa*.
 
@@ -817,17 +772,12 @@ The cmavo *[lo'u](/glossary/?mode=exact&word=lo%27u)* (of selma'o LOhU) and *[le
 
 :::jbomupli
 
-|           |                      |             |
-| --------- | -------------------- | ----------- |
-| lo'u      | mi du do du la djan. | le'u        |
-| \[quote\] | mi du do du la djan. | \[unquote\] |
+|           |                      |             |        |                         |     |         |
+| --------- | -------------------- | ----------- | ------ | ----------------------- | --- | ------- |
+| lo'u      | mi du do du la djan. | le'u        | na     | tergerna                | la  | lojban. |
+| \[quote\] | mi du do du la djan. | \[unquote\] | is-not | a-grammatical-structure | in  | Lojban. |
 
 :::
-
-|        |                         |     |         |
-| ------ | ----------------------- | --- | ------- |
-| na     | tergerna                | la  | lojban. |
-| is-not | a-grammatical-structure | in  | Lojban. |
 
 [Example 19.44](/chapter19/#example-1944 "Example 19.44.") is grammatical even though the embedded quotation is not. Similarly, *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotation can quote fragments of a text which themselves do not constitute grammatical utterances:
 
@@ -835,22 +785,12 @@ The cmavo *[lo'u](/glossary/?mode=exact&word=lo%27u)* (of selma'o LOhU) and *[le
 
 :::jbomupli
 
-|           |                            |             |      |
-| --------- | -------------------------- | ----------- | ---- |
-| lu        | le mlatu cu viska le finpe | li'u        | zo'u |
-| \[quote\] | le mlatu cu viska le finpe | \[unquote\] | :    |
+|           |                            |             |      |           |          |             |     |                |                 |           |          |              |
+| --------- | -------------------------- | ----------- | ---- | --------- | -------- | ----------- | --- | -------------- | --------------- | --------- | -------- | ------------ |
+| lu        | le mlatu cu viska le finpe | li'u        | zo'u | lo'u      | viska le | le'u        | cu  | selbasti       | .ei             | lo'u      | viska lo | le'u         |
+| \[quote\] | le mlatu cu viska le finpe | \[unquote\] | :    | \[quote\] | viska le | \[unquote\] |     | is-replaced-by | \[obligation!\] | \[quote\] | viska lo | \[unquote\]. |
 
 :::
-
-|           |          |             |     |                |
-| --------- | -------- | ----------- | --- | -------------- |
-| lo'u      | viska le | le'u        | cu  | selbasti       |
-| \[quote\] | viska le | \[unquote\] |     | is-replaced-by |
-
-|                 |           |          |              |
-| --------------- | --------- | -------- | ------------ |
-| .ei             | lo'u      | viska lo | le'u         |
-| \[obligation!\] | \[quote\] | viska lo | \[unquote\]. |
 
 In the sentence *viska lo*.
 
@@ -862,17 +802,12 @@ Additionally, pro-sumti or pro-bridi in the quoting sentence can refer to words 
 
 :::jbomupli
 
-|     |          |       |           |     |       |     |         |              |
-| --- | -------- | ----- | --------- | --- | ----- | --- | ------- | ------------ |
-| la  | tcarlis. | cusku | lu        | le  | ninmu | cu  | morsi   | li'u         |
-|     | Charlie  | says  | \[quote\] | the | woman |     | is-dead | \[unquote\]. |
+|     |     |     |     |     |     |     |     |     |     |     |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- ||
+| la  | tcarlis. | cusku | lu        | le  | ninmu | cu  | morsi   | li'u         |.iku'i   | ri                 | jmive     |
+|     | Charlie  | says  | \[quote\] | the | woman |     | is-dead | \[unquote\]. |However, | the-last-mentioned | is-alive. |
 
 :::
-
-|          |                    |           |
-| -------- | ------------------ | --------- |
-| .iku'i   | ri                 | jmive     |
-| However, | the-last-mentioned | is-alive. |
 
 Charlie says “The woman is dead”, but she is alive.
 
@@ -882,17 +817,12 @@ In [Example 19.46](/chapter19/#example-1946 "Example 19.46."), *[ri](/glossary/?
 
 :::jbomupli
 
-|     |          |       |           |     |       |     |       |              |
-| --- | -------- | ----- | --------- | --- | ----- | --- | ----- | ------------ |
-| la  | tcarlis. | cusku | lo'u      | le  | ninmu | cu  | morsi | le'u         |
-|     | Charlie  | says  | \[quote\] | le  | ninmu | cu  | morsi | \[unquote\]. |
+|     |          |       |           |     |       |     |       |              |          |                    |           |
+| --- | -------- | ----- | --------- | --- | ----- | --- | ----- | ------------ | -------- | ------------------ | --------- |
+| la  | tcarlis. | cusku | lo'u      | le  | ninmu | cu  | morsi | le'u         | .iku'i   | ri                 | jmive     |
+|     | Charlie  | says  | \[quote\] | le  | ninmu | cu  | morsi | \[unquote\]. | However, | the-last-mentioned | is-alive. |
 
 :::
-
-|          |                    |           |
-| -------- | ------------------ | --------- |
-| .iku'i   | ri                 | jmive     |
-| However, | the-last-mentioned | is-alive. |
 
 Charlie says *le ninmu cu morsi*, but he is alive.
 
@@ -1122,17 +1052,12 @@ The cmavo *[to](/glossary/?mode=exact&word=to)* and *[toi](/glossary/?mode=exact
 
 :::jbomupli
 
-|     |        |     |        |     |          |     |     |        |
-| --- | ------ | --- | ------ | --- | -------- | --- | --- | ------ |
-| doi | lisas. | mi  | djica  | le  | nu       | to  | doi | frank. |
-| O   | Lisa,  | I   | desire | the | event-of | (   | O   | Frank, |
+|     |        |     |        |     |          |     |     |        |                |       |     |     |       |     |       |
+| --- | ------ | --- | ------ | --- | -------- | --- | --- | ------ | -------------- | ----- | --- | --- | ----- | --- | ----- |
+| doi | lisas. | mi  | djica  | le  | nu       | to  | doi | frank. | ko             | sisti | toi | do  | viska | le  | mlatu |
+| O   | Lisa,  | I   | desire | the | event-of | (   | O   | Frank, | \[imperative\] | stop! | )   | you | see   | the | cat.  |
 
 :::
-
-|                |       |     |     |       |     |       |
-| -------------- | ----- | --- | --- | ----- | --- | ----- |
-| ko             | sisti | toi | do  | viska | le  | mlatu |
-| \[imperative\] | stop! | )   | you | see   | the | cat.  |
 
 Lisa, I want you to (Frank! Stop!) see the cat.
 
@@ -1199,17 +1124,12 @@ which literally claims that John uttered the quoted text. If the central claim i
 
 :::jbomupli
 
-|           |     |       |     |       |         |
-| --------- | --- | ----- | --- | ----- | ------- |
-| lu        | mi  | klama | le  | zarci | seisa'a |
-| \[quote\] | I   | go-to | the | store | (       |
+|           |     |       |     |       |         |     |       |           |     |               |              |
+| --------- | --- | ----- | --- | ----- | ------- | --- | ----- | --------- | --- | ------------- | ------------ |
+| lu        | mi  | klama | le  | zarci | seisa'a | la  | djan. | cusku     | be  | dei           | li'u         |
+| \[quote\] | I   | go-to | the | store | (       |     | John  | expresses |     | this-sentence | )\[unquote\] |
 
 :::
-
-|     |       |           |     |               |              |
-| --- | ----- | --------- | --- | ------------- | ------------ |
-| la  | djan. | cusku     | be  | dei           | li'u         |
-|     | John  | expresses |     | this-sentence | )\[unquote\] |
 
 “I go to the store”, said John.
 
@@ -1273,9 +1193,9 @@ In order to erase the word *[zo](/glossary/?mode=exact&word=zo)*, it is necessar
 
 :::jbomupli
 
-|          |       |                |       |      |                       |     |     |     |      |
-| -------- | ----- | -------------- | ----- | ---- | --------------------- | --- | --- | --- | ---- |
-| zo       | .bab. | se             | cmene | zo   | si                    | si  | si  | la  | bab. |
+|          |       |                |       |      |                                       |     |     |     |      |
+| -------- | ----- | -------------- | ----- | ---- | ------------------------------------- | --- | --- | --- | ---- |
+| zo       | .bab. | se             | cmene | zo   | si                                    | si  | si  | la  | bab. |
 | The-word | “Bob” | is-the-name-of | the   | word | *[si](/glossary/?mode=exact&word=si)* | ,   | er, | er, | Bob. |
 
 :::
@@ -1288,17 +1208,12 @@ Incorrect names can likewise cause trouble with *[si](/glossary/?mode=exact&word
 
 :::jbomupli
 
-|     |       |             |            |               |
-| --- | ----- | ----------- | ---------- | ------------- |
-| mi  | tavla | fo          | la         | .esperanto    |
-| I   | talk  | in-language | that-named | and-speranto, |
+|     |       |             |            |               |     |     |              |
+| --- | ----- | ----------- | ---------- | ------------- | --- | --- | ------------ |
+| mi  | tavla | fo          | la         | .esperanto    | si  | si  | .esperanton. |
+| I   | talk  | in-language | that-named | and-speranto, | er, | er, | Esperanto.   |
 
 :::
-
-|     |     |              |
-| --- | --- | ------------ |
-| si  | si  | .esperanton. |
-| er, | er, | Esperanto.   |
 
 The Lojbanized spelling *.esperanto* breaks up, as a consequence of the Lojban morphology rules (see [Chapter 4](/chapter04/ "Chapter 4. The Shape Of Words To Come: Lojban Morphology")) into two Lojban words, the cmavo *[e](/glossary/?mode=exact&word=e)* and the undefined lujvo *speranto*. Therefore, two *[si](/glossary/?mode=exact&word=si)* cmavo are needed to erase them. Of course, *.e speranto* is not grammatical after *[la](/glossary/?mode=exact&word=la)*, but recognition of *[si](/glossary/?mode=exact&word=si)* is done before grammatical analysis.
 
@@ -1308,9 +1223,9 @@ Even more messy is the result of an incorrect *[zoi](/glossary/?mode=exact&word=
 
 :::jbomupli
 
-|     |         |             |           |                       |              |     |     |     |     |          |     |
-| --- | ------- | ----------- | --------- | --------------------- | ------------ | --- | --- | --- | --- | -------- | --- |
-| mi  | cusku   | zoi         | fy.       | gy.                   | .fy.         | si  | si  | si  | si  | zo .djan |     |
+|     |         |             |           |                                       |              |     |     |     |     |          |     |
+| --- | ------- | ----------- | --------- | ------------------------------------- | ------------ | --- | --- | --- | --- | -------- | --- |
+| mi  | cusku   | zoi         | fy.       | gy.                                   | .fy.         | si  | si  | si  | si  | zo .djan |     |
 | I   | express | \[foreign\] | \[quote\] | *[gy](/glossary/?mode=exact&word=gy)* | \[unquote\], | er, | er, | er, | er, | “John”   | .   |
 
 :::
@@ -1401,27 +1316,16 @@ The cmavo *[fa'o](/glossary/?mode=exact&word=fa%27o)* (of selma'o FAhO) is the u
 The following list gives the cmavo and selma'o that are recognized by the earliest stages of the parser, and specifies exactly which of them interact with which others. All of the cmavo are at least mentioned in this chapter. The cmavo are written in lower case, and the selma'o in UPPER CASE.
 
 - *[zo](/glossary/?mode=exact&word=zo)* quotes the following word, no matter what it is.
-
 - *[si](/glossary/?mode=exact&word=si)* erases the preceding word unless it is a *[zo](/glossary/?mode=exact&word=zo)*.
-
 - *[sa](/glossary/?mode=exact&word=sa)* erases the preceding word and other words, unless the preceding word is a *[zo](/glossary/?mode=exact&word=zo)*.
-
 - *[su](/glossary/?mode=exact&word=su)* is the same as *[sa](/glossary/?mode=exact&word=sa)*, but erases more words.
-
 - *[lo'u](/glossary/?mode=exact&word=lo%27u)* quotes all following words up to a *[le'u](/glossary/?mode=exact&word=le%27u)* (but not a *zo le'u*).
-
 - *[le'u](/glossary/?mode=exact&word=le%27u)* is ungrammatical except at the end of a “lo'u quotation.
-
 - ZOI cmavo use the following word as a delimiting word, no matter what it is, but using *[le'u](/glossary/?mode=exact&word=le%27u)* may create difficulties.
-
 - *[zei](/glossary/?mode=exact&word=zei)* combines the preceding and the following word into a lujvo, but does not affect *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI cmavo, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, and *[zei](/glossary/?mode=exact&word=zei)*.
-
 - BAhE cmavo mark the following word, unless it is *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, or *[su](/glossary/?mode=exact&word=su)*, or unless it is preceded by *[zo](/glossary/?mode=exact&word=zo)*. Multiple BAhE cmavo may be used in succession.
-
 - *[bu](/glossary/?mode=exact&word=bu)* makes the preceding word into a lerfu word, except for *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI cmavo, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, *[zei](/glossary/?mode=exact&word=zei)*, BAhE cmavo, and *[bu](/glossary/?mode=exact&word=bu)*. Multiple *[bu](/glossary/?mode=exact&word=bu)* cmavo may be used in succession.
-
 - UI and CAI cmavo mark the previous word, except for *[zo](/glossary/?mode=exact&word=zo)*, *[si](/glossary/?mode=exact&word=si)*, *[sa](/glossary/?mode=exact&word=sa)*, *[su](/glossary/?mode=exact&word=su)*, *[lo'u](/glossary/?mode=exact&word=lo%27u)*, ZOI, *[fa'o](/glossary/?mode=exact&word=fa%27o)*, *[zei](/glossary/?mode=exact&word=zei)*, BAhE cmavo, and *[bu](/glossary/?mode=exact&word=bu)*. Multiple UI cmavo may be used in succession. A following *[nai](/glossary/?mode=exact&word=nai)* is made part of the UI.
-
 - *[.y.](/glossary/?mode=exact&word=y)*, *[da'o](/glossary/?mode=exact&word=da%27o)*, *[fu'e](/glossary/?mode=exact&word=fu%27e)*, and *[fu'o](/glossary/?mode=exact&word=fu%27o)* are the same as UI, but do not absorb a following *[nai](/glossary/?mode=exact&word=nai)*.
 
 ## 19.17. List of Elidable Terminators

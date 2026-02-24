@@ -217,6 +217,11 @@
     @apply font-mono border cborder-border rounded px-1;
   }
 
+  pre,
+  code {
+    @apply font-mono;
+  }
+
   h1:where(#title) {
     @apply font-extralight text-4xl px-4 my-title text-balance 
     border-s-3 cborder-border-darker;
@@ -248,8 +253,7 @@
   p,
   ul,
   ol,
-  pre,
-  blockquote {
+  pre {
     @apply mt-paragraph;
   }
 
@@ -285,7 +289,7 @@
   }
 
   table {
-    @apply w-max max-w-full me-auto;
+    @apply w-max max-w-full me-auto grid;
     overflow-wrap: revert;
 
     :where(thead > tr:last-child) {
@@ -297,7 +301,7 @@
     }
 
     :where(td, th) {
-      @apply text-base py-1 px-2;
+      @apply py-1 px-2;
     }
   }
 
@@ -326,19 +330,16 @@
     @apply ps-4;
   }
 
+  blockquote {
+    @apply italic my-figure ps-8 *:m-0;
+  }
+
   hr {
     @apply my-paragraph cborder-border mx-auto w-full max-w-240;
   }
 
-  :where(blockquote p:first-of-type) {
-    &::before,
-    &::after {
-      content: none;
-    }
-  }
-
   .jbomupli {
-    @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5 
+    @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5
       cbg-side border cborder-border rounded;
 
     > * {

@@ -432,17 +432,12 @@ The cmavo *[su'i](/glossary/?mode=exact&word=su%27i)* belongs to selma'o VUhU, w
 
 :::jbomupli
 
-|            |               |     |      |
-| ---------- | ------------- | --- | ---- |
-| li         | ma'u          | pa  | su'i |
-| The-number | positive-sign | one | plus |
+|            |               |     |      |               |     |        |            |       |
+| ---------- | ------------- | --- | ---- | ------------- | --- | ------ | ---------- | ----- |
+| li         | ma'u          | pa  | su'i | ni'u          | pa  | du     | li         | no    |
+| The-number | positive-sign | one | plus | negative-sign | one | equals | the-number | zero. |
 
 :::
-
-|               |     |        |            |       |
-| ------------- | --- | ------ | ---------- | ----- |
-| ni'u          | pa  | du     | li         | no    |
-| negative-sign | one | equals | the-number | zero. |
 
 ${+1} + {-1} = 0$
 
@@ -642,20 +637,20 @@ So far our examples have been isolated mekso (it is legal to have a bare mekso a
 
 Here is a partial list of selbri useful in mathematical bridi:
 
-|                                      |                                                                                     |
-| ------------------------------------ | ----------------------------------------------------------------------------------- |
-| *[du](/glossary/?mode=exact&word=du)*                | x1 is identical to x2, x3, x4, ...                                                  |
-| *[dunli](/glossary/?mode=exact&word=dunli)*          | x1 is equal/congruent to x2 in/on property/quality/dimension/quantity x3            |
-| *[mleca](/glossary/?mode=exact&word=mleca)*          | x1 is less than x2                                                                  |
-| *[zmadu](/glossary/?mode=exact&word=zmadu)*          | x1 is greater than x2                                                               |
+|                                                         |                                                                                                              |
+| ------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| *[du](/glossary/?mode=exact&word=du)*                   | x1 is identical to x2, x3, x4, ...                                                                           |
+| *[dunli](/glossary/?mode=exact&word=dunli)*             | x1 is equal/congruent to x2 in/on property/quality/dimension/quantity x3                                     |
+| *[mleca](/glossary/?mode=exact&word=mleca)*             | x1 is less than x2                                                                                           |
+| *[zmadu](/glossary/?mode=exact&word=zmadu)*             | x1 is greater than x2                                                                                        |
 | *[dubjavme'a](/glossary/?mode=exact&word=dubjavme%27a)* | x1 is less than or equal to x2 \[*[mleca\](/glossary/?mode=exact&word=%2A%5Bmleca%5C)*, equal or less]       |
-| *[dubjavmau](/glossary/?mode=exact&word=dubjavmau)*  | x1 is greater than or equal to x2 \[*[zmadu\](/glossary/?mode=exact&word=%2A%5Bzmadu%5C)*, equal or greater] |
+| *[dubjavmau](/glossary/?mode=exact&word=dubjavmau)*     | x1 is greater than or equal to x2 \[*[zmadu\](/glossary/?mode=exact&word=%2A%5Bzmadu%5C)*, equal or greater] |
 | *[tamdu'i](/glossary/?mode=exact&word=tamdu%27i)*       | x1 is similar to x2 \[*[dunli\](/glossary/?mode=exact&word=%2A%5Bdunli%5C)*, shape-equal]                    |
-| *turdu'i*                            | x1 is isomorphic to x2 \[*[dunli\](/glossary/?mode=exact&word=%2A%5Bdunli%5C)*, structure-equal]             |
-| *[cmima](/glossary/?mode=exact&word=cmima)*          | x1 is a member of set x2                                                            |
-| *gripau*                             | x1 is a subset of set x2 \[*[pagbu\](/glossary/?mode=exact&word=%2A%5Bpagbu%5C)*, set-part]                  |
+| *turdu'i*                                               | x1 is isomorphic to x2 \[*[dunli\](/glossary/?mode=exact&word=%2A%5Bdunli%5C)*, structure-equal]             |
+| *[cmima](/glossary/?mode=exact&word=cmima)*             | x1 is a member of set x2                                                                                     |
+| *gripau*                                                | x1 is a subset of set x2 \[*[pagbu\](/glossary/?mode=exact&word=%2A%5Bpagbu%5C)*, set-part]                  |
 | *[na'ujbi](/glossary/?mode=exact&word=na%27ujbi)*       | x1 is approximately equal to x2 \[*[jibni\](/glossary/?mode=exact&word=%2A%5Bjibni%5C)*, number-near]        |
-| *terci'e*                            | x1 is a component with function x2 of system x3                                     |
+| *terci'e*                                               | x1 is a component with function x2 of system x3                                                              |
 
 Note the difference between *[dunli](/glossary/?mode=exact&word=dunli)* and *[du](/glossary/?mode=exact&word=du)*; *[dunli](/glossary/?mode=exact&word=dunli)* has a third place that specifies the kind of equality that is meant. *[du](/glossary/?mode=exact&word=du)* refers to actual identity, and can have any number of places:
 
@@ -1206,18 +1201,15 @@ Each digit sequence separated by instances of *[pi'e](/glossary/?mode=exact&word
 
 :::jbomupli
 
-|            |     |      |      |      |      |      |      |     |      |      |
-| ---------- | --- | ---- | ---- | ---- | ---- | ---- | ---- | --- | ---- | ---- |
-| li         | ci  | pi'e | rere | pi'e | vono | su'i | pi'e | ci  | pi'e | cici |
-| The-number | 3   | :    | 22   | :    | 40   | plus | :    | 3   | :    | 33   |
+|            |     |      |      |      |      |      |      |     |      |      |        |            |     |      |      |      |      |
+| ---------- | --- | ---- | ---- | ---- | ---- | ---- | ---- | --- | ---- | ---- | ------ | ---------- | --- | ---- | ---- | ---- | ---- |
+| li         | ci  | pi'e | rere | pi'e | vono | su'i | pi'e | ci  | pi'e | cici | du     | li         | ci  | pi'e | rexa | pi'e | paci |
+| The-number | 3   | :    | 22   | :    | 40   | plus | :    | 3   | :    | 33   | equals | the-number | 3   | :    | 26   | :    | 13.  |
 
 :::
 
-|                            |            |     |      |      |      |      |
-| -------------------------- | ---------- | --- | ---- | ---- | ---- | ---- |
-| du                         | li         | ci  | pi'e | rexa | pi'e | paci |
-| equals                     | the-number | 3   | :    | 26   | :    | 13.  |
-| 3:22:40 + 0:3:33 = 3:26:13 |            |     |      |      |      |      |
+
+$3:22:40 + 0:3:33 = 3:26:13$
 
 Of course, only context tells you that the first part of the numbers in [Example 18.74](/chapter18/#example-1874 "Example 18.74.") and [Example 18.75](/chapter18/#example-1875 "Example 18.75.") is hours, the second minutes, and the third seconds.
 
@@ -1268,17 +1260,12 @@ Both *[pi](/glossary/?mode=exact&word=pi)* and *[pi'e](/glossary/?mode=exact&wor
 
 :::jbomupli
 
-|            |     |      |     |     |     |      |      |
-| ---------- | --- | ---- | --- | --- | --- | ---- | ---- |
-| li         | pa  | pi'e | vo  | pi  | ze  | ju'u | reno |
-| The-number | 1   | ;    | 4   | .   | 7   | base | 20   |
+|            |     |      |     |     |     |      |      |        |            |      |     |      |
+| ---------- | --- | ---- | --- | --- | --- | ---- | ---- | ------ | ---------- | ---- | --- | ---- |
+| li         | pa  | pi'e | vo  | pi  | ze  | ju'u | reno | du     | li         | revo | pi  | cimu |
+| The-number | 1   | ;    | 4   | .   | 7   | base | 20   | equals | the-number | 24   | .   | 35   |
 
 :::
-
-|        |            |      |     |      |
-| ------ | ---------- | ---- | --- | ---- |
-| du     | li         | revo | pi  | cimu |
-| equals | the-number | 24   | .   | 35   |
 
 [*pi'e*](/glossary/?mode=exact&word=%2Api%27e%2A) is also used where the base of each digit is vague, as in the numbering of the examples in this chapter:
 
@@ -1360,17 +1347,12 @@ An example:
 
 :::jbomupli
 
-|             |       |       |        |     |       |
-| ----------- | ----- | ----- | ------ | --- | ----- |
-| lei         | ratcu | poi   | zvati  | le  | panka |
-| The-mass-of | rats  | which | are-in | the | park  |
+|             |       |       |        |     |       |     |                               |            |       |
+| ----------- | ----- | ----- | ------ | --- | ----- | --- | ----------------------------- | ---------- | ----- |
+| lei         | ratcu | poi   | zvati  | le  | panka | cu  | so'umei                       | lo'i       | ratcu |
+| The-mass-of | rats  | which | are-in | the | park  |     | are-a-fewsome-with-respect-to | the-set-of | rats. |
 
 :::
-
-|     |                               |            |       |
-| --- | ----------------------------- | ---------- | ----- |
-| cu  | so'umei                       | lo'i       | ratcu |
-|     | are-a-fewsome-with-respect-to | the-set-of | rats. |
 
 The rats in the park are a small number of all the rats there are.
 
@@ -1502,17 +1484,12 @@ When the quantifier preceding any MOI cmavo includes the subjective numbers *[ra
 
 :::jbomupli
 
-|             |       |           |       |     |
-| ----------- | ----- | --------- | ----- | --- |
-| lei         | ratcu | poi       | zvati | le  |
-| The-mass-of | rats  | which-are | in    | the |
+|             |       |           |       |     |       |     |              |             |     |
+| ----------- | ----- | --------- | ----- | --- | ----- | --- | ------------ | ----------- | --- |
+| lei         | ratcu | poi       | zvati | le  | panka | cu  | du'emei      | fo          | mi  |
+| The-mass-of | rats  | which-are | in    | the | park  |     | are-too-many | by-standard | me. |
 
 :::
-
-|       |     |              |             |     |
-| ----- | --- | ------------ | ----------- | --- |
-| panka | cu  | du'emei      | fo          | mi  |
-| park  |     | are-too-many | by-standard | me. |
 
 There are too many rats in the park for me.
 
@@ -1543,17 +1520,12 @@ The cmavo *[me](/glossary/?mode=exact&word=me)* (of selma'o ME) has the function
 
 :::jbomupli
 
-|      |     |            |     |      |     |      |        |
-| ---- | --- | ---------- | --- | ---- | --- | ---- | ------ |
-| ta   | me  | li         | ny. | su'i | pa  | me'u | moi    |
-| That | is  | the-number | n   | plus | one |      | -th-of |
+|      |     |            |     |      |     |      |        |            |                    |       |
+| ---- | --- | ---------- | --- | ---- | --- | ---- | ------ | ---------- | ------------------ | ----- |
+| ta   | me  | li         | ny. | su'i | pa  | me'u | moi    | le'i       | mi                 | ratcu |
+| That | is  | the-number | $n$ | plus | one |      | -th-of | the-set-of | associated-with-me | rats. |
 
 :::
-
-|            |                    |       |
-| ---------- | ------------------ | ----- |
-| le'i       | mi                 | ratcu |
-| the-set-of | associated-with-me | rats. |
 
 That is my $(n+1)$-th rat.
 
@@ -1565,17 +1537,12 @@ It is perfectly possible to use non-numerical sumti after *[me](/glossary/?mode=
 
 :::jbomupli
 
-|     |          |     |                                 |     |     |
-| --- | -------- | --- | ------------------------------- | --- | --- |
-| le  | nu       | mi  | nolraitru                       | cu  | me  |
-| The | event-of | me  | being-a-nobly-superlative-ruler |     |     |
+|     |          |     |                                 |     |     |                       |       |              |     |     |     |      |              |
+| --- | -------- | --- | ------------------------------- | --- | --- | --------------------- | ----- | ------------ | --- | --- | --- | ---- | ------------ |
+| le  | nu       | mi  | nolraitru                       | cu  | me  | le'e                  | snime | bolci        | be  | vi  | la  | xel. | cu'o         |
+| The | event-of | me  | being-a-nobly-superlative-ruler |     |     | has-the-stereotypical | snow  | type-of-ball |     | at  |     | Hell | probability. |
 
 :::
-
-|                       |       |              |     |     |     |      |              |
-| --------------------- | ----- | ------------ | --- | --- | --- | ---- | ------------ |
-| le'e                  | snime | bolci        | be  | vi  | la  | xel. | cu'o         |
-| has-the-stereotypical | snow  | type-of-ball |     | at  |     | Hell | probability. |
 
 I have a snowball's chance in Hell of being king.
 
@@ -1735,18 +1702,14 @@ Finding a suitable example of *[ge'a](/glossary/?mode=exact&word=ge%27a)* requir
 
 :::jbomupli
 
-|            |                             |        |
-| ---------- | --------------------------- | ------ |
-| li         | cinonoki'oki'o              | du     |
-| The-number | three-zero-zero-comma-comma | equals |
+|            |                             |        |            |       |            |        |
+| ---------- | --------------------------- | ------ | ---------- | ----- | ---------- | ------ |
+| li         | cinonoki'oki'o              | du     | li         | bi    | gei        | ci     |
+| The-number | three-zero-zero-comma-comma | equals | the-number | eight | scientific | three. |
 
 :::
 
-|                            |       |            |        |
-| -------------------------- | ----- | ---------- | ------ |
-| li                         | bi    | gei        | ci     |
-| the-number                 | eight | scientific | three. |
-| 300,000,000 = 3 \times 108 |       |            |        |
+$300,000,000 = 3 \times 108$
 
 Why are the arguments to *[gei](/glossary/?mode=exact&word=gei)* in reverse order from the conventional symbolic notation? So that *[gei](/glossary/?mode=exact&word=gei)* can be used in forethought to allow easy specification of a large (or small) imprecise number:
 
@@ -1769,17 +1732,12 @@ Note, however, that although 10 is far and away the most common exponent base, i
 
 :::jbomupli
 
-|               |          |     |            |
-| ------------- | -------- | --- | ---------- |
-| papano        | bi'eju'u | re  | gei        |
-| (one-one-zero | base     | 2)  | scientific |
+|               |          |     |            |                          |          |     |           |     |
+| ------------- | -------- | --- | ---------- | ------------------------ | -------- | --- | --------- | --- |
+| papano        | bi'eju'u | re  | gei        | pipanopano               | bi'eju'u | re  | ge'a      | re  |
+| (one-one-zero | base     | 2)  | scientific | (point-one-zero-one-zero | base     | 2)  | with-base | 2   |
 
 :::
-
-|                          |          |     |           |     |
-| ------------------------ | -------- | --- | --------- | --- |
-| pipanopano               | bi'eju'u | re  | ge'a      | re  |
-| (point-one-zero-one-zero | base     | 2)  | with-base | 2   |
 
 $.10102 \times 21102$
 
@@ -1802,17 +1760,12 @@ A mathematical vector is a list of numbers, and a mathematical matrix is a table
 
 :::jbomupli
 
-|            |       |       |       |      |      |       |         |       |
-| ---------- | ----- | ----- | ----- | ---- | ---- | ----- | ------- | ----- |
-| li         | jo'i  | paboi | reboi | te'u | su'i | jo'i  | ciboi   | voboi |
-| The-number | array | (one, | two   | )    | plus | array | (three, | four) |
+|            |       |       |       |      |      |       |         |       |        |            |       |        |       |
+| ---------- | ----- | ----- | ----- | ---- | ---- | ----- | ------- | ----- | ------ | ---------- | ----- | ------ | ----- |
+| li         | jo'i  | paboi | reboi | te'u | su'i | jo'i  | ciboi   | voboi | du     | li         | jo'i  | voboi  | xaboi |
+| The-number | array | (one, | two   | )    | plus | array | (three, | four) | equals | the-number | array | (four, | six). |
 
 :::
-
-|        |            |       |        |       |
-| ------ | ---------- | ----- | ------ | ----- |
-| du     | li         | jo'i  | voboi  | xaboi |
-| equals | the-number | array | (four, | six). |
 
 $(1,2) + (3,4) = (4,6)$
 
@@ -1832,17 +1785,12 @@ can be represented either as:
 
 :::jbomupli
 
-|            |       |       |     |            |            |       |       |     |
-| ---------- | ----- | ----- | --- | ---------- | ---------- | ----- | ----- | --- |
-| jo'i       | biboi | paboi | xa  | pi'a       | jo'i       | ciboi | muboi | ze  |
-| the-vector | (8    | 1     | 6)  | matrix-row | the-vector | (3    | 5     | 7), |
+|            |       |       |     |            |            |       |       |     |      |            |       |       |     |
+| ---------- | ----- | ----- | --- | ---------- | ---------- | ----- | ----- | --- | ---- | ---------- | ----- | ----- | --- |
+| jo'i       | biboi | paboi | xa  | pi'a       | jo'i       | ciboi | muboi | ze  | ge'a | jo'i       | voboi | soboi | re  |
+| the-vector | (8    | 1     | 6)  | matrix-row | the-vector | (3    | 5     | 7), |      | the-vector | (4    | 9     | 2)  |
 
 :::
-
-|      |            |       |       |     |
-| ---- | ---------- | ----- | ----- | --- |
-| ge'a | jo'i       | voboi | soboi | re  |
-|      | the-vector | (4    | 9     | 2)  |
 
 or as
 
@@ -1850,17 +1798,12 @@ or as
 
 :::jbomupli
 
-|            |       |       |     |               |            |       |       |     |
-| ---------- | ----- | ----- | --- | ------------- | ---------- | ----- | ----- | --- |
-| jo'i       | biboi | ciboi | vo  | sa'i          | jo'i       | paboi | muboi | so  |
-| the-vector | (8    | 3     | 4)  | matrix-column | the-vector | (1    | 5     | 9), |
+|            |       |       |     |               |            |       |       |     |      |            |       |       |     |
+| ---------- | ----- | ----- | --- | ------------- | ---------- | ----- | ----- | --- | ---- | ---------- | ----- | ----- | --- |
+| jo'i       | biboi | ciboi | vo  | sa'i          | jo'i       | paboi | muboi | so  | ge'a | jo'i       | xaboi | zeboi | re  |
+| the-vector | (8    | 3     | 4)  | matrix-column | the-vector | (1    | 5     | 9), |      | the-vector | (6    | 7     | 2)  |
 
 :::
-
-|      |            |       |       |     |
-| ---- | ---------- | ----- | ----- | --- |
-| ge'a | jo'i       | xaboi | zeboi | re  |
-|      | the-vector | (6    | 7     | 2)  |
 
 The regular mekso operators can be applied to vectors and to matrices, since grammatically both of these are expressions. It is usually necessary to parenthesize matrices when used with operators in order to avoid incorrect groupings. There are no VUhU operators for the matrix operators of inner or outer products, but appropriate operators can be created using a suitable symbolic lerfu word or string prefixed by *[ma'o](/glossary/?mode=exact&word=ma%27o)*.
 
@@ -2247,19 +2190,14 @@ Used together, *[nu'a](/glossary/?mode=exact&word=nu%27a)* and *[na'u](/glossary
 
 :::jbomupli
 
-|            |     |                   |
-| ---------- | --- | ----------------- |
-| li         | re  | na'u              |
-| The-number | two | applied-to-selbri |
+|            |     |                   |               |     |        |            |       |
+| ---------- | --- | ----------------- | ------------- | --- | ------ | ---------- | ----- |
+| li         | re  | na'u              | mo            | re  | du     | li         | vo    |
+| The-number | two | applied-to-selbri | which-selbri? | two | equals | the-number | four. |
 
 :::
 
-|               |     |        |            |       |
-| ------------- | --- | ------ | ---------- | ----- |
-| mo            | re  | du     | li         | vo    |
-| which-selbri? | two | equals | the-number | four. |
-
-2 ? 2 = 4
+$2 ? 2 = 4$
 
 ##### Example 18.132.
 
@@ -2534,12 +2472,12 @@ Except as noted, each selma'o has only one cmavo.
 | BOI  | elidable terminator for numerals and lerfu strings                                                                                                                                           |
 | BY   | lerfu for variables and functions (see [Section 17.11](/chapter17/#1711-mathematical-uses-of-lerfu-strings "17.11. Mathematical uses of lerfu strings"))                                     |
 | FUhA | reverse-Polish flag                                                                                                                                                                          |
-| GOhA | includes *[du](/glossary/?mode=exact&word=du)* (mathematical equality) and other non-mekso cmavo                                                                                                             |
+| GOhA | includes *[du](/glossary/?mode=exact&word=du)* (mathematical equality) and other non-mekso cmavo                                                                                             |
 | JOhI | array flag                                                                                                                                                                                   |
 | KUhE | elidable terminator for forethought mekso                                                                                                                                                    |
-| LI   | mekso articles (*[me'o](/glossary/?mode=exact&word=me%27o)*)                                                                                                                                                    |
+| LI   | mekso articles (*[me'o](/glossary/?mode=exact&word=me%27o)*)                                                                                                                                 |
 | MAhO | make operand into operator                                                                                                                                                                   |
-| MOI  | creates mekso selbri (*[cu'o](/glossary/?mode=exact&word=cu%27o)*, see [Section 18.11](/chapter18/#1811-special-mekso-selbri "18.11. Special mekso selbri"))                                                    |
+| MOI  | creates mekso selbri (*[cu'o](/glossary/?mode=exact&word=cu%27o)*, see [Section 18.11](/chapter18/#1811-special-mekso-selbri "18.11. Special mekso selbri"))                                 |
 | MOhE | make sumti into operand                                                                                                                                                                      |
 | NAhU | make selbri into operator                                                                                                                                                                    |
 | NIhE | make selbri into operand                                                                                                                                                                     |
@@ -2680,8 +2618,8 @@ x1 is the (n)th member of set x2 when ordered by rule x3 \[by standard x4\]
 
 x1 is an (n)th portion of mass x2 \[by standard x3\]
 
-|      |                                                                                                                                                            |
-| ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      |                                                                                                                                                                            |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | cu'o | cu'o (borrowed from *[cunso](/glossary/?mode=exact&word=cunso)*; see [Section 18.20](/chapter18/#1820-explicit-operator-precedence "18.20. Explicit operator precedence")) |
 
 event x1 has probability (n) of occurring under conditions x2 \[by standard x3\]
