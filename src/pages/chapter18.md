@@ -254,6 +254,8 @@ $.001012001$
 
 The following cmavo are discussed in this section:
 
+
+
 |      |     |                                                                        |
 | ---- | --- | ---------------------------------------------------------------------- |
 | ci'i | PA  | infinity, $\infty$                                                     |
@@ -261,6 +263,7 @@ The following cmavo are discussed in this section:
 | pai  | PA  | pi, $\pi$ (approx 3.14159...)                                          |
 | te'o | PA  | exponential $e$ (approx 2.71828...)                                    |
 | fi'u | PA  | golden ratio, phi, $\phi$, $\frac{1+\sqrt{5}}{2}$ (approx. 1.61803...) |
+
 
 The last cmavo is the same as the fraction sign cmavo: a fraction sign with neither numerator nor denominator represents the golden ratio.
 
@@ -473,7 +476,7 @@ $3 + 4 \times 5 = 23$
 
 :::
 
-Is the Lojban version of [Example 18.28](/chapter18/#example-1828 "Example 18.28.") true? No! “3 + 4 \times 5” is indeed 23, because the usual conventions of mathematics state that multiplication takes precedence over addition; that is, the multiplication “4 \times 5” is done first, giving 20, and only then the addition “3 + 20”. But VUhU operators by default are done left to right, like other Lojban grouping, and so a truthful bridi would be:
+Is the Lojban version of [Example 18.28](/chapter18/#example-1828 "Example 18.28.") true? No! “$3 + 4 \times 5$” is indeed 23, because the usual conventions of mathematics state that multiplication takes precedence over addition; that is, the multiplication “$4 \times 5$” is done first, giving 20, and only then the addition “$3 + 20$”. But VUhU operators by default are done left to right, like other Lojban grouping, and so a truthful bridi would be:
 
 ##### Example 18.29.
 
@@ -488,7 +491,7 @@ $3 + 4 \times 5 = 35$
 
 :::
 
-Here we calculate 3 + 4 first, giving 7, and then calculate 7 \times 5 second, leading to the result 35. While possessing the advantage of simplicity, this result violates the design goal of matching the standards of mathematics. What can be done?
+Here we calculate $3 + 4$ first, giving $7$, and then calculate $7 \times 5$ second, leading to the result $35$. While possessing the advantage of simplicity, this result violates the design goal of matching the standards of mathematics. What can be done?
 
 There are three solutions, all of which will probably be used to some degree. The first solution is to ignore the problem. People will say *li ci su'i vo pi'i mu* and mean 23 by it, because the notion that multiplication takes precedence over addition is too deeply ingrained to be eradicated by Lojban parsing, which totally ignores semantics. This convention essentially allows semantics to dominate syntax in this one area.
 
@@ -528,7 +531,7 @@ In addition, of course, Lojban has the mathematical parentheses *[vei](/glossary
 
 $(n+1)(n+1) = n^{2} + 2n + 1$
 
-There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/?mode=exact&word=te%27a)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/?mode=exact&word=ny)*, representing the letter $n$. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of “a \times b \times c”. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
+There are several new usages in [Example 18.31](/chapter18/#example-1831 "Example 18.31."): *[te'a](/glossary/?mode=exact&word=te%27a)* means “raised to the power”, and we also see the use of the lerfu word *[ny](/glossary/?mode=exact&word=ny)*, representing the letter $n$. In mekso, letters stand for just what they do in ordinary mathematics: variables. The parser will accept a string of lerfu words (called a “lerfu string”) as the equivalent of a single lerfu word, in agreement with computer-science conventions; “abc” is a single variable, not the equivalent of $a \times b \times c$. (Of course, a local convention could state that the value of a variable like “abc”, with a multi-lerfu name, was equal to the values of the variables $a$, $b$, and $c$ multiplied together.)
 
 The explicit operator *[pi'i](/glossary/?mode=exact&word=pi%27i)* is required in the Lojban verbal form whereas multiplication is implicit in the symbolic form. Note that *[ve'o](/glossary/?mode=exact&word=ve%27o)* (the right parenthesis) is an elidable terminator: the first use of it in [Example 18.31](/chapter18/#example-1831 "Example 18.31.") is required, but the second use (marked by square brackets) could be elided. Additionally, the first *[bi'e](/glossary/?mode=exact&word=bi%27e)* (also marked by square brackets) is not necessary to get the proper grouping, but it is included here for symmetry with the other one.
 
@@ -563,7 +566,7 @@ But there are many operators which do not have two operands, or which have a var
 
 :::
 
-$sum(1,2,3) = 6$
+$\operatorname{sum}{(1,2,3)} = 6$
 
 Note that the normally elidable number terminator *[boi](/glossary/?mode=exact&word=boi)* is required after *[pa](/glossary/?mode=exact&word=pa)* and *[re](/glossary/?mode=exact&word=re)* because otherwise the reading would be *pareci*= 123. It is not required after *[ci](/glossary/?mode=exact&word=ci)* but is inserted here in brackets for the sake of symmetry. The only time *[boi](/glossary/?mode=exact&word=boi)* is required is, as in [Example 18.32](/chapter18/#example-1832 "Example 18.32."), when there are two consecutive numbers or lerfu strings.
 
@@ -598,9 +601,10 @@ Forethought mekso is also useful for matching standard functional notation. How 
 | ---------- | --- | ------ | ---------- | ------------ | ------ | --- |
 | li         | zy  | du     | li         | ma'o         | fy.boi | xy. |
 | The-number | z   | equals | the-number | the-operator | f      | x.  |
-| z = f(x)   |     |        |            |              |        |     |
 
 :::
+
+$z = f(x)$
 
 Again, no parentheses are used. The construct *ma'o fy.boi* is the equivalent of an operator, and appears in forethought here (although it could also be used as a regular infix operator). In mathematics, letters sometimes mean functions and sometimes mean variables, with only the context to tell which. Lojban chooses to accept the variable interpretation as the default, and uses the special flag *[ma'o](/glossary/?mode=exact&word=ma%27o)* to mark a lerfu string as an operator. The cmavo *[xy.](/glossary/?mode=exact&word=xy)* and *[zy.](/glossary/?mode=exact&word=zy)* are variables, but *[fy.](/glossary/?mode=exact&word=fy)* is an operator (a function) because *[ma'o](/glossary/?mode=exact&word=ma%27o)* marks it as such. The *[boi](/glossary/?mode=exact&word=boi)* is required because otherwise the *[xy.](/glossary/?mode=exact&word=xy)* would look like part of the operator name. (The use of *[ma'o](/glossary/?mode=exact&word=ma%27o)* can be generalized from lerfu strings to any mekso operand: see [Section 18.21](/chapter18/#1821-miscellany "18.21. Miscellany").)
 
@@ -658,13 +662,14 @@ Note the difference between *[dunli](/glossary/?mode=exact&word=dunli)* and *[du
 
 :::jbomupli
 
-|           |                 |        |     |
-| --------- | --------------- | ------ | --- |
-| py.       | du              | xy.boi | zy. |
-| $p$       | is-identical-to | $x$    | $z$ |
-| p = x = z |                 |        |     |
+|     |                 |        |     |
+| --- | --------------- | ------ | --- |
+| py. | du              | xy.boi | zy. |
+| $p$ | is-identical-to | $x$    | $z$ |
 
 :::
+
+$p = x = z$
 
 Lojban bridi can have only one predicate, so the *[du](/glossary/?mode=exact&word=du)* is not repeated.
 
@@ -678,9 +683,10 @@ Any of these selbri may usefully be prefixed with *[na](/glossary/?mode=exact&wo
 | ---------- | --- | ---- | --- | ------ | -------- | ---------- | --- |
 | li         | re  | su'i | re  | na     | du       | li         | mu  |
 | the-number | 2   | +    | 2   | is-not | equal-to | the-number | 5.  |
-| 2 + 2 ≠ 5  |     |      |     |        |          |            |     |
 
 :::
+
+$2 + 2 \ne 5$
 
 As usual in Lojban, negated bridi say what is false, and do not say anything about what might be true.
 
@@ -1188,10 +1194,10 @@ There are some numerical values that require a “base” that varies from digit
 
 :::jbomupli
 
-|         |      |      |      |      |
-| ------- | ---- | ---- | ---- | ---- |
-| ci      | pi'e | rere | pi'e | vono |
-| 3:22:40 |      |      |      |      |
+|     |      |      |      |      |
+| --- | ---- | ---- | ---- | ---- |
+| ci  | pi'e | rere | pi'e | vono |
+| 3   | \:   | 22   | \:   | 40   |
 
 :::
 
@@ -1204,7 +1210,7 @@ Each digit sequence separated by instances of *[pi'e](/glossary/?mode=exact&word
 |            |     |      |      |      |      |      |      |     |      |      |        |            |     |      |      |      |      |
 | ---------- | --- | ---- | ---- | ---- | ---- | ---- | ---- | --- | ---- | ---- | ------ | ---------- | --- | ---- | ---- | ---- | ---- |
 | li         | ci  | pi'e | rere | pi'e | vono | su'i | pi'e | ci  | pi'e | cici | du     | li         | ci  | pi'e | rexa | pi'e | paci |
-| The-number | 3   | :    | 22   | :    | 40   | plus | :    | 3   | :    | 33   | equals | the-number | 3   | :    | 26   | :    | 13.  |
+| The-number | 3   | \:   | 22   | \:   | 40   | plus | \:   | 3   | \:   | 33   | equals | the-number | 3   | \:   | 26   | \:   | 13.  |
 
 :::
 
@@ -1317,8 +1323,8 @@ Some examples:
 
 :::
 
-My rats are three.
-| I have three rats. |
+My rats are three.  
+I have three rats.
 
 Here, the mass of my rats is said to have three components; that is, I have three rats.
 
@@ -1690,9 +1696,10 @@ The infix operators presented so far have always had exactly two operands, and f
 | ---------- | ------ | ---------------- | --- | ------ | ---------- | ---- | ----- | --- |
 | li         | tu'o   | va'a             | ny. | du     | li         | no   | vu'u  | ny. |
 | The-number | (null) | additive-inverse | n   | equals | the-number | zero | minus | n.  |
-| -n = 0 − n |        |                  |     |        |            |      |       |     |
 
 :::
+
+${-n} = 0 - n$
 
 The *[tu'o](/glossary/?mode=exact&word=tu%27o)* fulfills the grammatical requirement for a left operand for the infix use of *[va'a](/glossary/?mode=exact&word=va%27a)*, even though semantically none is needed or wanted.
 
@@ -1773,11 +1780,17 @@ Vectors can be combined into matrices using either *[pi'a](/glossary/?mode=exact
 
 Therefore, the “magic square” matrix
 
-|     |     |     |
-| --- | --- | --- |
-| 8   | 1   | 6   |
-| 3   | 5   | 7   |
-| 4   | 9   | 2   |
+<div class="my-figure">
+
+$
+\begin{pmatrix}
+   8 & 1 & 6 \\
+   3 & 5 & 7 \\
+   4 & 9 & 2
+\end{pmatrix}
+$
+
+</div>
 
 can be represented either as:
 
@@ -2036,13 +2049,14 @@ You can also combine two operands with *[ce'o](/glossary/?mode=exact&word=ce%27o
 
 :::jbomupli
 
-|      |     |     |     |          |     |          |
-| ---- | --- | --- | --- | -------- | --- | -------- |
-| xy.  | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
-| $x$  | sub | (   | $b$ | sequence | $d$ | )        |
-| xb,d |     |     |     |          |     |          |
+|     |     |     |     |          |     |          |
+| --- | --- | --- | --- | -------- | --- | -------- |
+| xy. | xi  | vei | by. | ce'o     | dy. | \[ve'o\] |
+| $x$ | sub | (   | $b$ | sequence | $d$ | )        |
 
 :::
+
+$x_{b,d}$
 
 ## 18.18. Using Lojban resources within mekso
 
@@ -2197,7 +2211,7 @@ Used together, *[nu'a](/glossary/?mode=exact&word=nu%27a)* and *[na'u](/glossary
 
 :::
 
-$2 ? 2 = 4$
+$2 \operatorname{?} 2 = 4$
 
 ##### Example 18.132.
 

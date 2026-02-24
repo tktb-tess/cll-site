@@ -32,25 +32,36 @@ interface Props {}
 
 <style lang="postcss">
   @reference '../styles/globals.css';
-  
-  #to-top-btn {
-    @apply hidden fixed right-5 bottom-5
-    place-content-center p-0.5 rounded size-10
-    cbg-accent opacity-0 any-hover:cbg-accent-hover
-    transition-[background-color,opacity,display]
-    allow-discrete duration-200;
+  @layer components {
+    #to-top-btn {
+      @apply hidden fixed right-5 bottom-5
+      place-content-center p-0.5 rounded size-10
+      cbg-accent opacity-0 any-hover:cbg-accent-hover
+      transition-[background-color,opacity,display]
+      allow-discrete duration-200;
 
-    &[data-visible] {
-      @apply grid opacity-100;
+      &[data-visible] {
+        @apply grid opacity-100;
 
-      @starting-style {
-        @apply opacity-0;
+        @starting-style {
+          @apply opacity-0;
+        }
       }
     }
 
     .__arrow {
-      @apply size-2 border-l-2 border-t-2 cborder-text-inv;
-      transform: translateY(calc(var(--spacing) * 0.6)) rotateZ(45deg);
+      @apply size-2 border-l-2 border-t-2 cborder-text-inv transition-transform ease-in-out-1;
+      transform: translateY(2px) rotateZ(45deg);
+
+      @media (any-hover: hover) {
+        :where(#to-top-btn):hover & {
+          transform: translateY(0px) rotateZ(45deg);
+        }
+      }
+
+      :where(#to-top-btn):focus-visible & {
+        transform: translateY(0px) rotateZ(45deg);
+      }
     }
   }
 </style>

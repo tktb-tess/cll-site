@@ -62,10 +62,9 @@ const { url } = Astro.props;
   const drawerCloseBtn = document.getElementById('drawer-close-btn');
   const drawer = document.getElementById('drawer');
 
-  const waitAnimationEnd = async (elem: HTMLElement) => {
+  const waitFinishAnimation = async (elem: HTMLElement) => {
     const anims = elem.getAnimations();
-    if (anims.length === 0) return;
-    await Promise.allSettled(anims.map((a) => a.finished));
+    return Promise.allSettled(anims.map((a) => a.finished));
   };
 
   if (
@@ -93,7 +92,7 @@ const { url } = Astro.props;
     const animations = drawer.getAnimations();
     if (animations.length === 0) return;
 
-    await waitAnimationEnd(drawer);
+    await waitFinishAnimation(drawer);
 
     requestAnimationFrame(() => {
       drawerCloseBtn.focus();
@@ -104,7 +103,7 @@ const { url } = Astro.props;
     if (ev.target !== ev.currentTarget) return;
     ev.preventDefault();
     delete drawerBackdrop.dataset.drawerOpen;
-    await waitAnimationEnd(drawer);
+    await waitFinishAnimation(drawer);
 
     requestAnimationFrame(() => {
       drawerOpenBtn.focus();
@@ -114,7 +113,7 @@ const { url } = Astro.props;
   drawerCloseBtn.addEventListener('click', async (ev) => {
     ev.preventDefault();
     delete drawerBackdrop.dataset.drawerOpen;
-    await waitAnimationEnd(drawer);
+    await waitFinishAnimation(drawer);
 
     requestAnimationFrame(() => {
       drawerOpenBtn.focus();

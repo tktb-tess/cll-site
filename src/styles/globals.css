@@ -289,7 +289,7 @@
   }
 
   table {
-    @apply w-max max-w-full me-auto grid;
+    @apply w-max max-w-full me-auto;
     overflow-wrap: revert;
 
     :where(thead > tr:last-child) {
@@ -353,5 +353,9 @@
         @apply italic;
       }
     }
+  }
+
+  td:has(.katex) {
+    @apply overflow-clip;
   }
 }
