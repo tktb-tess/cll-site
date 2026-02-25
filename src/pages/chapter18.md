@@ -212,11 +212,10 @@ It is also possible to have less than three digits between successive *[ki'o](/g
 
 :::jbomupli
 
-|           |       |     |       |       |      |
-| --------- | ----- | --- | ----- | ----- | ---- |
-| pa        | ki'o  | re  | ci    | ki'o  | vo   |
-| one       | comma | two | three | comma | four |
-| 1,023,004 |       |     |       |       |      |
+|     |       |     |       |       |      |
+| --- | ----- | --- | ----- | ----- | ---- |
+| pa  | ki'o  | re  | ci    | ki'o  | vo   |
+| one | comma | two | three | comma | four |
 
 :::
 
@@ -379,9 +378,9 @@ Let us begin at the beginning: one plus one equals two. In Lojban, that sentence
 | li         | pa  | su'i | pa  | du     | li         | re   |
 | The-number | one | plus | one | equals | the-number | two. |
 
-$1 + 1 = 2$
-
 :::
+
+$1 + 1 = 2$
 
 [Example 18.22](/chapter18/#example-1822 "Example 18.22."), a mekso sentence, is a regular Lojban bridi that exploits mekso features. *[du](/glossary/?mode=exact&word=du)* is the predicate meaning “x1 is mathematically equal to x2”. It is a cmavo for conciseness, but it has the same grammatical uses as any brivla. Outside mathematical contexts, *[du](/glossary/?mode=exact&word=du)* means “x1 is identical with x2” or “x1 is the same object as x2”.
 
@@ -894,7 +893,7 @@ As mentioned in [Section 18.3](/chapter18/#183-signs-and-numerical-punctuation "
 |            |     |      |     |     |     |                      |
 | ---------- | --- | ---- | --- | --- | --- | -------------------- |
 | li         | ci  | vu'u | re  | du  | li  | ma'u                 |
-| the-number | 3   | −    | 2   | =   |     | some-positive-number |
+| the-number | $3$ | $-$  | $2$ | $=$ |     | some-positive-number |
 
 :::
 
@@ -905,7 +904,7 @@ As mentioned in [Section 18.3](/chapter18/#183-signs-and-numerical-punctuation "
 |            |     |      |     |     |     |                      |
 | ---------- | --- | ---- | --- | --- | --- | -------------------- |
 | li         | ci  | vu'u | vo  | du  | li  | ni'u                 |
-| the-number | 3   | −    | 4   | =   |     | some-negative-number |
+| the-number | $3$ | $-$  | $4$ | $=$ |     | some-negative-number |
 
 :::
 
@@ -990,7 +989,7 @@ The cmavo *[ji'i](/glossary/?mode=exact&word=ji%27i)* (of selma'o PA) is used in
 
 :::
 
-approximately 40
+approximately $40$
 
 If *[ji'i](/glossary/?mode=exact&word=ji%27i)* appears in the middle of a number, all the digits following it are approximate:
 
@@ -1005,7 +1004,7 @@ If *[ji'i](/glossary/?mode=exact&word=ji%27i)* appears in the middle of a number
 
 :::
 
-roughly 4050 (where the “four thousand” is exact, but the “fifty” is approximate)
+roughly $4050$ (where the “four thousand” is exact, but the “fifty” is approximate)
 
 If *[ma'u](/glossary/?mode=exact&word=ma%27u)* or *[ni'u](/glossary/?mode=exact&word=ni%27u)*), which indicate truncation towards positive or negative infinity respectively.
 
@@ -1020,7 +1019,7 @@ If *[ma'u](/glossary/?mode=exact&word=ma%27u)* or *[ni'u](/glossary/?mode=exact&
 
 :::
 
-2.72 (rounded)
+$2.72$ (rounded)
 
 ##### Example 18.63.
 
@@ -1033,7 +1032,7 @@ If *[ma'u](/glossary/?mode=exact&word=ma%27u)* or *[ni'u](/glossary/?mode=exact&
 
 :::
 
-2.72 (rounded up)
+$2.72$ (rounded up)
 
 ##### Example 18.64.
 
@@ -1046,7 +1045,7 @@ If *[ma'u](/glossary/?mode=exact&word=ma%27u)* or *[ni'u](/glossary/?mode=exact&
 
 :::
 
-2.71 (rounded down)
+$2.71$ (rounded down)
 
 [Example 18.62](/chapter18/#example-1862 "Example 18.62.") through [Example 18.64](/chapter18/#example-1864 "Example 18.64.") are all approximations to *[te'o](/glossary/?mode=exact&word=te%27o)* (exponential e). *[ji'i](/glossary/?mode=exact&word=ji%27i)* can also appear by itself, in which case it means “approximately the typical value in this context”.
 
@@ -1516,7 +1515,7 @@ It is also grammatical to substitute a lerfu string for a number:
 
 :::
 
-That is my $n$-th rat.
+That is my *n*-th rat.
 
 More complex mekso cannot be placed directly in front of MOI, due to the resulting grammatical ambiguities. Instead, a somewhat artificial form of expression is required.
 
@@ -1533,7 +1532,7 @@ The cmavo *[me](/glossary/?mode=exact&word=me)* (of selma'o ME) has the function
 
 :::
 
-That is my $(n+1)$-th rat.
+That is my (*n*+1)-th rat.
 
 Here the mekso *ny. su'i pa* is made into a sumti (with *[li](/glossary/?mode=exact&word=li)*) and then changed into a mekso selbri with *[me](/glossary/?mode=exact&word=me)* and *me'u moi*. The elidable terminator *[me'u](/glossary/?mode=exact&word=me%27u)* is required here in order to keep the *[pa](/glossary/?mode=exact&word=pa)* and the *[moi](/glossary/?mode=exact&word=moi)* separate; otherwise, the parser will combine them into the compound *[pamoi](/glossary/?mode=exact&word=pamoi)* and reject the sentence as ungrammatical.
 
@@ -1632,13 +1631,17 @@ Subscripts always begin with the flag *[xi](/glossary/?mode=exact&word=xi)* (of 
 
 ##### Example 18.99.
 
-- xy.boixino
+|            |
+| ---------- |
+| xy.boixino |
 
 $x_0$
 
 ##### Example 18.100.
 
-- xy.boixiny.
+|             |
+| ----------- |
+| xy.boixiny. |
 
 $x_n$
 
@@ -1692,10 +1695,10 @@ The infix operators presented so far have always had exactly two operands, and f
 
 :::jbomupli
 
-|            |        |                  |     |        |            |      |       |     |
-| ---------- | ------ | ---------------- | --- | ------ | ---------- | ---- | ----- | --- |
-| li         | tu'o   | va'a             | ny. | du     | li         | no   | vu'u  | ny. |
-| The-number | (null) | additive-inverse | n   | equals | the-number | zero | minus | n.  |
+|            |        |                  |     |        |            |      |       |      |
+| ---------- | ------ | ---------------- | --- | ------ | ---------- | ---- | ----- | ---- |
+| li         | tu'o   | va'a             | ny. | du     | li         | no   | vu'u  | ny.  |
+| The-number | (null) | additive-inverse | $n$ | equals | the-number | zero | minus | $n$. |
 
 :::
 
@@ -2366,14 +2369,14 @@ The sense in which “plus” is the opposite of “minus” is not a mathematic
 
 :::jbomupli
 
-|            |     |      |     |        |            |        |     |
-| ---------- | --- | ---- | --- | ------ | ---------- | ------ | --- |
-| li         | re  | su'i | re  | du     | li         | na'ebo | mu  |
-| The-number | 2   | plus | 2   | equals | the-number | non-   | 5.  |
+|            |     |      |     |        |            |        |      |
+| ---------- | --- | ---- | --- | ------ | ---------- | ------ | ---- |
+| li         | re  | su'i | re  | du     | li         | na'ebo | mu   |
+| The-number | $2$ | plus | $2$ | equals | the-number | non-   | $5$. |
 
 :::
 
-2 + 2 = something other than 5.
+$2 + 2 =$ something other than $5$.
 
 The digits 0-9 have rafsi, and therefore can be used in making lujvo. Additionally, all the rafsi have CVC form and can stand alone or together as names:
 
