@@ -176,7 +176,6 @@
   transition-behavior: allow-discrete;
 }
 
-
 @layer base {
   * {
     @apply font-[unset];
