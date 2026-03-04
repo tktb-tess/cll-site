@@ -42,7 +42,7 @@ const { currentUrl, class: className } = Astro.props;
     
     a {
       @apply block no-underline ctext-text
-      any-hover:cbg-accent any-hover:ctext-text-inv px-3 py-1.5 transition-colors rounded;
+      hover-focus:cbg-accent hover-focus:ctext-text-inv px-3 py-1.5 transition-colors rounded;
 
       &[aria-current="true"] {
         @apply cbg-accent ctext-text-inv;

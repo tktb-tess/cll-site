@@ -76,7 +76,7 @@
     transparent
   );
 
-  --default-transition-duration: 110ms;
+  --default-transition-duration: 90ms;
 
   --spacing-paragraph: 0.75rem;
   --spacing-heading: 2.5rem;
@@ -86,11 +86,11 @@
   --spacing-max-main: 80rem;
   --spacing-header: 3rem;
 
+  --default-transition-timing-function: cubic-bezier(0.25, 0, 0.1, 1);
   --ease-in-1: cubic-bezier(0.5, 0, 1, 0.5);
   --ease-out-1: cubic-bezier(0, 0.5, 0.5, 1);
-  --ease-in-out-1: cubic-bezier(0, 0.25, 0.1, 1);
+  --ease-in-out-1: cubic-bezier(0.25, 0, 0.1, 1);
 
-  --z-drawer: 1000;
   --z-header: 100;
   --z-sidebar: 0;
 }
@@ -126,7 +126,7 @@
   }
 }
 
-@custom-variant any-hover {
+@custom-variant hover-focus {
   &:hover {
     @media (any-hover: hover) {
       @slot;
@@ -136,6 +136,18 @@
   &:focus-visible {
     @slot;
   }
+}
+
+@custom-variant any-hover {
+  &:hover {
+    @media (any-hover: hover) {
+      @slot;
+    }
+  }
+}
+
+@utility z-* {
+  z-index: --value(--z-*);
 }
 
 @utility font-feat-* {
@@ -176,17 +188,21 @@
   transition-behavior: allow-discrete;
 }
 
-
 @layer base {
-  * {
-    @apply font-[unset];
-  }
-
   :root {
+    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans antialiased;
     -webkit-tap-highlight-color: revert;
-    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans;
     line-break: strict;
     scrollbar-gutter: stable;
+  }
+
+  dialog,
+  dialog::backdrop {
+    @apply size-[unset] max-w-[unset] max-h-[unset] inset-[unset] fixed overscroll-contain overflow-auto;
+  }
+
+  :is(:root, body):where(:has(dialog[open])) {
+    @apply overflow-y-clip;
   }
 
   body {
@@ -194,7 +210,7 @@
   }
 
   a:where(:any-link:not([aria-disabled='true'])) {
-    @apply any-hover:underline ctext-link;
+    @apply hover-focus:underline ctext-link;
   }
 
   a:where([aria-disabled='true']) {
@@ -235,7 +251,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-1.5 text-balance font-feat-tnum;
+    @apply text-3xl border-b cborder-border ps-1 pb-1 text-balance font-feat-tnum;
   }
 
   h3 {
@@ -291,38 +307,21 @@
 
   table {
     @apply grid w-max max-w-full me-auto my-figure overflow-auto;
-    overflow-wrap: revert;
-    grid-template-rows: repeat(
-      calc(var(--rows-head, 0) + var(--rows-body, 1)),
-      auto
-    );
     grid-template-columns: repeat(var(--cols, 1), auto);
 
     :where(thead, tbody, tr) {
-      @apply grid grid-cols-subgrid grid-rows-subgrid col-span-full;
-    }
-
-    :where(thead) {
-      @apply row-span-(--rows-head,0);
-    }
-
-    :where(tbody) {
-      @apply row-span-(--rows-body,1);
-    }
-
-    :where(tr) {
-      @apply row-span-1;
+      @apply contents;
     }
 
     :where(td, th) {
-      @apply block py-1 px-2 col-span-(--colspan,1) self-center;
+      @apply block py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1) self-center;
     }
 
-    :where(thead > tr:last-child) {
+    :where(thead > tr:last-child > :is(td, th)) {
       @apply border-b-3 border-double cborder-border-darker;
     }
 
-    :where(tr:not(:last-child)) {
+    :where(tr:not(:last-child) > :is(td, th)) {
       @apply border-b cborder-border;
     }
   }

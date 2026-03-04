@@ -98,16 +98,16 @@ const contents = getContents();
 <html lang='en'>
   <Head title={shortTitle} {url} description={frontmatter.description} />
   <body>
-    <header>
+    <header class='header'>
       <MyHeader />
     </header>
-    <aside class='__lside'>
-      <div class='__sidebar-root'>
+    <aside class='lside'>
+      <div class='sidebar-root'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
     <Drawer {url} />
-    <main aria-labelledby='title'>
+    <main class='main' aria-labelledby='title'>
       <h1 id='title'>{frontmatter.title}</h1>
       {
         imgData && (
@@ -116,12 +116,12 @@ const contents = getContents();
       }
       <slot />
     </main>
-    <aside class='__rside'>
-      <div class='__sidebar-root px-3'>
+    <aside class='rside'>
+      <div class='sidebar-root px-3'>
         <Toc {contents} isAside />
       </div>
     </aside>
-    <footer>
+    <footer class='footer'>
       <MyFooter />
     </footer>
     <ToTopBtn />
@@ -146,35 +146,35 @@ const contents = getContents();
       grid-template-rows: auto 1fr auto;
     }
 
-    header {
-      @apply h-header sticky top-0 z-(--z-header);
+    .header {
+      @apply h-header sticky top-0 z-header;
       grid-area: h;
     }
 
-    .__lside {
+    .lside {
       grid-area: l;
     }
 
-    .__rside {
+    .rside {
       grid-area: r;
     }
 
-    .__lside, .__rside {
+    .lside, .rside {
       @apply max-lg:hidden;
     }
 
-    .__sidebar-root {
+    .sidebar-root {
       @apply h-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
-      top-header z-(--z-sidebar) px-1 py-2;
+      top-header z-sidebar px-1 py-2;
       scrollbar-width: thin;
     }
 
-    main {
+    .main {
       @apply flow-root cbg-bg px-4 pb-8 min-h-lvh;
       grid-area: m;
     }
 
-    footer {
+    .footer {
       @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
       grid-area: f;
     }
