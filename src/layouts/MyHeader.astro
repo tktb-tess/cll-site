@@ -4,7 +4,7 @@ import ListIcon from '../assets/ListIcon.svg';
 interface Props {}
 ---
 
-<nav class='header'>
+<nav class='header-nav'>
   <button type='button' id='drawer-open-btn' title='Open sidemenu'>
     <ListIcon class='size-6 inline-block' />
   </button>
@@ -17,18 +17,18 @@ interface Props {}
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    .header {
+    .header-nav {
       @apply flex h-full items-center *:m-0 *:min-w-0 gap-2 px-6 cbg-side;
     }
 
     #drawer-open-btn {
       @apply grid lg:hidden h-full place-items-center px-1
-      any-hover:cbg-accent any-hover:ctext-text-inv transition-colors;
+      hover-focus:cbg-accent hover-focus:ctext-text-inv transition-colors;
     }
 
     .__logo {
       @apply flex gap-1 no-underline items-center h-full ctext-accent
-      any-hover:cbg-accent any-hover:ctext-text-inv transition-colors ps-1 pe-2;
+      hover-focus:cbg-accent hover-focus:ctext-text-inv transition-colors ps-1 pe-2;
     }
   }
 </style>
