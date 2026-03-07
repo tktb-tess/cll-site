@@ -55,7 +55,7 @@
     });
   });
 
-  onMount(async () => {
+  onMount(() => {
     const url = new URL(document.URL);
     const mode = url.searchParams.get('mode');
     if (isMode(mode)) searchMode = mode;
