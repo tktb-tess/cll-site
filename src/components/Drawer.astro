@@ -62,7 +62,8 @@ const { url } = Astro.props;
       @apply grid place-items-center size-9 transition-colors
       hover-focus:cbg-accent hover-focus:ctext-text-inv rounded leading-none;
 
-      &::before, &::after {
+      &::before,
+      &::after {
         content: '';
         @apply col-span-full row-span-full w-5 border-b border-current;
       }
