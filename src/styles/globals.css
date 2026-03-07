@@ -91,6 +91,7 @@
   --ease-out-1: cubic-bezier(0, 0.5, 0.5, 1);
   --ease-in-out-1: cubic-bezier(0.25, 0, 0.1, 1);
 
+  --z-infty: calc(infinity);
   --z-header: 100;
   --z-sidebar: 0;
 }
@@ -198,7 +199,7 @@
 
   dialog,
   dialog::backdrop {
-    @apply size-[unset] max-w-[unset] max-h-[unset] inset-[unset] fixed overscroll-contain overflow-auto;
+    @apply size-[unset] max-w-[unset] max-h-[unset] inset-0 fixed overflow-auto;
   }
 
   :is(:root, body):where(:has(dialog[open])) {
@@ -314,7 +315,7 @@
     }
 
     :where(td, th) {
-      @apply block py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1) self-center;
+      @apply grid place-items-center-safe py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1);
     }
 
     :where(thead > tr:last-child > :is(td, th)) {

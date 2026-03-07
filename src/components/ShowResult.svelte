@@ -6,16 +6,18 @@
   }
 
   const { results }: Props = $props();
+
+  const foundText = $derived.by(() => {
+    const len = results.length;
+    const num = len ? `${len}` : 'No';
+    const word = len === 1 ? 'word' : 'words';
+    return `${num} ${word} found`;
+  });
 </script>
 
 <section class="__results" aria-labelledby="search-results">
-  {#if results.length > 0}
-    <h2 id="search-results">Search Results</h2>
-    <p id="match-num">
-      {results.length}
-      {results.length === 1 ? 'word' : 'words'} found
-    </p>
-  {/if}
+  <h2 id="search-results">Search Results</h2>
+  <p id="match-num">{foundText}</p>
   {#each results as result}
     <div>
       <h4>{result.word}</h4>
