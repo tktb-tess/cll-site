@@ -156,7 +156,7 @@
 }
 
 @utility user-select-* {
-  user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
+  user-select: --value('none', 'auto', 'text', 'all', [*]);
 }
 
 @utility cols-auto-fill-* {
@@ -218,7 +218,8 @@
     @apply ctext-link-disabled pointer-events-none;
   }
 
-  button {
+  button,
+  input:where([type='button']) {
     @apply cursor-pointer;
   }
 
@@ -315,7 +316,11 @@
     }
 
     :where(td, th) {
-      @apply grid place-items-center-safe py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1);
+      @apply grid items-center-safe py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1);
+    }
+
+    :where(th) {
+      @apply text-center;
     }
 
     :where(thead > tr:last-child > :is(td, th)) {
