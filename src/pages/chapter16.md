@@ -313,9 +313,9 @@ and
 
 :::
 
-Every dog breathes.
-| Each dog breathes.  |
-| All dogs breathe.   |
+Every dog breathes.  
+Each dog breathes.  
+All dogs breathe.
 
 [Example 16.22](/chapter16/#example-1622 "Example 16.22.") is a silly falsehood, but [Example 16.23](/chapter16/#example-1623 "Example 16.23.") is an important truth (at least if applied in a timeless or potential sense: see [Section 10.19](/chapter10/#1019-actuality-potentiality-capability-caha "10.19. Actuality, potentiality, capability: CAhA")). Note the various colloquial translations “every dog”, “each dog”, and “all dogs”. They all come to the same thing in Lojban, since what is true of every dog is true of all dogs. “All dogs” is treated as an English plural and the others as singular, but Lojban makes no distinction.
 
@@ -790,8 +790,8 @@ As explained in [Section 15.2](/chapter15/#152-bridi-negation "15.2. bridi negat
 
 :::
 
-It is false that I go to the store.
-| I don't go to the store.            |
+It is false that I go to the store.  
+I don't go to the store.
 
 The other form of bridi negation is expressed by using the compound cmavo *naku* in the prenex, which is identified and compounded by the lexer before looking at the sentence grammar. In Lojban grammar, *naku* is then treated like a sumti. In a prenex, *naku* means precisely the same thing as the logician's “it is not the case that” in a similar English context. (Outside of a prenex, *naku* is also grammatically treated as a single entity – the equivalent of a sumti – but does not have this exact meaning; we'll discuss these other situations in [Section 16.11](/chapter16/#1611-using-naku-outside-a-prenex "16.11. Using naku outside a prenex").)
 
@@ -824,8 +824,8 @@ However, *naku* can appear at other points in the prenex as well. Compare
 
 :::
 
-It is false that something sits.
-| Nothing sits.                    |
+It is false that something sits.  
+Nothing sits.
 
 with
 
@@ -885,8 +885,8 @@ The simplest form of bridi negation to interpret is one where the negation term 
 
 :::
 
-It is false that: everybody loves at least one thing.
-| (At least) someone doesn't love anything.             |
+It is false that: everybody loves at least one thing.  
+(At least) someone doesn't love anything.
 
 the negation of [Example 16.61](/chapter16/#example-1661 "Example 16.61."), and
 
@@ -901,8 +901,8 @@ the negation of [Example 16.61](/chapter16/#example-1661 "Example 16.61."), and
 
 :::
 
-It is false that: there is at least one thing that is loved by everybody.
-| There isn't any one thing that everybody loves.                           |
+It is false that: there is at least one thing that is loved by everybody.  
+There isn't any one thing that everybody loves.
 
 the negation of [Example 16.62](/chapter16/#example-1662 "Example 16.62.").
 

@@ -670,51 +670,87 @@ The following shows the variations resulting from intensity variation:
 
 ##### Example 13.42.
 
-.ei
+:::jbomupli
+
+|                |
+| -------------- |
+| .ei            |
 | \[obligation\] |
 
+:::
+
 I ought to
-| (a non-specific obligation) |
+(a non-specific obligation)
 
 ##### Example 13.43.
 
-.eicai
+:::jbomupli
+
+|                        |
+| ---------------------- |
+| .eicai                 |
 | \[obligation-maximal\] |
 
-I shall/must
-| (an intense obligation or requirement, possibly a formal one) |
+:::
+
+I shall/must  
+(an intense obligation or requirement, possibly a formal one)
 
 ##### Example 13.44.
 
-.eisai
+:::jbomupli
+
+|                       |
+| --------------------- |
+| .eisai                |
 | \[obligation-strong\] |
 
-I should
-| (a strong obligation or necessity, possibly an implied but not formal requirement) |
+:::
+
+I should  
+(a strong obligation or necessity, possibly an implied but not formal requirement)
 
 ##### Example 13.45.
 
-.eiru'e
+:::jbomupli
+
+|                     |
+| ------------------- |
+| .eiru'e             |
 | \[obligation-weak\] |
 
-I might
-| (a weak obligation in English often mixed with permission and desire) |
+:::
+
+I might  
+(a weak obligation in English often mixed with permission and desire)
 
 ##### Example 13.46.
 
-.eicu'i
+:::jbomupli
+
+|                        |
+| ---------------------- |
+| .eicu'i                |
 | \[obligation-neutral\] |
 
-No matter
-| (no particular obligation) |
+:::
+
+No matter  
+(no particular obligation)
 
 ##### Example 13.47.
 
-.einai
+:::jbomupli
+
+|                    |
+| ------------------ |
+| .einai             |
 | \[obligation-not\] |
 
-I need not
-| (a non-obligation) |
+:::
+
+I need not  
+(a non-obligation)
 
 You can also utter a scale indicator without a specific emotion. This is often used in the language: in order to emphasize a point about which you feel strongly, you mark what you are saying with the scale indicator *[cai](/glossary/?mode=exact&word=cai)*. You could also indicate that you don't care using *[cu'i](/glossary/?mode=exact&word=cu%27i)* by itself.
 
@@ -857,15 +893,27 @@ The cmavo *[se'i](/glossary/?mode=exact&word=se%27i)* expresses the difference b
 
 ##### Example 13.52.
 
-.ause'i
+:::jbomupli
+
+|                 |
+| --------------- |
+| .ause'i         |
 | \[desire-self\] |
+
+:::
 
 I want it!
 
 ##### Example 13.53.
 
-.ause'inai
+:::jbomupli
+
+|                  |
+| ---------------- |
+| .ause'inai       |
 | \[desire-other\] |
+
+:::
 
 I want you to have it!
 

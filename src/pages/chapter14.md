@@ -258,8 +258,8 @@ This can be thought of as a principle of consistency, and may be paraphrased as 
 
 :::
 
-John is a man only if James is a woman.
-| If John is a man, then James is a woman. |
+John is a man only if James is a woman.  
+If John is a man, then James is a woman.
 
 The following example illustrates the use of *[se](/glossary/?mode=exact&word=se)* to, in effect, exchange the two sentences. The normal use of *[se](/glossary/?mode=exact&word=se)* is to (in effect) transpose places of a bridi, as explained in [Section 5.11](/chapter05/#511-conversion-of-simple-selbri "5.11. Conversion of simple selbri").
 
@@ -399,8 +399,8 @@ Causality is discussed in far more detail in [Section 9.7](/chapter09/#97-modal-
 
 :::
 
-John is not a man if and only if James is a woman.
-| Either John is a man or James is a woman but not both. |
+John is not a man if and only if James is a woman.  
+Either John is a man or James is a woman but not both.
 
 How can the second bridi be negated? By adding *-nai* to the *[gi](/glossary/?mode=exact&word=gi)*.
 
@@ -414,8 +414,8 @@ How can the second bridi be negated? By adding *-nai* to the *[gi](/glossary/?mo
 
 :::
 
-John is a man if and only if James is not a woman.
-| Either John is a man or James is a woman but not both. |
+John is a man if and only if James is not a woman.  
+Either John is a man or James is a woman but not both. 
 
 A compound cmavo based on *[gi](/glossary/?mode=exact&word=gi)* is called a gik; the only giks are *[gi](/glossary/?mode=exact&word=gi)* itself and *[nai](/glossary/?mode=exact&word=nai)*.
 
@@ -1536,8 +1536,8 @@ There are natural languages, notably Chinese, which employ the Lojbanic form of 
 
 ##### Example 14.106.
 
-*ni3 zou3 hai2shi pao3*
-| You walk \[or?\] run?   |
+*ni3 zou3 hai2shi pao3*  
+You walk \[or?\] run?
 
 means “Do you walk or run?”, and is exactly parallel to the Lojban:
 
@@ -1980,8 +1980,14 @@ Do you want coffee or tea?
 
 ##### Example 14.137.
 
-joi
+:::jbomupli
+
+|                 |
+| --------------- |
+| joi             |
 | Mixed-mass-and. |
+
+:::
 
 Both as a mass (i.e, mixed together).
 

@@ -1929,8 +1929,8 @@ Similarly, a bridi may have the particle *[na](/glossary/?mode=exact&word=na)* (
 
 :::
 
-It is not true that Jones is the first speaker.
-| Jones isn't the first speaker. |
+It is not true that Jones is the first speaker.  
+Jones isn't the first speaker.
 
 Jones may be the second speaker, or not a speaker at all; [Example 5.128](/chapter05/#example-5128 "Example 5.128.") doesn't say. There are other ways of expressing bridi negation as well; the topic is explained fully in [Chapter 15](/chapter15/ "Chapter 15. “No” Problems: On Lojban Negation").
 
@@ -1946,8 +1946,8 @@ Various combinations of tense and bridi negation cmavo are permitted. If both ar
 
 :::
 
-It is false that I went to the market.
-| I didn't go to the market. |
+It is false that I went to the market.  
+I didn't go to the market.
 
 It is also possible to have more than one *[na](/glossary/?mode=exact&word=na)* , in which case pairs of *[na](/glossary/?mode=exact&word=na)* cmavo cancel out:
 

@@ -579,8 +579,8 @@ because “blueness” could be measured with a colorimeter or a similar device.
 
 :::
 
-the amount of Jane's mother-ness (?)
-| the amount of mother-ness in Jane (?) |
+the amount of Jane's mother-ness (?)  
+the amount of mother-ness in Jane (?)
 
 makes very little sense in either Lojban or English. We simply do not have any sort of measurement scale for being a mother.
 
@@ -614,8 +614,8 @@ There are contexts where either property or amount abstractions make sense, and 
 
 :::
 
-The picture varies in being blue.
-| The picture varies in blueness.   |
+The picture varies in being blue.  
+The picture varies in blueness.
 
 is not the same as
 
@@ -630,8 +630,8 @@ is not the same as
 
 :::
 
-The picture varies in how blue it is.
-| The picture varies in blueness.       |
+The picture varies in how blue it is.  
+The picture varies in blueness.
 
 [Example 11.37](/chapter11/#example-1137 "Example 11.37.") conveys that the blueness comes and goes, whereas [Example 11.38](/chapter11/#example-1138 "Example 11.38.") conveys that its quantity changes over time.
 
@@ -848,8 +848,8 @@ In [Example 11.52](/chapter11/#example-1152 "Example 11.52."), we have chosen to
 
 :::
 
-I know who went to the store, namely John.
-| I know that it was John who went to the store. |
+I know who went to the store, namely John.  
+I know that it was John who went to the store.
 
 Using one of the indefinite pro-sumti such as *[ma](/glossary/?mode=exact&word=ma)*, *[zo'e](/glossary/?mode=exact&word=zo%27e)*, or *[da](/glossary/?mode=exact&word=da)* does not suggest any particular value.
 

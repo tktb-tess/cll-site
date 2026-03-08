@@ -112,8 +112,8 @@ becomes:
 
 :::
 
-Make “you go to the store” true!
-| Go to the store!                 |
+Make “you go to the store” true!  
+Go to the store!
 
 In English, the subject of a command is omitted, but in Lojban, the word *[ko](/glossary/?mode=exact&word=ko)* must be used. However, *[ko](/glossary/?mode=exact&word=ko)* does not have to appear in the x1 place:
 
@@ -128,8 +128,8 @@ In English, the subject of a command is omitted, but in Lojban, the word *[ko](/
 
 :::
 
-Make “I see you” true!
-| Be seen by me!         |
+Make “I see you” true!  
+Be seen by me!
 
 In [Example 7.9](/chapter07/#example-79 "Example 7.9."), it is necessary to make the verb passive in English in order to convey the effect of *[ko](/glossary/?mode=exact&word=ko)* in the x2 place. Indeed, *[ko](/glossary/?mode=exact&word=ko)* does not even have to be a sumti of the main bridi:
 
@@ -144,9 +144,9 @@ In [Example 7.9](/chapter07/#example-79 "Example 7.9."), it is necessary to make
 
 :::
 
-Make “I see the person that loves you” true!
-| Be such that the person who loves you is seen by me! |
-| Show me the person who loves you!                    |
+Make “I see the person that loves you” true!  
+Be such that the person who loves you is seen by me!  
+Show me the person who loves you!
 
 As mentioned in [Section 7.1](/chapter07/#71-what-are-pro-sumti-and-pro-bridi-what-are-they-for "7.1. What are pro-sumti and pro-bridi? What are they for?"), some pro-sumti series have corresponding pro-bridi series. However, there is no equivalent of the mi-series among pro-bridi, since a person isn't a relationship.
 

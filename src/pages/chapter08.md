@@ -45,8 +45,8 @@ In between the *[poi](/glossary/?mode=exact&word=poi)* and the *[ku'o](/glossary
 
 :::
 
-This thing which is a person is big.
-| This person is big.                  |
+This thing which is a person is big.  
+This person is big.
 
 ##### Example 8.3.
 
@@ -59,8 +59,8 @@ This thing which is a person is big.
 
 :::
 
-This thing which is a nose is big.
-| This nose is big.                  |
+This thing which is a nose is big.  
+This nose is big.
 
 ##### Example 8.4.
 
@@ -73,8 +73,8 @@ This thing which is a nose is big.
 
 :::
 
-These things which are nose-pores are big.
-| These nose-pores are big.                  |
+These things which are nose-pores are big.  
+These nose-pores are big.
 
 In the literal translations throughout this chapter, the word “IT”, capitalized, is used to represent the cmavo *[ke'a](/glossary/?mode=exact&word=ke%27a)*. In each case, it serves to represent the sumti (in [Example 8.2](/chapter08/#example-82 "Example 8.2.") through [Example 8.4](/chapter08/#example-84 "Example 8.4."), the cmavo *[ti](/glossary/?mode=exact&word=ti)*) to which the relative clause is attached.
 
@@ -91,8 +91,8 @@ Of course, there is no reason why *[ke'a](/glossary/?mode=exact&word=ke%27a)* ne
 
 :::
 
-That thing which the cat dragged is a rat.
-| What the cat dragged is a rat.             |
+That thing which the cat dragged is a rat.  
+What the cat dragged is a rat.
 
 ##### Example 8.6.
 
@@ -251,8 +251,8 @@ In [Example 8.15](/chapter08/#example-815 "Example 8.15."), the speaker is presu
 
 :::
 
-Do you see my car that is white?
-| Do you see my white car?         |
+Do you see my car that is white?  
+Do you see my white car?
 
 Here the speaker probably has several cars, and is restricting the referent of the sumti *le mi karce* (and thereby the listener's attention) to the white one only. [Example 8.16](/chapter08/#example-816 "Example 8.16.") means much the same as [Example 8.17](/chapter08/#example-817 "Example 8.17."), which does not use a relative clause:
 
