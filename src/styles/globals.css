@@ -373,6 +373,10 @@
     }
   }
 
+  .jbomupli-for-sr {
+    @apply sr-only!;
+  }
+
   td:has(.katex) {
     @apply overflow-clip;
   }

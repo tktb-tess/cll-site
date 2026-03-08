@@ -333,8 +333,8 @@ The cmavo *[fi'a](/glossary/?mode=exact&word=fi%27a)* also belongs to selma'o FA
 
 :::
 
-In what way are you involved in the giving of this rose?
-| Are you the giver or the receiver of this rose?          |
+In what way are you involved in the giving of this rose?  
+Are you the giver or the receiver of this rose?
 
 In [Example 9.17](/chapter09/#example-917 "Example 9.17."), the speaker uses the selbri *[dunda](/glossary/?mode=exact&word=dunda)* , whose place structure is:
 
@@ -392,8 +392,8 @@ Consider the following pair of examples:
 
 :::
 
-Boston is my destination.
-| Boston is gone to by me.  |
+Boston is my destination.  
+Boston is gone to by me.
 
 ##### Example 9.19.
 

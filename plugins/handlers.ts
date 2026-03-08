@@ -110,8 +110,6 @@ export const tableHandler: Handler = (_, node: Table) => {
     children: bodyTrs,
   };
 
-  const rowsHead = thead?.children.length ?? 0;
-  const rowsBody = bodyTrs.length;
   const cols = bodyTrs
     .map((tr) => tr.children.length)
     .reduce((p, c) => Math.max(p, c), 1);
@@ -120,7 +118,7 @@ export const tableHandler: Handler = (_, node: Table) => {
     type: 'element',
     tagName: 'table',
     properties: {
-      style: `--rows-head: ${rowsHead}; --rows-body: ${rowsBody}; --cols: ${cols};`,
+      style: `--cols: ${cols};`,
     },
     children: thead ? [thead, tbody] : [tbody],
   };
@@ -142,13 +140,14 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
       const trs = table.children.slice(1);
       const maxCol = trs
         .map((tr) => tr.children.length)
-        .reduce((prev, cur) => Math.max(prev, cur), 0);
+        .reduce((p, c) => Math.max(p, c), 0);
 
-      const whole: Element = {
+      const jbomupli: Element = {
         type: 'element',
         tagName: 'div',
         properties: {
           class: ['jbomupli', className],
+          'aria-hidden': 'true',
         },
         children: [],
       };
@@ -183,8 +182,50 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
             children,
           });
         }
-        whole.children.push(col);
+        jbomupli.children.push(col);
       }
+
+      const stTexts: Element[] = trs
+        .map((tr) => {
+          const hast = toHast(tr, { allowDangerousHtml: true });
+
+          switch (hast.type) {
+            case 'comment':
+            case 'doctype':
+            case 'root': {
+              return emptyText;
+            }
+            case 'element': {
+              if (hast.tagName === 'td' || hast.tagName === 'th') {
+                return hast.children;
+              }
+              return hast;
+            }
+            case 'text':
+            case 'raw': {
+              return hast;
+            }
+          }
+        })
+        .flat(1)
+        .map((tr) => {
+          return {
+            type: 'element',
+            tagName: 'p',
+            properties: {
+              class: ['jbomupli-for-sr'],
+            },
+            children: [tr],
+          };
+        });
+
+      const whole: Element = {
+        type: 'element',
+        tagName: 'div',
+        properties: {},
+        children: [jbomupli, ...stTexts],
+      };
+
       return whole;
     });
   } else {

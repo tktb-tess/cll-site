@@ -27,52 +27,67 @@ interface Props {
 const { contents, class: className, isAside = false } = Astro.props;
 ---
 
-<ul class=`__toc ${className}` data-is-aside={isAside || null}>
-  {
-    contents.map((content) => (
-      <li>
-        <p>
-          <a href={content.url} title={content.text}>
-            {content.text}
-          </a>
-        </p>
-        {content.h3.length > 0 && (
-          <ul>
-            {content.h3.map((h3) => (
-              <li>
-                <p>
-                  <a href={h3.url} title={h3.text}>
-                    {h3.text}
-                  </a>
-                </p>
-                {h3.h4.length > 0 && (
-                  <ul>
-                    {h3.h4.map((h4) => (
-                      <li>
-                        <a href={h4.url} title={h4.text}>
-                          {h4.text}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </li>
-            ))}
-          </ul>
-        )}
-      </li>
-    ))
-  }
-</ul>
+<nav aria-label='Table of contents'>
+  <ul class=`__toc ${className}` data-is-aside={isAside || null}>
+    {
+      contents.map((content) => (
+        <li>
+          <p>
+            <a href={content.url} title={content.text}>
+              {content.text}
+            </a>
+          </p>
+          {content.h3.length > 0 && (
+            <ul>
+              {content.h3.map((h3) => (
+                <li>
+                  <p>
+                    <a href={h3.url} title={h3.text}>
+                      {h3.text}
+                    </a>
+                  </p>
+                  {h3.h4.length > 0 && (
+                    <ul>
+                      {h3.h4.map((h4) => (
+                        <li>
+                          <a href={h4.url} title={h4.text}>
+                            {h4.text}
+                          </a>
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))
+    }
+  </ul>
+</nav>
 
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
     .__toc[data-is-aside] {
-      @apply list-none ps-0 flex flex-col gap-2 mt-0 font-feat-tnum;
+      @apply ps-0 font-feat-tnum;
+
+      li {
+        @apply block;
+      }
 
       a {
-        @apply block ctext-text;
+        @apply ctext-text;
+      }
+
+      ul {
+        @apply ps-2;
+      }
+
+      &,
+      ul {
+        @apply flex flex-col gap-2 mt-0;
       }
     }
   }

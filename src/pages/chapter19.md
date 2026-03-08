@@ -391,8 +391,14 @@ The answer would be a simple number, another kind of non-bridi utterance:
 
 ##### Example 19.23.
 
-vomu
+:::jbomupli
+
+|             |
+| ----------- |
+| vomu        |
 | Forty-five. |
+
+:::
 
 Fill-in-the-blank questions may also be asked about: logical connectives (using cmavo *[ji](/glossary/?mode=exact&word=ji)* of A, *[ge'i](/glossary/?mode=exact&word=ge%27i)* of GA, *[gi'i](/glossary/?mode=exact&word=gi%27i)* of GIhA, *[gu'i](/glossary/?mode=exact&word=gu%27i)* of GUhA, or *[je'i](/glossary/?mode=exact&word=je%27i)* of JA, and receiving an ek, gihek, ijek, or ijoik as an answer) – see [Section 14.13](/chapter14/#1413-truth-questions-and-connective-questions "14.13. Truth questions and connective questions"); attitudes (using *[pei](/glossary/?mode=exact&word=pei)* of UI, and receiving an attitudinal as an answer) – see [Section 13.10](/chapter13/#1310-attitude-questions-empathy-attitude-contours "13.10. Attitude questions; empathy; attitude contours"); place structures (using *[fi'a](/glossary/?mode=exact&word=fi%27a)* of FA, and receiving a cmavo of FA as an answer) – see [Section 9.3](/chapter09/#93-tagging-places-fa "9.3. Tagging places: FA"); tenses and modals (using *[cu'e](/glossary/?mode=exact&word=cu%27e)* of CUhE, and receiving any tense or BAI cmavo as an answer) – see [Section 9.6](/chapter09/#96-modal-tags-bai "9.6. Modal tags: BAI") and [Chapter 10](/chapter10/ "Chapter 10. Imaginary Journeys: The Lojban Space/Time Tense System").
 

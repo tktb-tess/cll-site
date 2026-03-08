@@ -181,8 +181,8 @@ In Lojban, there are several structures that implicitly contain bridi, so that L
 
 :::
 
-It is not the case that I am happy about it not being the case that I am going to the dance.
-| I am not happy about not going to the dance.                                                 |
+It is not the case that I am happy about it not being the case that I am going to the dance.  
+I am not happy about not going to the dance.
 
 In the previous example, we used internal negations in abstraction bridi; bridi negation may also be found in descriptions within sumti. For example:
 

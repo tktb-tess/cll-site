@@ -91,8 +91,14 @@ without a pause after *[cy](/glossary/?mode=exact&word=cy)* would be interpreted
 
 ##### Example 17.5.
 
-micyclaxu
+:::jbomupli
+
+|                               |
+| ----------------------------- |
+| micyclaxu                     |
 | (Observative:)-doctor-without |
+
+:::
 
 Something unspecified is without a doctor.
 
@@ -232,8 +238,8 @@ Where no obvious closest counterpart exists, some more or less arbitrary choice 
 
 Shifts for several alphabets have been assigned cmavo of selma'o BY:
 
-|                          |                             |
-| ------------------------ | --------------------------- |
+|                                             |                             |
+| ------------------------------------------- | --------------------------- |
 | *[lo'a](/glossary/?mode=exact&word=lo%27a)* | Latin/Roman/Lojban alphabet |
 | *[ge'o](/glossary/?mode=exact&word=ge%27o)* | Greek alphabet              |
 | *[je'o](/glossary/?mode=exact&word=je%27o)* | Hebrew alphabet             |
@@ -757,41 +763,41 @@ For Latin-alphabet lerfu words, see [Section 17.2](/chapter17/#172-a-to-z-in-loj
 
 ## 17.16. Proposed lerfu words for the Greek alphabet
 
-|         |                 |                          |
-| ------- | --------------- | ------------------------ |
-| alpha   | *.alfas. bu*    | *[.abu](/glossary/?mode=exact&word=abu)* |
-| beta    | *.betas. bu*    | *[by](/glossary/?mode=exact&word=by)*    |
-| gamma   | *.gamas. bu*    | *[gy](/glossary/?mode=exact&word=gy)*    |
-| delta   | *.deltas. bu*   | *[dy](/glossary/?mode=exact&word=dy)*    |
-| epsilon | *.Epsilon. bu*  | *[.ebu](/glossary/?mode=exact&word=ebu)* |
-| zeta    | *.zetas. bu*    | *[zy](/glossary/?mode=exact&word=zy)*    |
-| eta     | *.etas. bu*     | *.e'ebu*                 |
-| theta   | *.tetas. bu*    | *ty. bu*                 |
-| iota    | *.iotas. bu*    | *[.ibu](/glossary/?mode=exact&word=ibu)* |
-| kappa   | *.kapas. bu*    | *[ky](/glossary/?mode=exact&word=ky)*    |
-| lambda  | *.lymdas. bu*   | *[ly](/glossary/?mode=exact&word=ly)*    |
-| mu      | *.mus. bu*      | *[my](/glossary/?mode=exact&word=my)*    |
-| nu      | *.nus. bu*      | *[ny](/glossary/?mode=exact&word=ny)*    |
-| xi      | *.ksis. bu*     | *ksis. bu*               |
-| omicron | *.Omikron. bu*  | *[.obu](/glossary/?mode=exact&word=obu)* |
-| pi      | *.pis. bu*      | *[py](/glossary/?mode=exact&word=py)*    |
-| rho     | *.ros. bu*      | *[ry](/glossary/?mode=exact&word=ry)*    |
-| sigma   | *.sigmas. bu*   | *[sy](/glossary/?mode=exact&word=sy)*    |
-| tau     | *.taus. bu*     | *[ty](/glossary/?mode=exact&word=ty)*    |
-| upsilon | *.Upsilon. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)* |
-| phi     | *.fis. bu*      | *py. bu*                 |
-| chi     | *.xis. bu*      | *ky. bu*                 |
-| psi     | *.psis. bu*     | *psis. bu*               |
-| omega   | *.omegas. bu*   | *.o'obu*                 |
-| rough   | *.dasei,as. bu* | *[.y'y](/glossary/?mode=exact&word=y%27y)*  |
-| smooth  | *.psiles. bu*   | *xutla bu*               |
+|         |                 |                                            |
+| ------- | --------------- | ------------------------------------------ |
+| alpha   | *.alfas. bu*    | *[.abu](/glossary/?mode=exact&word=abu)*   |
+| beta    | *.betas. bu*    | *[by](/glossary/?mode=exact&word=by)*      |
+| gamma   | *.gamas. bu*    | *[gy](/glossary/?mode=exact&word=gy)*      |
+| delta   | *.deltas. bu*   | *[dy](/glossary/?mode=exact&word=dy)*      |
+| epsilon | *.Epsilon. bu*  | *[.ebu](/glossary/?mode=exact&word=ebu)*   |
+| zeta    | *.zetas. bu*    | *[zy](/glossary/?mode=exact&word=zy)*      |
+| eta     | *.etas. bu*     | *.e'ebu*                                   |
+| theta   | *.tetas. bu*    | *ty. bu*                                   |
+| iota    | *.iotas. bu*    | *[.ibu](/glossary/?mode=exact&word=ibu)*   |
+| kappa   | *.kapas. bu*    | *[ky](/glossary/?mode=exact&word=ky)*      |
+| lambda  | *.lymdas. bu*   | *[ly](/glossary/?mode=exact&word=ly)*      |
+| mu      | *.mus. bu*      | *[my](/glossary/?mode=exact&word=my)*      |
+| nu      | *.nus. bu*      | *[ny](/glossary/?mode=exact&word=ny)*      |
+| xi      | *.ksis. bu*     | *ksis. bu*                                 |
+| omicron | *.Omikron. bu*  | *[.obu](/glossary/?mode=exact&word=obu)*   |
+| pi      | *.pis. bu*      | *[py](/glossary/?mode=exact&word=py)*      |
+| rho     | *.ros. bu*      | *[ry](/glossary/?mode=exact&word=ry)*      |
+| sigma   | *.sigmas. bu*   | *[sy](/glossary/?mode=exact&word=sy)*      |
+| tau     | *.taus. bu*     | *[ty](/glossary/?mode=exact&word=ty)*      |
+| upsilon | *.Upsilon. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)*   |
+| phi     | *.fis. bu*      | *py. bu*                                   |
+| chi     | *.xis. bu*      | *ky. bu*                                   |
+| psi     | *.psis. bu*     | *psis. bu*                                 |
+| omega   | *.omegas. bu*   | *.o'obu*                                   |
+| rough   | *.dasei,as. bu* | *[.y'y](/glossary/?mode=exact&word=y%27y)* |
+| smooth  | *.psiles. bu*   | *xutla bu*                                 |
 
 ## 17.17. Proposed lerfu words for the Cyrillic alphabet
 
 The second column in this listing is based on the historical names of the letters in Old Church Slavonic. Only those letters used in Russian are shown; other languages require more letters which can be devised as needed.
 
-|            |                  |                           |
-| ---------- | ---------------- | ------------------------- |
+|            |                  |                                           |
+| ---------- | ---------------- | ----------------------------------------- |
 | a          | *.azys. bu*      | *[.abu](/glossary/?mode=exact&word=abu)*  |
 | b          | *.bukys. bu*     | *[by](/glossary/?mode=exact&word=by)*     |
 | v          | *.vedis. bu*     | *[vy](/glossary/?mode=exact&word=vy)*     |
@@ -801,7 +807,7 @@ The second column in this listing is based on the historical names of the letter
 | zh         | *.jivet. bu*     | *[jy](/glossary/?mode=exact&word=jy)*     |
 | z          | *.zemlias. bu*   | *[zy](/glossary/?mode=exact&word=zy)*     |
 | i          | *.ije,is. bu*    | *[.ibu](/glossary/?mode=exact&word=ibu)*  |
-| short i    | *.itord. bu*     | *.itord. bu*              |
+| short i    | *.itord. bu*     | *.itord. bu*                              |
 | k          | *.kakos. bu*     | *[ky](/glossary/?mode=exact&word=ky)*     |
 | l          | *.liudi,ies. bu* | *[ly](/glossary/?mode=exact&word=ly)*     |
 | m          | *.myslites. bu*  | *[my](/glossary/?mode=exact&word=my)*     |
@@ -814,78 +820,78 @@ The second column in this listing is based on the historical names of the letter
 | u          | *.ukys. bu*      | *[.ubu](/glossary/?mode=exact&word=ubu)*  |
 | f          | *.friytys. bu*   | *[fy](/glossary/?mode=exact&word=fy)*     |
 | kh         | *.xerys. bu*     | *[xy](/glossary/?mode=exact&word=xy)*     |
-| ts         | *.tsis. bu*      | *tsys. bu*                |
-| ch         | *.tcriyviys. bu* | *tcys. bu*                |
+| ts         | *.tsis. bu*      | *tsys. bu*                                |
+| ch         | *.tcriyviys. bu* | *tcys. bu*                                |
 | sh         | *.cas. bu*       | *[cy](/glossary/?mode=exact&word=cy)*     |
-| shch       | *.ctas. bu*      | *ctcys. bu*               |
-| hard sign  | *.ier. bu*       | *jdari bu*                |
+| shch       | *.ctas. bu*      | *ctcys. bu*                               |
+| hard sign  | *.ier. bu*       | *jdari bu*                                |
 | yeri       | *.ierys. bu*     | *[.y.bu](/glossary/?mode=exact&word=ybu)* |
-| soft sign  | *.ieriys. bu*    | *ranti bu*                |
-| reversed e | *.ecarn. bu*     | *.ecarn. bu*              |
-| yu         | *.ius. bu*       | *.iubu*                   |
-| ya         | *.ias. bu*       | *.iabu*                   |
+| soft sign  | *.ieriys. bu*    | *ranti bu*                                |
+| reversed e | *.ecarn. bu*     | *.ecarn. bu*                              |
+| yu         | *.ius. bu*       | *.iubu*                                   |
+| ya         | *.ias. bu*       | *.iabu*                                   |
 
 ## 17.18. Proposed lerfu words for the Hebrew alphabet
 
-|          |                |                           |
-| -------- | -------------- | ------------------------- |
-| aleph    | *.alef. bu*    | *.alef. bu*               |
-| bet      | *.bet. bu*     | *[by](/glossary/?mode=exact&word=by)*     |
-| gimel    | *.gimel. bu*   | *[gy](/glossary/?mode=exact&word=gy)*     |
-| daled    | *.daled. bu*   | *[dy](/glossary/?mode=exact&word=dy)*     |
-| he       | *.xex. bu*     | *[.y'y](/glossary/?mode=exact&word=y%27y)*   |
-| vav      | *.vav. bu*     | *[vy](/glossary/?mode=exact&word=vy)*     |
-| zayin    | *.zai,in. bu*  | *[zy](/glossary/?mode=exact&word=zy)*     |
-| khet     | *.xet. bu*     | *xy. bu*                  |
-| tet      | *.tet. bu*     | *ty. bu*                  |
-| yud      | *.iud. bu*     | *.iud. bu*                |
-| kaf      | *.kaf. bu*     | *[ky](/glossary/?mode=exact&word=ky)*     |
-| lamed    | *.LYmed. bu*   | *[ly](/glossary/?mode=exact&word=ly)*     |
-| mem      | *.mem. bu*     | *[my](/glossary/?mode=exact&word=my)*     |
-| nun      | *.nun. bu*     | *[ny](/glossary/?mode=exact&word=ny)*     |
-| samekh   | *.samex. bu*   | *samex. bu*               |
-| ayin     | *.ai,in. bu*   | *.ai,in bu*               |
-| pe       | *.pex. bu*     | *[py](/glossary/?mode=exact&word=py)*     |
-| tzadi    | *.tsadik. bu*  | *tsadik. bu*              |
-| quf      | *.kuf. bu*     | *ky. bu*                  |
-| resh     | *.rec. bu*     | *[ry](/glossary/?mode=exact&word=ry)*     |
-| shin     | *.cin. bu*     | *[cy](/glossary/?mode=exact&word=cy)*     |
-| sin      | *.sin. bu*     | *[sy](/glossary/?mode=exact&word=sy)*     |
-| taf      | *.taf. bu*     | *[ty.](/glossary/?mode=exact&word=ty)*    |
-| dagesh   | *.daGEC. bu*   | *daGEC. bu*               |
-| hiriq    | *.xirik. bu*   | *[.ibu](/glossary/?mode=exact&word=ibu)*  |
-| tzeirekh | *.tseirex. bu* | *.eibu*                   |
-| segol    | *.seGOL. bu*   | *[.ebu](/glossary/?mode=exact&word=ebu)*  |
-| qubbutz  | *.kubuts. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)*  |
-| qamatz   | *.kamats. bu*  | *[.abu](/glossary/?mode=exact&word=abu)*  |
-| patach   | *.patax. bu*   | *.a'abu*                  |
-| sheva    | *.cyVAS. bu*   | *[.y.bu](/glossary/?mode=exact&word=ybu)* |
-| kholem   | *.xolem. bu*   | *[.obu](/glossary/?mode=exact&word=obu)*  |
-| shuruq   | *.curuk. bu*   | *.u'ubu*                  |
+|          |                |                                            |
+| -------- | -------------- | ------------------------------------------ |
+| aleph    | *.alef. bu*    | *.alef. bu*                                |
+| bet      | *.bet. bu*     | *[by](/glossary/?mode=exact&word=by)*      |
+| gimel    | *.gimel. bu*   | *[gy](/glossary/?mode=exact&word=gy)*      |
+| daled    | *.daled. bu*   | *[dy](/glossary/?mode=exact&word=dy)*      |
+| he       | *.xex. bu*     | *[.y'y](/glossary/?mode=exact&word=y%27y)* |
+| vav      | *.vav. bu*     | *[vy](/glossary/?mode=exact&word=vy)*      |
+| zayin    | *.zai,in. bu*  | *[zy](/glossary/?mode=exact&word=zy)*      |
+| khet     | *.xet. bu*     | *xy. bu*                                   |
+| tet      | *.tet. bu*     | *ty. bu*                                   |
+| yud      | *.iud. bu*     | *.iud. bu*                                 |
+| kaf      | *.kaf. bu*     | *[ky](/glossary/?mode=exact&word=ky)*      |
+| lamed    | *.LYmed. bu*   | *[ly](/glossary/?mode=exact&word=ly)*      |
+| mem      | *.mem. bu*     | *[my](/glossary/?mode=exact&word=my)*      |
+| nun      | *.nun. bu*     | *[ny](/glossary/?mode=exact&word=ny)*      |
+| samekh   | *.samex. bu*   | *samex. bu*                                |
+| ayin     | *.ai,in. bu*   | *.ai,in bu*                                |
+| pe       | *.pex. bu*     | *[py](/glossary/?mode=exact&word=py)*      |
+| tzadi    | *.tsadik. bu*  | *tsadik. bu*                               |
+| quf      | *.kuf. bu*     | *ky. bu*                                   |
+| resh     | *.rec. bu*     | *[ry](/glossary/?mode=exact&word=ry)*      |
+| shin     | *.cin. bu*     | *[cy](/glossary/?mode=exact&word=cy)*      |
+| sin      | *.sin. bu*     | *[sy](/glossary/?mode=exact&word=sy)*      |
+| taf      | *.taf. bu*     | *[ty.](/glossary/?mode=exact&word=ty)*     |
+| dagesh   | *.daGEC. bu*   | *daGEC. bu*                                |
+| hiriq    | *.xirik. bu*   | *[.ibu](/glossary/?mode=exact&word=ibu)*   |
+| tzeirekh | *.tseirex. bu* | *.eibu*                                    |
+| segol    | *.seGOL. bu*   | *[.ebu](/glossary/?mode=exact&word=ebu)*   |
+| qubbutz  | *.kubuts. bu*  | *[.ubu](/glossary/?mode=exact&word=ubu)*   |
+| qamatz   | *.kamats. bu*  | *[.abu](/glossary/?mode=exact&word=abu)*   |
+| patach   | *.patax. bu*   | *.a'abu*                                   |
+| sheva    | *.cyVAS. bu*   | *[.y.bu](/glossary/?mode=exact&word=ybu)*  |
+| kholem   | *.xolem. bu*   | *[.obu](/glossary/?mode=exact&word=obu)*   |
+| shuruq   | *.curuk. bu*   | *.u'ubu*                                   |
 
 ## 17.19. Proposed lerfu words for some accent marks and multiple letters
 
 This list is intended to be suggestive, not complete: there are lerfu such as Polish “dark” l and Maltese h-bar that do not yet have symbols.
 
-|                    |                                                                                               |
-| ------------------ | --------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                     |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | acute              | *.akut. bu* or *.pritygal. bu* \[*[pritu](/glossary/?mode=exact&word=%2A%5Bpritu) [galtu](/glossary/?mode=exact&word=galtu)*\]      |
 | grave              | *.grav. bu* or *.zulgal. bu* \[*[zunle](/glossary/?mode=exact&word=%2A%5Bzunle) [galtu](/glossary/?mode=exact&word=galtu)*\]        |
 | circumflex         | *.cirkumfleks. bu* or *.midgal. bu* \[*[midju](/glossary/?mode=exact&word=%2A%5Bmidju) [galtu](/glossary/?mode=exact&word=galtu)*\] |
-| tilde              | *.tildes. bu*                                                                                 |
-| macron             | *.makron. bu*                                                                                 |
-| breve              | *.brevis. bu*                                                                                 |
+| tilde              | *.tildes. bu*                                                                                                                       |
+| macron             | *.makron. bu*                                                                                                                       |
+| breve              | *.brevis. bu*                                                                                                                       |
 | over-dot           | *.gapmoc. bu* \[*[gapru](/glossary/?mode=exact&word=%2A%5Bgapru) [mokca](/glossary/?mode=exact&word=mokca)*\]                       |
 | umlaut/trema       | *.relmoc. bu* \[*[re](/glossary/?mode=exact&word=%2A%5Bre) [mokca](/glossary/?mode=exact&word=mokca)*\]                             |
 | over-ring          | *.gapyjin. bu* \[*[gapru](/glossary/?mode=exact&word=%2A%5Bgapru) [djine](/glossary/?mode=exact&word=djine)*\]                      |
-| cedilla            | *.seDIlys. bu*                                                                                |
-| double-acute       | *.re'akut. bu \[re akut.\]*                                                                   |
-| ogonek             | *.ogoniek. bu*                                                                                |
-| hacek              | *.xatcek. bu*                                                                                 |
-| ligatured fi       | *tei fy. ibu foi*                                                                             |
-| Danish/Latin ae ae | *tei .abu .ebu foi*                                                                           |
-| Dutch ij           | *tei .ibu jy. foi*                                                                            |
-| German es-zed      | *tei sy. zy. foi*                                                                             |
+| cedilla            | *.seDIlys. bu*                                                                                                                      |
+| double-acute       | *.re'akut. bu \[re akut.\]*                                                                                                         |
+| ogonek             | *.ogoniek. bu*                                                                                                                      |
+| hacek              | *.xatcek. bu*                                                                                                                       |
+| ligatured fi       | *tei fy. ibu foi*                                                                                                                   |
+| Danish/Latin ae ae | *tei .abu .ebu foi*                                                                                                                 |
+| Dutch ij           | *tei .ibu jy. foi*                                                                                                                  |
+| German es-zed      | *tei sy. zy. foi*                                                                                                                   |
 
 ## 17.20. Proposed lerfu words for radio communication
 
