@@ -15,9 +15,9 @@
   });
 </script>
 
-<section class="__results" aria-labelledby="search-results">
-  <h2 id="search-results">Search Results</h2>
-  <p id="match-num">{foundText}</p>
+<section class="results" aria-labelledby="search-results">
+  <h2 class="search-results">Search Results</h2>
+  <p class="match-num">{foundText}</p>
   {#each results as result}
     <div>
       <h4>{result.word}</h4>
@@ -33,14 +33,18 @@
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
-    .__results {
+    .results {
       @apply flow-root;
 
-      > :where(#search-results, #match-num) {
+      > .match-num {
         @apply text-center;
       }
 
-      :where(ul) {
+      > .search-results {
+        @apply text-center px-2 w-fit max-w-full mx-auto;
+      }
+
+      ul {
         @apply mt-2;
       }
     }

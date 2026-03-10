@@ -261,7 +261,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-1 text-balance font-feat-tnum;
+    @apply text-3xl border-b cborder-border ps-1 pb-0.5 text-balance font-feat-tnum;
   }
 
   h3 {
