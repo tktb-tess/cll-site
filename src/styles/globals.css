@@ -189,6 +189,12 @@
   transition-behavior: allow-discrete;
 }
 
+@utility btn-theme-1 {
+  @apply px-2 border-2 rounded cborder-accent ctext-accent
+  hover-focus:bg-black/15 hover-focus:dark:bg-white/15
+    transition-colors;
+}
+
 @layer base {
   :root {
     @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans antialiased;
