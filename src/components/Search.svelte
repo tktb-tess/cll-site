@@ -151,18 +151,14 @@
       @apply flex justify-center-safe gap-3 flex-wrap;
 
       > label {
-        @apply grid cursor-pointer min-w-0;
-
-        > * {
-          @apply block col-span-full row-span-full;
-        }
+        @apply cursor-pointer min-w-0;
 
         > input {
-          @apply appearance-none;
+          @apply block appearance-none sr-only outline-none;
         }
 
         > span {
-          @apply btn-theme-1;
+          @apply block btn-theme-1 focus-visible:outline outline-black;
         }
       }
 
