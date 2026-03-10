@@ -43,6 +43,8 @@
   --color-d-link: var(--color-sky-400);
   --color-link-disabled: hsl(0 0 0 / 60%);
   --color-d-link-disabled: hsl(0 0 100 / 60%);
+  --color-caution: var(--color-red-600);
+  --color-d-caution: var(--color-yellow-400);
 
   --grad-accent: linear-gradient(
     to bottom in oklch,

@@ -13,6 +13,36 @@
   let searchWord = $state('');
   let searchMode = $state<SearchMode>('forward');
 
+  const resultPromise = $derived.by(async () => {
+    if (!searchWord) return null;
+    const sm = searchMode;
+    const sw = searchWord;
+
+    const { default: json } = await import('../assets/glossary.json');
+
+    return json.filter((w) => {
+      switch (sm) {
+        case 'forward': {
+          const wo = w.word.slice(0, sw.length);
+          return sw === wo;
+        }
+        case 'backward': {
+          const wo = w.word.slice(-sw.length);
+          return sw === wo;
+        }
+        case 'exact': {
+          return sw === w.word;
+        }
+        case 'partial': {
+          return w.word.includes(sw);
+        }
+        default: {
+          const _: never = sm;
+        }
+      }
+    });
+  });
+
   onMount(() => {
     const url = new URL(document.URL);
     const mode = url.searchParams.get('mode');
@@ -20,19 +50,24 @@
     const word = url.searchParams.get('word');
     if (word) searchWord = word;
   });
+
+  $effect(() => {
+    resultPromise.catch((e) => console.log(e));
+  });
 </script>
 
 <section aria-labelledby="search" class="search-input">
   <h3 id="search">Search</h3>
-  <form action="/glossary/" class="search-form">
-    <label for="search-text">Input:</label>
+  <form action="/glossary/" method="get" class="search-form">
+    <label for="search-text">Input</label>
     <input type="text" id="search-text" name="word" value={searchWord} />
-    <span>Match:</span>
+    <span>Match</span>
     <div class="match-btns">
       <label>
         <input
           type="radio"
           name="mode"
+          value="forward"
           defaultChecked={searchMode === 'forward'}
         />
         <span>forward</span>
@@ -41,6 +76,7 @@
         <input
           type="radio"
           name="mode"
+          value="backward"
           defaultChecked={searchMode === 'backward'}
         />
         <span>backward</span>
@@ -49,6 +85,7 @@
         <input
           type="radio"
           name="mode"
+          value="exact"
           defaultChecked={searchMode === 'exact'}
         />
         <span>exact</span>
@@ -57,14 +94,27 @@
         <input
           type="radio"
           name="mode"
+          value="partial"
           defaultChecked={searchMode === 'partial'}
         />
         <span>partial</span>
       </label>
     </div>
-    <button type="submit">Search</button>
+    <div class="search-btn">
+      <button type="submit">Search</button>
+    </div>
   </form>
 </section>
+
+{#await resultPromise}
+  <p class="text-center text-2xl">Loading……</p>
+{:then results}
+  {#if results}
+    <ShowResult {results} />
+  {/if}
+{:catch}
+  <p class="ctext-caution">Something went wrong</p>
+{/await}
 
 <style lang="postcss">
   @reference '../styles/globals.css';
@@ -80,7 +130,7 @@
     .search-form {
       @apply grid gap-2 w-full max-lg:grid-cols-1 lg:grid-cols-[auto_1fr];
 
-      > :nth-child(odd) {
+      > :is(:first-child, :nth-child(3)) {
         @apply self-center max-lg:justify-self-center-safe lg:justify-self-end-safe;
       }
 
@@ -88,8 +138,12 @@
         @apply min-w-0;
       }
 
-      > button {
-        @apply btn-theme-1;
+      > .search-btn {
+        @apply col-span-full justify-self-center-safe;
+
+        > button {
+          @apply btn-theme-1;
+        }
       }
     }
 
