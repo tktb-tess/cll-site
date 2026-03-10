@@ -13,44 +13,33 @@
   let searchWord = $state('');
   let searchMode = $state<SearchMode>('forward');
 
-  const url = $derived.by(() => {
-    const url = new URL(document.URL);
-    url.searchParams.set('mode', searchMode);
-    if (searchWord) {
-      url.searchParams.set('word', searchWord);
-    } else {
-      url.searchParams.delete('word');
-    }
-    return url;
-  });
-
-  const results = $derived.by(() => {
+  const resultPromise = $derived.by(async () => {
     if (!searchWord) return null;
     const sm = searchMode;
     const sw = searchWord;
 
-    return import('../assets/glossary.json').then((i) => {
-      return i.default.filter((w) => {
-        switch (sm) {
-          case 'forward': {
-            const wo = w.word.slice(0, sw.length);
-            return sw === wo;
-          }
-          case 'backward': {
-            const wo = w.word.slice(-sw.length);
-            return sw === wo;
-          }
-          case 'exact': {
-            return sw === w.word;
-          }
-          case 'partial': {
-            return w.word.includes(sw);
-          }
-          default: {
-            const _: never = sm;
-          }
+    const { default: json } = await import('../assets/glossary.json');
+
+    return json.filter((w) => {
+      switch (sm) {
+        case 'forward': {
+          const wo = w.word.slice(0, sw.length);
+          return sw === wo;
         }
-      });
+        case 'backward': {
+          const wo = w.word.slice(-sw.length);
+          return sw === wo;
+        }
+        case 'exact': {
+          return sw === w.word;
+        }
+        case 'partial': {
+          return w.word.includes(sw);
+        }
+        default: {
+          const _: never = sm;
+        }
+      }
     });
   });
 
@@ -63,63 +52,69 @@
   });
 
   $effect(() => {
-    window.history.replaceState(null, '', url);
+    resultPromise.catch((e) => console.log(e));
   });
 </script>
 
 <section aria-labelledby="search" class="search-input">
   <h3 id="search">Search</h3>
-  <div class="search-form">
-    <label for="search-text">Input:</label>
-    <input type="text" id="search-text" bind:value={searchWord} />
-    <span>Match:</span>
+  <form action="/glossary/" method="get" class="search-form">
+    <label for="search-text">Input</label>
+    <input type="text" id="search-text" name="word" value={searchWord} />
+    <span>Match</span>
     <div class="match-btns">
       <label>
         <input
           type="radio"
-          name="search-mode"
-          onclick={() => (searchMode = 'forward')}
-          checked={searchMode === 'forward'}
+          name="mode"
+          value="forward"
+          defaultChecked={searchMode === 'forward'}
         />
         <span>forward</span>
       </label>
       <label>
         <input
           type="radio"
-          name="search-mode"
-          onclick={() => (searchMode = 'backward')}
-          checked={searchMode === 'backward'}
+          name="mode"
+          value="backward"
+          defaultChecked={searchMode === 'backward'}
         />
         <span>backward</span>
       </label>
       <label>
         <input
           type="radio"
-          name="search-mode"
-          onclick={() => (searchMode = 'exact')}
-          checked={searchMode === 'exact'}
+          name="mode"
+          value="exact"
+          defaultChecked={searchMode === 'exact'}
         />
         <span>exact</span>
       </label>
       <label>
         <input
           type="radio"
-          name="search-mode"
-          onclick={() => (searchMode = 'partial')}
-          checked={searchMode === 'partial'}
+          name="mode"
+          value="partial"
+          defaultChecked={searchMode === 'partial'}
         />
         <span>partial</span>
       </label>
     </div>
-  </div>
+    <div class="search-btn">
+      <button type="submit">Search</button>
+    </div>
+  </form>
 </section>
-{#if results}
-  {#await results}
-    <h3 class="text-center">wait a moment…</h3>
-  {:then res}
-    <ShowResult results={res} />
-  {/await}
-{/if}
+
+{#await resultPromise}
+  <p class="text-center text-2xl">Loading……</p>
+{:then results}
+  {#if results}
+    <ShowResult {results} />
+  {/if}
+{:catch}
+  <p class="ctext-caution">Something went wrong</p>
+{/await}
 
 <style lang="postcss">
   @reference '../styles/globals.css';
@@ -135,12 +130,20 @@
     .search-form {
       @apply grid gap-2 w-full max-lg:grid-cols-1 lg:grid-cols-[auto_1fr];
 
-      > :nth-child(odd) {
+      > :is(:first-child, :nth-child(3)) {
         @apply self-center max-lg:justify-self-center-safe lg:justify-self-end-safe;
       }
 
       > input {
         @apply min-w-0;
+      }
+
+      > .search-btn {
+        @apply col-span-full justify-self-center-safe;
+
+        > button {
+          @apply btn-theme-1;
+        }
       }
     }
 
@@ -159,9 +162,7 @@
         }
 
         > span {
-          @apply px-2 border-2 rounded cborder-accent ctext-accent
-          hover-focus:bg-black/15 hover-focus:dark:bg-white/15
-          transition-colors;
+          @apply btn-theme-1;
         }
       }
 

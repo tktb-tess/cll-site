@@ -43,6 +43,8 @@
   --color-d-link: var(--color-sky-400);
   --color-link-disabled: hsl(0 0 0 / 60%);
   --color-d-link-disabled: hsl(0 0 100 / 60%);
+  --color-caution: var(--color-red-600);
+  --color-d-caution: var(--color-yellow-400);
 
   --grad-accent: linear-gradient(
     to bottom in oklch,
@@ -156,7 +158,7 @@
 }
 
 @utility user-select-* {
-  user-select: --value('none', 'auto', 'text', 'all', 'inherit', 'initial');
+  user-select: --value('none', 'auto', 'text', 'all', [*]);
 }
 
 @utility cols-auto-fill-* {
@@ -189,6 +191,12 @@
   transition-behavior: allow-discrete;
 }
 
+@utility btn-theme-1 {
+  @apply px-2 border-2 rounded cborder-accent ctext-accent
+  hover-focus:bg-black/15 hover-focus:dark:bg-white/15
+    transition-colors;
+}
+
 @layer base {
   :root {
     @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans antialiased;
@@ -218,7 +226,8 @@
     @apply ctext-link-disabled pointer-events-none;
   }
 
-  button {
+  button,
+  input:where([type='button']) {
     @apply cursor-pointer;
   }
 
@@ -252,7 +261,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-1 text-balance font-feat-tnum;
+    @apply text-3xl border-b cborder-border ps-1 pb-0.5 text-balance font-feat-tnum;
   }
 
   h3 {
@@ -315,7 +324,11 @@
     }
 
     :where(td, th) {
-      @apply grid place-items-center-safe py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1);
+      @apply grid items-center-safe py-1 px-2 col-span-(--colspan,1) row-span-(--rowspan,1);
+    }
+
+    :where(th) {
+      @apply text-center;
     }
 
     :where(thead > tr:last-child > :is(td, th)) {

@@ -147,12 +147,11 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
         tagName: 'div',
         properties: {
           class: ['jbomupli', className],
-          'aria-hidden': 'true',
         },
         children: [],
       };
 
-      for (let i = 0; i < maxCol; i++) {
+      for (let j = 0; j < maxCol; j++) {
         const col: Element = {
           type: 'element',
           tagName: 'div',
@@ -160,16 +159,16 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
           children: [],
         };
 
-        for (const [j, tr] of trs.entries()) {
-          const cont = tr.children.at(i)?.children ?? [];
+        for (const [i, tr] of trs.entries()) {
+          const cont = tr.children.at(j)?.children ?? [];
           const children = cont.map(phrasingToHast);
 
           const isJbo =
             langPosition.findIndex((pos) => {
               if (typeof pos === 'number') {
-                return pos === j;
+                return pos === i;
               } else {
-                pos[0] === j && pos[1] === i;
+                pos[0] === i && pos[1] === j;
               }
             }) > -1;
 
@@ -208,12 +207,21 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
           }
         })
         .flat(1)
-        .map((tr) => {
+        .map((tr, i) => {
+          const isJbo =
+            langPosition.findIndex((pos) => {
+              if (typeof pos === 'number') {
+                return pos === i;
+              }
+
+              return false;
+            }) > -1;
           return {
             type: 'element',
             tagName: 'p',
             properties: {
               class: ['jbomupli-for-sr'],
+              lang: isJbo ? 'jbo' : undefined,
             },
             children: [tr],
           };

@@ -50,17 +50,17 @@ interface Props {}
     }
 
     .__arrow {
-      @apply size-2 border-l-2 border-t-2 cborder-text-inv transition-transform ease-in-out-1;
-      transform: translateY(2px) rotateZ(45deg);
+      @apply size-2 border-l-2 border-t-2 cborder-text-inv transition-transform ease-in-out-1 rotate-45;
+      translate: 0 2px;
 
-      @media (hover-focus: hover) {
+      @media (any-hover: hover) {
         :where(#to-top-btn):hover & {
-          transform: translateY(0px) rotateZ(45deg);
+          translate: 0 0;
         }
       }
 
       :where(#to-top-btn):focus-visible & {
-        transform: translateY(0px) rotateZ(45deg);
+        translate: 0 0;
       }
     }
   }
