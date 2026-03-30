@@ -25,7 +25,7 @@ const { url } = Astro.props;
   @reference '../styles/globals.css';
   @layer components {
     #drawer {
-      @apply w-min-side me-auto cbg-side p-2 gap-2 flex-col *:my-0;
+      @apply inline-min-side me-auto bg-side p-2 gap-2 flex-col *:my-0;
       scrollbar-width: thin;
       scrollbar-gutter: stable;
 
@@ -51,7 +51,7 @@ const { url } = Astro.props;
     }
 
     #drawer-title {
-      @apply pb-0 ps-2 ms-1 text-3xl border-b-0 border-l-2 leading-none;
+      @apply pbe-0 ps-2 ms-1 text-3xl border-b-0 border-l-2 leading-none;
     }
 
     .btn-wrapper {
@@ -60,12 +60,12 @@ const { url } = Astro.props;
 
     #drawer-close-btn {
       @apply grid place-items-center size-9 transition-colors
-      hover-focus:cbg-accent hover-focus:ctext-text-inv rounded leading-none;
+      hover-focus:bg-accent hover-focus:text-text-inv rounded leading-none;
 
       &::before,
       &::after {
         content: '';
-        @apply col-span-full row-span-full w-5 border-b border-current;
+        @apply col-span-full row-span-full inline-5 border-b border-current;
       }
 
       &::before {

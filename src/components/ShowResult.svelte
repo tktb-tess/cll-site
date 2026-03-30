@@ -41,11 +41,11 @@
       }
 
       > .search-results {
-        @apply text-center px-2 w-fit max-w-full mx-auto;
+        @apply text-center px-2 inline-fit max-inline-full mx-auto;
       }
 
       ul {
-        @apply mt-2;
+        @apply mbs-2;
       }
     }
   }

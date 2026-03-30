@@ -8,6 +8,7 @@ import remarkDirective from 'remark-directive';
 import { cdHandler, tableHandler, tdHandler } from './plugins/handlers';
 
 export default defineConfig({
+  output: 'static',
   vite: {
     plugins: [tailwindcss()],
   },

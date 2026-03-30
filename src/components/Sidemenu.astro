@@ -37,15 +37,15 @@ const { currentUrl, class: className } = Astro.props;
   @reference '../styles/globals.css';
   @layer components {
     ul {
-      @apply list-none ps-0 flex flex-col mt-0;
+      @apply list-none ps-0 flex flex-col mbs-0;
     }
     
     a {
-      @apply block no-underline ctext-text
-      hover-focus:cbg-accent hover-focus:ctext-text-inv px-3 py-1.5 transition-colors rounded;
+      @apply block no-underline text-text
+      hover-focus:bg-accent hover-focus:text-text-inv px-3 py-1.5 transition-colors rounded;
 
       &[aria-current="true"] {
-        @apply cbg-accent ctext-text-inv;
+        @apply bg-accent text-text-inv;
       }
     }
   }
