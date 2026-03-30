@@ -5,10 +5,10 @@ import MyHeader from '../layouts/MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import Sidemenu from '../components/Sidemenu.astro';
 import Search from '../components/Search.svelte';
-import data from '../assets/data.json';
+import pageData from '../assets/page_data';
 
-const url = '/glossary/';
-const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
+const url = Astro.originPathname;
+const title = pageData.get(url)?.title ?? '[NO DATA]';
 ---
 
 <!doctype html>
@@ -19,16 +19,16 @@ const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
       <MyHeader />
     </header>
     <Drawer {url} />
-    <aside class="__lside">
+    <aside class='__lside'>
       <div class='__sidebar-root'>
         <Sidemenu currentUrl={url} />
       </div>
     </aside>
     <main aria-label='The text'>
       <h1 id='title'>{title}</h1>
-      <Search client:only='svelte' />
+      <Search client:load />
     </main>
-    <aside class="__rside"></aside>
+    <aside class='__rside'></aside>
     <footer>
       <MyFooter />
     </footer>
@@ -39,7 +39,7 @@ const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
   @reference '../styles/globals.css';
   @layer components {
     body {
-      @apply flow-root lg:grid min-h-lvh;
+      @apply flow-root lg:grid min-block-lvh;
 
       grid-template-areas: 
         'h h h'
@@ -54,7 +54,7 @@ const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
     }
 
     header {
-      @apply h-header sticky top-0 z-(--z-header);
+      @apply block-header sticky inset-bs-0 z-header;
       grid-area: h;
     }
 
@@ -71,18 +71,18 @@ const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
     }
 
     .__sidebar-root {
-      @apply h-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
-      top-header z-(--z-sidebar) px-1 py-2;
+      @apply block-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
+      inset-bs-header z-sidebar px-1 py-2;
       scrollbar-width: thin;
     }
 
     main {
-      @apply flow-root cbg-bg px-4 pb-8 min-h-lvh;
+      @apply flow-root bg-main px-4 pbe-8 min-block-lvh;
       grid-area: m;
     }
 
     footer {
-      @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
+      @apply flex flex-col items-center *:min-inline-0 block-max px-2 py-1;
       grid-area: f;
     }
   }

@@ -113,14 +113,14 @@
     <ShowResult {results} />
   {/if}
 {:catch}
-  <p class="ctext-caution">Something went wrong</p>
+  <p class="text-caution">Something went wrong</p>
 {/await}
 
 <style lang="postcss">
   @reference '../styles/globals.css';
   @layer components {
     .search-input {
-      @apply flex flex-col gap-3 w-full max-w-120 mx-auto;
+      @apply flex flex-col gap-3 inline-full max-inline-120 mx-auto;
 
       > h3 {
         @apply text-center;
@@ -128,14 +128,14 @@
     }
 
     .search-form {
-      @apply grid gap-2 w-full max-lg:grid-cols-1 lg:grid-cols-[auto_1fr];
+      @apply grid gap-2 inline-full max-lg:grid-cols-1 lg:grid-cols-[auto_1fr];
 
       > :is(:first-child, :nth-child(3)) {
         @apply self-center max-lg:justify-self-center-safe lg:justify-self-end-safe;
       }
 
       > input {
-        @apply min-w-0;
+        @apply min-inline-0;
       }
 
       > .search-btn {
@@ -151,7 +151,7 @@
       @apply flex justify-center-safe gap-3 flex-wrap;
 
       > label {
-        @apply cursor-pointer min-w-0;
+        @apply cursor-pointer min-inline-0;
 
         > input {
           @apply block appearance-none sr-only outline-none;
@@ -163,7 +163,7 @@
       }
 
       label:has(input:checked) > span {
-        @apply cbg-accent ctext-text-inv;
+        @apply bg-accent text-text-inv;
       }
     }
   }

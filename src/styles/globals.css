@@ -23,58 +23,34 @@
     from var(--color-violet-800) l calc(c * 0.6) h
   );
 
-  --color-bg: #fff;
-  --color-d-bg: var(--color-violet-950-darker);
-  --color-side: var(--color-violet-50);
-  --color-d-side: var(--color-violet-950-grayish);
-  --color-accent: var(--color-violet-950-grayish);
-  --color-d-accent: var(--color-violet-50);
-  --color-accent-hover: color-mix(in oklch, var(--color-accent) 80%, #fff);
+  --color-main: Canvas;
+  --color-text: CanvasText;
+  --color-text-inv: Canvas;
+  --color-side: light-dark(
+    var(--color-violet-50),
+    var(--color-violet-950-grayish)
+  );
+  --color-accent: light-dark(
+    var(--color-violet-950-grayish),
+    var(--color-violet-50)
+  );
+  --color-l-accent-hover: color-mix(in oklch, var(--color-accent) 80%, #fff);
   --color-d-accent-hover: color-mix(in oklch, var(--color-d-accent) 80%, #000);
-  --color-border: hsl(0 0 0 / 25%);
-  --color-border-darker: hsl(0 0 0 / 40%);
-  --color-d-border: hsl(0 0 100 / 25%);
-  --color-d-border-darker: hsl(0 0 100 / 40%);
-  --color-text: #000;
-  --color-d-text: #fff;
-  --color-text-inv: #fff;
-  --color-d-text-inv: #000;
-  --color-link: var(--color-blue-700);
-  --color-d-link: var(--color-sky-400);
-  --color-link-disabled: hsl(0 0 0 / 60%);
-  --color-d-link-disabled: hsl(0 0 100 / 60%);
-  --color-caution: var(--color-red-600);
-  --color-d-caution: var(--color-yellow-400);
-
-  --grad-accent: linear-gradient(
-    to bottom in oklch,
-    var(--color-accent-s),
-    var(--color-accent-e)
+  --color-accent-hover: light-dark(
+    var(--color-l-accent-hover),
+    var(--color-d-accent-hover)
   );
-  --grad-d-accent: linear-gradient(
-    to bottom in oklch,
-    var(--color-d-accent-s),
-    var(--color-d-accent-e)
-  );
-  --grad-accent-2: linear-gradient(
-    to bottom in oklch,
-    var(--color-accent-2-s),
-    var(--color-accent-2-e)
-  );
-  --grad-d-accent-2: linear-gradient(
-    to bottom in oklch,
-    var(--color-d-accent-2-s),
-    var(--color-d-accent-2-e)
-  );
-
-  --grad-header: linear-gradient(
-    in oklch,
+  --color-border: light-dark(hsl(0 0 0 / 25%), hsl(0 0 100 / 25%));
+  --color-border-darker: light-dark(hsl(0 0 0 / 40%), hsl(0 0 100 / 40%));
+  --color-link: light-dark(var(--color-blue-700), #10ff10);
+  --color-link-disabled: light-dark(hsl(0 0 0 / 60%), hsl(0 0 100 / 60%));
+  --color-caution: light-dark(var(--color-red-600), var(--color-yellow-400));
+  --color-header-s: light-dark(
     transparent,
-    oklch(from var(--color-violet-700) l c h / 10%)
+    oklch(from var(--color-violet-400) l c h / 40%)
   );
-  --grad-d-header: linear-gradient(
-    in oklch,
-    oklch(from var(--color-violet-400) l c h / 40%),
+  --color-header-e: light-dark(
+    oklch(from var(--color-violet-700) l c h / 10%),
     transparent
   );
 
@@ -96,37 +72,6 @@
   --z-infty: calc(infinity);
   --z-header: 100;
   --z-sidebar: 0;
-}
-
-@utility cbg-* {
-  background-color: --value(--color-*);
-
-  @media (prefers-color-scheme: dark) {
-    background-color: --value(--color-d- *);
-  }
-}
-
-@utility gbg-* {
-  background-image: --value(--grad-*);
-  @media (prefers-color-scheme: dark) {
-    background-image: --value(--grad-d- *);
-  }
-}
-
-@utility ctext-* {
-  color: --value(--color-*);
-
-  @media (prefers-color-scheme: dark) {
-    color: --value(--color-d- *);
-  }
-}
-
-@utility cborder-* {
-  border-color: --value(--color-*);
-
-  @media (prefers-color-scheme: dark) {
-    border-color: --value(--color-d- *);
-  }
 }
 
 @custom-variant hover-focus {
@@ -192,14 +137,14 @@
 }
 
 @utility btn-theme-1 {
-  @apply px-2 border-2 rounded cborder-accent ctext-accent
+  @apply px-2 border-2 rounded border-accent text-accent
   hover-focus:bg-black/15 hover-focus:dark:bg-white/15
     transition-colors;
 }
 
 @layer base {
   :root {
-    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans antialiased;
+    @apply wrap-anywhere hyphens-auto max-sm:text-sm font-sans antialiased scheme-light-dark;
     -webkit-tap-highlight-color: revert;
     line-break: strict;
     scrollbar-gutter: stable;
@@ -207,7 +152,7 @@
 
   dialog,
   dialog::backdrop {
-    @apply size-[unset] max-w-[unset] max-h-[unset] inset-0 fixed overflow-auto;
+    @apply size-[unset] max-inline-[unset] max-block-[unset] inset-0 fixed overflow-auto;
   }
 
   :is(:root, body):where(:has(dialog[open])) {
@@ -215,15 +160,15 @@
   }
 
   body {
-    @apply cbg-side ctext-text;
+    @apply bg-side text-text;
   }
 
   a:where(:any-link:not([aria-disabled='true'])) {
-    @apply hover-focus:underline ctext-link;
+    @apply hover-focus:underline text-link;
   }
 
   a:where([aria-disabled='true']) {
-    @apply ctext-link-disabled pointer-events-none;
+    @apply text-link-disabled pointer-events-none;
   }
 
   button,
@@ -241,7 +186,7 @@
     [type='url']
   ),
   textarea {
-    @apply font-mono border cborder-border rounded px-1;
+    @apply font-mono border border-border rounded px-1;
   }
 
   pre,
@@ -251,17 +196,17 @@
 
   h1:where(#title) {
     @apply font-extralight text-4xl px-4 my-title text-balance 
-    border-s-3 cborder-border-darker;
+    border-s-3 border-border-darker;
   }
 
   h2,
   h3,
   h4 {
-    @apply ctext-accent font-normal;
+    @apply text-accent font-normal;
   }
 
   h2 {
-    @apply text-3xl border-b cborder-border ps-1 pb-0.5 text-balance font-feat-tnum;
+    @apply text-3xl border-b border-border ps-1 pbe-0.5 text-balance font-feat-tnum;
   }
 
   h3 {
@@ -277,11 +222,8 @@
     @apply text-base;
   }
 
-  p,
-  ul,
-  ol,
-  pre {
-    @apply mt-paragraph;
+  :not(li) > :where(p, ul, ol, pre) {
+    @apply mbs-paragraph;
   }
 
   h2,
@@ -289,7 +231,7 @@
   h4,
   h5,
   h6 {
-    @apply mt-heading scroll-mt-[calc(var(--spacing-header)+.5rem)];
+    @apply mbs-heading scroll-mbs-[calc(var(--spacing-header)+.5rem)];
   }
 
   h5,
@@ -306,7 +248,7 @@
   }
 
   img {
-    @apply mx-auto w-full max-w-max my-figure;
+    @apply mx-auto inline-full max-inline-max my-figure;
   }
 
   b,
@@ -316,7 +258,7 @@
   }
 
   table {
-    @apply grid w-max max-w-full me-auto my-figure overflow-auto;
+    @apply grid inline-max max-inline-full me-auto my-figure overflow-auto;
     grid-template-columns: repeat(var(--cols, 1), auto);
 
     :where(thead, tbody, tr) {
@@ -332,11 +274,11 @@
     }
 
     :where(thead > tr:last-child > :is(td, th)) {
-      @apply border-b-3 border-double cborder-border-darker;
+      @apply border-b-3 border-double border-border-darker;
     }
 
     :where(tr:not(:last-child) > :is(td, th)) {
-      @apply border-b cborder-border;
+      @apply border-b border-border;
     }
   }
 
@@ -348,16 +290,11 @@
     @apply list-decimal;
   }
 
-  ul,
-  ol {
+  :not(li) > :where(ul, ol) {
     @apply ps-7;
   }
 
-  li > :is(p, ul, ol) {
-    @apply mt-0;
-  }
-
-  li > :is(ul, ol) {
+  li > :where(ul, ol) {
     @apply ps-4;
   }
 
@@ -366,18 +303,18 @@
   }
 
   hr {
-    @apply my-paragraph cborder-border mx-auto w-full max-w-240;
+    @apply my-paragraph border-border mx-auto inline-full max-inline-240;
   }
 
   .jbomupli {
     @apply flex flex-wrap my-figure gap-y-8 px-0.5 py-1.5
-      cbg-side border cborder-border rounded;
+      bg-side border border-border rounded;
 
     > * {
-      @apply flex flex-col gap-1 min-w-0 border-e cborder-border flex-[0_1_auto] w-max;
+      @apply flex flex-col gap-1 min-inline-0 border-e border-border flex-[0_1_auto] inline-max;
 
       > * {
-        @apply min-w-0 min-h-lh m-0 px-3;
+        @apply min-inline-0 min-block-lh m-0 px-3;
       }
 
       > :lang(jbo) {

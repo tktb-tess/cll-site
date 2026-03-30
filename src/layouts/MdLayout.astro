@@ -132,7 +132,7 @@ const contents = getContents();
   @reference '../styles/globals.css';
   @layer components {
     body {
-      @apply flow-root lg:grid min-h-lvh;
+      @apply flow-root lg:grid min-block-lvh;
 
       grid-template-areas: 
         'h h h'
@@ -147,7 +147,7 @@ const contents = getContents();
     }
 
     .header {
-      @apply h-header sticky top-0 z-header;
+      @apply block-header sticky top-0 z-header;
       grid-area: h;
     }
 
@@ -164,18 +164,18 @@ const contents = getContents();
     }
 
     .sidebar-root {
-      @apply h-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
+      @apply block-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
       top-header z-sidebar px-1 py-2 overscroll-y-contain;
       scrollbar-width: thin;
     }
 
     .main {
-      @apply flow-root cbg-bg px-4 pb-8 min-h-lvh;
+      @apply flow-root bg-main px-4 pbe-8 min-block-lvh;
       grid-area: m;
     }
 
     .footer {
-      @apply flex flex-col items-center *:min-w-0 h-max px-2 py-1;
+      @apply flex flex-col items-center *:min-inline-0 block-max px-2 py-1;
       grid-area: f;
     }
   }
