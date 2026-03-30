@@ -1,5 +1,5 @@
-import type { PhrasingContent, Table } from 'mdast';
-import type { Element, ElementContent, Text } from 'hast';
+import type * as Mdast from 'mdast';
+import type * as Hast from 'hast';
 import type { ContainerDirective, TextDirective } from 'mdast-util-directive';
 import type { Handler } from 'mdast-util-to-hast';
 import { toHast } from 'mdast-util-to-hast';
@@ -15,12 +15,12 @@ export const langPositionSchema = v.pipe(
 
 export type LangPosition = v.InferOutput<typeof langPositionSchema>;
 
-const emptyText: Text = {
+const emptyText: Hast.Text = {
   type: 'text',
   value: '',
 };
 
-const ipaRender = (mdNode: TextDirective): Element => ({
+const ipaRender = (mdNode: TextDirective): Hast.Element => ({
   type: 'element',
   tagName: 'span',
   properties: {
@@ -29,41 +29,38 @@ const ipaRender = (mdNode: TextDirective): Element => ({
   children: mdNode.children.map(phrasingToHast),
 });
 
-const _tdHandler = (node: TextDirective): ElementContent => {
+const safeToHast = (tree: Mdast.Nodes) => {
+  const hast = toHast(tree, { allowDangerousHtml: true });
+
+  if (hast.type === 'root' || hast.type === 'doctype') {
+    return emptyText;
+  } else if (hast.type === 'element' && hast.tagName === 'script') {
+    return emptyText;
+  } else {
+    return hast;
+  }
+};
+
+const _tdHandler = (node: TextDirective): Hast.ElementContent => {
   if (node.name === 'ipa') {
     return ipaRender(node);
   } else {
-    const hast = toHast(node, { allowDangerousHtml: true });
-    if (hast.type === 'root' || hast.type === 'doctype') {
-      return emptyText;
-    } else if (hast.type === 'element' && hast.tagName === 'script') {
-      return emptyText;
-    } else {
-      return hast;
-    }
+    return safeToHast(node);
   }
 };
 
-const phrasingToHast = (mdNode: PhrasingContent): ElementContent => {
+const phrasingToHast = (mdNode: Mdast.PhrasingContent): Hast.ElementContent => {
   if (mdNode.type === 'textDirective') {
     return _tdHandler(mdNode);
   } else {
-    const hast = toHast(mdNode, { allowDangerousHtml: true });
-
-    if (hast.type === 'root' || hast.type === 'doctype') {
-      return emptyText;
-    } else if (hast.type === 'element' && hast.tagName === 'script') {
-      return emptyText;
-    } else {
-      return hast;
-    }
+    return safeToHast(mdNode);
   }
 };
 
-export const tableHandler: Handler = (_, node: Table) => {
+export const tableHandler: Handler = (_, node: Mdast.Table) => {
   const [head, ...body] = node.children;
   const ths = head.children.map(
-    (th): Element => ({
+    (th): Hast.Element => ({
       type: 'element',
       tagName: 'th',
       properties: {},
@@ -73,7 +70,7 @@ export const tableHandler: Handler = (_, node: Table) => {
 
   const cond = ths.some((th) => th.children.length > 0);
 
-  const thead: Element | null = cond
+  const thead: Hast.Element | null = cond
     ? {
         type: 'element',
         tagName: 'thead',
@@ -90,7 +87,7 @@ export const tableHandler: Handler = (_, node: Table) => {
     : null;
 
   const bodyTrs = body.map(
-    (row): Element => ({
+    (row): Hast.Element => ({
       type: 'element',
       tagName: 'tr',
       properties: {},
@@ -103,7 +100,7 @@ export const tableHandler: Handler = (_, node: Table) => {
     }),
   );
 
-  const tbody: Element = {
+  const tbody: Hast.Element = {
     type: 'element',
     tagName: 'tbody',
     properties: {},
@@ -114,7 +111,7 @@ export const tableHandler: Handler = (_, node: Table) => {
     .map((tr) => tr.children.length)
     .reduce((p, c) => Math.max(p, c), 1);
 
-  const table: Element = {
+  const table: Hast.Element = {
     type: 'element',
     tagName: 'table',
     properties: {
@@ -142,7 +139,7 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
         .map((tr) => tr.children.length)
         .reduce((p, c) => Math.max(p, c), 0);
 
-      const jbomupli: Element = {
+      const jbomupli: Hast.Element = {
         type: 'element',
         tagName: 'div',
         properties: {
@@ -152,7 +149,7 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
       };
 
       for (let j = 0; j < maxCol; j++) {
-        const col: Element = {
+        const col: Hast.Element = {
           type: 'element',
           tagName: 'div',
           properties: {},
@@ -184,7 +181,7 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
         jbomupli.children.push(col);
       }
 
-      const stTexts: Element[] = trs
+      const stTexts: Hast.Element[] = trs
         .map((tr) => {
           const hast = toHast(tr, { allowDangerousHtml: true });
 
@@ -227,7 +224,7 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
           };
         });
 
-      const whole: Element = {
+      const whole: Hast.Element = {
         type: 'element',
         tagName: 'div',
         properties: {},
