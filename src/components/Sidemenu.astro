@@ -1,12 +1,12 @@
 ---
-import data from '../assets/data.json';
+import pageData from '../assets/page_data';
 
 interface Props {
   readonly currentUrl: string;
   readonly class?: string;
 }
 
-const lis = data.map(({ title, longTitle, url }, i) => {
+const lis = [...pageData].map(([url, { title, longTitle }], i) => {
   const cond = i === 0;
   return {
     title: cond ? 'Home' : title,

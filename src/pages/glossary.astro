@@ -5,10 +5,10 @@ import MyHeader from '../layouts/MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import Sidemenu from '../components/Sidemenu.astro';
 import Search from '../components/Search.svelte';
-import data from '../assets/data.json';
+import pageData from '../assets/page_data';
 
-const url = '/glossary/';
-const title = data.find((d) => d.url === url)?.title ?? '[NO DATA]';
+const url = Astro.originPathname;
+const title = pageData.get(url)?.title ?? '[NO DATA]';
 ---
 
 <!doctype html>

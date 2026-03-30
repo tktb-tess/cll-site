@@ -3,18 +3,19 @@ import Head from '../layouts/Head.astro';
 import Toc, { type H2Content } from '../components/Toc.astro';
 import JboLogo from '../assets/JboLogo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
-import data from '../assets/data.json';
+import pageData from '../assets/page_data';
 import MyFooter from '../layouts/MyFooter.astro';
 
-const mds = data.slice(1).map((d): H2Content => {
+const mds = [...pageData].slice(1).map(([url, d]): H2Content => {
   return {
     text: d.longTitle ?? d.title,
-    url: d.url,
+    url,
     h3: [],
   };
 });
 
-const { title, url } = data[0];
+const url = Astro.originPathname;
+const title = pageData.get(url)?.title ?? '???';
 ---
 
 <!doctype html>
