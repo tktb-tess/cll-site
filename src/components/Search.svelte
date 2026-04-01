@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import ShowResult from './ShowResult.svelte';
+  import type { WordData } from '../modules/decl';
 
   type SearchMode = 'forward' | 'backward' | 'exact' | 'partial';
 
@@ -12,11 +13,10 @@
 
   let searchWord = $state('');
   let searchMode = $state<SearchMode>('forward');
+  let results: WordData[] | null = $state(null);
 
-  const resultPromise = $derived.by(async () => {
-    if (!searchWord) return null;
-    const sm = searchMode;
-    const sw = searchWord;
+  const searchWords = async (sw: string, sm: SearchMode) => {
+    if (!sw) return null;
 
     const { default: json } = await import('../assets/glossary.json');
 
@@ -41,18 +41,22 @@
         }
       }
     });
-  });
+  };
 
-  onMount(() => {
-    const url = new URL(document.URL);
-    const mode = url.searchParams.get('mode');
-    if (isMode(mode)) searchMode = mode;
-    const word = url.searchParams.get('word');
-    if (word) searchWord = word;
-  });
+  onMount(async () => {
+    const params = new URL(document.URL).searchParams;
+    const m = params.get('mode');
+    const w = params.get('word');
 
-  $effect(() => {
-    resultPromise.catch((e) => console.log(e));
+    if (w) searchWord = w;
+
+    if (isMode(m)) {
+      searchMode = m;
+    }
+
+    if (w && isMode(m)) {
+      results = await searchWords(w, m);
+    }
   });
 </script>
 
@@ -106,15 +110,9 @@
   </form>
 </section>
 
-{#await resultPromise}
-  <p class="text-center text-2xl">Loading……</p>
-{:then results}
-  {#if results}
-    <ShowResult {results} />
-  {/if}
-{:catch}
-  <p class="text-caution">Something went wrong</p>
-{/await}
+{#if results}
+  <ShowResult {results} />
+{/if}
 
 <style lang="postcss">
   @reference '../styles/globals.css';

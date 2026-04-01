@@ -32,6 +32,7 @@
 
 <style lang="postcss">
   @reference '../styles/globals.css';
+  
   @layer components {
     .results {
       @apply flow-root;
