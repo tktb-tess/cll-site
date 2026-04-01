@@ -1,0 +1,185 @@
+---
+
+---
+
+<section aria-labelledby='search' class='search-input'>
+  <h3 id='search'>Search</h3>
+  <form action='/glossary/' method='get' class='search-form'>
+    <label for='search-text'>Input</label>
+    <input type='text' id='search-text' name='word' value='' />
+    <span>Match</span>
+    <div class='match-btns'>
+      <label>
+        <input type='radio' name='mode' value='forward' id='match-forward' />
+        <span>forward</span>
+      </label>
+      <label>
+        <input type='radio' name='mode' value='backward' id='match-backward' />
+        <span>backward</span>
+      </label>
+      <label>
+        <input type='radio' name='mode' value='exact' id='match-exact' />
+        <span>exact</span>
+      </label>
+      <label>
+        <input type='radio' name='mode' value='partial' id='match-partial' />
+        <span>partial</span>
+      </label>
+    </div>
+    <div class='search-btn'>
+      <button type='submit'>Search</button>
+    </div>
+  </form>
+</section>
+
+<section id='results-root' class='results' aria-labelledby='results-title'>
+  <h2 class='results-title' id='results-title'>Search Results</h2>
+  <p class='match-num' id='match-num'></p>
+  <div id='result-words' class='result-words'></div>
+</section>
+
+<script>
+  import type { SearchMode } from '../modules/funcs';
+  import {
+    searchWords,
+    formatNumber,
+    isMode,
+    searchModes,
+  } from '../modules/funcs';
+
+  document.addEventListener('DOMContentLoaded', async () => {
+    const params = new URL(document.URL).searchParams;
+    const w = params.get('word');
+    const m = params.get('mode');
+    const searchText = document.getElementById('search-text');
+    const matchNum = document.getElementById('match-num');
+    const resultsRoot = document.getElementById('results-root');
+    if (
+      !(searchText instanceof HTMLInputElement) ||
+      !(matchNum instanceof HTMLParagraphElement) ||
+      !(resultsRoot instanceof HTMLElement)
+    ) {
+      throw TypeError('cannot get dom', {
+        cause: [searchText, matchNum, resultsRoot],
+      });
+    }
+
+    const getMatch = (mode: SearchMode) => {
+      const match = document.getElementById(`match-${mode}`);
+      if (!(match instanceof HTMLInputElement)) {
+        throw TypeError(`cannot get match-${mode}`, { cause: match });
+      }
+
+      return match;
+    };
+
+    const matches = {
+      forward: getMatch(searchModes[0]),
+      backward: getMatch(searchModes[1]),
+      exact: getMatch(searchModes[2]),
+      partial: getMatch(searchModes[3]),
+    } as const satisfies Record<SearchMode, HTMLInputElement>;
+
+    if (w) {
+      searchText.value = w;
+    }
+
+    if (isMode(m)) {
+      matches[m].checked = true;
+    } else {
+      matches.forward.checked = true;
+    }
+
+    if (!w || !isMode(m)) return;
+
+    resultsRoot.dataset.visible = '';
+    const results = await searchWords(w, m);
+    if (!results) return;
+    const numberText = formatNumber(results);
+    matchNum.textContent = numberText;
+    const entryDivs = results.map(({ word, contents }) => {
+      const woH4 = document.createElement('h4');
+      woH4.textContent = word;
+      const contentsLis = contents.map((con) => {
+        const conLi = document.createElement('li');
+        conLi.textContent = con;
+        return conLi;
+      });
+      const contentUl = document.createElement('ul');
+      contentUl.replaceChildren(...contentsLis);
+      const contentsDiv = document.createElement('div');
+      contentsDiv.replaceChildren(woH4, contentUl);
+      return contentsDiv;
+    });
+    resultsRoot.append(...entryDivs);
+  });
+</script>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+  @layer components {
+    .search-input {
+      @apply flex flex-col gap-3 inline-full max-inline-120 mx-auto;
+
+      > h3 {
+        @apply text-center;
+      }
+    }
+
+    .search-form {
+      @apply grid gap-2 inline-full max-lg:grid-cols-1 lg:grid-cols-[auto_1fr];
+
+      > :is(:first-child, :nth-child(3)) {
+        @apply self-center max-lg:justify-self-center-safe lg:justify-self-end-safe;
+      }
+
+      > input {
+        @apply min-inline-0;
+      }
+
+      > .search-btn {
+        @apply col-span-full justify-self-center-safe;
+
+        > button {
+          @apply btn-theme-1;
+        }
+      }
+    }
+
+    .match-btns {
+      @apply flex justify-center-safe gap-3 flex-wrap;
+
+      > label {
+        @apply cursor-pointer min-inline-0;
+
+        > input {
+          @apply block appearance-none sr-only outline-none;
+        }
+
+        > span {
+          @apply block btn-theme-1 focus-visible:outline outline-black;
+        }
+      }
+
+      label:has(input:checked) > span {
+        @apply bg-accent text-text-inv;
+      }
+    }
+
+    .results {
+      @apply hidden data-visible:flow-root;
+
+      > .match-num {
+        @apply text-center;
+      }
+
+      > .results-title {
+        @apply text-center px-2 inline-fit max-inline-full mx-auto;
+      }
+
+      ul {
+        @apply mbs-2;
+      }
+    }
+  }
+</style>

@@ -5,7 +5,7 @@ import MyFooter from '../layouts/MyFooter.astro';
 import MyHeader from '../layouts/MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import Sidemenu from '../components/Sidemenu.astro';
-import Search from '../components/Search.svelte';
+import Search from '../components/Search.astro';
 import pageData from '../assets/page_data';
 
 const url = Astro.originPathname;
@@ -27,7 +27,7 @@ const title = pageData.get(url)?.title ?? '[NO DATA]';
     </aside>
     <main aria-label='The text'>
       <h1 id='title'>{title}</h1>
-      <Search client:load />
+      <Search />
     </main>
     <aside class='__rside'></aside>
     <footer>
