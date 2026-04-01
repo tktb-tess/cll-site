@@ -8,9 +8,9 @@
   --font-ipa: var(--font-serif);
 
   --default-font-feature-settings:
-    'case', 'cv01', 'cv05', 'cv08', 'cv10', 'cv07', 'ss03';
+    'calt', 'cv01', 'cv05', 'cv08', 'cv10', 'cv07', 'ss03';
 
-  --feature-tnum: var(--default-font-feature-settings), 'tnum';
+  --features-tnum: var(--default-font-feature-settings), 'tnum';
 
   --color-violet-950-grayish: oklch(
     from var(--color-violet-950) l calc(c * 0.6) h
@@ -98,8 +98,8 @@
   z-index: --value(--z-*);
 }
 
-@utility font-feat-* {
-  font-feature-settings: --value(--feature-*, [*]);
+@utility font-features-* {
+  font-feature-settings: --value(--features-*, [*]);
 }
 
 @utility user-select-* {
@@ -206,7 +206,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b border-border ps-1 pbe-0.5 text-balance font-feat-tnum;
+    @apply text-3xl border-b border-border ps-1 pbe-0.5 text-balance font-features-tnum;
   }
 
   h3 {
