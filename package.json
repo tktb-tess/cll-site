@@ -13,9 +13,7 @@
     "preview": "astro preview",
     "build-preview": "astro build && astro preview",
     "astro": "astro",
-    "script": "tsx mod/script.ts",
-    "move": "mv .arc/out/* -t src/pages/",
-    "gen-pack": "astro build && pnpm pack --pack-destination pkg"
+    "pack-doc": "astro build && pnpm pack --out pkg/%s.tgz"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.2.2",
@@ -36,8 +34,5 @@
     "unified": "^11.0.5",
     "valibot": "^1.3.1"
   },
-  "packageManager": "pnpm@10.33.0",
-  "volta": {
-    "node": "24.13.0"
-  }
+  "packageManager": "pnpm@10.33.0"
 }
