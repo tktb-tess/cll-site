@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import remarkDirective from 'remark-directive';
-import { cdHandler, tableHandler, tdHandler } from './plugins/handlers';
+import * as H from './plugins/handlers';
 
 export default defineConfig({
   output: 'static',
@@ -20,9 +20,9 @@ export default defineConfig({
     rehypePlugins: [rehypeKatex],
     remarkRehype: {
       handlers: {
-        table: tableHandler,
-        containerDirective: cdHandler,
-        textDirective: tdHandler,
+        table: H.tableHandler,
+        containerDirective: H.cdHandler,
+        textDirective: H.tdHandler,
       },
     },
     smartypants: false,
