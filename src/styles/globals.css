@@ -34,8 +34,12 @@
     var(--color-violet-950-grayish),
     var(--color-violet-50)
   );
-  --color-l-accent-hover: color-mix(in oklch, var(--color-accent) 80%, #fff);
-  --color-d-accent-hover: color-mix(in oklch, var(--color-d-accent) 80%, #000);
+  --color-l-accent-hover: color-mix(
+    in oklch,
+    var(--color-violet-950-grayish) 60%,
+    #fff
+  );
+  --color-d-accent-hover: color-mix(in oklch, var(--color-violet-50) 60%, #000);
   --color-accent-hover: light-dark(
     var(--color-l-accent-hover),
     var(--color-d-accent-hover)

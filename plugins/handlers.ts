@@ -1,9 +1,9 @@
+import * as v from 'valibot';
+import { toHast, type Handler } from 'mdast-util-to-hast';
+import { h } from 'hastscript';
 import type * as Mdast from 'mdast';
 import type * as Hast from 'hast';
 import type { ContainerDirective, TextDirective } from 'mdast-util-directive';
-import type { Handler } from 'mdast-util-to-hast';
-import { toHast } from 'mdast-util-to-hast';
-import * as v from 'valibot';
 
 export const langPositionSchema = v.pipe(
   v.union([
@@ -20,14 +20,8 @@ const emptyText: Hast.Text = {
   value: '',
 };
 
-const ipaRender = (mdNode: TextDirective): Hast.Element => ({
-  type: 'element',
-  tagName: 'span',
-  properties: {
-    class: ['font-ipa'],
-  },
-  children: mdNode.children.map(phrasingToHast),
-});
+const ipaRender = (mdNode: TextDirective) =>
+  h('span.font-ipa', mdNode.children.map(phrasingToHast));
 
 const safeToHast = (tree: Mdast.Nodes) => {
   const hast = toHast(tree, { allowDangerousHtml: true });
@@ -59,66 +53,31 @@ const phrasingToHast = (mdNode: Mdast.PhrasingContent): Hast.ElementContent => {
 
 export const tableHandler: Handler = (_, node: Mdast.Table) => {
   const [head, ...body] = node.children;
-  const ths = head.children.map(
-    (th): Hast.Element => ({
-      type: 'element',
-      tagName: 'th',
-      properties: {},
-      children: th.children.map(phrasingToHast),
-    }),
+  const ths = head.children.map((th) =>
+    h('th', th.children.map(phrasingToHast)),
   );
 
   const cond = ths.some((th) => th.children.length > 0);
+  const thead = cond ? h('thead', h('tr', ths)) : null;
 
-  const thead: Hast.Element | null = cond
-    ? {
-        type: 'element',
-        tagName: 'thead',
-        properties: {},
-        children: [
-          {
-            type: 'element',
-            tagName: 'tr',
-            properties: {},
-            children: ths,
-          },
-        ],
-      }
-    : null;
+  const bodyTrs = body.map((row) => {
+    return h(
+      'tr',
+      row.children.map((td) => h('td', td.children.map(phrasingToHast))),
+    );
+  });
 
-  const bodyTrs = body.map(
-    (row): Hast.Element => ({
-      type: 'element',
-      tagName: 'tr',
-      properties: {},
-      children: row.children.map((td) => ({
-        type: 'element',
-        tagName: 'td',
-        properties: {},
-        children: td.children.map(phrasingToHast),
-      })),
-    }),
-  );
-
-  const tbody: Hast.Element = {
-    type: 'element',
-    tagName: 'tbody',
-    properties: {},
-    children: bodyTrs,
-  };
+  const tbody = h('tbody', bodyTrs);
 
   const cols = bodyTrs
     .map((tr) => tr.children.length)
     .reduce((p, c) => Math.max(p, c), 1);
 
-  const table: Hast.Element = {
-    type: 'element',
-    tagName: 'table',
-    properties: {
-      style: `--cols: ${cols};`,
-    },
-    children: thead ? [thead, tbody] : [tbody],
-  };
+  const table = h(
+    'table',
+    { style: `--cols: ${cols};` },
+    thead ? [thead, tbody] : tbody,
+  );
 
   return table;
 };
@@ -139,22 +98,10 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
         .map((tr) => tr.children.length)
         .reduce((p, c) => Math.max(p, c), 0);
 
-      const jbomupli: Hast.Element = {
-        type: 'element',
-        tagName: 'div',
-        properties: {
-          class: ['jbomupli', className],
-        },
-        children: [],
-      };
+      const jbomupli = h('div', { className: ['jbomupli', className] });
 
       for (let j = 0; j < maxCol; j++) {
-        const col: Hast.Element = {
-          type: 'element',
-          tagName: 'div',
-          properties: {},
-          children: [],
-        };
+        const col = h('div');
 
         for (const [i, tr] of trs.entries()) {
           const cont = tr.children.at(j)?.children ?? [];
@@ -169,19 +116,14 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
               }
             }) > -1;
 
-          col.children.push({
-            type: 'element',
-            tagName: 'p',
-            properties: {
-              lang: isJbo ? 'jbo' : undefined,
-            },
-            children,
-          });
+          col.children.push(
+            h('p', { lang: isJbo ? 'jbo' : undefined }, children),
+          );
         }
         jbomupli.children.push(col);
       }
 
-      const stTexts: Hast.Element[] = trs
+      const stTexts = trs
         .map((tr) => {
           const hast = toHast(tr, { allowDangerousHtml: true });
 
@@ -213,36 +155,18 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
 
               return false;
             }) > -1;
-          return {
-            type: 'element',
-            tagName: 'p',
-            properties: {
-              class: ['jbomupli-for-sr'],
-              lang: isJbo ? 'jbo' : undefined,
-            },
-            children: [tr],
-          };
+
+          return h(
+            'p.jbomupli-for-sr',
+            { lang: isJbo ? 'jbo' : undefined },
+            tr,
+          );
         });
 
-      const whole: Hast.Element = {
-        type: 'element',
-        tagName: 'div',
-        properties: {},
-        children: [jbomupli, ...stTexts],
-      };
-
-      return whole;
+      return h('div', [jbomupli, ...stTexts]);
     });
   } else {
-    const hast = toHast(node, { allowDangerousHtml: true });
-
-    if (hast.type === 'root' || hast.type === 'doctype') {
-      return emptyText;
-    } else if (hast.type === 'element' && hast.tagName === 'script') {
-      return emptyText;
-    } else {
-      return hast;
-    }
+    return safeToHast(node);
   }
 };
 

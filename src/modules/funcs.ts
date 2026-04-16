@@ -107,6 +107,7 @@ export const getImgData = async (path: string) => {
   const num = Number.parseInt(matched[1] ?? '');
   if (!Number.isFinite(num)) return null;
   const img = (await import(`../assets/${str}.gif`)).default as ImageMetadata;
+  // console.log(img);
 
   return { src: img, alt: `The picture for chapter ${num}` };
 };
