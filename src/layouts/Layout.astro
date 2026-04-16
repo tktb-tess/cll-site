@@ -1,116 +1,46 @@
 ---
 import '../styles/globals.css';
-import type { H2Content } from '../modules/decl';
 import Head from './Head.astro';
-import { Image } from 'astro:assets';
-import pageData from '../assets/page_data';
-import type { PageData } from '../assets/page_data';
 import Sidemenu from '../components/Sidemenu.astro';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import Toc from '../components/Toc.astro';
 import MyFooter from './MyFooter.astro';
 import MyHeader from './MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
+import type { H2Content } from '../modules/decl';
+import { getImgData } from '../modules/funcs';
+import { Image } from 'astro:assets';
+import fromMap, { type PageData } from '../assets/page_data';
 
 interface Props {
   readonly pageData?: PageData;
+  readonly contents?: H2Content[];
 }
 
-const { pageData } = Astro.props;
-const path = Astro.url.pathname;
-
-const imgData = await (async () => {
-  const str = url.match(/chapter(\d+)/)?.[1] ?? '';
-  const num = Number.parseInt(str);
-
-  if (!Number.isFinite(num)) return;
-  const nStr = num.toString().padStart(2, '0');
-  const img: ImageMetadata = (await import(`../assets/chapter${nStr}.gif`))
-    .default;
-  return { src: img, alt: `The picture for chapter ${num}` } as const;
-})();
-
-const shortTitle =
-  frontmatter.title.match(/Chapter\s\d+/u)?.[0] ?? frontmatter.title;
-
-const getContents = () => {
-  const contents: H2Content[] = [];
-  const filtered = headings.filter(({ depth }) => depth < 5);
-  for (const { depth, text, slug } of filtered) {
-    switch (depth) {
-      case 2: {
-        contents.push({
-          text: text,
-          url: `${url}#${slug}`,
-          h3: [],
-        });
-        break;
-      }
-      case 3: {
-        if (contents.length === 0) {
-          contents.push({
-            text: '',
-            url: '',
-            h3: [],
-          });
-        }
-        const last = contents.at(-1)!;
-        last.h3.push({
-          text: text,
-          url: `${url}#${slug}`,
-          h4: [],
-        });
-        break;
-      }
-      case 4: {
-        if (contents.length === 0) {
-          contents.push({
-            text: '',
-            url: '',
-            h3: [],
-          });
-        }
-        const h2last = contents.at(-1)!;
-        if (h2last.h3.length === 0) {
-          h2last.h3.push({
-            text: '',
-            url: '',
-            h4: [],
-          });
-        }
-        const last = h2last.h3.at(-1)!;
-        last.h4.push({
-          text,
-          url: `${url}#${slug}`,
-        });
-        break;
-      }
-      default: {
-        throw Error('Unexpected heading', { cause: { depth, text, slug } });
-      }
-    }
-  }
-  return contents;
-};
-
-const contents = getContents();
+const { pageData: pageData, contents } = Astro.props;
+const path = Astro.originPathname;
+const fallBack = fromMap.get(path) ?? { title: '[NO DATA]' };
+const title = pageData?.title ?? fallBack.title;
+const description = pageData?.description ?? fallBack.description;
+const longTitle = pageData?.longTitle ?? fallBack.longTitle;
+const imgData = await getImgData(path);
 ---
 
 <!doctype html>
 <html lang='en'>
-  <Head title={shortTitle} {url} description={frontmatter.description} />
+  <Head title={title} url={path} description={description ?? longTitle} />
   <body>
     <header class='header'>
       <MyHeader />
     </header>
     <aside class='lside'>
       <div class='sidebar-root'>
-        <Sidemenu currentUrl={url} />
+        <Sidemenu currentUrl={path} />
       </div>
     </aside>
-    <Drawer {url} />
+    <Drawer url={path} />
     <main class='main' aria-labelledby='title'>
-      <h1 id='title'>{frontmatter.title}</h1>
+      <h1 id='title'>{longTitle ?? title}</h1>
       {
         imgData && (
           <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
@@ -120,7 +50,7 @@ const contents = getContents();
     </main>
     <aside class='rside'>
       <div class='sidebar-root px-3'>
-        <Toc {contents} isAside />
+        {contents && <Toc {contents} isAside />}
       </div>
     </aside>
     <footer class='footer'>
@@ -132,6 +62,7 @@ const contents = getContents();
 
 <style lang="postcss">
   @reference '../styles/globals.css';
+
   @layer components {
     body {
       @apply flow-root lg:grid min-block-lvh;
@@ -162,7 +93,7 @@ const contents = getContents();
     }
 
     .lside, .rside {
-      @apply max-lg:hidden;
+      @apply max-lg:hidden lg:flow-root;
     }
 
     .sidebar-root {
@@ -172,7 +103,7 @@ const contents = getContents();
     }
 
     .main {
-      @apply flow-root bg-main px-4 pbe-8 min-block-lvh;
+      @apply flow-root bg-main px-4 pbe-36 min-block-lvh;
       grid-area: m;
     }
 
