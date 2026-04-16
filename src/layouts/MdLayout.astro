@@ -1,8 +1,8 @@
 ---
 import Layout from './Layout.astro';
-import { getContents } from '../modules/funcs';
 import type { MarkdownLayoutProps } from 'astro';
 import type { PageData } from '../assets/page_data';
+import { getContents } from '../modules/funcs';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
@@ -14,6 +14,7 @@ const path = Astro.originPathname;
 
 const shortTitle =
   frontmatter.title.match(/Chapter\s\d+/u)?.[0] ?? frontmatter.title;
+
 
 const contents = getContents(headings, path);
 

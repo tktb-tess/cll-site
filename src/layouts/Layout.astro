@@ -8,9 +8,9 @@ import MyFooter from './MyFooter.astro';
 import MyHeader from './MyHeader.astro';
 import Drawer from '../components/Drawer.astro';
 import type { H2Content } from '../modules/decl';
-import { getImgData } from '../modules/funcs';
 import { Image } from 'astro:assets';
 import fromMap, { type PageData } from '../assets/page_data';
+import { getImgData } from '../modules/funcs';
 
 interface Props {
   readonly pageData?: PageData;
@@ -23,6 +23,7 @@ const fallBack = fromMap.get(path) ?? { title: '[NO DATA]' };
 const title = pageData?.title ?? fallBack.title;
 const description = pageData?.description ?? fallBack.description;
 const longTitle = pageData?.longTitle ?? fallBack.longTitle;
+
 const imgData = await getImgData(path);
 ---
 

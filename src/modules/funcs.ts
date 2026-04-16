@@ -100,9 +100,11 @@ export const getContents = (headings: MarkdownHeading[], path: string) => {
 };
 
 export const getImgData = async (path: string) => {
-  const str = path.match(/chapter\d+/)?.[0];
+  const matched = path.match(/chapter(\d+)/);
+  if (!matched) return null;
+  const str = matched[0];
   if (!str) return null;
-  const num = Number.parseInt(str.match(/\d+/)?.[0] ?? '');
+  const num = Number.parseInt(matched[1] ?? '');
   if (!Number.isFinite(num)) return null;
   const img = (await import(`../assets/${str}.gif`)).default as ImageMetadata;
 
