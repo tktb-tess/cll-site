@@ -1,4 +1,6 @@
 ---
+import pgData from '../assets/page_data';
+
 interface Props {
   readonly title: string;
   readonly url: string;
@@ -6,10 +8,10 @@ interface Props {
 }
 
 const { title, description = title, url } = Astro.props;
-const baseUrl = `https://cll.tktb-tess.dev`;
-const linkCardUrl = new URL('/link_card.png', baseUrl).href;
-const pageUrl = new URL(url, baseUrl).href;
-const siteName = 'The Complete Lojban Language Viewer';
+const origin = `https://cll.tktb-tess.dev`;
+const linkCardUrl = new URL('/link_card.png', origin).href;
+const pageUrl = new URL(url, origin).href;
+const siteName = pgData.get('/')?.title;
 ---
 
 <meta name='description' content={description} />

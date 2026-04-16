@@ -1,13 +1,14 @@
 ---
 import '../styles/globals.css';
 import Head from '../layouts/Head.astro';
-import Toc, { type H2Content } from '../components/Toc.astro';
+import Toc from '../components/Toc.astro';
 import JboLogo from '../assets/JboLogo.svg';
 import ToTopBtn from '../components/ToTopBtn.astro';
 import pageData from '../assets/page_data';
 import MyFooter from '../layouts/MyFooter.astro';
+import type { H2Content } from '../modules/decl';
 
-const mds = [...pageData].slice(1).map(([url, d]): H2Content => {
+const contents = [...pageData].slice(1).map(([url, d]): H2Content => {
   return {
     text: d.longTitle ?? d.title,
     url,
@@ -16,7 +17,7 @@ const mds = [...pageData].slice(1).map(([url, d]): H2Content => {
 });
 
 const url = Astro.originPathname;
-const title = pageData.get(url)?.title ?? '???';
+const title = pageData.get(url)?.title ?? '[NO DATA]';
 ---
 
 <!doctype html>
@@ -32,7 +33,7 @@ const title = pageData.get(url)?.title ?? '???';
       <JboLogo
         class='max-inline-95 inline-full mx-auto my-figure [&_#path-1]:fill-[#00f] [&_#path-2]:fill-[#f00]'
       />
-      <Toc contents={mds} />
+      <Toc {contents} />
     </main>
     <footer>
       <MyFooter />

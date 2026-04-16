@@ -1,133 +1,33 @@
 ---
-import '../styles/globals.css';
+import Layout from './Layout.astro';
 import type { MarkdownLayoutProps } from 'astro';
-import type { H2Content } from '../components/Toc.astro';
-import Head from './Head.astro';
-import { Image } from 'astro:assets';
-import Sidemenu from '../components/Sidemenu.astro';
-import ToTopBtn from '../components/ToTopBtn.astro';
-import Toc from '../components/Toc.astro';
-import MyFooter from './MyFooter.astro';
-import MyHeader from './MyHeader.astro';
-import Drawer from '../components/Drawer.astro';
+import type { PageData } from '../assets/page_data';
+import { getContents } from '../modules/funcs';
 
 type Props = MarkdownLayoutProps<{
   readonly title: string;
   readonly description?: string;
 }>;
 
-const { frontmatter, headings, url = '/' } = Astro.props;
-
-const imgData = await (async () => {
-  const str = url.match(/chapter(\d+)/)?.[1] ?? '';
-  const num = Number.parseInt(str);
-
-  if (!Number.isFinite(num)) return;
-  const nStr = num.toString().padStart(2, '0');
-  const img: ImageMetadata = (await import(`../assets/chapter${nStr}.gif`))
-    .default;
-  return { src: img, alt: `The picture for chapter ${num}` } as const;
-})();
+const { frontmatter, headings } = Astro.props;
+const path = Astro.originPathname;
 
 const shortTitle =
   frontmatter.title.match(/Chapter\s\d+/u)?.[0] ?? frontmatter.title;
 
-const getContents = () => {
-  const contents: H2Content[] = [];
-  const filtered = headings.filter(({ depth }) => depth < 5);
-  for (const { depth, text, slug } of filtered) {
-    switch (depth) {
-      case 2: {
-        contents.push({
-          text: text,
-          url: `${url}#${slug}`,
-          h3: [],
-        });
-        break;
-      }
-      case 3: {
-        if (contents.length === 0) {
-          contents.push({
-            text: '',
-            url: '',
-            h3: [],
-          });
-        }
-        const last = contents.at(-1)!;
-        last.h3.push({
-          text: text,
-          url: `${url}#${slug}`,
-          h4: [],
-        });
-        break;
-      }
-      case 4: {
-        if (contents.length === 0) {
-          contents.push({
-            text: '',
-            url: '',
-            h3: [],
-          });
-        }
-        const h2last = contents.at(-1)!;
-        if (h2last.h3.length === 0) {
-          h2last.h3.push({
-            text: '',
-            url: '',
-            h4: [],
-          });
-        }
-        const last = h2last.h3.at(-1)!;
-        last.h4.push({
-          text,
-          url: `${url}#${slug}`,
-        });
-        break;
-      }
-      default: {
-        throw Error('Unexpected heading', { cause: { depth, text, slug } });
-      }
-    }
-  }
-  return contents;
-};
 
-const contents = getContents();
+const contents = getContents(headings, path);
+
+const pageData = {
+  title: shortTitle,
+  longTitle: frontmatter.title,
+  description: frontmatter.description,
+} satisfies PageData;
 ---
 
-<!doctype html>
-<html lang='en'>
-  <Head title={shortTitle} {url} description={frontmatter.description} />
-  <body>
-    <header class='header'>
-      <MyHeader />
-    </header>
-    <aside class='lside'>
-      <div class='sidebar-root'>
-        <Sidemenu currentUrl={url} />
-      </div>
-    </aside>
-    <Drawer {url} />
-    <main class='main' aria-labelledby='title'>
-      <h1 id='title'>{frontmatter.title}</h1>
-      {
-        imgData && (
-          <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
-        )
-      }
-      <slot />
-    </main>
-    <aside class='rside'>
-      <div class='sidebar-root px-3'>
-        <Toc {contents} isAside />
-      </div>
-    </aside>
-    <footer class='footer'>
-      <MyFooter />
-    </footer>
-    <ToTopBtn />
-  </body>
-</html>
+<Layout {pageData} {contents}>
+  <slot />
+</Layout>
 
 <style lang="postcss">
   @reference '../styles/globals.css';

@@ -15,6 +15,9 @@ export default defineConfig({
     port: 8000,
   },
   trailingSlash: 'always',
+  build: {
+    inlineStylesheets: 'never',
+  },
   markdown: {
     remarkPlugins: [remarkMath, remarkDirective],
     rehypePlugins: [rehypeKatex],

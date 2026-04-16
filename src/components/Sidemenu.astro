@@ -6,14 +6,15 @@ interface Props {
   readonly class?: string;
 }
 
-const lis = [...pageData].map(([url, { title, longTitle }], i) => {
-  const cond = i === 0;
-  return {
-    title: cond ? 'Home' : title,
-    url: url,
-    long: cond ? 'Home' : (longTitle ?? title),
-  };
-});
+const lis = [...pageData]
+  .filter((_, i) => i !== 0)
+  .map(([url, { title, longTitle }]) => {
+    return {
+      title,
+      url: url,
+      long: longTitle ?? title,
+    };
+  });
 
 const { currentUrl, class: className } = Astro.props;
 ---

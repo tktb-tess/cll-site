@@ -1,0 +1,116 @@
+---
+import '../styles/globals.css';
+import Head from './Head.astro';
+import Sidemenu from '../components/Sidemenu.astro';
+import ToTopBtn from '../components/ToTopBtn.astro';
+import Toc from '../components/Toc.astro';
+import MyFooter from './MyFooter.astro';
+import MyHeader from './MyHeader.astro';
+import Drawer from '../components/Drawer.astro';
+import type { H2Content } from '../modules/decl';
+import { Image } from 'astro:assets';
+import fromMap, { type PageData } from '../assets/page_data';
+import { getImgData } from '../modules/funcs';
+
+interface Props {
+  readonly pageData?: PageData;
+  readonly contents?: H2Content[];
+}
+
+const { pageData: pageData, contents } = Astro.props;
+const path = Astro.originPathname;
+const fallBack = fromMap.get(path) ?? { title: '[NO DATA]' };
+const title = pageData?.title ?? fallBack.title;
+const description = pageData?.description ?? fallBack.description;
+const longTitle = pageData?.longTitle ?? fallBack.longTitle;
+
+const imgData = await getImgData(path);
+---
+
+<!doctype html>
+<html lang='en'>
+  <Head title={title} url={path} description={description ?? longTitle} />
+  <body>
+    <header class='header'>
+      <MyHeader />
+    </header>
+    <aside class='lside'>
+      <div class='sidebar-root'>
+        <Sidemenu currentUrl={path} />
+      </div>
+    </aside>
+    <Drawer url={path} />
+    <main class='main' aria-labelledby='title'>
+      <h1 id='title'>{longTitle ?? title}</h1>
+      {
+        imgData && (
+          <Image id='top-picture' src={imgData.src} alt={imgData.alt} />
+        )
+      }
+      <slot />
+    </main>
+    <aside class='rside'>
+      <div class='sidebar-root px-3'>
+        {contents && <Toc {contents} isAside />}
+      </div>
+    </aside>
+    <footer class='footer'>
+      <MyFooter />
+    </footer>
+    <ToTopBtn />
+  </body>
+</html>
+
+<style lang="postcss">
+  @reference '../styles/globals.css';
+
+  @layer components {
+    body {
+      @apply flow-root lg:grid min-block-lvh;
+
+      grid-template-areas: 
+        'h h h'
+        'l m r'
+        'f f f';
+
+      grid-template-columns:
+        minmax(min(var(--spacing-min-side), 50%), 1fr)
+        minmax(0, var(--spacing-max-main))
+        minmax(min(var(--spacing-min-side), 50%), 1fr);
+      grid-template-rows: auto 1fr auto;
+    }
+
+    .header {
+      @apply block-header sticky top-0 z-header;
+      grid-area: h;
+    }
+
+    .lside {
+      grid-area: l;
+    }
+
+    .rside {
+      grid-area: r;
+    }
+
+    .lside, .rside {
+      @apply max-lg:hidden lg:flow-root;
+    }
+
+    .sidebar-root {
+      @apply block-[calc(100lvh-var(--spacing-header))] overflow-y-auto sticky 
+      top-header z-sidebar px-1 py-2 overscroll-y-contain;
+      scrollbar-width: thin;
+    }
+
+    .main {
+      @apply flow-root bg-main px-4 pbe-36 min-block-lvh;
+      grid-area: m;
+    }
+
+    .footer {
+      @apply flex flex-col items-center *:min-inline-0 block-max px-2 py-1;
+      grid-area: f;
+    }
+  }
+</style>

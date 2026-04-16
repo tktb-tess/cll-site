@@ -39,13 +39,8 @@
 </section>
 
 <script>
-  import type { SearchMode } from '../modules/funcs';
-  import {
-    searchWords,
-    formatNumber,
-    isMode,
-    searchModes,
-  } from '../modules/funcs';
+  import { type SearchMode, isMode, searchModes } from '../modules/decl';
+  import { searchWords, formatNumber } from '../modules/funcs';
 
   document.addEventListener('DOMContentLoaded', async () => {
     const params = new URL(document.URL).searchParams;
@@ -54,13 +49,19 @@
     const searchText = document.getElementById('search-text');
     const matchNum = document.getElementById('match-num');
     const resultsRoot = document.getElementById('results-root');
-    if (
-      !(searchText instanceof HTMLInputElement) ||
-      !(matchNum instanceof HTMLParagraphElement) ||
-      !(resultsRoot instanceof HTMLElement)
-    ) {
+
+    const cond =
+      searchText instanceof HTMLInputElement &&
+      matchNum instanceof HTMLParagraphElement &&
+      resultsRoot instanceof HTMLElement;
+
+    if (!cond) {
       throw TypeError('cannot get dom', {
-        cause: [searchText, matchNum, resultsRoot],
+        cause: {
+          searchText,
+          matchNum,
+          resultsRoot,
+        },
       });
     }
 
@@ -94,23 +95,31 @@
 
     resultsRoot.dataset.visible = '';
     const results = await searchWords(w, m);
+
     if (!results) return;
+
     const numberText = formatNumber(results);
     matchNum.textContent = numberText;
+
     const entryDivs = results.map(({ word, contents }) => {
       const woH4 = document.createElement('h4');
       woH4.textContent = word;
+
       const contentsLis = contents.map((con) => {
         const conLi = document.createElement('li');
         conLi.textContent = con;
         return conLi;
       });
+
       const contentUl = document.createElement('ul');
       contentUl.replaceChildren(...contentsLis);
+
       const contentsDiv = document.createElement('div');
       contentsDiv.replaceChildren(woH4, contentUl);
+
       return contentsDiv;
     });
+
     resultsRoot.append(...entryDivs);
   });
 </script>

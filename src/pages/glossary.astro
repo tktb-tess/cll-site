@@ -1,40 +1,11 @@
 ---
-import '../styles/globals.css';
-import Head from '../layouts/Head.astro';
-import MyFooter from '../layouts/MyFooter.astro';
-import MyHeader from '../layouts/MyHeader.astro';
-import Drawer from '../components/Drawer.astro';
-import Sidemenu from '../components/Sidemenu.astro';
+import Layout from '../layouts/Layout.astro';
 import Search from '../components/Search.astro';
-import pageData from '../assets/page_data';
-
-const url = Astro.originPathname;
-const title = pageData.get(url)?.title ?? '[NO DATA]';
 ---
 
-<!doctype html>
-<html lang='en'>
-  <Head {url} {title} />
-  <body>
-    <header>
-      <MyHeader />
-    </header>
-    <Drawer {url} />
-    <aside class='__lside'>
-      <div class='__sidebar-root'>
-        <Sidemenu currentUrl={url} />
-      </div>
-    </aside>
-    <main aria-label='The text'>
-      <h1 id='title'>{title}</h1>
-      <Search />
-    </main>
-    <aside class='__rside'></aside>
-    <footer>
-      <MyFooter />
-    </footer>
-  </body>
-</html>
+<Layout>
+  <Search />
+</Layout>
 
 <style lang="postcss">
   @reference '../styles/globals.css';

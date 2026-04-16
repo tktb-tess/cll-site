@@ -60,8 +60,8 @@
   --spacing-heading: 2.5rem;
   --spacing-figure: 2rem;
   --spacing-title: 2.5rem;
-  --spacing-min-side: 16rem;
-  --spacing-max-main: 80rem;
+  --spacing-min-side: 14rem;
+  --spacing-max-main: 72rem;
   --spacing-header: 3rem;
 
   --default-transition-timing-function: cubic-bezier(0.25, 0, 0.1, 1);
@@ -156,7 +156,7 @@
   }
 
   :is(:root, body):where(:has(dialog[open])) {
-    @apply overflow-y-clip;
+    @apply overflow-y-hidden;
   }
 
   body {
@@ -206,7 +206,7 @@
   }
 
   h2 {
-    @apply text-3xl border-b border-border ps-1 pbe-0.5 text-balance font-features-tnum;
+    @apply text-3xl border-be border-border ps-1 pbe-0.5 text-balance font-features-tnum;
   }
 
   h3 {
@@ -278,7 +278,7 @@
     }
 
     :where(tr:not(:last-child) > :is(td, th)) {
-      @apply border-b border-border;
+      @apply border-be border-border;
     }
   }
 
@@ -327,7 +327,7 @@
     @apply sr-only!;
   }
 
-  td:has(.katex) {
-    @apply overflow-clip;
+  table:has(.katex) {
+    @apply py-2;
   }
 }
