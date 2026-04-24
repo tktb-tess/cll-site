@@ -155,8 +155,23 @@
   }
 
   dialog,
+  dialog::backdrop,
+  [popover] {
+    @apply size-[unset] max-inline-[unset] max-block-[unset] fixed overflow-auto;
+  }
+
+  dialog,
+  [popover] {
+    @apply inset-[unset] overscroll-y-contain;
+  }
+
   dialog::backdrop {
-    @apply size-[unset] max-inline-[unset] max-block-[unset] inset-0 fixed overflow-auto;
+    @apply inset-0;
+  }
+
+  dialog:where(:not([open], [popover])),
+  [popover]:where(:not(:popover-open)) {
+    @apply hidden!;
   }
 
   :is(:root, body):where(:has(dialog[open])) {
@@ -295,11 +310,11 @@
   }
 
   :not(li) > :where(ul, ol) {
-    @apply ps-7;
+    @apply ms-7;
   }
 
   li > :where(ul, ol) {
-    @apply ps-4;
+    @apply ms-4;
   }
 
   blockquote {

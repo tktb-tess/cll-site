@@ -53,6 +53,7 @@ const phrasingToHast = (mdNode: Mdast.PhrasingContent): Hast.ElementContent => {
 
 export const tableHandler: Handler = (_, node: Mdast.Table) => {
   const [head, ...body] = node.children;
+  if (!head) throw TypeError('unexpected');
   const ths = head.children.map((th) =>
     h('th', th.children.map(phrasingToHast)),
   );
@@ -91,7 +92,9 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
       const p = JSON.parse(j);
       return v.parse(langPositionSchema, p);
     })();
+
     const className = node.attributes?.class ?? '';
+
     return tables.map((table) => {
       const trs = table.children.slice(1);
       const maxCol = trs
@@ -112,7 +115,7 @@ export const cdHandler: Handler = (_, node: ContainerDirective) => {
               if (typeof pos === 'number') {
                 return pos === i;
               } else {
-                pos[0] === i && pos[1] === j;
+                return pos[0] === i && pos[1] === j;
               }
             }) > -1;
 
