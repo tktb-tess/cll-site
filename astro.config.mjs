@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import { unified } from '@astrojs/markdown-remark';
 import tailwindcss from '@tailwindcss/vite';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
@@ -19,15 +20,17 @@ export default defineConfig({
     inlineStylesheets: 'never',
   },
   markdown: {
-    remarkPlugins: [remarkMath, remarkDirective],
-    rehypePlugins: [rehypeKatex],
-    remarkRehype: {
-      handlers: {
-        table: H.tableHandler,
-        containerDirective: H.cdHandler,
-        textDirective: H.tdHandler,
+    processor: unified({
+      remarkPlugins: [remarkMath, remarkDirective],
+      rehypePlugins: [rehypeKatex],
+      remarkRehype: {
+        handlers: {
+          table: H.tableHandler,
+          containerDirective: H.cdHandler,
+          textDirective: H.tdHandler,
+        },
       },
-    },
-    smartypants: false,
+      smartypants: false,
+    }),
   },
 });
