@@ -37,8 +37,10 @@
     "valibot": "^1.5.0"
   },
   "devEngines": {
-    "name": "pnpm",
-    "version": "12.15.0",
-    "onFail": "download"
+    "packageManager": {
+      "name": "pnpm",
+      "version": "12.15.0",
+      "onFail": "download"
+    }
   }
 }
